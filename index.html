@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="manifest" href="manifest.webmanifest" />
+<title>FishDex — species checklist</title>
+
+<!-- iOS install hints -->
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-title" content="FishDex" />
+<link rel="apple-touch-icon" href="icon-192.png" />
+
+<style>
+  :root { --accent:#0a7; --border:#e5e5e5; --bg:#fff; --text:#111; }
+  *{ box-sizing:border-box; }
+  body{ margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Helvetica,Arial,sans-serif; color:var(--text); background:var(--bg); }
+  header{ position:sticky; top:0; background:#fff; border-bottom:1px solid var(--border); padding:12px 16px; z-index:10; }
+  h1{ margin:0; font-size:20px; }
+  .counts{ font-size:12px; color:#666; margin-top:4px; }
+  .wrap{ padding:12px 16px 80px; max-width:720px; margin:0 auto; }
+  .bar{ display:flex; gap:8px; margin:10px 0 6px; }
+  input[type="text"]{ flex:1; padding:10px 12px; border:1px solid var(--border); border-radius:10px; }
+  button{ padding:10px 12px; border:1px solid var(--border); background:#fff; border-radius:10px; cursor:pointer; }
+  button.primary{ background:var(--accent); color:#fff; border:none; }
+  .chip{ font-size:12px; padding:6px 8px; border-radius:999px; border:1px solid var(--border); cursor:pointer; user-select:none; }
+  .chip.active{ background:var(--accent); color:#fff; border-color:var(--accent); }
+  ul{ list-style:none; padding:0; margin:12px 0; }
+  li{ display:flex; align-items:center; gap:10px; padding:10px 8px; border-bottom:1px solid var(--border); }
+  li:last-child{ border-bottom:none; }
+  .sp{ flex:1; }
+  .muted{ color:#777; font-size:12px; }
+  .row{ display:flex; gap:8px; }
+  .footer{ position:fixed; bottom:0; left:0; right:0; background:#fff; border-top:1px solid var(--border); padding:10px 16px; display:flex; gap:8px; align-items:center; justify-content:flex-start; flex-wrap:wrap; }
+  .small{ font-size:12px; }
+  .danger{ color:#b00020; }
+</style>
+</head>
+<body>
+<header>
+  <h1>FishDex</h1>
+  <div class="counts"><span id="caughtCount">0</span> caught • <span id="totalCount">0</span> total</div>
+  <div class="bar">
+    <input id="search" type="text" placeholder="Search species…" />
+    <button id="addBtn" class="primary" aria-label="Add species">Add</button>
+  </div>
+  <div class="row">
+    <div id="filterAll" class="chip active">All</div>
+    <div id="filterUncaught" class="chip">Uncaught</div>
+    <div id="filterCaught" class="chip">Caught</div>
+  </div>
+</header>
+
+<div class="wrap">
+  <ul id="list"></ul>
+</div>
+
+<footer class="footer">
+  <button id="exportBtn">Export</button>
+  <button id="importBtn">Import</button>
+  <button id="resetBtn" class="danger">Reset</button>
+  <span class="small muted">Offline • Data stays on this device</span>
+</footer>
+
+<script>
+  // -------- storage --------
+  const KEY = 'fishdex.v1';
+  const load = () => JSON.parse(localStorage.getItem(KEY) || '[]');
+  const save = (data) => localStorage.setItem(KEY, JSON.stringify(data));
+
+  // Default starter list (edit to your taste)
+  const defaults = ["Largemouth Bass","Smallmouth Bass","Northern Pike","Muskellunge","Walleye","Rainbow Trout","Brown Trout","Brook Trout","Bluegill","Crappie","Channel Catfish","Flathead Catfish","Common Carp","Striped Bass","Red Drum","Snook","Tarpon","Bonefish","Permit","Mahi-mahi","Black Sea Bass","Fluke (Summer Flounder)","Sheepshead"];
+
+  let state = load();
+  if (state.length === 0) {
+    state = defaults.map(n => ({ name:n, caught:false }));
+    save(state);
+  }
+
+  // -------- UI refs --------
+  const listEl = document.getElementById('list');
+  const caughtCountEl = document.getElementById('caughtCount');
+  const totalCountEl = document.getElementById('totalCount');
+  const searchEl = document.getElementById('search');
+  const addBtn = document.getElementById('addBtn');
+  const exportBtn = document.getElementById('exportBtn');
+  const importBtn = document.getElementById('importBtn');
+  const resetBtn = document.getElementById('resetBtn');
+  const chipAll = document.getElementById('filterAll');
+  const chipUncaught = document.getElementById('filterUncaught');
+  const chipCaught = document.getElementById('filterCaught');
+
+  let filter = 'all'; // 'all'|'caught'|'uncaught'
+  let query = '';
+
+  function updateCounts() {
+    const total = state.length;
+    const caught = state.filter(s => s.caught).length;
+    totalCountEl.textContent = total;
+    caughtCountEl.textContent = caught;
+  }
+
+  function render() {
+    const q = query.trim().toLowerCase();
+    const filtered = state.filter(s => {
+      if (filter === 'caught' && !s.caught) return false;
+      if (filter === 'uncaught' && s.caught) return false;
+      if (q && !s.name.toLowerCase().includes(q)) return false;
+      return true;
+    });
+
+    listEl.innerHTML = '';
+    filtered.forEach((s) => {
+      const li = document.createElement('li');
+
+      const cb = document.createElement('input');
+      cb.type = 'checkbox';
+      cb.checked = s.caught;
+      cb.addEventListener('change', () => {
+        s.caught = cb.checked;
+        save(state);
+        updateCounts();
+        render();
+      });
+
+      const sp = document.createElement('div');
+      sp.className = 'sp';
+      sp.innerHTML = `<div>${s.name}</div><div class="muted">${s.caught ? 'Caught' : 'Not caught'}</div>`;
+
+      const edit = document.createElement('button');
+      edit.textContent = 'Edit';
+      edit.addEventListener('click', () => {
+        const newName = prompt('Rename species:', s.name);
+        if (newName && newName.trim()) {
+          s.name = newName.trim();
+          save(state);
+          render();
+        }
+      });
+
+      const del = document.createElement('button');
+      del.textContent = 'Delete';
+      del.addEventListener('click', () => {
+        if (confirm(`Delete "${s.name}"?`)) {
+          state = state.filter(x => x !== s);
+          save(state);
+          updateCounts();
+          render();
+        }
+      });
+
+      li.appendChild(cb);
+      li.appendChild(sp);
+      li.appendChild(edit);
+      li.appendChild(del);
+      listEl.appendChild(li);
+    });
+
+    updateCounts();
+  }
+
+  // add species
+  addBtn.addEventListener('click', () => {
+    const name = prompt('Add species name:');
+    if (!name) return;
+    const trimmed = name.trim();
+    if (!trimmed) return;
+    state.push({ name: trimmed, caught: false });
+    save(state);
+    searchEl.value = '';
+    query = '';
+    setFilter('all');
+    render();
+  });
+
+  // search
+  searchEl.addEventListener('input', (e) => {
+    query = e.target.value;
+    render();
+  });
+
+  // filter chips
+  function setFilter(f) {
+    filter = f;
+    [chipAll, chipUncaught, chipCaught].forEach(ch => ch.classList.remove('active'));
+    if (f === 'all') chipAll.classList.add('active');
+    if (f === 'uncaught') chipUncaught.classList.add('active');
+    if (f === 'caught') chipCaught.classList.add('active');
+    render();
+  }
+  chipAll.addEventListener('click', () => setFilter('all'));
+  chipUncaught.addEventListener('click', () => setFilter('uncaught'));
+  chipCaught.addEventListener('click', () => setFilter('caught'));
+
+  // export
+  exportBtn.addEventListener('click', () => {
+    const data = JSON.stringify(state, null, 2);
+    const blob = new Blob([data], {type:'application/json'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = 'fishdex.json'; a.click();
+    URL.revokeObjectURL(url);
+  });
+
+  // import
+  importBtn.addEventListener('click', () => {
+    const inp = document.createElement('input');
+    inp.type = 'file'; inp.accept = 'application/json';
+    inp.onchange = async () => {
+      const file = inp.files?.[0]; if (!file) return;
+      try {
+        const text = await file.text();
+        const parsed = JSON.parse(text);
+        if (Array.isArray(parsed) && parsed.every(x => typeof x.name === 'string' && typeof x.caught === 'boolean')) {
+          state = parsed; save(state); render();
+        } else { alert('Invalid file format. Expect an array of {name, caught}.'); }
+      } catch { alert('Could not read file.'); }
+    };
+    inp.click();
+  });
+
+  // reset
+  resetBtn.addEventListener('click', () => {
+    if (confirm('Reset your FishDex? This clears the list and restores defaults.')) {
+      state = defaults.map(n => ({ name:n, caught:false }));
+      save(state);
+      render();
+    }
+  });
+
+  // service worker for offline
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js');
+    });
+  }
+
+  render();
+</script>
+</body>
+</html>

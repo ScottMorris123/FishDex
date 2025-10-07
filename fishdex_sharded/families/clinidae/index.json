@@ -1,0 +1,137 @@
+{
+  "Family": "Clinidae",
+  "Order": "Blenniiformes",
+  "Common": "Clinids",
+  "Genera": [
+    {
+      "Genus": "Blennioclinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/clinidae/blennioclinus.json"
+    },
+    {
+      "Genus": "Blennophis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/clinidae/blennophis.json"
+    },
+    {
+      "Genus": "Cancelloxus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/clinidae/cancelloxus.json"
+    },
+    {
+      "Genus": "Cirrhibarbis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/cirrhibarbis.json"
+    },
+    {
+      "Genus": "Climacoporus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/climacoporus.json"
+    },
+    {
+      "Genus": "Clinitrachus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/clinitrachus.json"
+    },
+    {
+      "Genus": "Clinoporus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/clinoporus.json"
+    },
+    {
+      "Genus": "Clinus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/clinidae/clinus.json"
+    },
+    {
+      "Genus": "Cologrammus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/cologrammus.json"
+    },
+    {
+      "Genus": "Cristiceps",
+      "SpeciesCount": 3,
+      "genus_path": "genera/clinidae/cristiceps.json"
+    },
+    {
+      "Genus": "Ericentrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/ericentrus.json"
+    },
+    {
+      "Genus": "Fucomimus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/fucomimus.json"
+    },
+    {
+      "Genus": "Gibbonsia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/clinidae/gibbonsia.json"
+    },
+    {
+      "Genus": "Heteroclinus",
+      "SpeciesCount": 16,
+      "genus_path": "genera/clinidae/heteroclinus.json"
+    },
+    {
+      "Genus": "Heterostichus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/heterostichus.json"
+    },
+    {
+      "Genus": "Muraenoclinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/muraenoclinus.json"
+    },
+    {
+      "Genus": "Myxodes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/clinidae/myxodes.json"
+    },
+    {
+      "Genus": "Ophiclinops",
+      "SpeciesCount": 3,
+      "genus_path": "genera/clinidae/ophiclinops.json"
+    },
+    {
+      "Genus": "Ophiclinus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/clinidae/ophiclinus.json"
+    },
+    {
+      "Genus": "Pavoclinus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/clinidae/pavoclinus.json"
+    },
+    {
+      "Genus": "Peronedys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/peronedys.json"
+    },
+    {
+      "Genus": "Ribeiroclinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/ribeiroclinus.json"
+    },
+    {
+      "Genus": "Smithichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clinidae/smithichthys.json"
+    },
+    {
+      "Genus": "Springeratus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/clinidae/springeratus.json"
+    },
+    {
+      "Genus": "Sticharium",
+      "SpeciesCount": 2,
+      "genus_path": "genera/clinidae/sticharium.json"
+    },
+    {
+      "Genus": "Xenopoclinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/clinidae/xenopoclinus.json"
+    }
+  ]
+}

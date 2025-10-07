@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Choridactylus lineatus",
+    "SpecCode": "26988",
+    "CommonName": "Lined stingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choridactylus multibarbus",
+    "SpecCode": "6387",
+    "CommonName": "Depu-kala jingga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choridactylus natalensis",
+    "SpecCode": "16867",
+    "CommonName": "Driestok-steekvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choridactylus striatus",
+    "SpecCode": "58166",
+    "CommonName": "条纹多指鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

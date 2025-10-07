@@ -1,0 +1,104 @@
+[
+  {
+    "ScientificName": "Symphodus bailloni",
+    "SpecCode": "9186",
+    "CommonName": "An scadán garabh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus caeruleus",
+    "SpecCode": "57256",
+    "CommonName": "Centrolabre bleu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus cinereus",
+    "SpecCode": "1791",
+    "CommonName": "Arroccaleddu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus doderleini",
+    "SpecCode": "54573",
+    "CommonName": "Buzoçi velundrues",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus mediterraneus",
+    "SpecCode": "4578",
+    "CommonName": "Abadejo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus melops",
+    "SpecCode": "59",
+    "CommonName": "Almindelig savgylte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus ocellatus",
+    "SpecCode": "1792",
+    "CommonName": "Arrocaleddu a bandereddas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus roissali",
+    "SpecCode": "1709",
+    "CommonName": "Aroussa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus rostratus",
+    "SpecCode": "4580",
+    "CommonName": "Arroccali trumbitteri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus tinca",
+    "SpecCode": "1708",
+    "CommonName": "Arap balıği",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphodus trutta",
+    "SpecCode": "22498",
+    "CommonName": "Bodião verde",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

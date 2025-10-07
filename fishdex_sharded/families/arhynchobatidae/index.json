@@ -1,0 +1,77 @@
+{
+  "Family": "Arhynchobatidae",
+  "Order": "Rajiformes",
+  "Common": "Softnose skates",
+  "Genera": [
+    {
+      "Genus": "Arctoraja",
+      "SpeciesCount": 3,
+      "genus_path": "genera/arhynchobatidae/arctoraja.json"
+    },
+    {
+      "Genus": "Arhynchobatis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/arhynchobatidae/arhynchobatis.json"
+    },
+    {
+      "Genus": "Atlantoraja",
+      "SpeciesCount": 3,
+      "genus_path": "genera/arhynchobatidae/atlantoraja.json"
+    },
+    {
+      "Genus": "Bathyraja",
+      "SpeciesCount": 56,
+      "genus_path": "genera/arhynchobatidae/bathyraja.json"
+    },
+    {
+      "Genus": "Brochiraja",
+      "SpeciesCount": 8,
+      "genus_path": "genera/arhynchobatidae/brochiraja.json"
+    },
+    {
+      "Genus": "Insentiraja",
+      "SpeciesCount": 2,
+      "genus_path": "genera/arhynchobatidae/insentiraja.json"
+    },
+    {
+      "Genus": "Irolita",
+      "SpeciesCount": 2,
+      "genus_path": "genera/arhynchobatidae/irolita.json"
+    },
+    {
+      "Genus": "Notoraja",
+      "SpeciesCount": 15,
+      "genus_path": "genera/arhynchobatidae/notoraja.json"
+    },
+    {
+      "Genus": "Pavoraja",
+      "SpeciesCount": 6,
+      "genus_path": "genera/arhynchobatidae/pavoraja.json"
+    },
+    {
+      "Genus": "Psammobatis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/arhynchobatidae/psammobatis.json"
+    },
+    {
+      "Genus": "Pseudoraja",
+      "SpeciesCount": 1,
+      "genus_path": "genera/arhynchobatidae/pseudoraja.json"
+    },
+    {
+      "Genus": "Rhinoraja",
+      "SpeciesCount": 3,
+      "genus_path": "genera/arhynchobatidae/rhinoraja.json"
+    },
+    {
+      "Genus": "Rioraja",
+      "SpeciesCount": 1,
+      "genus_path": "genera/arhynchobatidae/rioraja.json"
+    },
+    {
+      "Genus": "Sympterygia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/arhynchobatidae/sympterygia.json"
+    }
+  ]
+}

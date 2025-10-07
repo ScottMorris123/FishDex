@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Molva dypterygia",
+    "SpecCode": "1383",
+    "CommonName": "Arbitán",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Molva macrophthalma",
+    "SpecCode": "1733",
+    "CommonName": "Arbitán",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Molva molva",
+    "SpecCode": "33",
+    "CommonName": "Almindelig lange",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

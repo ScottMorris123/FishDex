@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Altolamprologus calvus",
+    "SpecCode": "8134",
+    "CommonName": "Helmikuonoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altolamprologus compressiceps",
+    "SpecCode": "8135",
+    "CommonName": "Kuonoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

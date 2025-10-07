@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Thayeria boehlkei",
+    "SpecCode": "10716",
+    "CommonName": "Almindelig vinkeltetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thayeria ifati",
+    "SpecCode": "28001",
+    "CommonName": "Halbstreifen-Schrägschwimmer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thayeria obliqua",
+    "SpecCode": "12401",
+    "CommonName": "Hokejówa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

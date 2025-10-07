@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Atherion africanum",
+    "SpecCode": "1304",
+    "CommonName": "Athérine à nex râpeux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherion elymus",
+    "SpecCode": "7302",
+    "CommonName": "Bearded hardyhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherion maccullochi",
+    "SpecCode": "53205",
+    "CommonName": "McCulloch's hardyhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

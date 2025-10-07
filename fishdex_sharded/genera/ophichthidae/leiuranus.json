@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Leiuranus semicinctus",
+    "SpecCode": "7473",
+    "CommonName": "Banded snake eel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiuranus versicolor",
+    "SpecCode": "17394",
+    "CommonName": "Convict snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

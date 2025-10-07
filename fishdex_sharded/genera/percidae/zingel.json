@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Zingel asper",
+    "SpecCode": "6316",
+    "CommonName": "Âne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zingel balcanicus",
+    "SpecCode": "59409",
+    "CommonName": "Balkanstreber",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zingel streber",
+    "SpecCode": "6501",
+    "CommonName": "Chop malyi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zingel zingel",
+    "SpecCode": "6500",
+    "CommonName": "Apron",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

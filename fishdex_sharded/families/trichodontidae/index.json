@@ -1,0 +1,17 @@
+{
+  "Family": "Trichodontidae",
+  "Order": "Perciformes/Uranoscopoidei",
+  "Common": "Sandfishes",
+  "Genera": [
+    {
+      "Genus": "Arctoscopus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichodontidae/arctoscopus.json"
+    },
+    {
+      "Genus": "Trichodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichodontidae/trichodon.json"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Family": "Anarhichadidae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "Wolffishes",
+  "Genera": [
+    {
+      "Genus": "Anarhichas",
+      "SpeciesCount": 4,
+      "genus_path": "genera/anarhichadidae/anarhichas.json"
+    },
+    {
+      "Genus": "Anarrhichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anarhichadidae/anarrhichthys.json"
+    }
+  ]
+}

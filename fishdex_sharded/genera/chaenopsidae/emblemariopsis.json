@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Emblemariopsis bahamensis",
+    "SpecCode": "3716",
+    "CommonName": "Blackhead blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis bottomei",
+    "SpecCode": "54727",
+    "CommonName": "Midnight blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis carib",
+    "SpecCode": "65877",
+    "CommonName": "Spikefin glass blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis dianae",
+    "SpecCode": "64633",
+    "CommonName": "Orangeflag blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis diaphana",
+    "SpecCode": "3717",
+    "CommonName": "Florida smoothhead glass blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis falcon",
+    "SpecCode": "70136",
+    "CommonName": "Falcon red banner blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis lancea",
+    "SpecCode": "70135",
+    "CommonName": "Lancer red banner blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis leptocirris",
+    "SpecCode": "47269",
+    "CommonName": "\tAraw glass blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis occidentalis",
+    "SpecCode": "16491",
+    "CommonName": "Bahamas red banner blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis pricei",
+    "SpecCode": "57925",
+    "CommonName": "Seafan blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis randalli",
+    "SpecCode": "27952",
+    "CommonName": "Hornless blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis ruetzleri",
+    "SpecCode": "60579",
+    "CommonName": "Bluegold glass blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis signifer",
+    "SpecCode": "48175",
+    "CommonName": "Brazilian glass blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemariopsis tayrona",
+    "SpecCode": "57458",
+    "CommonName": "Highfin red banner blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

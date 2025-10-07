@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Iksookimia hugowolfeldi",
+    "SpecCode": "27980",
+    "CommonName": "Sekavec jihokorejský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iksookimia koreensis",
+    "SpecCode": "27981",
+    "CommonName": "Edelakorea kimihink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iksookimia longicorpa",
+    "SpecCode": "27979",
+    "CommonName": "Pikk kimihink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iksookimia pumila",
+    "SpecCode": "27982",
+    "CommonName": "Puan spine loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iksookimia yongdokensis",
+    "SpecCode": "27975",
+    "CommonName": "Dongbang-Jong-gae",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

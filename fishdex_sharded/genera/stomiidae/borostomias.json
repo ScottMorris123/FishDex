@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Borostomias abyssorum",
+    "SpecCode": "57903",
+    "CommonName": "北大西洋掠食巨口魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Borostomias antarcticus",
+    "SpecCode": "5098",
+    "CommonName": "Antarctic snaggletooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Borostomias elucens",
+    "SpecCode": "5130",
+    "CommonName": "Sukibatokagegisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Borostomias mononema",
+    "SpecCode": "11705",
+    "CommonName": "Hagetokagegisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Borostomias pacificus",
+    "SpecCode": "22846",
+    "CommonName": "Futasuboshi-hoshi-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Borostomias panamensis",
+    "SpecCode": "5161",
+    "CommonName": "Panama snaggletooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

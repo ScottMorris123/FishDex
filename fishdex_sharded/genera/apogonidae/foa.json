@@ -1,0 +1,76 @@
+[
+  {
+    "ScientificName": "Foa brachygramma",
+    "SpecCode": "5742",
+    "CommonName": "Bay cardinalfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foa fo",
+    "SpecCode": "14861",
+    "CommonName": "Fo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foa hyalina",
+    "SpecCode": "59765",
+    "CommonName": "Hyaline cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foa leisi",
+    "SpecCode": "67006",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foa madagascariensis",
+    "SpecCode": "59778",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foa nivosa",
+    "SpecCode": "67007",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foa winterbottomi",
+    "SpecCode": "69239",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foa yamba",
+    "SpecCode": "68248",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

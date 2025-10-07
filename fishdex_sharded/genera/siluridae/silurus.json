@@ -1,0 +1,129 @@
+[
+  {
+    "ScientificName": "Silurus aristotelis",
+    "SpecCode": "25303",
+    "CommonName": "Acheloos catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus asotus",
+    "SpecCode": "6566",
+    "CommonName": "Aasianmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus biwaensis",
+    "SpecCode": "8686",
+    "CommonName": "Biwa säga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus chantrei",
+    "SpecCode": "47375",
+    "CommonName": "錢氏鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus duanensis",
+    "SpecCode": "62301",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus glanis",
+    "SpecCode": "289",
+    "CommonName": "Danube catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus grahami",
+    "SpecCode": "25305",
+    "CommonName": "Kiinanmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus lanzhouensis",
+    "SpecCode": "25307",
+    "CommonName": "兰州鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus lithophilus",
+    "SpecCode": "22951",
+    "CommonName": "Iwatoko-namazu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus mento",
+    "SpecCode": "10397",
+    "CommonName": "Junnaninmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus meridionalis",
+    "SpecCode": "25308",
+    "CommonName": "Chinese large-mouth catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus microdorsalis",
+    "SpecCode": "25309",
+    "CommonName": "Koreanmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus soldatovi",
+    "SpecCode": "28053",
+    "CommonName": "Amurinmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurus triostegus",
+    "SpecCode": "25310",
+    "CommonName": "Esbele",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

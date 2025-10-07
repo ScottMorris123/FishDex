@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pseudotocinclus juquiae",
+    "SpecCode": "62685",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotocinclus parahybae",
+    "SpecCode": "62686",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotocinclus tietensis",
+    "SpecCode": "27764",
+    "CommonName": "Cascudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

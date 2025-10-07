@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pristobrycon aureus",
+    "SpecCode": "53488",
+    "CommonName": "Hohtopiraija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristobrycon calmoni",
+    "SpecCode": "25617",
+    "CommonName": "Caribe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristobrycon careospinus",
+    "SpecCode": "51983",
+    "CommonName": "Caribe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristobrycon maculipinnis",
+    "SpecCode": "51985",
+    "CommonName": "Caribe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristobrycon striolatus",
+    "SpecCode": "28032",
+    "CommonName": "Caribito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

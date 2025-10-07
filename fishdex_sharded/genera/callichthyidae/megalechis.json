@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Megalechis picta",
+    "SpecCode": "12207",
+    "CommonName": "Amazon-pansermalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megalechis thoracata",
+    "SpecCode": "46502",
+    "CommonName": "Atipa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

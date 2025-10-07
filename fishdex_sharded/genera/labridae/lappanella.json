@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lappanella fasciata",
+    "SpecCode": "22513",
+    "CommonName": "Debba",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lappanella guineensis",
+    "SpecCode": "22517",
+    "CommonName": "几内亚潘隆头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Hymenogadus gracilis",
+    "SpecCode": "16277",
+    "CommonName": "Delicate whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hymenogadus tenuis",
+    "SpecCode": "52361",
+    "CommonName": "Slender grenadier fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Sciaenochromis ahli",
+    "SpecCode": "2239",
+    "CommonName": "Ahli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciaenochromis benthicola",
+    "SpecCode": "60050",
+    "CommonName": "深栖鬼丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciaenochromis fryeri",
+    "SpecCode": "60051",
+    "CommonName": "Azur-cichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciaenochromis psammophilus",
+    "SpecCode": "60048",
+    "CommonName": "Electric blue kande",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

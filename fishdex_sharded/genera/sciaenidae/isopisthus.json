@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Isopisthus parvipinnis",
+    "SpecCode": "1179",
+    "CommonName": "Acoupa aile-courte",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isopisthus remifer",
+    "SpecCode": "14018",
+    "CommonName": "Acoupa bleu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

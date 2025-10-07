@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Limnocottus bergianus",
+    "SpecCode": "48059",
+    "CommonName": "плоская широколобка",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limnocottus godlewskii",
+    "SpecCode": "48061",
+    "CommonName": "крапчатая широколобка",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limnocottus griseus",
+    "SpecCode": "48062",
+    "CommonName": "темная широколобка",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limnocottus pallidus",
+    "SpecCode": "48083",
+    "CommonName": "узкая широколобка",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

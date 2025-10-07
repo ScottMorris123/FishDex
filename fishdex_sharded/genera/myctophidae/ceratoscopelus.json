@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ceratoscopelus maderensis",
+    "SpecCode": "621",
+    "CommonName": "Carpintero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ceratoscopelus townsendi",
+    "SpecCode": "2731",
+    "CommonName": "Diente de perro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ceratoscopelus warmingii",
+    "SpecCode": "6981",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

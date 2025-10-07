@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Brachyrhamdia heteropleura",
+    "SpecCode": "47837",
+    "CommonName": "异胸油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyrhamdia imitator",
+    "SpecCode": "48496",
+    "CommonName": "Imitatorwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyrhamdia marthae",
+    "SpecCode": "48501",
+    "CommonName": "Blauer Imitatorwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyrhamdia meesi",
+    "SpecCode": "48503",
+    "CommonName": "Mees Antennenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyrhamdia rambarrani",
+    "SpecCode": "48516",
+    "CommonName": "Masken-Imitatorwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyrhamdia thayeria",
+    "SpecCode": "70110",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

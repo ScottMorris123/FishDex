@@ -1,0 +1,22 @@
+{
+  "Family": "Citharinidae",
+  "Order": "Characiformes",
+  "Common": "Lutefishes",
+  "Genera": [
+    {
+      "Genus": "Citharidium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/citharinidae/citharidium.json"
+    },
+    {
+      "Genus": "Citharinops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/citharinidae/citharinops.json"
+    },
+    {
+      "Genus": "Citharinus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/citharinidae/citharinus.json"
+    }
+  ]
+}

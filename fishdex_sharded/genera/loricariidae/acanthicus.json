@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Acanthicus adonis",
+    "SpecCode": "50683",
+    "CommonName": "Acary avion",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthicus hystrix",
+    "SpecCode": "13268",
+    "CommonName": "Canana capeta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

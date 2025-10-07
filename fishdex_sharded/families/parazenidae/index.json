@@ -1,0 +1,22 @@
+{
+  "Family": "Parazenidae",
+  "Order": "Zeiformes",
+  "Common": "Parazen",
+  "Genera": [
+    {
+      "Genus": "Cyttopsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/parazenidae/cyttopsis.json"
+    },
+    {
+      "Genus": "Parazen",
+      "SpeciesCount": 1,
+      "genus_path": "genera/parazenidae/parazen.json"
+    },
+    {
+      "Genus": "Stethopristes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/parazenidae/stethopristes.json"
+    }
+  ]
+}

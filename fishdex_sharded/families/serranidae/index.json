@@ -1,0 +1,67 @@
+{
+  "Family": "Serranidae",
+  "Order": "Perciformes/Serranoidei",
+  "Common": "Sea basses: groupers and fairy basslets",
+  "Genera": [
+    {
+      "Genus": "Bullisichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serranidae/bullisichthys.json"
+    },
+    {
+      "Genus": "Centropristis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/serranidae/centropristis.json"
+    },
+    {
+      "Genus": "Chelidoperca",
+      "SpeciesCount": 19,
+      "genus_path": "genera/serranidae/chelidoperca.json"
+    },
+    {
+      "Genus": "Cratinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serranidae/cratinus.json"
+    },
+    {
+      "Genus": "Diplectrum",
+      "SpeciesCount": 12,
+      "genus_path": "genera/serranidae/diplectrum.json"
+    },
+    {
+      "Genus": "Dules",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serranidae/dules.json"
+    },
+    {
+      "Genus": "Hypoplectrus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/serranidae/hypoplectrus.json"
+    },
+    {
+      "Genus": "Paralabrax",
+      "SpeciesCount": 9,
+      "genus_path": "genera/serranidae/paralabrax.json"
+    },
+    {
+      "Genus": "Parasphyraenops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/serranidae/parasphyraenops.json"
+    },
+    {
+      "Genus": "Schultzea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serranidae/schultzea.json"
+    },
+    {
+      "Genus": "Serraniculus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serranidae/serraniculus.json"
+    },
+    {
+      "Genus": "Serranus",
+      "SpeciesCount": 31,
+      "genus_path": "genera/serranidae/serranus.json"
+    }
+  ]
+}

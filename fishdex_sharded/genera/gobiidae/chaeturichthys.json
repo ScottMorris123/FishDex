@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Chaeturichthys jeoni",
+    "SpecCode": "66970",
+    "CommonName": "Yakiinhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaeturichthys stigmatias",
+    "SpecCode": "23699",
+    "CommonName": "Branded goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

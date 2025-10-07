@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Indostomus crocodilus",
+    "SpecCode": "58213",
+    "CommonName": "Krokodill-nõelogalik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Indostomus paradoxus",
+    "SpecCode": "4321",
+    "CommonName": "Armoured stickleback",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Indostomus spinosus",
+    "SpecCode": "58055",
+    "CommonName": "Kare nõelogalik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

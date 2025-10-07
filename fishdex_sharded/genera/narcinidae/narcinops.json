@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Narcinops lasti",
+    "SpecCode": "60941",
+    "CommonName": "Lasti akurai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narcinops nelsoni",
+    "SpecCode": "64137",
+    "CommonName": "Eastern numbfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narcinops ornatus",
+    "SpecCode": "64136",
+    "CommonName": "Kaunis akurai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narcinops tasmaniensis",
+    "SpecCode": "24095",
+    "CommonName": "Australsk elrokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narcinops westraliensis",
+    "SpecCode": "24101",
+    "CommonName": "Banded numbfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

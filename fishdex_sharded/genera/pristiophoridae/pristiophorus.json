@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Pristiophorus cirratus",
+    "SpecCode": "721",
+    "CommonName": "Almindelig savhaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiophorus delicatus",
+    "SpecCode": "64115",
+    "CommonName": "Peenhamb-saaghai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiophorus japonicus",
+    "SpecCode": "722",
+    "CommonName": "Halberd shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiophorus lanae",
+    "SpecCode": "67529",
+    "CommonName": "Filipiini saaghai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiophorus nancyae",
+    "SpecCode": "66199",
+    "CommonName": "Aafrika saaghai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiophorus nudipinnis",
+    "SpecCode": "723",
+    "CommonName": "Doggies",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiophorus schroederi",
+    "SpecCode": "724",
+    "CommonName": "Adlerfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

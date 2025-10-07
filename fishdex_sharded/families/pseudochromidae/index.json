@@ -1,0 +1,127 @@
+{
+  "Family": "Pseudochromidae",
+  "Order": "Ovalentaria/misc",
+  "Common": "Dottybacks",
+  "Genera": [
+    {
+      "Genus": "Amsichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudochromidae/amsichthys.json"
+    },
+    {
+      "Genus": "Anisochromis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pseudochromidae/anisochromis.json"
+    },
+    {
+      "Genus": "Assiculoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudochromidae/assiculoides.json"
+    },
+    {
+      "Genus": "Assiculus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudochromidae/assiculus.json"
+    },
+    {
+      "Genus": "Blennodesmus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudochromidae/blennodesmus.json"
+    },
+    {
+      "Genus": "Chlidichthys",
+      "SpeciesCount": 13,
+      "genus_path": "genera/pseudochromidae/chlidichthys.json"
+    },
+    {
+      "Genus": "Congrogadus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/pseudochromidae/congrogadus.json"
+    },
+    {
+      "Genus": "Cypho",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pseudochromidae/cypho.json"
+    },
+    {
+      "Genus": "Halidesmus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/pseudochromidae/halidesmus.json"
+    },
+    {
+      "Genus": "Halimuraena",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pseudochromidae/halimuraena.json"
+    },
+    {
+      "Genus": "Halimuraenoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudochromidae/halimuraenoides.json"
+    },
+    {
+      "Genus": "Haliophis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pseudochromidae/haliophis.json"
+    },
+    {
+      "Genus": "Labracinus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pseudochromidae/labracinus.json"
+    },
+    {
+      "Genus": "Lubbockichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pseudochromidae/lubbockichthys.json"
+    },
+    {
+      "Genus": "Manonichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/pseudochromidae/manonichthys.json"
+    },
+    {
+      "Genus": "Natalichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pseudochromidae/natalichthys.json"
+    },
+    {
+      "Genus": "Ogilbyina",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pseudochromidae/ogilbyina.json"
+    },
+    {
+      "Genus": "Oxycercichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudochromidae/oxycercichthys.json"
+    },
+    {
+      "Genus": "Pectinochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudochromidae/pectinochromis.json"
+    },
+    {
+      "Genus": "Pholidochromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pseudochromidae/pholidochromis.json"
+    },
+    {
+      "Genus": "Pictichromis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/pseudochromidae/pictichromis.json"
+    },
+    {
+      "Genus": "Pseudochromis",
+      "SpeciesCount": 72,
+      "genus_path": "genera/pseudochromidae/pseudochromis.json"
+    },
+    {
+      "Genus": "Pseudoplesiops",
+      "SpeciesCount": 9,
+      "genus_path": "genera/pseudochromidae/pseudoplesiops.json"
+    },
+    {
+      "Genus": "Rusichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pseudochromidae/rusichthys.json"
+    }
+  ]
+}

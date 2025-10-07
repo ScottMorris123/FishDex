@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Calloplesiops altivelis",
+    "SpecCode": "12655",
+    "CommonName": "Betta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calloplesiops argus",
+    "SpecCode": "49448",
+    "CommonName": "Indoneesia komeetahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

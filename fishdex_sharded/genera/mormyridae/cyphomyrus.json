@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Cyphomyrus aelsbroecki",
+    "SpecCode": "10865",
+    "CommonName": "Aelsbroecki peemotkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyphomyrus cubangoensis",
+    "SpecCode": "68983",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyphomyrus discorhynchus",
+    "SpecCode": "5407",
+    "CommonName": "Chimpumwe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyphomyrus grahami",
+    "SpecCode": "12617",
+    "CommonName": "Cyumi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyphomyrus lufirae",
+    "SpecCode": "69157",
+    "CommonName": "Sengwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyphomyrus macrops",
+    "SpecCode": "10869",
+    "CommonName": "Rypoun velkooký",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyphomyrus petherici",
+    "SpecCode": "11031",
+    "CommonName": "Aben",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyphomyrus psittacus",
+    "SpecCode": "5088",
+    "CommonName": "Awakelevi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyphomyrus weeksii",
+    "SpecCode": "10877",
+    "CommonName": "Rypoun weeksův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyphomyrus wilverthi",
+    "SpecCode": "10878",
+    "CommonName": "Rypoun wilverthův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

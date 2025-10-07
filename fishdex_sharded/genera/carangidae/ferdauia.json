@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Ferdauia ferdau",
+    "SpecCode": "1921",
+    "CommonName": "Ampahan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ferdauia orthogrammus",
+    "SpecCode": "1909",
+    "CommonName": "Aheu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

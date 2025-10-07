@@ -1,0 +1,62 @@
+{
+  "Family": "Percidae",
+  "Order": "Perciformes/Percoidei",
+  "Common": "Perches",
+  "Genera": [
+    {
+      "Genus": "Ammocrypta",
+      "SpeciesCount": 6,
+      "genus_path": "genera/percidae/ammocrypta.json"
+    },
+    {
+      "Genus": "Crystallaria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/percidae/crystallaria.json"
+    },
+    {
+      "Genus": "Etheostoma",
+      "SpeciesCount": 158,
+      "genus_path": "genera/percidae/etheostoma.json"
+    },
+    {
+      "Genus": "Gymnocephalus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/percidae/gymnocephalus.json"
+    },
+    {
+      "Genus": "Nothonotus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/percidae/nothonotus.json"
+    },
+    {
+      "Genus": "Perca",
+      "SpeciesCount": 3,
+      "genus_path": "genera/percidae/perca.json"
+    },
+    {
+      "Genus": "Percarina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/percidae/percarina.json"
+    },
+    {
+      "Genus": "Percina",
+      "SpeciesCount": 49,
+      "genus_path": "genera/percidae/percina.json"
+    },
+    {
+      "Genus": "Romanichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/percidae/romanichthys.json"
+    },
+    {
+      "Genus": "Sander",
+      "SpeciesCount": 5,
+      "genus_path": "genera/percidae/sander.json"
+    },
+    {
+      "Genus": "Zingel",
+      "SpeciesCount": 4,
+      "genus_path": "genera/percidae/zingel.json"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pristicon rhodopterus",
+    "SpecCode": "23455",
+    "CommonName": "Cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristicon rufus",
+    "SpecCode": "59480",
+    "CommonName": "Akahire-ishimochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristicon trimaculatus",
+    "SpecCode": "5748",
+    "CommonName": "Bagsang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "Family": "Chaenopsidae",
+  "Order": "Blenniiformes",
+  "Common": "Pike-, tube- and flagblennies",
+  "Genera": [
+    {
+      "Genus": "Acanthemblemaria",
+      "SpeciesCount": 22,
+      "genus_path": "genera/chaenopsidae/acanthemblemaria.json"
+    },
+    {
+      "Genus": "Chaenopsis",
+      "SpeciesCount": 11,
+      "genus_path": "genera/chaenopsidae/chaenopsis.json"
+    },
+    {
+      "Genus": "Cirriemblemaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chaenopsidae/cirriemblemaria.json"
+    },
+    {
+      "Genus": "Coralliozetus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/chaenopsidae/coralliozetus.json"
+    },
+    {
+      "Genus": "Ekemblemaria",
+      "SpeciesCount": 3,
+      "genus_path": "genera/chaenopsidae/ekemblemaria.json"
+    },
+    {
+      "Genus": "Emblemaria",
+      "SpeciesCount": 16,
+      "genus_path": "genera/chaenopsidae/emblemaria.json"
+    },
+    {
+      "Genus": "Emblemariopsis",
+      "SpeciesCount": 14,
+      "genus_path": "genera/chaenopsidae/emblemariopsis.json"
+    },
+    {
+      "Genus": "Hemiemblemaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chaenopsidae/hemiemblemaria.json"
+    },
+    {
+      "Genus": "Lucayablennius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chaenopsidae/lucayablennius.json"
+    },
+    {
+      "Genus": "Mccoskerichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chaenopsidae/mccoskerichthys.json"
+    },
+    {
+      "Genus": "Neoclinus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/chaenopsidae/neoclinus.json"
+    },
+    {
+      "Genus": "Protemblemaria",
+      "SpeciesCount": 3,
+      "genus_path": "genera/chaenopsidae/protemblemaria.json"
+    },
+    {
+      "Genus": "Stathmonotus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/chaenopsidae/stathmonotus.json"
+    },
+    {
+      "Genus": "Tanyemblemaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chaenopsidae/tanyemblemaria.json"
+    }
+  ]
+}

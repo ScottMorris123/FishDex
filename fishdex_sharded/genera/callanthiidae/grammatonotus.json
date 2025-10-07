@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Grammatonotus ambiortus",
+    "SpecCode": "64511",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatonotus brianne",
+    "SpecCode": "68044",
+    "CommonName": "Batangas groppo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatonotus crosnieri",
+    "SpecCode": "15303",
+    "CommonName": "Crosnier's groppo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatonotus lanceolatus",
+    "SpecCode": "60493",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatonotus laysanus",
+    "SpecCode": "27474",
+    "CommonName": "夏威夷蓝纹鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatonotus macrophthalmus",
+    "SpecCode": "52722",
+    "CommonName": "大眼蓝纹鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatonotus pelipel",
+    "SpecCode": "69184",
+    "CommonName": "Barred groppo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatonotus roseus",
+    "SpecCode": "68045",
+    "CommonName": "Rose groppo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatonotus surugaensis",
+    "SpecCode": "23433",
+    "CommonName": "Tenjikuhanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatonotus xanthostigma",
+    "SpecCode": "69183",
+    "CommonName": "Yellowspot groppo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

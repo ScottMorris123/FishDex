@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Lamiopsis temminckii",
+    "SpecCode": "892",
+    "CommonName": "Bredfinnet haj",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamiopsis tephrodes",
+    "SpecCode": "66612",
+    "CommonName": "Borneo laiuimhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

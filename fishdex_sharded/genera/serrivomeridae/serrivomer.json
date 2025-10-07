@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Serrivomer beanii",
+    "SpecCode": "7477",
+    "CommonName": "Anguila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serrivomer bertini",
+    "SpecCode": "24335",
+    "CommonName": "Bertini saagsuuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serrivomer garmani",
+    "SpecCode": "61183",
+    "CommonName": "Garmani saagsuuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serrivomer jesperseni",
+    "SpecCode": "24468",
+    "CommonName": "Crossthroat sawpalate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serrivomer lanceolatoides",
+    "SpecCode": "54589",
+    "CommonName": "Black sawtoothed eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serrivomer neocaledoniensis",
+    "SpecCode": "70482",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serrivomer samoensis",
+    "SpecCode": "46952",
+    "CommonName": "Pilozub samojský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serrivomer schmidti",
+    "SpecCode": "9070",
+    "CommonName": "Pilozub schmidtův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serrivomer sector",
+    "SpecCode": "11483",
+    "CommonName": "Anguila tijera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

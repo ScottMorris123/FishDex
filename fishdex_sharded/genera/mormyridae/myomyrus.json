@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Myomyrus macrodon",
+    "SpecCode": "10977",
+    "CommonName": "Harilik hiirhammas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myomyrus macrops",
+    "SpecCode": "10979",
+    "CommonName": "Rypoun okatec",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myomyrus pharao",
+    "SpecCode": "10980",
+    "CommonName": "Rypoun farao",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

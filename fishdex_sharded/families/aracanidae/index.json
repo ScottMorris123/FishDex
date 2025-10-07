@@ -1,0 +1,37 @@
+{
+  "Family": "Aracanidae",
+  "Order": "Tetraodontiformes",
+  "Common": "Deepwater boxfishes",
+  "Genera": [
+    {
+      "Genus": "Anoplocapros",
+      "SpeciesCount": 3,
+      "genus_path": "genera/aracanidae/anoplocapros.json"
+    },
+    {
+      "Genus": "Aracana",
+      "SpeciesCount": 2,
+      "genus_path": "genera/aracanidae/aracana.json"
+    },
+    {
+      "Genus": "Caprichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aracanidae/caprichthys.json"
+    },
+    {
+      "Genus": "Capropygia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aracanidae/capropygia.json"
+    },
+    {
+      "Genus": "Kentrocapros",
+      "SpeciesCount": 5,
+      "genus_path": "genera/aracanidae/kentrocapros.json"
+    },
+    {
+      "Genus": "Polyplacapros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aracanidae/polyplacapros.json"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Aspidophoroides monopterygius",
+    "SpecCode": "4157",
+    "CommonName": "Aleutian alligatorfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aspidophoroides olrikii",
+    "SpecCode": "4158",
+    "CommonName": "Arctic alligatorfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "Family": "Pseudopimelodidae",
+  "Order": "Siluriformes",
+  "Common": "Bumblebee catfishes, dwarf marbled catfishes",
+  "Genera": [
+    {
+      "Genus": "Batrochoglanis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/pseudopimelodidae/batrochoglanis.json"
+    },
+    {
+      "Genus": "Cephalosilurus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pseudopimelodidae/cephalosilurus.json"
+    },
+    {
+      "Genus": "Cruciglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudopimelodidae/cruciglanis.json"
+    },
+    {
+      "Genus": "Lophiosilurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudopimelodidae/lophiosilurus.json"
+    },
+    {
+      "Genus": "Microglanis",
+      "SpeciesCount": 29,
+      "genus_path": "genera/pseudopimelodidae/microglanis.json"
+    },
+    {
+      "Genus": "Pseudopimelodus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/pseudopimelodidae/pseudopimelodus.json"
+    },
+    {
+      "Genus": "Rhyacoglanis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pseudopimelodidae/rhyacoglanis.json"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Psammogobius biocellatus",
+    "SpecCode": "9946",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammogobius knysnaensis",
+    "SpecCode": "9985",
+    "CommonName": "Knysna sandgoby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammogobius pisinnus",
+    "SpecCode": "68747",
+    "CommonName": "Sandslope goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Family": "Echinorhinidae",
+  "Order": "Echinorhiniformes",
+  "Common": "Bramble sharks",
+  "Genera": [
+    {
+      "Genus": "Echinorhinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/echinorhinidae/echinorhinus.json"
+    }
+  ]
+}

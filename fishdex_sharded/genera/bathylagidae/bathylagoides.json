@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Bathylagoides argyrogaster",
+    "SpecCode": "9117",
+    "CommonName": "Silver big-eye smelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagoides nigrigenys",
+    "SpecCode": "56267",
+    "CommonName": "Blackchin blacksmelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagoides wesethi",
+    "SpecCode": "12543",
+    "CommonName": "Snubnose blacksmelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

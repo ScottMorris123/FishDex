@@ -1,0 +1,349 @@
+[
+  {
+    "ScientificName": "Stiphodon alcedo",
+    "SpecCode": "66598",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon allen",
+    "SpecCode": "46035",
+    "CommonName": "Allen's cling-goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon annieae",
+    "SpecCode": "68869",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon astilbos",
+    "SpecCode": "59332",
+    "CommonName": "Doro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon atratus",
+    "SpecCode": "46036",
+    "CommonName": "Black stiphodon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon atropurpureus",
+    "SpecCode": "51779",
+    "CommonName": "Konteri-bōzuhaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon aureofuscus",
+    "SpecCode": "68421",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon aureorostrum",
+    "SpecCode": "63356",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon birdsong",
+    "SpecCode": "46037",
+    "CommonName": "伯德枝牙鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon caeruleus",
+    "SpecCode": "23271",
+    "CommonName": "淡黑枝牙鰕虎魚",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon carisa",
+    "SpecCode": "63733",
+    "CommonName": "Lampung Hill-stream Goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon discotorquatus",
+    "SpecCode": "48899",
+    "CommonName": "kokopu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon elegans",
+    "SpecCode": "22507",
+    "CommonName": "Hayase-bôzuhaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon hydoreibatus",
+    "SpecCode": "54570",
+    "CommonName": "Stiphodon rouge",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon imperiorientis",
+    "SpecCode": "51780",
+    "CommonName": "Hayase-bōzuhaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon julieni",
+    "SpecCode": "60297",
+    "CommonName": "kokopu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon kalfatak",
+    "SpecCode": "63593",
+    "CommonName": "Doro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon larson",
+    "SpecCode": "46038",
+    "CommonName": "拉氏枝牙鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon maculidorsalis",
+    "SpecCode": "67139",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon martenstyni",
+    "SpecCode": "59350",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon mele",
+    "SpecCode": "65166",
+    "CommonName": "Doro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon multisquamus",
+    "SpecCode": "61739",
+    "CommonName": "Torafu-bouzu-haze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon niraikanaiensis",
+    "SpecCode": "67615",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon oatea",
+    "SpecCode": "65395",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon ornatus",
+    "SpecCode": "27467",
+    "CommonName": "Sahajuovatokko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon palawanensis",
+    "SpecCode": "68081",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon pelewensis",
+    "SpecCode": "60083",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon percnopterygionus",
+    "SpecCode": "51781",
+    "CommonName": "黑鰭枝牙鰕虎",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon pulchellus",
+    "SpecCode": "48999",
+    "CommonName": "橄綠枝牙鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon rubromaculatus",
+    "SpecCode": "63594",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon rutilaureus",
+    "SpecCode": "46039",
+    "CommonName": "Doro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon sapphirinus",
+    "SpecCode": "62673",
+    "CommonName": "Doro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon semoni",
+    "SpecCode": "26587",
+    "CommonName": "Neon goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon surrufus",
+    "SpecCode": "47496",
+    "CommonName": "桔紅枝牙鰕虎魚",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon tuivi",
+    "SpecCode": "48995",
+    "CommonName": "stiphodon des Marquises",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon weberi",
+    "SpecCode": "54596",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stiphodon zebrinus",
+    "SpecCode": "54597",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Utiaritichthys esguiceroi",
+    "SpecCode": "67632",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Utiaritichthys longidorsalis",
+    "SpecCode": "53370",
+    "CommonName": "長背猶他脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Utiaritichthys sennaebragai",
+    "SpecCode": "53369",
+    "CommonName": "Curupete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

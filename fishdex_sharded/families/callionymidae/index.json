@@ -1,0 +1,87 @@
+{
+  "Family": "Callionymidae",
+  "Order": "Callionymiformes",
+  "Common": "Dragonets",
+  "Genera": [
+    {
+      "Genus": "Anaora",
+      "SpeciesCount": 1,
+      "genus_path": "genera/callionymidae/anaora.json"
+    },
+    {
+      "Genus": "Bathycallionymus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/callionymidae/bathycallionymus.json"
+    },
+    {
+      "Genus": "Callionymus",
+      "SpeciesCount": 111,
+      "genus_path": "genera/callionymidae/callionymus.json"
+    },
+    {
+      "Genus": "Dactylopus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/callionymidae/dactylopus.json"
+    },
+    {
+      "Genus": "Diplogrammus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/callionymidae/diplogrammus.json"
+    },
+    {
+      "Genus": "Draculo",
+      "SpeciesCount": 5,
+      "genus_path": "genera/callionymidae/draculo.json"
+    },
+    {
+      "Genus": "Eleutherochir",
+      "SpeciesCount": 1,
+      "genus_path": "genera/callionymidae/eleutherochir.json"
+    },
+    {
+      "Genus": "Eocallionymus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/callionymidae/eocallionymus.json"
+    },
+    {
+      "Genus": "Foetorepus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/callionymidae/foetorepus.json"
+    },
+    {
+      "Genus": "Paracallionymus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/callionymidae/paracallionymus.json"
+    },
+    {
+      "Genus": "Protogrammus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/callionymidae/protogrammus.json"
+    },
+    {
+      "Genus": "Pseudocalliurichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/callionymidae/pseudocalliurichthys.json"
+    },
+    {
+      "Genus": "Repomucenus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/callionymidae/repomucenus.json"
+    },
+    {
+      "Genus": "Spinicapitichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/callionymidae/spinicapitichthys.json"
+    },
+    {
+      "Genus": "Synchiropus",
+      "SpeciesCount": 46,
+      "genus_path": "genera/callionymidae/synchiropus.json"
+    },
+    {
+      "Genus": "Tonlesapia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/callionymidae/tonlesapia.json"
+    }
+  ]
+}

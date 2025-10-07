@@ -1,0 +1,12 @@
+{
+  "Family": "Centropomidae",
+  "Order": "Carangaria/misc",
+  "Common": "Snooks",
+  "Genera": [
+    {
+      "Genus": "Centropomus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/centropomidae/centropomus.json"
+    }
+  ]
+}

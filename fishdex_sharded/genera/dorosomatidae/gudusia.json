@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Gudusia chapra",
+    "SpecCode": "1601",
+    "CommonName": "Chaila",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gudusia variegata",
+    "SpecCode": "1602",
+    "CommonName": "Birma guduus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

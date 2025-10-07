@@ -1,0 +1,81 @@
+[
+  {
+    "ScientificName": "Deveximentum hanedai",
+    "SpecCode": "24805",
+    "CommonName": "羽田仰口鰏",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deveximentum indicium",
+    "SpecCode": "7966",
+    "CommonName": "Kekek",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deveximentum insidiator",
+    "SpecCode": "4455",
+    "CommonName": "Barred ponyfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deveximentum interruptum",
+    "SpecCode": "25205",
+    "CommonName": "Deep pugnose ponyfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deveximentum mazavasaoka",
+    "SpecCode": "66256",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deveximentum megalolepis",
+    "SpecCode": "24806",
+    "CommonName": "Bigscale ponyfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deveximentum mekranense",
+    "SpecCode": "70362",
+    "CommonName": "Mekran ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deveximentum ruconius",
+    "SpecCode": "4811",
+    "CommonName": "Babete lumuh",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

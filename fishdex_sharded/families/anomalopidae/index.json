@@ -1,0 +1,37 @@
+{
+  "Family": "Anomalopidae",
+  "Order": "Trachichthyiformes",
+  "Common": "Lanterneye fishes",
+  "Genera": [
+    {
+      "Genus": "Anomalops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anomalopidae/anomalops.json"
+    },
+    {
+      "Genus": "Kryptophanaron",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anomalopidae/kryptophanaron.json"
+    },
+    {
+      "Genus": "Parmops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anomalopidae/parmops.json"
+    },
+    {
+      "Genus": "Photoblepharon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anomalopidae/photoblepharon.json"
+    },
+    {
+      "Genus": "Phthanophaneron",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anomalopidae/phthanophaneron.json"
+    },
+    {
+      "Genus": "Protoblepharon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anomalopidae/protoblepharon.json"
+    }
+  ]
+}

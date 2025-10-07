@@ -1,0 +1,32 @@
+{
+  "Family": "Hemiodontidae",
+  "Order": "Characiformes",
+  "Common": "Halftooths",
+  "Genera": [
+    {
+      "Genus": "Anodus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/hemiodontidae/anodus.json"
+    },
+    {
+      "Genus": "Argonectes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/hemiodontidae/argonectes.json"
+    },
+    {
+      "Genus": "Bivibranchia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/hemiodontidae/bivibranchia.json"
+    },
+    {
+      "Genus": "Hemiodus",
+      "SpeciesCount": 21,
+      "genus_path": "genera/hemiodontidae/hemiodus.json"
+    },
+    {
+      "Genus": "Micromischodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hemiodontidae/micromischodus.json"
+    }
+  ]
+}

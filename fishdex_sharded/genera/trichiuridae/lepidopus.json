@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Lepidopus altifrons",
+    "SpecCode": "54156",
+    "CommonName": "Crested scabbardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidopus calcar",
+    "SpecCode": "8661",
+    "CommonName": "Hawaiian ridge scabbardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidopus caudatus",
+    "SpecCode": "645",
+    "CommonName": "Argentina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidopus dubius",
+    "SpecCode": "8662",
+    "CommonName": "Doubtful scabbardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidopus fitchi",
+    "SpecCode": "3910",
+    "CommonName": "Basurero negro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidopus manis",
+    "SpecCode": "8663",
+    "CommonName": "Ghost scabbardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

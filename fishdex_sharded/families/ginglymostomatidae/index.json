@@ -1,0 +1,22 @@
+{
+  "Family": "Ginglymostomatidae",
+  "Order": "Orectolobiformes",
+  "Common": "Nurse sharks",
+  "Genera": [
+    {
+      "Genus": "Ginglymostoma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ginglymostomatidae/ginglymostoma.json"
+    },
+    {
+      "Genus": "Nebrius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ginglymostomatidae/nebrius.json"
+    },
+    {
+      "Genus": "Pseudoginglymostoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ginglymostomatidae/pseudoginglymostoma.json"
+    }
+  ]
+}

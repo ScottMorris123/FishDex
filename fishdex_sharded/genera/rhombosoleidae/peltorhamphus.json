@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Peltorhamphus kryptostomus",
+    "SpecCode": "69663",
+    "CommonName": "New Zealand gray sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peltorhamphus latus",
+    "SpecCode": "27524",
+    "CommonName": "Speckled sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peltorhamphus novaezeelandiae",
+    "SpecCode": "8849",
+    "CommonName": "Common sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peltorhamphus tenuis",
+    "SpecCode": "49307",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

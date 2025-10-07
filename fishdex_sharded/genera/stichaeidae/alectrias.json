@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Alectrias alectrolophus",
+    "SpecCode": "3772",
+    "CommonName": "Alektriin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alectrias benjamini",
+    "SpecCode": "25022",
+    "CommonName": "Mushaginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alectrias cirratus",
+    "SpecCode": "50409",
+    "CommonName": "Ciliate cockscomb",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alectrias gallinus",
+    "SpecCode": "61164",
+    "CommonName": "Shaggy cockscomb",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alectrias markevichi",
+    "SpecCode": "67405",
+    "CommonName": "Slender cockscomb",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alectrias mutsuensis",
+    "SpecCode": "56843",
+    "CommonName": "Maned cockscomb",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

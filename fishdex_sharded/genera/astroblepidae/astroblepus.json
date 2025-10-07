@@ -1,0 +1,731 @@
+[
+  {
+    "ScientificName": "Astroblepus acostai",
+    "SpecCode": "68434",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus ardiladuartei",
+    "SpecCode": "68429",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus ardilai",
+    "SpecCode": "67469",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus bellezaensis",
+    "SpecCode": "68427",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus boulengeri",
+    "SpecCode": "49588",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus brachycephalus",
+    "SpecCode": "57068",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus cacharas",
+    "SpecCode": "66229",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus cajamarcaensis",
+    "SpecCode": "70170",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus caquetae",
+    "SpecCode": "49589",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus chapmani",
+    "SpecCode": "49591",
+    "CommonName": "查普曼視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus chimborazoi",
+    "SpecCode": "57825",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus chinchaoensis",
+    "SpecCode": "69318",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus chotae",
+    "SpecCode": "49336",
+    "CommonName": "Baboso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus cirratus",
+    "SpecCode": "57069",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus curitiensis",
+    "SpecCode": "70165",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus cyclopus",
+    "SpecCode": "49592",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus eigenmanni",
+    "SpecCode": "57070",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus festae",
+    "SpecCode": "49593",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus fissidens",
+    "SpecCode": "49594",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus floridablancaensis",
+    "SpecCode": "70171",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus floridaensis",
+    "SpecCode": "70168",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus formosus",
+    "SpecCode": "53699",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus frenatus",
+    "SpecCode": "49171",
+    "CommonName": "Baboso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus grixalvii",
+    "SpecCode": "49595",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus guentheri",
+    "SpecCode": "49597",
+    "CommonName": "根室氏視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus heterodon",
+    "SpecCode": "49598",
+    "CommonName": "异齿视星鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus hidalgoi",
+    "SpecCode": "70167",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus homodon",
+    "SpecCode": "49687",
+    "CommonName": "等齒視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus huallagaensis",
+    "SpecCode": "70169",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus itae",
+    "SpecCode": "68433",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus jimenezae",
+    "SpecCode": "67985",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus jurubidae",
+    "SpecCode": "57077",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus labialis",
+    "SpecCode": "49688",
+    "CommonName": "大唇視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus latidens",
+    "SpecCode": "49689",
+    "CommonName": "侧牙视星鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus longiceps",
+    "SpecCode": "49690",
+    "CommonName": "長頭視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus longifilis",
+    "SpecCode": "49691",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus mancoi",
+    "SpecCode": "49692",
+    "CommonName": "曼氏視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus mariae",
+    "SpecCode": "49694",
+    "CommonName": "玛丽亚视星鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus marmoratus",
+    "SpecCode": "57071",
+    "CommonName": "Marmorikiipijämonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus martinezi",
+    "SpecCode": "67986",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus mendezi",
+    "SpecCode": "69321",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus micrescens",
+    "SpecCode": "49695",
+    "CommonName": "小視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus mindoensis",
+    "SpecCode": "49696",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus mojicai",
+    "SpecCode": "68428",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus moyanensis",
+    "SpecCode": "69319",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus nettoferreirai",
+    "SpecCode": "68430",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus nicefori",
+    "SpecCode": "49697",
+    "CommonName": "奈斯福視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus onzagaensis",
+    "SpecCode": "70166",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus orientalis",
+    "SpecCode": "49709",
+    "CommonName": "东方视星鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus ortegai",
+    "SpecCode": "68435",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus peruanus",
+    "SpecCode": "49710",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus phelpsi",
+    "SpecCode": "49711",
+    "CommonName": "費氏視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus pholeter",
+    "SpecCode": "49712",
+    "CommonName": "Luolakiipijämonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus pirrensis",
+    "SpecCode": "53703",
+    "CommonName": "Panamankiipijämonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus pradai",
+    "SpecCode": "70164",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus praeliorum",
+    "SpecCode": "49713",
+    "CommonName": "早熟視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus prenadillus",
+    "SpecCode": "53705",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus putumayoensis",
+    "SpecCode": "68431",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus quispei",
+    "SpecCode": "68436",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus regani",
+    "SpecCode": "57072",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus rengifoi",
+    "SpecCode": "57080",
+    "CommonName": "Capitán",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus retropinnus",
+    "SpecCode": "49714",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus riberae",
+    "SpecCode": "49991",
+    "CommonName": "里氏視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus rivasae",
+    "SpecCode": "70172",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus rosei",
+    "SpecCode": "49715",
+    "CommonName": "罗斯氏视星鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus sabalo",
+    "SpecCode": "49716",
+    "CommonName": "萨巴视星鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus santanderensis",
+    "SpecCode": "57076",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus simonsii",
+    "SpecCode": "49717",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus stuebeli",
+    "SpecCode": "49718",
+    "CommonName": "斯氏視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus supramollis",
+    "SpecCode": "49807",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus taczanowskii",
+    "SpecCode": "49808",
+    "CommonName": "塔氏視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus tamboensis",
+    "SpecCode": "69317",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus theresiae",
+    "SpecCode": "49810",
+    "CommonName": "特氏視星鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus trifasciatus",
+    "SpecCode": "49809",
+    "CommonName": "Raitakiipijämonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus ubidiai",
+    "SpecCode": "49811",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus unifasciatus",
+    "SpecCode": "49812",
+    "CommonName": "单纹视星鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus vaillanti",
+    "SpecCode": "57074",
+    "CommonName": "Preñadilla bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus vanceae",
+    "SpecCode": "49813",
+    "CommonName": "Preñadilla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus ventralis",
+    "SpecCode": "57081",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus verai",
+    "SpecCode": "70163",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroblepus whymperi",
+    "SpecCode": "57075",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "Family": "Atherinidae",
+  "Order": "Atheriniformes",
+  "Common": "Silversides",
+  "Genera": [
+    {
+      "Genus": "Alepidomus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/atherinidae/alepidomus.json"
+    },
+    {
+      "Genus": "Atherina",
+      "SpeciesCount": 5,
+      "genus_path": "genera/atherinidae/atherina.json"
+    },
+    {
+      "Genus": "Atherinason",
+      "SpeciesCount": 1,
+      "genus_path": "genera/atherinidae/atherinason.json"
+    },
+    {
+      "Genus": "Atherinomorus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/atherinidae/atherinomorus.json"
+    },
+    {
+      "Genus": "Atherinosoma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/atherinidae/atherinosoma.json"
+    },
+    {
+      "Genus": "Bleheratherina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/atherinidae/bleheratherina.json"
+    },
+    {
+      "Genus": "Craterocephalus",
+      "SpeciesCount": 26,
+      "genus_path": "genera/atherinidae/craterocephalus.json"
+    },
+    {
+      "Genus": "Doboatherina",
+      "SpeciesCount": 3,
+      "genus_path": "genera/atherinidae/doboatherina.json"
+    },
+    {
+      "Genus": "Hypoatherina",
+      "SpeciesCount": 13,
+      "genus_path": "genera/atherinidae/hypoatherina.json"
+    },
+    {
+      "Genus": "Kestratherina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/atherinidae/kestratherina.json"
+    },
+    {
+      "Genus": "Leptatherina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/atherinidae/leptatherina.json"
+    },
+    {
+      "Genus": "Sashatherina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/atherinidae/sashatherina.json"
+    },
+    {
+      "Genus": "Stenatherina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/atherinidae/stenatherina.json"
+    },
+    {
+      "Genus": "Teramulus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/atherinidae/teramulus.json"
+    }
+  ]
+}

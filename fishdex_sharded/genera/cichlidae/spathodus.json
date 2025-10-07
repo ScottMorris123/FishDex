@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Spathodus erythrodon",
+    "SpecCode": "8862",
+    "CommonName": "Blaupunkt-Grundelbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spathodus marlieri",
+    "SpecCode": "8863",
+    "CommonName": "Kyhmyturpa-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

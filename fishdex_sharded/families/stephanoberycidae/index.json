@@ -1,0 +1,27 @@
+{
+  "Family": "Stephanoberycidae",
+  "Order": "Beryciformes",
+  "Common": "Pricklefishes",
+  "Genera": [
+    {
+      "Genus": "Abyssoberyx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stephanoberycidae/abyssoberyx.json"
+    },
+    {
+      "Genus": "Acanthochaenus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stephanoberycidae/acanthochaenus.json"
+    },
+    {
+      "Genus": "Malacosarcus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stephanoberycidae/malacosarcus.json"
+    },
+    {
+      "Genus": "Stephanoberyx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stephanoberycidae/stephanoberyx.json"
+    }
+  ]
+}

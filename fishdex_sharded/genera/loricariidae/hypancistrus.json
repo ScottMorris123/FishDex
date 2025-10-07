@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Hypancistrus contradens",
+    "SpecCode": "63266",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypancistrus debilittera",
+    "SpecCode": "63267",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypancistrus furunculus",
+    "SpecCode": "63268",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypancistrus inspector",
+    "SpecCode": "58937",
+    "CommonName": "Helmipallopleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypancistrus lunaorum",
+    "SpecCode": "63269",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypancistrus margaritatus",
+    "SpecCode": "68152",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypancistrus phantasma",
+    "SpecCode": "68153",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypancistrus zebra",
+    "SpecCode": "53570",
+    "CommonName": "Cascudo zebra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "ScientificName": "Retropinna retropinna",
+    "SpecCode": "12243",
+    "CommonName": "Agurkfisk",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Retropinna semoni",
+    "SpecCode": "6511",
+    "CommonName": "Austraalia lõunatint",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Retropinna tasmanica",
+    "SpecCode": "7539",
+    "CommonName": "Tasmaania lõunatint",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

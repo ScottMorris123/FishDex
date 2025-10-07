@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gurgesiella atlantica",
+    "SpecCode": "27774",
+    "CommonName": "Atlandi taarnarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gurgesiella dorsalifera",
+    "SpecCode": "54113",
+    "CommonName": "Brasiilia taarnarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gurgesiella furvescens",
+    "SpecCode": "51624",
+    "CommonName": "Dusky finless skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

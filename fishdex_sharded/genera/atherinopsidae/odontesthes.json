@@ -1,0 +1,204 @@
+[
+  {
+    "ScientificName": "Odontesthes argentinensis",
+    "SpecCode": "12927",
+    "CommonName": "Argentiina hammasateriin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes bicudo",
+    "SpecCode": "60389",
+    "CommonName": "Peixe-rei",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes bonariensis",
+    "SpecCode": "4678",
+    "CommonName": "Argentinian silverside",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes brevianalis",
+    "SpecCode": "54643",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes gracilis",
+    "SpecCode": "54645",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes hatcheri",
+    "SpecCode": "50822",
+    "CommonName": "pejerrey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes humensis",
+    "SpecCode": "53520",
+    "CommonName": "Peixe rei",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes incisa",
+    "SpecCode": "12926",
+    "CommonName": "Cornal",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes ledae",
+    "SpecCode": "60390",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes mauleanum",
+    "SpecCode": "50716",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes mirinensis",
+    "SpecCode": "53521",
+    "CommonName": "Pejerrey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes nigricans",
+    "SpecCode": "53206",
+    "CommonName": "浅黑澳洲银汉鱼",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes orientalis",
+    "SpecCode": "54640",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes perugiae",
+    "SpecCode": "50712",
+    "CommonName": "juncalero",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes piquava",
+    "SpecCode": "60388",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes platensis",
+    "SpecCode": "50830",
+    "CommonName": "Pejerrey",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes regia",
+    "SpecCode": "8172",
+    "CommonName": "Athérine chilienne",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes retropinnis",
+    "SpecCode": "50833",
+    "CommonName": "Pejerrey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes smitti",
+    "SpecCode": "50829",
+    "CommonName": "Corno",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes wiebrichi",
+    "SpecCode": "54646",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontesthes yucuman",
+    "SpecCode": "68646",
+    "CommonName": "Peixe-rei",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

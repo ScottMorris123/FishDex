@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Potamothrissa acutirostris",
+    "SpecCode": "1546",
+    "CommonName": "Chisense",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamothrissa obtusirostris",
+    "SpecCode": "1547",
+    "CommonName": "Bluntnosed sawtooth pellonuline",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamothrissa whiteheadi",
+    "SpecCode": "1548",
+    "CommonName": "Sled'ovka luhocká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "Family": "Albulidae",
+  "Order": "Albuliformes",
+  "Common": "Bonefishes",
+  "Genera": [
+    {
+      "Genus": "Albula",
+      "SpeciesCount": 11,
+      "genus_path": "genera/albulidae/albula.json"
+    },
+    {
+      "Genus": "Nemoossis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/albulidae/nemoossis.json"
+    },
+    {
+      "Genus": "Pterothrissus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/albulidae/pterothrissus.json"
+    }
+  ]
+}

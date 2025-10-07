@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Aptychotrema rostrata",
+    "SpecCode": "15384",
+    "CommonName": "Australian shovelnose ray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aptychotrema timorensis",
+    "SpecCode": "63348",
+    "CommonName": "Spotted shovelnose ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aptychotrema vincentiana",
+    "SpecCode": "24022",
+    "CommonName": "Guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

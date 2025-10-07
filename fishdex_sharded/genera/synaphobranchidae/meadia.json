@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Meadia abyssalis",
+    "SpecCode": "23276",
+    "CommonName": "Abyssal cutthroat eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meadia roseni",
+    "SpecCode": "54175",
+    "CommonName": "Roseni meadia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

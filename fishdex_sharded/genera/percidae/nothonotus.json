@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Nothonotus aquali",
+    "SpecCode": "3397",
+    "CommonName": "Coppercheek Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nothonotus microlepidus",
+    "SpecCode": "3440",
+    "CommonName": "Smallscale darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nothonotus sanguifluus",
+    "SpecCode": "10529",
+    "CommonName": "Bloodfin darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nothonotus starnesi",
+    "SpecCode": "66967",
+    "CommonName": "Caney fork darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

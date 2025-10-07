@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Sphaerichthys acrostoma",
+    "SpecCode": "25139",
+    "CommonName": "Ohjasrihmakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphaerichthys osphromenoides",
+    "SpecCode": "11235",
+    "CommonName": "Almindelig chokoladegurami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphaerichthys selatanensis",
+    "SpecCode": "25140",
+    "CommonName": "Kreuzstreifen-Schokoladengurami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphaerichthys vaillanti",
+    "SpecCode": "25141",
+    "CommonName": "Ensepat",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

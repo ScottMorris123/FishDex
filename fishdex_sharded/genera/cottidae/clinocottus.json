@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Clinocottus acuticeps",
+    "SpecCode": "4056",
+    "CommonName": "Sharpnose sculpin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinocottus analis",
+    "SpecCode": "4057",
+    "CommonName": "Charrasco lanudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinocottus embryum",
+    "SpecCode": "4058",
+    "CommonName": "Calico sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinocottus globiceps",
+    "SpecCode": "4059",
+    "CommonName": "Globe-headed sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinocottus recalvus",
+    "SpecCode": "4060",
+    "CommonName": "Bald sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

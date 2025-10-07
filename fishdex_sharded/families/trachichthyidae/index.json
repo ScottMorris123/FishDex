@@ -1,0 +1,47 @@
+{
+  "Family": "Trachichthyidae",
+  "Order": "Trachichthyiformes",
+  "Common": "Slimeheads",
+  "Genera": [
+    {
+      "Genus": "Aulotrachichthys",
+      "SpeciesCount": 11,
+      "genus_path": "genera/trachichthyidae/aulotrachichthys.json"
+    },
+    {
+      "Genus": "Gephyroberyx",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trachichthyidae/gephyroberyx.json"
+    },
+    {
+      "Genus": "Hoplostethus",
+      "SpeciesCount": 30,
+      "genus_path": "genera/trachichthyidae/hoplostethus.json"
+    },
+    {
+      "Genus": "Optivus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trachichthyidae/optivus.json"
+    },
+    {
+      "Genus": "Paratrachichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trachichthyidae/paratrachichthys.json"
+    },
+    {
+      "Genus": "Parinoberyx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trachichthyidae/parinoberyx.json"
+    },
+    {
+      "Genus": "Sorosichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trachichthyidae/sorosichthys.json"
+    },
+    {
+      "Genus": "Trachichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trachichthyidae/trachichthys.json"
+    }
+  ]
+}

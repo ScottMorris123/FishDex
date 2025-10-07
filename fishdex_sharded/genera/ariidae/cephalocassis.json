@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Cephalocassis borneensis",
+    "SpecCode": "23390",
+    "CommonName": "Anak dukang",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cephalocassis manillensis",
+    "SpecCode": "51585",
+    "CommonName": "馬尼拉光腭鯰",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cephalocassis melanochir",
+    "SpecCode": "23387",
+    "CommonName": "Gugup",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Japonoconger africanus",
+    "SpecCode": "9063",
+    "CommonName": "Aafrika jaapangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Japonoconger caribbeus",
+    "SpecCode": "58528",
+    "CommonName": "Kariibi jaapangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Japonoconger sivicolus",
+    "SpecCode": "58543",
+    "CommonName": "Kuroshio jaapangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pinnichthys aimoriensis",
+    "SpecCode": "70018",
+    "CommonName": "Thiony's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pinnichthys bilix",
+    "SpecCode": "67991",
+    "CommonName": "Thread-spined goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pinnichthys prolata",
+    "SpecCode": "69266",
+    "CommonName": "Platform goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pinnichthys saurimimica",
+    "SpecCode": "70017",
+    "CommonName": "Lizardfish goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

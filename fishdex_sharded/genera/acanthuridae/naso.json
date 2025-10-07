@@ -1,0 +1,184 @@
+[
+  {
+    "ScientificName": "Naso annulatus",
+    "SpecCode": "6019",
+    "CommonName": "Bagis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso brachycentron",
+    "SpecCode": "6020",
+    "CommonName": "Baghangoa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso brevirostris",
+    "SpecCode": "6021",
+    "CommonName": "Bagis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso caeruleacauda",
+    "SpecCode": "27318",
+    "CommonName": "Blue unicorn",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso caesius",
+    "SpecCode": "15628",
+    "CommonName": "Gray unicornfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso elegans",
+    "SpecCode": "60074",
+    "CommonName": "Corne roi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso fageni",
+    "SpecCode": "7630",
+    "CommonName": "Blunt unicornfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso hexacanthus",
+    "SpecCode": "1263",
+    "CommonName": "Bagis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso lituratus",
+    "SpecCode": "1264",
+    "CommonName": "Akaungeko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso lopezi",
+    "SpecCode": "6022",
+    "CommonName": "Aflang næsehornsfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso maculatus",
+    "SpecCode": "6931",
+    "CommonName": "Bakwak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso mcdadei",
+    "SpecCode": "60075",
+    "CommonName": "Squarenose unicornfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso minor",
+    "SpecCode": "6933",
+    "CommonName": "Bakwak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso reticulatus",
+    "SpecCode": "58347",
+    "CommonName": "Reticulate unicornfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso tergus",
+    "SpecCode": "66264",
+    "CommonName": "Shinobi-tenguhagi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso thynnoides",
+    "SpecCode": "6932",
+    "CommonName": "Bagis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso tonganus",
+    "SpecCode": "60076",
+    "CommonName": "Bluntnose unicornfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso tuberosus",
+    "SpecCode": "6023",
+    "CommonName": "Bagis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso unicornis",
+    "SpecCode": "1265",
+    "CommonName": "Ammas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Naso vlamingii",
+    "SpecCode": "6024",
+    "CommonName": "Ammas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

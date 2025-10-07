@@ -1,0 +1,12 @@
+{
+  "Family": "Enoplosidae",
+  "Order": "Centrarchiformes",
+  "Common": "Oldwife",
+  "Genera": [
+    {
+      "Genus": "Enoplosus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/enoplosidae/enoplosus.json"
+    }
+  ]
+}

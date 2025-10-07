@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Syacium guineense",
+    "SpecCode": "24641",
+    "CommonName": "Fausse limande paté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syacium gunteri",
+    "SpecCode": "4231",
+    "CommonName": "Fausse limande de banc",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syacium latifrons",
+    "SpecCode": "13972",
+    "CommonName": "Beach flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syacium longidorsale",
+    "SpecCode": "13974",
+    "CommonName": "Hémirhombe à nageoire longue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syacium maculiferum",
+    "SpecCode": "13977",
+    "CommonName": "Clearspot flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syacium micrurum",
+    "SpecCode": "4232",
+    "CommonName": "Asifome",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syacium ovale",
+    "SpecCode": "13978",
+    "CommonName": "Hémirhombe oval",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syacium papillosum",
+    "SpecCode": "4233",
+    "CommonName": "Aramaçá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Brachychalcinus copei",
+    "SpecCode": "51085",
+    "CommonName": "Machadinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachychalcinus nummus",
+    "SpecCode": "51086",
+    "CommonName": "Mojara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachychalcinus orbicularis",
+    "SpecCode": "10693",
+    "CommonName": "Discus tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachychalcinus parnaibae",
+    "SpecCode": "52519",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachychalcinus reisi",
+    "SpecCode": "68856",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachychalcinus retrospina",
+    "SpecCode": "52968",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

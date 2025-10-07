@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Exyrias akihito",
+    "SpecCode": "63017",
+    "CommonName": "Akihito's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Exyrias belissimus",
+    "SpecCode": "370",
+    "CommonName": "Beautiful goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Exyrias ferrarisi",
+    "SpecCode": "375",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Exyrias puntang",
+    "SpecCode": "377",
+    "CommonName": "Belodok puntang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Exyrias volcanus",
+    "SpecCode": "26936",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

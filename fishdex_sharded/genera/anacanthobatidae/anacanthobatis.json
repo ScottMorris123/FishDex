@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Anacanthobatis donghaiensis",
+    "SpecCode": "54441",
+    "CommonName": "East China leg skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anacanthobatis marmorata",
+    "SpecCode": "7957",
+    "CommonName": "Marmerpootrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anacanthobatis nanhaiensis",
+    "SpecCode": "54439",
+    "CommonName": "Lõunahiina sileselgrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

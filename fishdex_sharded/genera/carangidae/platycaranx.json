@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Platycaranx chrysophrys",
+    "SpecCode": "4441",
+    "CommonName": "Amberjack",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platycaranx malabaricus",
+    "SpecCode": "4443",
+    "CommonName": "Amberjack",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platycaranx talamparoides",
+    "SpecCode": "1912",
+    "CommonName": "Ao-kagami-aji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

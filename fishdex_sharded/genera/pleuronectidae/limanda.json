@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Limanda aspera",
+    "SpecCode": "520",
+    "CommonName": "Czerwienica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limanda limanda",
+    "SpecCode": "695",
+    "CommonName": "Almindelig ising",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limanda sakhalinensis",
+    "SpecCode": "50421",
+    "CommonName": "Sahhalini soomuslest",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

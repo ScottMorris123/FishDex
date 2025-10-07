@@ -1,0 +1,27 @@
+{
+  "Family": "Aulopidae",
+  "Order": "Aulopiformes",
+  "Common": "Aulopus",
+  "Genera": [
+    {
+      "Genus": "Aulopus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/aulopidae/aulopus.json"
+    },
+    {
+      "Genus": "Hime",
+      "SpeciesCount": 9,
+      "genus_path": "genera/aulopidae/hime.json"
+    },
+    {
+      "Genus": "Latropiscis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aulopidae/latropiscis.json"
+    },
+    {
+      "Genus": "Leptaulopus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/aulopidae/leptaulopus.json"
+    }
+  ]
+}

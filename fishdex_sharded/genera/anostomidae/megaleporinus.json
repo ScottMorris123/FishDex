@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Megaleporinus brinco",
+    "SpecCode": "66871",
+    "CommonName": "Bagplettet kæmpemudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megaleporinus conirostris",
+    "SpecCode": "53287",
+    "CommonName": "Boga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megaleporinus elongatus",
+    "SpecCode": "53291",
+    "CommonName": "Aflang kæmpemudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megaleporinus garmani",
+    "SpecCode": "58476",
+    "CommonName": "Småhovedet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megaleporinus macrocephalus",
+    "SpecCode": "52574",
+    "CommonName": "Piauçu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megaleporinus muyscorum",
+    "SpecCode": "53260",
+    "CommonName": "Colombiansk kæmpemudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megaleporinus obtusidens",
+    "SpecCode": "23445",
+    "CommonName": "açu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megaleporinus piavussu",
+    "SpecCode": "66791",
+    "CommonName": "Rødsnudet kæmpemudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megaleporinus reinhardti",
+    "SpecCode": "51875",
+    "CommonName": "Piau rajado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megaleporinus trifasciatus",
+    "SpecCode": "25647",
+    "CommonName": "Aracu cabeça gorda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

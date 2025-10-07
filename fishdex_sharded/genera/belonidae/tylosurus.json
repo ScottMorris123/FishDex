@@ -1,0 +1,95 @@
+[
+  {
+    "ScientificName": "Tylosurus acus",
+    "SpecCode": "976",
+    "CommonName": "A'avere",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylosurus choram",
+    "SpecCode": "26633",
+    "CommonName": "Aiguille voyeuse de Mer Rouge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylosurus crocodilus",
+    "SpecCode": "977",
+    "CommonName": "Aavere",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylosurus fodiator",
+    "SpecCode": "13570",
+    "CommonName": "Aguja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylosurus gavialoides",
+    "SpecCode": "14501",
+    "CommonName": "Aku",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylosurus imperialis",
+    "SpecCode": "9025",
+    "CommonName": "Aguglia imperiale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylosurus melanotus",
+    "SpecCode": "1317",
+    "CommonName": "Agujon needlefish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylosurus pacificus",
+    "SpecCode": "13568",
+    "CommonName": "Aguja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylosurus punctulatus",
+    "SpecCode": "14503",
+    "CommonName": "Batali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylosurus rafale",
+    "SpecCode": "9026",
+    "CommonName": "Agudja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

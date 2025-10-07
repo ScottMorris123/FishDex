@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Encheliophis boraborensis",
+    "SpecCode": "16829",
+    "CommonName": "Bôzu-kakureuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheliophis chardewalli",
+    "SpecCode": "61614",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheliophis gracilis",
+    "SpecCode": "9204",
+    "CommonName": "Graceful pearlfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheliophis homei",
+    "SpecCode": "4832",
+    "CommonName": "Billuri-mas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheliophis sagamianus",
+    "SpecCode": "23228",
+    "CommonName": "Jaapani purakala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheliophis vermicularis",
+    "SpecCode": "10226",
+    "CommonName": "Amamai-kakureuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheliophis vermiops",
+    "SpecCode": "27861",
+    "CommonName": "Dwerg-pêrelvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Parexocoetus brachypterus",
+    "SpecCode": "1037",
+    "CommonName": "Antoni",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parexocoetus hillianus",
+    "SpecCode": "53967",
+    "CommonName": "Flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parexocoetus mento",
+    "SpecCode": "4904",
+    "CommonName": "African flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

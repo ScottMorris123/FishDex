@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Centroscyllium excelsum",
+    "SpecCode": "53965",
+    "CommonName": "Highfin dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroscyllium fabricii",
+    "SpecCode": "656",
+    "CommonName": "Aiguillat noir",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroscyllium granulatum",
+    "SpecCode": "657",
+    "CommonName": "Aiguillat râpe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroscyllium kamoharai",
+    "SpecCode": "658",
+    "CommonName": "Aiguillat lisse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroscyllium nigrum",
+    "SpecCode": "660",
+    "CommonName": "Aiguillat peigne",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroscyllium ornatum",
+    "SpecCode": "659",
+    "CommonName": "Aiguillat élégant",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroscyllium ritteri",
+    "SpecCode": "661",
+    "CommonName": "Aiguillat à nageoires blanches",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

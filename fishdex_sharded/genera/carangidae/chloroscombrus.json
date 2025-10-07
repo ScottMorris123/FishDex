@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Chloroscombrus chrysurus",
+    "SpecCode": "385",
+    "CommonName": "Adjago",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chloroscombrus orqueta",
+    "SpecCode": "1937",
+    "CommonName": "Abundancia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

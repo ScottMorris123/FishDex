@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hoplosternum littorale",
+    "SpecCode": "5377",
+    "CommonName": "Atipa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplosternum magdalenae",
+    "SpecCode": "12205",
+    "CommonName": "Lysstribet pansermalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplosternum punctatum",
+    "SpecCode": "46495",
+    "CommonName": "Spættet pansermalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

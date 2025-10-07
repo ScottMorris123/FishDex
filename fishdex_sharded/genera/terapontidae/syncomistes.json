@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Syncomistes bonapartensis",
+    "SpecCode": "68949",
+    "CommonName": "Lake Bonaparte grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes butleri",
+    "SpecCode": "14948",
+    "CommonName": "Butler's grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes carcharus",
+    "SpecCode": "68950",
+    "CommonName": "Sharp-toothed grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes dilliensis",
+    "SpecCode": "68954",
+    "CommonName": "Dillie grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes holsworthi",
+    "SpecCode": "68955",
+    "CommonName": "Holsworth's grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes kimberleyensis",
+    "SpecCode": "10625",
+    "CommonName": "Kimberley grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes moranensis",
+    "SpecCode": "68956",
+    "CommonName": "Moran grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes rastellus",
+    "SpecCode": "10626",
+    "CommonName": "Drysdale grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes trigonicus",
+    "SpecCode": "14950",
+    "CommonName": "Longnose grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes versicolor",
+    "SpecCode": "68957",
+    "CommonName": "The many-coloured grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncomistes wunambal",
+    "SpecCode": "68958",
+    "CommonName": "Wunambal grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "Family": "Stromateidae",
+  "Order": "Scombriformes",
+  "Common": "Butterfishes",
+  "Genera": [
+    {
+      "Genus": "Pampus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/stromateidae/pampus.json"
+    },
+    {
+      "Genus": "Peprilus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/stromateidae/peprilus.json"
+    },
+    {
+      "Genus": "Stromateus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/stromateidae/stromateus.json"
+    }
+  ]
+}

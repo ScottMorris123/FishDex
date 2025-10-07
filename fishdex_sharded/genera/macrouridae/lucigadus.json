@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Lucigadus acrolophus",
+    "SpecCode": "58919",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucigadus borealis",
+    "SpecCode": "67838",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucigadus lucifer",
+    "SpecCode": "52377",
+    "CommonName": "魔灯凹腹鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucigadus microlepis",
+    "SpecCode": "58886",
+    "CommonName": "Smallfin whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucigadus nigromaculatus",
+    "SpecCode": "8693",
+    "CommonName": "Blackspot rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucigadus nigromarginatus",
+    "SpecCode": "52378",
+    "CommonName": "黑緣凹腹鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucigadus ori",
+    "SpecCode": "16827",
+    "CommonName": "Bronze whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucigadus potronus",
+    "SpecCode": "58940",
+    "CommonName": "Chiri-kosokodara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

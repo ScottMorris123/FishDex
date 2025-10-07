@@ -1,0 +1,373 @@
+[
+  {
+    "ScientificName": "Gobio acutipinnatus",
+    "SpecCode": "60099",
+    "CommonName": "Teravuim-rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio alverniae",
+    "SpecCode": "62656",
+    "CommonName": "Auvergne gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio artvinicus",
+    "SpecCode": "68289",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio battalgilae",
+    "SpecCode": "63013",
+    "CommonName": "Battalgili rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio brevicirris",
+    "SpecCode": "65114",
+    "CommonName": "Don gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio bulgaricus",
+    "SpecCode": "65232",
+    "CommonName": "Bulgaaria rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio carpathicus",
+    "SpecCode": "65115",
+    "CommonName": "Carpathian gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio caucasicus",
+    "SpecCode": "67391",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio coriparoides",
+    "SpecCode": "55943",
+    "CommonName": "Hrouzek východoasijský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio cynocephalus",
+    "SpecCode": "46938",
+    "CommonName": "Hrouzek sibiřský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio delyamurei",
+    "SpecCode": "62671",
+    "CommonName": "Chornaya gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio feraeensis",
+    "SpecCode": "65116",
+    "CommonName": "Tessaalia rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio fushunensis",
+    "SpecCode": "65163",
+    "CommonName": "Fushun gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio gobio",
+    "SpecCode": "4478",
+    "CommonName": "Almindelig grundling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio gymnostethus",
+    "SpecCode": "67413",
+    "CommonName": "Cappadocian gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio hettitorum",
+    "SpecCode": "9805",
+    "CommonName": "Anatolian gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio holurus",
+    "SpecCode": "65117",
+    "CommonName": "Caspian gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio huanghensis",
+    "SpecCode": "55947",
+    "CommonName": "Hrouzek gansunský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio insuyanus",
+    "SpecCode": "65233",
+    "CommonName": "Cihanbeyli gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio intermedius",
+    "SpecCode": "67415",
+    "CommonName": "Derekayası",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio kizilirmakensis",
+    "SpecCode": "68288",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio kovatschevi",
+    "SpecCode": "65118",
+    "CommonName": "Varna gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio krymensis",
+    "SpecCode": "65119",
+    "CommonName": "Krimmi rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio kubanicus",
+    "SpecCode": "62374",
+    "CommonName": "Kuban gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio lingyuanensis",
+    "SpecCode": "55944",
+    "CommonName": "Hrouzek lingjuanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio lozanoi",
+    "SpecCode": "62429",
+    "CommonName": "Cabezudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio macrocephalus",
+    "SpecCode": "25577",
+    "CommonName": "Hrouzek velkohlavý",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio maeandricus",
+    "SpecCode": "63014",
+    "CommonName": "Işıklı gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio meridionalis",
+    "SpecCode": "55946",
+    "CommonName": "Hrouzek henanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio microlepidotus",
+    "SpecCode": "67416",
+    "CommonName": "Beyşehir gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio obtusirostris",
+    "SpecCode": "65234",
+    "CommonName": "Kurzschnäuziger Gründling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio occitaniae",
+    "SpecCode": "62657",
+    "CommonName": "Akvitaania rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio ohridanus",
+    "SpecCode": "65120",
+    "CommonName": "Mrena e Ohrit",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio rivuloides",
+    "SpecCode": "60100",
+    "CommonName": "Lamelaup-rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio sakaryaensis",
+    "SpecCode": "66574",
+    "CommonName": "Sakarya Gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio sarmaticus",
+    "SpecCode": "65121",
+    "CommonName": "Ukraina rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio sibiricus",
+    "SpecCode": "63330",
+    "CommonName": "Läänesiberi rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio skadarensis",
+    "SpecCode": "65122",
+    "CommonName": "Mrena njëmustakore e Shkodrës",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio soldatovi",
+    "SpecCode": "46940",
+    "CommonName": "Hrouzek Soldatovův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio tchangi",
+    "SpecCode": "70279",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobio volgensis",
+    "SpecCode": "64097",
+    "CommonName": "Volga rünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

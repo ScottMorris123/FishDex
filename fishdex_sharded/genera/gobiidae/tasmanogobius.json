@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Tasmanogobius gloveri",
+    "SpecCode": "52432",
+    "CommonName": "Glover's tasman goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tasmanogobius lasti",
+    "SpecCode": "59441",
+    "CommonName": "Lagoon goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tasmanogobius lordi",
+    "SpecCode": "47140",
+    "CommonName": "Lord's goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

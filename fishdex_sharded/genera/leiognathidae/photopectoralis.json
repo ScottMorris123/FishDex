@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Photopectoralis aureus",
+    "SpecCode": "27494",
+    "CommonName": "False toothed ponyfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photopectoralis bindus",
+    "SpecCode": "4449",
+    "CommonName": "Badha siwayah",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photopectoralis hataii",
+    "SpecCode": "27495",
+    "CommonName": "Hatai's ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photopectoralis panayensis",
+    "SpecCode": "61440",
+    "CommonName": "Panay ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

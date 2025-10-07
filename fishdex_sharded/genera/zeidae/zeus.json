@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Zeus capensis",
+    "SpecCode": "7952",
+    "CommonName": "Cape dory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zeus faber",
+    "SpecCode": "1370",
+    "CommonName": "Alfaquete",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Dolichancistrus atratoensis",
+    "SpecCode": "49922",
+    "CommonName": "Cacucho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichancistrus carnegiei",
+    "SpecCode": "49814",
+    "CommonName": "Barbón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichancistrus cobrensis",
+    "SpecCode": "49342",
+    "CommonName": "Corroncho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichancistrus fuesslii",
+    "SpecCode": "53525",
+    "CommonName": "菲斯氏毛鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichancistrus pediculatus",
+    "SpecCode": "49923",
+    "CommonName": "小鰭長龜鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichancistrus setosus",
+    "SpecCode": "49919",
+    "CommonName": "多须毛鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

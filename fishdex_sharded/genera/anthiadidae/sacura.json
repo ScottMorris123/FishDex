@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Sacura boulengeri",
+    "SpecCode": "46448",
+    "CommonName": "Boulenger's anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sacura margaritacea",
+    "SpecCode": "24854",
+    "CommonName": "Sakuradai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sacura parva",
+    "SpecCode": "59190",
+    "CommonName": "Little fairy basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sacura sanguinea",
+    "SpecCode": "69181",
+    "CommonName": "Andaman deepwater Anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sacura speciosa",
+    "SpecCode": "59191",
+    "CommonName": "灿樱鮨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

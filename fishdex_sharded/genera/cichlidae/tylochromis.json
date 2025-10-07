@@ -1,0 +1,165 @@
+[
+  {
+    "ScientificName": "Tylochromis aristoma",
+    "SpecCode": "8986",
+    "CommonName": "美口球丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis bangwelensis",
+    "SpecCode": "8707",
+    "CommonName": "Hump-back bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis elongatus",
+    "SpecCode": "8990",
+    "CommonName": "Soukkaseuloja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis intermedius",
+    "SpecCode": "8992",
+    "CommonName": "Faragbon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis jentinki",
+    "SpecCode": "2491",
+    "CommonName": "Akpadekui",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis labrodon",
+    "SpecCode": "9125",
+    "CommonName": "Huuliseuloja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis lateralis",
+    "SpecCode": "9126",
+    "CommonName": "Ekeki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis leonensis",
+    "SpecCode": "9128",
+    "CommonName": "Punaeväseuloja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis microdon",
+    "SpecCode": "9131",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis mylodon",
+    "SpecCode": "9132",
+    "CommonName": "Mweru hump-backed bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis polylepis",
+    "SpecCode": "9135",
+    "CommonName": "Metallimutahautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis praecox",
+    "SpecCode": "9137",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis pulcher",
+    "SpecCode": "9138",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis regani",
+    "SpecCode": "9141",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis robertsi",
+    "SpecCode": "9142",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis sudanensis",
+    "SpecCode": "9145",
+    "CommonName": "Sudaninseuloja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis trewavasae",
+    "SpecCode": "9154",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tylochromis variabilis",
+    "SpecCode": "9156",
+    "CommonName": "Ekeki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

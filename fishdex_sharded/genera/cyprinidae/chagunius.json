@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Chagunius baileyi",
+    "SpecCode": "23194",
+    "CommonName": "Salweeni tšaguun",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chagunius chagunio",
+    "SpecCode": "23184",
+    "CommonName": "Chaguni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chagunius nicholsi",
+    "SpecCode": "13158",
+    "CommonName": "Chagunie Nicholsova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

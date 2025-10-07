@@ -1,0 +1,62 @@
+{
+  "Family": "Carcharhinidae",
+  "Order": "Carcharhiniformes",
+  "Common": "Requiem sharks",
+  "Genera": [
+    {
+      "Genus": "Carcharhinus",
+      "SpeciesCount": 36,
+      "genus_path": "genera/carcharhinidae/carcharhinus.json"
+    },
+    {
+      "Genus": "Glyphis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/carcharhinidae/glyphis.json"
+    },
+    {
+      "Genus": "Isogomphodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carcharhinidae/isogomphodon.json"
+    },
+    {
+      "Genus": "Lamiopsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/carcharhinidae/lamiopsis.json"
+    },
+    {
+      "Genus": "Loxodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carcharhinidae/loxodon.json"
+    },
+    {
+      "Genus": "Nasolamia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carcharhinidae/nasolamia.json"
+    },
+    {
+      "Genus": "Negaprion",
+      "SpeciesCount": 2,
+      "genus_path": "genera/carcharhinidae/negaprion.json"
+    },
+    {
+      "Genus": "Prionace",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carcharhinidae/prionace.json"
+    },
+    {
+      "Genus": "Rhizoprionodon",
+      "SpeciesCount": 7,
+      "genus_path": "genera/carcharhinidae/rhizoprionodon.json"
+    },
+    {
+      "Genus": "Scoliodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/carcharhinidae/scoliodon.json"
+    },
+    {
+      "Genus": "Triaenodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carcharhinidae/triaenodon.json"
+    }
+  ]
+}

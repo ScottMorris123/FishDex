@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Zeugopterus norvegicus",
+    "SpecCode": "2360",
+    "CommonName": "Bruxa-norueguesa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zeugopterus punctatus",
+    "SpecCode": "1369",
+    "CommonName": "Bastard brill",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zeugopterus regius",
+    "SpecCode": "1339",
+    "CommonName": "Beneklipisi balığı",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

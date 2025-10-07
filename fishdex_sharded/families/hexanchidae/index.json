@@ -1,0 +1,22 @@
+{
+  "Family": "Hexanchidae",
+  "Order": "Hexanchiformes",
+  "Common": "Cow sharks",
+  "Genera": [
+    {
+      "Genus": "Heptranchias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hexanchidae/heptranchias.json"
+    },
+    {
+      "Genus": "Hexanchus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/hexanchidae/hexanchus.json"
+    },
+    {
+      "Genus": "Notorynchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hexanchidae/notorynchus.json"
+    }
+  ]
+}

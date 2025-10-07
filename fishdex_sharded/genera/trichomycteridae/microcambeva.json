@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Microcambeva barbata",
+    "SpecCode": "58368",
+    "CommonName": "Cambeva",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microcambeva draco",
+    "SpecCode": "65920",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microcambeva ribeirae",
+    "SpecCode": "62073",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

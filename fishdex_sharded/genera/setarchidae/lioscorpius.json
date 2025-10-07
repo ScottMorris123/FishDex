@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lioscorpius longiceps",
+    "SpecCode": "12552",
+    "CommonName": "Depu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lioscorpius trifasciatus",
+    "SpecCode": "63341",
+    "CommonName": "Tripleband scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

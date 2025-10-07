@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Zaniolepis frenata",
+    "SpecCode": "4038",
+    "CommonName": "Cepillo espina corta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zaniolepis latipinnis",
+    "SpecCode": "4039",
+    "CommonName": "Cepillo espina larga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

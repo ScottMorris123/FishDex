@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Triacanthus biaculeatus",
+    "SpecCode": "4562",
+    "CommonName": "Anjungkang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triacanthus nieuhofii",
+    "SpecCode": "10570",
+    "CommonName": "Hõbedane kolmoga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

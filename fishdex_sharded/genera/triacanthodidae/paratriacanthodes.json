@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Paratriacanthodes abei",
+    "SpecCode": "60481",
+    "CommonName": "阿部副三棘魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paratriacanthodes herrei",
+    "SpecCode": "47217",
+    "CommonName": "赫氏副三棘魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paratriacanthodes retrospinis",
+    "SpecCode": "24249",
+    "CommonName": "Musujikawamuki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

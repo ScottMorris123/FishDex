@@ -1,0 +1,12 @@
+{
+  "Family": "Oxynotidae",
+  "Order": "Squaliformes",
+  "Common": "Rough sharks",
+  "Genera": [
+    {
+      "Genus": "Oxynotus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/oxynotidae/oxynotus.json"
+    }
+  ]
+}

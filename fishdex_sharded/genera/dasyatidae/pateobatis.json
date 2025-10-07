@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Pateobatis bleekeri",
+    "SpecCode": "13148",
+    "CommonName": "Bleekeri nuutrai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pateobatis fai",
+    "SpecCode": "12587",
+    "CommonName": "Fai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pateobatis hortlei",
+    "SpecCode": "63342",
+    "CommonName": "Hortle`i nuutrai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pateobatis jenkinsii",
+    "SpecCode": "12589",
+    "CommonName": "Brown stingray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pateobatis uarnacoides",
+    "SpecCode": "57399",
+    "CommonName": "Bleeker's whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

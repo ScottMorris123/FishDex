@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Trigonostigma espei",
+    "SpecCode": "27073",
+    "CommonName": "Drottningrasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trigonostigma hengeli",
+    "SpecCode": "12182",
+    "CommonName": "Glimrasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trigonostigma heteromorpha",
+    "SpecCode": "10881",
+    "CommonName": "Harlequin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trigonostigma somphongsi",
+    "SpecCode": "6096",
+    "CommonName": "Kääpiökiilakylki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trigonostigma truncata",
+    "SpecCode": "69168",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Caragobius burmanicus",
+    "SpecCode": "25266",
+    "CommonName": "Burmese geel goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caragobius rubristriatus",
+    "SpecCode": "59865",
+    "CommonName": "Red eelgoby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caragobius urolepis",
+    "SpecCode": "25121",
+    "CommonName": "Asagarahaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

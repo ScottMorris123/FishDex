@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Tenellus leporhinus",
+    "SpecCode": "47467",
+    "CommonName": "Jänöokamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tenellus ternetzi",
+    "SpecCode": "47473",
+    "CommonName": "特氏仿陶乐鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tenellus trimaculatus",
+    "SpecCode": "47474",
+    "CommonName": "Bagre hueso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

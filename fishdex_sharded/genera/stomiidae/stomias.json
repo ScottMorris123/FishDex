@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Stomias affinis",
+    "SpecCode": "10167",
+    "CommonName": "Dragonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias atriventer",
+    "SpecCode": "5155",
+    "CommonName": "Blackbelly dragonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias boa",
+    "SpecCode": "1806",
+    "CommonName": "Boa dragonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias brevibarbatus",
+    "SpecCode": "11717",
+    "CommonName": "短须巨口鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias colubrinus",
+    "SpecCode": "55051",
+    "CommonName": "似蛇巨口魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias danae",
+    "SpecCode": "55049",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias ferox",
+    "SpecCode": "1358",
+    "CommonName": "Boa dragonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias gracilis",
+    "SpecCode": "6972",
+    "CommonName": "Poisson-dragon gracile",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias lampropeltis",
+    "SpecCode": "11718",
+    "CommonName": "美丽巨口鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias longibarbatus",
+    "SpecCode": "11719",
+    "CommonName": "Hoso-wanitokagegisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomias nebulosus",
+    "SpecCode": "10261",
+    "CommonName": "Alcock's boafish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

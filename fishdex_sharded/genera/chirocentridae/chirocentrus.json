@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Chirocentrus dorab",
+    "SpecCode": "6358",
+    "CommonName": "Arencón dorab",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirocentrus nudus",
+    "SpecCode": "1452",
+    "CommonName": "Arencón de aleta blanca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

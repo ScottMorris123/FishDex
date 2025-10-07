@@ -1,0 +1,176 @@
+[
+  {
+    "ScientificName": "Leuciscus aspius",
+    "SpecCode": "4783",
+    "CommonName": "Aral asp",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus baicalensis",
+    "SpecCode": "56010",
+    "CommonName": "Chebak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus bearnensis",
+    "SpecCode": "65123",
+    "CommonName": "Adouri teib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus bergi",
+    "SpecCode": "54735",
+    "CommonName": "Bergi teib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus burdigalensis",
+    "SpecCode": "53236",
+    "CommonName": "Beaked dace",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus chuanchicus",
+    "SpecCode": "56012",
+    "CommonName": "Huanghe teib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus danilewskii",
+    "SpecCode": "25958",
+    "CommonName": "Danilevski teib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus dzungaricus",
+    "SpecCode": "61899",
+    "CommonName": "Mongoolia teib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus gaderanus",
+    "SpecCode": "63040",
+    "CommonName": "Iraani teib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus idus",
+    "SpecCode": "2801",
+    "CommonName": "Aland",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus latus",
+    "SpecCode": "55345",
+    "CommonName": "Jelec heratský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus lehmanni",
+    "SpecCode": "22837",
+    "CommonName": "Jelec Lehmannův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus leuciscus",
+    "SpecCode": "4662",
+    "CommonName": "Acourcie",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus lindbergi",
+    "SpecCode": "61901",
+    "CommonName": "Talassi teib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus merzbacheri",
+    "SpecCode": "55407",
+    "CommonName": "Jelec Merzbacherův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus oxyrrhis",
+    "SpecCode": "65124",
+    "CommonName": "Long-snout dace",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus schmidti",
+    "SpecCode": "55651",
+    "CommonName": "Issõk-kuli teib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus vorax",
+    "SpecCode": "54833",
+    "CommonName": "Bolen západoasijský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuciscus waleckii",
+    "SpecCode": "46549",
+    "CommonName": "Amur ide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

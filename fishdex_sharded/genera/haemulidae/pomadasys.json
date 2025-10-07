@@ -1,0 +1,281 @@
+[
+  {
+    "ScientificName": "Pomadasys aheneus",
+    "SpecCode": "27316",
+    "CommonName": "Yellowback grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys andamanensis",
+    "SpecCode": "13117",
+    "CommonName": "Andaman grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys argenteus",
+    "SpecCode": "399",
+    "CommonName": "Abo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys argyreus",
+    "SpecCode": "4823",
+    "CommonName": "Agoot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys auritus",
+    "SpecCode": "60536",
+    "CommonName": "Longhead grunt",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys bipunctatus",
+    "SpecCode": "60759",
+    "CommonName": "双斑石鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys commersonnii",
+    "SpecCode": "5126",
+    "CommonName": "Agoot",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys empherus",
+    "SpecCode": "13737",
+    "CommonName": "Bigspine grunt",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys furcatus",
+    "SpecCode": "7707",
+    "CommonName": "Banded Grunter",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys guoraca",
+    "SpecCode": "9909",
+    "CommonName": "Cheri",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys incisus",
+    "SpecCode": "5003",
+    "CommonName": "Afriška prašičevka",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys jubelini",
+    "SpecCode": "4708",
+    "CommonName": "Akplortsu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys kaakan",
+    "SpecCode": "6006",
+    "CommonName": "Aguut",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys laurentino",
+    "SpecCode": "22824",
+    "CommonName": "Manylined grunter",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys maculatus",
+    "SpecCode": "4447",
+    "CommonName": "Agak-agak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys multimaculatus",
+    "SpecCode": "5517",
+    "CommonName": "Ambah",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys olivaceus",
+    "SpecCode": "5518",
+    "CommonName": "Corocoro aceituna",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys perotaei",
+    "SpecCode": "9911",
+    "CommonName": "Ayir",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys punctulatus",
+    "SpecCode": "46379",
+    "CommonName": "Lined grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys quadrilineatus",
+    "SpecCode": "58242",
+    "CommonName": "Suji-mizoisaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys ramosus",
+    "SpecCode": "64824",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys rogerii",
+    "SpecCode": "5004",
+    "CommonName": "Abroto",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys schyrii",
+    "SpecCode": "60753",
+    "CommonName": "Roncador",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys striatus",
+    "SpecCode": "7301",
+    "CommonName": "Gestreepte knorder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys stridens",
+    "SpecCode": "7708",
+    "CommonName": "Geedoy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys suillus",
+    "SpecCode": "17426",
+    "CommonName": "Koron",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys taeniatus",
+    "SpecCode": "27317",
+    "CommonName": "Bronzestriped grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys trifasciatus",
+    "SpecCode": "27498",
+    "CommonName": "Black-ear javelin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomadasys unimaculatus",
+    "SpecCode": "51125",
+    "CommonName": "Gerut-gerut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

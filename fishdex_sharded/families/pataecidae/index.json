@@ -1,0 +1,22 @@
+{
+  "Family": "Pataecidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Australian prowfishes",
+  "Genera": [
+    {
+      "Genus": "Aetapcus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pataecidae/aetapcus.json"
+    },
+    {
+      "Genus": "Neopataecus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pataecidae/neopataecus.json"
+    },
+    {
+      "Genus": "Pataecus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pataecidae/pataecus.json"
+    }
+  ]
+}

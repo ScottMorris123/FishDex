@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Manonichthys alleni",
+    "SpecCode": "65047",
+    "CommonName": "Sabah dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Manonichthys jamali",
+    "SpecCode": "63853",
+    "CommonName": "Jamal's dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Manonichthys paranox",
+    "SpecCode": "15007",
+    "CommonName": "Midnight dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Manonichthys polynemus",
+    "SpecCode": "14281",
+    "CommonName": "Longfin dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Manonichthys scintilla",
+    "SpecCode": "66394",
+    "CommonName": "Sparkfin Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Manonichthys splendens",
+    "SpecCode": "12714",
+    "CommonName": "Splendid dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Manonichthys winterbottomi",
+    "SpecCode": "65048",
+    "CommonName": "False midnight dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

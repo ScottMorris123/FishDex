@@ -1,0 +1,42 @@
+{
+  "Family": "Lebiasinidae",
+  "Order": "Characiformes",
+  "Common": "Pencilfishes",
+  "Genera": [
+    {
+      "Genus": "Copeina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lebiasinidae/copeina.json"
+    },
+    {
+      "Genus": "Copella",
+      "SpeciesCount": 9,
+      "genus_path": "genera/lebiasinidae/copella.json"
+    },
+    {
+      "Genus": "Derhamia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lebiasinidae/derhamia.json"
+    },
+    {
+      "Genus": "Lebiasina",
+      "SpeciesCount": 18,
+      "genus_path": "genera/lebiasinidae/lebiasina.json"
+    },
+    {
+      "Genus": "Nannostomus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/lebiasinidae/nannostomus.json"
+    },
+    {
+      "Genus": "Piabucina",
+      "SpeciesCount": 9,
+      "genus_path": "genera/lebiasinidae/piabucina.json"
+    },
+    {
+      "Genus": "Pyrrhulina",
+      "SpeciesCount": 18,
+      "genus_path": "genera/lebiasinidae/pyrrhulina.json"
+    }
+  ]
+}

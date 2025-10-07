@@ -1,0 +1,155 @@
+[
+  {
+    "ScientificName": "Icelus armatus",
+    "SpecCode": "61295",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus bicornis",
+    "SpecCode": "4107",
+    "CommonName": "Almindelig tornulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus canaliculatus",
+    "SpecCode": "23906",
+    "CommonName": "Blacknose sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus cataphractus",
+    "SpecCode": "23905",
+    "CommonName": "Kôrikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus ecornis",
+    "SpecCode": "60024",
+    "CommonName": "Chigo-kōrikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus euryops",
+    "SpecCode": "50794",
+    "CommonName": "Wide-eye sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus gilberti",
+    "SpecCode": "23904",
+    "CommonName": "Daruma-kôrikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus mandibularis",
+    "SpecCode": "23907",
+    "CommonName": "Ukekuchi-kôrikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus ochotensis",
+    "SpecCode": "23911",
+    "CommonName": "Kobu-kôrikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus perminovi",
+    "SpecCode": "23910",
+    "CommonName": "Fusa-kôrikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus rastrinoides",
+    "SpecCode": "50359",
+    "CommonName": "似耙冰杜父魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus sekii",
+    "SpecCode": "63392",
+    "CommonName": "Rausu-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus spatula",
+    "SpecCode": "4108",
+    "CommonName": "Icèle spatulée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus spiniger",
+    "SpecCode": "4109",
+    "CommonName": "Kolyuchiy itsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus stenosomus",
+    "SpecCode": "50360",
+    "CommonName": "狭体冰杜父鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus toyamensis",
+    "SpecCode": "60023",
+    "CommonName": "Tomikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelus uncinalis",
+    "SpecCode": "51497",
+    "CommonName": "Uncinate sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

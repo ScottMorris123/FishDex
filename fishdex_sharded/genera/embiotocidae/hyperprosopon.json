@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hyperprosopon anale",
+    "SpecCode": "3630",
+    "CommonName": "Mojarra aletimanchada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyperprosopon argenteum",
+    "SpecCode": "3631",
+    "CommonName": "Mojarra ojona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyperprosopon ellipticum",
+    "SpecCode": "3632",
+    "CommonName": "Mojarra ovalada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

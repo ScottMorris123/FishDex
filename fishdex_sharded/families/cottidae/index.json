@@ -1,0 +1,367 @@
+{
+  "Family": "Cottidae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Sculpins",
+  "Genera": [
+    {
+      "Genus": "Abyssocottus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cottidae/abyssocottus.json"
+    },
+    {
+      "Genus": "Alcichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/alcichthys.json"
+    },
+    {
+      "Genus": "Alpinocottus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/alpinocottus.json"
+    },
+    {
+      "Genus": "Andriashevicottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/andriashevicottus.json"
+    },
+    {
+      "Genus": "Antipodocottus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cottidae/antipodocottus.json"
+    },
+    {
+      "Genus": "Archistes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/archistes.json"
+    },
+    {
+      "Genus": "Argyrocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/argyrocottus.json"
+    },
+    {
+      "Genus": "Artediellichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/artediellichthys.json"
+    },
+    {
+      "Genus": "Artediellina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/artediellina.json"
+    },
+    {
+      "Genus": "Artedielloides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/artedielloides.json"
+    },
+    {
+      "Genus": "Artediellus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/cottidae/artediellus.json"
+    },
+    {
+      "Genus": "Artedius",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cottidae/artedius.json"
+    },
+    {
+      "Genus": "Ascelichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/ascelichthys.json"
+    },
+    {
+      "Genus": "Asemichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/asemichthys.json"
+    },
+    {
+      "Genus": "Asprocottus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cottidae/asprocottus.json"
+    },
+    {
+      "Genus": "Astrocottus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cottidae/astrocottus.json"
+    },
+    {
+      "Genus": "Atopocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/atopocottus.json"
+    },
+    {
+      "Genus": "Batrachocottus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cottidae/batrachocottus.json"
+    },
+    {
+      "Genus": "Bero",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/bero.json"
+    },
+    {
+      "Genus": "Bolinia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/bolinia.json"
+    },
+    {
+      "Genus": "Chitonotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/chitonotus.json"
+    },
+    {
+      "Genus": "Clinocottus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cottidae/clinocottus.json"
+    },
+    {
+      "Genus": "Comephorus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/comephorus.json"
+    },
+    {
+      "Genus": "Cottinella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/cottinella.json"
+    },
+    {
+      "Genus": "Cottiusculus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cottidae/cottiusculus.json"
+    },
+    {
+      "Genus": "Cottocomephorus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cottidae/cottocomephorus.json"
+    },
+    {
+      "Genus": "Cottus",
+      "SpeciesCount": 66,
+      "genus_path": "genera/cottidae/cottus.json"
+    },
+    {
+      "Genus": "Cyphocottus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/cyphocottus.json"
+    },
+    {
+      "Genus": "Daruma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/daruma.json"
+    },
+    {
+      "Genus": "Enophrys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cottidae/enophrys.json"
+    },
+    {
+      "Genus": "Furcina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/furcina.json"
+    },
+    {
+      "Genus": "Gymnocanthus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cottidae/gymnocanthus.json"
+    },
+    {
+      "Genus": "Hemilepidotus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cottidae/hemilepidotus.json"
+    },
+    {
+      "Genus": "Icelinus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/cottidae/icelinus.json"
+    },
+    {
+      "Genus": "Icelus",
+      "SpeciesCount": 17,
+      "genus_path": "genera/cottidae/icelus.json"
+    },
+    {
+      "Genus": "Leiocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/leiocottus.json"
+    },
+    {
+      "Genus": "Leocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/leocottus.json"
+    },
+    {
+      "Genus": "Lepidobero",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/lepidobero.json"
+    },
+    {
+      "Genus": "Leptocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/leptocottus.json"
+    },
+    {
+      "Genus": "Limnocottus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cottidae/limnocottus.json"
+    },
+    {
+      "Genus": "Megalocottus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/megalocottus.json"
+    },
+    {
+      "Genus": "Mesocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/mesocottus.json"
+    },
+    {
+      "Genus": "Micrenophrys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/micrenophrys.json"
+    },
+    {
+      "Genus": "Microcottus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/microcottus.json"
+    },
+    {
+      "Genus": "Myoxocephalus",
+      "SpeciesCount": 16,
+      "genus_path": "genera/cottidae/myoxocephalus.json"
+    },
+    {
+      "Genus": "Neocottus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/neocottus.json"
+    },
+    {
+      "Genus": "Ocynectes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/ocynectes.json"
+    },
+    {
+      "Genus": "Oligocottus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cottidae/oligocottus.json"
+    },
+    {
+      "Genus": "Orthonopias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/orthonopias.json"
+    },
+    {
+      "Genus": "Paracottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/paracottus.json"
+    },
+    {
+      "Genus": "Phallocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/phallocottus.json"
+    },
+    {
+      "Genus": "Phasmatocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/phasmatocottus.json"
+    },
+    {
+      "Genus": "Porocottus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/cottidae/porocottus.json"
+    },
+    {
+      "Genus": "Procottus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cottidae/procottus.json"
+    },
+    {
+      "Genus": "Pseudoblennius",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cottidae/pseudoblennius.json"
+    },
+    {
+      "Genus": "Radulinopsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/radulinopsis.json"
+    },
+    {
+      "Genus": "Radulinus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cottidae/radulinus.json"
+    },
+    {
+      "Genus": "Rastrinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/rastrinus.json"
+    },
+    {
+      "Genus": "Ricuzenius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/ricuzenius.json"
+    },
+    {
+      "Genus": "Ruscarius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/ruscarius.json"
+    },
+    {
+      "Genus": "Sigmistes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/sigmistes.json"
+    },
+    {
+      "Genus": "Stelgistrum",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cottidae/stelgistrum.json"
+    },
+    {
+      "Genus": "Stlengis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cottidae/stlengis.json"
+    },
+    {
+      "Genus": "Synchirus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/synchirus.json"
+    },
+    {
+      "Genus": "Taurocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/taurocottus.json"
+    },
+    {
+      "Genus": "Taurulus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/taurulus.json"
+    },
+    {
+      "Genus": "Thyriscus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/thyriscus.json"
+    },
+    {
+      "Genus": "Trachidermus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/trachidermus.json"
+    },
+    {
+      "Genus": "Trichocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cottidae/trichocottus.json"
+    },
+    {
+      "Genus": "Triglops",
+      "SpeciesCount": 10,
+      "genus_path": "genera/cottidae/triglops.json"
+    },
+    {
+      "Genus": "Vellitor",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cottidae/vellitor.json"
+    },
+    {
+      "Genus": "Zesticelus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cottidae/zesticelus.json"
+    }
+  ]
+}

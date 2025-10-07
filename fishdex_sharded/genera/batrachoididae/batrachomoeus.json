@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Batrachomoeus dahli",
+    "SpecCode": "24707",
+    "CommonName": "Dahl's frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachomoeus dubius",
+    "SpecCode": "24708",
+    "CommonName": "Blotchtail toadfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachomoeus occidentalis",
+    "SpecCode": "10745",
+    "CommonName": "Austraalia ehmespea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachomoeus rubricephalus",
+    "SpecCode": "24711",
+    "CommonName": "Pinkhead frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachomoeus trispinosus",
+    "SpecCode": "10747",
+    "CommonName": "Broadbent's frogfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

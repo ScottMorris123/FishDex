@@ -1,0 +1,132 @@
+[
+  {
+    "ScientificName": "Trachurus capensis",
+    "SpecCode": "5382",
+    "CommonName": "Bastardmakrele",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus declivis",
+    "SpecCode": "372",
+    "CommonName": "Carapau-verde",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus delagoa",
+    "SpecCode": "1981",
+    "CommonName": "African maasbanker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus indicus",
+    "SpecCode": "1982",
+    "CommonName": "Arabian scad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus japonicus",
+    "SpecCode": "366",
+    "CommonName": "Atlantic horse mackerel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus lathami",
+    "SpecCode": "369",
+    "CommonName": "Carapau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus longimanus",
+    "SpecCode": "1980",
+    "CommonName": "Crozet scad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus mediterraneus",
+    "SpecCode": "1278",
+    "CommonName": "Aosifer",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus murphyi",
+    "SpecCode": "367",
+    "CommonName": "Carapau-chileno",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus novaezelandiae",
+    "SpecCode": "1979",
+    "CommonName": "Bung",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus picturatus",
+    "SpecCode": "1279",
+    "CommonName": "Blå hestemakrel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus symmetricus",
+    "SpecCode": "368",
+    "CommonName": "Carapau-do-Pacífico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus trachurus",
+    "SpecCode": "1365",
+    "CommonName": "Aji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachurus trecae",
+    "SpecCode": "371",
+    "CommonName": "Afriški šur",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

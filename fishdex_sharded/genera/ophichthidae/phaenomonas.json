@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Phaenomonas cooperae",
+    "SpecCode": "15691",
+    "CommonName": "Hadař cooperové",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phaenomonas longissima",
+    "SpecCode": "9079",
+    "CommonName": "Atlandi liimukangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phaenomonas pinnata",
+    "SpecCode": "13919",
+    "CommonName": "Elastic eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

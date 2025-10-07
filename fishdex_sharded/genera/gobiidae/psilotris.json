@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Psilotris alepis",
+    "SpecCode": "16634",
+    "CommonName": "Góbido franjeado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilotris boehlkei",
+    "SpecCode": "56748",
+    "CommonName": "貝氏裸滑塘鱧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilotris celsa",
+    "SpecCode": "16637",
+    "CommonName": "Gobio espina alta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilotris kaufmani",
+    "SpecCode": "56749",
+    "CommonName": "考氏裸滑塘鱧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilotris laetarii",
+    "SpecCode": "70011",
+    "CommonName": "Burrow splitfin goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilotris laurae",
+    "SpecCode": "70016",
+    "CommonName": "Thin-barred goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

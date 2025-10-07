@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pseudocheirodon arnoldi",
+    "SpecCode": "53084",
+    "CommonName": "Lumitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocheirodon terrabae",
+    "SpecCode": "53306",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

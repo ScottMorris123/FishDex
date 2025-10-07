@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hexanchus griseus",
+    "SpecCode": "637",
+    "CommonName": "6-gilled shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hexanchus nakamurai",
+    "SpecCode": "638",
+    "CommonName": "Bigeye sixgill shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hexanchus vitulus",
+    "SpecCode": "70065",
+    "CommonName": "Atlantic bigeye sixgill shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

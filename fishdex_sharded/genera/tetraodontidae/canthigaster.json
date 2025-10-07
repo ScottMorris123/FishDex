@@ -1,0 +1,354 @@
+[
+  {
+    "ScientificName": "Canthigaster amboinensis",
+    "SpecCode": "7840",
+    "CommonName": "Ambon puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster axiologus",
+    "SpecCode": "65366",
+    "CommonName": "Pacific crown toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster aziz",
+    "SpecCode": "69514",
+    "CommonName": "Aziz's toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster bennetti",
+    "SpecCode": "6541",
+    "CommonName": "Bennetti's sharpnose puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster caeruleolineata",
+    "SpecCode": "69920",
+    "CommonName": "Blue-lined toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster callisterna",
+    "SpecCode": "12770",
+    "CommonName": "Clown toado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster capistrata",
+    "SpecCode": "61212",
+    "CommonName": "Macaronesian sharpnose-puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster compressa",
+    "SpecCode": "6542",
+    "CommonName": "Buriring",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster coronata",
+    "SpecCode": "7845",
+    "CommonName": "Banded sharpnose pufferfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster criobe",
+    "SpecCode": "67437",
+    "CommonName": "Striped toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster cyanetron",
+    "SpecCode": "54886",
+    "CommonName": "Bluebelly toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster cyanospilota",
+    "SpecCode": "65363",
+    "CommonName": "Blue-spotted toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster epilampra",
+    "SpecCode": "7846",
+    "CommonName": "Bluespotted goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster figueiredoi",
+    "SpecCode": "61201",
+    "CommonName": "Baiacu-mirim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster flavoreticulata",
+    "SpecCode": "55012",
+    "CommonName": "黃網紋扁背魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster inframacula",
+    "SpecCode": "55010",
+    "CommonName": "Hokuro-kinchakufugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster investigatoris",
+    "SpecCode": "10590",
+    "CommonName": "小口扁背魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster jactator",
+    "SpecCode": "7844",
+    "CommonName": "Hawaiian whitespotted toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster jamestyleri",
+    "SpecCode": "61202",
+    "CommonName": "Goldface toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster janthinoptera",
+    "SpecCode": "6543",
+    "CommonName": "Buntel totol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster leoparda",
+    "SpecCode": "6545",
+    "CommonName": "Butete",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster margaritata",
+    "SpecCode": "12778",
+    "CommonName": "Aaltopallokala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster marquesensis",
+    "SpecCode": "55005",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster natalensis",
+    "SpecCode": "61396",
+    "CommonName": "Lesh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster ocellicincta",
+    "SpecCode": "12684",
+    "CommonName": "Circle-barred puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster papua",
+    "SpecCode": "55072",
+    "CommonName": "False-eye puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster petersii",
+    "SpecCode": "67511",
+    "CommonName": "Peter's toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster punctata",
+    "SpecCode": "55015",
+    "CommonName": "孔斑扁背魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster punctatissima",
+    "SpecCode": "14159",
+    "CommonName": "Botete bonito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster pygmaea",
+    "SpecCode": "25414",
+    "CommonName": "Pygmy toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster rapaensis",
+    "SpecCode": "55008",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster rivulata",
+    "SpecCode": "6668",
+    "CommonName": "Boultang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster rostrata",
+    "SpecCode": "4291",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster sanctaehelenae",
+    "SpecCode": "55073",
+    "CommonName": "Bastard Hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster smithae",
+    "SpecCode": "12768",
+    "CommonName": "Bicolored toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster solandri",
+    "SpecCode": "6578",
+    "CommonName": "Buqmah solandri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster supramacula",
+    "SpecCode": "61203",
+    "CommonName": "West African sharpnose-puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster tyleri",
+    "SpecCode": "12829",
+    "CommonName": "Tansanianpallokala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthigaster valentini",
+    "SpecCode": "6544",
+    "CommonName": "Banded toby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

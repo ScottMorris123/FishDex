@@ -1,0 +1,111 @@
+[
+  {
+    "ScientificName": "Equulites aethopos",
+    "SpecCode": "69026",
+    "CommonName": "Red Sea elongate ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites berbis",
+    "SpecCode": "7748",
+    "CommonName": "Berber ponyfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites elongatus",
+    "SpecCode": "69025",
+    "CommonName": "Elongate ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites klunzingeri",
+    "SpecCode": "27024",
+    "CommonName": "Eksi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites laterofenestra",
+    "SpecCode": "63518",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites leuciscus",
+    "SpecCode": "4453",
+    "CommonName": "Bati",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites lineolatus",
+    "SpecCode": "4563",
+    "CommonName": "Cá Liệt sọc to",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites macrolepis",
+    "SpecCode": "70568",
+    "CommonName": "Largescale ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites oblongus",
+    "SpecCode": "58321",
+    "CommonName": "Oblong ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites popei",
+    "SpecCode": "4450",
+    "CommonName": "Cá Liệt dài",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites rivulatus",
+    "SpecCode": "23466",
+    "CommonName": "Cá bâu vệt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Equulites ryukyuensis",
+    "SpecCode": "70569",
+    "CommonName": "Okinawa-itohiki-hiiragi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

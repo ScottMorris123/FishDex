@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Protocobitis anteroventris",
+    "SpecCode": "67546",
+    "CommonName": "Langpingi ürghink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protocobitis polylepis",
+    "SpecCode": "64630",
+    "CommonName": "Lätte-ürghink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protocobitis typhlops",
+    "SpecCode": "49967",
+    "CommonName": "Koopa-ürghink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

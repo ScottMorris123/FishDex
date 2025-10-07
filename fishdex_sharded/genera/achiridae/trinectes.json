@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Trinectes fimbriatus",
+    "SpecCode": "13437",
+    "CommonName": "Fringed sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinectes fluviatilis",
+    "SpecCode": "13440",
+    "CommonName": "Freshwater sole",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinectes fonsecensis",
+    "SpecCode": "13441",
+    "CommonName": "Guardaboya",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinectes hubbsbollinger",
+    "SpecCode": "67073",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinectes inscriptus",
+    "SpecCode": "4259",
+    "CommonName": "Acedía reticulada",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinectes maculatus",
+    "SpecCode": "4260",
+    "CommonName": "Achira",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinectes microphthalmus",
+    "SpecCode": "57934",
+    "CommonName": "Linguado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinectes opercularis",
+    "SpecCode": "13442",
+    "CommonName": "Sole à joue tachetée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinectes paulistanus",
+    "SpecCode": "7580",
+    "CommonName": "Lenguado redondo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinectes xanthurus",
+    "SpecCode": "60305",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

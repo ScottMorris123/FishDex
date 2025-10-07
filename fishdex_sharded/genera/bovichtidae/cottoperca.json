@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Cottoperca gobio",
+    "SpecCode": "51212",
+    "CommonName": "Channel bull blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottoperca trigloides",
+    "SpecCode": "66100",
+    "CommonName": "Kukk-võldassarv",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

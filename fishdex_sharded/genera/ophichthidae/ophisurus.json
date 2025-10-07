@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Ophisurus macrorhynchos",
+    "SpecCode": "12980",
+    "CommonName": "Dainan-umihebi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophisurus serpens",
+    "SpecCode": "1745",
+    "CommonName": "Cobra-do-mar",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

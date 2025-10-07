@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Gobulus birdsongi",
+    "SpecCode": "61018",
+    "CommonName": "Fin-joined goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobulus crescentalis",
+    "SpecCode": "46879",
+    "CommonName": "Crescent goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobulus hancocki",
+    "SpecCode": "46878",
+    "CommonName": "Gobio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobulus myersi",
+    "SpecCode": "3879",
+    "CommonName": "Paleback goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

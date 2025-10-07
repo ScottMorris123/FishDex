@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Colpichthys hubbsi",
+    "SpecCode": "13521",
+    "CommonName": "Athérine delta",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Colpichthys regis",
+    "SpecCode": "6285",
+    "CommonName": "Athérine charale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

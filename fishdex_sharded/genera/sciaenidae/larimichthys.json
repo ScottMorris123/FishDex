@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Larimichthys crocea",
+    "SpecCode": "428",
+    "CommonName": "Cá Đỏ dạ lớn",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Larimichthys pamoides",
+    "SpecCode": "15451",
+    "CommonName": "Many-rayed jewfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Larimichthys polyactis",
+    "SpecCode": "416",
+    "CommonName": "Ch'am-jo-gi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

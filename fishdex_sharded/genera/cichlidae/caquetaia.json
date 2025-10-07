@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Caquetaia kraussii",
+    "SpecCode": "46738",
+    "CommonName": "Krausses Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caquetaia myersi",
+    "SpecCode": "46743",
+    "CommonName": "Kaksiraitakirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caquetaia spectabilis",
+    "SpecCode": "25746",
+    "CommonName": "Acará rosada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

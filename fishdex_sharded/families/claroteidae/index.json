@@ -1,0 +1,62 @@
+{
+  "Family": "Claroteidae",
+  "Order": "Siluriformes",
+  "Common": "Claroteid catfishes",
+  "Genera": [
+    {
+      "Genus": "Amarginops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/claroteidae/amarginops.json"
+    },
+    {
+      "Genus": "Auchenoglanis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/claroteidae/auchenoglanis.json"
+    },
+    {
+      "Genus": "Bathybagrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/claroteidae/bathybagrus.json"
+    },
+    {
+      "Genus": "Chrysichthys",
+      "SpeciesCount": 42,
+      "genus_path": "genera/claroteidae/chrysichthys.json"
+    },
+    {
+      "Genus": "Clarotes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/claroteidae/clarotes.json"
+    },
+    {
+      "Genus": "Gephyroglanis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/claroteidae/gephyroglanis.json"
+    },
+    {
+      "Genus": "Lophiobagrus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/claroteidae/lophiobagrus.json"
+    },
+    {
+      "Genus": "Notoglanidium",
+      "SpeciesCount": 9,
+      "genus_path": "genera/claroteidae/notoglanidium.json"
+    },
+    {
+      "Genus": "Parauchenoglanis",
+      "SpeciesCount": 9,
+      "genus_path": "genera/claroteidae/parauchenoglanis.json"
+    },
+    {
+      "Genus": "Pardiglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/claroteidae/pardiglanis.json"
+    },
+    {
+      "Genus": "Phyllonemus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/claroteidae/phyllonemus.json"
+    }
+  ]
+}

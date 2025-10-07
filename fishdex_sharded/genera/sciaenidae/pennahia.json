@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pennahia aneus",
+    "SpecCode": "13664",
+    "CommonName": "Abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pennahia argentata",
+    "SpecCode": "434",
+    "CommonName": "Bài gū yú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pennahia macrocephalus",
+    "SpecCode": "8321",
+    "CommonName": "Big-head croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pennahia ovata",
+    "SpecCode": "16027",
+    "CommonName": "卵形彭納石首魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pennahia pawak",
+    "SpecCode": "10619",
+    "CommonName": "Cá Đù bạc vây đen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

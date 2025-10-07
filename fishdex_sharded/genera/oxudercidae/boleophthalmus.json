@@ -1,0 +1,68 @@
+[
+  {
+    "ScientificName": "Boleophthalmus birdsongi",
+    "SpecCode": "27578",
+    "CommonName": "Birdsong's mudskipper",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boleophthalmus boddarti",
+    "SpecCode": "4901",
+    "CommonName": "Belodok tembakul",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boleophthalmus caeruleomaculatus",
+    "SpecCode": "27580",
+    "CommonName": "Blue-spotted mud-hopper",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boleophthalmus dussumieri",
+    "SpecCode": "6533",
+    "CommonName": "Eshlambo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boleophthalmus pectinirostris",
+    "SpecCode": "15864",
+    "CommonName": "Cá Lác",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boleophthalmus poti",
+    "SpecCode": "66793",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Thynnichthys polylepis",
+    "SpecCode": "22682",
+    "CommonName": "Bauk ketuk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thynnichthys sandkhol",
+    "SpecCode": "13213",
+    "CommonName": "Banga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thynnichthys thynnoides",
+    "SpecCode": "16209",
+    "CommonName": "Cá linh cám",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thynnichthys vaillanti",
+    "SpecCode": "22686",
+    "CommonName": "Planang Vaillantův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

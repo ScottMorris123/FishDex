@@ -1,0 +1,269 @@
+[
+  {
+    "ScientificName": "Sphyraena acutipinnis",
+    "SpecCode": "5733",
+    "CommonName": "Balyos",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena afra",
+    "SpecCode": "5030",
+    "CommonName": "Akpa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena arabiansis",
+    "SpecCode": "68665",
+    "CommonName": "Arabian barracuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena argentea",
+    "SpecCode": "3678",
+    "CommonName": "Barrakuda srebrzysta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena barracuda",
+    "SpecCode": "1235",
+    "CommonName": "Ai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena borealis",
+    "SpecCode": "3679",
+    "CommonName": "Barracuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena chrysotaenia",
+    "SpecCode": "16905",
+    "CommonName": "Barakuda żółtopłetwa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena ensis",
+    "SpecCode": "6405",
+    "CommonName": "Barracuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena flavicauda",
+    "SpecCode": "7937",
+    "CommonName": "Agam",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena forsteri",
+    "SpecCode": "5734",
+    "CommonName": "Abai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena guachancho",
+    "SpecCode": "1236",
+    "CommonName": "Ahnèche",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena helleri",
+    "SpecCode": "6649",
+    "CommonName": "Balyos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena iburiensis",
+    "SpecCode": "62382",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena idiastes",
+    "SpecCode": "8335",
+    "CommonName": "Aguja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena intermedia",
+    "SpecCode": "65628",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena japonica",
+    "SpecCode": "13002",
+    "CommonName": "Ae-kko-ch'i",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena jello",
+    "SpecCode": "4827",
+    "CommonName": "Agam",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena lucasana",
+    "SpecCode": "12007",
+    "CommonName": "Barracuda agujona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena novaehollandiae",
+    "SpecCode": "5736",
+    "CommonName": "Arrow barracuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena obtusata",
+    "SpecCode": "4493",
+    "CommonName": "Agam",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena picudilla",
+    "SpecCode": "1237",
+    "CommonName": "Barracuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena pinguis",
+    "SpecCode": "13001",
+    "CommonName": "Aka-kamasu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena putnamae",
+    "SpecCode": "7938",
+    "CommonName": "Alu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena qenie",
+    "SpecCode": "7939",
+    "CommonName": "Alu-alu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena sphyraena",
+    "SpecCode": "1765",
+    "CommonName": "Alluzz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena stellata",
+    "SpecCode": "69339",
+    "CommonName": "Hoso-kamasu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena tome",
+    "SpecCode": "50139",
+    "CommonName": "Bicuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena viridensis",
+    "SpecCode": "10202",
+    "CommonName": "Barakoda sfraa elfam",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyraena waitii",
+    "SpecCode": "12557",
+    "CommonName": "韋氏魣",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

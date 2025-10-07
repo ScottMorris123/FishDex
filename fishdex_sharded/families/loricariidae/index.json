@@ -1,0 +1,602 @@
+{
+  "Family": "Loricariidae",
+  "Order": "Siluriformes",
+  "Common": "Armored catfishes",
+  "Genera": [
+    {
+      "Genus": "Acanthicus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/acanthicus.json"
+    },
+    {
+      "Genus": "Acestridium",
+      "SpeciesCount": 7,
+      "genus_path": "genera/loricariidae/acestridium.json"
+    },
+    {
+      "Genus": "Ancistomus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/loricariidae/ancistomus.json"
+    },
+    {
+      "Genus": "Ancistrus",
+      "SpeciesCount": 77,
+      "genus_path": "genera/loricariidae/ancistrus.json"
+    },
+    {
+      "Genus": "Andeancistrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/andeancistrus.json"
+    },
+    {
+      "Genus": "Aphanotorulus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/loricariidae/aphanotorulus.json"
+    },
+    {
+      "Genus": "Aposturisoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/aposturisoma.json"
+    },
+    {
+      "Genus": "Avalithoxus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/avalithoxus.json"
+    },
+    {
+      "Genus": "Baryancistrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/baryancistrus.json"
+    },
+    {
+      "Genus": "Brochiloricaria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/brochiloricaria.json"
+    },
+    {
+      "Genus": "Chaetostoma",
+      "SpeciesCount": 47,
+      "genus_path": "genera/loricariidae/chaetostoma.json"
+    },
+    {
+      "Genus": "Chauliocheilos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/chauliocheilos.json"
+    },
+    {
+      "Genus": "Cordylancistrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/cordylancistrus.json"
+    },
+    {
+      "Genus": "Corumbataia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/corumbataia.json"
+    },
+    {
+      "Genus": "Corymbophanes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/corymbophanes.json"
+    },
+    {
+      "Genus": "Crossoloricaria",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/crossoloricaria.json"
+    },
+    {
+      "Genus": "Cryptancistrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/cryptancistrus.json"
+    },
+    {
+      "Genus": "Cteniloricaria",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/cteniloricaria.json"
+    },
+    {
+      "Genus": "Curculionichthys",
+      "SpeciesCount": 13,
+      "genus_path": "genera/loricariidae/curculionichthys.json"
+    },
+    {
+      "Genus": "Dasyloricaria",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/dasyloricaria.json"
+    },
+    {
+      "Genus": "Dekeyseria",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/dekeyseria.json"
+    },
+    {
+      "Genus": "Delturus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/loricariidae/delturus.json"
+    },
+    {
+      "Genus": "Dentectus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/dentectus.json"
+    },
+    {
+      "Genus": "Dolichancistrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/dolichancistrus.json"
+    },
+    {
+      "Genus": "Epactionotus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/loricariidae/epactionotus.json"
+    },
+    {
+      "Genus": "Etsaputu",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/etsaputu.json"
+    },
+    {
+      "Genus": "Eurycheilichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/eurycheilichthys.json"
+    },
+    {
+      "Genus": "Euryochus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/euryochus.json"
+    },
+    {
+      "Genus": "Exastilithoxus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/exastilithoxus.json"
+    },
+    {
+      "Genus": "Farlowella",
+      "SpeciesCount": 30,
+      "genus_path": "genera/loricariidae/farlowella.json"
+    },
+    {
+      "Genus": "Fonchiiichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/fonchiiichthys.json"
+    },
+    {
+      "Genus": "Fonchiiloricaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/fonchiiloricaria.json"
+    },
+    {
+      "Genus": "Furcodontichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/furcodontichthys.json"
+    },
+    {
+      "Genus": "Guyanancistrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/guyanancistrus.json"
+    },
+    {
+      "Genus": "Gymnotocinclus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/gymnotocinclus.json"
+    },
+    {
+      "Genus": "Harttia",
+      "SpeciesCount": 26,
+      "genus_path": "genera/loricariidae/harttia.json"
+    },
+    {
+      "Genus": "Harttiella",
+      "SpeciesCount": 7,
+      "genus_path": "genera/loricariidae/harttiella.json"
+    },
+    {
+      "Genus": "Hemiancistrus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/loricariidae/hemiancistrus.json"
+    },
+    {
+      "Genus": "Hemiodontichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/hemiodontichthys.json"
+    },
+    {
+      "Genus": "Hemipsilichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/hemipsilichthys.json"
+    },
+    {
+      "Genus": "Hirtella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/hirtella.json"
+    },
+    {
+      "Genus": "Hisonotus",
+      "SpeciesCount": 35,
+      "genus_path": "genera/loricariidae/hisonotus.json"
+    },
+    {
+      "Genus": "Hopliancistrus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/loricariidae/hopliancistrus.json"
+    },
+    {
+      "Genus": "Hypancistrus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/loricariidae/hypancistrus.json"
+    },
+    {
+      "Genus": "Hypoptopoma",
+      "SpeciesCount": 13,
+      "genus_path": "genera/loricariidae/hypoptopoma.json"
+    },
+    {
+      "Genus": "Hypostomus",
+      "SpeciesCount": 152,
+      "genus_path": "genera/loricariidae/hypostomus.json"
+    },
+    {
+      "Genus": "Isbrueckerichthys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/loricariidae/isbrueckerichthys.json"
+    },
+    {
+      "Genus": "Isorineloricaria",
+      "SpeciesCount": 4,
+      "genus_path": "genera/loricariidae/isorineloricaria.json"
+    },
+    {
+      "Genus": "Ixinandria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/ixinandria.json"
+    },
+    {
+      "Genus": "Kronichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/kronichthys.json"
+    },
+    {
+      "Genus": "Lamontichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/lamontichthys.json"
+    },
+    {
+      "Genus": "Lampiella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/lampiella.json"
+    },
+    {
+      "Genus": "Lasiancistrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/lasiancistrus.json"
+    },
+    {
+      "Genus": "Leporacanthicus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/loricariidae/leporacanthicus.json"
+    },
+    {
+      "Genus": "Leptoancistrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/leptoancistrus.json"
+    },
+    {
+      "Genus": "Leptotocinclus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/leptotocinclus.json"
+    },
+    {
+      "Genus": "Limatulichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/limatulichthys.json"
+    },
+    {
+      "Genus": "Lipopterichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/lipopterichthys.json"
+    },
+    {
+      "Genus": "Lithogenes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/lithogenes.json"
+    },
+    {
+      "Genus": "Lithoxus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/lithoxus.json"
+    },
+    {
+      "Genus": "Loraxichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/loraxichthys.json"
+    },
+    {
+      "Genus": "Loricaria",
+      "SpeciesCount": 17,
+      "genus_path": "genera/loricariidae/loricaria.json"
+    },
+    {
+      "Genus": "Loricariichthys",
+      "SpeciesCount": 18,
+      "genus_path": "genera/loricariidae/loricariichthys.json"
+    },
+    {
+      "Genus": "Megalancistrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/megalancistrus.json"
+    },
+    {
+      "Genus": "Metaloricaria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/metaloricaria.json"
+    },
+    {
+      "Genus": "Micracanthicus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/micracanthicus.json"
+    },
+    {
+      "Genus": "Microlepidogaster",
+      "SpeciesCount": 8,
+      "genus_path": "genera/loricariidae/microlepidogaster.json"
+    },
+    {
+      "Genus": "Microplecostomus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/microplecostomus.json"
+    },
+    {
+      "Genus": "Nannoplecostomus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/nannoplecostomus.json"
+    },
+    {
+      "Genus": "Nannoptopoma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/nannoptopoma.json"
+    },
+    {
+      "Genus": "Nannoxyropsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/nannoxyropsis.json"
+    },
+    {
+      "Genus": "Neblinichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/neblinichthys.json"
+    },
+    {
+      "Genus": "Neoplecostomus",
+      "SpeciesCount": 16,
+      "genus_path": "genera/loricariidae/neoplecostomus.json"
+    },
+    {
+      "Genus": "Niobichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/niobichthys.json"
+    },
+    {
+      "Genus": "Otocinclus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/loricariidae/otocinclus.json"
+    },
+    {
+      "Genus": "Otothyris",
+      "SpeciesCount": 4,
+      "genus_path": "genera/loricariidae/otothyris.json"
+    },
+    {
+      "Genus": "Otothyropsis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/otothyropsis.json"
+    },
+    {
+      "Genus": "Oxyropsis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/oxyropsis.json"
+    },
+    {
+      "Genus": "Panaqolus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/loricariidae/panaqolus.json"
+    },
+    {
+      "Genus": "Panaque",
+      "SpeciesCount": 7,
+      "genus_path": "genera/loricariidae/panaque.json"
+    },
+    {
+      "Genus": "Paralithoxus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/loricariidae/paralithoxus.json"
+    },
+    {
+      "Genus": "Paraloricaria",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/paraloricaria.json"
+    },
+    {
+      "Genus": "Parancistrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/parancistrus.json"
+    },
+    {
+      "Genus": "Pareiorhaphis",
+      "SpeciesCount": 24,
+      "genus_path": "genera/loricariidae/pareiorhaphis.json"
+    },
+    {
+      "Genus": "Pareiorhina",
+      "SpeciesCount": 7,
+      "genus_path": "genera/loricariidae/pareiorhina.json"
+    },
+    {
+      "Genus": "Parotocinclus",
+      "SpeciesCount": 30,
+      "genus_path": "genera/loricariidae/parotocinclus.json"
+    },
+    {
+      "Genus": "Paulasquama",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/paulasquama.json"
+    },
+    {
+      "Genus": "Peckoltia",
+      "SpeciesCount": 21,
+      "genus_path": "genera/loricariidae/peckoltia.json"
+    },
+    {
+      "Genus": "Planiloricaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/planiloricaria.json"
+    },
+    {
+      "Genus": "Plesioptopoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/plesioptopoma.json"
+    },
+    {
+      "Genus": "Pogonopoma",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/pogonopoma.json"
+    },
+    {
+      "Genus": "Proloricaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/proloricaria.json"
+    },
+    {
+      "Genus": "Pseudacanthicus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/loricariidae/pseudacanthicus.json"
+    },
+    {
+      "Genus": "Pseudancistrus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/loricariidae/pseudancistrus.json"
+    },
+    {
+      "Genus": "Pseudohemiodon",
+      "SpeciesCount": 8,
+      "genus_path": "genera/loricariidae/pseudohemiodon.json"
+    },
+    {
+      "Genus": "Pseudolithoxus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/pseudolithoxus.json"
+    },
+    {
+      "Genus": "Pseudoloricaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/pseudoloricaria.json"
+    },
+    {
+      "Genus": "Pseudoqolus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/pseudoqolus.json"
+    },
+    {
+      "Genus": "Pseudorinelepis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/pseudorinelepis.json"
+    },
+    {
+      "Genus": "Pseudotocinclus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/pseudotocinclus.json"
+    },
+    {
+      "Genus": "Pseudotothyris",
+      "SpeciesCount": 3,
+      "genus_path": "genera/loricariidae/pseudotothyris.json"
+    },
+    {
+      "Genus": "Pterosturisoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/pterosturisoma.json"
+    },
+    {
+      "Genus": "Pterygoplichthys",
+      "SpeciesCount": 15,
+      "genus_path": "genera/loricariidae/pterygoplichthys.json"
+    },
+    {
+      "Genus": "Pyxiloricaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/pyxiloricaria.json"
+    },
+    {
+      "Genus": "Reganella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/reganella.json"
+    },
+    {
+      "Genus": "Rhadinoloricaria",
+      "SpeciesCount": 9,
+      "genus_path": "genera/loricariidae/rhadinoloricaria.json"
+    },
+    {
+      "Genus": "Rhinelepis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/rhinelepis.json"
+    },
+    {
+      "Genus": "Rhinolekos",
+      "SpeciesCount": 4,
+      "genus_path": "genera/loricariidae/rhinolekos.json"
+    },
+    {
+      "Genus": "Rhinotocinclus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/loricariidae/rhinotocinclus.json"
+    },
+    {
+      "Genus": "Ricola",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/ricola.json"
+    },
+    {
+      "Genus": "Rineloricaria",
+      "SpeciesCount": 64,
+      "genus_path": "genera/loricariidae/rineloricaria.json"
+    },
+    {
+      "Genus": "Schizolecis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/schizolecis.json"
+    },
+    {
+      "Genus": "Scobinancistrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/scobinancistrus.json"
+    },
+    {
+      "Genus": "Soromonichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/loricariidae/soromonichthys.json"
+    },
+    {
+      "Genus": "Spatuloricaria",
+      "SpeciesCount": 13,
+      "genus_path": "genera/loricariidae/spatuloricaria.json"
+    },
+    {
+      "Genus": "Spectracanthicus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/loricariidae/spectracanthicus.json"
+    },
+    {
+      "Genus": "Sturisoma",
+      "SpeciesCount": 11,
+      "genus_path": "genera/loricariidae/sturisoma.json"
+    },
+    {
+      "Genus": "Sturisomatichthys",
+      "SpeciesCount": 9,
+      "genus_path": "genera/loricariidae/sturisomatichthys.json"
+    },
+    {
+      "Genus": "Transancistrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/loricariidae/transancistrus.json"
+    }
+  ]
+}

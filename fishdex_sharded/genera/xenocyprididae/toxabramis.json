@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Toxabramis argentifer",
+    "SpecCode": "65270",
+    "CommonName": "Hõbejas amblatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxabramis hoffmanni",
+    "SpecCode": "56025",
+    "CommonName": "Cejnovec Hoffmannův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxabramis hotayensis",
+    "SpecCode": "62837",
+    "CommonName": "Hanoi amblatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxabramis houdemeri",
+    "SpecCode": "56110",
+    "CommonName": "Cejnovec Houdemerův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxabramis maensis",
+    "SpecCode": "64534",
+    "CommonName": "Ma amblatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxabramis nhatleensis",
+    "SpecCode": "64535",
+    "CommonName": "Põhjavietnami amblatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxabramis swinhonis",
+    "SpecCode": "55396",
+    "CommonName": "Cejnovec čínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

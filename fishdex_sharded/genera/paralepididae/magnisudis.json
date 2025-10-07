@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Magnisudis atlantica",
+    "SpecCode": "2727",
+    "CommonName": "Barracudina Pequeña",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Magnisudis indica",
+    "SpecCode": "58760",
+    "CommonName": "Indo-kusabi-uroko-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Magnisudis prionosa",
+    "SpecCode": "6978",
+    "CommonName": "Barracudina austral",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

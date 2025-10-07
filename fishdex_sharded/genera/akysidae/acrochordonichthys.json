@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Acrochordonichthys chamaeleon",
+    "SpecCode": "23294",
+    "CommonName": "Kebingkung",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrochordonichthys falcifer",
+    "SpecCode": "58361",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrochordonichthys guttatus",
+    "SpecCode": "58357",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrochordonichthys gyrinus",
+    "SpecCode": "61549",
+    "CommonName": "Falcate chameleon catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrochordonichthys ischnosoma",
+    "SpecCode": "23295",
+    "CommonName": "細體龐鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrochordonichthys mahakamensis",
+    "SpecCode": "58358",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrochordonichthys pachyderma",
+    "SpecCode": "58362",
+    "CommonName": "Borneonbalalaikkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrochordonichthys rugosus",
+    "SpecCode": "23304",
+    "CommonName": "Asiatisk guitarmalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrochordonichthys septentrionalis",
+    "SpecCode": "58359",
+    "CommonName": "Maeklong chameleon catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrochordonichthys strigosus",
+    "SpecCode": "58360",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

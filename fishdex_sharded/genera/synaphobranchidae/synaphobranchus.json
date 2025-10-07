@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Synaphobranchus affinis",
+    "SpecCode": "7476",
+    "CommonName": "Gilbert's synaphobranchid eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaphobranchus brevidorsalis",
+    "SpecCode": "22585",
+    "CommonName": "Euroopa süvaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaphobranchus calvus",
+    "SpecCode": "63906",
+    "CommonName": "Kiilas süvaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaphobranchus dolichorhynchus",
+    "SpecCode": "61207",
+    "CommonName": "Nokis-süvaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaphobranchus kaupii",
+    "SpecCode": "9104",
+    "CommonName": "Anguille égorgée bécue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaphobranchus oregoni",
+    "SpecCode": "54273",
+    "CommonName": "Oregoni süvaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

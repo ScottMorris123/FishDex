@@ -1,0 +1,27 @@
+{
+  "Family": "Chiasmodontidae",
+  "Order": "Scombriformes",
+  "Common": "Snaketooth fishes",
+  "Genera": [
+    {
+      "Genus": "Chiasmodon",
+      "SpeciesCount": 7,
+      "genus_path": "genera/chiasmodontidae/chiasmodon.json"
+    },
+    {
+      "Genus": "Dysalotus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/chiasmodontidae/dysalotus.json"
+    },
+    {
+      "Genus": "Kali",
+      "SpeciesCount": 7,
+      "genus_path": "genera/chiasmodontidae/kali.json"
+    },
+    {
+      "Genus": "Pseudoscopelus",
+      "SpeciesCount": 16,
+      "genus_path": "genera/chiasmodontidae/pseudoscopelus.json"
+    }
+  ]
+}

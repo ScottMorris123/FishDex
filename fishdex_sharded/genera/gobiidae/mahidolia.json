@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Mahidolia mystacina",
+    "SpecCode": "7240",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mahidolia paucipora",
+    "SpecCode": "69219",
+    "CommonName": "Tiny shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

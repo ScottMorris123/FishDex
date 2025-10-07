@@ -1,0 +1,12 @@
+{
+  "Family": "Alepisauridae",
+  "Order": "Aulopiformes",
+  "Common": "Lancetfishes",
+  "Genera": [
+    {
+      "Genus": "Alepisaurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/alepisauridae/alepisaurus.json"
+    }
+  ]
+}

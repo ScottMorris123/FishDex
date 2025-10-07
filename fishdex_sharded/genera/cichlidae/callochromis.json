@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Callochromis macrops",
+    "SpecCode": "8122",
+    "CommonName": "Kuparihiekkahautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callochromis melanostigma",
+    "SpecCode": "8149",
+    "CommonName": "Nördlicher Großaugen-Maulbrüter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callochromis pleurospilus",
+    "SpecCode": "8151",
+    "CommonName": "Glanzmaulbrüter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

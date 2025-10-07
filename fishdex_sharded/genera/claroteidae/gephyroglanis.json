@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gephyroglanis congicus",
+    "SpecCode": "9331",
+    "CommonName": "Bokembe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyroglanis gymnorhynchus",
+    "SpecCode": "9332",
+    "CommonName": "裸吻桥鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyroglanis habereri",
+    "SpecCode": "9333",
+    "CommonName": "哈氏桥鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

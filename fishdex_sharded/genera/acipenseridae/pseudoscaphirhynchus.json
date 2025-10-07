@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Pseudoscaphirhynchus fedtschenkoi",
+    "SpecCode": "8763",
+    "CommonName": "Lopatonos fedčenkův",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoscaphirhynchus hermanni",
+    "SpecCode": "8764",
+    "CommonName": "Dwarf sturgeon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoscaphirhynchus kaufmanni",
+    "SpecCode": "4634",
+    "CommonName": "Amu Darya shovelnose sturgeon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

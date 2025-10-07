@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pseudochondrostoma duriense",
+    "SpecCode": "51791",
+    "CommonName": "Boga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochondrostoma polylepis",
+    "SpecCode": "10431",
+    "CommonName": "Boga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochondrostoma willkommii",
+    "SpecCode": "9766",
+    "CommonName": "Boga do Sul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

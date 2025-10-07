@@ -1,0 +1,17 @@
+{
+  "Family": "Urotrygonidae",
+  "Order": "Myliobatiformes",
+  "Common": "American round stingrays",
+  "Genera": [
+    {
+      "Genus": "Urobatis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/urotrygonidae/urobatis.json"
+    },
+    {
+      "Genus": "Urotrygon",
+      "SpeciesCount": 13,
+      "genus_path": "genera/urotrygonidae/urotrygon.json"
+    }
+  ]
+}

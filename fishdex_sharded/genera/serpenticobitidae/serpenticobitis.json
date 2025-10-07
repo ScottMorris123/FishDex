@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Serpenticobitis cingulata",
+    "SpecCode": "58057",
+    "CommonName": "Poolvööt-siughink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serpenticobitis octozona",
+    "SpecCode": "57409",
+    "CommonName": "Kaheksaküüt-siughink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serpenticobitis zonata",
+    "SpecCode": "50394",
+    "CommonName": "Sekavec tmavopruhý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

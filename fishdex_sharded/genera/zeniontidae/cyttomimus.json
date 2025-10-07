@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Cyttomimus affinis",
+    "SpecCode": "23361",
+    "CommonName": "Ao-matôdai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyttomimus stelgis",
+    "SpecCode": "55130",
+    "CommonName": "柱菱海魴",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

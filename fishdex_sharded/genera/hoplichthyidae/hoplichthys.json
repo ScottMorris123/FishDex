@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Hoplichthys acanthopleurus",
+    "SpecCode": "10696",
+    "CommonName": "棘鯒",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys citrinus",
+    "SpecCode": "15156",
+    "CommonName": "Baji-baji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys fasciatus",
+    "SpecCode": "23902",
+    "CommonName": "Shima-harigochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys filamentosus",
+    "SpecCode": "15158",
+    "CommonName": "Ito-harigochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys gilberti",
+    "SpecCode": "8261",
+    "CommonName": "Baji-baji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys haswelli",
+    "SpecCode": "14346",
+    "CommonName": "Armoured flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys imamurai",
+    "SpecCode": "67206",
+    "CommonName": "Imamura's ghost flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys langsdorfii",
+    "SpecCode": "23901",
+    "CommonName": "Natsu-harigochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys mcgroutheri",
+    "SpecCode": "69334",
+    "CommonName": "McGrouther's ghost flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys ogilbyi",
+    "SpecCode": "15160",
+    "CommonName": "Ghost flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys pectoralis",
+    "SpecCode": "58772",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys platophrys",
+    "SpecCode": "58773",
+    "CommonName": "平头棘鲬",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys prosemion",
+    "SpecCode": "63186",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplichthys regani",
+    "SpecCode": "10578",
+    "CommonName": "Ghost flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

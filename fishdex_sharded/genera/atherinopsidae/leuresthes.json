@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Leuresthes sardina",
+    "SpecCode": "13523",
+    "CommonName": "Athérine mexicaine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leuresthes tenuis",
+    "SpecCode": "3239",
+    "CommonName": "California grunion",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

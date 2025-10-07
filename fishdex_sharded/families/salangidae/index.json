@@ -1,0 +1,42 @@
+{
+  "Family": "Salangidae",
+  "Order": "Osmeriformes",
+  "Common": "Icefishes or noodlefishes",
+  "Genera": [
+    {
+      "Genus": "Hemisalanx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/salangidae/hemisalanx.json"
+    },
+    {
+      "Genus": "Leucosoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/salangidae/leucosoma.json"
+    },
+    {
+      "Genus": "Neosalangichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/salangidae/neosalangichthys.json"
+    },
+    {
+      "Genus": "Neosalanx",
+      "SpeciesCount": 10,
+      "genus_path": "genera/salangidae/neosalanx.json"
+    },
+    {
+      "Genus": "Protosalanx",
+      "SpeciesCount": 2,
+      "genus_path": "genera/salangidae/protosalanx.json"
+    },
+    {
+      "Genus": "Salangichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/salangidae/salangichthys.json"
+    },
+    {
+      "Genus": "Salanx",
+      "SpeciesCount": 4,
+      "genus_path": "genera/salangidae/salanx.json"
+    }
+  ]
+}

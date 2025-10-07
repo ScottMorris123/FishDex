@@ -1,0 +1,22 @@
+{
+  "Family": "Emmelichthyidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Rovers",
+  "Genera": [
+    {
+      "Genus": "Emmelichthys",
+      "SpeciesCount": 8,
+      "genus_path": "genera/emmelichthyidae/emmelichthys.json"
+    },
+    {
+      "Genus": "Erythrocles",
+      "SpeciesCount": 6,
+      "genus_path": "genera/emmelichthyidae/erythrocles.json"
+    },
+    {
+      "Genus": "Plagiogeneion",
+      "SpeciesCount": 5,
+      "genus_path": "genera/emmelichthyidae/plagiogeneion.json"
+    }
+  ]
+}

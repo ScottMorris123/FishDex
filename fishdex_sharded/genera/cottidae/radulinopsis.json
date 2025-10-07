@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Radulinopsis derjavini",
+    "SpecCode": "58893",
+    "CommonName": "Yase-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Radulinopsis taranetzi",
+    "SpecCode": "61297",
+    "CommonName": "Kimadara-yase-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

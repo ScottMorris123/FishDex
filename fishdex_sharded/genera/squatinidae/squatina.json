@@ -1,0 +1,238 @@
+[
+  {
+    "ScientificName": "Squatina aculeata",
+    "SpecCode": "725",
+    "CommonName": "Akanthorina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina africana",
+    "SpecCode": "726",
+    "CommonName": "Aafrika ingelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina albipunctata",
+    "SpecCode": "63677",
+    "CommonName": "Eastern Angel Shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina argentina",
+    "SpecCode": "727",
+    "CommonName": "Ange de mer argentin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina armata",
+    "SpecCode": "55066",
+    "CommonName": "Angel shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina australis",
+    "SpecCode": "728",
+    "CommonName": "Ange de mer australien",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina caillieti",
+    "SpecCode": "65908",
+    "CommonName": "Filipiini ingelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina californica",
+    "SpecCode": "729",
+    "CommonName": "Ange de mer du Pacifique",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina david",
+    "SpecCode": "68069",
+    "CommonName": "Angelote de David",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina dumeril",
+    "SpecCode": "731",
+    "CommonName": "Ameerika ingelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina formosa",
+    "SpecCode": "732",
+    "CommonName": "Ange de mer moinillon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina guggenheim",
+    "SpecCode": "53932",
+    "CommonName": "Angelito",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina heteroptera",
+    "SpecCode": "63662",
+    "CommonName": "Angelote disparejo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina japonica",
+    "SpecCode": "733",
+    "CommonName": "Ange de mer Kasuzame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina leae",
+    "SpecCode": "70245",
+    "CommonName": "Angelote de Lea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina legnota",
+    "SpecCode": "63720",
+    "CommonName": "Indoneesia ingelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina mapama",
+    "SpecCode": "69595",
+    "CommonName": "Angelote de cresta pequeña",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina mexicana",
+    "SpecCode": "63667",
+    "CommonName": "Angelote mexicano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina nebulosa",
+    "SpecCode": "734",
+    "CommonName": "Ange de mer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina occulta",
+    "SpecCode": "53931",
+    "CommonName": "Ange de mer ocellé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina oculata",
+    "SpecCode": "735",
+    "CommonName": "Ange de mer ocellé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina pseudocellata",
+    "SpecCode": "63721",
+    "CommonName": "Hägustäpp-ingelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina squatina",
+    "SpecCode": "736",
+    "CommonName": "An bráthair",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina tergocellata",
+    "SpecCode": "737",
+    "CommonName": "Ange de mer bourgeois",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina tergocellatoides",
+    "SpecCode": "738",
+    "CommonName": "Ange de mer dandy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squatina varii",
+    "SpecCode": "68861",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

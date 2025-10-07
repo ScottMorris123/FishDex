@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Contusus brevicaudus",
+    "SpecCode": "52453",
+    "CommonName": "Hardys toadfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Contusus richei",
+    "SpecCode": "4711",
+    "CommonName": "Barred toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

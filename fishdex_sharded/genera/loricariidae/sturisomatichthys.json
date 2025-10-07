@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Sturisomatichthys aureum",
+    "SpecCode": "50519",
+    "CommonName": "Goldbartwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisomatichthys citurensis",
+    "SpecCode": "50516",
+    "CommonName": "巴拿馬鱘甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisomatichthys dariense",
+    "SpecCode": "50524",
+    "CommonName": "中美洲鱘身鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisomatichthys festivum",
+    "SpecCode": "49337",
+    "CommonName": "Bomba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisomatichthys frenatum",
+    "SpecCode": "50525",
+    "CommonName": "Raspabalsa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisomatichthys kneri",
+    "SpecCode": "61513",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisomatichthys leightoni",
+    "SpecCode": "50517",
+    "CommonName": "Baracalde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisomatichthys panamense",
+    "SpecCode": "50531",
+    "CommonName": "Alcalde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisomatichthys tamanae",
+    "SpecCode": "50518",
+    "CommonName": "太蒙那鱘甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

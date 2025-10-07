@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Zoogoneticus purhepechus",
+    "SpecCode": "65340",
+    "CommonName": "Blåtoppet splitfinne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoogoneticus quitzeoensis",
+    "SpecCode": "11956",
+    "CommonName": "Dværggoodeide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoogoneticus tequila",
+    "SpecCode": "57594",
+    "CommonName": "Picote tequila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

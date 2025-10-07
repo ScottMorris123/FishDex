@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Pristis clavata",
+    "SpecCode": "15378",
+    "CommonName": "Dwarf sawfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristis microdon",
+    "SpecCode": "2546",
+    "CommonName": "Araguaguá",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristis pectinata",
+    "SpecCode": "2057",
+    "CommonName": "Araguaguá",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristis perotteti",
+    "SpecCode": "51176",
+    "CommonName": "Araguaguá",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristis pristis",
+    "SpecCode": "8940",
+    "CommonName": "Almindelig savrokke",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristis zijsron",
+    "SpecCode": "7956",
+    "CommonName": "Abusef",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

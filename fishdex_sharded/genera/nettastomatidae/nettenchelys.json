@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Nettenchelys bellottii",
+    "SpecCode": "61211",
+    "CommonName": "Štíhlohlavec bellottův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettenchelys dionisi",
+    "SpecCode": "58278",
+    "CommonName": "Dionisi luitsangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettenchelys erroriensis",
+    "SpecCode": "58719",
+    "CommonName": "Errori luitsangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettenchelys exoria",
+    "SpecCode": "58718",
+    "CommonName": "Florida luitsangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettenchelys gephyra",
+    "SpecCode": "10561",
+    "CommonName": "Bridge duckbill eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettenchelys inion",
+    "SpecCode": "58717",
+    "CommonName": "Bahama luitsangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettenchelys paxtoni",
+    "SpecCode": "56546",
+    "CommonName": "Paxtoni luitsangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettenchelys proxima",
+    "SpecCode": "70524",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettenchelys pygmaea",
+    "SpecCode": "58710",
+    "CommonName": "Pygmy pikeconger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettenchelys taylori",
+    "SpecCode": "58705",
+    "CommonName": "Štíhlohlavec taylorův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

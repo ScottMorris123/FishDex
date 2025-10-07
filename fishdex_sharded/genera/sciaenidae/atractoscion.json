@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Atractoscion aequidens",
+    "SpecCode": "420",
+    "CommonName": "African weakfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atractoscion atelodus",
+    "SpecCode": "68523",
+    "CommonName": "Kko-ma-cho-seung-kko-ri-min-eo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atractoscion macrolepis",
+    "SpecCode": "68526",
+    "CommonName": "Keun-bi-neul-cho-seung-kko-ri-min-eo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atractoscion microlepis",
+    "SpecCode": "68524",
+    "CommonName": "Jan-bi-neul-cho-seung-kko-ri-min-eo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atractoscion nobilis",
+    "SpecCode": "3578",
+    "CommonName": "Acoupa blanc",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

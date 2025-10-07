@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Bathyanthias cubensis",
+    "SpecCode": "61262",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyanthias mexicanus",
+    "SpecCode": "3338",
+    "CommonName": "Hosohanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyanthias roseus",
+    "SpecCode": "61266",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

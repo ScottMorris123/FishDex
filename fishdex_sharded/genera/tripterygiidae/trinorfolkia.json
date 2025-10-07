@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Trinorfolkia clarkei",
+    "SpecCode": "47200",
+    "CommonName": "Clarke's triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinorfolkia cristata",
+    "SpecCode": "47202",
+    "CommonName": "Crested threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trinorfolkia incisa",
+    "SpecCode": "47203",
+    "CommonName": "Notched threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

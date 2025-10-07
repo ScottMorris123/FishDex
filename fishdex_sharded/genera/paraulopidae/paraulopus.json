@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Paraulopus atripes",
+    "SpecCode": "61446",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus balteatus",
+    "SpecCode": "65891",
+    "CommonName": "Banded cucumberfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus brevirostris",
+    "SpecCode": "59422",
+    "CommonName": "Montsuki-aome-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus filamentosus",
+    "SpecCode": "22960",
+    "CommonName": "Itohiki-aome-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus japonicus",
+    "SpecCode": "22959",
+    "CommonName": "Mon-aome-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus legandi",
+    "SpecCode": "58729",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus longianalis",
+    "SpecCode": "65638",
+    "CommonName": "Longfin Cucumberfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus maculatus",
+    "SpecCode": "58730",
+    "CommonName": "大斑青眼魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus melanogrammus",
+    "SpecCode": "64741",
+    "CommonName": "Blackline cucumberfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus melanostomus",
+    "SpecCode": "65639",
+    "CommonName": "Licoricemouth cucumberfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus nigripinnis",
+    "SpecCode": "14025",
+    "CommonName": "Blacktip cucumberfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus novaeseelandiae",
+    "SpecCode": "61109",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus oblongus",
+    "SpecCode": "10419",
+    "CommonName": "Naga-aome-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraulopus okamurai",
+    "SpecCode": "61110",
+    "CommonName": "Magpie cucumberfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

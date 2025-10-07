@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Escualosa elongata",
+    "SpecCode": "1521",
+    "CommonName": "Sale valgealoosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Escualosa thoracata",
+    "SpecCode": "1522",
+    "CommonName": "Alose blanche",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

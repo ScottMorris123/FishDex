@@ -1,0 +1,148 @@
+[
+  {
+    "ScientificName": "Gymnura afuerae",
+    "SpecCode": "57385",
+    "CommonName": "Peruu liblikrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura altavela",
+    "SpecCode": "2577",
+    "CommonName": "Aeroplanke",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura australis",
+    "SpecCode": "15404",
+    "CommonName": "Austraalia liblikrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura bimaculata",
+    "SpecCode": "54451",
+    "CommonName": "Dubbelstipvlinderrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura crebripunctata",
+    "SpecCode": "13183",
+    "CommonName": "Butterfly ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura crooki",
+    "SpecCode": "54653",
+    "CommonName": "Crooki liblikrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura hirundo",
+    "SpecCode": "54654",
+    "CommonName": "Madeira butterfly ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura japonica",
+    "SpecCode": "11948",
+    "CommonName": "Cá Đuối bướm Nhật Bản",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura lessae",
+    "SpecCode": "68412",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura marmorata",
+    "SpecCode": "2578",
+    "CommonName": "California butterfly ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura micrura",
+    "SpecCode": "2579",
+    "CommonName": "Ali yékhé",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura natalensis",
+    "SpecCode": "5508",
+    "CommonName": "Backwater butterfly ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura poecilura",
+    "SpecCode": "8260",
+    "CommonName": "Advani-tiriki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura sereti",
+    "SpecCode": "68413",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura tentaculata",
+    "SpecCode": "27381",
+    "CommonName": "Kombits-liblikrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnura zonura",
+    "SpecCode": "12593",
+    "CommonName": "Bleeker's butterfly ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

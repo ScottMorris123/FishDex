@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Crossorhombus azureus",
+    "SpecCode": "11676",
+    "CommonName": "Blue flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crossorhombus howensis",
+    "SpecCode": "15295",
+    "CommonName": "Lord Howe Island flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crossorhombus kanekonis",
+    "SpecCode": "59544",
+    "CommonName": "Kanekodarumagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crossorhombus kobensis",
+    "SpecCode": "15296",
+    "CommonName": "Broad-forehead flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crossorhombus valderostratus",
+    "SpecCode": "7642",
+    "CommonName": "Arreeiro rostrado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

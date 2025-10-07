@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ricuzenius nudithorax",
+    "SpecCode": "23912",
+    "CommonName": "Munehadakajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ricuzenius pinetorum",
+    "SpecCode": "61289",
+    "CommonName": "Matsukajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Holanthias caudalis",
+    "SpecCode": "17352",
+    "CommonName": "大尾金花鮨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holanthias fronticinctus",
+    "SpecCode": "17354",
+    "CommonName": "Deepwater Greenfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Folifer brevifilis",
+    "SpecCode": "54953",
+    "CommonName": "Harilik lehthuul",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Folifer yunnanensis",
+    "SpecCode": "26370",
+    "CommonName": "Mahsír junanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

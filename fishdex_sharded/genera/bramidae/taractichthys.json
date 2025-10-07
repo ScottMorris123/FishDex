@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Taractichthys longipinnis",
+    "SpecCode": "3560",
+    "CommonName": "Angel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taractichthys steindachneri",
+    "SpecCode": "3561",
+    "CommonName": "Black snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

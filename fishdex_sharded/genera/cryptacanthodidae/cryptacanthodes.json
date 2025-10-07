@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Cryptacanthodes aleutensis",
+    "SpecCode": "3817",
+    "CommonName": "Aleuudi kõversuu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptacanthodes bergi",
+    "SpecCode": "23798",
+    "CommonName": "Berg wrymouth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptacanthodes giganteus",
+    "SpecCode": "54155",
+    "CommonName": "Giant wrymouth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptacanthodes maculatus",
+    "SpecCode": "3815",
+    "CommonName": "Bastard cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

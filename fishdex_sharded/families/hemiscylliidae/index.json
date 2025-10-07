@@ -1,0 +1,17 @@
+{
+  "Family": "Hemiscylliidae",
+  "Order": "Orectolobiformes",
+  "Common": "Bamboo sharks",
+  "Genera": [
+    {
+      "Genus": "Chiloscyllium",
+      "SpeciesCount": 8,
+      "genus_path": "genera/hemiscylliidae/chiloscyllium.json"
+    },
+    {
+      "Genus": "Hemiscyllium",
+      "SpeciesCount": 9,
+      "genus_path": "genera/hemiscylliidae/hemiscyllium.json"
+    }
+  ]
+}

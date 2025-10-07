@@ -1,0 +1,254 @@
+[
+  {
+    "ScientificName": "Distichodus affinis",
+    "SpecCode": "11181",
+    "CommonName": "Herttapyrstötetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus altus",
+    "SpecCode": "11182",
+    "CommonName": "Kõrge hammassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus antonii",
+    "SpecCode": "11183",
+    "CommonName": "Antoni hammassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus atroventralis",
+    "SpecCode": "11184",
+    "CommonName": "Harmaaherttatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus brevipinnis",
+    "SpecCode": "5255",
+    "CommonName": "Aciar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus decemmaculatus",
+    "SpecCode": "11188",
+    "CommonName": "Dværg-congolaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus engycephalus",
+    "SpecCode": "5254",
+    "CommonName": "Agbasra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus fasciolatus",
+    "SpecCode": "11190",
+    "CommonName": "Grauband-Distichodus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus hypostomatus",
+    "SpecCode": "11191",
+    "CommonName": "Alasuu-hammassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus ingae",
+    "SpecCode": "69120",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus kasaiensis",
+    "SpecCode": "69117",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus kolleri",
+    "SpecCode": "11192",
+    "CommonName": "Kolleri hammassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus langi",
+    "SpecCode": "11193",
+    "CommonName": "Langi hammassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus lusosso",
+    "SpecCode": "11195",
+    "CommonName": "Atilabeli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus maculatus",
+    "SpecCode": "11196",
+    "CommonName": "Bosoolo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus mbiniensis",
+    "SpecCode": "69817",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus microps",
+    "SpecCode": "69816",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus mossambicus",
+    "SpecCode": "11197",
+    "CommonName": "Mosambiigi hammassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus nefasch",
+    "SpecCode": "11179",
+    "CommonName": "Aciar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus noboli",
+    "SpecCode": "11198",
+    "CommonName": "Pikkuherttatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus notospilus",
+    "SpecCode": "11199",
+    "CommonName": "Äschengeradsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus petersii",
+    "SpecCode": "11200",
+    "CommonName": "Mbapale",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus polli",
+    "SpecCode": "69108",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus rostratus",
+    "SpecCode": "2406",
+    "CommonName": "Accaare",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus rufigiensis",
+    "SpecCode": "11202",
+    "CommonName": "Tansaania hammassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus schenga",
+    "SpecCode": "11203",
+    "CommonName": "Chenga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus sexfasciatus",
+    "SpecCode": "10787",
+    "CommonName": "Banded distichodus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Distichodus teugelsi",
+    "SpecCode": "64700",
+    "CommonName": "Smaragdkarpelaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Eleutheronema rhadinum",
+    "SpecCode": "59426",
+    "CommonName": "Barbudo cuatro dedos de Asia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleutheronema tetradactylum",
+    "SpecCode": "340",
+    "CommonName": "Baameen",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleutheronema tridactylum",
+    "SpecCode": "14514",
+    "CommonName": "Barbudo de tres dedos",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

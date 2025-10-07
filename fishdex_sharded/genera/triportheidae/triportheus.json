@@ -1,0 +1,164 @@
+[
+  {
+    "ScientificName": "Triportheus albus",
+    "SpecCode": "51200",
+    "CommonName": "Gelbflossen-Kropfsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus angulatus",
+    "SpecCode": "12976",
+    "CommonName": "Arenca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus auritus",
+    "SpecCode": "61043",
+    "CommonName": "Sardinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus brachipomus",
+    "SpecCode": "62795",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus culter",
+    "SpecCode": "51201",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus curtus",
+    "SpecCode": "58088",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus elongatus",
+    "SpecCode": "12402",
+    "CommonName": "Elongate hatchetfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus guentheri",
+    "SpecCode": "56691",
+    "CommonName": "Peituda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus magdalenae",
+    "SpecCode": "58086",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus nematurus",
+    "SpecCode": "56686",
+    "CommonName": "Sardinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus orinocensis",
+    "SpecCode": "62792",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus pantanensis",
+    "SpecCode": "62793",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus paranensis",
+    "SpecCode": "52278",
+    "CommonName": "Chapé",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus pictus",
+    "SpecCode": "27669",
+    "CommonName": "Hopeasiipitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus rotundatus",
+    "SpecCode": "13248",
+    "CommonName": "Asandiki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus signatus",
+    "SpecCode": "58087",
+    "CommonName": "Sardela",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus trifurcatus",
+    "SpecCode": "58085",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triportheus venezuelensis",
+    "SpecCode": "62794",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

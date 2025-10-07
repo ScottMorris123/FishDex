@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Acestrorhynchus abbreviatus",
+    "SpecCode": "52919",
+    "CommonName": "Cachorrinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus altus",
+    "SpecCode": "51076",
+    "CommonName": "Cachorrinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus britskii",
+    "SpecCode": "52499",
+    "CommonName": "Peixe cachorro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus falcatus",
+    "SpecCode": "23498",
+    "CommonName": "Aikan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus falcirostris",
+    "SpecCode": "13123",
+    "CommonName": "Anicauera",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus grandoculis",
+    "SpecCode": "51808",
+    "CommonName": "Peixe cachorro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus heterolepis",
+    "SpecCode": "27261",
+    "CommonName": "Dientón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus isalineae",
+    "SpecCode": "52522",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus lacustris",
+    "SpecCode": "51077",
+    "CommonName": "Bicuda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus maculipinna",
+    "SpecCode": "52523",
+    "CommonName": "Peixe cachorro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus microlepis",
+    "SpecCode": "12336",
+    "CommonName": "Bada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus minimus",
+    "SpecCode": "51809",
+    "CommonName": "Cachorrinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus nasutus",
+    "SpecCode": "51815",
+    "CommonName": "Cachorrinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrorhynchus pantaneiro",
+    "SpecCode": "52503",
+    "CommonName": "dientudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Labiobarbus cyanopareja",
+    "SpecCode": "65879",
+    "CommonName": "Sinilaik-lambaparrak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labiobarbus fasciatus",
+    "SpecCode": "17400",
+    "CommonName": "Masik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labiobarbus festivus",
+    "SpecCode": "12064",
+    "CommonName": "Hampras",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labiobarbus lamellifer",
+    "SpecCode": "54684",
+    "CommonName": "Borneo lambaparrak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labiobarbus leptocheilus",
+    "SpecCode": "25195",
+    "CommonName": "Cá linh ria",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labiobarbus lineatus",
+    "SpecCode": "60498",
+    "CommonName": "Väike lambaparrak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labiobarbus ocellatus",
+    "SpecCode": "17402",
+    "CommonName": "Bauk tadung",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labiobarbus sabanus",
+    "SpecCode": "17411",
+    "CommonName": "Parmička segamská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labiobarbus siamensis",
+    "SpecCode": "27192",
+    "CommonName": "Archkok",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

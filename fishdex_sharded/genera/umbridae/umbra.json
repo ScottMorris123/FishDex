@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Umbra krameri",
+    "SpecCode": "4670",
+    "CommonName": "Blatnák tmavý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Umbra limi",
+    "SpecCode": "2707",
+    "CommonName": "Ameerika koerkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Umbra pygmaea",
+    "SpecCode": "2708",
+    "CommonName": "Amerikaanse hondsvis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

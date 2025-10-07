@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Hozukius emblemarius",
+    "SpecCode": "23872",
+    "CommonName": "Hôzuki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hozukius guyotensis",
+    "SpecCode": "23873",
+    "CommonName": "Benimenuke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

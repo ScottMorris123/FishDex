@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Heptapterus carmelitanorum",
+    "SpecCode": "69819",
+    "CommonName": "Carmelitano catfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus carnatus",
+    "SpecCode": "70091",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus exilis",
+    "SpecCode": "70092",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus longicauda",
+    "SpecCode": "48421",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus mandimbusu",
+    "SpecCode": "68640",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus mbya",
+    "SpecCode": "66234",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus multiradiatus",
+    "SpecCode": "47801",
+    "CommonName": "Viivapuikkopimelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus mustelinus",
+    "SpecCode": "47802",
+    "CommonName": "Ankeriaspimelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus ornaticeps",
+    "SpecCode": "47803",
+    "CommonName": "Nauhapuikkopimelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus qenqo",
+    "SpecCode": "65884",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus stewarti",
+    "SpecCode": "47808",
+    "CommonName": "Bagre da pedra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heptapterus sympterygium",
+    "SpecCode": "47810",
+    "CommonName": "Hihnapuikkopimelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

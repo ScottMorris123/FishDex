@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Iberochondrostoma almacai",
+    "SpecCode": "62346",
+    "CommonName": "Boga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iberochondrostoma lemmingii",
+    "SpecCode": "9940",
+    "CommonName": "Boga-de-boca-arqueada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iberochondrostoma lusitanicum",
+    "SpecCode": "9765",
+    "CommonName": "Boga-Portuguesa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iberochondrostoma olisiponense",
+    "SpecCode": "63569",
+    "CommonName": "Tejo iberokõhrsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iberochondrostoma oretanum",
+    "SpecCode": "62726",
+    "CommonName": "Jándula iberokõhrsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

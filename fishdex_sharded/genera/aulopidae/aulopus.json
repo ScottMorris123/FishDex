@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Aulopus bajacali",
+    "SpecCode": "13526",
+    "CommonName": "Aulopus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulopus cadenati",
+    "SpecCode": "4930",
+    "CommonName": "Guinea-flagfinnefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulopus filamentosus",
+    "SpecCode": "1698",
+    "CommonName": "Acciartula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

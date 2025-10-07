@@ -1,0 +1,323 @@
+[
+  {
+    "ScientificName": "Mugilogobius abei",
+    "SpecCode": "23191",
+    "CommonName": "Abehaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius adeia",
+    "SpecCode": "27418",
+    "CommonName": "Marmorikelttitokko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius amadi",
+    "SpecCode": "6352",
+    "CommonName": "Bungu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius cagayanensis",
+    "SpecCode": "27658",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius cavifrons",
+    "SpecCode": "15878",
+    "CommonName": "Hohoguro-haze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius chulae",
+    "SpecCode": "23668",
+    "CommonName": "Gulstribet kutling",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius durbanensis",
+    "SpecCode": "9973",
+    "CommonName": "Durban goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius fasciatus",
+    "SpecCode": "59894",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius filifer",
+    "SpecCode": "59895",
+    "CommonName": "Threadfin mangrove goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius flavomaculatus",
+    "SpecCode": "70537",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius fusculus",
+    "SpecCode": "26512",
+    "CommonName": "Obscure goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius fuscus",
+    "SpecCode": "59235",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius hitam",
+    "SpecCode": "67564",
+    "CommonName": "Black Towuti goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius karatunensis",
+    "SpecCode": "25080",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius latifrons",
+    "SpecCode": "6344",
+    "CommonName": "Cá Bống đai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius lepidotus",
+    "SpecCode": "59896",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius littoralis",
+    "SpecCode": "59897",
+    "CommonName": "Beachrock mangrove goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius mertoni",
+    "SpecCode": "27416",
+    "CommonName": "Chequered mangrove goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius myxodermus",
+    "SpecCode": "55202",
+    "CommonName": "粘皮鯔鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius notospilus",
+    "SpecCode": "61311",
+    "CommonName": "Dual-spotted goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius nuicocensis",
+    "SpecCode": "65710",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius paludis",
+    "SpecCode": "52431",
+    "CommonName": "Mangrove goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius platynotus",
+    "SpecCode": "59989",
+    "CommonName": "Flatback mangrove goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius platystoma",
+    "SpecCode": "59990",
+    "CommonName": "Indonesian goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius rambaiae",
+    "SpecCode": "27417",
+    "CommonName": "Queen of Siam goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius rexi",
+    "SpecCode": "59898",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius rivulus",
+    "SpecCode": "59899",
+    "CommonName": "Drain mangrove goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius sarasinorum",
+    "SpecCode": "6351",
+    "CommonName": "Bungu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius stigmaticus",
+    "SpecCode": "59929",
+    "CommonName": "Blackspot mangrove goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius tagala",
+    "SpecCode": "23671",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius tigrinus",
+    "SpecCode": "59900",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius wilsoni",
+    "SpecCode": "59901",
+    "CommonName": "Wilson's goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugilogobius zebra",
+    "SpecCode": "25081",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

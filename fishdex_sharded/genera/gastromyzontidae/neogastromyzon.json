@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Neogastromyzon brunei",
+    "SpecCode": "63179",
+    "CommonName": "Brunei uusimihink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neogastromyzon chini",
+    "SpecCode": "63177",
+    "CommonName": "Chini uusimihink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neogastromyzon crassiobex",
+    "SpecCode": "63176",
+    "CommonName": "Laiguline uusimihink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neogastromyzon kottelati",
+    "SpecCode": "63178",
+    "CommonName": "Kottelati uusimihink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neogastromyzon nieuwenhuisii",
+    "SpecCode": "22984",
+    "CommonName": "Dekat",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neogastromyzon pauciradiatus",
+    "SpecCode": "22987",
+    "CommonName": "Ballehi uusimihink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Sanopus astrifer",
+    "SpecCode": "47246",
+    "CommonName": "Whitespotted Toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sanopus barbatus",
+    "SpecCode": "970",
+    "CommonName": "Bearded toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sanopus greenfieldorum",
+    "SpecCode": "26095",
+    "CommonName": "Whitelined toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sanopus johnsoni",
+    "SpecCode": "53939",
+    "CommonName": "Cozumel toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sanopus reticulatus",
+    "SpecCode": "26096",
+    "CommonName": "Reticulate toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sanopus splendidus",
+    "SpecCode": "12024",
+    "CommonName": "Coral toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

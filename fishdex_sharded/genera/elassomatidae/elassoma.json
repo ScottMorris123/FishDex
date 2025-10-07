@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Elassoma alabamae",
+    "SpecCode": "57438",
+    "CommonName": "Spring pygmy sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elassoma boehlkei",
+    "SpecCode": "6309",
+    "CommonName": "Carolina Pygmy Sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elassoma evergladei",
+    "SpecCode": "3364",
+    "CommonName": "Chernyi okunek-elassoma",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elassoma gilberti",
+    "SpecCode": "65372",
+    "CommonName": "Pygmy sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elassoma okatie",
+    "SpecCode": "6310",
+    "CommonName": "Blåstribet dværgsolfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elassoma okefenokee",
+    "SpecCode": "3365",
+    "CommonName": "Okefenokee pygmy sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elassoma zonatum",
+    "SpecCode": "3366",
+    "CommonName": "Banded pygmy sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

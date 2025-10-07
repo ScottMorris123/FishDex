@@ -1,0 +1,191 @@
+[
+  {
+    "ScientificName": "Scolecenchelys acutirostris",
+    "SpecCode": "59400",
+    "CommonName": "Sharpnose worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys aoki",
+    "SpecCode": "66757",
+    "CommonName": "Hadař japonský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys australis",
+    "SpecCode": "24290",
+    "CommonName": "Down's worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys brevicaudata",
+    "SpecCode": "67822",
+    "CommonName": "Short tail worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys breviceps",
+    "SpecCode": "13983",
+    "CommonName": "Big-eyed worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys castlei",
+    "SpecCode": "62680",
+    "CommonName": "Deepwater big-eye worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys chilensis",
+    "SpecCode": "53840",
+    "CommonName": "Chilean worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys cookei",
+    "SpecCode": "53838",
+    "CommonName": "Cooke´i viikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys fuscapenis",
+    "SpecCode": "70140",
+    "CommonName": "black tailed worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys fuscogularis",
+    "SpecCode": "66754",
+    "CommonName": "Dark throat worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys godeffroyi",
+    "SpecCode": "59401",
+    "CommonName": "Godeffroy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys gymnota",
+    "SpecCode": "7288",
+    "CommonName": "Hadař nahohřbetý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys iredalei",
+    "SpecCode": "67826",
+    "CommonName": "Coral worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys laticaudata",
+    "SpecCode": "15672",
+    "CommonName": "Futo-mimizu-anago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys macroptera",
+    "SpecCode": "7289",
+    "CommonName": "Faniveng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys nicholsarum",
+    "SpecCode": "49997",
+    "CommonName": "Hadař nicholsové",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys profundorum",
+    "SpecCode": "27824",
+    "CommonName": "Deepwater worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys puhioilo",
+    "SpecCode": "53879",
+    "CommonName": "Havai viikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys robusta",
+    "SpecCode": "67827",
+    "CommonName": "Robust worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys vermiformis",
+    "SpecCode": "60056",
+    "CommonName": "Sri Lanka viikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolecenchelys xorae",
+    "SpecCode": "15677",
+    "CommonName": "Aafrika viikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

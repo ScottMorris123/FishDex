@@ -1,0 +1,191 @@
+[
+  {
+    "ScientificName": "Hemiodus amazonum",
+    "SpecCode": "51224",
+    "CommonName": "Amazoninsulkapyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus argenteus",
+    "SpecCode": "51396",
+    "CommonName": "Charuto",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus atranalis",
+    "SpecCode": "51226",
+    "CommonName": "Cruzeiro-do-sul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus goeldii",
+    "SpecCode": "55449",
+    "CommonName": "Sølvkarpelaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus gracilis",
+    "SpecCode": "13113",
+    "CommonName": "Charuto",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus huraulti",
+    "SpecCode": "27813",
+    "CommonName": "Karp-jonn",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus immaculatus",
+    "SpecCode": "25718",
+    "CommonName": "Charuto",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus iratapuru",
+    "SpecCode": "67029",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus jatuarana",
+    "SpecCode": "62070",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus langeanii",
+    "SpecCode": "66686",
+    "CommonName": "Charuto",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus microlepis",
+    "SpecCode": "25719",
+    "CommonName": "Bananinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus orthonops",
+    "SpecCode": "55704",
+    "CommonName": "Bananinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus parnaguae",
+    "SpecCode": "51394",
+    "CommonName": "Avoador",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus quadrimaculatus",
+    "SpecCode": "11907",
+    "CommonName": "Barred hemiodus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus semitaeniatus",
+    "SpecCode": "11908",
+    "CommonName": "Bananinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus sterni",
+    "SpecCode": "51393",
+    "CommonName": "Raitasulkapyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus ternetzi",
+    "SpecCode": "51390",
+    "CommonName": "Juovasulkapyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus thayeria",
+    "SpecCode": "51387",
+    "CommonName": "Linjasulkapyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus tocantinensis",
+    "SpecCode": "55448",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus unimaculatus",
+    "SpecCode": "25721",
+    "CommonName": "Apaolobi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiodus vorderwinkleri",
+    "SpecCode": "55450",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pteroidichthys acutus",
+    "SpecCode": "67914",
+    "CommonName": "Longsnout weedy scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteroidichthys amboinensis",
+    "SpecCode": "23889",
+    "CommonName": "Ambon scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteroidichthys caussei",
+    "SpecCode": "68169",
+    "CommonName": "Causse's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteroidichthys noronhai",
+    "SpecCode": "63315",
+    "CommonName": "Noronha's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

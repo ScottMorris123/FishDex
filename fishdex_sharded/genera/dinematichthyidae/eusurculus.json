@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Eusurculus andamanensis",
+    "SpecCode": "64478",
+    "CommonName": "Andaman viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eusurculus pistillum",
+    "SpecCode": "64479",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eusurculus pristinus",
+    "SpecCode": "64480",
+    "CommonName": "Pristine viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

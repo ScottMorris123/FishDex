@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Tetrosomus concatenatus",
+    "SpecCode": "8060",
+    "CommonName": "Buntal kotak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetrosomus gibbosus",
+    "SpecCode": "8129",
+    "CommonName": "Baka baka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetrosomus reipublicae",
+    "SpecCode": "10591",
+    "CommonName": "Buntal kotak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetrosomus stellifer",
+    "SpecCode": "61111",
+    "CommonName": "斑箱魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

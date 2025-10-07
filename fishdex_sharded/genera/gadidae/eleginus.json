@@ -1,0 +1,24 @@
+[
+  {
+    "ScientificName": "Eleginus gracilis",
+    "SpecCode": "315",
+    "CommonName": "Bacalao del Artico",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleginus nawaga",
+    "SpecCode": "314",
+    "CommonName": "Arctic cod",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

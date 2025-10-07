@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Liocranium pleurostigma",
+    "SpecCode": "64152",
+    "CommonName": "Western Blackspot Waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liocranium praepositum",
+    "SpecCode": "10757",
+    "CommonName": "Blackspot waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

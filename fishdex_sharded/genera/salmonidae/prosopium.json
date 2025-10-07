@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Prosopium abyssicola",
+    "SpecCode": "2680",
+    "CommonName": "Bear Lake whitefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prosopium coulterii",
+    "SpecCode": "2681",
+    "CommonName": "Amerikanskiy ozerno-rechnoi sig",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prosopium cylindraceum",
+    "SpecCode": "2682",
+    "CommonName": "Frost fish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prosopium gemmifer",
+    "SpecCode": "2683",
+    "CommonName": "Bonneville cisco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prosopium spilonotus",
+    "SpecCode": "2684",
+    "CommonName": "Bonneville whitefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prosopium williamsoni",
+    "SpecCode": "2685",
+    "CommonName": "Grayling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

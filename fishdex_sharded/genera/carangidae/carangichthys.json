@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Carangichthys dinema",
+    "SpecCode": "1925",
+    "CommonName": "Aldabra trevally",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carangichthys humerosus",
+    "SpecCode": "1914",
+    "CommonName": "Dusky shoulder trevally",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carangichthys oblongus",
+    "SpecCode": "1908",
+    "CommonName": "Cá Khế",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

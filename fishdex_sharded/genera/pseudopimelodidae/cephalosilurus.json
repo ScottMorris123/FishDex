@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Cephalosilurus albomarginatus",
+    "SpecCode": "47751",
+    "CommonName": "Kaulusmehiläismonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cephalosilurus apurensis",
+    "SpecCode": "47752",
+    "CommonName": "Nystymehiläismonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cephalosilurus fowleri",
+    "SpecCode": "47753",
+    "CommonName": "Pacamon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cephalosilurus nigricaudus",
+    "SpecCode": "47755",
+    "CommonName": "Kumakuma yopodopo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

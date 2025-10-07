@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Lophotus capellei",
+    "SpecCode": "23358",
+    "CommonName": "Akanamada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophotus guentheri",
+    "SpecCode": "64830",
+    "CommonName": "Crested bandfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophotus lacepede",
+    "SpecCode": "3261",
+    "CommonName": "Cordunita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophotus machadoi",
+    "SpecCode": "70497",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

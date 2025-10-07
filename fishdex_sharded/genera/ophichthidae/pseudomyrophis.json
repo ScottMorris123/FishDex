@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pseudomyrophis atlanticus",
+    "SpecCode": "9098",
+    "CommonName": "Aafrika ebakonuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomyrophis frio",
+    "SpecCode": "53858",
+    "CommonName": "Frio ebakonuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomyrophis fugesae",
+    "SpecCode": "53860",
+    "CommonName": "Diminutive worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomyrophis micropinna",
+    "SpecCode": "13922",
+    "CommonName": "Hadař drobnoploutvý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomyrophis nimius",
+    "SpecCode": "53859",
+    "CommonName": "Hadař mississippský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

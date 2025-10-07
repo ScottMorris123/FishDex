@@ -1,0 +1,271 @@
+[
+  {
+    "ScientificName": "Siganus argenteus",
+    "SpecCode": "4614",
+    "CommonName": "Aalat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus canaliculatus",
+    "SpecCode": "4456",
+    "CommonName": "Babi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus corallinus",
+    "SpecCode": "4611",
+    "CommonName": "Alama",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus doliatus",
+    "SpecCode": "4623",
+    "CommonName": "Aalat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus fuscescens",
+    "SpecCode": "4616",
+    "CommonName": "Aigo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus guttatus",
+    "SpecCode": "4588",
+    "CommonName": "Alama",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus insomnis",
+    "SpecCode": "67652",
+    "CommonName": "Bronze-lined rabbitfish.",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus javus",
+    "SpecCode": "4618",
+    "CommonName": "Alama",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus labyrinthodes",
+    "SpecCode": "4627",
+    "CommonName": "Labyrinth rabbitfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus lineatus",
+    "SpecCode": "4625",
+    "CommonName": "Aalat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus luridus",
+    "SpecCode": "4613",
+    "CommonName": "Abu Chawke asswad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus magnificus",
+    "SpecCode": "4628",
+    "CommonName": "Andaman fox-face",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus niger",
+    "SpecCode": "4632",
+    "CommonName": "Black foxface",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus puelloides",
+    "SpecCode": "4619",
+    "CommonName": "Aigo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus puellus",
+    "SpecCode": "4617",
+    "CommonName": "Alama",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus punctatissimus",
+    "SpecCode": "4620",
+    "CommonName": "Alama",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus punctatus",
+    "SpecCode": "4621",
+    "CommonName": "Alama",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus randalli",
+    "SpecCode": "4626",
+    "CommonName": "Debam",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus rivulatus",
+    "SpecCode": "4545",
+    "CommonName": "Abu Chawke abiad",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus spinus",
+    "SpecCode": "4457",
+    "CommonName": "Alama",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus stellatus",
+    "SpecCode": "4622",
+    "CommonName": "Aigo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus sutor",
+    "SpecCode": "4615",
+    "CommonName": "African whitespotted rabbitfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus trispilos",
+    "SpecCode": "4612",
+    "CommonName": "Borona tanda biru",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus unimaculatus",
+    "SpecCode": "4630",
+    "CommonName": "Alama",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus uspi",
+    "SpecCode": "4631",
+    "CommonName": "Bicolored foxface",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus vermiculatus",
+    "SpecCode": "4561",
+    "CommonName": "Balawis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus virgatus",
+    "SpecCode": "4624",
+    "CommonName": "Alama",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus vulpinus",
+    "SpecCode": "4629",
+    "CommonName": "Aalat dâlâk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siganus woodlandi",
+    "SpecCode": "62435",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

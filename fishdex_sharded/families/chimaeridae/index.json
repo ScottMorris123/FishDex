@@ -1,0 +1,17 @@
+{
+  "Family": "Chimaeridae",
+  "Order": "Chimaeriformes",
+  "Common": "Shortnose chimaeras or ratfishes",
+  "Genera": [
+    {
+      "Genus": "Chimaera",
+      "SpeciesCount": 22,
+      "genus_path": "genera/chimaeridae/chimaera.json"
+    },
+    {
+      "Genus": "Hydrolagus",
+      "SpeciesCount": 23,
+      "genus_path": "genera/chimaeridae/hydrolagus.json"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Luciosoma bleekeri",
+    "SpecCode": "27063",
+    "CommonName": "Cá lòng tong muong",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciosoma pellegrinii",
+    "SpecCode": "17421",
+    "CommonName": "Pellegrini haugdaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciosoma setigerum",
+    "SpecCode": "16110",
+    "CommonName": "Apollo sharkminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciosoma spilopleura",
+    "SpecCode": "12124",
+    "CommonName": "Apollo shark",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciosoma trinema",
+    "SpecCode": "17424",
+    "CommonName": "Falsk geddehaj",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

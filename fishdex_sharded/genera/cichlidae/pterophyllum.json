@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pterophyllum altum",
+    "SpecCode": "47075",
+    "CommonName": "Altumscalare",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterophyllum leopoldi",
+    "SpecCode": "47076",
+    "CommonName": "Leopoldi sirpuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterophyllum scalare",
+    "SpecCode": "4717",
+    "CommonName": "Acará bandeira",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

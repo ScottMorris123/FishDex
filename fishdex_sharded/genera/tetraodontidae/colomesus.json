@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Colomesus asellus",
+    "SpecCode": "51376",
+    "CommonName": "Amazon puffer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Colomesus psittacus",
+    "SpecCode": "7499",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Colomesus tocantinensis",
+    "SpecCode": "69136",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

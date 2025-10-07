@@ -1,0 +1,86 @@
+[
+  {
+    "ScientificName": "Menticirrhus americanus",
+    "SpecCode": "409",
+    "CommonName": "Amerikansk kongetrommefisk",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menticirrhus elongatus",
+    "SpecCode": "14004",
+    "CommonName": "Berrugata bocadulce",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menticirrhus littoralis",
+    "SpecCode": "411",
+    "CommonName": "Berrugata",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menticirrhus nasus",
+    "SpecCode": "14003",
+    "CommonName": "Berrugata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menticirrhus ophicephalus",
+    "SpecCode": "12968",
+    "CommonName": "Bobo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menticirrhus paitensis",
+    "SpecCode": "14002",
+    "CommonName": "Berrugata chula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menticirrhus panamensis",
+    "SpecCode": "14001",
+    "CommonName": "Berrugata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menticirrhus saxatilis",
+    "SpecCode": "410",
+    "CommonName": "Berrugata",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menticirrhus undulatus",
+    "SpecCode": "3587",
+    "CommonName": "Berrugata californiana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

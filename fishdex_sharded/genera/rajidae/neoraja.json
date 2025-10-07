@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Neoraja africana",
+    "SpecCode": "8892",
+    "CommonName": "Lääneaafrika uusrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoraja caerulea",
+    "SpecCode": "9255",
+    "CommonName": "Bláskata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoraja carolinensis",
+    "SpecCode": "54114",
+    "CommonName": "Carolina pygmy skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoraja iberica",
+    "SpecCode": "63804",
+    "CommonName": "Ibeeria uusrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoraja stehmanni",
+    "SpecCode": "25558",
+    "CommonName": "Aafrika uusrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hemanthias leptus",
+    "SpecCode": "3325",
+    "CommonName": "Cabrilla robalo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemanthias peruanus",
+    "SpecCode": "3326",
+    "CommonName": "Barbier fil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemanthias signifer",
+    "SpecCode": "11805",
+    "CommonName": "Barbier doncella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

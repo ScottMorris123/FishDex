@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Bidenichthys beeblebroxi",
+    "SpecCode": "49543",
+    "CommonName": "比氏离鳍深鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bidenichthys capensis",
+    "SpecCode": "16794",
+    "CommonName": "Freetail brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bidenichthys consobrinus",
+    "SpecCode": "46288",
+    "CommonName": "Grey brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bidenichthys paxtoni",
+    "SpecCode": "56403",
+    "CommonName": "Baldhead cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bidenichthys slartibartfasti",
+    "SpecCode": "56407",
+    "CommonName": "斯氏菲奥胎鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

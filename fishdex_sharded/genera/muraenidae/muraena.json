@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Muraena appendiculata",
+    "SpecCode": "55063",
+    "CommonName": "Muréna přívěskatá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraena argus",
+    "SpecCode": "13789",
+    "CommonName": "Argus moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraena augusti",
+    "SpecCode": "63860",
+    "CommonName": "Augusti mureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraena clepsydra",
+    "SpecCode": "13790",
+    "CommonName": "Hourglass moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraena helena",
+    "SpecCode": "1729",
+    "CommonName": "Black moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraena lentiginosa",
+    "SpecCode": "8207",
+    "CommonName": "Jewel moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraena melanotis",
+    "SpecCode": "9038",
+    "CommonName": "Cobra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraena pavonina",
+    "SpecCode": "27231",
+    "CommonName": "Birdeye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraena retifera",
+    "SpecCode": "2618",
+    "CommonName": "Moray eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraena robusta",
+    "SpecCode": "7549",
+    "CommonName": "Baro nasar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

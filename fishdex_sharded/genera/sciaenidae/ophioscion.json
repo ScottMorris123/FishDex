@@ -1,0 +1,86 @@
+[
+  {
+    "ScientificName": "Ophioscion adustus",
+    "SpecCode": "12923",
+    "CommonName": "Burriqueta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioscion costaricensis",
+    "SpecCode": "49183",
+    "CommonName": "哥斯达黎加蛇石首鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioscion imiceps",
+    "SpecCode": "13991",
+    "CommonName": "Blinkard croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioscion panamensis",
+    "SpecCode": "50018",
+    "CommonName": "Panama croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioscion scierus",
+    "SpecCode": "13990",
+    "CommonName": "Chevalier de Point Tuza",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioscion simulus",
+    "SpecCode": "13989",
+    "CommonName": "Chevalier au nez retroussé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioscion strabo",
+    "SpecCode": "14066",
+    "CommonName": "Chevalier bigle",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioscion typicus",
+    "SpecCode": "14067",
+    "CommonName": "Chevalier au nez pointu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioscion vermicularis",
+    "SpecCode": "14068",
+    "CommonName": "Chevalier vermiculé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

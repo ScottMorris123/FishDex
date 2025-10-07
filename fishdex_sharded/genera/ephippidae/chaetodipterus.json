@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Chaetodipterus faber",
+    "SpecCode": "1024",
+    "CommonName": "Angelfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodipterus lippei",
+    "SpecCode": "4939",
+    "CommonName": "Catemo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodipterus zonatus",
+    "SpecCode": "3599",
+    "CommonName": "Camiseta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

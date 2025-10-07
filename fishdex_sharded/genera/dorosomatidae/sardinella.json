@@ -1,0 +1,253 @@
+[
+  {
+    "ScientificName": "Sardinella albella",
+    "SpecCode": "1502",
+    "CommonName": "Aarijoog",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella alcyone",
+    "SpecCode": "69937",
+    "CommonName": "Blueback Sardinella",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella atricauda",
+    "SpecCode": "1503",
+    "CommonName": "Bleeker's blacktip sardinella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella aurita",
+    "SpecCode": "1043",
+    "CommonName": "Aber",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella brachysoma",
+    "SpecCode": "1504",
+    "CommonName": "Chalai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella brasiliensis",
+    "SpecCode": "1505",
+    "CommonName": "Alacha brasileña",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella dayi",
+    "SpecCode": "69969",
+    "CommonName": "Day's sardinella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella electra",
+    "SpecCode": "70031",
+    "CommonName": "Island Sardinella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella fijiensis",
+    "SpecCode": "1506",
+    "CommonName": "Cá Trích",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella fimbriata",
+    "SpecCode": "1507",
+    "CommonName": "Ahur-ahur (Brunei)",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella gibbosa",
+    "SpecCode": "1508",
+    "CommonName": "Aarijoog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella goni",
+    "SpecCode": "69845",
+    "CommonName": "Gon's sardinella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella hualiensis",
+    "SpecCode": "1045",
+    "CommonName": "Sardinka tajvanská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella jussieui",
+    "SpecCode": "1509",
+    "CommonName": "Cá Trích zu - si",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella lemuru",
+    "SpecCode": "1510",
+    "CommonName": "Bali sardinell",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella longiceps",
+    "SpecCode": "1511",
+    "CommonName": "Abed",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella maderensis",
+    "SpecCode": "1047",
+    "CommonName": "Adroukou",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella marquesensis",
+    "SpecCode": "1512",
+    "CommonName": "Marguesan sardine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella melanura",
+    "SpecCode": "1513",
+    "CommonName": "Aarijoog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella neglecta",
+    "SpecCode": "1514",
+    "CommonName": "Buraasow",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella pacifica",
+    "SpecCode": "69004",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella richardsoni",
+    "SpecCode": "1515",
+    "CommonName": "Richardsoni sardinell",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella rouxi",
+    "SpecCode": "1516",
+    "CommonName": "Alacha rabo amarillo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella sindensis",
+    "SpecCode": "1517",
+    "CommonName": "Abed",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella tawilis",
+    "SpecCode": "1518",
+    "CommonName": "Bombon sardine",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella ventura",
+    "SpecCode": "69965",
+    "CommonName": "Fortune Sardinella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sardinella zunasi",
+    "SpecCode": "1519",
+    "CommonName": "Cá Trích vảy xanh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

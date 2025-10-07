@@ -1,0 +1,808 @@
+[
+  {
+    "ScientificName": "Ophichthus alleni",
+    "SpecCode": "65561",
+    "CommonName": "Alleni teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus altipennis",
+    "SpecCode": "53849",
+    "CommonName": "Anguille-serpent à nageoire moire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus aniptocheilos",
+    "SpecCode": "65562",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus apachus",
+    "SpecCode": "53959",
+    "CommonName": "Hadař pobřežní",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus aphotistos",
+    "SpecCode": "59358",
+    "CommonName": "Dark deepwater snake-eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus apicalis",
+    "SpecCode": "8056",
+    "CommonName": "Bangko",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus arneutes",
+    "SpecCode": "53972",
+    "CommonName": "Galapagose teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus asakusae",
+    "SpecCode": "22622",
+    "CommonName": "Hadař východní",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus bicolor",
+    "SpecCode": "68630",
+    "CommonName": "Bicolored snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus bonaparti",
+    "SpecCode": "15686",
+    "CommonName": "Anguille-serpent Napoléon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus brachynotopterus",
+    "SpecCode": "59362",
+    "CommonName": "Lühiuim-teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus brasiliensis",
+    "SpecCode": "53851",
+    "CommonName": "Brasiilia teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus brevicaudatus",
+    "SpecCode": "60997",
+    "CommonName": "Hadař krátkoocasý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus brevidorsalis",
+    "SpecCode": "69123",
+    "CommonName": "Short dorsal-fin snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus brevirostris",
+    "SpecCode": "63871",
+    "CommonName": "Lühikoon-teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus celebicus",
+    "SpecCode": "53882",
+    "CommonName": "Hadař celebeský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus cephalozona",
+    "SpecCode": "7291",
+    "CommonName": "Barung",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus chilkensis",
+    "SpecCode": "70502",
+    "CommonName": "Chilka lake's snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus congroides",
+    "SpecCode": "65563",
+    "CommonName": "Tuamotu teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus cruentifer",
+    "SpecCode": "2654",
+    "CommonName": "Hadař červený",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus cylindroideus",
+    "SpecCode": "7551",
+    "CommonName": "Cobra-do-mar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus echeloides",
+    "SpecCode": "53852",
+    "CommonName": "Hadař rudomořský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus erabo",
+    "SpecCode": "15682",
+    "CommonName": "Blotched snake-eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus exourus",
+    "SpecCode": "54527",
+    "CommonName": "Hadař západopacifický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus fasciatus",
+    "SpecCode": "62796",
+    "CommonName": "Vöödiline teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus fowleri",
+    "SpecCode": "67091",
+    "CommonName": "Fowler's snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus frontalis",
+    "SpecCode": "13917",
+    "CommonName": "Deathbanded snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus genie",
+    "SpecCode": "54528",
+    "CommonName": "Hadař maledivský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus gomesii",
+    "SpecCode": "1104",
+    "CommonName": "Apuankerias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus grandoculis",
+    "SpecCode": "53891",
+    "CommonName": "Belin Pinang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus hirritus",
+    "SpecCode": "65564",
+    "CommonName": "Irvik-teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus humanni",
+    "SpecCode": "65565",
+    "CommonName": "Humanni teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus hyposagmatus",
+    "SpecCode": "53855",
+    "CommonName": "Ähmlaikjas teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus ishiyamorum",
+    "SpecCode": "65566",
+    "CommonName": "Somaali teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus johnmccoskeri",
+    "SpecCode": "70575",
+    "CommonName": "McCosker's snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus kailashchandrai",
+    "SpecCode": "69233",
+    "CommonName": "Kailash Chandra's snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus kunaloa",
+    "SpecCode": "53853",
+    "CommonName": "Hadař kunaloa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus lentiginosus",
+    "SpecCode": "65567",
+    "CommonName": "Vanuatu teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus leonensis",
+    "SpecCode": "9094",
+    "CommonName": "Hadař sierraleonský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus limkouensis",
+    "SpecCode": "59370",
+    "CommonName": "Limkou teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus lithinus",
+    "SpecCode": "64829",
+    "CommonName": "Evermann's snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus longipenis",
+    "SpecCode": "53974",
+    "CommonName": "Hadař středoamerický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus machidai",
+    "SpecCode": "70139",
+    "CommonName": "Machida's snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus macrochir",
+    "SpecCode": "59840",
+    "CommonName": "Bigfin snake eel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus macrops",
+    "SpecCode": "59372",
+    "CommonName": "Laisilm-teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus maculatus",
+    "SpecCode": "59374",
+    "CommonName": "Itaalia teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus manilensis",
+    "SpecCode": "53880",
+    "CommonName": "Hadař manilský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus marginatus",
+    "SpecCode": "8057",
+    "CommonName": "Hadař vroubený",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus mecopterus",
+    "SpecCode": "53975",
+    "CommonName": "Hadař najaritský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus megalops",
+    "SpecCode": "53867",
+    "CommonName": "Jõllsilm-teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus melanoporus",
+    "SpecCode": "2655",
+    "CommonName": "Blackpored eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus melope",
+    "SpecCode": "53976",
+    "CommonName": "Colombia teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus menezesi",
+    "SpecCode": "53856",
+    "CommonName": "Hadař menezesův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus microcephalus",
+    "SpecCode": "70486",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus microstictus",
+    "SpecCode": "65568",
+    "CommonName": "Pisipoorjas teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus mystacinus",
+    "SpecCode": "54536",
+    "CommonName": "Hadař novokaledonský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus naevius",
+    "SpecCode": "70503",
+    "CommonName": "Spotted snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus nigroventralis",
+    "SpecCode": "70574",
+    "CommonName": "Belly spotted snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus obtusus",
+    "SpecCode": "70141",
+    "CommonName": "pug-nosed snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus olivaceus",
+    "SpecCode": "69227",
+    "CommonName": "Olivaceous snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus omorgmus",
+    "SpecCode": "53854",
+    "CommonName": "Dottedline snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus ophis",
+    "SpecCode": "1105",
+    "CommonName": "Cobra-pintada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus polyophthalmus",
+    "SpecCode": "7475",
+    "CommonName": "Congre-chabouk",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus pullus",
+    "SpecCode": "66019",
+    "CommonName": "Tõmmu teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus puncticeps",
+    "SpecCode": "2656",
+    "CommonName": "Hadař venezuelský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus remiger",
+    "SpecCode": "50708",
+    "CommonName": "Anguila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus retrodorsalis",
+    "SpecCode": "66604",
+    "CommonName": "Taanduim-teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus rex",
+    "SpecCode": "12008",
+    "CommonName": "Hadař královský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus roseus",
+    "SpecCode": "59376",
+    "CommonName": "Roosa teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus rotundus",
+    "SpecCode": "59364",
+    "CommonName": "Dunggun-mulbaem",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus rufus",
+    "SpecCode": "1741",
+    "CommonName": "Biscia di mare rosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus rugifer",
+    "SpecCode": "53945",
+    "CommonName": "Hadař santamarianský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus rutidoderma",
+    "SpecCode": "27038",
+    "CommonName": "Antong sor",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus sangjuensis",
+    "SpecCode": "66074",
+    "CommonName": "Korea nürihammasangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus semilunatus",
+    "SpecCode": "69122",
+    "CommonName": "Half-moon blotch snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus serpentinus",
+    "SpecCode": "25659",
+    "CommonName": "Hadař hadí",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus shaoi",
+    "SpecCode": "68631",
+    "CommonName": "Long bodied snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus singapurensis",
+    "SpecCode": "59377",
+    "CommonName": "Singapuri teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus spinicauda",
+    "SpecCode": "1106",
+    "CommonName": "Antillian snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus stenopterus",
+    "SpecCode": "59367",
+    "CommonName": "Ahasuim-teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus tchangi",
+    "SpecCode": "60996",
+    "CommonName": "Idahiina teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus tetratrema",
+    "SpecCode": "53977",
+    "CommonName": "Hadař kostarický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus tomioi",
+    "SpecCode": "65569",
+    "CommonName": "Tomio teravsabaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus triserialis",
+    "SpecCode": "2657",
+    "CommonName": "Anguila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus tsuchidae",
+    "SpecCode": "22624",
+    "CommonName": "Hadař Tsuchidové",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus unicolor",
+    "SpecCode": "15800",
+    "CommonName": "Effekleurige slangpaling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus urolophus",
+    "SpecCode": "10406",
+    "CommonName": "Hadař protažený",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus woosuitingi",
+    "SpecCode": "59379",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophichthus zophochir",
+    "SpecCode": "2658",
+    "CommonName": "Anguila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pagetopsis macropterus",
+    "SpecCode": "7114",
+    "CommonName": "Harilik hõljurjääkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagetopsis maculata",
+    "SpecCode": "7115",
+    "CommonName": "Laiguline hõljurjääkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

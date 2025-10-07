@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Arctozenus australis",
+    "SpecCode": "69412",
+    "CommonName": "Southern spotted barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arctozenus risso",
+    "SpecCode": "6977",
+    "CommonName": "Band-Barrakudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

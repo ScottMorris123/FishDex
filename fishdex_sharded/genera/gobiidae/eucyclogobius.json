@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Eucyclogobius kristinae",
+    "SpecCode": "69286",
+    "CommonName": "Southern tidewater goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucyclogobius newberryi",
+    "SpecCode": "3851",
+    "CommonName": "Northern tidewater goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

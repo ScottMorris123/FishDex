@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Acroteriobatus andysabini",
+    "SpecCode": "69490",
+    "CommonName": "Malagasy blue-spotted guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acroteriobatus annulatus",
+    "SpecCode": "5509",
+    "CommonName": "Banjo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acroteriobatus blochii",
+    "SpecCode": "7968",
+    "CommonName": "Banjo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acroteriobatus leucospilus",
+    "SpecCode": "5510",
+    "CommonName": "Blue-spotted guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acroteriobatus ocellatus",
+    "SpecCode": "15661",
+    "CommonName": "Gespikkelde gitaarrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acroteriobatus omanensis",
+    "SpecCode": "68219",
+    "CommonName": "Omn guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acroteriobatus salalah",
+    "SpecCode": "25240",
+    "CommonName": "Salalah guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acroteriobatus stehmanni",
+    "SpecCode": "69491",
+    "CommonName": "Socotra blue-spotted guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acroteriobatus variegatus",
+    "SpecCode": "57445",
+    "CommonName": "Snudestribet guitarfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acroteriobatus zanzibarensis",
+    "SpecCode": "57446",
+    "CommonName": "Sansibari logardrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

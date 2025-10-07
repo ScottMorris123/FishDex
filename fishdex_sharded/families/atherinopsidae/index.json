@@ -1,0 +1,72 @@
+{
+  "Family": "Atherinopsidae",
+  "Order": "Atheriniformes",
+  "Common": "Neotropical silversides",
+  "Genera": [
+    {
+      "Genus": "Atherinella",
+      "SpeciesCount": 35,
+      "genus_path": "genera/atherinopsidae/atherinella.json"
+    },
+    {
+      "Genus": "Atherinops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/atherinopsidae/atherinops.json"
+    },
+    {
+      "Genus": "Atherinopsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/atherinopsidae/atherinopsis.json"
+    },
+    {
+      "Genus": "Basilichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/atherinopsidae/basilichthys.json"
+    },
+    {
+      "Genus": "Chirostoma",
+      "SpeciesCount": 23,
+      "genus_path": "genera/atherinopsidae/chirostoma.json"
+    },
+    {
+      "Genus": "Colpichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/atherinopsidae/colpichthys.json"
+    },
+    {
+      "Genus": "Labidesthes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/atherinopsidae/labidesthes.json"
+    },
+    {
+      "Genus": "Leuresthes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/atherinopsidae/leuresthes.json"
+    },
+    {
+      "Genus": "Melanorhinus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/atherinopsidae/melanorhinus.json"
+    },
+    {
+      "Genus": "Membras",
+      "SpeciesCount": 8,
+      "genus_path": "genera/atherinopsidae/membras.json"
+    },
+    {
+      "Genus": "Menidia",
+      "SpeciesCount": 8,
+      "genus_path": "genera/atherinopsidae/menidia.json"
+    },
+    {
+      "Genus": "Odontesthes",
+      "SpeciesCount": 21,
+      "genus_path": "genera/atherinopsidae/odontesthes.json"
+    },
+    {
+      "Genus": "Poblana",
+      "SpeciesCount": 4,
+      "genus_path": "genera/atherinopsidae/poblana.json"
+    }
+  ]
+}

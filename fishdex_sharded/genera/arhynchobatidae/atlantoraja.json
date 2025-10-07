@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Atlantoraja castelnaui",
+    "SpecCode": "14143",
+    "CommonName": "Arraia-chita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atlantoraja cyclophora",
+    "SpecCode": "7609",
+    "CommonName": "Arraia-carimbada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atlantoraja platana",
+    "SpecCode": "54110",
+    "CommonName": "Argentiina atlandirai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

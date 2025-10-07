@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Chriolepis atrimelum",
+    "SpecCode": "58043",
+    "CommonName": "Black-cheek goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis benthonis",
+    "SpecCode": "57912",
+    "CommonName": "Deepwater goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis cuneata",
+    "SpecCode": "46829",
+    "CommonName": "Gobio carril",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis dialepta",
+    "SpecCode": "46830",
+    "CommonName": "White-starred goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis fisheri",
+    "SpecCode": "16589",
+    "CommonName": "Translucent goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis lepidota",
+    "SpecCode": "47398",
+    "CommonName": "Pretty goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis minutilla",
+    "SpecCode": "46825",
+    "CommonName": "Gobio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis roosevelti",
+    "SpecCode": "57936",
+    "CommonName": "Roosevelt's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis semisquamata",
+    "SpecCode": "46846",
+    "CommonName": "Gobio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis tagus",
+    "SpecCode": "46833",
+    "CommonName": "Gobio misterio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis vespa",
+    "SpecCode": "57935",
+    "CommonName": "Wasp goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chriolepis zebra",
+    "SpecCode": "46827",
+    "CommonName": "Gecko goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

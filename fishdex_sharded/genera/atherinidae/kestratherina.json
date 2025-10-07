@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Kestratherina brevirostris",
+    "SpecCode": "52456",
+    "CommonName": "Short pikeheaded hardyhead",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kestratherina esox",
+    "SpecCode": "52340",
+    "CommonName": "Geddehovedstribefisk",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

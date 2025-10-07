@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Paraprotomyzon bamaensis",
+    "SpecCode": "60478",
+    "CommonName": "Balitora bamanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraprotomyzon lungkowensis",
+    "SpecCode": "60489",
+    "CommonName": "Balitora lungkovenská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraprotomyzon multifasciatus",
+    "SpecCode": "54779",
+    "CommonName": "Balitora mnohopruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraprotomyzon niulanjiangensis",
+    "SpecCode": "62846",
+    "CommonName": "Niulanjiangi iidhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraprotomyzon yunnanensis",
+    "SpecCode": "66436",
+    "CommonName": "Yunnani iidhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

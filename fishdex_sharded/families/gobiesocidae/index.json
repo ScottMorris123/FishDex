@@ -1,0 +1,277 @@
+{
+  "Family": "Gobiesocidae",
+  "Order": "Gobiesociformes",
+  "Common": "Clingfishes and singleslits",
+  "Genera": [
+    {
+      "Genus": "Acyrtops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gobiesocidae/acyrtops.json"
+    },
+    {
+      "Genus": "Acyrtus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gobiesocidae/acyrtus.json"
+    },
+    {
+      "Genus": "Alabes",
+      "SpeciesCount": 11,
+      "genus_path": "genera/gobiesocidae/alabes.json"
+    },
+    {
+      "Genus": "Apletodon",
+      "SpeciesCount": 7,
+      "genus_path": "genera/gobiesocidae/apletodon.json"
+    },
+    {
+      "Genus": "Arcos",
+      "SpeciesCount": 5,
+      "genus_path": "genera/gobiesocidae/arcos.json"
+    },
+    {
+      "Genus": "Aspasma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/aspasma.json"
+    },
+    {
+      "Genus": "Aspasmichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gobiesocidae/aspasmichthys.json"
+    },
+    {
+      "Genus": "Aspasmodes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/aspasmodes.json"
+    },
+    {
+      "Genus": "Aspasmogaster",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gobiesocidae/aspasmogaster.json"
+    },
+    {
+      "Genus": "Barryichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gobiesocidae/barryichthys.json"
+    },
+    {
+      "Genus": "Briggsia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/briggsia.json"
+    },
+    {
+      "Genus": "Chorisochismus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/chorisochismus.json"
+    },
+    {
+      "Genus": "Cochleoceps",
+      "SpeciesCount": 5,
+      "genus_path": "genera/gobiesocidae/cochleoceps.json"
+    },
+    {
+      "Genus": "Conidens",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gobiesocidae/conidens.json"
+    },
+    {
+      "Genus": "Creocele",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/creocele.json"
+    },
+    {
+      "Genus": "Dellichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/dellichthys.json"
+    },
+    {
+      "Genus": "Derilissus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/gobiesocidae/derilissus.json"
+    },
+    {
+      "Genus": "Diademichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/diademichthys.json"
+    },
+    {
+      "Genus": "Diplecogaster",
+      "SpeciesCount": 8,
+      "genus_path": "genera/gobiesocidae/diplecogaster.json"
+    },
+    {
+      "Genus": "Diplocrepis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/diplocrepis.json"
+    },
+    {
+      "Genus": "Discotrema",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gobiesocidae/discotrema.json"
+    },
+    {
+      "Genus": "Eckloniaichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/eckloniaichthys.json"
+    },
+    {
+      "Genus": "Flabellicauda",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gobiesocidae/flabellicauda.json"
+    },
+    {
+      "Genus": "Flexor",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/flexor.json"
+    },
+    {
+      "Genus": "Gastrocyathus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/gastrocyathus.json"
+    },
+    {
+      "Genus": "Gastrocymba",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/gastrocymba.json"
+    },
+    {
+      "Genus": "Gastroscyphus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/gastroscyphus.json"
+    },
+    {
+      "Genus": "Gobiesox",
+      "SpeciesCount": 29,
+      "genus_path": "genera/gobiesocidae/gobiesox.json"
+    },
+    {
+      "Genus": "Gouania",
+      "SpeciesCount": 5,
+      "genus_path": "genera/gobiesocidae/gouania.json"
+    },
+    {
+      "Genus": "Gymnoscyphus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/gymnoscyphus.json"
+    },
+    {
+      "Genus": "Haplocylix",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/haplocylix.json"
+    },
+    {
+      "Genus": "Kopua",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gobiesocidae/kopua.json"
+    },
+    {
+      "Genus": "Lecanogaster",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gobiesocidae/lecanogaster.json"
+    },
+    {
+      "Genus": "Lepadichthys",
+      "SpeciesCount": 10,
+      "genus_path": "genera/gobiesocidae/lepadichthys.json"
+    },
+    {
+      "Genus": "Lepadicyathus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/lepadicyathus.json"
+    },
+    {
+      "Genus": "Lepadogaster",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gobiesocidae/lepadogaster.json"
+    },
+    {
+      "Genus": "Liobranchia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/liobranchia.json"
+    },
+    {
+      "Genus": "Lissonanchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/lissonanchus.json"
+    },
+    {
+      "Genus": "Modicus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gobiesocidae/modicus.json"
+    },
+    {
+      "Genus": "Nettorhamphos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/nettorhamphos.json"
+    },
+    {
+      "Genus": "Opeatogenys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gobiesocidae/opeatogenys.json"
+    },
+    {
+      "Genus": "Parvicrepis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/parvicrepis.json"
+    },
+    {
+      "Genus": "Pherallodichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/pherallodichthys.json"
+    },
+    {
+      "Genus": "Pherallodiscus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gobiesocidae/pherallodiscus.json"
+    },
+    {
+      "Genus": "Pherallodus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gobiesocidae/pherallodus.json"
+    },
+    {
+      "Genus": "Posidonichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/posidonichthys.json"
+    },
+    {
+      "Genus": "Propherallodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/propherallodus.json"
+    },
+    {
+      "Genus": "Protogobiesox",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/protogobiesox.json"
+    },
+    {
+      "Genus": "Rhinolepadichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gobiesocidae/rhinolepadichthys.json"
+    },
+    {
+      "Genus": "Rimicola",
+      "SpeciesCount": 5,
+      "genus_path": "genera/gobiesocidae/rimicola.json"
+    },
+    {
+      "Genus": "Sicyases",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gobiesocidae/sicyases.json"
+    },
+    {
+      "Genus": "Tomicodon",
+      "SpeciesCount": 22,
+      "genus_path": "genera/gobiesocidae/tomicodon.json"
+    },
+    {
+      "Genus": "Trachelochismus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gobiesocidae/trachelochismus.json"
+    },
+    {
+      "Genus": "Unguitrema",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gobiesocidae/unguitrema.json"
+    }
+  ]
+}

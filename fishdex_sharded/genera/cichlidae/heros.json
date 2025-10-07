@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Heros efasciatus",
+    "SpecCode": "52199",
+    "CommonName": "Acara piranga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heros liberifer",
+    "SpecCode": "68151",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heros notatus",
+    "SpecCode": "57739",
+    "CommonName": "Täplävanneahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heros severus",
+    "SpecCode": "3617",
+    "CommonName": "Acará-peba",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heros spurius",
+    "SpecCode": "52200",
+    "CommonName": "伪英丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

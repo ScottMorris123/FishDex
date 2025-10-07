@@ -1,0 +1,12 @@
+{
+  "Family": "Cebidichthyidae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "Monkeyfaces",
+  "Genera": [
+    {
+      "Genus": "Cebidichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cebidichthyidae/cebidichthys.json"
+    }
+  ]
+}

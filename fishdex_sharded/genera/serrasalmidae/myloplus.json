@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Myloplus arnoldi",
+    "SpecCode": "53334",
+    "CommonName": "Pacu branco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus asterias",
+    "SpecCode": "58100",
+    "CommonName": "Pacu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus levis",
+    "SpecCode": "51156",
+    "CommonName": "Coxa de negro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus lobatus",
+    "SpecCode": "58101",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus lucienae",
+    "SpecCode": "68182",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus nigrolineatus",
+    "SpecCode": "69301",
+    "CommonName": "Blackline myleus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus planquettei",
+    "SpecCode": "61633",
+    "CommonName": "kumalu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus rubripinnis",
+    "SpecCode": "11944",
+    "CommonName": "Be agba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus schomburgkii",
+    "SpecCode": "11960",
+    "CommonName": "Black band myleus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus ternetzi",
+    "SpecCode": "28031",
+    "CommonName": "Be agba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus tiete",
+    "SpecCode": "53462",
+    "CommonName": "Pacu peva",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus torquatus",
+    "SpecCode": "25523",
+    "CommonName": "Pacu branco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myloplus zorroi",
+    "SpecCode": "68181",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

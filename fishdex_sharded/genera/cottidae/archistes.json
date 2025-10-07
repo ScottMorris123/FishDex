@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Archistes biseriatus",
+    "SpecCode": "4040",
+    "CommonName": "Scaled sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Archistes plumarius",
+    "SpecCode": "61284",
+    "CommonName": "Plumed sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

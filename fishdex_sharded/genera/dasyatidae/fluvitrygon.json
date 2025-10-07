@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Fluvitrygon kittipongi",
+    "SpecCode": "63551",
+    "CommonName": "Tai nuutrai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fluvitrygon oxyrhynchus",
+    "SpecCode": "15392",
+    "CommonName": "Gemarmerde langsnuitpijlstaartrog",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fluvitrygon signifer",
+    "SpecCode": "7982",
+    "CommonName": "Freshwater stingray",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

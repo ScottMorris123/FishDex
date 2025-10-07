@@ -1,0 +1,12 @@
+{
+  "Family": "Kuhliidae",
+  "Order": "Centrarchiformes",
+  "Common": "Aholeholes",
+  "Genera": [
+    {
+      "Genus": "Kuhlia",
+      "SpeciesCount": 12,
+      "genus_path": "genera/kuhliidae/kuhlia.json"
+    }
+  ]
+}

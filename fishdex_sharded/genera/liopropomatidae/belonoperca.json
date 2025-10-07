@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Belonoperca chabanaudi",
+    "SpecCode": "12622",
+    "CommonName": "Apoua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Belonoperca pylei",
+    "SpecCode": "56324",
+    "CommonName": "Orangespotted soapfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

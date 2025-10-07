@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pristigenys alta",
+    "SpecCode": "3518",
+    "CommonName": "Beauclaire du large",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristigenys meyeri",
+    "SpecCode": "9891",
+    "CommonName": "Baga-Baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristigenys niphonia",
+    "SpecCode": "7905",
+    "CommonName": "Baga-Baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristigenys refulgens",
+    "SpecCode": "67121",
+    "CommonName": "Blackfringe Bigeye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristigenys serrula",
+    "SpecCode": "3519",
+    "CommonName": "Beauclaire sémaphore",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

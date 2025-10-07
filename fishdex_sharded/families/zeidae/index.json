@@ -1,0 +1,17 @@
+{
+  "Family": "Zeidae",
+  "Order": "Zeiformes",
+  "Common": "Dories",
+  "Genera": [
+    {
+      "Genus": "Zenopsis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/zeidae/zenopsis.json"
+    },
+    {
+      "Genus": "Zeus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zeidae/zeus.json"
+    }
+  ]
+}

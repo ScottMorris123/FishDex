@@ -1,0 +1,22 @@
+{
+  "Family": "Scophthalmidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Turbots",
+  "Genera": [
+    {
+      "Genus": "Lepidorhombus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scophthalmidae/lepidorhombus.json"
+    },
+    {
+      "Genus": "Scophthalmus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/scophthalmidae/scophthalmus.json"
+    },
+    {
+      "Genus": "Zeugopterus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/scophthalmidae/zeugopterus.json"
+    }
+  ]
+}

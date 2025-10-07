@@ -1,0 +1,37 @@
+{
+  "Family": "Mullidae",
+  "Order": "Mulliformes",
+  "Common": "Goatfishes",
+  "Genera": [
+    {
+      "Genus": "Mulloidichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/mullidae/mulloidichthys.json"
+    },
+    {
+      "Genus": "Mullus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/mullidae/mullus.json"
+    },
+    {
+      "Genus": "Parupeneus",
+      "SpeciesCount": 35,
+      "genus_path": "genera/mullidae/parupeneus.json"
+    },
+    {
+      "Genus": "Pseudupeneus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/mullidae/pseudupeneus.json"
+    },
+    {
+      "Genus": "Upeneichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/mullidae/upeneichthys.json"
+    },
+    {
+      "Genus": "Upeneus",
+      "SpeciesCount": 51,
+      "genus_path": "genera/mullidae/upeneus.json"
+    }
+  ]
+}

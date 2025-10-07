@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Padogobius bonelli",
+    "SpecCode": "14249",
+    "CommonName": "Common goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Padogobius nigricans",
+    "SpecCode": "6345",
+    "CommonName": "Arno goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

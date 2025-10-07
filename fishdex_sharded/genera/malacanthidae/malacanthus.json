@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Malacanthus brevirostris",
+    "SpecCode": "5795",
+    "CommonName": "'Ava'ava",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacanthus latovittatus",
+    "SpecCode": "5796",
+    "CommonName": "Banded blanquillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacanthus plumieri",
+    "SpecCode": "3541",
+    "CommonName": "Blanquillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

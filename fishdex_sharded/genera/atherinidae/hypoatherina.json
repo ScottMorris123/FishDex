@@ -1,0 +1,120 @@
+[
+  {
+    "ScientificName": "Hypoatherina barnesi",
+    "SpecCode": "1305",
+    "CommonName": "Athérine de Barnes",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina celebesensis",
+    "SpecCode": "66662",
+    "CommonName": "Sulawesi Silverside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina crenolepis",
+    "SpecCode": "15269",
+    "CommonName": "Crenulated silverside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina golanii",
+    "SpecCode": "66755",
+    "CommonName": "Red Sea silverside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina harringtonensis",
+    "SpecCode": "3237",
+    "CommonName": "Athérine des récifs",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina lunata",
+    "SpecCode": "66756",
+    "CommonName": "Okinawan silverside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina macrophthalma",
+    "SpecCode": "66663",
+    "CommonName": "Large-eye Silverside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina ovalaua",
+    "SpecCode": "8120",
+    "CommonName": "Fijian silverside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina temminckii",
+    "SpecCode": "1307",
+    "CommonName": "Athérine samoan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina tropicalis",
+    "SpecCode": "15461",
+    "CommonName": "Tropical hardyhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina tsurugae",
+    "SpecCode": "23372",
+    "CommonName": "Aoharara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina valenciennei",
+    "SpecCode": "15462",
+    "CommonName": "Bái shì yín hàn yú",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoatherina woodwardi",
+    "SpecCode": "23371",
+    "CommonName": "Okinawa-tôgorô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

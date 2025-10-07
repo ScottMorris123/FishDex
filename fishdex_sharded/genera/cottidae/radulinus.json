@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Radulinus asprellus",
+    "SpecCode": "4136",
+    "CommonName": "Charrasco flaco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Radulinus boleoides",
+    "SpecCode": "4137",
+    "CommonName": "Darter sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Radulinus vinculus",
+    "SpecCode": "4138",
+    "CommonName": "Smoothgum sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

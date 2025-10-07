@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Austrolycus depressiceps",
+    "SpecCode": "47973",
+    "CommonName": "扁头澳绵鳚",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austrolycus laticinctus",
+    "SpecCode": "47975",
+    "CommonName": "Minami-genge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

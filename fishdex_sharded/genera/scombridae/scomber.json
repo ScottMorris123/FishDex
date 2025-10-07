@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Scomber australasicus",
+    "SpecCode": "116",
+    "CommonName": "Adinges",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomber colias",
+    "SpecCode": "54736",
+    "CommonName": "Atlantic Chub Mackerel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomber japonicus",
+    "SpecCode": "117",
+    "CommonName": "Ababangon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomber scombrus",
+    "SpecCode": "118",
+    "CommonName": "Agerto",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

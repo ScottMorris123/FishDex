@@ -1,0 +1,17 @@
+{
+  "Family": "Bembropidae",
+  "Order": "Perciformes/Bembropoidei",
+  "Common": "Duckbill flatheads",
+  "Genera": [
+    {
+      "Genus": "Bembrops",
+      "SpeciesCount": 17,
+      "genus_path": "genera/bembropidae/bembrops.json"
+    },
+    {
+      "Genus": "Chrionema",
+      "SpeciesCount": 6,
+      "genus_path": "genera/bembropidae/chrionema.json"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Schizocypris altidorsalis",
+    "SpecCode": "55297",
+    "CommonName": "Gorgak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizocypris brucei",
+    "SpecCode": "24423",
+    "CommonName": "Osmančík gomalský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizocypris ladigesi",
+    "SpecCode": "56297",
+    "CommonName": "Ladigesi osmankarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

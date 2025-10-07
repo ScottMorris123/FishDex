@@ -1,0 +1,371 @@
+[
+  {
+    "ScientificName": "Apristurus albisoma",
+    "SpecCode": "58249",
+    "CommonName": "Valkjas musthai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus ampliceps",
+    "SpecCode": "64118",
+    "CommonName": "Suurpea-musthai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus aphyodes",
+    "SpecCode": "54373",
+    "CommonName": "Heller Tiefwasserkatzenhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus australis",
+    "SpecCode": "64107",
+    "CommonName": "Austraalia musthai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus breviventralis",
+    "SpecCode": "67532",
+    "CommonName": "Shortbelly catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus brunneus",
+    "SpecCode": "763",
+    "CommonName": "Brauner Katzenhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus bucephalus",
+    "SpecCode": "64119",
+    "CommonName": "Bighead catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus canutus",
+    "SpecCode": "764",
+    "CommonName": "Grauwe kathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus exsanguis",
+    "SpecCode": "59467",
+    "CommonName": "Kalbe musthai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus fedorovi",
+    "SpecCode": "58230",
+    "CommonName": "Stevige kathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus garricki",
+    "SpecCode": "66995",
+    "CommonName": "Garricki musthai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus gibbosus",
+    "SpecCode": "27225",
+    "CommonName": "Gebochelde kathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus herklotsi",
+    "SpecCode": "765",
+    "CommonName": "Holbiche à longues nageoires",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus indicus",
+    "SpecCode": "766",
+    "CommonName": "Holbiche artouca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus internatus",
+    "SpecCode": "58250",
+    "CommonName": "Lühikoon-musthai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus investigatoris",
+    "SpecCode": "767",
+    "CommonName": "Breedsnuitkathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus japonicus",
+    "SpecCode": "768",
+    "CommonName": "Holbiche japonaise",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus kampae",
+    "SpecCode": "769",
+    "CommonName": "Gato trompudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus laurussonii",
+    "SpecCode": "770",
+    "CommonName": "Atlandi musthai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus longicephalus",
+    "SpecCode": "771",
+    "CommonName": "Holbiche à grande tête",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus macrorhynchus",
+    "SpecCode": "772",
+    "CommonName": "Flathead cat shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus macrostomus",
+    "SpecCode": "27226",
+    "CommonName": "Breedbekkathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus manis",
+    "SpecCode": "774",
+    "CommonName": "Geister-Tiefwasserkatzenhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus manocheriani",
+    "SpecCode": "69580",
+    "CommonName": "Manocherian's catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus melanoasper",
+    "SpecCode": "62554",
+    "CommonName": "Black roughscale catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus microps",
+    "SpecCode": "775",
+    "CommonName": "Holbiche porc",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus micropterygeus",
+    "SpecCode": "27227",
+    "CommonName": "Máčka maloploutvá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus nakayai",
+    "SpecCode": "66849",
+    "CommonName": "Holbiche à iris blanc",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus nasutus",
+    "SpecCode": "776",
+    "CommonName": "Grootsnuitkathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus ovicorrugatus",
+    "SpecCode": "70051",
+    "CommonName": "Ridged-egg catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus parvipinnis",
+    "SpecCode": "777",
+    "CommonName": "Holbiche petites ailes",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus pinguis",
+    "SpecCode": "58251",
+    "CommonName": "Nuum-musthai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus platyrhynchus",
+    "SpecCode": "778",
+    "CommonName": "Borneo cat shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus profundorum",
+    "SpecCode": "779",
+    "CommonName": "Aki-herazame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus riveri",
+    "SpecCode": "780",
+    "CommonName": "Breedkieuwkathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus saldanha",
+    "SpecCode": "781",
+    "CommonName": "Holbiche gatussau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus sibogae",
+    "SpecCode": "782",
+    "CommonName": "Bleke kathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus sinensis",
+    "SpecCode": "783",
+    "CommonName": "Holbiche chuhu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus spongiceps",
+    "SpecCode": "784",
+    "CommonName": "Holbiche tête molle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus stenseni",
+    "SpecCode": "786",
+    "CommonName": "Holbiche nébuleuse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apristurus yangi",
+    "SpecCode": "68363",
+    "CommonName": "Yang's longnose catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

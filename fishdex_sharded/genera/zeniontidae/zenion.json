@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Zenion hololepis",
+    "SpecCode": "5050",
+    "CommonName": "Dwarf dory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenion japonicum",
+    "SpecCode": "23364",
+    "CommonName": "Japanese dory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenion leptolepis",
+    "SpecCode": "10669",
+    "CommonName": "Elongate dory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenion longipinnis",
+    "SpecCode": "9127",
+    "CommonName": "長翅小海魴",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

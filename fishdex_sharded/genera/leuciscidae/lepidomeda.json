@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Lepidomeda albivallis",
+    "SpecCode": "2797",
+    "CommonName": "Nevada ogateibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidomeda aliciae",
+    "SpecCode": "67446",
+    "CommonName": "Lõuna-ogateibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidomeda altivelis",
+    "SpecCode": "2798",
+    "CommonName": "Pahranagat Spinedace",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidomeda copei",
+    "SpecCode": "2760",
+    "CommonName": "Gila Copeova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidomeda mollispinis",
+    "SpecCode": "2799",
+    "CommonName": "Neitsijõe ogateibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidomeda vittata",
+    "SpecCode": "2800",
+    "CommonName": "Arizona ogateibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

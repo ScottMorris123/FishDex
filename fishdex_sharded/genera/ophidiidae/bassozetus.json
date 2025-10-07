@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Bassozetus compressus",
+    "SpecCode": "27428",
+    "CommonName": "Abyssal assfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus elongatus",
+    "SpecCode": "54223",
+    "CommonName": "Grönfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus galatheae",
+    "SpecCode": "60985",
+    "CommonName": "Galathea assfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus glutinosus",
+    "SpecCode": "47209",
+    "CommonName": "Glutin assfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus levistomatus",
+    "SpecCode": "54232",
+    "CommonName": "光口索深鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus mozambiquensis",
+    "SpecCode": "70473",
+    "CommonName": "Mozambique assfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus multispinis",
+    "SpecCode": "54233",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus nasus",
+    "SpecCode": "54234",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus nielseni",
+    "SpecCode": "70113",
+    "CommonName": "Masked assfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus normalis",
+    "SpecCode": "54235",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus oncerocephalus",
+    "SpecCode": "8947",
+    "CommonName": "瘤头索深鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus robustus",
+    "SpecCode": "7627",
+    "CommonName": "Robust assfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus taenia",
+    "SpecCode": "8946",
+    "CommonName": "条纹索深鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus werneri",
+    "SpecCode": "60986",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassozetus zenkevitchi",
+    "SpecCode": "54109",
+    "CommonName": "Fukumen-itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

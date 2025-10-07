@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Fistularia commersonii",
+    "SpecCode": "5444",
+    "CommonName": "Aka-yagara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fistularia corneta",
+    "SpecCode": "8289",
+    "CommonName": "Corneta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fistularia petimba",
+    "SpecCode": "3276",
+    "CommonName": "Agpang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fistularia tabacaria",
+    "SpecCode": "3275",
+    "CommonName": "Agulha buzina",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

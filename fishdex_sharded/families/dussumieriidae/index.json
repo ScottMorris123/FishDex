@@ -1,0 +1,17 @@
+{
+  "Family": "Dussumieriidae",
+  "Order": "Clupeiformes",
+  "Common": "Round herrings",
+  "Genera": [
+    {
+      "Genus": "Dussumieria",
+      "SpeciesCount": 7,
+      "genus_path": "genera/dussumieriidae/dussumieria.json"
+    },
+    {
+      "Genus": "Etrumeus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/dussumieriidae/etrumeus.json"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Rita chrysea",
+    "SpecCode": "24735",
+    "CommonName": "Mahanadi rita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rita gogra",
+    "SpecCode": "13325",
+    "CommonName": "Ghoghrya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rita kuturnee",
+    "SpecCode": "24736",
+    "CommonName": "Deccan rita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rita macracanthus",
+    "SpecCode": "62179",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rita rita",
+    "SpecCode": "4884",
+    "CommonName": "Belaunda",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rita sacerdotum",
+    "SpecCode": "61417",
+    "CommonName": "Salween rita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

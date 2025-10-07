@@ -1,0 +1,112 @@
+{
+  "Family": "Mormyridae",
+  "Order": "Osteoglossiformes",
+  "Common": "Elephantfishes",
+  "Genera": [
+    {
+      "Genus": "Boulengeromyrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mormyridae/boulengeromyrus.json"
+    },
+    {
+      "Genus": "Brevimyrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mormyridae/brevimyrus.json"
+    },
+    {
+      "Genus": "Brienomyrus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/mormyridae/brienomyrus.json"
+    },
+    {
+      "Genus": "Campylomormyrus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/mormyridae/campylomormyrus.json"
+    },
+    {
+      "Genus": "Cryptomyrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/mormyridae/cryptomyrus.json"
+    },
+    {
+      "Genus": "Cyphomyrus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/mormyridae/cyphomyrus.json"
+    },
+    {
+      "Genus": "Genyomyrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mormyridae/genyomyrus.json"
+    },
+    {
+      "Genus": "Gnathonemus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/mormyridae/gnathonemus.json"
+    },
+    {
+      "Genus": "Heteromormyrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/mormyridae/heteromormyrus.json"
+    },
+    {
+      "Genus": "Hippopotamyrus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/mormyridae/hippopotamyrus.json"
+    },
+    {
+      "Genus": "Hyperopisus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mormyridae/hyperopisus.json"
+    },
+    {
+      "Genus": "Isichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mormyridae/isichthys.json"
+    },
+    {
+      "Genus": "Ivindomyrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/mormyridae/ivindomyrus.json"
+    },
+    {
+      "Genus": "Marcusenius",
+      "SpeciesCount": 48,
+      "genus_path": "genera/mormyridae/marcusenius.json"
+    },
+    {
+      "Genus": "Mormyrops",
+      "SpeciesCount": 21,
+      "genus_path": "genera/mormyridae/mormyrops.json"
+    },
+    {
+      "Genus": "Mormyrus",
+      "SpeciesCount": 22,
+      "genus_path": "genera/mormyridae/mormyrus.json"
+    },
+    {
+      "Genus": "Myomyrus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/mormyridae/myomyrus.json"
+    },
+    {
+      "Genus": "Paramormyrops",
+      "SpeciesCount": 10,
+      "genus_path": "genera/mormyridae/paramormyrops.json"
+    },
+    {
+      "Genus": "Petrocephalus",
+      "SpeciesCount": 46,
+      "genus_path": "genera/mormyridae/petrocephalus.json"
+    },
+    {
+      "Genus": "Pollimyrus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/mormyridae/pollimyrus.json"
+    },
+    {
+      "Genus": "Stomatorhinus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/mormyridae/stomatorhinus.json"
+    }
+  ]
+}

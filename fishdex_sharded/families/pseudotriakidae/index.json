@@ -1,0 +1,22 @@
+{
+  "Family": "Pseudotriakidae",
+  "Order": "Carcharhiniformes",
+  "Common": "False catsharks",
+  "Genera": [
+    {
+      "Genus": "Gollum",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pseudotriakidae/gollum.json"
+    },
+    {
+      "Genus": "Planonasus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pseudotriakidae/planonasus.json"
+    },
+    {
+      "Genus": "Pseudotriakis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudotriakidae/pseudotriakis.json"
+    }
+  ]
+}

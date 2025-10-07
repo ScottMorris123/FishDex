@@ -1,0 +1,22 @@
+{
+  "Family": "Neoscopelidae",
+  "Order": "Myctophiformes",
+  "Common": "Blackchins",
+  "Genera": [
+    {
+      "Genus": "Neoscopelus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/neoscopelidae/neoscopelus.json"
+    },
+    {
+      "Genus": "Scopelengys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/neoscopelidae/scopelengys.json"
+    },
+    {
+      "Genus": "Solivomer",
+      "SpeciesCount": 1,
+      "genus_path": "genera/neoscopelidae/solivomer.json"
+    }
+  ]
+}

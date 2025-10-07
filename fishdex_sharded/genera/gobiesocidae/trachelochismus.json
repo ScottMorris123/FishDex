@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Trachelochismus aestuarium",
+    "SpecCode": "69291",
+    "CommonName": "Estuary clingfish",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachelochismus melobesia",
+    "SpecCode": "46304",
+    "CommonName": "Striped clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachelochismus pinnulatus",
+    "SpecCode": "46297",
+    "CommonName": "Lumpfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Breviraja claramaculata",
+    "SpecCode": "54087",
+    "CommonName": "Brightspot skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Breviraja colesi",
+    "SpecCode": "47552",
+    "CommonName": "Helenina-tömprai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Breviraja mouldi",
+    "SpecCode": "54088",
+    "CommonName": "Blacknose skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Breviraja nigriventralis",
+    "SpecCode": "54086",
+    "CommonName": "Blackbelly skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Breviraja spinosa",
+    "SpecCode": "27772",
+    "CommonName": "Netelrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

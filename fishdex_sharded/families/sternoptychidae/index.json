@@ -1,0 +1,57 @@
+{
+  "Family": "Sternoptychidae",
+  "Order": "Stomiiformes",
+  "Common": "Marine hatchetfishes",
+  "Genera": [
+    {
+      "Genus": "Araiophos",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sternoptychidae/araiophos.json"
+    },
+    {
+      "Genus": "Argyripnus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/sternoptychidae/argyripnus.json"
+    },
+    {
+      "Genus": "Argyropelecus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/sternoptychidae/argyropelecus.json"
+    },
+    {
+      "Genus": "Danaphos",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sternoptychidae/danaphos.json"
+    },
+    {
+      "Genus": "Maurolicus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/sternoptychidae/maurolicus.json"
+    },
+    {
+      "Genus": "Polyipnus",
+      "SpeciesCount": 34,
+      "genus_path": "genera/sternoptychidae/polyipnus.json"
+    },
+    {
+      "Genus": "Sonoda",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sternoptychidae/sonoda.json"
+    },
+    {
+      "Genus": "Sternoptyx",
+      "SpeciesCount": 4,
+      "genus_path": "genera/sternoptychidae/sternoptyx.json"
+    },
+    {
+      "Genus": "Thorophos",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sternoptychidae/thorophos.json"
+    },
+    {
+      "Genus": "Valenciennellus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sternoptychidae/valenciennellus.json"
+    }
+  ]
+}

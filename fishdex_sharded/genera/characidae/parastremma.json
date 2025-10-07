@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Parastremma album",
+    "SpecCode": "53468",
+    "CommonName": "Blanca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parastremma pulchrum",
+    "SpecCode": "53469",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parastremma sadina",
+    "SpecCode": "53424",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

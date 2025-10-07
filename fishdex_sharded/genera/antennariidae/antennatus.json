@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Antennatus flagellatus",
+    "SpecCode": "28139",
+    "CommonName": "Muchi-izari-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennatus linearis",
+    "SpecCode": "59456",
+    "CommonName": "Lined frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennatus strigatus",
+    "SpecCode": "13455",
+    "CommonName": "Båndhalet tudsefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennatus tuberosus",
+    "SpecCode": "11150",
+    "CommonName": "Bandfin frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

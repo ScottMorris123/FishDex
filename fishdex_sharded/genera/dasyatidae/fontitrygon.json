@@ -1,0 +1,60 @@
+[
+  {
+    "ScientificName": "Fontitrygon colarensis",
+    "SpecCode": "62663",
+    "CommonName": "Colares stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fontitrygon garouaensis",
+    "SpecCode": "10803",
+    "CommonName": "Alate",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fontitrygon geijskesi",
+    "SpecCode": "7594",
+    "CommonName": "Arraia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fontitrygon margarita",
+    "SpecCode": "4954",
+    "CommonName": "Adadu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fontitrygon margaritella",
+    "SpecCode": "26645",
+    "CommonName": "Ebagnalite",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fontitrygon ukpam",
+    "SpecCode": "8968",
+    "CommonName": "Pincushion ray",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

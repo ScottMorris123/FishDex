@@ -1,0 +1,72 @@
+{
+  "Family": "Platytroctidae",
+  "Order": "Alepocephaliformes",
+  "Common": "Tubeshoulders",
+  "Genera": [
+    {
+      "Genus": "Barbantus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/platytroctidae/barbantus.json"
+    },
+    {
+      "Genus": "Holtbyrnia",
+      "SpeciesCount": 10,
+      "genus_path": "genera/platytroctidae/holtbyrnia.json"
+    },
+    {
+      "Genus": "Matsuichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platytroctidae/matsuichthys.json"
+    },
+    {
+      "Genus": "Maulisia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/platytroctidae/maulisia.json"
+    },
+    {
+      "Genus": "Mentodus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/platytroctidae/mentodus.json"
+    },
+    {
+      "Genus": "Mirorictus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platytroctidae/mirorictus.json"
+    },
+    {
+      "Genus": "Normichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/platytroctidae/normichthys.json"
+    },
+    {
+      "Genus": "Pectinantus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platytroctidae/pectinantus.json"
+    },
+    {
+      "Genus": "Persparsia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platytroctidae/persparsia.json"
+    },
+    {
+      "Genus": "Platytroctes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/platytroctidae/platytroctes.json"
+    },
+    {
+      "Genus": "Sagamichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/platytroctidae/sagamichthys.json"
+    },
+    {
+      "Genus": "Searsia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platytroctidae/searsia.json"
+    },
+    {
+      "Genus": "Searsioides",
+      "SpeciesCount": 2,
+      "genus_path": "genera/platytroctidae/searsioides.json"
+    }
+  ]
+}

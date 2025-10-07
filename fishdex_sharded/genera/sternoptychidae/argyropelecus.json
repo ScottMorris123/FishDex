@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Argyropelecus aculeatus",
+    "SpecCode": "130",
+    "CommonName": "Atlantic silver hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyropelecus affinis",
+    "SpecCode": "40",
+    "CommonName": "Deepsea hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyropelecus gigas",
+    "SpecCode": "2082",
+    "CommonName": "Giant hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyropelecus hemigymnus",
+    "SpecCode": "6968",
+    "CommonName": "Ascia d’argento",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyropelecus lychnus",
+    "SpecCode": "11549",
+    "CommonName": "Silver hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyropelecus olfersii",
+    "SpecCode": "5097",
+    "CommonName": "Bijlvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyropelecus sladeni",
+    "SpecCode": "7392",
+    "CommonName": "Hatchet fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

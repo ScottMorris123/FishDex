@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Schultzidia johnstonensis",
+    "SpecCode": "7471",
+    "CommonName": "Hadař johnstonský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schultzidia retropinnis",
+    "SpecCode": "53861",
+    "CommonName": "Fringe-lipped worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

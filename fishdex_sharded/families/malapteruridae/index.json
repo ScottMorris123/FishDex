@@ -1,0 +1,17 @@
+{
+  "Family": "Malapteruridae",
+  "Order": "Siluriformes",
+  "Common": "Electric catfishes",
+  "Genera": [
+    {
+      "Genus": "Malapterurus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/malapteruridae/malapterurus.json"
+    },
+    {
+      "Genus": "Paradoxoglanis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/malapteruridae/paradoxoglanis.json"
+    }
+  ]
+}

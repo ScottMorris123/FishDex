@@ -1,0 +1,10 @@
+ScientificName,SpecCode,CommonName,Environments,Subspecies
+Favonigobius aliciae,26835,艾丽西亚管吻鲶,"['fresh', 'brackish']",[]
+Favonigobius exquisitus,52416,Exquisite goby,"['brackish', 'salt']",[]
+Favonigobius gymnauchen,48981,Himehaze,"['fresh', 'brackish', 'salt']",[]
+Favonigobius lateralis,47434,Long finned goby,"['brackish', 'salt']",[]
+Favonigobius lentiginosus,49314,Eastern longfin goby,['salt'],[]
+Favonigobius melanobranchus,17052,Blackthroat goby,"['brackish', 'salt']",[]
+Favonigobius opalescens,59867,,"['brackish', 'salt']",[]
+Favonigobius punctatus,57011,Yellowspotted sandgoby,"['brackish', 'salt']",[]
+Favonigobius reichei,9945,Bia,"['fresh', 'brackish', 'salt']",[]

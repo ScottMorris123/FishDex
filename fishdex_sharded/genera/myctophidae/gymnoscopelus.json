@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Gymnoscopelus bolini",
+    "SpecCode": "6988",
+    "CommonName": "Bolini's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnoscopelus braueri",
+    "SpecCode": "6989",
+    "CommonName": "Brauer's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnoscopelus fraseri",
+    "SpecCode": "6992",
+    "CommonName": "Fraser's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnoscopelus hintonoides",
+    "SpecCode": "6993",
+    "CommonName": "False-midas lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnoscopelus microlampas",
+    "SpecCode": "6994",
+    "CommonName": "Lanternule longue-gueule petites lumières",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnoscopelus nicholsi",
+    "SpecCode": "6990",
+    "CommonName": "Lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnoscopelus opisthopterus",
+    "SpecCode": "6991",
+    "CommonName": "后鳍裸灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnoscopelus piabilis",
+    "SpecCode": "6995",
+    "CommonName": "Lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

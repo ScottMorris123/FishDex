@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Pterygoplichthys ambrosettii",
+    "SpecCode": "66221",
+    "CommonName": "cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys disjunctivus",
+    "SpecCode": "51938",
+    "CommonName": "Plecóstoma rayado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys etentaculatus",
+    "SpecCode": "48963",
+    "CommonName": "Acari amarelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys gibbiceps",
+    "SpecCode": "12219",
+    "CommonName": "Bode cacunda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys joselimaianus",
+    "SpecCode": "51927",
+    "CommonName": "Acari bodó",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys lituratus",
+    "SpecCode": "51925",
+    "CommonName": "Boi de carro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys multiradiatus",
+    "SpecCode": "4793",
+    "CommonName": "Acari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys pardalis",
+    "SpecCode": "25741",
+    "CommonName": "Acari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys parnaibae",
+    "SpecCode": "51922",
+    "CommonName": "帕納雕甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys punctatus",
+    "SpecCode": "11284",
+    "CommonName": "Bode de igapó",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys scrophus",
+    "SpecCode": "53568",
+    "CommonName": "Krokotiilipleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys undecimalis",
+    "SpecCode": "49338",
+    "CommonName": "Cacucho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys weberi",
+    "SpecCode": "63957",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys xinguensis",
+    "SpecCode": "51928",
+    "CommonName": "亚马逊雕甲鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygoplichthys zuliaensis",
+    "SpecCode": "51934",
+    "CommonName": "委內瑞拉翼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "ScientificName": "Pterygotrigla amaokai",
+    "SpecCode": "65007",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla andertoni",
+    "SpecCode": "59159",
+    "CommonName": "Painted latchet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla arabica",
+    "SpecCode": "65017",
+    "CommonName": "阿拉伯魴鮄",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla cajorarori",
+    "SpecCode": "67043",
+    "CommonName": "Hyperostotic gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla draiggoch",
+    "SpecCode": "65008",
+    "CommonName": "Dragon gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla elicryste",
+    "SpecCode": "65009",
+    "CommonName": "Dwarf gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla gomoni",
+    "SpecCode": "66452",
+    "CommonName": "Gomon's gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla guezei",
+    "SpecCode": "50022",
+    "CommonName": "Grondin mauricien",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla hafizi",
+    "SpecCode": "65010",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla hemisticta",
+    "SpecCode": "8285",
+    "CommonName": "Belalang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla hoplites",
+    "SpecCode": "15254",
+    "CommonName": "Swordspine gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla jacad",
+    "SpecCode": "67622",
+    "CommonName": "Bigeye gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla leptacanthus",
+    "SpecCode": "10774",
+    "CommonName": "Black-finned gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla macrolepidota",
+    "SpecCode": "15261",
+    "CommonName": "Uroko-sokohôbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla macrorhynchus",
+    "SpecCode": "15240",
+    "CommonName": "Hananaga-sokohôbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla megalops",
+    "SpecCode": "15250",
+    "CommonName": "Large eye gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla multiocellata",
+    "SpecCode": "15239",
+    "CommonName": "Antrorse spined gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla multipunctata",
+    "SpecCode": "56760",
+    "CommonName": "密点角鲂鮄",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla pauli",
+    "SpecCode": "47426",
+    "CommonName": "Yellow spotted gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla picta",
+    "SpecCode": "14327",
+    "CommonName": "Japanese gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla polyommata",
+    "SpecCode": "508",
+    "CommonName": "Butterfly gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla robertsi",
+    "SpecCode": "50798",
+    "CommonName": "Roberts' gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla ryukyuensis",
+    "SpecCode": "10443",
+    "CommonName": "Ryukyu gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla saumarez",
+    "SpecCode": "66453",
+    "CommonName": "Saumarez Gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla soela",
+    "SpecCode": "65011",
+    "CommonName": "Soela gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla spirai",
+    "SpecCode": "50452",
+    "CommonName": "斯氏角魴鮄",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla tagala",
+    "SpecCode": "15237",
+    "CommonName": "太加拉角魴鮄",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterygotrigla urashimai",
+    "SpecCode": "65012",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

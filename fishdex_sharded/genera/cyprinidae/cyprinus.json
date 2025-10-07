@@ -1,0 +1,221 @@
+[
+  {
+    "ScientificName": "Cyprinus acutidorsalis",
+    "SpecCode": "14470",
+    "CommonName": "Kapr ostrohřbetý",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus barbatus",
+    "SpecCode": "14474",
+    "CommonName": "Erhai karpkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus carpio",
+    "SpecCode": "1450",
+    "CommonName": "Abba samuel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus chilia",
+    "SpecCode": "52958",
+    "CommonName": "Tonghai karpkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus dai",
+    "SpecCode": "61205",
+    "CommonName": "Kapr dajský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus daliensis",
+    "SpecCode": "56228",
+    "CommonName": "Kapr mekongský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus exophthalmus",
+    "SpecCode": "61214",
+    "CommonName": "Kapr severovietnamský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus fuxianensis",
+    "SpecCode": "60443",
+    "CommonName": "Fuxiani karpkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus hieni",
+    "SpecCode": "67426",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus hyperdorsalis",
+    "SpecCode": "61213",
+    "CommonName": "Võlvselg-karpkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus ilishaestomus",
+    "SpecCode": "55423",
+    "CommonName": "Kapr jilunský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus intha",
+    "SpecCode": "54672",
+    "CommonName": "Inlé karpkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus longipectoralis",
+    "SpecCode": "14472",
+    "CommonName": "Kapr dlouhoploutvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus longzhouensis",
+    "SpecCode": "60398",
+    "CommonName": "Kapr čínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus megalophthalmus",
+    "SpecCode": "58084",
+    "CommonName": "Big-eye carp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus melanes",
+    "SpecCode": "67452",
+    "CommonName": "Kapr středovietnamský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus micristius",
+    "SpecCode": "9781",
+    "CommonName": "Dianchi carp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus multitaeniatus",
+    "SpecCode": "14468",
+    "CommonName": "Cá Lợ than thấp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus pellegrini",
+    "SpecCode": "14473",
+    "CommonName": "Barbless carp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus qionghaiensis",
+    "SpecCode": "60474",
+    "CommonName": "Qionghai karpkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus quidatensis",
+    "SpecCode": "65162",
+    "CommonName": "Qui Dati karpkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus rubrofuscus",
+    "SpecCode": "59920",
+    "CommonName": "Punakas karpkala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus yilongensis",
+    "SpecCode": "57459",
+    "CommonName": "Kapr šipingský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinus yunnanensis",
+    "SpecCode": "56227",
+    "CommonName": "Kapr junanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

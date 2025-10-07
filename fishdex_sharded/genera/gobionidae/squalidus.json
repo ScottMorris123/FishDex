@@ -1,0 +1,132 @@
+[
+  {
+    "ScientificName": "Squalidus argentatus",
+    "SpecCode": "54974",
+    "CommonName": "Hele hõberünt",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus atromaculatus",
+    "SpecCode": "55938",
+    "CommonName": "Hrouzíček černoskvrnný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus banarescui",
+    "SpecCode": "63250",
+    "CommonName": "Bănărescu hõberünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus chankaensis",
+    "SpecCode": "47354",
+    "CommonName": "Biwa-Gründlingsbarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus gracilis",
+    "SpecCode": "22920",
+    "CommonName": "Hrouzenka severokorejská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus homozonus",
+    "SpecCode": "61871",
+    "CommonName": "Jaapani hõberünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus iijimae",
+    "SpecCode": "17300",
+    "CommonName": "Hrouzíček tajvanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus intermedius",
+    "SpecCode": "55941",
+    "CommonName": "Hrouzíček prostřední",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus japonicus",
+    "SpecCode": "22921",
+    "CommonName": "Dememoroko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus mantschuricus",
+    "SpecCode": "66102",
+    "CommonName": "Mandžuuria hõberünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus minor",
+    "SpecCode": "54970",
+    "CommonName": "Hrouzíček menší",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus multimaculatus",
+    "SpecCode": "59808",
+    "CommonName": "Hrouzíček mnohoskvrnný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus nitens",
+    "SpecCode": "55939",
+    "CommonName": "Helkiv hõberünt",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalidus wolterstorffi",
+    "SpecCode": "54972",
+    "CommonName": "Hrouzíček Wolterstoffův",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

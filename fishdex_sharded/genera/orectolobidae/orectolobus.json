@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Orectolobus floridus",
+    "SpecCode": "63747",
+    "CommonName": "Floral banded wobbegong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orectolobus halei",
+    "SpecCode": "63715",
+    "CommonName": "Banded wobbegong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orectolobus hutchinsi",
+    "SpecCode": "63346",
+    "CommonName": "Lääneaustraalia habehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orectolobus japonicus",
+    "SpecCode": "757",
+    "CommonName": "Asiatisk wobbegong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orectolobus leptolineatus",
+    "SpecCode": "65548",
+    "CommonName": "Indoneesia habehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orectolobus maculatus",
+    "SpecCode": "758",
+    "CommonName": "Austraalia habehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orectolobus ornatus",
+    "SpecCode": "759",
+    "CommonName": "Banded carpet shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orectolobus parvimaculatus",
+    "SpecCode": "63748",
+    "CommonName": "Dwarf spotted wobbegong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orectolobus reticulatus",
+    "SpecCode": "64117",
+    "CommonName": "Network wobbegong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orectolobus wardi",
+    "SpecCode": "760",
+    "CommonName": "Keltapartahai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

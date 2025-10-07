@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Protosalanx chinensis",
+    "SpecCode": "60010",
+    "CommonName": "붕퉁뱅어",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protosalanx hyalocranius",
+    "SpecCode": "12236",
+    "CommonName": "Cá Ngãn lớn",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

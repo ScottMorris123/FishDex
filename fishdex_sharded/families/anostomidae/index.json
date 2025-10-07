@@ -1,0 +1,82 @@
+{
+  "Family": "Anostomidae",
+  "Order": "Characiformes",
+  "Common": "Headstanders",
+  "Genera": [
+    {
+      "Genus": "Abramites",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anostomidae/abramites.json"
+    },
+    {
+      "Genus": "Anostomoides",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anostomidae/anostomoides.json"
+    },
+    {
+      "Genus": "Anostomus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/anostomidae/anostomus.json"
+    },
+    {
+      "Genus": "Gnathodolus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anostomidae/gnathodolus.json"
+    },
+    {
+      "Genus": "Hypomasticus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/anostomidae/hypomasticus.json"
+    },
+    {
+      "Genus": "Laemolyta",
+      "SpeciesCount": 9,
+      "genus_path": "genera/anostomidae/laemolyta.json"
+    },
+    {
+      "Genus": "Leporellus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/anostomidae/leporellus.json"
+    },
+    {
+      "Genus": "Leporinus",
+      "SpeciesCount": 86,
+      "genus_path": "genera/anostomidae/leporinus.json"
+    },
+    {
+      "Genus": "Megaleporinus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/anostomidae/megaleporinus.json"
+    },
+    {
+      "Genus": "Petulanos",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anostomidae/petulanos.json"
+    },
+    {
+      "Genus": "Pseudanos",
+      "SpeciesCount": 5,
+      "genus_path": "genera/anostomidae/pseudanos.json"
+    },
+    {
+      "Genus": "Rhytiodus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/anostomidae/rhytiodus.json"
+    },
+    {
+      "Genus": "Sartor",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anostomidae/sartor.json"
+    },
+    {
+      "Genus": "Schizodon",
+      "SpeciesCount": 16,
+      "genus_path": "genera/anostomidae/schizodon.json"
+    },
+    {
+      "Genus": "Synaptolaemus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anostomidae/synaptolaemus.json"
+    }
+  ]
+}

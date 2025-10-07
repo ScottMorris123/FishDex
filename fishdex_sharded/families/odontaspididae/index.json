@@ -1,0 +1,12 @@
+{
+  "Family": "Odontaspididae",
+  "Order": "Lamniformes",
+  "Common": "Sand tiger sharks",
+  "Genera": [
+    {
+      "Genus": "Odontaspis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/odontaspididae/odontaspis.json"
+    }
+  ]
+}

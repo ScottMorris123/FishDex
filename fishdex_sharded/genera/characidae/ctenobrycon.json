@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ctenobrycon alleni",
+    "SpecCode": "58031",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenobrycon hauxwellianus",
+    "SpecCode": "26443",
+    "CommonName": "Hochrückensalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenobrycon multiradiatus",
+    "SpecCode": "62339",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenobrycon oliverai",
+    "SpecCode": "65832",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenobrycon spilurus",
+    "SpecCode": "10629",
+    "CommonName": "Bobita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

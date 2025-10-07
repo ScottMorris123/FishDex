@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Champsochromis caeruleus",
+    "SpecCode": "2249",
+    "CommonName": "Forellen-Cichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Champsochromis spilorhynchus",
+    "SpecCode": "2250",
+    "CommonName": "Gestreckter Raubmaulbrüter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

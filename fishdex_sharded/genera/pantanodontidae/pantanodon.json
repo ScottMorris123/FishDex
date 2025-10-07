@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Pantanodon madagascariensis",
+    "SpecCode": "9651",
+    "CommonName": "馬達加斯加豹齒鮰",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pantanodon stuhlmanni",
+    "SpecCode": "9680",
+    "CommonName": "Eastcoast lampeye",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

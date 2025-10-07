@@ -1,0 +1,12 @@
+{
+  "Family": "Rhinopteridae",
+  "Order": "Myliobatiformes",
+  "Common": "Cownose rays",
+  "Genera": [
+    {
+      "Genus": "Rhinoptera",
+      "SpeciesCount": 7,
+      "genus_path": "genera/rhinopteridae/rhinoptera.json"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Cirrhimuraena calamus",
+    "SpecCode": "24282",
+    "CommonName": "Fringed-lipped snake-eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhimuraena cheilopogon",
+    "SpecCode": "27399",
+    "CommonName": "Paapua udeangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhimuraena chinensis",
+    "SpecCode": "27405",
+    "CommonName": "Hadař čínský",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhimuraena inhacae",
+    "SpecCode": "15669",
+    "CommonName": "Hadař mozambický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhimuraena oliveri",
+    "SpecCode": "53831",
+    "CommonName": "Hadař Oliverův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhimuraena orientalis",
+    "SpecCode": "60995",
+    "CommonName": "Cá Chình rấu phương đông",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhimuraena paucidens",
+    "SpecCode": "59407",
+    "CommonName": "Vähehambune udeangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhimuraena playfairii",
+    "SpecCode": "8052",
+    "CommonName": "Fraiinglip-slangpaling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhimuraena tapeinoptera",
+    "SpecCode": "53871",
+    "CommonName": "Madaluim-udeangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhimuraena yuanding",
+    "SpecCode": "64037",
+    "CommonName": "Kukaluim-udeangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

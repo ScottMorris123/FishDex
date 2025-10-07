@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Gonostoma atlanticum",
+    "SpecCode": "5052",
+    "CommonName": "Atlantic fangjaw",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonostoma denudatum",
+    "SpecCode": "1799",
+    "CommonName": "Anciova imperiali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

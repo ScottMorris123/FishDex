@@ -1,0 +1,42 @@
+{
+  "Family": "Achiridae",
+  "Order": "Pleuronectiformes",
+  "Common": "American soles",
+  "Genera": [
+    {
+      "Genus": "Achirus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/achiridae/achirus.json"
+    },
+    {
+      "Genus": "Apionichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/achiridae/apionichthys.json"
+    },
+    {
+      "Genus": "Catathyridium",
+      "SpeciesCount": 4,
+      "genus_path": "genera/achiridae/catathyridium.json"
+    },
+    {
+      "Genus": "Gymnachirus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/achiridae/gymnachirus.json"
+    },
+    {
+      "Genus": "Hypoclinemus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/achiridae/hypoclinemus.json"
+    },
+    {
+      "Genus": "Pnictes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/achiridae/pnictes.json"
+    },
+    {
+      "Genus": "Trinectes",
+      "SpeciesCount": 10,
+      "genus_path": "genera/achiridae/trinectes.json"
+    }
+  ]
+}

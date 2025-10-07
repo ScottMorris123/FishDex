@@ -1,0 +1,17 @@
+{
+  "Family": "Lepisosteidae",
+  "Order": "Lepisosteiformes",
+  "Common": "Gars",
+  "Genera": [
+    {
+      "Genus": "Atractosteus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/lepisosteidae/atractosteus.json"
+    },
+    {
+      "Genus": "Lepisosteus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/lepisosteidae/lepisosteus.json"
+    }
+  ]
+}

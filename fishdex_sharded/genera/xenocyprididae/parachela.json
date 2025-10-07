@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Parachela cyanea",
+    "SpecCode": "27014",
+    "CommonName": "Kýlnatka modrá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachela hypophthalmus",
+    "SpecCode": "17450",
+    "CommonName": "Kýlnatka spodnooká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachela ingerkongi",
+    "SpecCode": "27343",
+    "CommonName": "Borneo väitskõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachela maculicauda",
+    "SpecCode": "27042",
+    "CommonName": "Kýlnatka ocasoskvrnná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachela oxygastroides",
+    "SpecCode": "4947",
+    "CommonName": "Almindelig glasbarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachela siamensis",
+    "SpecCode": "27043",
+    "CommonName": "Kýlnatka siamská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachela williaminae",
+    "SpecCode": "27044",
+    "CommonName": "Kýlnatka mekongská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Normichthys herringi",
+    "SpecCode": "61100",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Normichthys operosus",
+    "SpecCode": "11454",
+    "CommonName": "Glaskopvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Normichthys yahganorum",
+    "SpecCode": "6965",
+    "CommonName": "細鱗真管肩魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

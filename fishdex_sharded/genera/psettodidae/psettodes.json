@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Psettodes belcheri",
+    "SpecCode": "4504",
+    "CommonName": "Aafrika psettood",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettodes bennettii",
+    "SpecCode": "5068",
+    "CommonName": "Bennetti psettood",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettodes erumei",
+    "SpecCode": "513",
+    "CommonName": "௭ருமை நாக்கு",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

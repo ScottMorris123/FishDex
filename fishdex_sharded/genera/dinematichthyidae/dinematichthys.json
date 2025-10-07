@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Dinematichthys iluocoeteoides",
+    "SpecCode": "7300",
+    "CommonName": "Coral brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dinematichthys trilobatus",
+    "SpecCode": "64966",
+    "CommonName": "Trilobed viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

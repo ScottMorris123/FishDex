@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Paraplotosus albilabris",
+    "SpecCode": "12097",
+    "CommonName": "Alimusang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplotosus butleri",
+    "SpecCode": "61301",
+    "CommonName": "Sailfin catfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplotosus muelleri",
+    "SpecCode": "61300",
+    "CommonName": "Kimberley catfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

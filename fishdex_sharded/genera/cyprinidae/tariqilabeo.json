@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Tariqilabeo bicornis",
+    "SpecCode": "51454",
+    "CommonName": "Bihorned barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tariqilabeo latius",
+    "SpecCode": "24464",
+    "CommonName": "Gangetic latia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tariqilabeo macmahoni",
+    "SpecCode": "23986",
+    "CommonName": "Dashti narmasmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tariqilabeo wattanah",
+    "SpecCode": "70004",
+    "CommonName": "Deccan Latia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Scombrops boops",
+    "SpecCode": "10360",
+    "CommonName": "Gnomefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scombrops gilberti",
+    "SpecCode": "10369",
+    "CommonName": "Kuro-mutsu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scombrops oculatus",
+    "SpecCode": "12412",
+    "CommonName": "Atlantic Scombrops",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

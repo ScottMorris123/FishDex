@@ -1,0 +1,12 @@
+{
+  "Family": "Helostomatidae",
+  "Order": "Anabantiformes",
+  "Common": "Kissing gouramies",
+  "Genera": [
+    {
+      "Genus": "Helostoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/helostomatidae/helostoma.json"
+    }
+  ]
+}

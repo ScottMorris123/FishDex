@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Dimidiochromis compressiceps",
+    "SpecCode": "2137",
+    "CommonName": "Chikolombi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dimidiochromis dimidiatus",
+    "SpecCode": "2135",
+    "CommonName": "Hopeaveitsihautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dimidiochromis kiwinge",
+    "SpecCode": "2136",
+    "CommonName": "Binga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dimidiochromis strigatus",
+    "SpecCode": "2134",
+    "CommonName": "Haplochromis sunset",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

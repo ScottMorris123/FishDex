@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Amblydoras affinis",
+    "SpecCode": "57800",
+    "CommonName": "Saurauwari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblydoras bolivarensis",
+    "SpecCode": "47601",
+    "CommonName": "Piikkiokamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblydoras gonzalezi",
+    "SpecCode": "47609",
+    "CommonName": "Sierra del Caroni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblydoras monitor",
+    "SpecCode": "47610",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblydoras nauticus",
+    "SpecCode": "51775",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblydoras nheco",
+    "SpecCode": "63410",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

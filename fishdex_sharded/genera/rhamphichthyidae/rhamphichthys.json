@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Rhamphichthys apurensis",
+    "SpecCode": "52934",
+    "CommonName": "Langnæset knivfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphichthys atlanticus",
+    "SpecCode": "57018",
+    "CommonName": "Atlantic knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphichthys drepanium",
+    "SpecCode": "57019",
+    "CommonName": "Bow knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphichthys hahni",
+    "SpecCode": "48033",
+    "CommonName": "Roundnose knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphichthys heleios",
+    "SpecCode": "67909",
+    "CommonName": "Marsh knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphichthys lineatus",
+    "SpecCode": "48075",
+    "CommonName": "Line knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphichthys longior",
+    "SpecCode": "57020",
+    "CommonName": "Trombetas knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphichthys marmoratus",
+    "SpecCode": "48073",
+    "CommonName": "Ituí terçado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphichthys pantherinus",
+    "SpecCode": "48074",
+    "CommonName": "Panterknivfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphichthys rostratus",
+    "SpecCode": "28040",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Congresox talabon",
+    "SpecCode": "11701",
+    "CommonName": "Aarel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congresox talabonoides",
+    "SpecCode": "11713",
+    "CommonName": "Belut",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

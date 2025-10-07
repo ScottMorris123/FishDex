@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Tosana dampieriensis",
+    "SpecCode": "69913",
+    "CommonName": "Dampierian threadtail Anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tosana longipinnis",
+    "SpecCode": "69912",
+    "CommonName": "Longfin threadtail Anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tosana niwae",
+    "SpecCode": "23423",
+    "CommonName": "Cá Mú đuôi dài",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

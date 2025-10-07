@@ -1,0 +1,46 @@
+[
+  {
+    "ScientificName": "Salanx ariakensis",
+    "SpecCode": "22672",
+    "CommonName": "Ariake-shira-uo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salanx chinensis",
+    "SpecCode": "12239",
+    "CommonName": "Cá Ngãn Trung hoa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salanx cuvieri",
+    "SpecCode": "12240",
+    "CommonName": "Cá Ngãn",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salanx prognathus",
+    "SpecCode": "47139",
+    "CommonName": "벚꽃뱅어",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

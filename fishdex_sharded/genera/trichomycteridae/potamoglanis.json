@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Potamoglanis anhanga",
+    "SpecCode": "66904",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamoglanis hasemani",
+    "SpecCode": "48692",
+    "CommonName": "黑斯曼毛鼻鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamoglanis johnsoni",
+    "SpecCode": "48699",
+    "CommonName": "約翰遜毛鼻鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamoglanis wapixana",
+    "SpecCode": "68505",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

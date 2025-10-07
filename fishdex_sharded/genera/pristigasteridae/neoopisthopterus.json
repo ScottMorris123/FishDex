@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Neoopisthopterus cubanus",
+    "SpecCode": "1646",
+    "CommonName": "Cuban Longfin Herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoopisthopterus tropicus",
+    "SpecCode": "1647",
+    "CommonName": "Arenquilla tropical",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

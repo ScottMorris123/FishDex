@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Istiophorus albicans",
+    "SpecCode": "78",
+    "CommonName": "Abanico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istiophorus platypterus",
+    "SpecCode": "77",
+    "CommonName": "A`urepe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

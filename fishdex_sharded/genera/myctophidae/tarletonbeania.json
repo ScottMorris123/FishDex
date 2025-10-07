@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Tarletonbeania crenularis",
+    "SpecCode": "2738",
+    "CommonName": "Blue lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tarletonbeania taylori",
+    "SpecCode": "22998",
+    "CommonName": "Hokuyô-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

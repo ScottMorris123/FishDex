@@ -1,0 +1,210 @@
+[
+  {
+    "ScientificName": "Phoxinus adagumicus",
+    "SpecCode": "70607",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus apollonicus",
+    "SpecCode": "67848",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus bigerri",
+    "SpecCode": "64179",
+    "CommonName": "Adour minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus brachyurus",
+    "SpecCode": "48143",
+    "CommonName": "Lühisaba-lepamaim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus colchicus",
+    "SpecCode": "65125",
+    "CommonName": "Kolhise lepamaim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus grumi",
+    "SpecCode": "56017",
+    "CommonName": "Střevle mongolská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus issykkulensis",
+    "SpecCode": "48145",
+    "CommonName": "Issyk-Kul minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus jouyi",
+    "SpecCode": "22927",
+    "CommonName": "Jaapani lepamaim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus karsticus",
+    "SpecCode": "67847",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus ketmaieri",
+    "SpecCode": "67846",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus keumkang",
+    "SpecCode": "25634",
+    "CommonName": "Geum gang mo chi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus kumgangensis",
+    "SpecCode": "60012",
+    "CommonName": "Kŭmgangi lepamaim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus likai",
+    "SpecCode": "67849",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus oxyrhynchus",
+    "SpecCode": "62439",
+    "CommonName": "Korea lepamaim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus phoxinus",
+    "SpecCode": "4661",
+    "CommonName": "Äling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus radeki",
+    "SpecCode": "70613",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus semotilus",
+    "SpecCode": "60011",
+    "CommonName": "Tähn-lepamaim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus septimaniae",
+    "SpecCode": "64180",
+    "CommonName": "Languedoc minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus steindachneri",
+    "SpecCode": "23620",
+    "CommonName": "Aburahaya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus strandjae",
+    "SpecCode": "65127",
+    "CommonName": "Bulgarian minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus strymonicus",
+    "SpecCode": "64183",
+    "CommonName": "Strymoni lepamaim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus tchangi",
+    "SpecCode": "61923",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinus ujmonensis",
+    "SpecCode": "63333",
+    "CommonName": "Uimoni lepamaim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

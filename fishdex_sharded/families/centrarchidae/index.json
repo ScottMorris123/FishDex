@@ -1,0 +1,47 @@
+{
+  "Family": "Centrarchidae",
+  "Order": "Centrarchiformes",
+  "Common": "Sunfishes",
+  "Genera": [
+    {
+      "Genus": "Acantharchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/centrarchidae/acantharchus.json"
+    },
+    {
+      "Genus": "Ambloplites",
+      "SpeciesCount": 4,
+      "genus_path": "genera/centrarchidae/ambloplites.json"
+    },
+    {
+      "Genus": "Archoplites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/centrarchidae/archoplites.json"
+    },
+    {
+      "Genus": "Centrarchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/centrarchidae/centrarchus.json"
+    },
+    {
+      "Genus": "Enneacanthus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/centrarchidae/enneacanthus.json"
+    },
+    {
+      "Genus": "Lepomis",
+      "SpeciesCount": 13,
+      "genus_path": "genera/centrarchidae/lepomis.json"
+    },
+    {
+      "Genus": "Micropterus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/centrarchidae/micropterus.json"
+    },
+    {
+      "Genus": "Pomoxis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/centrarchidae/pomoxis.json"
+    }
+  ]
+}

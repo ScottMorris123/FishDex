@@ -1,0 +1,12 @@
+{
+  "Family": "Zanobatidae",
+  "Order": "Myliobatiformes",
+  "Common": "Panrays",
+  "Genera": [
+    {
+      "Genus": "Zanobatus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zanobatidae/zanobatus.json"
+    }
+  ]
+}

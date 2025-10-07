@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pylorobranchus hearstorum",
+    "SpecCode": "67348",
+    "CommonName": "Filipiini hõlmikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pylorobranchus hoi",
+    "SpecCode": "66746",
+    "CommonName": "Taiwani hõlmikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

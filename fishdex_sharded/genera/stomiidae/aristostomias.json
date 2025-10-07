@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Aristostomias grimaldii",
+    "SpecCode": "11803",
+    "CommonName": "Agonukehoshieso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aristostomias lunifer",
+    "SpecCode": "4814",
+    "CommonName": "黑奇巨口魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aristostomias polydactylus",
+    "SpecCode": "11806",
+    "CommonName": "Kumadori-hoshi-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aristostomias scintillans",
+    "SpecCode": "11577",
+    "CommonName": "Loosejaw",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aristostomias tittmanni",
+    "SpecCode": "11809",
+    "CommonName": "Loosejaw",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aristostomias xenostoma",
+    "SpecCode": "11810",
+    "CommonName": "Mandibulón torpedo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

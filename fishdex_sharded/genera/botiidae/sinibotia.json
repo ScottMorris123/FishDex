@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Sinibotia longiventralis",
+    "SpecCode": "46116",
+    "CommonName": "Mekongi hiinabootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibotia pulchra",
+    "SpecCode": "46118",
+    "CommonName": "Kaunis hiinabootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibotia reevesae",
+    "SpecCode": "46127",
+    "CommonName": "Reevesi hiinabootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibotia robusta",
+    "SpecCode": "54997",
+    "CommonName": "Kansuschmerle",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibotia superciliaris",
+    "SpecCode": "46113",
+    "CommonName": "Kuldvööt-hiinabootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibotia zebra",
+    "SpecCode": "60422",
+    "CommonName": "Sebra-hiinabootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

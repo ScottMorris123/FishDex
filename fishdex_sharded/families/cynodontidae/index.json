@@ -1,0 +1,22 @@
+{
+  "Family": "Cynodontidae",
+  "Order": "Characiformes",
+  "Common": "Dogtooth characins",
+  "Genera": [
+    {
+      "Genus": "Cynodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cynodontidae/cynodon.json"
+    },
+    {
+      "Genus": "Hydrolycus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cynodontidae/hydrolycus.json"
+    },
+    {
+      "Genus": "Rhaphiodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cynodontidae/rhaphiodon.json"
+    }
+  ]
+}

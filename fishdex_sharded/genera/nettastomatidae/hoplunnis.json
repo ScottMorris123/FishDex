@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Hoplunnis diomediana",
+    "SpecCode": "2621",
+    "CommonName": "Blacktail pikeconger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplunnis macrura",
+    "SpecCode": "2622",
+    "CommonName": "Freckled pikeconger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplunnis megista",
+    "SpecCode": "58703",
+    "CommonName": "Panama kihvikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplunnis pacifica",
+    "SpecCode": "50087",
+    "CommonName": "Anguila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplunnis punctata",
+    "SpecCode": "9072",
+    "CommonName": "Slender duckbill eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplunnis schmidti",
+    "SpecCode": "60964",
+    "CommonName": "Schmidti kihvikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplunnis sicarius",
+    "SpecCode": "57195",
+    "CommonName": "Mehhiko kihvikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplunnis similis",
+    "SpecCode": "58704",
+    "CommonName": "Kariibi kihvikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplunnis tenuis",
+    "SpecCode": "2623",
+    "CommonName": "Conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

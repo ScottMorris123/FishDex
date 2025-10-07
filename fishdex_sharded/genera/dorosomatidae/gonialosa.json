@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Gonialosa manmina",
+    "SpecCode": "1622",
+    "CommonName": "Chapila",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonialosa modesta",
+    "SpecCode": "1623",
+    "CommonName": "Birma gonialoosa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonialosa whiteheadi",
+    "SpecCode": "1624",
+    "CommonName": "Dorosoma whiteheadova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

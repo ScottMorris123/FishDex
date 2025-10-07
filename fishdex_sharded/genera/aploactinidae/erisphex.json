@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Erisphex aniarus",
+    "SpecCode": "10539",
+    "CommonName": "Darkfin velvetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erisphex philippinus",
+    "SpecCode": "10633",
+    "CommonName": "菲律宾虻鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erisphex pottii",
+    "SpecCode": "9238",
+    "CommonName": "Abu-okoze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erisphex simplex",
+    "SpecCode": "59073",
+    "CommonName": "平滑絨鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

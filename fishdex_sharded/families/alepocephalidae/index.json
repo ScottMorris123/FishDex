@@ -1,0 +1,107 @@
+{
+  "Family": "Alepocephalidae",
+  "Order": "Alepocephaliformes",
+  "Common": "Slickheads",
+  "Genera": [
+    {
+      "Genus": "Alepocephalus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/alepocephalidae/alepocephalus.json"
+    },
+    {
+      "Genus": "Asquamiceps",
+      "SpeciesCount": 4,
+      "genus_path": "genera/alepocephalidae/asquamiceps.json"
+    },
+    {
+      "Genus": "Aulastomatomorpha",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alepocephalidae/aulastomatomorpha.json"
+    },
+    {
+      "Genus": "Bajacalifornia",
+      "SpeciesCount": 7,
+      "genus_path": "genera/alepocephalidae/bajacalifornia.json"
+    },
+    {
+      "Genus": "Bathylaco",
+      "SpeciesCount": 3,
+      "genus_path": "genera/alepocephalidae/bathylaco.json"
+    },
+    {
+      "Genus": "Bathyprion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alepocephalidae/bathyprion.json"
+    },
+    {
+      "Genus": "Bathytroctes",
+      "SpeciesCount": 11,
+      "genus_path": "genera/alepocephalidae/bathytroctes.json"
+    },
+    {
+      "Genus": "Conocara",
+      "SpeciesCount": 10,
+      "genus_path": "genera/alepocephalidae/conocara.json"
+    },
+    {
+      "Genus": "Einara",
+      "SpeciesCount": 2,
+      "genus_path": "genera/alepocephalidae/einara.json"
+    },
+    {
+      "Genus": "Herwigia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alepocephalidae/herwigia.json"
+    },
+    {
+      "Genus": "Leptochilichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/alepocephalidae/leptochilichthys.json"
+    },
+    {
+      "Genus": "Leptoderma",
+      "SpeciesCount": 6,
+      "genus_path": "genera/alepocephalidae/leptoderma.json"
+    },
+    {
+      "Genus": "Microphotolepis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/alepocephalidae/microphotolepis.json"
+    },
+    {
+      "Genus": "Mirognathus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alepocephalidae/mirognathus.json"
+    },
+    {
+      "Genus": "Narcetes",
+      "SpeciesCount": 6,
+      "genus_path": "genera/alepocephalidae/narcetes.json"
+    },
+    {
+      "Genus": "Photostylus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alepocephalidae/photostylus.json"
+    },
+    {
+      "Genus": "Rinoctes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alepocephalidae/rinoctes.json"
+    },
+    {
+      "Genus": "Rouleina",
+      "SpeciesCount": 10,
+      "genus_path": "genera/alepocephalidae/rouleina.json"
+    },
+    {
+      "Genus": "Talismania",
+      "SpeciesCount": 11,
+      "genus_path": "genera/alepocephalidae/talismania.json"
+    },
+    {
+      "Genus": "Xenodermichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/alepocephalidae/xenodermichthys.json"
+    }
+  ]
+}

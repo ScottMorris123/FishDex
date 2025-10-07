@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Cyclopsetta chittendeni",
+    "SpecCode": "979",
+    "CommonName": "Flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclopsetta fimbriata",
+    "SpecCode": "4219",
+    "CommonName": "Arepa de cola manchada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclopsetta panamensis",
+    "SpecCode": "13952",
+    "CommonName": "God's flounder",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclopsetta querna",
+    "SpecCode": "13954",
+    "CommonName": "Lenguado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

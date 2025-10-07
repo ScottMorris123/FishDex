@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bothrocarina microcephala",
+    "SpecCode": "25015",
+    "CommonName": "Kamuchakkagenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bothrocarina nigrocaudata",
+    "SpecCode": "25014",
+    "CommonName": "Ogurogenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

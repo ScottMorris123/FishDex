@@ -1,0 +1,167 @@
+{
+  "Family": "Pimelodidae",
+  "Order": "Siluriformes",
+  "Common": "Long-whiskered catfishes",
+  "Genera": [
+    {
+      "Genus": "Aguarunichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pimelodidae/aguarunichthys.json"
+    },
+    {
+      "Genus": "Bagropsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/bagropsis.json"
+    },
+    {
+      "Genus": "Bergiaria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pimelodidae/bergiaria.json"
+    },
+    {
+      "Genus": "Brachyplatystoma",
+      "SpeciesCount": 7,
+      "genus_path": "genera/pimelodidae/brachyplatystoma.json"
+    },
+    {
+      "Genus": "Calophysus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/calophysus.json"
+    },
+    {
+      "Genus": "Cheirocerus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pimelodidae/cheirocerus.json"
+    },
+    {
+      "Genus": "Conorhynchos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/conorhynchos.json"
+    },
+    {
+      "Genus": "Duopalatinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pimelodidae/duopalatinus.json"
+    },
+    {
+      "Genus": "Exallodontus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/exallodontus.json"
+    },
+    {
+      "Genus": "Hemisorubim",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/hemisorubim.json"
+    },
+    {
+      "Genus": "Hypophthalmus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pimelodidae/hypophthalmus.json"
+    },
+    {
+      "Genus": "Iheringichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pimelodidae/iheringichthys.json"
+    },
+    {
+      "Genus": "Leiarius",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pimelodidae/leiarius.json"
+    },
+    {
+      "Genus": "Luciopimelodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/luciopimelodus.json"
+    },
+    {
+      "Genus": "Megalonema",
+      "SpeciesCount": 8,
+      "genus_path": "genera/pimelodidae/megalonema.json"
+    },
+    {
+      "Genus": "Parapimelodus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pimelodidae/parapimelodus.json"
+    },
+    {
+      "Genus": "Perrunichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/perrunichthys.json"
+    },
+    {
+      "Genus": "Phractocephalus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/phractocephalus.json"
+    },
+    {
+      "Genus": "Pimelabditus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/pimelabditus.json"
+    },
+    {
+      "Genus": "Pimelodina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/pimelodina.json"
+    },
+    {
+      "Genus": "Pimelodus",
+      "SpeciesCount": 34,
+      "genus_path": "genera/pimelodidae/pimelodus.json"
+    },
+    {
+      "Genus": "Pinirampus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/pinirampus.json"
+    },
+    {
+      "Genus": "Platynematichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/platynematichthys.json"
+    },
+    {
+      "Genus": "Platysilurus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pimelodidae/platysilurus.json"
+    },
+    {
+      "Genus": "Platystomatichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/platystomatichthys.json"
+    },
+    {
+      "Genus": "Propimelodus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pimelodidae/propimelodus.json"
+    },
+    {
+      "Genus": "Pseudoplatystoma",
+      "SpeciesCount": 8,
+      "genus_path": "genera/pimelodidae/pseudoplatystoma.json"
+    },
+    {
+      "Genus": "Sorubim",
+      "SpeciesCount": 5,
+      "genus_path": "genera/pimelodidae/sorubim.json"
+    },
+    {
+      "Genus": "Sorubimichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/sorubimichthys.json"
+    },
+    {
+      "Genus": "Steindachneridion",
+      "SpeciesCount": 6,
+      "genus_path": "genera/pimelodidae/steindachneridion.json"
+    },
+    {
+      "Genus": "Zungaro",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pimelodidae/zungaro.json"
+    },
+    {
+      "Genus": "Zungaropsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pimelodidae/zungaropsis.json"
+    }
+  ]
+}

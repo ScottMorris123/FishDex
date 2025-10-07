@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Neomyxine biniplicata",
+    "SpecCode": "54047",
+    "CommonName": "Harilik uuspihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomyxine caesiovitta",
+    "SpecCode": "68255",
+    "CommonName": "Blueband hagfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

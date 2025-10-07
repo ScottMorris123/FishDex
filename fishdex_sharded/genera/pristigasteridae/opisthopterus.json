@@ -1,0 +1,62 @@
+[
+  {
+    "ScientificName": "Opisthopterus dovii",
+    "SpecCode": "1648",
+    "CommonName": "Arenquilla de Dove",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthopterus effulgens",
+    "SpecCode": "1649",
+    "CommonName": "Arenquilla vaqueira",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthopterus equatorialis",
+    "SpecCode": "1650",
+    "CommonName": "Ækvator-finnesild",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthopterus macrops",
+    "SpecCode": "1651",
+    "CommonName": "Arenquilla ojón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthopterus tardoore",
+    "SpecCode": "1652",
+    "CommonName": "Ambatta",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthopterus valenciennesi",
+    "SpecCode": "1653",
+    "CommonName": "Menipis parang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

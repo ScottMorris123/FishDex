@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Spaniblennius clandestinus",
+    "SpecCode": "58752",
+    "CommonName": "秘罕鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spaniblennius riodourensis",
+    "SpecCode": "22620",
+    "CommonName": "罕鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Azurina atrilobata",
+    "SpecCode": "8279",
+    "CommonName": "Castañeta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azurina brevirostris",
+    "SpecCode": "63553",
+    "CommonName": "Shortsnout Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azurina cyanea",
+    "SpecCode": "3642",
+    "CommonName": "Azulejo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azurina elerae",
+    "SpecCode": "4983",
+    "CommonName": "guru",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azurina eupalama",
+    "SpecCode": "11848",
+    "CommonName": "Blackspot chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azurina hirundo",
+    "SpecCode": "11849",
+    "CommonName": "Castañuela golondrina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azurina intercrusma",
+    "SpecCode": "11865",
+    "CommonName": "Castañuela",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azurina lepidolepis",
+    "SpecCode": "5674",
+    "CommonName": "Brown chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azurina meridiana",
+    "SpecCode": "12421",
+    "CommonName": "Southern chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azurina multilineata",
+    "SpecCode": "1121",
+    "CommonName": "Brown chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

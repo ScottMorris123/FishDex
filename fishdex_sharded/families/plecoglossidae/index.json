@@ -1,0 +1,12 @@
+{
+  "Family": "Plecoglossidae",
+  "Order": "Osmeriformes",
+  "Common": "Ayu fish",
+  "Genera": [
+    {
+      "Genus": "Plecoglossus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/plecoglossidae/plecoglossus.json"
+    }
+  ]
+}

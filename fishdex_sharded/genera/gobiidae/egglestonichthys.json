@@ -1,0 +1,58 @@
+[
+  {
+    "ScientificName": "Egglestonichthys bombylios",
+    "SpecCode": "59336",
+    "CommonName": "Egglestone's bumblebee goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Egglestonichthys fulmen",
+    "SpecCode": "70366",
+    "CommonName": "Eggleston's lightning goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Egglestonichthys melanoptera",
+    "SpecCode": "60623",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Egglestonichthys patriciae",
+    "SpecCode": "59264",
+    "CommonName": "南海伊氏鰕虎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Egglestonichthys rubidus",
+    "SpecCode": "69336",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Egglestonichthys ulbubunitj",
+    "SpecCode": "70367",
+    "CommonName": "Threadfin goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

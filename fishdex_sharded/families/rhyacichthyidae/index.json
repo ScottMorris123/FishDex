@@ -1,0 +1,17 @@
+{
+  "Family": "Rhyacichthyidae",
+  "Order": "Gobiiformes",
+  "Common": "Loach gobies",
+  "Genera": [
+    {
+      "Genus": "Protogobius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhyacichthyidae/protogobius.json"
+    },
+    {
+      "Genus": "Rhyacichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/rhyacichthyidae/rhyacichthys.json"
+    }
+  ]
+}

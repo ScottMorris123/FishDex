@@ -1,0 +1,344 @@
+[
+  {
+    "ScientificName": "Johnius amblycephalus",
+    "SpecCode": "7785",
+    "CommonName": "Abo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius australis",
+    "SpecCode": "15234",
+    "CommonName": "Bottlenose jewfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius belangerii",
+    "SpecCode": "5520",
+    "CommonName": "Abo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius borneensis",
+    "SpecCode": "15263",
+    "CommonName": "Abo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius cantori",
+    "SpecCode": "15916",
+    "CommonName": "坎氏叫姑魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius carouna",
+    "SpecCode": "15236",
+    "CommonName": "Cá Đù",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius carutta",
+    "SpecCode": "4647",
+    "CommonName": "Abo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius coitor",
+    "SpecCode": "10544",
+    "CommonName": "Bhola",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius distinctus",
+    "SpecCode": "15919",
+    "CommonName": "Abura-guchi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius dorsalis",
+    "SpecCode": "28016",
+    "CommonName": "Kleinkob",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius dussumieri",
+    "SpecCode": "6530",
+    "CommonName": "Abo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius elongatus",
+    "SpecCode": "16428",
+    "CommonName": "Corvina ahusada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius fasciatus",
+    "SpecCode": "55174",
+    "CommonName": "Cá Uốp",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius fuscolineatus",
+    "SpecCode": "27988",
+    "CommonName": "Bellfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius gangeticus",
+    "SpecCode": "13430",
+    "CommonName": "Gangetic bola",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius glaucus",
+    "SpecCode": "13667",
+    "CommonName": "Corvina glauca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius goldmani",
+    "SpecCode": "7796",
+    "CommonName": "Abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius grypotus",
+    "SpecCode": "15925",
+    "CommonName": "Konibe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius heterolepis",
+    "SpecCode": "15244",
+    "CommonName": "Croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius hypostoma",
+    "SpecCode": "15246",
+    "CommonName": "Small-mouth croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius laevis",
+    "SpecCode": "13097",
+    "CommonName": "Coitor croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius latifrons",
+    "SpecCode": "15248",
+    "CommonName": "Broad-head croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius macropterus",
+    "SpecCode": "10348",
+    "CommonName": "Corvina aletona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius macrorhynus",
+    "SpecCode": "15249",
+    "CommonName": "Baddi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius majan",
+    "SpecCode": "66555",
+    "CommonName": "Majan croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius mannarensis",
+    "SpecCode": "15929",
+    "CommonName": "Mannar croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius novaeguineae",
+    "SpecCode": "15436",
+    "CommonName": "Paperhead croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius novaehollandiae",
+    "SpecCode": "61345",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius pacificus",
+    "SpecCode": "15437",
+    "CommonName": "Pacific croaker",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius philippinus",
+    "SpecCode": "58329",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius plagiostoma",
+    "SpecCode": "15448",
+    "CommonName": "Cá Đù",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius taiwanensis",
+    "SpecCode": "69565",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius trachycephalus",
+    "SpecCode": "12051",
+    "CommonName": "Croaker",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius trewavasae",
+    "SpecCode": "15257",
+    "CommonName": "Trewavas croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Johnius weberi",
+    "SpecCode": "15259",
+    "CommonName": "Cá Đù",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

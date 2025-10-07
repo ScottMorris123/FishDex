@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Engyophrys sanctilaurentii",
+    "SpecCode": "13558",
+    "CommonName": "Lenguado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engyophrys senta",
+    "SpecCode": "4220",
+    "CommonName": "American spiny flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

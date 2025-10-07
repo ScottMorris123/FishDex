@@ -1,0 +1,34 @@
+[
+  {
+    "ScientificName": "Liopsetta glacialis",
+    "SpecCode": "4244",
+    "CommonName": "Arctic flounder",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liopsetta pinnifasciata",
+    "SpecCode": "13072",
+    "CommonName": "Arctic flounder",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liopsetta putnami",
+    "SpecCode": "4245",
+    "CommonName": "Ameerika merilest",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

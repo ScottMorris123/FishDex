@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Ogcocephalus corniger",
+    "SpecCode": "3095",
+    "CommonName": "Longnose Batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus cubifrons",
+    "SpecCode": "27085",
+    "CommonName": "Murciélago diablo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus darwini",
+    "SpecCode": "8199",
+    "CommonName": "Batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus declivirostris",
+    "SpecCode": "12030",
+    "CommonName": "Murciélago inclinado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus nasutus",
+    "SpecCode": "3092",
+    "CommonName": "Batimbau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus notatus",
+    "SpecCode": "28242",
+    "CommonName": "Hirokuchi-furyu-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus pantostictus",
+    "SpecCode": "12029",
+    "CommonName": "Murciélago manchado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus parvus",
+    "SpecCode": "3093",
+    "CommonName": "Iga-nishifuryu-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus porrectus",
+    "SpecCode": "58655",
+    "CommonName": "長蝙蝠魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus pumilus",
+    "SpecCode": "28244",
+    "CommonName": "Dwarf batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus radiatus",
+    "SpecCode": "3094",
+    "CommonName": "Polka-dot batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus rostellum",
+    "SpecCode": "12028",
+    "CommonName": "Palefin batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogcocephalus vespertilio",
+    "SpecCode": "47677",
+    "CommonName": "Bacacuá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

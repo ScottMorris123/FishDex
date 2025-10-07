@@ -1,0 +1,17 @@
+{
+  "Family": "Chacidae",
+  "Order": "Siluriformes",
+  "Common": "Squarehead or angler catfish",
+  "Genera": [
+    {
+      "Genus": "Chaca",
+      "SpeciesCount": 4,
+      "genus_path": "genera/chacidae/chaca.json"
+    },
+    {
+      "Genus": "Cyanogaster",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chacidae/cyanogaster.json"
+    }
+  ]
+}

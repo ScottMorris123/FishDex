@@ -1,0 +1,12 @@
+{
+  "Family": "Siganidae",
+  "Order": "Acanthuriformes",
+  "Common": "Rabbitfishes",
+  "Genera": [
+    {
+      "Genus": "Siganus",
+      "SpeciesCount": 29,
+      "genus_path": "genera/siganidae/siganus.json"
+    }
+  ]
+}

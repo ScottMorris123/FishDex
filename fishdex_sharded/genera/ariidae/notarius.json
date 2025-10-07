@@ -1,0 +1,161 @@
+[
+  {
+    "ScientificName": "Notarius armbrusteri",
+    "SpecCode": "63327",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius biffi",
+    "SpecCode": "62180",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius bonillai",
+    "SpecCode": "946",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius cookei",
+    "SpecCode": "60680",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius grandicassis",
+    "SpecCode": "949",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius insculptus",
+    "SpecCode": "63323",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius kessleri",
+    "SpecCode": "13473",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius lentiginosus",
+    "SpecCode": "13475",
+    "CommonName": "Bagre moteado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius luniscutis",
+    "SpecCode": "58410",
+    "CommonName": "Bagre amarelo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius neogranatensis",
+    "SpecCode": "60687",
+    "CommonName": "Bagre parindera",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius osculus",
+    "SpecCode": "13476",
+    "CommonName": "Chomba sea catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius phrygiatus",
+    "SpecCode": "954",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius planiceps",
+    "SpecCode": "13478",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius quadriscutis",
+    "SpecCode": "956",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius rugispinis",
+    "SpecCode": "957",
+    "CommonName": "Bagre branco",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notarius troschelii",
+    "SpecCode": "13507",
+    "CommonName": "Bagre alijora",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Rhencus macracanthus",
+    "SpecCode": "13738",
+    "CommonName": "Brin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhencus panamensis",
+    "SpecCode": "13740",
+    "CommonName": "Burro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

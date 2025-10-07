@@ -1,0 +1,24 @@
+[
+  {
+    "ScientificName": "Scatophagus argus",
+    "SpecCode": "4698",
+    "CommonName": "Akikiro",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scatophagus tetracanthus",
+    "SpecCode": "7915",
+    "CommonName": "African scat",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Labroides bicolor",
+    "SpecCode": "5650",
+    "CommonName": "Arinai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labroides dimidiatus",
+    "SpecCode": "5459",
+    "CommonName": "Alle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labroides pectoralis",
+    "SpecCode": "5651",
+    "CommonName": "Blackspot cleaner wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labroides phthirophagus",
+    "SpecCode": "7765",
+    "CommonName": "Cleaner wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labroides rubrolabiatus",
+    "SpecCode": "23530",
+    "CommonName": "Dokter mas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

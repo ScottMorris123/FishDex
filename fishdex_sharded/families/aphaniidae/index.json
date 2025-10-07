@@ -1,0 +1,47 @@
+{
+  "Family": "Aphaniidae",
+  "Order": "Cyprinodontiformes",
+  "Common": "Oriental killifishes",
+  "Genera": [
+    {
+      "Genus": "Anatolichthys",
+      "SpeciesCount": 13,
+      "genus_path": "genera/aphaniidae/anatolichthys.json"
+    },
+    {
+      "Genus": "Aphaniops",
+      "SpeciesCount": 9,
+      "genus_path": "genera/aphaniidae/aphaniops.json"
+    },
+    {
+      "Genus": "Aphanius",
+      "SpeciesCount": 5,
+      "genus_path": "genera/aphaniidae/aphanius.json"
+    },
+    {
+      "Genus": "Apricaphanius",
+      "SpeciesCount": 3,
+      "genus_path": "genera/aphaniidae/apricaphanius.json"
+    },
+    {
+      "Genus": "Esmaeilius",
+      "SpeciesCount": 6,
+      "genus_path": "genera/aphaniidae/esmaeilius.json"
+    },
+    {
+      "Genus": "Kosswigichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aphaniidae/kosswigichthys.json"
+    },
+    {
+      "Genus": "Paraphanius",
+      "SpeciesCount": 7,
+      "genus_path": "genera/aphaniidae/paraphanius.json"
+    },
+    {
+      "Genus": "Tellia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aphaniidae/tellia.json"
+    }
+  ]
+}

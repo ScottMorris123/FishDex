@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Oligocottus maculosus",
+    "SpecCode": "4128",
+    "CommonName": "Buchikajika",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligocottus rimensis",
+    "SpecCode": "4129",
+    "CommonName": "Charrasco ensillado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligocottus rubellio",
+    "SpecCode": "4130",
+    "CommonName": "Charrasco rosado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligocottus snyderi",
+    "SpecCode": "4131",
+    "CommonName": "Charrasco peludo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Scaphirhynchus albus",
+    "SpecCode": "2595",
+    "CommonName": "Bleg stør",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scaphirhynchus platorynchus",
+    "SpecCode": "2596",
+    "CommonName": "Almindelig skovlhovedstør",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scaphirhynchus suttkusi",
+    "SpecCode": "56264",
+    "CommonName": "Alabama lasntuur",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Scortum barcoo",
+    "SpecCode": "14946",
+    "CommonName": "Barcoo grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scortum hillii",
+    "SpecCode": "10623",
+    "CommonName": "Green-hide jack",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scortum neili",
+    "SpecCode": "62770",
+    "CommonName": "Angalarri grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scortum parviceps",
+    "SpecCode": "10624",
+    "CommonName": "Smallhead grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

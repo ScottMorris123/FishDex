@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Photoblepharon palpebratum",
+    "SpecCode": "7185",
+    "CommonName": "Eyelight fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photoblepharon steinitzi",
+    "SpecCode": "17085",
+    "CommonName": "Flashlight fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

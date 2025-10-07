@@ -1,0 +1,12 @@
+{
+  "Family": "Gonorynchidae",
+  "Order": "Gonorynchiformes",
+  "Common": "Beaked salmons",
+  "Genera": [
+    {
+      "Genus": "Gonorynchus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/gonorynchidae/gonorynchus.json"
+    }
+  ]
+}

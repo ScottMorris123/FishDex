@@ -1,0 +1,347 @@
+[
+  {
+    "ScientificName": "Eleotris acanthopomus",
+    "SpecCode": "11794",
+    "CommonName": "Chichibumodoki",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris amblyopsis",
+    "SpecCode": "28013",
+    "CommonName": "Ahmattitorkkuja",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris andamensis",
+    "SpecCode": "61521",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris annobonensis",
+    "SpecCode": "61525",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris aquadulcis",
+    "SpecCode": "26378",
+    "CommonName": "Freshwater gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris balia",
+    "SpecCode": "61535",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris bosetoi",
+    "SpecCode": "69576",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris brachyurus",
+    "SpecCode": "61526",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris daganensis",
+    "SpecCode": "10011",
+    "CommonName": "Awura",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris diamsoi",
+    "SpecCode": "69607",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris douniasi",
+    "SpecCode": "69605",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris fasciata",
+    "SpecCode": "55199",
+    "CommonName": "条纹塘鳢",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris fusca",
+    "SpecCode": "8034",
+    "CommonName": "Apofu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris klunzingerii",
+    "SpecCode": "69827",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris lutea",
+    "SpecCode": "25264",
+    "CommonName": "Gobi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris macrocephala",
+    "SpecCode": "61516",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris macrolepis",
+    "SpecCode": "61517",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris mauritiana",
+    "SpecCode": "23089",
+    "CommonName": "Cabot noir",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris melanosoma",
+    "SpecCode": "10013",
+    "CommonName": "Apofu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris oxycephala",
+    "SpecCode": "15874",
+    "CommonName": "Cá bong trúng",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris pellegrini",
+    "SpecCode": "10014",
+    "CommonName": "佩氏塘鱧",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris perniger",
+    "SpecCode": "55038",
+    "CommonName": "Dormé",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris picta",
+    "SpecCode": "3828",
+    "CommonName": "Guavina machada",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris pisonis",
+    "SpecCode": "3829",
+    "CommonName": "Amerikantorkkuja",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris sahanaensis",
+    "SpecCode": "69608",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris sandwicensis",
+    "SpecCode": "6335",
+    "CommonName": "Hawaiian sleeper",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris senegalensis",
+    "SpecCode": "2494",
+    "CommonName": "塞內加爾塘鱧",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris soaresi",
+    "SpecCode": "60642",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris sumatraensis",
+    "SpecCode": "69604",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris tecta",
+    "SpecCode": "57993",
+    "CommonName": "Pez perro",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris tubularis",
+    "SpecCode": "61530",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris valadei",
+    "SpecCode": "69606",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris vittata",
+    "SpecCode": "2495",
+    "CommonName": "Angolantorkkuja",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris vomerodentata",
+    "SpecCode": "10015",
+    "CommonName": "犁齒塘鱧",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eleotris woworae",
+    "SpecCode": "69603",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

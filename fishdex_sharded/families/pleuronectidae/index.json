@@ -1,0 +1,132 @@
+{
+  "Family": "Pleuronectidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Righteye flounders",
+  "Genera": [
+    {
+      "Genus": "Acanthopsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/acanthopsetta.json"
+    },
+    {
+      "Genus": "Atheresthes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pleuronectidae/atheresthes.json"
+    },
+    {
+      "Genus": "Cleisthenes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/cleisthenes.json"
+    },
+    {
+      "Genus": "Clidoderma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/clidoderma.json"
+    },
+    {
+      "Genus": "Dexistes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/dexistes.json"
+    },
+    {
+      "Genus": "Eopsetta",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pleuronectidae/eopsetta.json"
+    },
+    {
+      "Genus": "Glyptocephalus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pleuronectidae/glyptocephalus.json"
+    },
+    {
+      "Genus": "Hippoglossoides",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pleuronectidae/hippoglossoides.json"
+    },
+    {
+      "Genus": "Hippoglossus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pleuronectidae/hippoglossus.json"
+    },
+    {
+      "Genus": "Hypsopsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/hypsopsetta.json"
+    },
+    {
+      "Genus": "Isopsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/isopsetta.json"
+    },
+    {
+      "Genus": "Lepidopsetta",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pleuronectidae/lepidopsetta.json"
+    },
+    {
+      "Genus": "Limanda",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pleuronectidae/limanda.json"
+    },
+    {
+      "Genus": "Liopsetta",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pleuronectidae/liopsetta.json"
+    },
+    {
+      "Genus": "Lyopsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/lyopsetta.json"
+    },
+    {
+      "Genus": "Microstomus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/pleuronectidae/microstomus.json"
+    },
+    {
+      "Genus": "Myzopsetta",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pleuronectidae/myzopsetta.json"
+    },
+    {
+      "Genus": "Parophrys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/parophrys.json"
+    },
+    {
+      "Genus": "Platichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pleuronectidae/platichthys.json"
+    },
+    {
+      "Genus": "Pleuronectes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pleuronectidae/pleuronectes.json"
+    },
+    {
+      "Genus": "Pleuronichthys",
+      "SpeciesCount": 8,
+      "genus_path": "genera/pleuronectidae/pleuronichthys.json"
+    },
+    {
+      "Genus": "Psettichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/psettichthys.json"
+    },
+    {
+      "Genus": "Pseudopleuronectes",
+      "SpeciesCount": 5,
+      "genus_path": "genera/pleuronectidae/pseudopleuronectes.json"
+    },
+    {
+      "Genus": "Reinhardtius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pleuronectidae/reinhardtius.json"
+    },
+    {
+      "Genus": "Verasper",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pleuronectidae/verasper.json"
+    }
+  ]
+}

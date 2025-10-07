@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Sternoptyx diaphana",
+    "SpecCode": "7389",
+    "CommonName": "Diaphanous hatchet fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternoptyx obscura",
+    "SpecCode": "16716",
+    "CommonName": "Obi-mune-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternoptyx pseudobscura",
+    "SpecCode": "10166",
+    "CommonName": "Hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternoptyx pseudodiaphana",
+    "SpecCode": "6969",
+    "CommonName": "False oblique hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

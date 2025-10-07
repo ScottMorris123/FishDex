@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Trachipterus altivelis",
+    "SpecCode": "3264",
+    "CommonName": "Cinta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachipterus arcticus",
+    "SpecCode": "3265",
+    "CommonName": "Almindelig vågmær",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachipterus fukuzakii",
+    "SpecCode": "3266",
+    "CommonName": "Cinta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachipterus ishikawae",
+    "SpecCode": "23360",
+    "CommonName": "Sakegashira",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachipterus jacksonensis",
+    "SpecCode": "14241",
+    "CommonName": "Blackflash ribbonfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachipterus trachypterus",
+    "SpecCode": "1777",
+    "CommonName": "Argentin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

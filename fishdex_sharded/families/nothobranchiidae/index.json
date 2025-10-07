@@ -1,0 +1,67 @@
+{
+  "Family": "Nothobranchiidae",
+  "Order": "Cyprinodontiformes",
+  "Common": "African rivulines",
+  "Genera": [
+    {
+      "Genus": "Aphyosemion",
+      "SpeciesCount": 109,
+      "genus_path": "genera/nothobranchiidae/aphyosemion.json"
+    },
+    {
+      "Genus": "Archiaphyosemion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nothobranchiidae/archiaphyosemion.json"
+    },
+    {
+      "Genus": "Callopanchax",
+      "SpeciesCount": 5,
+      "genus_path": "genera/nothobranchiidae/callopanchax.json"
+    },
+    {
+      "Genus": "Epiplatys",
+      "SpeciesCount": 36,
+      "genus_path": "genera/nothobranchiidae/epiplatys.json"
+    },
+    {
+      "Genus": "Episemion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nothobranchiidae/episemion.json"
+    },
+    {
+      "Genus": "Fenerbahce",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nothobranchiidae/fenerbahce.json"
+    },
+    {
+      "Genus": "Foerschichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nothobranchiidae/foerschichthys.json"
+    },
+    {
+      "Genus": "Fundulopanchax",
+      "SpeciesCount": 29,
+      "genus_path": "genera/nothobranchiidae/fundulopanchax.json"
+    },
+    {
+      "Genus": "Nimbapanchax",
+      "SpeciesCount": 5,
+      "genus_path": "genera/nothobranchiidae/nimbapanchax.json"
+    },
+    {
+      "Genus": "Nothobranchius",
+      "SpeciesCount": 97,
+      "genus_path": "genera/nothobranchiidae/nothobranchius.json"
+    },
+    {
+      "Genus": "Pronothobranchius",
+      "SpeciesCount": 4,
+      "genus_path": "genera/nothobranchiidae/pronothobranchius.json"
+    },
+    {
+      "Genus": "Scriptaphyosemion",
+      "SpeciesCount": 14,
+      "genus_path": "genera/nothobranchiidae/scriptaphyosemion.json"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "Family": "Bothidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Lefteye flounders",
+  "Genera": [
+    {
+      "Genus": "Arnoglossus",
+      "SpeciesCount": 37,
+      "genus_path": "genera/bothidae/arnoglossus.json"
+    },
+    {
+      "Genus": "Asterorhombus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bothidae/asterorhombus.json"
+    },
+    {
+      "Genus": "Bothus",
+      "SpeciesCount": 17,
+      "genus_path": "genera/bothidae/bothus.json"
+    },
+    {
+      "Genus": "Chascanopsetta",
+      "SpeciesCount": 10,
+      "genus_path": "genera/bothidae/chascanopsetta.json"
+    },
+    {
+      "Genus": "Crossorhombus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/bothidae/crossorhombus.json"
+    },
+    {
+      "Genus": "Engyophrys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bothidae/engyophrys.json"
+    },
+    {
+      "Genus": "Engyprosopon",
+      "SpeciesCount": 34,
+      "genus_path": "genera/bothidae/engyprosopon.json"
+    },
+    {
+      "Genus": "Grammatobothus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bothidae/grammatobothus.json"
+    },
+    {
+      "Genus": "Japonolaeops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bothidae/japonolaeops.json"
+    },
+    {
+      "Genus": "Kamoharaia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bothidae/kamoharaia.json"
+    },
+    {
+      "Genus": "Laeops",
+      "SpeciesCount": 12,
+      "genus_path": "genera/bothidae/laeops.json"
+    },
+    {
+      "Genus": "Lophonectes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bothidae/lophonectes.json"
+    },
+    {
+      "Genus": "Monolene",
+      "SpeciesCount": 11,
+      "genus_path": "genera/bothidae/monolene.json"
+    },
+    {
+      "Genus": "Neolaeops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bothidae/neolaeops.json"
+    },
+    {
+      "Genus": "Parabothus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/bothidae/parabothus.json"
+    },
+    {
+      "Genus": "Perissias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bothidae/perissias.json"
+    },
+    {
+      "Genus": "Psettina",
+      "SpeciesCount": 10,
+      "genus_path": "genera/bothidae/psettina.json"
+    },
+    {
+      "Genus": "Taeniopsetta",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bothidae/taeniopsetta.json"
+    },
+    {
+      "Genus": "Tosarhombus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/bothidae/tosarhombus.json"
+    },
+    {
+      "Genus": "Trichopsetta",
+      "SpeciesCount": 4,
+      "genus_path": "genera/bothidae/trichopsetta.json"
+    }
+  ]
+}

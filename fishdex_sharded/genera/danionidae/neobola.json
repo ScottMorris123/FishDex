@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Neobola bottegoi",
+    "SpecCode": "11593",
+    "CommonName": "Bottego uusboola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobola fluviatilis",
+    "SpecCode": "11595",
+    "CommonName": "Athi sardine",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobola kinondo",
+    "SpecCode": "69067",
+    "CommonName": "Tana sardine",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobola nilotica",
+    "SpecCode": "65394",
+    "CommonName": "Niiluse uusboola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobola stellae",
+    "SpecCode": "11598",
+    "CommonName": "Lake Turkana minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

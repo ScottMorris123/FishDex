@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Chionodraco hamatus",
+    "SpecCode": "7109",
+    "CommonName": "Konks-lobjaklohe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chionodraco myersi",
+    "SpecCode": "7110",
+    "CommonName": "Myers' icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chionodraco rastrospinosus",
+    "SpecCode": "476",
+    "CommonName": "Draco ocelado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

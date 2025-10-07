@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bathylutichthys balushkini",
+    "SpecCode": "69324",
+    "CommonName": "Balushkin's bathylutichthys",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylutichthys taranetzi",
+    "SpecCode": "27205",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

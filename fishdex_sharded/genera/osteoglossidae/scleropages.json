@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Scleropages formosus",
+    "SpecCode": "6357",
+    "CommonName": "Aasia kilpsoomuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scleropages inscriptus",
+    "SpecCode": "66576",
+    "CommonName": "Mustriline kilpsoomuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scleropages jardinii",
+    "SpecCode": "7536",
+    "CommonName": "Arowana australská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scleropages leichardti",
+    "SpecCode": "7537",
+    "CommonName": "Arowana leichhardtova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

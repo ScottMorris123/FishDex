@@ -1,0 +1,24 @@
+[
+  {
+    "ScientificName": "Pellonula leonensis",
+    "SpecCode": "1536",
+    "CommonName": "Banabanagi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pellonula vorax",
+    "SpecCode": "1537",
+    "CommonName": "Amoni",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

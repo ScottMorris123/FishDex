@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Varicus adamsi",
+    "SpecCode": "70007",
+    "CommonName": "Twilight goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Varicus bucca",
+    "SpecCode": "57931",
+    "CommonName": "管鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Varicus cephalocellatus",
+    "SpecCode": "70010",
+    "CommonName": "Ocellated splitfin goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Varicus decorum",
+    "SpecCode": "70009",
+    "CommonName": "Decorated splitfin goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Varicus lacerta",
+    "SpecCode": "70219",
+    "CommonName": "Godzilla goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Varicus marilynae",
+    "SpecCode": "3901",
+    "CommonName": "Orangebelly goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Varicus nigritus",
+    "SpecCode": "70008",
+    "CommonName": "Banded splitfin goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Varicus prometheus",
+    "SpecCode": "70295",
+    "CommonName": "Gobio prometeico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Varicus roatanensis",
+    "SpecCode": "70297",
+    "CommonName": "Gobio de Roatan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Varicus veliguttatus",
+    "SpecCode": "70006",
+    "CommonName": "Spotted-sail goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

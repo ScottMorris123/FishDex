@@ -1,0 +1,42 @@
+{
+  "Family": "Epigonidae",
+  "Order": "Acropomatiformes",
+  "Common": "Deepwater cardinalfishes",
+  "Genera": [
+    {
+      "Genus": "Brephostoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epigonidae/brephostoma.json"
+    },
+    {
+      "Genus": "Brinkmannella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epigonidae/brinkmannella.json"
+    },
+    {
+      "Genus": "Epigonus",
+      "SpeciesCount": 39,
+      "genus_path": "genera/epigonidae/epigonus.json"
+    },
+    {
+      "Genus": "Florenciella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epigonidae/florenciella.json"
+    },
+    {
+      "Genus": "Microichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/epigonidae/microichthys.json"
+    },
+    {
+      "Genus": "Rosenblattia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epigonidae/rosenblattia.json"
+    },
+    {
+      "Genus": "Sphyraenops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epigonidae/sphyraenops.json"
+    }
+  ]
+}

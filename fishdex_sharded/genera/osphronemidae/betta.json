@@ -1,0 +1,679 @@
+[
+  {
+    "ScientificName": "Betta akarensis",
+    "SpecCode": "12033",
+    "CommonName": "Akar betta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta albimarginata",
+    "SpecCode": "27008",
+    "CommonName": "Hvidsømmet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta anabatoides",
+    "SpecCode": "12034",
+    "CommonName": "Bojownik lazcowy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta antoni",
+    "SpecCode": "62727",
+    "CommonName": "Blåplettet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta apollon",
+    "SpecCode": "64579",
+    "CommonName": "Apollokampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta aurigans",
+    "SpecCode": "62603",
+    "CommonName": "Guldplettet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta balunga",
+    "SpecCode": "52329",
+    "CommonName": "Balung-Kampffisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta bellica",
+    "SpecCode": "12035",
+    "CommonName": "Bojownik pregowany",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta breviobesa",
+    "SpecCode": "52532",
+    "CommonName": "Storhovedet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta brownorum",
+    "SpecCode": "25131",
+    "CommonName": "Rubinkampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta burdigala",
+    "SpecCode": "27009",
+    "CommonName": "Blodrød kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta channoides",
+    "SpecCode": "27010",
+    "CommonName": "Käärmeenpäätaistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta chini",
+    "SpecCode": "25856",
+    "CommonName": "Guløjet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta chloropharynx",
+    "SpecCode": "27011",
+    "CommonName": "Banka-kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta coccina",
+    "SpecCode": "25132",
+    "CommonName": "Punataistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta compuncta",
+    "SpecCode": "62732",
+    "CommonName": "Østlig kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta cracens",
+    "SpecCode": "63049",
+    "CommonName": "Jambi-kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta dennisyongi",
+    "SpecCode": "66805",
+    "CommonName": "Stribet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta dimidiata",
+    "SpecCode": "25133",
+    "CommonName": "Emplasek",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta edithae",
+    "SpecCode": "15896",
+    "CommonName": "Ediths betta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta enisae",
+    "SpecCode": "27021",
+    "CommonName": "Emplasek",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta falx",
+    "SpecCode": "58078",
+    "CommonName": "Sumatrakampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta ferox",
+    "SpecCode": "64580",
+    "CommonName": "Perlekampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta foerschi",
+    "SpecCode": "15897",
+    "CommonName": "Chameleon-Kampffisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta fusca",
+    "SpecCode": "12037",
+    "CommonName": "Dunkler Kampffisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta gladiator",
+    "SpecCode": "62602",
+    "CommonName": "Gladiatorkampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta hendra",
+    "SpecCode": "66921",
+    "CommonName": "Lille samuraikampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta hipposideros",
+    "SpecCode": "27197",
+    "CommonName": "Ankerkampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta ibanorum",
+    "SpecCode": "62207",
+    "CommonName": "Bako-kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta ideii",
+    "SpecCode": "62733",
+    "CommonName": "Orangefinnet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta imbellis",
+    "SpecCode": "12038",
+    "CommonName": "Bojownik bezbronny",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta krataios",
+    "SpecCode": "62728",
+    "CommonName": "Kraftig kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta kuehnei",
+    "SpecCode": "65156",
+    "CommonName": "Klovnekampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta lehi",
+    "SpecCode": "62601",
+    "CommonName": "Bred kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta livida",
+    "SpecCode": "27252",
+    "CommonName": "Rødstribet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta macrostoma",
+    "SpecCode": "12039",
+    "CommonName": "Augenfleck-Kampffisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta mahachaiensis",
+    "SpecCode": "66633",
+    "CommonName": "Turkisplettet kampfisk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta mandor",
+    "SpecCode": "62730",
+    "CommonName": "Mandor-samuraikampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta midas",
+    "SpecCode": "65034",
+    "CommonName": "Midas-kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta miniopinna",
+    "SpecCode": "27007",
+    "CommonName": "Bintan-kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta nuluhon",
+    "SpecCode": "70587",
+    "CommonName": "Halestribet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta obscura",
+    "SpecCode": "62604",
+    "CommonName": "Barito-kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta ocellata",
+    "SpecCode": "56315",
+    "CommonName": "Pistetaistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta omega",
+    "SpecCode": "69879",
+    "CommonName": "Omegakampfisk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta pallida",
+    "SpecCode": "62876",
+    "CommonName": "Bleg kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta pallifina",
+    "SpecCode": "62610",
+    "CommonName": "Blåskællet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta pardalotos",
+    "SpecCode": "65071",
+    "CommonName": "Fregnet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta patoti",
+    "SpecCode": "25134",
+    "CommonName": "Naamiotaistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta persephone",
+    "SpecCode": "52394",
+    "CommonName": "Bladkampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta pi",
+    "SpecCode": "52524",
+    "CommonName": "Pi-kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta picta",
+    "SpecCode": "12040",
+    "CommonName": "Betah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta pinguis",
+    "SpecCode": "52527",
+    "CommonName": "Emplasek",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta prima",
+    "SpecCode": "51578",
+    "CommonName": "Kolmijuovataistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta pugnax",
+    "SpecCode": "12042",
+    "CommonName": "Bojownik nadobny",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta pulchra",
+    "SpecCode": "27259",
+    "CommonName": "Korutaistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta raja",
+    "SpecCode": "63050",
+    "CommonName": "Grønstrubet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta renata",
+    "SpecCode": "52521",
+    "CommonName": "Nyrekampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta rubra",
+    "SpecCode": "12044",
+    "CommonName": "Cupang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta rutilans",
+    "SpecCode": "25189",
+    "CommonName": "Rusotaistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta schalleri",
+    "SpecCode": "27012",
+    "CommonName": "Mangestrålet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta siamorientalis",
+    "SpecCode": "66987",
+    "CommonName": "Rødhalet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta simorum",
+    "SpecCode": "27439",
+    "CommonName": "Opalkampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta simplex",
+    "SpecCode": "51579",
+    "CommonName": "Krabi mouth brooder betta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta smaragdina",
+    "SpecCode": "12047",
+    "CommonName": "Blue betta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta spilotogena",
+    "SpecCode": "27199",
+    "CommonName": "Mustahuulitaistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta splendens",
+    "SpecCode": "4768",
+    "CommonName": "Belaga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta stigmosa",
+    "SpecCode": "62600",
+    "CommonName": "Mønstret kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta stiktos",
+    "SpecCode": "62611",
+    "CommonName": "Finneplettet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta strohi",
+    "SpecCode": "25190",
+    "CommonName": "Kultaposkitaistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta taeniata",
+    "SpecCode": "12048",
+    "CommonName": "Banded fightingfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta tomi",
+    "SpecCode": "27198",
+    "CommonName": "Mupor-kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta tussyae",
+    "SpecCode": "52395",
+    "CommonName": "Blåøjet rubinkampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta uberis",
+    "SpecCode": "62731",
+    "CommonName": "Bredfinnet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta unimaculata",
+    "SpecCode": "5440",
+    "CommonName": "Enkeltplettet kampfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Betta waseri",
+    "SpecCode": "25135",
+    "CommonName": "Isotaistelija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

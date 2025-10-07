@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Somniosus antarcticus",
+    "SpecCode": "65976",
+    "CommonName": "Apocal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Somniosus cheni",
+    "SpecCode": "69511",
+    "CommonName": "Taiwan sleeper shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Somniosus longus",
+    "SpecCode": "65973",
+    "CommonName": "Frog shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Somniosus microcephalus",
+    "SpecCode": "138",
+    "CommonName": "Almindelig havkal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Somniosus pacificus",
+    "SpecCode": "2544",
+    "CommonName": "K'wet'thenéchte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Somniosus rostratus",
+    "SpecCode": "704",
+    "CommonName": "Kleiner Schlafhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

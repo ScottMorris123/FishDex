@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Perulibatrachus aquilonarius",
+    "SpecCode": "64506",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Perulibatrachus elminensis",
+    "SpecCode": "4932",
+    "CommonName": "Charroco-da-Guiné",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Perulibatrachus kilburni",
+    "SpecCode": "27211",
+    "CommonName": "东非袋蟾鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Perulibatrachus rossignoli",
+    "SpecCode": "10179",
+    "CommonName": "Charroco-de-Rossignol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

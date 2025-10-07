@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Sympterygia acuta",
+    "SpecCode": "54032",
+    "CommonName": "Arraia-emplastro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sympterygia bonapartii",
+    "SpecCode": "54031",
+    "CommonName": "Arraia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sympterygia brevicaudata",
+    "SpecCode": "54034",
+    "CommonName": "Chilca skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sympterygia lima",
+    "SpecCode": "51635",
+    "CommonName": "Filetail fanskate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

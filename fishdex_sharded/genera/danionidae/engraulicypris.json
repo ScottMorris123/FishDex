@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Engraulicypris bredoi",
+    "SpecCode": "11594",
+    "CommonName": "Brédo sardiinboola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulicypris brevianalis",
+    "SpecCode": "11819",
+    "CommonName": "Chisense",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulicypris gariepinus",
+    "SpecCode": "68437",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulicypris howesi",
+    "SpecCode": "68438",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulicypris moeruensis",
+    "SpecCode": "11596",
+    "CommonName": "Mweru sardiinboola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulicypris ngalala",
+    "SpecCode": "68439",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulicypris sardella",
+    "SpecCode": "5138",
+    "CommonName": "Anšooviskarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulicypris spinifer",
+    "SpecCode": "11597",
+    "CommonName": "Malagarasi sardiinboola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

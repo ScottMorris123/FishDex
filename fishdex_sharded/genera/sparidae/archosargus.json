@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Archosargus pourtalesii",
+    "SpecCode": "8111",
+    "CommonName": "Blackspot porgy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Archosargus probatocephalus",
+    "SpecCode": "441",
+    "CommonName": "capryc",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Archosargus rhomboidalis",
+    "SpecCode": "1219",
+    "CommonName": "Bocayate",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

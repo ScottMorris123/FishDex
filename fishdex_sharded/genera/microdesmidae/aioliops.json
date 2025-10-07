@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Aioliops brachypterus",
+    "SpecCode": "59224",
+    "CommonName": "Shortfin minidartfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aioliops megastigma",
+    "SpecCode": "59225",
+    "CommonName": "Bigspot minidartfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aioliops novaeguineae",
+    "SpecCode": "27609",
+    "CommonName": "New guinea minidartfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aioliops tetrophthalmus",
+    "SpecCode": "60866",
+    "CommonName": "Four-eye mini dartgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

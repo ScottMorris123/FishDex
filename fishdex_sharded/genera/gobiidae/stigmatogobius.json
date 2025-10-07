@@ -1,0 +1,60 @@
+[
+  {
+    "ScientificName": "Stigmatogobius borneensis",
+    "SpecCode": "25115",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatogobius elegans",
+    "SpecCode": "62708",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatogobius pleurostigma",
+    "SpecCode": "25118",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatogobius sadanundio",
+    "SpecCode": "25119",
+    "CommonName": "Belodok kerapu",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatogobius sella",
+    "SpecCode": "25117",
+    "CommonName": "布1氏点鰕虎鱼",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatogobius signifer",
+    "SpecCode": "62709",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "ScientificName": "Ophisternon aenigmaticum",
+    "SpecCode": "27762",
+    "CommonName": "Anguila falsa",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophisternon afrum",
+    "SpecCode": "5141",
+    "CommonName": "Guinea swamp eel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophisternon bengalense",
+    "SpecCode": "22496",
+    "CommonName": "Antong",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophisternon candidum",
+    "SpecCode": "6305",
+    "CommonName": "Blind cave eel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophisternon gutturale",
+    "SpecCode": "12021",
+    "CommonName": "Australian swamp eel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophisternon infernale",
+    "SpecCode": "6306",
+    "CommonName": "Anguila ciega",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bothragonus occidentalis",
+    "SpecCode": "24009",
+    "CommonName": "Ida-lapikrüühärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bothragonus swanii",
+    "SpecCode": "4163",
+    "CommonName": "Deep-pitted poacher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

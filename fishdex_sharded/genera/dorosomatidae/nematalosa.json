@@ -1,0 +1,107 @@
+[
+  {
+    "ScientificName": "Nematalosa arabica",
+    "SpecCode": "1610",
+    "CommonName": "Arabisk kråsesild",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa come",
+    "SpecCode": "1611",
+    "CommonName": "Austraalia kõverlõugheeringas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa erebi",
+    "SpecCode": "1612",
+    "CommonName": "Australian river gizzard shad",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa flyensis",
+    "SpecCode": "1613",
+    "CommonName": "Dorosoma novoguinejská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa galatheae",
+    "SpecCode": "1614",
+    "CommonName": "Cá Mòi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa japonica",
+    "SpecCode": "1615",
+    "CommonName": "Andaq",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa nasus",
+    "SpecCode": "1616",
+    "CommonName": "Balangawan",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa papuensis",
+    "SpecCode": "1617",
+    "CommonName": "Dorosoma papuánská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa persara",
+    "SpecCode": "15798",
+    "CommonName": "Dorosoma perská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa resticularia",
+    "SpecCode": "15797",
+    "CommonName": "Dorosoma arabská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematalosa vlaminghi",
+    "SpecCode": "1618",
+    "CommonName": "Bony bream",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

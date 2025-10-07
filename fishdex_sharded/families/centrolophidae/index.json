@@ -1,0 +1,42 @@
+{
+  "Family": "Centrolophidae",
+  "Order": "Scombriformes",
+  "Common": "Medusafishes",
+  "Genera": [
+    {
+      "Genus": "Centrolophus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/centrolophidae/centrolophus.json"
+    },
+    {
+      "Genus": "Hyperoglyphe",
+      "SpeciesCount": 6,
+      "genus_path": "genera/centrolophidae/hyperoglyphe.json"
+    },
+    {
+      "Genus": "Icichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/centrolophidae/icichthys.json"
+    },
+    {
+      "Genus": "Psenopsis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/centrolophidae/psenopsis.json"
+    },
+    {
+      "Genus": "Schedophilus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/centrolophidae/schedophilus.json"
+    },
+    {
+      "Genus": "Seriolella",
+      "SpeciesCount": 6,
+      "genus_path": "genera/centrolophidae/seriolella.json"
+    },
+    {
+      "Genus": "Tubbia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/centrolophidae/tubbia.json"
+    }
+  ]
+}

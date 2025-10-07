@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lepidocephalus macrochir",
+    "SpecCode": "23025",
+    "CommonName": "Indonesian spirit loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidocephalus nanensis",
+    "SpecCode": "67306",
+    "CommonName": "Tai viduhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidocephalus spectrum",
+    "SpecCode": "23026",
+    "CommonName": "Sekavec podivný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

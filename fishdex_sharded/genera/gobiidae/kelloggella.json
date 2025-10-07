@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Kelloggella avaiki",
+    "SpecCode": "68556",
+    "CommonName": "Star-spangled goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kelloggella cardinalis",
+    "SpecCode": "22466",
+    "CommonName": "Akahire-hadakahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kelloggella disalvoi",
+    "SpecCode": "65168",
+    "CommonName": "Disalvo's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kelloggella oligolepis",
+    "SpecCode": "55266",
+    "CommonName": "寡鱗黏鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kelloggella quindecimfasciata",
+    "SpecCode": "22471",
+    "CommonName": "Central goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kelloggella tricuspidata",
+    "SpecCode": "61323",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

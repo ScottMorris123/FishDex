@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Glaniopsis denudata",
+    "SpecCode": "22853",
+    "CommonName": "Balitora severobornejská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaniopsis gossei",
+    "SpecCode": "22854",
+    "CommonName": "Balitora Gosseova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaniopsis hanitschi",
+    "SpecCode": "22857",
+    "CommonName": "Balitora Hanitschova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaniopsis multiradiata",
+    "SpecCode": "22861",
+    "CommonName": "Balitora baramská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

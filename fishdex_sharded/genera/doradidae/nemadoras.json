@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Nemadoras cristinae",
+    "SpecCode": "67790",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemadoras elongatus",
+    "SpecCode": "47634",
+    "CommonName": "Pirillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemadoras hemipeltis",
+    "SpecCode": "47465",
+    "CommonName": "Pirillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemadoras humeralis",
+    "SpecCode": "47466",
+    "CommonName": "Corno",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

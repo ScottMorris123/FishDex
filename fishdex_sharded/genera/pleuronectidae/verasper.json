@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Verasper moseri",
+    "SpecCode": "6609",
+    "CommonName": "Barfin flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Verasper variegatus",
+    "SpecCode": "6607",
+    "CommonName": "Hoshigarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Austroglossus microlepis",
+    "SpecCode": "527",
+    "CommonName": "Lenguado austral oeste",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austroglossus pectoralis",
+    "SpecCode": "528",
+    "CommonName": "East coast sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

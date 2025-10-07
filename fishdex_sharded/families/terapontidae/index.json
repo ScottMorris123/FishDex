@@ -1,0 +1,87 @@
+{
+  "Family": "Terapontidae",
+  "Order": "Centrarchiformes",
+  "Common": "Grunters or tigerperches",
+  "Genera": [
+    {
+      "Genus": "Amniataba",
+      "SpeciesCount": 3,
+      "genus_path": "genera/terapontidae/amniataba.json"
+    },
+    {
+      "Genus": "Bidyanus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/terapontidae/bidyanus.json"
+    },
+    {
+      "Genus": "Hannia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/terapontidae/hannia.json"
+    },
+    {
+      "Genus": "Helotes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/terapontidae/helotes.json"
+    },
+    {
+      "Genus": "Hephaestus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/terapontidae/hephaestus.json"
+    },
+    {
+      "Genus": "Lagusia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/terapontidae/lagusia.json"
+    },
+    {
+      "Genus": "Leiopotherapon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/terapontidae/leiopotherapon.json"
+    },
+    {
+      "Genus": "Mesopristes",
+      "SpeciesCount": 5,
+      "genus_path": "genera/terapontidae/mesopristes.json"
+    },
+    {
+      "Genus": "Pelates",
+      "SpeciesCount": 3,
+      "genus_path": "genera/terapontidae/pelates.json"
+    },
+    {
+      "Genus": "Pelsartia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/terapontidae/pelsartia.json"
+    },
+    {
+      "Genus": "Pingalla",
+      "SpeciesCount": 3,
+      "genus_path": "genera/terapontidae/pingalla.json"
+    },
+    {
+      "Genus": "Rhynchopelates",
+      "SpeciesCount": 1,
+      "genus_path": "genera/terapontidae/rhynchopelates.json"
+    },
+    {
+      "Genus": "Scortum",
+      "SpeciesCount": 4,
+      "genus_path": "genera/terapontidae/scortum.json"
+    },
+    {
+      "Genus": "Syncomistes",
+      "SpeciesCount": 11,
+      "genus_path": "genera/terapontidae/syncomistes.json"
+    },
+    {
+      "Genus": "Terapon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/terapontidae/terapon.json"
+    },
+    {
+      "Genus": "Variichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/terapontidae/variichthys.json"
+    }
+  ]
+}

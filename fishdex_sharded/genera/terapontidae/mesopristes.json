@@ -1,0 +1,54 @@
+[
+  {
+    "ScientificName": "Mesopristes argenteus",
+    "SpecCode": "6464",
+    "CommonName": "Nise-shima-isaki",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesopristes cancellatus",
+    "SpecCode": "23487",
+    "CommonName": "Bagaong",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesopristes elongatus",
+    "SpecCode": "7944",
+    "CommonName": "Baraonga",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesopristes iravi",
+    "SpecCode": "59890",
+    "CommonName": "Shimizu-shimaisaki",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesopristes kneri",
+    "SpecCode": "26924",
+    "CommonName": "Orange-spotted therapon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

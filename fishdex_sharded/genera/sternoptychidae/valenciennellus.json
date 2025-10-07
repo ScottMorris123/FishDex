@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Valenciennellus carlsbergi",
+    "SpecCode": "27410",
+    "CommonName": "少組叢光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennellus tripunctulatus",
+    "SpecCode": "11686",
+    "CommonName": "Constellationfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

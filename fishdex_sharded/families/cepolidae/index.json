@@ -1,0 +1,22 @@
+{
+  "Family": "Cepolidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Bandfishes",
+  "Genera": [
+    {
+      "Genus": "Acanthocepola",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cepolidae/acanthocepola.json"
+    },
+    {
+      "Genus": "Cepola",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cepolidae/cepola.json"
+    },
+    {
+      "Genus": "Owstonia",
+      "SpeciesCount": 37,
+      "genus_path": "genera/cepolidae/owstonia.json"
+    }
+  ]
+}

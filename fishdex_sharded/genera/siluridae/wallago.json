@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Wallago attu",
+    "SpecCode": "10243",
+    "CommonName": "Athiyala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Wallago hexanema",
+    "SpecCode": "47377",
+    "CommonName": "六丝叉尾鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Wallago leerii",
+    "SpecCode": "10314",
+    "CommonName": "Borneonpetomonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Wallago maculatus",
+    "SpecCode": "27260",
+    "CommonName": "Laikkupetomonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Wallago micropogon",
+    "SpecCode": "62302",
+    "CommonName": "Pa khoun",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

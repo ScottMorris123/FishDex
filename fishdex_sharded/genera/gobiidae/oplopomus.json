@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Oplopomus caninoides",
+    "SpecCode": "25489",
+    "CommonName": "Cá Bống mang gai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oplopomus oplopomus",
+    "SpecCode": "7218",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

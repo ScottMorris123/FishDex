@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Ballerus ballerus",
+    "SpecCode": "6374",
+    "CommonName": "Abakala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ballerus sapa",
+    "SpecCode": "23045",
+    "CommonName": "bagolykeszeg",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

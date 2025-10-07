@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Cestraeus goldiei",
+    "SpecCode": "15278",
+    "CommonName": "Balanak",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cestraeus oxyrhyncus",
+    "SpecCode": "15279",
+    "CommonName": "Banak",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cestraeus plicatilis",
+    "SpecCode": "15286",
+    "CommonName": "Banak",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

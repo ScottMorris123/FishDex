@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Parmaturus albipenis",
+    "SpecCode": "63656",
+    "CommonName": "holbiche à sexe blanc",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parmaturus angelae",
+    "SpecCode": "69579",
+    "CommonName": "Angela's catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parmaturus campechiensis",
+    "SpecCode": "830",
+    "CommonName": "Campeche cat shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parmaturus lanatus",
+    "SpecCode": "63658",
+    "CommonName": "holbiche laineuse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parmaturus macmillani",
+    "SpecCode": "49093",
+    "CommonName": "McMillani kilbikhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parmaturus nigripalatum",
+    "SpecCode": "68882",
+    "CommonName": "Hiu minyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parmaturus pilosus",
+    "SpecCode": "832",
+    "CommonName": "Holbiche salamandre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parmaturus xaniurus",
+    "SpecCode": "833",
+    "CommonName": "Filetail cat shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

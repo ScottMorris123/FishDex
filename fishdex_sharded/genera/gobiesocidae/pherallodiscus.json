@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pherallodiscus funebris",
+    "SpecCode": "54506",
+    "CommonName": "Chupapiedra discofrágil norteña",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pherallodiscus varius",
+    "SpecCode": "60714",
+    "CommonName": "Chupapiedra discofrágil sureña",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

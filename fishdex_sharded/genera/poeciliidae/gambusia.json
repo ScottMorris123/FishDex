@@ -1,0 +1,421 @@
+[
+  {
+    "ScientificName": "Gambusia affinis",
+    "SpecCode": "3215",
+    "CommonName": "Alevin",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia alvarezi",
+    "SpecCode": "6214",
+    "CommonName": "Alvarez' moskitofisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia amistadensis",
+    "SpecCode": "3216",
+    "CommonName": "Amistad Gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia atrora",
+    "SpecCode": "46637",
+    "CommonName": "Blackfin gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia aurata",
+    "SpecCode": "46638",
+    "CommonName": "Golden gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia baracoana",
+    "SpecCode": "46647",
+    "CommonName": "Baracoa gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia beebei",
+    "SpecCode": "27641",
+    "CommonName": "Miragoane gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia bucheri",
+    "SpecCode": "27748",
+    "CommonName": "Moa gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia clarkhubbsi",
+    "SpecCode": "61805",
+    "CommonName": "San Felipe gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia dominicensis",
+    "SpecCode": "4726",
+    "CommonName": "Domingo gambusia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia echeagarayi",
+    "SpecCode": "46721",
+    "CommonName": "Chaipas-moskitofisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia eurystoma",
+    "SpecCode": "6215",
+    "CommonName": "Bredmundet moskitofisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia gaigei",
+    "SpecCode": "3217",
+    "CommonName": "Big Bend Gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia geiseri",
+    "SpecCode": "3218",
+    "CommonName": "Geiser-moskitofisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia georgei",
+    "SpecCode": "3219",
+    "CommonName": "San Marcos Gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia heterochir",
+    "SpecCode": "3220",
+    "CommonName": "Clear Creek Gambusia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia hispaniolae",
+    "SpecCode": "27642",
+    "CommonName": "Hispaniola-moskitofisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia holbrooki",
+    "SpecCode": "4521",
+    "CommonName": "Ampirina",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia hurtadoi",
+    "SpecCode": "6216",
+    "CommonName": "Crescent gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia krumholzi",
+    "SpecCode": "46639",
+    "CommonName": "Guayacón del Nava",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia lemaitrei",
+    "SpecCode": "46640",
+    "CommonName": "Kuultomoskiittokala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia longispinis",
+    "SpecCode": "6217",
+    "CommonName": "Coahuila-moskitofisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia luma",
+    "SpecCode": "46641",
+    "CommonName": "Blauspiegel-Kärpfling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia manni",
+    "SpecCode": "16523",
+    "CommonName": "Bahamas-moskitofisk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia marshi",
+    "SpecCode": "27087",
+    "CommonName": "Guayacón de Nadadores",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia melapleura",
+    "SpecCode": "27644",
+    "CommonName": "Raitamoskiittokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia monticola",
+    "SpecCode": "27750",
+    "CommonName": "Yao mosquitofish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia myersi",
+    "SpecCode": "53638",
+    "CommonName": "Myers moskitofisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia nicaraguensis",
+    "SpecCode": "46642",
+    "CommonName": "Hohtomoskiittokala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia nobilis",
+    "SpecCode": "3221",
+    "CommonName": "Harsomoskiittokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia panuco",
+    "SpecCode": "46645",
+    "CommonName": "Guayacón del Pánuco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia pseudopunctata",
+    "SpecCode": "27648",
+    "CommonName": "Haitinmoskiittokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia punctata",
+    "SpecCode": "27649",
+    "CommonName": "Cuban Gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia puncticulata",
+    "SpecCode": "27691",
+    "CommonName": "Caribbean Gambusia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia quadruncus",
+    "SpecCode": "67064",
+    "CommonName": "Firekroget moskitofisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia regani",
+    "SpecCode": "46655",
+    "CommonName": "Forlon gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia rhizophorae",
+    "SpecCode": "3222",
+    "CommonName": "Gambusia De Mangle",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia senilis",
+    "SpecCode": "3223",
+    "CommonName": "Blotched gambusia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia sexradiata",
+    "SpecCode": "53026",
+    "CommonName": "Bandittandkarpe",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia speciosa",
+    "SpecCode": "53787",
+    "CommonName": "Blaugelber-Kärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia vittata",
+    "SpecCode": "46636",
+    "CommonName": "Guayacón de Victoria",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia wrayi",
+    "SpecCode": "27692",
+    "CommonName": "Jamaika-Kärpfling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia xanthosoma",
+    "SpecCode": "27693",
+    "CommonName": "Cayman gambusia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia yucatana",
+    "SpecCode": "27744",
+    "CommonName": "Guayacón yucateco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gambusia zarskei",
+    "SpecCode": "65514",
+    "CommonName": "Chihuahua mosquitofish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Paragaleus leucolomatus",
+    "SpecCode": "15840",
+    "CommonName": "Hvidtippet væselhaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragaleus longicaudatus",
+    "SpecCode": "57442",
+    "CommonName": "Sale minkhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragaleus pectoralis",
+    "SpecCode": "4998",
+    "CommonName": "Atlandi minkhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragaleus tengi",
+    "SpecCode": "5899",
+    "CommonName": "Cá Nhám",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

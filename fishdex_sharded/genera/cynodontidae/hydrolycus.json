@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Hydrolycus armatus",
+    "SpecCode": "57050",
+    "CommonName": "Cachorra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hydrolycus scomberoides",
+    "SpecCode": "6419",
+    "CommonName": "Cachorra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hydrolycus tatauaia",
+    "SpecCode": "57815",
+    "CommonName": "Cachorra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hydrolycus wallacei",
+    "SpecCode": "57816",
+    "CommonName": "Pirantera tariyari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

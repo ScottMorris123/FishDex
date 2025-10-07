@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Leucicorus atlanticus",
+    "SpecCode": "56348",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucicorus gerringerae",
+    "SpecCode": "69720",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucicorus lentibus",
+    "SpecCode": "69719",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucicorus lusciosus",
+    "SpecCode": "56349",
+    "CommonName": "白鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

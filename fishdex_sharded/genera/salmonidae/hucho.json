@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Hucho bleekeri",
+    "SpecCode": "55417",
+    "CommonName": "Sichuan taimen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hucho hucho",
+    "SpecCode": "4664",
+    "CommonName": "Alabalik türü",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hucho ishikawae",
+    "SpecCode": "25572",
+    "CommonName": "Korea taimen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hucho taimen",
+    "SpecCode": "8681",
+    "CommonName": "Danube salmon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

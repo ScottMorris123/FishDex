@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rhabdamia gracilis",
+    "SpecCode": "5747",
+    "CommonName": "Arrow cardinal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdamia nigrimentum",
+    "SpecCode": "46488",
+    "CommonName": "黑頦箭天竺鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdamia novaluna",
+    "SpecCode": "70368",
+    "CommonName": "New-moon cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdamia spilota",
+    "SpecCode": "25033",
+    "CommonName": "Glas-kardinalfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

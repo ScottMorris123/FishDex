@@ -1,0 +1,17 @@
+{
+  "Family": "Girellidae",
+  "Order": "Centrarchiformes",
+  "Common": "Nibblers",
+  "Genera": [
+    {
+      "Genus": "Girella",
+      "SpeciesCount": 20,
+      "genus_path": "genera/girellidae/girella.json"
+    },
+    {
+      "Genus": "Graus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/girellidae/graus.json"
+    }
+  ]
+}

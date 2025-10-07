@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Meuschenia australis",
+    "SpecCode": "14540",
+    "CommonName": "Brown-striped leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meuschenia flavolineata",
+    "SpecCode": "14541",
+    "CommonName": "Yellow-striped leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meuschenia freycineti",
+    "SpecCode": "14544",
+    "CommonName": "Freycinet's leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meuschenia galii",
+    "SpecCode": "14545",
+    "CommonName": "Blue-lined leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meuschenia hippocrepis",
+    "SpecCode": "14547",
+    "CommonName": "Horse-shoe leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meuschenia scaber",
+    "SpecCode": "13139",
+    "CommonName": "Bourse lisse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meuschenia trachylepis",
+    "SpecCode": "55031",
+    "CommonName": "銼鱗似馬面魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meuschenia venusta",
+    "SpecCode": "52446",
+    "CommonName": "Beautiful leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

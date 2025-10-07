@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Hemimyzon confluens",
+    "SpecCode": "57704",
+    "CommonName": "Lõimuim-liibhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon ecdyonuroides",
+    "SpecCode": "59734",
+    "CommonName": "Massak-liibhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon formosanus",
+    "SpecCode": "17240",
+    "CommonName": "Balitora formóská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon khonensis",
+    "SpecCode": "57705",
+    "CommonName": "Balitora khonská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon macroptera",
+    "SpecCode": "58555",
+    "CommonName": "Balitora velkoploutvá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon megalopseos",
+    "SpecCode": "58556",
+    "CommonName": "Balitora jiliangská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon nanensis",
+    "SpecCode": "52709",
+    "CommonName": "Balitora nanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon papilio",
+    "SpecCode": "50377",
+    "CommonName": "Balitora motýlovitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon pengi",
+    "SpecCode": "57995",
+    "CommonName": "Pengi liibhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon pumilicorpora",
+    "SpecCode": "59917",
+    "CommonName": "Balitora drobnotělá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon sheni",
+    "SpecCode": "64895",
+    "CommonName": "Sheni liibhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon songamensis",
+    "SpecCode": "65722",
+    "CommonName": "Gâmi liibhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon taitungensis",
+    "SpecCode": "17241",
+    "CommonName": "Balitora tajtungská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon yaotanensis",
+    "SpecCode": "58558",
+    "CommonName": "Sichuani liibhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemimyzon yushanensis",
+    "SpecCode": "69836",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

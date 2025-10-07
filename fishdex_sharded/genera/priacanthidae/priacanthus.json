@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Priacanthus alalaua",
+    "SpecCode": "9902",
+    "CommonName": "Alalaua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus arenatus",
+    "SpecCode": "1149",
+    "CommonName": "Achote",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus blochii",
+    "SpecCode": "9903",
+    "CommonName": "Baga-baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus fitchi",
+    "SpecCode": "9904",
+    "CommonName": "Deepsea bigeye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus hamrur",
+    "SpecCode": "5791",
+    "CommonName": "Amori ai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus macracanthus",
+    "SpecCode": "356",
+    "CommonName": "Baga-baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus meeki",
+    "SpecCode": "7787",
+    "CommonName": "Aweoweo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus nasca",
+    "SpecCode": "9910",
+    "CommonName": "Mata uira",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus prolixus",
+    "SpecCode": "9912",
+    "CommonName": "Elongate bulleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus sagittarius",
+    "SpecCode": "9913",
+    "CommonName": "Arrow bulleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus tayenus",
+    "SpecCode": "4651",
+    "CommonName": "Baga-baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priacanthus zaiserae",
+    "SpecCode": "9914",
+    "CommonName": "Kibire-kintoki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

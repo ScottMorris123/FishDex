@@ -1,0 +1,12 @@
+{
+  "Family": "Psettodidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Psettodids",
+  "Genera": [
+    {
+      "Genus": "Psettodes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/psettodidae/psettodes.json"
+    }
+  ]
+}

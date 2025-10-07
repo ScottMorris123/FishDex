@@ -1,0 +1,177 @@
+[
+  {
+    "ScientificName": "Bascanichthys bascanium",
+    "SpecCode": "2637",
+    "CommonName": "Hadař tidalský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys bascanoides",
+    "SpecCode": "13899",
+    "CommonName": "Hadař sancristobalský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys ceciliae",
+    "SpecCode": "9077",
+    "CommonName": "Hadař ceciliin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys cylindricus",
+    "SpecCode": "13900",
+    "CommonName": "Hadař písečný",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys deraniyagalai",
+    "SpecCode": "23862",
+    "CommonName": "Hadař indický",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys fijiensis",
+    "SpecCode": "53825",
+    "CommonName": "Fidži uurikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys filaria",
+    "SpecCode": "53958",
+    "CommonName": "Hadař misolský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys gaira",
+    "SpecCode": "69270",
+    "CommonName": "Colombian sand eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys inopinatus",
+    "SpecCode": "53826",
+    "CommonName": "Hadař portorický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys kabeyawan",
+    "SpecCode": "69894",
+    "CommonName": "Kabeyawan sand eel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys kirkii",
+    "SpecCode": "15667",
+    "CommonName": "Hadař kirkův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys longipinnis",
+    "SpecCode": "27396",
+    "CommonName": "Hadař samojský",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys myersi",
+    "SpecCode": "53824",
+    "CommonName": "Hadař myersův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys panamensis",
+    "SpecCode": "13901",
+    "CommonName": "Hadař panamský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys paulensis",
+    "SpecCode": "53793",
+    "CommonName": "Brasiilia uurikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys pusillus",
+    "SpecCode": "59356",
+    "CommonName": "Pisiuim-uurikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys ryukyuensis",
+    "SpecCode": "69895",
+    "CommonName": "Kazura-umihebi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys scuticaris",
+    "SpecCode": "2638",
+    "CommonName": "Hadař štítkovitý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bascanichthys sibogae",
+    "SpecCode": "53957",
+    "CommonName": "Hadař timorský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

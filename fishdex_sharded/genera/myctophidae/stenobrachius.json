@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Stenobrachius leucopsarus",
+    "SpecCode": "2737",
+    "CommonName": "Hele merilatern",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenobrachius nannochir",
+    "SpecCode": "17406",
+    "CommonName": "Garnet lampfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

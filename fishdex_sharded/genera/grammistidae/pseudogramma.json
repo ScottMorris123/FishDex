@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Pseudogramma astigma",
+    "SpecCode": "49427",
+    "CommonName": "Spotless podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma australis",
+    "SpecCode": "61394",
+    "CommonName": "Pascua podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma axelrodi",
+    "SpecCode": "49429",
+    "CommonName": "阿氏拟线鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma brederi",
+    "SpecCode": "68576",
+    "CommonName": "Confused podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma erythrea",
+    "SpecCode": "49431",
+    "CommonName": "Caban podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma galzini",
+    "SpecCode": "68582",
+    "CommonName": "Galzin podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma gregoryi",
+    "SpecCode": "3352",
+    "CommonName": "Basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma guineensis",
+    "SpecCode": "49432",
+    "CommonName": "圭亚那拟线鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma megamyctera",
+    "SpecCode": "49434",
+    "CommonName": "Bignostril podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma paucilepis",
+    "SpecCode": "68585",
+    "CommonName": "Weakscaled podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma pectoralis",
+    "SpecCode": "49435",
+    "CommonName": "Pectoral podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma polyacantha",
+    "SpecCode": "7320",
+    "CommonName": "Bold-spot soapfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma thaumasia",
+    "SpecCode": "46538",
+    "CommonName": "Jaboncillo ocelado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogramma xantha",
+    "SpecCode": "49428",
+    "CommonName": "Yellow podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

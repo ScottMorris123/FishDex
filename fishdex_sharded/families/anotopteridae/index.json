@@ -1,0 +1,12 @@
+{
+  "Family": "Anotopteridae",
+  "Order": "Aulopiformes",
+  "Common": "Daggertooth",
+  "Genera": [
+    {
+      "Genus": "Anotopterus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anotopteridae/anotopterus.json"
+    }
+  ]
+}

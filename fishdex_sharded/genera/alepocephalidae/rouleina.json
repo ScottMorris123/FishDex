@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Rouleina attrita",
+    "SpecCode": "6964",
+    "CommonName": "Softskin slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rouleina danae",
+    "SpecCode": "27419",
+    "CommonName": "达纳鲁氏鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rouleina eucla",
+    "SpecCode": "59104",
+    "CommonName": "Baldfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rouleina euryops",
+    "SpecCode": "58905",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rouleina guentheri",
+    "SpecCode": "22702",
+    "CommonName": "Bordello slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rouleina livida",
+    "SpecCode": "58066",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rouleina maderensis",
+    "SpecCode": "11229",
+    "CommonName": "Madeiran slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rouleina nuda",
+    "SpecCode": "58906",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rouleina squamilatera",
+    "SpecCode": "16695",
+    "CommonName": "Alcock's slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rouleina watasei",
+    "SpecCode": "22700",
+    "CommonName": "Sekitori-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

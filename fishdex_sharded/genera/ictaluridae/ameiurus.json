@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Ameiurus brunneus",
+    "SpecCode": "3017",
+    "CommonName": "Snail bullhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ameiurus catus",
+    "SpecCode": "3018",
+    "CommonName": "Barbú cabezón",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ameiurus melas",
+    "SpecCode": "291",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ameiurus natalis",
+    "SpecCode": "3021",
+    "CommonName": "Bagre torito amarillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ameiurus nebulosus",
+    "SpecCode": "3022",
+    "CommonName": "Amerikanischer zwergwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ameiurus platycephalus",
+    "SpecCode": "3023",
+    "CommonName": "Bullhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ameiurus serracanthus",
+    "SpecCode": "3025",
+    "CommonName": "Hvidplettet dværgmalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

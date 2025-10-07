@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Pampus argenteus",
+    "SpecCode": "491",
+    "CommonName": "Aileron argenté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pampus chinensis",
+    "SpecCode": "8187",
+    "CommonName": "Aileron chinois",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pampus cinereus",
+    "SpecCode": "69458",
+    "CommonName": "Grey pomfret",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pampus minor",
+    "SpecCode": "59474",
+    "CommonName": "Minami-hime-managatsuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pampus punctatissimus",
+    "SpecCode": "59625",
+    "CommonName": "Managatsuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

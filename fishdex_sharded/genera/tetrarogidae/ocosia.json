@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Ocosia apia",
+    "SpecCode": "28231",
+    "CommonName": "Stoutspine waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ocosia dorsomaculata",
+    "SpecCode": "69614",
+    "CommonName": "Blotch-finned waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ocosia fasciata",
+    "SpecCode": "23896",
+    "CommonName": "Shima-hachi-okoze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ocosia possi",
+    "SpecCode": "59014",
+    "CommonName": "波斯氏線鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ocosia ramaraoi",
+    "SpecCode": "59015",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ocosia sphex",
+    "SpecCode": "68746",
+    "CommonName": "Bismarck waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ocosia spinosa",
+    "SpecCode": "59017",
+    "CommonName": "棘裸絨鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ocosia vespa",
+    "SpecCode": "23895",
+    "CommonName": "Hachi-okoze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ocosia zaspilota",
+    "SpecCode": "59016",
+    "CommonName": "Polka dot waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

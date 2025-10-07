@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Dermatopsoides andersoni",
+    "SpecCode": "63255",
+    "CommonName": "Anderson's mudbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermatopsoides kasougae",
+    "SpecCode": "16797",
+    "CommonName": "Orange brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermatopsoides morrisonae",
+    "SpecCode": "63256",
+    "CommonName": "Morrison's mudbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermatopsoides talboti",
+    "SpecCode": "10249",
+    "CommonName": "Kleiner oranje brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

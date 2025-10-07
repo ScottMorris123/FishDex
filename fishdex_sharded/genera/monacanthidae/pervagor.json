@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Pervagor alternans",
+    "SpecCode": "4366",
+    "CommonName": "Bright-eye filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pervagor aspricaudus",
+    "SpecCode": "4367",
+    "CommonName": "Lacefin filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pervagor janthinosoma",
+    "SpecCode": "4368",
+    "CommonName": "Blackbar filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pervagor marginalis",
+    "SpecCode": "4369",
+    "CommonName": "緣前角魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pervagor melanocephalus",
+    "SpecCode": "4370",
+    "CommonName": "Blackhead filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pervagor nigrolineatus",
+    "SpecCode": "4371",
+    "CommonName": "Blacklined leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pervagor randalli",
+    "SpecCode": "4372",
+    "CommonName": "Um qaren",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pervagor spilosoma",
+    "SpecCode": "4373",
+    "CommonName": "Fantail filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

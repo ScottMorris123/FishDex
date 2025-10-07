@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Spratelloides delicatulus",
+    "SpecCode": "1457",
+    "CommonName": "Aletses",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spratelloides gracilis",
+    "SpecCode": "1458",
+    "CommonName": "Anak-tamban perak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spratelloides lewisi",
+    "SpecCode": "1459",
+    "CommonName": "Lewis' round herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spratelloides robustus",
+    "SpecCode": "1460",
+    "CommonName": "Blaue Sprotte",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

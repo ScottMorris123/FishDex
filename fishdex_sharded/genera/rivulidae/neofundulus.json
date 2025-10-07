@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Neofundulus acutirostratus",
+    "SpecCode": "49655",
+    "CommonName": "尖吻新底鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neofundulus aureomaculatus",
+    "SpecCode": "67942",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neofundulus guaporensis",
+    "SpecCode": "49656",
+    "CommonName": "巴西新底鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neofundulus ornatipinnis",
+    "SpecCode": "49657",
+    "CommonName": "Korueväkilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neofundulus paraguayensis",
+    "SpecCode": "49658",
+    "CommonName": "Tulieväkilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neofundulus parvipinnis",
+    "SpecCode": "49659",
+    "CommonName": "Linjakilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neofundulus rubrofasciatus",
+    "SpecCode": "67926",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neofundulus splendidus",
+    "SpecCode": "67988",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

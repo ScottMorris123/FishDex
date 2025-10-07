@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Phallichthys amates",
+    "SpecCode": "11961",
+    "CommonName": "Den glade enke",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallichthys fairweatheri",
+    "SpecCode": "47164",
+    "CommonName": "Fairweather-Kärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallichthys quadripunctatus",
+    "SpecCode": "47165",
+    "CommonName": "Fireplettet tandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallichthys tico",
+    "SpecCode": "47166",
+    "CommonName": "Blackspotted toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

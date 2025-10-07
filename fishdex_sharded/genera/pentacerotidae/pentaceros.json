@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Pentaceros capensis",
+    "SpecCode": "7893",
+    "CommonName": "Cape armorhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentaceros decacanthus",
+    "SpecCode": "12357",
+    "CommonName": "Bigspine armorhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentaceros japonicus",
+    "SpecCode": "12358",
+    "CommonName": "Japanese armorhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentaceros quinquespinis",
+    "SpecCode": "59429",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentaceros richardsoni",
+    "SpecCode": "3611",
+    "CommonName": "Harilik ebakultkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentaceros wheeleri",
+    "SpecCode": "12364",
+    "CommonName": "Armorhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Harpadon erythraeus",
+    "SpecCode": "15605",
+    "CommonName": "微紅龍頭魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpadon microchir",
+    "SpecCode": "10408",
+    "CommonName": "Mizutengu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpadon mortenseni",
+    "SpecCode": "69866",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpadon nehereus",
+    "SpecCode": "260",
+    "CommonName": "Acang-acang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpadon nudus",
+    "SpecCode": "69864",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpadon squamosus",
+    "SpecCode": "61057",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpadon translucens",
+    "SpecCode": "10735",
+    "CommonName": "Bombay duck",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

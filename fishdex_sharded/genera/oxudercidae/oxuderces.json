@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Oxuderces dentatus",
+    "SpecCode": "15823",
+    "CommonName": "Belodok lumpur",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxuderces wirzi",
+    "SpecCode": "27583",
+    "CommonName": "Borneonkitaryömijä",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

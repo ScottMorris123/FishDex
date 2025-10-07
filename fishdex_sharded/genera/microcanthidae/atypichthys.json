@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Atypichthys latus",
+    "SpecCode": "12227",
+    "CommonName": "Eastern footballer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atypichthys strigatus",
+    "SpecCode": "52460",
+    "CommonName": "Australian mado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

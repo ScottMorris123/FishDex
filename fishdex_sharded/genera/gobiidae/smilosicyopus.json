@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Smilosicyopus bitaeniatus",
+    "SpecCode": "26948",
+    "CommonName": "sicyopus à deux bandes",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Smilosicyopus chloe",
+    "SpecCode": "61887",
+    "CommonName": "Bilitvat",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Smilosicyopus fehlmanni",
+    "SpecCode": "23264",
+    "CommonName": "菲氏瓢眼鰕虎魚",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Smilosicyopus leprurus",
+    "SpecCode": "23720",
+    "CommonName": "Kaeruhaze",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Smilosicyopus mystax",
+    "SpecCode": "58211",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Smilosicyopus pentecost",
+    "SpecCode": "65816",
+    "CommonName": "Pentecost Sicyopus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Smilosicyopus sasali",
+    "SpecCode": "62658",
+    "CommonName": "Sasal's Sicyopus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Hypsagonus corniger",
+    "SpecCode": "50403",
+    "CommonName": "가시줄고기",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsagonus quadricornis",
+    "SpecCode": "4164",
+    "CommonName": "Firehornet panserulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

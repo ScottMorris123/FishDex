@@ -1,0 +1,87 @@
+{
+  "Family": "Muraenidae",
+  "Order": "Anguilliformes",
+  "Common": "Moray eels",
+  "Genera": [
+    {
+      "Genus": "Anarchias",
+      "SpeciesCount": 11,
+      "genus_path": "genera/muraenidae/anarchias.json"
+    },
+    {
+      "Genus": "Channomuraena",
+      "SpeciesCount": 2,
+      "genus_path": "genera/muraenidae/channomuraena.json"
+    },
+    {
+      "Genus": "Cirrimaxilla",
+      "SpeciesCount": 1,
+      "genus_path": "genera/muraenidae/cirrimaxilla.json"
+    },
+    {
+      "Genus": "Diaphenchelys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/muraenidae/diaphenchelys.json"
+    },
+    {
+      "Genus": "Echidna",
+      "SpeciesCount": 11,
+      "genus_path": "genera/muraenidae/echidna.json"
+    },
+    {
+      "Genus": "Enchelycore",
+      "SpeciesCount": 13,
+      "genus_path": "genera/muraenidae/enchelycore.json"
+    },
+    {
+      "Genus": "Enchelynassa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/muraenidae/enchelynassa.json"
+    },
+    {
+      "Genus": "Gymnomuraena",
+      "SpeciesCount": 1,
+      "genus_path": "genera/muraenidae/gymnomuraena.json"
+    },
+    {
+      "Genus": "Gymnothorax",
+      "SpeciesCount": 134,
+      "genus_path": "genera/muraenidae/gymnothorax.json"
+    },
+    {
+      "Genus": "Monopenchelys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/muraenidae/monopenchelys.json"
+    },
+    {
+      "Genus": "Muraena",
+      "SpeciesCount": 10,
+      "genus_path": "genera/muraenidae/muraena.json"
+    },
+    {
+      "Genus": "Pseudechidna",
+      "SpeciesCount": 1,
+      "genus_path": "genera/muraenidae/pseudechidna.json"
+    },
+    {
+      "Genus": "Rhinomuraena",
+      "SpeciesCount": 1,
+      "genus_path": "genera/muraenidae/rhinomuraena.json"
+    },
+    {
+      "Genus": "Scuticaria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/muraenidae/scuticaria.json"
+    },
+    {
+      "Genus": "Strophidon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/muraenidae/strophidon.json"
+    },
+    {
+      "Genus": "Uropterygius",
+      "SpeciesCount": 21,
+      "genus_path": "genera/muraenidae/uropterygius.json"
+    }
+  ]
+}

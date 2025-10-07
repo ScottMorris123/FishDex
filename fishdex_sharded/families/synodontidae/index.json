@@ -1,0 +1,27 @@
+{
+  "Family": "Synodontidae",
+  "Order": "Aulopiformes",
+  "Common": "Lizardfishes",
+  "Genera": [
+    {
+      "Genus": "Harpadon",
+      "SpeciesCount": 7,
+      "genus_path": "genera/synodontidae/harpadon.json"
+    },
+    {
+      "Genus": "Saurida",
+      "SpeciesCount": 23,
+      "genus_path": "genera/synodontidae/saurida.json"
+    },
+    {
+      "Genus": "Synodus",
+      "SpeciesCount": 47,
+      "genus_path": "genera/synodontidae/synodus.json"
+    },
+    {
+      "Genus": "Trachinocephalus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/synodontidae/trachinocephalus.json"
+    }
+  ]
+}

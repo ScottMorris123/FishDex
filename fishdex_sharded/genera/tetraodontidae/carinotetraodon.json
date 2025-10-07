@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Carinotetraodon borneensis",
+    "SpecCode": "58204",
+    "CommonName": "Laikkupallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carinotetraodon imitator",
+    "SpecCode": "59837",
+    "CommonName": "Matkijapallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carinotetraodon irrubesco",
+    "SpecCode": "58201",
+    "CommonName": "Punapyrstöpallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carinotetraodon lorteti",
+    "SpecCode": "25169",
+    "CommonName": "Harjapallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carinotetraodon salivator",
+    "SpecCode": "27253",
+    "CommonName": "Raitapallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carinotetraodon travancoricus",
+    "SpecCode": "25293",
+    "CommonName": "Kääpiöpallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

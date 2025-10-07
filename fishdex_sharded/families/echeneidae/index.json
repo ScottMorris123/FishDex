@@ -1,0 +1,22 @@
+{
+  "Family": "Echeneidae",
+  "Order": "Carangiformes",
+  "Common": "Remoras",
+  "Genera": [
+    {
+      "Genus": "Echeneis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/echeneidae/echeneis.json"
+    },
+    {
+      "Genus": "Phtheirichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/echeneidae/phtheirichthys.json"
+    },
+    {
+      "Genus": "Remora",
+      "SpeciesCount": 5,
+      "genus_path": "genera/echeneidae/remora.json"
+    }
+  ]
+}

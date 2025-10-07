@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Glyptophidium argenteum",
+    "SpecCode": "54134",
+    "CommonName": "銀色曲鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptophidium japonicum",
+    "SpecCode": "24946",
+    "CommonName": "Japanese cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptophidium longipes",
+    "SpecCode": "7889",
+    "CommonName": "Abrótia vulgar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptophidium lucidum",
+    "SpecCode": "24948",
+    "CommonName": "Sculptured cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptophidium macropus",
+    "SpecCode": "10681",
+    "CommonName": "大鰭曲鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptophidium oceanium",
+    "SpecCode": "10434",
+    "CommonName": "Shirochôman",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

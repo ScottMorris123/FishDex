@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hedinichthys grummorum",
+    "SpecCode": "65901",
+    "CommonName": "Grummide paljastrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hedinichthys macropterus",
+    "SpecCode": "60187",
+    "CommonName": "Pikkuim-paljastrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hedinichthys yarkandensis",
+    "SpecCode": "48179",
+    "CommonName": "Kashgarian loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

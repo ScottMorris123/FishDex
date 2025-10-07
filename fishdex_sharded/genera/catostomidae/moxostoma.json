@@ -1,0 +1,201 @@
+[
+  {
+    "ScientificName": "Moxostoma albidum",
+    "SpecCode": "62255",
+    "CommonName": "Hele traavelkarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma anisurum",
+    "SpecCode": "2997",
+    "CommonName": "Chevalier blanc",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma ariommum",
+    "SpecCode": "2998",
+    "CommonName": "Bigeye Jumprock",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma austrinum",
+    "SpecCode": "10306",
+    "CommonName": "Lõuna-traavelkarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma breviceps",
+    "SpecCode": "60764",
+    "CommonName": "Smallmouth redhorse",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma carinatum",
+    "SpecCode": "3000",
+    "CommonName": "Chevalier de rivière",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma cervinum",
+    "SpecCode": "3001",
+    "CommonName": "Black jumprock",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma collapsum",
+    "SpecCode": "60773",
+    "CommonName": "Notchlip redhorse",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma congestum",
+    "SpecCode": "3002",
+    "CommonName": "Grå hestefisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma duquesnei",
+    "SpecCode": "3003",
+    "CommonName": "Black redhorse",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma erythrurum",
+    "SpecCode": "3004",
+    "CommonName": "Golden redhorse",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma hubbsi",
+    "SpecCode": "3006",
+    "CommonName": "Copper redhorse",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma lacerum",
+    "SpecCode": "2995",
+    "CommonName": "Harelip Sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma lachneri",
+    "SpecCode": "3007",
+    "CommonName": "Greater jumprock",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma macrolepidotum",
+    "SpecCode": "3008",
+    "CommonName": "Chevalier rouge",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma mascotae",
+    "SpecCode": "62253",
+    "CommonName": "Mascota jumprock",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma pappillosum",
+    "SpecCode": "3009",
+    "CommonName": "Näsamokk-traavelkarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma pisolabrum",
+    "SpecCode": "62254",
+    "CommonName": "Herneshuul-traavelkarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma poecilurum",
+    "SpecCode": "3010",
+    "CommonName": "Blacktail redhorse",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma robustum",
+    "SpecCode": "3012",
+    "CommonName": "Jäme traavelkarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma rupiscartes",
+    "SpecCode": "3013",
+    "CommonName": "Pakaprovec pruhovaný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moxostoma valenciennesi",
+    "SpecCode": "3014",
+    "CommonName": "Chevalier jaune",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

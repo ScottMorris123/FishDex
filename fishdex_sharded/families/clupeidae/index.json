@@ -1,0 +1,42 @@
+{
+  "Family": "Clupeidae",
+  "Order": "Clupeiformes",
+  "Common": "Herrings, shads, sardines, menhadens",
+  "Genera": [
+    {
+      "Genus": "Clupea",
+      "SpeciesCount": 3,
+      "genus_path": "genera/clupeidae/clupea.json"
+    },
+    {
+      "Genus": "Ethmidium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clupeidae/ethmidium.json"
+    },
+    {
+      "Genus": "Hyperlophus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/clupeidae/hyperlophus.json"
+    },
+    {
+      "Genus": "Potamalosa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clupeidae/potamalosa.json"
+    },
+    {
+      "Genus": "Ramnogaster",
+      "SpeciesCount": 2,
+      "genus_path": "genera/clupeidae/ramnogaster.json"
+    },
+    {
+      "Genus": "Sprattus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/clupeidae/sprattus.json"
+    },
+    {
+      "Genus": "Strangomera",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clupeidae/strangomera.json"
+    }
+  ]
+}

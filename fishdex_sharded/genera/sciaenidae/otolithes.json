@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Otolithes arabicus",
+    "SpecCode": "70197",
+    "CommonName": "Arabian tigertooth croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Otolithes cuvieri",
+    "SpecCode": "13675",
+    "CommonName": "Bombache tigre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Otolithes ruber",
+    "SpecCode": "4824",
+    "CommonName": "Abo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

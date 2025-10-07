@@ -1,0 +1,292 @@
+{
+  "Family": "Zoarcidae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "Eelpouts",
+  "Genera": [
+    {
+      "Genus": "Aiakas",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/aiakas.json"
+    },
+    {
+      "Genus": "Andriashevia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/andriashevia.json"
+    },
+    {
+      "Genus": "Argentinolycus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/argentinolycus.json"
+    },
+    {
+      "Genus": "Austrolycus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/austrolycus.json"
+    },
+    {
+      "Genus": "Barbapellis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/barbapellis.json"
+    },
+    {
+      "Genus": "Bellingshausenia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/bellingshausenia.json"
+    },
+    {
+      "Genus": "Bentartia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/bentartia.json"
+    },
+    {
+      "Genus": "Bilabria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/bilabria.json"
+    },
+    {
+      "Genus": "Bothrocara",
+      "SpeciesCount": 8,
+      "genus_path": "genera/zoarcidae/bothrocara.json"
+    },
+    {
+      "Genus": "Bothrocarina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/bothrocarina.json"
+    },
+    {
+      "Genus": "Crossostomus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/crossostomus.json"
+    },
+    {
+      "Genus": "Dadyanos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/dadyanos.json"
+    },
+    {
+      "Genus": "Davidijordania",
+      "SpeciesCount": 5,
+      "genus_path": "genera/zoarcidae/davidijordania.json"
+    },
+    {
+      "Genus": "Derepodichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/derepodichthys.json"
+    },
+    {
+      "Genus": "Dieidolycus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/zoarcidae/dieidolycus.json"
+    },
+    {
+      "Genus": "Ericandersonia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/ericandersonia.json"
+    },
+    {
+      "Genus": "Eucryphycus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/eucryphycus.json"
+    },
+    {
+      "Genus": "Exechodontes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/exechodontes.json"
+    },
+    {
+      "Genus": "Gosztonyia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/gosztonyia.json"
+    },
+    {
+      "Genus": "Gymnelopsis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/zoarcidae/gymnelopsis.json"
+    },
+    {
+      "Genus": "Gymnelus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/zoarcidae/gymnelus.json"
+    },
+    {
+      "Genus": "Hadropareia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/hadropareia.json"
+    },
+    {
+      "Genus": "Hadropogonichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/hadropogonichthys.json"
+    },
+    {
+      "Genus": "Iluocoetes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/iluocoetes.json"
+    },
+    {
+      "Genus": "Japonolycodes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/japonolycodes.json"
+    },
+    {
+      "Genus": "Krusensterniella",
+      "SpeciesCount": 4,
+      "genus_path": "genera/zoarcidae/krusensterniella.json"
+    },
+    {
+      "Genus": "Letholycus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/letholycus.json"
+    },
+    {
+      "Genus": "Leucogrammolycus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/leucogrammolycus.json"
+    },
+    {
+      "Genus": "Lycenchelys",
+      "SpeciesCount": 62,
+      "genus_path": "genera/zoarcidae/lycenchelys.json"
+    },
+    {
+      "Genus": "Lycodapus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/zoarcidae/lycodapus.json"
+    },
+    {
+      "Genus": "Lycodes",
+      "SpeciesCount": 64,
+      "genus_path": "genera/zoarcidae/lycodes.json"
+    },
+    {
+      "Genus": "Lycodichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/lycodichthys.json"
+    },
+    {
+      "Genus": "Lycodonus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/zoarcidae/lycodonus.json"
+    },
+    {
+      "Genus": "Lycogrammoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/lycogrammoides.json"
+    },
+    {
+      "Genus": "Lyconema",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/lyconema.json"
+    },
+    {
+      "Genus": "Lycozoarces",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/lycozoarces.json"
+    },
+    {
+      "Genus": "Magadanichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/magadanichthys.json"
+    },
+    {
+      "Genus": "Maynea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/maynea.json"
+    },
+    {
+      "Genus": "Melanostigma",
+      "SpeciesCount": 9,
+      "genus_path": "genera/zoarcidae/melanostigma.json"
+    },
+    {
+      "Genus": "Nalbantichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/nalbantichthys.json"
+    },
+    {
+      "Genus": "Notolycodes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/notolycodes.json"
+    },
+    {
+      "Genus": "Oidiphorus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/oidiphorus.json"
+    },
+    {
+      "Genus": "Opaeophacus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/opaeophacus.json"
+    },
+    {
+      "Genus": "Ophthalmolycus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/zoarcidae/ophthalmolycus.json"
+    },
+    {
+      "Genus": "Pachycara",
+      "SpeciesCount": 27,
+      "genus_path": "genera/zoarcidae/pachycara.json"
+    },
+    {
+      "Genus": "Patagolycus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/patagolycus.json"
+    },
+    {
+      "Genus": "Phucocoetes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/phucocoetes.json"
+    },
+    {
+      "Genus": "Piedrabuenia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/piedrabuenia.json"
+    },
+    {
+      "Genus": "Plesienchelys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/plesienchelys.json"
+    },
+    {
+      "Genus": "Pogonolycus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/pogonolycus.json"
+    },
+    {
+      "Genus": "Puzanovia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/puzanovia.json"
+    },
+    {
+      "Genus": "Pyrolycus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zoarcidae/pyrolycus.json"
+    },
+    {
+      "Genus": "Santelmoa",
+      "SpeciesCount": 4,
+      "genus_path": "genera/zoarcidae/santelmoa.json"
+    },
+    {
+      "Genus": "Seleniolycus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/zoarcidae/seleniolycus.json"
+    },
+    {
+      "Genus": "Taranetzella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zoarcidae/taranetzella.json"
+    },
+    {
+      "Genus": "Thermarces",
+      "SpeciesCount": 3,
+      "genus_path": "genera/zoarcidae/thermarces.json"
+    },
+    {
+      "Genus": "Zoarces",
+      "SpeciesCount": 6,
+      "genus_path": "genera/zoarcidae/zoarces.json"
+    }
+  ]
+}

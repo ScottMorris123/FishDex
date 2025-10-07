@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Aphyocypris amnis",
+    "SpecCode": "66266",
+    "CommonName": "Oja-nääpskarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocypris arcus",
+    "SpecCode": "55395",
+    "CommonName": "Hiina nirekarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocypris chinensis",
+    "SpecCode": "23617",
+    "CommonName": "Chinese bleak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocypris dorsohorizontalis",
+    "SpecCode": "61711",
+    "CommonName": "Lameselg-turbkarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocypris kikuchii",
+    "SpecCode": "17302",
+    "CommonName": "Dánio tajvanské",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocypris kyphus",
+    "SpecCode": "61712",
+    "CommonName": "Vietnami nirekarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocypris lini",
+    "SpecCode": "12074",
+    "CommonName": "Chinesischer Lampionfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocypris moltrechti",
+    "SpecCode": "17303",
+    "CommonName": "Lodurasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocypris normalis",
+    "SpecCode": "54893",
+    "CommonName": "Cá Dẫm dẫt suỗi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocypris pulchrilineata",
+    "SpecCode": "66854",
+    "CommonName": "Triibik-nääpskarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Haptenchelys parviocularis",
+    "SpecCode": "69262",
+    "CommonName": "Ankoku-hora-anago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haptenchelys texis",
+    "SpecCode": "54786",
+    "CommonName": "Tupohlavec bahamský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

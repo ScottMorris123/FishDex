@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Oxymonacanthus halli",
+    "SpecCode": "25418",
+    "CommonName": "Punase mere teravoga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxymonacanthus longirostris",
+    "SpecCode": "6559",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

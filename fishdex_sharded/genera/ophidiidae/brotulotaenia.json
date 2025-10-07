@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Brotulotaenia brevicauda",
+    "SpecCode": "8950",
+    "CommonName": "短尾花须鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brotulotaenia crassa",
+    "SpecCode": "8951",
+    "CommonName": "Blue cusk eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brotulotaenia nielseni",
+    "SpecCode": "56333",
+    "CommonName": "納氏花鬚鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brotulotaenia nigra",
+    "SpecCode": "16266",
+    "CommonName": "Dark cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

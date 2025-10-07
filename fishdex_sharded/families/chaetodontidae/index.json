@@ -1,0 +1,67 @@
+{
+  "Family": "Chaetodontidae",
+  "Order": "Acanthuriformes",
+  "Common": "Butterflyfishes",
+  "Genera": [
+    {
+      "Genus": "Amphichaetodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/chaetodontidae/amphichaetodon.json"
+    },
+    {
+      "Genus": "Chaetodon",
+      "SpeciesCount": 87,
+      "genus_path": "genera/chaetodontidae/chaetodon.json"
+    },
+    {
+      "Genus": "Chelmon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/chaetodontidae/chelmon.json"
+    },
+    {
+      "Genus": "Chelmonops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/chaetodontidae/chelmonops.json"
+    },
+    {
+      "Genus": "Coradion",
+      "SpeciesCount": 4,
+      "genus_path": "genera/chaetodontidae/coradion.json"
+    },
+    {
+      "Genus": "Forcipiger",
+      "SpeciesCount": 3,
+      "genus_path": "genera/chaetodontidae/forcipiger.json"
+    },
+    {
+      "Genus": "Hemitaurichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/chaetodontidae/hemitaurichthys.json"
+    },
+    {
+      "Genus": "Heniochus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/chaetodontidae/heniochus.json"
+    },
+    {
+      "Genus": "Johnrandallia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chaetodontidae/johnrandallia.json"
+    },
+    {
+      "Genus": "Parachaetodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chaetodontidae/parachaetodon.json"
+    },
+    {
+      "Genus": "Prognathodes",
+      "SpeciesCount": 13,
+      "genus_path": "genera/chaetodontidae/prognathodes.json"
+    },
+    {
+      "Genus": "Roa",
+      "SpeciesCount": 8,
+      "genus_path": "genera/chaetodontidae/roa.json"
+    }
+  ]
+}

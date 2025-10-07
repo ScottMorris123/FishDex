@@ -1,0 +1,153 @@
+[
+  {
+    "ScientificName": "Myoxocephalus aenaeus",
+    "SpecCode": "4117",
+    "CommonName": "Chaboisseau bronzé",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus brandtii",
+    "SpecCode": "23937",
+    "CommonName": "Shimofurikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus jaok",
+    "SpecCode": "4118",
+    "CommonName": "Jaoknolgus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus matsubarai",
+    "SpecCode": "23939",
+    "CommonName": "Togarikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus niger",
+    "SpecCode": "4119",
+    "CommonName": "Kekajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus ochotensis",
+    "SpecCode": "61298",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus octodecemspinosus",
+    "SpecCode": "4120",
+    "CommonName": "18-spined sculpin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus polyacanthocephalus",
+    "SpecCode": "4121",
+    "CommonName": "Great sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus quadricornis",
+    "SpecCode": "4122",
+    "CommonName": "Alaska fourhorn sculpin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus scorpioides",
+    "SpecCode": "4123",
+    "CommonName": "Arctic sculpin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus scorpius",
+    "SpecCode": "1329",
+    "CommonName": "Almindelig ulk",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus sinensis",
+    "SpecCode": "60423",
+    "CommonName": "中华床杜父鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus stelleri",
+    "SpecCode": "13065",
+    "CommonName": "Frog sculpin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus thompsonii",
+    "SpecCode": "4124",
+    "CommonName": "Chabot de profondeur",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus tuberculatus",
+    "SpecCode": "61294",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myoxocephalus yesoensis",
+    "SpecCode": "61299",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

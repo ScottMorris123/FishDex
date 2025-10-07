@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ilypnus gilberti",
+    "SpecCode": "3880",
+    "CommonName": "Cheekspot goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilypnus luculentus",
+    "SpecCode": "61322",
+    "CommonName": "Bright goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

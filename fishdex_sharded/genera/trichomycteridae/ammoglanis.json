@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ammoglanis amapaensis",
+    "SpecCode": "64708",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammoglanis diaphanus",
+    "SpecCode": "53727",
+    "CommonName": "Hietamatomonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammoglanis pulex",
+    "SpecCode": "58387",
+    "CommonName": "Kääpiömatomonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

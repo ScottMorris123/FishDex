@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Lepisosteus oculatus",
+    "SpecCode": "1075",
+    "CommonName": "Catán pinto",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepisosteus osseus",
+    "SpecCode": "1076",
+    "CommonName": "Catán",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepisosteus platostomus",
+    "SpecCode": "2597",
+    "CommonName": "Kortnæset pansergedde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepisosteus platyrhincus",
+    "SpecCode": "2598",
+    "CommonName": "Florida vaaphaug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "Family": "Exocoetidae",
+  "Order": "Beloniformes",
+  "Common": "Flyingfishes",
+  "Genera": [
+    {
+      "Genus": "Cheilopogon",
+      "SpeciesCount": 31,
+      "genus_path": "genera/exocoetidae/cheilopogon.json"
+    },
+    {
+      "Genus": "Cypselurus",
+      "SpeciesCount": 12,
+      "genus_path": "genera/exocoetidae/cypselurus.json"
+    },
+    {
+      "Genus": "Exocoetus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/exocoetidae/exocoetus.json"
+    },
+    {
+      "Genus": "Fodiator",
+      "SpeciesCount": 2,
+      "genus_path": "genera/exocoetidae/fodiator.json"
+    },
+    {
+      "Genus": "Hirundichthys",
+      "SpeciesCount": 12,
+      "genus_path": "genera/exocoetidae/hirundichthys.json"
+    },
+    {
+      "Genus": "Parexocoetus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/exocoetidae/parexocoetus.json"
+    },
+    {
+      "Genus": "Prognichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/exocoetidae/prognichthys.json"
+    }
+  ]
+}

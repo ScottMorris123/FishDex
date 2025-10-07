@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Rhynchocypris czekanowskii",
+    "SpecCode": "47819",
+    "CommonName": "Chankapfrille",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchocypris dementjevi",
+    "SpecCode": "56258",
+    "CommonName": "Dementjevi koonlepits",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchocypris lagowskii",
+    "SpecCode": "46560",
+    "CommonName": "Abura haya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchocypris mantschurica",
+    "SpecCode": "70456",
+    "CommonName": "Manchurian Lake minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchocypris oxycephala",
+    "SpecCode": "48140",
+    "CommonName": "Chinese minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchocypris percnura",
+    "SpecCode": "25959",
+    "CommonName": "Järve-koonlepits",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchocypris poljakowii",
+    "SpecCode": "48142",
+    "CommonName": "Balchaschelritze",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

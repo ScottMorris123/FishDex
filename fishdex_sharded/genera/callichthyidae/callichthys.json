@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Callichthys callichthys",
+    "SpecCode": "10922",
+    "CommonName": "Ababoutyu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callichthys fabricioi",
+    "SpecCode": "56453",
+    "CommonName": "Roño",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callichthys oibaensis",
+    "SpecCode": "63185",
+    "CommonName": "Oibita catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callichthys serralabium",
+    "SpecCode": "62251",
+    "CommonName": "Savlæbepansermalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Mollisquama mississippiensis",
+    "SpecCode": "69597",
+    "CommonName": "American pocket shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mollisquama parini",
+    "SpecCode": "53994",
+    "CommonName": "Pehmehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

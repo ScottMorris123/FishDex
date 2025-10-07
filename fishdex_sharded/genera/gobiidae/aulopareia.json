@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Aulopareia atripinnata",
+    "SpecCode": "61723",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulopareia janetae",
+    "SpecCode": "26832",
+    "CommonName": "Scalycheek goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulopareia koumansi",
+    "SpecCode": "64922",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulopareia ocellata",
+    "SpecCode": "61308",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulopareia unicolor",
+    "SpecCode": "25064",
+    "CommonName": "Unicolored goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

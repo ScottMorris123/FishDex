@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Similiparma hermani",
+    "SpecCode": "12508",
+    "CommonName": "Cape damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Similiparma lurida",
+    "SpecCode": "11820",
+    "CommonName": "Burrinho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

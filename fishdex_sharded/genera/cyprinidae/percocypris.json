@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Percocypris pingi",
+    "SpecCode": "56074",
+    "CommonName": "Parma Pingova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percocypris regani",
+    "SpecCode": "62086",
+    "CommonName": "Regani ahvenkarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percocypris retrodorsalis",
+    "SpecCode": "70591",
+    "CommonName": "後背鱸鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percocypris tchangi",
+    "SpecCode": "58094",
+    "CommonName": "Amuřice Čangova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

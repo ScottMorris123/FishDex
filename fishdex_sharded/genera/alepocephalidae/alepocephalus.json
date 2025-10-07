@@ -1,0 +1,182 @@
+[
+  {
+    "ScientificName": "Alepocephalus agassizii",
+    "SpecCode": "9171",
+    "CommonName": "Agassiz glathovedfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus andersoni",
+    "SpecCode": "58899",
+    "CommonName": "安氏平头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus antipodianus",
+    "SpecCode": "58901",
+    "CommonName": "Antipodean slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus asperifrons",
+    "SpecCode": "58903",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus australis",
+    "SpecCode": "9172",
+    "CommonName": "Arame-konnyaku-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus bairdii",
+    "SpecCode": "230",
+    "CommonName": "Alepocefal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus bicolor",
+    "SpecCode": "7592",
+    "CommonName": "Bicolor slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus blanfordii",
+    "SpecCode": "58904",
+    "CommonName": "布氏平头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus dentifer",
+    "SpecCode": "60307",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus fundulus",
+    "SpecCode": "58908",
+    "CommonName": "巴拿馬平頭魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus longiceps",
+    "SpecCode": "22691",
+    "CommonName": "Longfin slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus longirostris",
+    "SpecCode": "22693",
+    "CommonName": "Longsnout slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus melas",
+    "SpecCode": "55082",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus owstoni",
+    "SpecCode": "22688",
+    "CommonName": "Hage-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus planifrons",
+    "SpecCode": "58911",
+    "CommonName": "太平洋平头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus productus",
+    "SpecCode": "10000",
+    "CommonName": "Patagonia-sekitoriiwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus rostratus",
+    "SpecCode": "5071",
+    "CommonName": "Alépocephale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus tenebrosus",
+    "SpecCode": "11590",
+    "CommonName": "California slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus triangularis",
+    "SpecCode": "22694",
+    "CommonName": "Okinawa-konnyaku-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepocephalus umbriceps",
+    "SpecCode": "22687",
+    "CommonName": "Konnyaku-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

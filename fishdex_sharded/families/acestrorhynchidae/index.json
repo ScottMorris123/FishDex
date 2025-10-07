@@ -1,0 +1,42 @@
+{
+  "Family": "Acestrorhynchidae",
+  "Order": "Characiformes",
+  "Common": "Smallscale pike characins",
+  "Genera": [
+    {
+      "Genus": "Acestrorhynchus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/acestrorhynchidae/acestrorhynchus.json"
+    },
+    {
+      "Genus": "Gilbertolus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/acestrorhynchidae/gilbertolus.json"
+    },
+    {
+      "Genus": "Gnathocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/acestrorhynchidae/gnathocharax.json"
+    },
+    {
+      "Genus": "Heterocharax",
+      "SpeciesCount": 3,
+      "genus_path": "genera/acestrorhynchidae/heterocharax.json"
+    },
+    {
+      "Genus": "Hoplocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/acestrorhynchidae/hoplocharax.json"
+    },
+    {
+      "Genus": "Lonchogenys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/acestrorhynchidae/lonchogenys.json"
+    },
+    {
+      "Genus": "Roestes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/acestrorhynchidae/roestes.json"
+    }
+  ]
+}

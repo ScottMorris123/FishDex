@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Springeratus caledonicus",
+    "SpecCode": "60604",
+    "CommonName": "Caledonian weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Springeratus polyporatus",
+    "SpecCode": "59527",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Springeratus xanthosoma",
+    "SpecCode": "23568",
+    "CommonName": "Asahiginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

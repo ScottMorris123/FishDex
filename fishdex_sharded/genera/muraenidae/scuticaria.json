@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Scuticaria okinawae",
+    "SpecCode": "55168",
+    "CommonName": "Bennett's moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scuticaria tigrina",
+    "SpecCode": "7450",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

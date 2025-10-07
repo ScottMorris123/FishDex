@@ -1,0 +1,12 @@
+{
+  "Family": "Plesiobatidae",
+  "Order": "Myliobatiformes",
+  "Common": "Deepwater stingrays",
+  "Genera": [
+    {
+      "Genus": "Plesiobatis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/plesiobatidae/plesiobatis.json"
+    }
+  ]
+}

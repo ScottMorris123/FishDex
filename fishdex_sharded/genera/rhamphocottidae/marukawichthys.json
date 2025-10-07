@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Marukawichthys ambulator",
+    "SpecCode": "4315",
+    "CommonName": "Harilik sõrmhärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marukawichthys pacificus",
+    "SpecCode": "56764",
+    "CommonName": "Tengu-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

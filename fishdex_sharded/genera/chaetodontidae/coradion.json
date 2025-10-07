@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Coradion altivelis",
+    "SpecCode": "11250",
+    "CommonName": "Bagang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coradion calendula",
+    "SpecCode": "69946",
+    "CommonName": "Orange-tailed coralfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coradion chrysozonus",
+    "SpecCode": "5583",
+    "CommonName": "Alibang-bang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coradion melanopus",
+    "SpecCode": "10287",
+    "CommonName": "Kepe strip empat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

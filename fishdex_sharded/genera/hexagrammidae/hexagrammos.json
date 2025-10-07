@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Hexagrammos agrammus",
+    "SpecCode": "8169",
+    "CommonName": "Joonterpuug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hexagrammos decagrammus",
+    "SpecCode": "4032",
+    "CommonName": "Ameerika terpuug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hexagrammos lagocephalus",
+    "SpecCode": "4033",
+    "CommonName": "Greenling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hexagrammos octogrammus",
+    "SpecCode": "4034",
+    "CommonName": "Buriy terpug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hexagrammos otakii",
+    "SpecCode": "6598",
+    "CommonName": "Ainame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hexagrammos stelleri",
+    "SpecCode": "4035",
+    "CommonName": "Ezo-ainame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "ScientificName": "Stalix davidsheni",
+    "SpecCode": "56472",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix dicra",
+    "SpecCode": "59040",
+    "CommonName": "Forked jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix eremia",
+    "SpecCode": "59039",
+    "CommonName": "Solitary jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix flavida",
+    "SpecCode": "59032",
+    "CommonName": "Yellow jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix histrio",
+    "SpecCode": "23505",
+    "CommonName": "Black-marble jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix immaculata",
+    "SpecCode": "59034",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix moenensis",
+    "SpecCode": "59027",
+    "CommonName": "Muna jawfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix novikovi",
+    "SpecCode": "70528",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix omanensis",
+    "SpecCode": "46430",
+    "CommonName": "Oman jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix sheni",
+    "SpecCode": "59029",
+    "CommonName": "沈氏叉棘鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix toyoshio",
+    "SpecCode": "59064",
+    "CommonName": "Kibire-kaeruamadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stalix versluysi",
+    "SpecCode": "59031",
+    "CommonName": "Versluys' jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

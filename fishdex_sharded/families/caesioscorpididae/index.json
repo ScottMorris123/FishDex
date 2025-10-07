@@ -1,0 +1,12 @@
+{
+  "Family": "Caesioscorpididae",
+  "Order": "Perciformes/Serranoidei",
+  "Common": "Blowhole perches",
+  "Genera": [
+    {
+      "Genus": "Caesioscorpis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/caesioscorpididae/caesioscorpis.json"
+    }
+  ]
+}

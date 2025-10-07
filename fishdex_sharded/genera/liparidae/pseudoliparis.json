@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pseudoliparis amblystomopsis",
+    "SpecCode": "51399",
+    "CommonName": "Süva-ebakulleskala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoliparis belyaevi",
+    "SpecCode": "58812",
+    "CommonName": "貝氏擬獅子魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoliparis swirei",
+    "SpecCode": "68464",
+    "CommonName": "Mariana snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

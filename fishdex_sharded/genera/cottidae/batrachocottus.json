@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Batrachocottus baicalensis",
+    "SpecCode": "47978",
+    "CommonName": "Bighead sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachocottus multiradiatus",
+    "SpecCode": "47980",
+    "CommonName": "Lehvik-konnhärg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachocottus nikolskii",
+    "SpecCode": "47981",
+    "CommonName": "Fat sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachocottus talievi",
+    "SpecCode": "61491",
+    "CommonName": "Taliev's sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

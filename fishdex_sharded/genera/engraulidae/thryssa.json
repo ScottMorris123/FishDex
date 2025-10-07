@@ -1,0 +1,198 @@
+[
+  {
+    "ScientificName": "Thryssa adelae",
+    "SpecCode": "580",
+    "CommonName": "Adele trüssa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa aestuaria",
+    "SpecCode": "581",
+    "CommonName": "Estuarine thryssa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa brevicauda",
+    "SpecCode": "583",
+    "CommonName": "Lühisaba-trüssa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa dayi",
+    "SpecCode": "585",
+    "CommonName": "Day trüssa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa dussumieri",
+    "SpecCode": "586",
+    "CommonName": "Anchois-moustache mandeli",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa encrasicholoides",
+    "SpecCode": "587",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa gautamiensis",
+    "SpecCode": "588",
+    "CommonName": "Gautama thryssa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa hamiltonii",
+    "SpecCode": "589",
+    "CommonName": "Aathuporuva",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa kammalensis",
+    "SpecCode": "590",
+    "CommonName": "Bakok",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa kammalensoides",
+    "SpecCode": "591",
+    "CommonName": "Godavari thryssa",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa malabarica",
+    "SpecCode": "592",
+    "CommonName": "Aduppooth poruva",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa marasriae",
+    "SpecCode": "593",
+    "CommonName": "Marasri trüssa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa mystax",
+    "SpecCode": "594",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa polybranchialis",
+    "SpecCode": "595",
+    "CommonName": "Humphead thryssa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa purava",
+    "SpecCode": "596",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa rastrosa",
+    "SpecCode": "597",
+    "CommonName": "Fly river thryssa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa scratchleyi",
+    "SpecCode": "598",
+    "CommonName": "Freshwater anchovy",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa setirostris",
+    "SpecCode": "599",
+    "CommonName": "Anchois-moustache cornu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa spinidens",
+    "SpecCode": "600",
+    "CommonName": "Bengal thryssa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssa stenosoma",
+    "SpecCode": "601",
+    "CommonName": "Saletrüssa",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

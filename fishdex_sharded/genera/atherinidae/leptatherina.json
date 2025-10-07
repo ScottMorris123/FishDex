@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Leptatherina presbyteroides",
+    "SpecCode": "52321",
+    "CommonName": "Elongate hardyhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptatherina wallacei",
+    "SpecCode": "22657",
+    "CommonName": "Western hardyhead",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

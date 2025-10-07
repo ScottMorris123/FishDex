@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Danaphos asteroscopus",
+    "SpecCode": "70489",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Danaphos oculatus",
+    "SpecCode": "7388",
+    "CommonName": "Bigeye lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

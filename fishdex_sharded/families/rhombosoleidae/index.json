@@ -1,0 +1,47 @@
+{
+  "Family": "Rhombosoleidae",
+  "Order": "Pleuronectiformes",
+  "Common": "South Pacific flounders",
+  "Genera": [
+    {
+      "Genus": "Ammotretis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/rhombosoleidae/ammotretis.json"
+    },
+    {
+      "Genus": "Azygopus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/rhombosoleidae/azygopus.json"
+    },
+    {
+      "Genus": "Colistium",
+      "SpeciesCount": 2,
+      "genus_path": "genera/rhombosoleidae/colistium.json"
+    },
+    {
+      "Genus": "Pelotretis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhombosoleidae/pelotretis.json"
+    },
+    {
+      "Genus": "Peltorhamphus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/rhombosoleidae/peltorhamphus.json"
+    },
+    {
+      "Genus": "Psammodiscus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhombosoleidae/psammodiscus.json"
+    },
+    {
+      "Genus": "Rhombosolea",
+      "SpeciesCount": 4,
+      "genus_path": "genera/rhombosoleidae/rhombosolea.json"
+    },
+    {
+      "Genus": "Taratretis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhombosoleidae/taratretis.json"
+    }
+  ]
+}

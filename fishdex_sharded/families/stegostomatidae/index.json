@@ -1,0 +1,12 @@
+{
+  "Family": "Stegostomatidae",
+  "Order": "Orectolobiformes",
+  "Common": "Zebra sharks",
+  "Genera": [
+    {
+      "Genus": "Stegostoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stegostomatidae/stegostoma.json"
+    }
+  ]
+}

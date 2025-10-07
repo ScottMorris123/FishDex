@@ -1,0 +1,146 @@
+[
+  {
+    "ScientificName": "Emblemaria atlantica",
+    "SpecCode": "3715",
+    "CommonName": "Banner blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria australis",
+    "SpecCode": "60581",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria biocellata",
+    "SpecCode": "27911",
+    "CommonName": "Twospot blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria caldwelli",
+    "SpecCode": "47267",
+    "CommonName": "Caribbean blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria caycedoi",
+    "SpecCode": "57924",
+    "CommonName": "Colombian blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria culmenis",
+    "SpecCode": "27912",
+    "CommonName": "Ridge blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria diphyodontis",
+    "SpecCode": "27913",
+    "CommonName": "Venezuelan blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria hudsoni",
+    "SpecCode": "54805",
+    "CommonName": "托氏隆胎鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria hyltoni",
+    "SpecCode": "47266",
+    "CommonName": "Filament blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria hypacanthus",
+    "SpecCode": "46774",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria nivipes",
+    "SpecCode": "46776",
+    "CommonName": "Whiteback signal blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria pandionis",
+    "SpecCode": "3718",
+    "CommonName": "Blénido bandera negra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria piratica",
+    "SpecCode": "46778",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria piratula",
+    "SpecCode": "3719",
+    "CommonName": "Pirate blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria vitta",
+    "SpecCode": "60577",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emblemaria walkeri",
+    "SpecCode": "46780",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

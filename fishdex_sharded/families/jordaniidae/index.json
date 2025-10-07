@@ -1,0 +1,22 @@
+{
+  "Family": "Jordaniidae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Longfin sculpins",
+  "Genera": [
+    {
+      "Genus": "Jordania",
+      "SpeciesCount": 1,
+      "genus_path": "genera/jordaniidae/jordania.json"
+    },
+    {
+      "Genus": "Paricelinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/jordaniidae/paricelinus.json"
+    },
+    {
+      "Genus": "Scorpaenichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/jordaniidae/scorpaenichthys.json"
+    }
+  ]
+}

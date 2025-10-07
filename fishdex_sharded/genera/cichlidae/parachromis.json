@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Parachromis dovii",
+    "SpecCode": "6413",
+    "CommonName": "Guapote",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachromis friedrichsthalii",
+    "SpecCode": "7325",
+    "CommonName": "Castarrica",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachromis loisellei",
+    "SpecCode": "26778",
+    "CommonName": "Guapote amarillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachromis managuensis",
+    "SpecCode": "4684",
+    "CommonName": "Aztec cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachromis motaguensis",
+    "SpecCode": "4776",
+    "CommonName": "False yellowjacket cichlid",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

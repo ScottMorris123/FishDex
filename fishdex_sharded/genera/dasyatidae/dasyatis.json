@@ -1,0 +1,86 @@
+[
+  {
+    "ScientificName": "Dasyatis brevis",
+    "SpecCode": "7381",
+    "CommonName": "Batea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyatis chrysonota",
+    "SpecCode": "25629",
+    "CommonName": "Blå pigrokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyatis gigantea",
+    "SpecCode": "22789",
+    "CommonName": "Giant stumptail stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyatis hastata",
+    "SpecCode": "60852",
+    "CommonName": "Västar-astelrai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyatis hypostigma",
+    "SpecCode": "63407",
+    "CommonName": "Kurdkõht-astelrai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyatis marmorata",
+    "SpecCode": "8964",
+    "CommonName": "Chucho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyatis multispinosa",
+    "SpecCode": "57395",
+    "CommonName": "Meerstekelpijlstaartrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyatis pastinaca",
+    "SpecCode": "2060",
+    "CommonName": "Bantenaga",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyatis tortonesei",
+    "SpecCode": "9334",
+    "CommonName": "İğneli vatoz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

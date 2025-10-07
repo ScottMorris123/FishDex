@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Leptaulopus damasi",
+    "SpecCode": "22955",
+    "CommonName": "Esodamasi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptaulopus erythrozonatus",
+    "SpecCode": "67548",
+    "CommonName": "Duckbill flagfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

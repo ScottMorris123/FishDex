@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ernogrammus hexagrammus",
+    "SpecCode": "23788",
+    "CommonName": "Kuusrida-ernogramm",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ernogrammus walkeri",
+    "SpecCode": "48853",
+    "CommonName": "Masked prickleback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ernogrammus zhirmunskii",
+    "SpecCode": "66022",
+    "CommonName": "Seven-lined prickleback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

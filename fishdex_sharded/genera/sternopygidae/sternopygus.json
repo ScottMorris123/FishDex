@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Sternopygus aequilabiatus",
+    "SpecCode": "48002",
+    "CommonName": "等唇線鰭電鰻",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternopygus arenatus",
+    "SpecCode": "48006",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternopygus astrabes",
+    "SpecCode": "47903",
+    "CommonName": "鞍斑線鰭電鰻",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternopygus branco",
+    "SpecCode": "62033",
+    "CommonName": "Sarapó branco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternopygus castroi",
+    "SpecCode": "58262",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternopygus macrurus",
+    "SpecCode": "12224",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternopygus obtusirostris",
+    "SpecCode": "61824",
+    "CommonName": "Ituí",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternopygus pejeraton",
+    "SpecCode": "48004",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternopygus xingu",
+    "SpecCode": "53000",
+    "CommonName": "巴西線鰭電鰻",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

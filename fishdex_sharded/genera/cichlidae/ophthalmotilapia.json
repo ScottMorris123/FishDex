@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Ophthalmotilapia boops",
+    "SpecCode": "8774",
+    "CommonName": "Ruskosulkahautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophthalmotilapia heterodonta",
+    "SpecCode": "8775",
+    "CommonName": "Hellblauer Fadenmaulbrüter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophthalmotilapia nasuta",
+    "SpecCode": "8776",
+    "CommonName": "Nasenbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophthalmotilapia ventralis",
+    "SpecCode": "8777",
+    "CommonName": "Blauer Fadenmaulbrüter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

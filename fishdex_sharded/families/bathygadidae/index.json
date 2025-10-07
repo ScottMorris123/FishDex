@@ -1,0 +1,17 @@
+{
+  "Family": "Bathygadidae",
+  "Order": "Gadiformes",
+  "Common": "Rattails",
+  "Genera": [
+    {
+      "Genus": "Bathygadus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/bathygadidae/bathygadus.json"
+    },
+    {
+      "Genus": "Gadomus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/bathygadidae/gadomus.json"
+    }
+  ]
+}

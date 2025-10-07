@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pseudopercis numida",
+    "SpecCode": "14100",
+    "CommonName": "Namorado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopercis semifasciata",
+    "SpecCode": "50136",
+    "CommonName": "Argentinian sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

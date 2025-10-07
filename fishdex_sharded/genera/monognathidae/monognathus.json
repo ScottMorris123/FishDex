@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Monognathus ahlstromi",
+    "SpecCode": "11485",
+    "CommonName": "Ahlstromi ainulõug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus berteli",
+    "SpecCode": "59466",
+    "CommonName": "Berteli ainulõug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus bertini",
+    "SpecCode": "56717",
+    "CommonName": "Bertini ainulõug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus boehlkei",
+    "SpecCode": "56713",
+    "CommonName": "Böhlke ainulõug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus bruuni",
+    "SpecCode": "56730",
+    "CommonName": "Bruuni ainulõug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus herringi",
+    "SpecCode": "56724",
+    "CommonName": "Čelisťovka herringova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus isaacsi",
+    "SpecCode": "56726",
+    "CommonName": "Čelisťovka Izákova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus jesperseni",
+    "SpecCode": "9113",
+    "CommonName": "Čelisťovka jespersenova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus jesse",
+    "SpecCode": "56732",
+    "CommonName": "Čelisťovka pacifická",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus nigeli",
+    "SpecCode": "56719",
+    "CommonName": "Čelisťovka nigelova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus ozawai",
+    "SpecCode": "56718",
+    "CommonName": "Čelisťovka japonská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus rajui",
+    "SpecCode": "56733",
+    "CommonName": "Čelisťovka rajuova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus rosenblatti",
+    "SpecCode": "56723",
+    "CommonName": "Čelisťovka rosenblattova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus smithi",
+    "SpecCode": "56729",
+    "CommonName": "Čelisťovka smithova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monognathus taningi",
+    "SpecCode": "9112",
+    "CommonName": "Čelisťovka taningova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hollardia goslinei",
+    "SpecCode": "54957",
+    "CommonName": "Hawaiian spikefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hollardia hollardi",
+    "SpecCode": "12482",
+    "CommonName": "Reticulate Spikefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hollardia meadi",
+    "SpecCode": "4271",
+    "CommonName": "Plettet pigfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

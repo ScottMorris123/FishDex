@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Icichthys australis",
+    "SpecCode": "7118",
+    "CommonName": "Boro-ibodai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icichthys lockingtoni",
+    "SpecCode": "3922",
+    "CommonName": "Brown rudderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

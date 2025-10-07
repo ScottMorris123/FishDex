@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Ebosia bleekeri",
+    "SpecCode": "10384",
+    "CommonName": "Bleeker's lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ebosia falcata",
+    "SpecCode": "59328",
+    "CommonName": "鐮盔蓑鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ebosia saya",
+    "SpecCode": "69333",
+    "CommonName": "Saya lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ebosia vespertina",
+    "SpecCode": "68381",
+    "CommonName": "Western falcate lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

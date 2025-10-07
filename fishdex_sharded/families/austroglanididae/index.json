@@ -1,0 +1,12 @@
+{
+  "Family": "Austroglanididae",
+  "Order": "Siluriformes",
+  "Common": "Austroglanids",
+  "Genera": [
+    {
+      "Genus": "Austroglanis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/austroglanididae/austroglanis.json"
+    }
+  ]
+}

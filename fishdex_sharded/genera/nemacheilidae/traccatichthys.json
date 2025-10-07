@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Traccatichthys bacmeensis",
+    "SpecCode": "65667",
+    "CommonName": "Vietnami kagutrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Traccatichthys pulcher",
+    "SpecCode": "54990",
+    "CommonName": "Kaunis kagutrull",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Traccatichthys taeniatus",
+    "SpecCode": "60228",
+    "CommonName": "Mřenka protažená",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Traccatichthys tuberculum",
+    "SpecCode": "66893",
+    "CommonName": "Kareuim-kagutrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pseudopleuronectes americanus",
+    "SpecCode": "524",
+    "CommonName": "Ameerika ebalest",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopleuronectes herzensteini",
+    "SpecCode": "8556",
+    "CommonName": "Acedía del Japón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopleuronectes obscurus",
+    "SpecCode": "24239",
+    "CommonName": "Kurogarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopleuronectes schrenki",
+    "SpecCode": "8885",
+    "CommonName": "Cresthead flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopleuronectes yokohamae",
+    "SpecCode": "8170",
+    "CommonName": "Dùn wěn huáng gài dié",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

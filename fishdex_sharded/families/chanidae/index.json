@@ -1,0 +1,12 @@
+{
+  "Family": "Chanidae",
+  "Order": "Gonorynchiformes",
+  "Common": "Milkfish",
+  "Genera": [
+    {
+      "Genus": "Chanos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chanidae/chanos.json"
+    }
+  ]
+}

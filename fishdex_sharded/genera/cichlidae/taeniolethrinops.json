@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Taeniolethrinops cyrtonotus",
+    "SpecCode": "2259",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniolethrinops furcicauda",
+    "SpecCode": "2258",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniolethrinops laticeps",
+    "SpecCode": "2257",
+    "CommonName": "侧头带龙占丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniolethrinops praeorbitalis",
+    "SpecCode": "2310",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

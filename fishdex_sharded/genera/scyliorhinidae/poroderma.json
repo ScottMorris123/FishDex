@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Poroderma africanum",
+    "SpecCode": "835",
+    "CommonName": "Alitán listado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poroderma pantherinum",
+    "SpecCode": "837",
+    "CommonName": "Alitán de barbilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

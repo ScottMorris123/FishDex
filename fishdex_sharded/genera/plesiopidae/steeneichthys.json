@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Steeneichthys nativitatus",
+    "SpecCode": "61091",
+    "CommonName": "Christmas longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steeneichthys plesiopsus",
+    "SpecCode": "14985",
+    "CommonName": "Steene's longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

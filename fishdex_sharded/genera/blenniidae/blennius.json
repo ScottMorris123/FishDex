@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Blennius normani",
+    "SpecCode": "5078",
+    "CommonName": "Blennie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blennius ocellaris",
+    "SpecCode": "49",
+    "CommonName": "Ase mossegaire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

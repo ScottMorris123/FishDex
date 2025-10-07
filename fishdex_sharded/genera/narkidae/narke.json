@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Narke capensis",
+    "SpecCode": "25550",
+    "CommonName": "Cape numbfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narke dipterygia",
+    "SpecCode": "13689",
+    "CommonName": "Cá Đuối điện chấm trắng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narke japonica",
+    "SpecCode": "15438",
+    "CommonName": "Chǒn-gi-ga-o-ri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

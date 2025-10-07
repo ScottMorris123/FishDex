@@ -1,0 +1,581 @@
+[
+  {
+    "ScientificName": "Scorpaena afuerae",
+    "SpecCode": "14217",
+    "CommonName": "Brujo mocho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena agassizii",
+    "SpecCode": "3934",
+    "CommonName": "Arracacho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena albifimbria",
+    "SpecCode": "3935",
+    "CommonName": "Coral Scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena angolensis",
+    "SpecCode": "5019",
+    "CommonName": "Angola rockfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena annobonae",
+    "SpecCode": "17252",
+    "CommonName": "安农鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena ascensionis",
+    "SpecCode": "17254",
+    "CommonName": "Dwarf scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena azorica",
+    "SpecCode": "46344",
+    "CommonName": "鷹鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena bergii",
+    "SpecCode": "3936",
+    "CommonName": "Escorpión gansito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena brachyptera",
+    "SpecCode": "3937",
+    "CommonName": "Shortfin scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena brasiliensis",
+    "SpecCode": "3938",
+    "CommonName": "Aniquim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena brevispina",
+    "SpecCode": "63854",
+    "CommonName": "Japanese shortspined scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena bulacephala",
+    "SpecCode": "63855",
+    "CommonName": "Bullhead scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena calcarata",
+    "SpecCode": "3939",
+    "CommonName": "Arracacho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena canariensis",
+    "SpecCode": "17256",
+    "CommonName": "卡納亞鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena cardinalis",
+    "SpecCode": "46983",
+    "CommonName": "Billy bougain",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena cocosensis",
+    "SpecCode": "62074",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena colorata",
+    "SpecCode": "59560",
+    "CommonName": "彩鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena decemradiata",
+    "SpecCode": "69155",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena dispar",
+    "SpecCode": "3940",
+    "CommonName": "Escorpión jorobado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena elachys",
+    "SpecCode": "3941",
+    "CommonName": "Dwarf scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena elongata",
+    "SpecCode": "5021",
+    "CommonName": "Beigeröd havssugga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena fernandeziana",
+    "SpecCode": "55120",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena gasta",
+    "SpecCode": "62973",
+    "CommonName": "Ghostly scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena grandicornis",
+    "SpecCode": "3942",
+    "CommonName": "Beatinha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena grandisquamis",
+    "SpecCode": "27372",
+    "CommonName": "Bigscale scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena grattanica",
+    "SpecCode": "65393",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena guttata",
+    "SpecCode": "3943",
+    "CommonName": "Blåkæft",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena hatizyoensis",
+    "SpecCode": "23879",
+    "CommonName": "Hachijô-fusakasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena hemilepidota",
+    "SpecCode": "59204",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena histrio",
+    "SpecCode": "8332",
+    "CommonName": "Brujo con mancha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena inermis",
+    "SpecCode": "3944",
+    "CommonName": "Escorpión hongo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena isthmensis",
+    "SpecCode": "3945",
+    "CommonName": "Escorpión mejilla lisa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena izensis",
+    "SpecCode": "12553",
+    "CommonName": "Bān qí yóu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena jacksoniensis",
+    "SpecCode": "67004",
+    "CommonName": "Eastern Red scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena lacrimata",
+    "SpecCode": "62943",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena laevis",
+    "SpecCode": "5026",
+    "CommonName": "Charroco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena loppei",
+    "SpecCode": "17259",
+    "CommonName": "Bodeč mali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena maderensis",
+    "SpecCode": "10185",
+    "CommonName": "Bodečnjak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena melasma",
+    "SpecCode": "48737",
+    "CommonName": "黑点鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena mellissii",
+    "SpecCode": "17262",
+    "CommonName": "Deepwater gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena miostoma",
+    "SpecCode": "23877",
+    "CommonName": "Kokuchi-fusakasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena mystes",
+    "SpecCode": "8333",
+    "CommonName": "Brujo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena neglecta",
+    "SpecCode": "12554",
+    "CommonName": "Izukasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena normani",
+    "SpecCode": "5025",
+    "CommonName": "Norman's rockfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena notata",
+    "SpecCode": "1760",
+    "CommonName": "Benekli iskorpit",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena onaria",
+    "SpecCode": "23876",
+    "CommonName": "Fusakasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena orgila",
+    "SpecCode": "55121",
+    "CommonName": "Bold scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena papillosa",
+    "SpecCode": "14320",
+    "CommonName": "Chained scorpionfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena pascuensis",
+    "SpecCode": "55122",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena pele",
+    "SpecCode": "59561",
+    "CommonName": "棕鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena pepo",
+    "SpecCode": "64000",
+    "CommonName": "Pumpkin scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena petricola",
+    "SpecCode": "48732",
+    "CommonName": "Mangangá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena plumieri",
+    "SpecCode": "1201",
+    "CommonName": "Aniquim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena porcus",
+    "SpecCode": "1758",
+    "CommonName": "Asht 'aroûb",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena regina",
+    "SpecCode": "69118",
+    "CommonName": "Eastern Queen scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena russula",
+    "SpecCode": "14220",
+    "CommonName": "Brujo morado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena scrofa",
+    "SpecCode": "1759",
+    "CommonName": "Adabeyi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena sonorae",
+    "SpecCode": "14222",
+    "CommonName": "Escorpión de Sonora",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena stephanica",
+    "SpecCode": "5027",
+    "CommonName": "Charroco ou Bjon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena sumptuosa",
+    "SpecCode": "52376",
+    "CommonName": "Western red rockcod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena thomsoni",
+    "SpecCode": "56289",
+    "CommonName": "汤氏鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena tierrae",
+    "SpecCode": "55123",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena uncinata",
+    "SpecCode": "59570",
+    "CommonName": "鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaena wellingtoni",
+    "SpecCode": "69214",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

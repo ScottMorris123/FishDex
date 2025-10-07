@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Lithognathus aureti",
+    "SpecCode": "6592",
+    "CommonName": "Herrera de la costa oeste",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lithognathus lithognathus",
+    "SpecCode": "450",
+    "CommonName": "Bela ovčica",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lithognathus mormyrus",
+    "SpecCode": "706",
+    "CommonName": "Abdhim",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lithognathus olivieri",
+    "SpecCode": "8077",
+    "CommonName": "Steenbras",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

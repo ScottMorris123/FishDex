@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Coccorella atlantica",
+    "SpecCode": "16728",
+    "CommonName": "Atlantic sabretooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coccorella atrata",
+    "SpecCode": "27424",
+    "CommonName": "Minami-yarieso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

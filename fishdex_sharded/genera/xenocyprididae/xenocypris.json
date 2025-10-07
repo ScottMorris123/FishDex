@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Xenocypris davidi",
+    "SpecCode": "54925",
+    "CommonName": "Davidi kriipsuu",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocypris fangi",
+    "SpecCode": "56037",
+    "CommonName": "Drobník Fangův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocypris hupeinensis",
+    "SpecCode": "56039",
+    "CommonName": "Hubei kriipsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocypris macrolepis",
+    "SpecCode": "11099",
+    "CommonName": "Amuuri mustkõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocypris medius",
+    "SpecCode": "59799",
+    "CommonName": "Taiwani kriipsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocypris yunnanensis",
+    "SpecCode": "56038",
+    "CommonName": "Drobník junanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

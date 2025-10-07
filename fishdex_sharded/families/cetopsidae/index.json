@@ -1,0 +1,32 @@
+{
+  "Family": "Cetopsidae",
+  "Order": "Siluriformes",
+  "Common": "Whale catfishes",
+  "Genera": [
+    {
+      "Genus": "Cetopsidium",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cetopsidae/cetopsidium.json"
+    },
+    {
+      "Genus": "Cetopsis",
+      "SpeciesCount": 22,
+      "genus_path": "genera/cetopsidae/cetopsis.json"
+    },
+    {
+      "Genus": "Denticetopsis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cetopsidae/denticetopsis.json"
+    },
+    {
+      "Genus": "Helogenes",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cetopsidae/helogenes.json"
+    },
+    {
+      "Genus": "Paracetopsis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cetopsidae/paracetopsis.json"
+    }
+  ]
+}

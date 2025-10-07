@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Anarchias allardicei",
+    "SpecCode": "6483",
+    "CommonName": "Allardice's moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias cantonensis",
+    "SpecCode": "6484",
+    "CommonName": "Canton Island moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias euryurus",
+    "SpecCode": "9029",
+    "CommonName": "Anarchias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias exulatus",
+    "SpecCode": "65812",
+    "CommonName": "Pagu-siugmureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias galapagensis",
+    "SpecCode": "13779",
+    "CommonName": "Hardtail moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias leucurus",
+    "SpecCode": "58622",
+    "CommonName": "Drep",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias longicauda",
+    "SpecCode": "58601",
+    "CommonName": "Muréna dlouhoocasá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias schultzi",
+    "SpecCode": "65813",
+    "CommonName": "Schultzi siugmureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias seychellensis",
+    "SpecCode": "6485",
+    "CommonName": "Marbled reef-eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias similis",
+    "SpecCode": "2608",
+    "CommonName": "Kääbus-siugmureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarchias supremus",
+    "SpecCode": "64573",
+    "CommonName": "Ruske siugmureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

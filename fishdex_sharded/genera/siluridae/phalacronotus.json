@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Phalacronotus apogon",
+    "SpecCode": "16143",
+    "CommonName": "Kes",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phalacronotus bleekeri",
+    "SpecCode": "14499",
+    "CommonName": "Cá ket",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phalacronotus micronemus",
+    "SpecCode": "23096",
+    "CommonName": "Lais bangah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phalacronotus parvanalis",
+    "SpecCode": "23103",
+    "CommonName": "小臀缺鰭鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

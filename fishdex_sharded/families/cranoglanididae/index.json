@@ -1,0 +1,12 @@
+{
+  "Family": "Cranoglanididae",
+  "Order": "Siluriformes",
+  "Common": "Armorhead catfishes",
+  "Genera": [
+    {
+      "Genus": "Cranoglanis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cranoglanididae/cranoglanis.json"
+    }
+  ]
+}

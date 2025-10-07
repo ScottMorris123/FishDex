@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Neblinichthys brevibracchium",
+    "SpecCode": "65793",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neblinichthys echinasus",
+    "SpecCode": "65794",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neblinichthys peniculatus",
+    "SpecCode": "66852",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neblinichthys pilosus",
+    "SpecCode": "50234",
+    "CommonName": "Piikkikuonopleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neblinichthys roraima",
+    "SpecCode": "51568",
+    "CommonName": "南美尼布鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neblinichthys yaravi",
+    "SpecCode": "49979",
+    "CommonName": "Yaravi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

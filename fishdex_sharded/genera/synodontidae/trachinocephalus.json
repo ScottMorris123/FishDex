@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Trachinocephalus atrisignis",
+    "SpecCode": "70223",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinocephalus gauguini",
+    "SpecCode": "68867",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinocephalus myops",
+    "SpecCode": "2724",
+    "CommonName": "Anoli serpent",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinocephalus trachinus",
+    "SpecCode": "69559",
+    "CommonName": "Aesi puti",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

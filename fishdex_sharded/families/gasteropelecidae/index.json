@@ -1,0 +1,22 @@
+{
+  "Family": "Gasteropelecidae",
+  "Order": "Characiformes",
+  "Common": "Freshwater hatchetfishes",
+  "Genera": [
+    {
+      "Genus": "Carnegiella",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gasteropelecidae/carnegiella.json"
+    },
+    {
+      "Genus": "Gasteropelecus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gasteropelecidae/gasteropelecus.json"
+    },
+    {
+      "Genus": "Thoracocharax",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gasteropelecidae/thoracocharax.json"
+    }
+  ]
+}

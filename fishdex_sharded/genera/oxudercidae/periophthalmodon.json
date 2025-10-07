@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Periophthalmodon freycineti",
+    "SpecCode": "7479",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmodon schlosseri",
+    "SpecCode": "8414",
+    "CommonName": "Belacak",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmodon septemradiatus",
+    "SpecCode": "25083",
+    "CommonName": "Hopealiejuryömijä",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

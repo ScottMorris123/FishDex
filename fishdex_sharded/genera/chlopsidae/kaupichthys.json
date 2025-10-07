@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Kaupichthys atronasus",
+    "SpecCode": "17389",
+    "CommonName": "Blacknose false moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kaupichthys brachychirus",
+    "SpecCode": "17390",
+    "CommonName": "Lühiuim-riffangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kaupichthys diodontus",
+    "SpecCode": "25703",
+    "CommonName": "Common false moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kaupichthys hyoproroides",
+    "SpecCode": "2606",
+    "CommonName": "Anguililla de arrecife",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kaupichthys japonicus",
+    "SpecCode": "58825",
+    "CommonName": "Jaapani riffangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kaupichthys nuchalis",
+    "SpecCode": "2607",
+    "CommonName": "Anguililla de collar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

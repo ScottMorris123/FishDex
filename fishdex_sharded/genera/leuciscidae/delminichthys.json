@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Delminichthys adspersus",
+    "SpecCode": "26628",
+    "CommonName": "Slunka skvrnitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Delminichthys ghetaldii",
+    "SpecCode": "26629",
+    "CommonName": "Ghetaldi dalmaatsiateibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Delminichthys jadovensis",
+    "SpecCode": "61920",
+    "CommonName": "Jadova dalmaatsiateibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Delminichthys krbavensis",
+    "SpecCode": "61921",
+    "CommonName": "Krbava dalmaatsiateibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

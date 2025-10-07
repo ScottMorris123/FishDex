@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Symphysodon aequifasciatus",
+    "SpecCode": "11185",
+    "CommonName": "Acará disco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphysodon discus",
+    "SpecCode": "11186",
+    "CommonName": "Acará bararuá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphysodon tarzoo",
+    "SpecCode": "66611",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

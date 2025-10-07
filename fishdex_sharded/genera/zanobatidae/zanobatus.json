@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Zanobatus maculatus",
+    "SpecCode": "68477",
+    "CommonName": "Maculate panray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zanobatus schoenleinii",
+    "SpecCode": "5043",
+    "CommonName": "Afrikaanse panrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

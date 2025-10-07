@@ -1,0 +1,579 @@
+[
+  {
+    "ScientificName": "Oxynoemacheilus anatolicus",
+    "SpecCode": "64651",
+    "CommonName": "Burdur loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus angorae",
+    "SpecCode": "25993",
+    "CommonName": "Angoora koontrulling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus araxensis",
+    "SpecCode": "55313",
+    "CommonName": "Araksi koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus argyrogramma",
+    "SpecCode": "46530",
+    "CommonName": "Cöpçü baligi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus arsaniasus",
+    "SpecCode": "69643",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus atili",
+    "SpecCode": "66833",
+    "CommonName": "Atili koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus banarescui",
+    "SpecCode": "63143",
+    "CommonName": "Bănărescu koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus bergi",
+    "SpecCode": "69641",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus bergianus",
+    "SpecCode": "55311",
+    "CommonName": "Bergi koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus brandtii",
+    "SpecCode": "26135",
+    "CommonName": "Brandti koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus bureschi",
+    "SpecCode": "57455",
+    "CommonName": "Bulgarian stone loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus cemali",
+    "SpecCode": "69640",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus ceyhanensis",
+    "SpecCode": "63293",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus chomanicus",
+    "SpecCode": "67285",
+    "CommonName": "Chomani koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus ciceki",
+    "SpecCode": "68700",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus cilicicus",
+    "SpecCode": "69642",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus cinicus",
+    "SpecCode": "63286",
+    "CommonName": "Cini koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus cyri",
+    "SpecCode": "67101",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus elsae",
+    "SpecCode": "69639",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus ercisianus",
+    "SpecCode": "66446",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus erdali",
+    "SpecCode": "63290",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus eregliensis",
+    "SpecCode": "63145",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus euphraticus",
+    "SpecCode": "68530",
+    "CommonName": "Mřenka eufratská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus evreni",
+    "SpecCode": "63295",
+    "CommonName": "Ceyhan sportive loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus frenatus",
+    "SpecCode": "54796",
+    "CommonName": "Banded Tigris loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus galilaeus",
+    "SpecCode": "27846",
+    "CommonName": "Galilea koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus germencicus",
+    "SpecCode": "63275",
+    "CommonName": "Carian loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus gyndes",
+    "SpecCode": "68528",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus hamwii",
+    "SpecCode": "54800",
+    "CommonName": "Hamwi koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus hanae",
+    "SpecCode": "68529",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus hazarensis",
+    "SpecCode": "68531",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus insignis",
+    "SpecCode": "26495",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus kaynaki",
+    "SpecCode": "64652",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus kentritensis",
+    "SpecCode": "68654",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus kermanshahensis",
+    "SpecCode": "54797",
+    "CommonName": "Karuni koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus kiabii",
+    "SpecCode": "66360",
+    "CommonName": "Kiabi koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus kosswigi",
+    "SpecCode": "64759",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus kurdistanicus",
+    "SpecCode": "67283",
+    "CommonName": "Kurdistani koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus lenkoranensis",
+    "SpecCode": "67105",
+    "CommonName": "Lenkorani koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus leontinae",
+    "SpecCode": "27853",
+    "CommonName": "Liibanoni koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus longipinnis",
+    "SpecCode": "64500",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus mediterraneus",
+    "SpecCode": "63287",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus merga",
+    "SpecCode": "47855",
+    "CommonName": "Caucasus stone loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus mesudae",
+    "SpecCode": "66832",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus muefiti",
+    "SpecCode": "69644",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus namiri",
+    "SpecCode": "60839",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus panthera",
+    "SpecCode": "26499",
+    "CommonName": "Binun nemeri",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus parvinae",
+    "SpecCode": "68275",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus paucilepis",
+    "SpecCode": "63292",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus persa",
+    "SpecCode": "55315",
+    "CommonName": "Mřenka perská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus phasicus",
+    "SpecCode": "69637",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus phoxinoides",
+    "SpecCode": "63288",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus pindus",
+    "SpecCode": "46532",
+    "CommonName": "Pindose koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus samanticus",
+    "SpecCode": "63596",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus seyhanensis",
+    "SpecCode": "63673",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus seyhanicola",
+    "SpecCode": "63294",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus shehabi",
+    "SpecCode": "69612",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus simavicus",
+    "SpecCode": "63144",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus theophilii",
+    "SpecCode": "63189",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus tigris",
+    "SpecCode": "26498",
+    "CommonName": "Aleppo koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus tongiorgii",
+    "SpecCode": "55317",
+    "CommonName": "Mřenka kulská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus veyseli",
+    "SpecCode": "69638",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus zagrosensis",
+    "SpecCode": "67284",
+    "CommonName": "Zagrose koontrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynoemacheilus zarzianus",
+    "SpecCode": "68527",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

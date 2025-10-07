@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Xiphister atropurpureus",
+    "SpecCode": "3797",
+    "CommonName": "Abrojo negro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xiphister mucosus",
+    "SpecCode": "3798",
+    "CommonName": "Klippebuskhoved",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

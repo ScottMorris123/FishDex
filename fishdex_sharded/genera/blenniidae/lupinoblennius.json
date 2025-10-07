@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Lupinoblennius nicholsi",
+    "SpecCode": "3767",
+    "CommonName": "Borracho aletón",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lupinoblennius paivai",
+    "SpecCode": "61380",
+    "CommonName": "Paiva's blenny",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lupinoblennius vinctus",
+    "SpecCode": "48360",
+    "CommonName": "Blenio cejudo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ScientificName": "Lamnostoma kampeni",
+    "SpecCode": "25484",
+    "CommonName": "Anguille serpent",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamnostoma mindora",
+    "SpecCode": "17268",
+    "CommonName": "Hadař mindorský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamnostoma orientale",
+    "SpecCode": "11728",
+    "CommonName": "Anguille serpent",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamnostoma polyophthalmum",
+    "SpecCode": "23867",
+    "CommonName": "Anguille serpent",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamnostoma taylori",
+    "SpecCode": "27632",
+    "CommonName": "Hadař taylorův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Scophthalmus aquosus",
+    "SpecCode": "530",
+    "CommonName": "Amerikansk slethvarre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scophthalmus maeoticus",
+    "SpecCode": "57861",
+    "CommonName": "Black Sea brill",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scophthalmus maximus",
+    "SpecCode": "1348",
+    "CommonName": "akmeņplekste",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scophthalmus rhombus",
+    "SpecCode": "529",
+    "CommonName": "Barbue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

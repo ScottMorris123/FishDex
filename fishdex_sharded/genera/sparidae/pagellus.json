@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Pagellus acarne",
+    "SpecCode": "889",
+    "CommonName": "Achselfleckbrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagellus affinis",
+    "SpecCode": "14398",
+    "CommonName": "Andak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagellus bellottii",
+    "SpecCode": "436",
+    "CommonName": "Alhot Lachmar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagellus bogaraveo",
+    "SpecCode": "890",
+    "CommonName": "Albaro bastardo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagellus erythrinus",
+    "SpecCode": "893",
+    "CommonName": "Albaro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagellus natalensis",
+    "SpecCode": "437",
+    "CommonName": "Besugo de Natal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

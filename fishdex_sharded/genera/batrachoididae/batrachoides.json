@@ -1,0 +1,91 @@
+[
+  {
+    "ScientificName": "Batrachoides boulengeri",
+    "SpecCode": "13538",
+    "CommonName": "Boulenger's toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachoides gilberti",
+    "SpecCode": "53099",
+    "CommonName": "Large-eye toadfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachoides goldmani",
+    "SpecCode": "53575",
+    "CommonName": "Mexican freshwater toadfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachoides liberiensis",
+    "SpecCode": "4933",
+    "CommonName": "Baa toto",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachoides manglae",
+    "SpecCode": "968",
+    "CommonName": "Cotuero toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachoides pacifici",
+    "SpecCode": "13540",
+    "CommonName": "Bruja",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachoides surinamensis",
+    "SpecCode": "969",
+    "CommonName": "Bodião",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachoides walkeri",
+    "SpecCode": "13542",
+    "CommonName": "Crapaud de Walker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrachoides waltersi",
+    "SpecCode": "13543",
+    "CommonName": "Crapaud de Walter",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

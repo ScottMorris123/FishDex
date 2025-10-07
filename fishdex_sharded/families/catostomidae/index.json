@@ -1,0 +1,72 @@
+{
+  "Family": "Catostomidae",
+  "Order": "Cypriniformes",
+  "Common": "Suckers",
+  "Genera": [
+    {
+      "Genus": "Carpiodes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/catostomidae/carpiodes.json"
+    },
+    {
+      "Genus": "Catostomus",
+      "SpeciesCount": 28,
+      "genus_path": "genera/catostomidae/catostomus.json"
+    },
+    {
+      "Genus": "Chasmistes",
+      "SpeciesCount": 5,
+      "genus_path": "genera/catostomidae/chasmistes.json"
+    },
+    {
+      "Genus": "Cycleptus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/catostomidae/cycleptus.json"
+    },
+    {
+      "Genus": "Deltistes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/catostomidae/deltistes.json"
+    },
+    {
+      "Genus": "Erimyzon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/catostomidae/erimyzon.json"
+    },
+    {
+      "Genus": "Hypentelium",
+      "SpeciesCount": 3,
+      "genus_path": "genera/catostomidae/hypentelium.json"
+    },
+    {
+      "Genus": "Ictiobus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/catostomidae/ictiobus.json"
+    },
+    {
+      "Genus": "Minytrema",
+      "SpeciesCount": 1,
+      "genus_path": "genera/catostomidae/minytrema.json"
+    },
+    {
+      "Genus": "Moxostoma",
+      "SpeciesCount": 22,
+      "genus_path": "genera/catostomidae/moxostoma.json"
+    },
+    {
+      "Genus": "Myxocyprinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/catostomidae/myxocyprinus.json"
+    },
+    {
+      "Genus": "Thoburnia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/catostomidae/thoburnia.json"
+    },
+    {
+      "Genus": "Xyrauchen",
+      "SpeciesCount": 1,
+      "genus_path": "genera/catostomidae/xyrauchen.json"
+    }
+  ]
+}

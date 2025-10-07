@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Cheilotrema fasciatum",
+    "SpecCode": "52915",
+    "CommonName": "Lõuna-tahmkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilotrema saturnum",
+    "SpecCode": "3580",
+    "CommonName": "Black croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

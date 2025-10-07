@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Amphichaetodon howensis",
+    "SpecCode": "12529",
+    "CommonName": "Broad-barred butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphichaetodon melbae",
+    "SpecCode": "10293",
+    "CommonName": "Melba's butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

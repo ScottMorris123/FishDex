@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Parakysis anomalopteryx",
+    "SpecCode": "12745",
+    "CommonName": "糙鰭副粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parakysis grandis",
+    "SpecCode": "27401",
+    "CommonName": "大副粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parakysis hystriculus",
+    "SpecCode": "64856",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parakysis longirostris",
+    "SpecCode": "27402",
+    "CommonName": "Longnose little warty catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parakysis notialis",
+    "SpecCode": "61511",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parakysis verrucosus",
+    "SpecCode": "23313",
+    "CommonName": "馬來西亞副粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

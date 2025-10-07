@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Oplegnathus conwayi",
+    "SpecCode": "5515",
+    "CommonName": "Beaked galjoen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oplegnathus fasciatus",
+    "SpecCode": "6532",
+    "CommonName": "Barred knifejaw",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oplegnathus insignis",
+    "SpecCode": "8200",
+    "CommonName": "Loro negro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oplegnathus peaolopesi",
+    "SpecCode": "7891",
+    "CommonName": "Mosambiekse kraaibek",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oplegnathus punctatus",
+    "SpecCode": "6538",
+    "CommonName": "Ca dia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oplegnathus robinsoni",
+    "SpecCode": "6529",
+    "CommonName": "Natal knifejaw",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oplegnathus woodwardi",
+    "SpecCode": "14409",
+    "CommonName": "Conway",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gibbonsia elegans",
+    "SpecCode": "3723",
+    "CommonName": "Sargacero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gibbonsia metzi",
+    "SpecCode": "3725",
+    "CommonName": "Sargacero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gibbonsia montereyensis",
+    "SpecCode": "3726",
+    "CommonName": "Crevice kelpfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

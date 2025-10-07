@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Cottunculus granulosus",
+    "SpecCode": "51209",
+    "CommonName": "Fathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottunculus microps",
+    "SpecCode": "9199",
+    "CommonName": "Almindelig paddeulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottunculus nudus",
+    "SpecCode": "47424",
+    "CommonName": "Bonyskull toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottunculus spinosus",
+    "SpecCode": "16874",
+    "CommonName": "Ogahärjake",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottunculus thomsonii",
+    "SpecCode": "15623",
+    "CommonName": "Cotte blême",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottunculus tubulosus",
+    "SpecCode": "63507",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

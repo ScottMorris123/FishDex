@@ -1,0 +1,17 @@
+{
+  "Family": "Regalecidae",
+  "Order": "Lampriformes",
+  "Common": "Oarfishes",
+  "Genera": [
+    {
+      "Genus": "Agrostichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/regalecidae/agrostichthys.json"
+    },
+    {
+      "Genus": "Regalecus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/regalecidae/regalecus.json"
+    }
+  ]
+}

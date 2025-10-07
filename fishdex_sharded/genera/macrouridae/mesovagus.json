@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Mesovagus antipodum",
+    "SpecCode": "16774",
+    "CommonName": "Bathypelagic rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesovagus berryi",
+    "SpecCode": "13853",
+    "CommonName": "Berry's grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

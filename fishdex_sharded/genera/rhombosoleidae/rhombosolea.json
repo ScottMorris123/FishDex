@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Rhombosolea leporina",
+    "SpecCode": "12949",
+    "CommonName": "Gulbuget flynder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhombosolea plebeia",
+    "SpecCode": "12950",
+    "CommonName": "Dab",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhombosolea retiaria",
+    "SpecCode": "12951",
+    "CommonName": "Black flounder",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhombosolea tapirina",
+    "SpecCode": "8889",
+    "CommonName": "Greenback flounder",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

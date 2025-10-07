@@ -1,0 +1,228 @@
+[
+  {
+    "ScientificName": "Ctenogobius aestivaregia",
+    "SpecCode": "60424",
+    "CommonName": "夏宫吻鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius boleosoma",
+    "SpecCode": "3858",
+    "CommonName": "Amoré",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius cervicosquamus",
+    "SpecCode": "55205",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius chengtuensis",
+    "SpecCode": "59395",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius chusanensis",
+    "SpecCode": "67673",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius clarki",
+    "SpecCode": "59366",
+    "CommonName": "喀氏吻鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius claytonii",
+    "SpecCode": "62531",
+    "CommonName": "Blackfin goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius fasciatus",
+    "SpecCode": "15792",
+    "CommonName": "Blackbar Goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius fukushimai",
+    "SpecCode": "59378",
+    "CommonName": "福岛吻鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius lepturus",
+    "SpecCode": "11702",
+    "CommonName": "小尾栉鰕虎鱼",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius manglicola",
+    "SpecCode": "46905",
+    "CommonName": "Gobio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius phenacus",
+    "SpecCode": "55530",
+    "CommonName": "Impostor goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius pseudofasciatus",
+    "SpecCode": "3863",
+    "CommonName": "Slashcheek goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius saepepallens",
+    "SpecCode": "3864",
+    "CommonName": "Comma goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius sagittula",
+    "SpecCode": "3861",
+    "CommonName": "Barba de choclo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius shennongensis",
+    "SpecCode": "59359",
+    "CommonName": "神农吻鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius shufeldti",
+    "SpecCode": "3865",
+    "CommonName": "American freshwater goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius smaragdus",
+    "SpecCode": "3866",
+    "CommonName": "Amoré",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius stigmaticus",
+    "SpecCode": "3868",
+    "CommonName": "Amoré",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius stigmaturus",
+    "SpecCode": "3869",
+    "CommonName": "Spottail Goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius szechuanensis",
+    "SpecCode": "60225",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius thoropsis",
+    "SpecCode": "55529",
+    "CommonName": "Sperm goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobius vexillifer",
+    "SpecCode": "66720",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Aspasmogaster costata",
+    "SpecCode": "55705",
+    "CommonName": "Broad clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aspasmogaster liorhynchus",
+    "SpecCode": "51506",
+    "CommonName": "Smoothsnout clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aspasmogaster occidentalis",
+    "SpecCode": "55709",
+    "CommonName": "Western clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aspasmogaster tasmaniensis",
+    "SpecCode": "51505",
+    "CommonName": "Tasmanian clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

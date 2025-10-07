@@ -1,0 +1,109 @@
+[
+  {
+    "ScientificName": "Pungitius bussei",
+    "SpecCode": "63404",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius hellenicus",
+    "SpecCode": "10540",
+    "CommonName": "Ellinopygósteos",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius laevis",
+    "SpecCode": "48259",
+    "CommonName": "epinochette a queue lisse",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius modestus",
+    "SpecCode": "69517",
+    "CommonName": "Kakure-tomiyo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius platygaster",
+    "SpecCode": "22914",
+    "CommonName": "Aral stickleback",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius polyakovi",
+    "SpecCode": "66020",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius pungitius",
+    "SpecCode": "3273",
+    "CommonName": "Barnstickle",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius sinensis",
+    "SpecCode": "24828",
+    "CommonName": "Amur ninespine stickleback",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius stenurus",
+    "SpecCode": "66132",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius tymensis",
+    "SpecCode": "23612",
+    "CommonName": "Ezo-tomiyo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pungitius vulgaris",
+    "SpecCode": "69629",
+    "CommonName": "Epinochette marichaud",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

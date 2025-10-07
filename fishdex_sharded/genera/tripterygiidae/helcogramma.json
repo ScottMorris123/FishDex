@@ -1,0 +1,363 @@
+[
+  {
+    "ScientificName": "Helcogramma albimacula",
+    "SpecCode": "61867",
+    "CommonName": "Whitespot triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma alkamr",
+    "SpecCode": "64604",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma aquila",
+    "SpecCode": "15960",
+    "CommonName": "Blacktail triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma ascensionis",
+    "SpecCode": "67644",
+    "CommonName": "Ascension triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma atauroensis",
+    "SpecCode": "68360",
+    "CommonName": "Red-anal triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma billi",
+    "SpecCode": "8501",
+    "CommonName": "比尔氏弯线鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma capidata",
+    "SpecCode": "8502",
+    "CommonName": "Hooded triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma cerasina",
+    "SpecCode": "61868",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma chica",
+    "SpecCode": "8503",
+    "CommonName": "Little hooded triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma decurrens",
+    "SpecCode": "8506",
+    "CommonName": "Blackthroat threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma desa",
+    "SpecCode": "61869",
+    "CommonName": "Neglected triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma ellioti",
+    "SpecCode": "8507",
+    "CommonName": "Red-eye threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma ememes",
+    "SpecCode": "64605",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma fuscipectoris",
+    "SpecCode": "51563",
+    "CommonName": "Fourspot triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma fuscopinna",
+    "SpecCode": "8508",
+    "CommonName": "Blackfin triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma gymnauchen",
+    "SpecCode": "13577",
+    "CommonName": "Kuromasuku",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma hudsoni",
+    "SpecCode": "14204",
+    "CommonName": "Hudson's triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma inclinata",
+    "SpecCode": "51565",
+    "CommonName": "Aya-hebiginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma kranos",
+    "SpecCode": "51566",
+    "CommonName": "Helmet triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma lacuna",
+    "SpecCode": "61888",
+    "CommonName": "Cavern triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma larvata",
+    "SpecCode": "25692",
+    "CommonName": "蠕弯线鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma maldivensis",
+    "SpecCode": "25691",
+    "CommonName": "馬爾代夫島彎線鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma microstigma",
+    "SpecCode": "64606",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma nesion",
+    "SpecCode": "61889",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma nigra",
+    "SpecCode": "61891",
+    "CommonName": "Rotuma triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma novaecaledoniae",
+    "SpecCode": "47159",
+    "CommonName": "New Caledonia triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma obtusirostris",
+    "SpecCode": "8046",
+    "CommonName": "Hotlips triplefin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma randalli",
+    "SpecCode": "61900",
+    "CommonName": "Randall's triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma rharhabe",
+    "SpecCode": "64607",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma rhinoceros",
+    "SpecCode": "8510",
+    "CommonName": "Rhino threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma rosea",
+    "SpecCode": "64608",
+    "CommonName": "Rosy triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma serendip",
+    "SpecCode": "64609",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma shinglensis",
+    "SpecCode": "67066",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma solorensis",
+    "SpecCode": "51567",
+    "CommonName": "Solor triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma springeri",
+    "SpecCode": "8511",
+    "CommonName": "Springer's threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma steinitzi",
+    "SpecCode": "26343",
+    "CommonName": "Red triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma striata",
+    "SpecCode": "8514",
+    "CommonName": "Lined Triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma trigloides",
+    "SpecCode": "23562",
+    "CommonName": "Aya-hebiginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma vulcana",
+    "SpecCode": "12758",
+    "CommonName": "Volcano triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogramma williamsi",
+    "SpecCode": "67176",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "ScientificName": "Ariopsis assimilis",
+    "SpecCode": "945",
+    "CommonName": "Bagre maya",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariopsis canteri",
+    "SpecCode": "69296",
+    "CommonName": "Chivo cabezón",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariopsis felis",
+    "SpecCode": "947",
+    "CommonName": "Arievyi som",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariopsis gilberti",
+    "SpecCode": "70590",
+    "CommonName": "Tete sea catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariopsis guatemalensis",
+    "SpecCode": "13471",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariopsis jimenezi",
+    "SpecCode": "69297",
+    "CommonName": "Jimenez's sea catfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariopsis seemanni",
+    "SpecCode": "13480",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariopsis simonsi",
+    "SpecCode": "70592",
+    "CommonName": "Canchimala blanca",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

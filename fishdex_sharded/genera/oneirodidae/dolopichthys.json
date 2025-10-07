@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Dolopichthys allector",
+    "SpecCode": "57269",
+    "CommonName": "狡鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolopichthys danae",
+    "SpecCode": "16904",
+    "CommonName": "达纳狡鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolopichthys dinema",
+    "SpecCode": "16907",
+    "CommonName": "双线狡鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolopichthys jubatus",
+    "SpecCode": "16909",
+    "CommonName": "朱巴狡鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolopichthys karsteni",
+    "SpecCode": "61000",
+    "CommonName": "卡氏狡鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolopichthys longicornis",
+    "SpecCode": "16912",
+    "CommonName": "Langsnudet mareangler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolopichthys pullatus",
+    "SpecCode": "16921",
+    "CommonName": "Lobed dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

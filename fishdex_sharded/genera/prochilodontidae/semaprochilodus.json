@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Semaprochilodus brama",
+    "SpecCode": "51253",
+    "CommonName": "Evähuulitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semaprochilodus insignis",
+    "SpecCode": "25658",
+    "CommonName": "Bocachico",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semaprochilodus kneri",
+    "SpecCode": "51237",
+    "CommonName": "Bocochico del Orinoco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semaprochilodus laticeps",
+    "SpecCode": "53149",
+    "CommonName": "Sapuara del Orinoco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semaprochilodus taeniurus",
+    "SpecCode": "11898",
+    "CommonName": "Jaraqui",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semaprochilodus varii",
+    "SpecCode": "27830",
+    "CommonName": "Colmata",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

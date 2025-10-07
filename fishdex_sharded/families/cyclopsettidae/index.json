@@ -1,0 +1,27 @@
+{
+  "Family": "Cyclopsettidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Sand whiffs",
+  "Genera": [
+    {
+      "Genus": "Citharichthys",
+      "SpeciesCount": 24,
+      "genus_path": "genera/cyclopsettidae/citharichthys.json"
+    },
+    {
+      "Genus": "Cyclopsetta",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cyclopsettidae/cyclopsetta.json"
+    },
+    {
+      "Genus": "Etropus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/cyclopsettidae/etropus.json"
+    },
+    {
+      "Genus": "Syacium",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cyclopsettidae/syacium.json"
+    }
+  ]
+}

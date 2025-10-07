@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Abbottina binhi",
+    "SpecCode": "62797",
+    "CommonName": "Vietnami abbotin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abbottina lalinensis",
+    "SpecCode": "65146",
+    "CommonName": "À­ÁÖ°ô»¨Óã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abbottina liaoningensis",
+    "SpecCode": "55145",
+    "CommonName": "Hrouzkovka čínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abbottina obtusirostris",
+    "SpecCode": "55143",
+    "CommonName": "Tömpkoon-abbottiin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abbottina rivularis",
+    "SpecCode": "22903",
+    "CommonName": "Aasiantörö",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

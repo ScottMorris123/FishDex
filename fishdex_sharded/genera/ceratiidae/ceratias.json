@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ceratias holboelli",
+    "SpecCode": "4572",
+    "CommonName": "Biwa-ankô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ceratias tentaculatus",
+    "SpecCode": "7142",
+    "CommonName": "Grand pêcheur abyssal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ceratias uranoscopus",
+    "SpecCode": "16972",
+    "CommonName": "Stargazing seadevil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

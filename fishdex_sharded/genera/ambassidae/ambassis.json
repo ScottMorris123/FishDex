@@ -1,0 +1,210 @@
+[
+  {
+    "ScientificName": "Ambassis agassizii",
+    "SpecCode": "10550",
+    "CommonName": "Agassiz's chanda perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis agrammus",
+    "SpecCode": "15124",
+    "CommonName": "Chanda perch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis ambassis",
+    "SpecCode": "61467",
+    "CommonName": "Akimbatsy",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis buruensis",
+    "SpecCode": "11783",
+    "CommonName": "Buru glass perchlet",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis buton",
+    "SpecCode": "25122",
+    "CommonName": "Buton glassy perchlet",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis dussumieri",
+    "SpecCode": "9899",
+    "CommonName": "Ambache de Dussumier",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis elongata",
+    "SpecCode": "10551",
+    "CommonName": "Disco fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis fontoynonti",
+    "SpecCode": "9900",
+    "CommonName": "封氏双边鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis gymnocephalus",
+    "SpecCode": "4806",
+    "CommonName": "Ambache",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis interrupta",
+    "SpecCode": "5153",
+    "CommonName": "Glass perch",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis jacksoniensis",
+    "SpecCode": "15126",
+    "CommonName": "Port Jackson glassfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis kopsii",
+    "SpecCode": "5982",
+    "CommonName": "Cá son bièn",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis macleayi",
+    "SpecCode": "15128",
+    "CommonName": "Kuultolasiahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis macracanthus",
+    "SpecCode": "24793",
+    "CommonName": "Estuarine glass perchlet",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis marianus",
+    "SpecCode": "15129",
+    "CommonName": "Estuary glassfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis miops",
+    "SpecCode": "9234",
+    "CommonName": "Flagtail glassfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis nalua",
+    "SpecCode": "15133",
+    "CommonName": "Aringil",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis natalensis",
+    "SpecCode": "8016",
+    "CommonName": "Ambache",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis urotaenia",
+    "SpecCode": "9235",
+    "CommonName": "Ambache",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambassis vachellii",
+    "SpecCode": "15135",
+    "CommonName": "Telkara perchlet",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

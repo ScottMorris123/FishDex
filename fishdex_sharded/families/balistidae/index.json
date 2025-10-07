@@ -1,0 +1,67 @@
+{
+  "Family": "Balistidae",
+  "Order": "Tetraodontiformes",
+  "Common": "Triggerfishes",
+  "Genera": [
+    {
+      "Genus": "Abalistes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/balistidae/abalistes.json"
+    },
+    {
+      "Genus": "Balistapus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/balistidae/balistapus.json"
+    },
+    {
+      "Genus": "Balistes",
+      "SpeciesCount": 5,
+      "genus_path": "genera/balistidae/balistes.json"
+    },
+    {
+      "Genus": "Balistoides",
+      "SpeciesCount": 2,
+      "genus_path": "genera/balistidae/balistoides.json"
+    },
+    {
+      "Genus": "Canthidermis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/balistidae/canthidermis.json"
+    },
+    {
+      "Genus": "Melichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/balistidae/melichthys.json"
+    },
+    {
+      "Genus": "Odonus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/balistidae/odonus.json"
+    },
+    {
+      "Genus": "Pseudobalistes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/balistidae/pseudobalistes.json"
+    },
+    {
+      "Genus": "Rhinecanthus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/balistidae/rhinecanthus.json"
+    },
+    {
+      "Genus": "Sufflamen",
+      "SpeciesCount": 5,
+      "genus_path": "genera/balistidae/sufflamen.json"
+    },
+    {
+      "Genus": "Xanthichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/balistidae/xanthichthys.json"
+    },
+    {
+      "Genus": "Xenobalistes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/balistidae/xenobalistes.json"
+    }
+  ]
+}

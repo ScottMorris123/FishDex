@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Squaliolus aliae",
+    "SpecCode": "27208",
+    "CommonName": "Kleinoogdwerghaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squaliolus laticaudus",
+    "SpecCode": "705",
+    "CommonName": "Cação-espinho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

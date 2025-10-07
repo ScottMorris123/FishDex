@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Brotula barbata",
+    "SpecCode": "486",
+    "CommonName": "Abrótea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brotula clarkae",
+    "SpecCode": "8275",
+    "CommonName": "Brótula de Clark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brotula flaviviridis",
+    "SpecCode": "63422",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brotula multibarbata",
+    "SpecCode": "7297",
+    "CommonName": "Abrótia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brotula ordwayi",
+    "SpecCode": "46086",
+    "CommonName": "Chilindrina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brotula phenax",
+    "SpecCode": "70474",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brotula townsendi",
+    "SpecCode": "17414",
+    "CommonName": "ketevatu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

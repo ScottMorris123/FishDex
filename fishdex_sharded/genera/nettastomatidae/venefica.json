@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Venefica multiporosa",
+    "SpecCode": "58714",
+    "CommonName": "Poorpea-nõidangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Venefica ocella",
+    "SpecCode": "58713",
+    "CommonName": "Štíhlohlavec očkatý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Venefica proboscidea",
+    "SpecCode": "9073",
+    "CommonName": "Lont-nõidangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Venefica procera",
+    "SpecCode": "58711",
+    "CommonName": "Pikk nõidangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Venefica tentaculata",
+    "SpecCode": "22599",
+    "CommonName": "Kiseru-kuzu-anago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

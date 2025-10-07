@@ -1,0 +1,162 @@
+{
+  "Family": "Anthiadidae",
+  "Order": "Perciformes/Serranoidei",
+  "Common": "Fairy basslets or Streamer basses",
+  "Genera": [
+    {
+      "Genus": "Acanthistius",
+      "SpeciesCount": 11,
+      "genus_path": "genera/anthiadidae/acanthistius.json"
+    },
+    {
+      "Genus": "Anatolanthias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anthiadidae/anatolanthias.json"
+    },
+    {
+      "Genus": "Anthias",
+      "SpeciesCount": 8,
+      "genus_path": "genera/anthiadidae/anthias.json"
+    },
+    {
+      "Genus": "Baldwinella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anthiadidae/baldwinella.json"
+    },
+    {
+      "Genus": "Caesioperca",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anthiadidae/caesioperca.json"
+    },
+    {
+      "Genus": "Caprodon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/anthiadidae/caprodon.json"
+    },
+    {
+      "Genus": "Choranthias",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anthiadidae/choranthias.json"
+    },
+    {
+      "Genus": "Dactylanthias",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anthiadidae/dactylanthias.json"
+    },
+    {
+      "Genus": "Epinephelides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anthiadidae/epinephelides.json"
+    },
+    {
+      "Genus": "Giganthias",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anthiadidae/giganthias.json"
+    },
+    {
+      "Genus": "Hemanthias",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anthiadidae/hemanthias.json"
+    },
+    {
+      "Genus": "Holanthias",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anthiadidae/holanthias.json"
+    },
+    {
+      "Genus": "Hypoplectrodes",
+      "SpeciesCount": 8,
+      "genus_path": "genera/anthiadidae/hypoplectrodes.json"
+    },
+    {
+      "Genus": "Lepidoperca",
+      "SpeciesCount": 10,
+      "genus_path": "genera/anthiadidae/lepidoperca.json"
+    },
+    {
+      "Genus": "Luzonichthys",
+      "SpeciesCount": 8,
+      "genus_path": "genera/anthiadidae/luzonichthys.json"
+    },
+    {
+      "Genus": "Meganthias",
+      "SpeciesCount": 4,
+      "genus_path": "genera/anthiadidae/meganthias.json"
+    },
+    {
+      "Genus": "Mirolabrichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anthiadidae/mirolabrichthys.json"
+    },
+    {
+      "Genus": "Nemanthias",
+      "SpeciesCount": 5,
+      "genus_path": "genera/anthiadidae/nemanthias.json"
+    },
+    {
+      "Genus": "Odontanthias",
+      "SpeciesCount": 16,
+      "genus_path": "genera/anthiadidae/odontanthias.json"
+    },
+    {
+      "Genus": "Othos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anthiadidae/othos.json"
+    },
+    {
+      "Genus": "Plectranthias",
+      "SpeciesCount": 64,
+      "genus_path": "genera/anthiadidae/plectranthias.json"
+    },
+    {
+      "Genus": "Pronotogrammus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anthiadidae/pronotogrammus.json"
+    },
+    {
+      "Genus": "Pseudanthias",
+      "SpeciesCount": 51,
+      "genus_path": "genera/anthiadidae/pseudanthias.json"
+    },
+    {
+      "Genus": "Pyronotanthias",
+      "SpeciesCount": 9,
+      "genus_path": "genera/anthiadidae/pyronotanthias.json"
+    },
+    {
+      "Genus": "Rabaulichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/anthiadidae/rabaulichthys.json"
+    },
+    {
+      "Genus": "Sacura",
+      "SpeciesCount": 5,
+      "genus_path": "genera/anthiadidae/sacura.json"
+    },
+    {
+      "Genus": "Selenanthias",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anthiadidae/selenanthias.json"
+    },
+    {
+      "Genus": "Serranocirrhitus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anthiadidae/serranocirrhitus.json"
+    },
+    {
+      "Genus": "Tosana",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anthiadidae/tosana.json"
+    },
+    {
+      "Genus": "Tosanoides",
+      "SpeciesCount": 5,
+      "genus_path": "genera/anthiadidae/tosanoides.json"
+    },
+    {
+      "Genus": "Trachypoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anthiadidae/trachypoma.json"
+    }
+  ]
+}

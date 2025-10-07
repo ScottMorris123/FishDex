@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Megalobrama amblycephala",
+    "SpecCode": "285",
+    "CommonName": "Blunt snout bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megalobrama elongata",
+    "SpecCode": "56034",
+    "CommonName": "Cejnovec protáhlý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megalobrama mantschuricus",
+    "SpecCode": "62363",
+    "CommonName": "Black Amur bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megalobrama pellegrini",
+    "SpecCode": "56033",
+    "CommonName": "Cejnovec Pellegrinův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megalobrama terminalis",
+    "SpecCode": "4789",
+    "CommonName": "Black amur bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

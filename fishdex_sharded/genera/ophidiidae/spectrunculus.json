@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Spectrunculus crassus",
+    "SpecCode": "65975",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spectrunculus grandis",
+    "SpecCode": "8991",
+    "CommonName": "Abadèche boulotte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Hippoglossus hippoglossus",
+    "SpecCode": "1371",
+    "CommonName": "Alabote",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossus stenolepis",
+    "SpecCode": "514",
+    "CommonName": "Alabato del Pacifico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

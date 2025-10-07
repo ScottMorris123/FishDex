@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Pronothobranchius chirioi",
+    "SpecCode": "68043",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pronothobranchius gambiensis",
+    "SpecCode": "68046",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pronothobranchius kiyawensis",
+    "SpecCode": "9881",
+    "CommonName": "Riviviuhkapyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pronothobranchius seymouri",
+    "SpecCode": "68047",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Isurus oxyrinchus",
+    "SpecCode": "752",
+    "CommonName": "Al karch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isurus paucus",
+    "SpecCode": "753",
+    "CommonName": "Anequim-preto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

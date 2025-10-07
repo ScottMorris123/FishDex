@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pseudosimochromis babaulti",
+    "SpecCode": "7953",
+    "CommonName": "Babaults Maulbrüter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudosimochromis curvifrons",
+    "SpecCode": "8819",
+    "CommonName": "Juhmurisuomunsyöjä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudosimochromis margaretae",
+    "SpecCode": "8858",
+    "CommonName": "珍珠扁鼻丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudosimochromis marginatus",
+    "SpecCode": "8859",
+    "CommonName": "Harmaalevähautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

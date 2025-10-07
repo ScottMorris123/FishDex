@@ -1,0 +1,260 @@
+[
+  {
+    "ScientificName": "Lethrinus amboinensis",
+    "SpecCode": "1853",
+    "CommonName": "Ambon emperor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus atkinsoni",
+    "SpecCode": "1854",
+    "CommonName": "Atkinson's emperor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus atlanticus",
+    "SpecCode": "1867",
+    "CommonName": "Agbeni",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus borbonicus",
+    "SpecCode": "1844",
+    "CommonName": "Changu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus conchyliatus",
+    "SpecCode": "1868",
+    "CommonName": "Changu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus crocineus",
+    "SpecCode": "1841",
+    "CommonName": "Capitaine à queue jaune",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus enigmaticus",
+    "SpecCode": "1855",
+    "CommonName": "Blackeye emperor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus erythracanthus",
+    "SpecCode": "1862",
+    "CommonName": "Ahiat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus erythropterus",
+    "SpecCode": "1842",
+    "CommonName": "Asuh-asuh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus genivittatus",
+    "SpecCode": "1865",
+    "CommonName": "Asuh-asuh",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus haematopterus",
+    "SpecCode": "1856",
+    "CommonName": "Bitilya",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus harak",
+    "SpecCode": "1851",
+    "CommonName": "Alibek",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus laticaudis",
+    "SpecCode": "1857",
+    "CommonName": "Asuh-asuh",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus lentjan",
+    "SpecCode": "1863",
+    "CommonName": "Anuping",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus mahsena",
+    "SpecCode": "1843",
+    "CommonName": "Angelike",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus microdon",
+    "SpecCode": "1845",
+    "CommonName": "Anuping",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus miniatus",
+    "SpecCode": "1858",
+    "CommonName": "Aaravi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus mitchelli",
+    "SpecCode": "69564",
+    "CommonName": "Mitchell's Emperor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus nebulosus",
+    "SpecCode": "1846",
+    "CommonName": "Ambitsy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus obsoletus",
+    "SpecCode": "1847",
+    "CommonName": "Asuh-asuh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus olivaceus",
+    "SpecCode": "1864",
+    "CommonName": "Adia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus ornatus",
+    "SpecCode": "1866",
+    "CommonName": "Andopeng (Bajau)",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus ravus",
+    "SpecCode": "61537",
+    "CommonName": "Drab emperor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus reticulatus",
+    "SpecCode": "1859",
+    "CommonName": "Bagangan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus rubrioperculatus",
+    "SpecCode": "1848",
+    "CommonName": "Baksou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus semicinctus",
+    "SpecCode": "1849",
+    "CommonName": "Ami-fuefuki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus variegatus",
+    "SpecCode": "1850",
+    "CommonName": "Anuping",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethrinus xanthochilus",
+    "SpecCode": "1852",
+    "CommonName": "Baduma kinur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

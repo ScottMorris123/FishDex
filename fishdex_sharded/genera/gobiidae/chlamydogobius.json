@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Chlamydogobius eremius",
+    "SpecCode": "22773",
+    "CommonName": "Aavikkotokko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlamydogobius gloveri",
+    "SpecCode": "25862",
+    "CommonName": "Dalhousie goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlamydogobius japalpa",
+    "SpecCode": "59346",
+    "CommonName": "Finke goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlamydogobius micropterus",
+    "SpecCode": "26136",
+    "CommonName": "Elizabeth springs goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlamydogobius ranunculus",
+    "SpecCode": "59988",
+    "CommonName": "Tadpole goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlamydogobius squamigenus",
+    "SpecCode": "57457",
+    "CommonName": "Edgbaston goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

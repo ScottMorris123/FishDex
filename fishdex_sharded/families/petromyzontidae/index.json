@@ -1,0 +1,47 @@
+{
+  "Family": "Petromyzontidae",
+  "Order": "Petromyzontiformes",
+  "Common": "Northern lampreys",
+  "Genera": [
+    {
+      "Genus": "Caspiomyzon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/petromyzontidae/caspiomyzon.json"
+    },
+    {
+      "Genus": "Entosphenus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/petromyzontidae/entosphenus.json"
+    },
+    {
+      "Genus": "Eudontomyzon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/petromyzontidae/eudontomyzon.json"
+    },
+    {
+      "Genus": "Ichthyomyzon",
+      "SpeciesCount": 6,
+      "genus_path": "genera/petromyzontidae/ichthyomyzon.json"
+    },
+    {
+      "Genus": "Lampetra",
+      "SpeciesCount": 13,
+      "genus_path": "genera/petromyzontidae/lampetra.json"
+    },
+    {
+      "Genus": "Lethenteron",
+      "SpeciesCount": 7,
+      "genus_path": "genera/petromyzontidae/lethenteron.json"
+    },
+    {
+      "Genus": "Petromyzon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/petromyzontidae/petromyzon.json"
+    },
+    {
+      "Genus": "Tetrapleurodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/petromyzontidae/tetrapleurodon.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Aphanopus arigato",
+    "SpecCode": "59043",
+    "CommonName": "Kurotachimodoki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanopus beckeri",
+    "SpecCode": "59044",
+    "CommonName": "Becker's scabbardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanopus capricornis",
+    "SpecCode": "59045",
+    "CommonName": "Capricorn escabbardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanopus carbo",
+    "SpecCode": "646",
+    "CommonName": "Aphanope charbon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanopus intermedius",
+    "SpecCode": "8540",
+    "CommonName": "Atlantski morski meč",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanopus microphthalmus",
+    "SpecCode": "8541",
+    "CommonName": "Poisson sabre petits yeux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanopus mikhailini",
+    "SpecCode": "8542",
+    "CommonName": "Mikhailins sabelfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

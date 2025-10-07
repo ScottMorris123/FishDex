@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Oxymetopon compressus",
+    "SpecCode": "13046",
+    "CommonName": "Robust ribbongoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxymetopon curticauda",
+    "SpecCode": "70541",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxymetopon cyanoctenosum",
+    "SpecCode": "13047",
+    "CommonName": "Blue-barred ribbon goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxymetopon filamentosum",
+    "SpecCode": "59226",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxymetopon typus",
+    "SpecCode": "60862",
+    "CommonName": "Sailfin ribbongoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

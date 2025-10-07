@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Platybelone annobonensis",
+    "SpecCode": "9020",
+    "CommonName": "Agujón de quilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platybelone argalus",
+    "SpecCode": "973",
+    "CommonName": "Agujón aquillado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platybelone lovii",
+    "SpecCode": "9022",
+    "CommonName": "Agudja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platybelone platura",
+    "SpecCode": "58272",
+    "CommonName": "Keeltail needlefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platybelone platyura",
+    "SpecCode": "1314",
+    "CommonName": "Agujon de quill",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platybelone pterura",
+    "SpecCode": "13565",
+    "CommonName": "Aguja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platybelone trachura",
+    "SpecCode": "7753",
+    "CommonName": "Keeltail needlefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

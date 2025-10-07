@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Rachoviscus crassiceps",
+    "SpecCode": "53481",
+    "CommonName": "Dickkopfsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rachoviscus graciliceps",
+    "SpecCode": "52641",
+    "CommonName": "Siropäätetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

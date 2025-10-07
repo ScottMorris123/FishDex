@@ -1,0 +1,76 @@
+[
+  {
+    "ScientificName": "Kryptolebias brasiliensis",
+    "SpecCode": "49734",
+    "CommonName": "Brauner Bachling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kryptolebias campelloi",
+    "SpecCode": "49738",
+    "CommonName": "坎氏溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kryptolebias caudomarginatus",
+    "SpecCode": "49739",
+    "CommonName": "Täpläpyrstöriippuja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kryptolebias gracilis",
+    "SpecCode": "63566",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kryptolebias hermaphroditus",
+    "SpecCode": "66228",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kryptolebias marmoratus",
+    "SpecCode": "3213",
+    "CommonName": "Almirante de manglar",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kryptolebias ocellatus",
+    "SpecCode": "57627",
+    "CommonName": "Marmorierter Bachling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kryptolebias sepia",
+    "SpecCode": "62097",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

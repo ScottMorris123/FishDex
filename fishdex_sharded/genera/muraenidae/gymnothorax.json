@@ -1,0 +1,1221 @@
+[
+  {
+    "ScientificName": "Gymnothorax afer",
+    "SpecCode": "9032",
+    "CommonName": "Anguila",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax albimarginatus",
+    "SpecCode": "52889",
+    "CommonName": "Belut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax angusticauda",
+    "SpecCode": "27319",
+    "CommonName": "Muréna úzkoocasá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax angusticeps",
+    "SpecCode": "58578",
+    "CommonName": "Kurruline silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax annasona",
+    "SpecCode": "12821",
+    "CommonName": "Annasona silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax annulatus",
+    "SpecCode": "50659",
+    "CommonName": "Muréna visajanská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax atolli",
+    "SpecCode": "58579",
+    "CommonName": "Atoll moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax australicola",
+    "SpecCode": "27690",
+    "CommonName": "Lõuna-silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax austrinus",
+    "SpecCode": "58583",
+    "CommonName": "Austraalia silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax bacalladoi",
+    "SpecCode": "58580",
+    "CommonName": "Canary moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax baranesi",
+    "SpecCode": "63681",
+    "CommonName": "Barane's moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax bathyphilus",
+    "SpecCode": "55070",
+    "CommonName": "Deep-dwelling moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax berndti",
+    "SpecCode": "7459",
+    "CommonName": "Berndt's moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax breedeni",
+    "SpecCode": "7881",
+    "CommonName": "Black cheek moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax buroensis",
+    "SpecCode": "6493",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax castaneus",
+    "SpecCode": "13782",
+    "CommonName": "Cacique",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax castlei",
+    "SpecCode": "58584",
+    "CommonName": "Castle`i silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax cephalospilus",
+    "SpecCode": "58596",
+    "CommonName": "Headspot moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax chilospilus",
+    "SpecCode": "5390",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax chlamydatus",
+    "SpecCode": "10139",
+    "CommonName": "Banded mud moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax conspersus",
+    "SpecCode": "27786",
+    "CommonName": "Lailaikjas silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax cribroris",
+    "SpecCode": "10715",
+    "CommonName": "Australian moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax davidsmithi",
+    "SpecCode": "65356",
+    "CommonName": "Flores mud moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax dovii",
+    "SpecCode": "13783",
+    "CommonName": "Finespotted moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax elegans",
+    "SpecCode": "23130",
+    "CommonName": "Anguille patna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax emmae",
+    "SpecCode": "65992",
+    "CommonName": "Emma silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax enigmaticus",
+    "SpecCode": "6494",
+    "CommonName": "Banded moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax equatorialis",
+    "SpecCode": "13784",
+    "CommonName": "Morena",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax eurostus",
+    "SpecCode": "6662",
+    "CommonName": "Abbott's eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax eurygnathos",
+    "SpecCode": "60962",
+    "CommonName": "Lailõug-silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax favagineus",
+    "SpecCode": "5391",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax fimbriatus",
+    "SpecCode": "6495",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax flavimarginatus",
+    "SpecCode": "5392",
+    "CommonName": "Anguille rouge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax flavoculus",
+    "SpecCode": "27310",
+    "CommonName": "Kollasilm-silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax formosus",
+    "SpecCode": "58588",
+    "CommonName": "Kaunis silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax funebris",
+    "SpecCode": "7546",
+    "CommonName": "Amoréia-verde",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax fuscomaculatus",
+    "SpecCode": "6496",
+    "CommonName": "Brown spotted moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax gracilicauda",
+    "SpecCode": "6497",
+    "CommonName": "Drep",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax griseus",
+    "SpecCode": "8058",
+    "CommonName": "Geometric moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax hansi",
+    "SpecCode": "63444",
+    "CommonName": "Komoori silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax hepaticus",
+    "SpecCode": "6498",
+    "CommonName": "Liver-colored moray eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax herrei",
+    "SpecCode": "7491",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax hubbsi",
+    "SpecCode": "2612",
+    "CommonName": "Hubbsi silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax indicus",
+    "SpecCode": "70536",
+    "CommonName": "Indian unpatterned moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax intesi",
+    "SpecCode": "57856",
+    "CommonName": "Intési silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax isingteena",
+    "SpecCode": "58603",
+    "CommonName": "Muréna načernalá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax javanicus",
+    "SpecCode": "6380",
+    "CommonName": "Almang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax johnsoni",
+    "SpecCode": "7882",
+    "CommonName": "Anguille pintade",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax kidako",
+    "SpecCode": "10143",
+    "CommonName": "Ca lich kidado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax kolpos",
+    "SpecCode": "11927",
+    "CommonName": "Blacktail moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax kontodontos",
+    "SpecCode": "58597",
+    "CommonName": "Mustsaba-silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax longinaris",
+    "SpecCode": "69626",
+    "CommonName": "Nasal-flap moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax longinquus",
+    "SpecCode": "24349",
+    "CommonName": "Brown moray-eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax maderensis",
+    "SpecCode": "9033",
+    "CommonName": "Madeira silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax mareei",
+    "SpecCode": "9034",
+    "CommonName": "Cobra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax margaritophorus",
+    "SpecCode": "5393",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax marshallensis",
+    "SpecCode": "14685",
+    "CommonName": "Marshall Islands moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax mccoskeri",
+    "SpecCode": "50661",
+    "CommonName": "Manyband moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax megaspilus",
+    "SpecCode": "26984",
+    "CommonName": "Muréna ománská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax melanosomatus",
+    "SpecCode": "66376",
+    "CommonName": "Must silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax melatremus",
+    "SpecCode": "7284",
+    "CommonName": "Blackspot moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax meleagris",
+    "SpecCode": "5394",
+    "CommonName": "Ai'aiivi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax microstictus",
+    "SpecCode": "58598",
+    "CommonName": "Pisitäpiline silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax miliaris",
+    "SpecCode": "1103",
+    "CommonName": "Bastard eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax minor",
+    "SpecCode": "50666",
+    "CommonName": "Lesser moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax mishrai",
+    "SpecCode": "70216",
+    "CommonName": "Bengal moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax moluccensis",
+    "SpecCode": "27334",
+    "CommonName": "Maluku silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax monochrous",
+    "SpecCode": "7285",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax monostigma",
+    "SpecCode": "14688",
+    "CommonName": "Kilouveng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax mordax",
+    "SpecCode": "2613",
+    "CommonName": "California moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax moringa",
+    "SpecCode": "7547",
+    "CommonName": "Aimoré",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax nasuta",
+    "SpecCode": "55062",
+    "CommonName": "Easter island moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax neglectus",
+    "SpecCode": "10145",
+    "CommonName": "Jaapani silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax nigromarginatus",
+    "SpecCode": "2615",
+    "CommonName": "Blackedge moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax niphostigmus",
+    "SpecCode": "27084",
+    "CommonName": "Hsueh-hwa-ban",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax nubilus",
+    "SpecCode": "12822",
+    "CommonName": "Cloudy moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax nudivomer",
+    "SpecCode": "7465",
+    "CommonName": "Ade-utsubo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax nuttingi",
+    "SpecCode": "57858",
+    "CommonName": "Muréna nuttingova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax obesus",
+    "SpecCode": "24383",
+    "CommonName": "Marbled reef eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax ocellatus",
+    "SpecCode": "1099",
+    "CommonName": "Amoréia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax panamensis",
+    "SpecCode": "13786",
+    "CommonName": "Masked moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax parini",
+    "SpecCode": "58587",
+    "CommonName": "Muréna parinova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax paucivertebralis",
+    "SpecCode": "69627",
+    "CommonName": "Reticulated moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax phalarus",
+    "SpecCode": "58077",
+    "CommonName": "Valgetähniline silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax pharaonis",
+    "SpecCode": "69148",
+    "CommonName": "Pharaoh's moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax phasmatodes",
+    "SpecCode": "7884",
+    "CommonName": "Anguille morel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax philippinus",
+    "SpecCode": "7490",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax pictus",
+    "SpecCode": "6395",
+    "CommonName": "Ase-utsubo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax pikei",
+    "SpecCode": "53023",
+    "CommonName": "Lamandia morue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax pindae",
+    "SpecCode": "7447",
+    "CommonName": "Muréna mozambická",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax poikilospilus",
+    "SpecCode": "69896",
+    "CommonName": "Variegated moray eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax polygonius",
+    "SpecCode": "9035",
+    "CommonName": "Moreão",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax polyspondylus",
+    "SpecCode": "57859",
+    "CommonName": "Manyvertebrae moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax polyuranodon",
+    "SpecCode": "17227",
+    "CommonName": "Belut",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax porphyreus",
+    "SpecCode": "27501",
+    "CommonName": "Griffin's moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax prasinus",
+    "SpecCode": "10146",
+    "CommonName": "Brown reef eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax prionodon",
+    "SpecCode": "24355",
+    "CommonName": "Australian mottled moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax prismodon",
+    "SpecCode": "57860",
+    "CommonName": "Saaghammas-silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax prolatus",
+    "SpecCode": "58591",
+    "CommonName": "Muréna rozšířená",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax pseudoherrei",
+    "SpecCode": "58593",
+    "CommonName": "False brown moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax pseudomelanosomatus",
+    "SpecCode": "68870",
+    "CommonName": "False black body moray eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax pseudothyrsoideus",
+    "SpecCode": "5395",
+    "CommonName": "Amime-utsubo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax pseudotile",
+    "SpecCode": "68562",
+    "CommonName": "Bengal low-fin moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax punctatofasciatus",
+    "SpecCode": "27341",
+    "CommonName": "Bars'n spots moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax punctatus",
+    "SpecCode": "27325",
+    "CommonName": "Muréna tečkovaná",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax randalli",
+    "SpecCode": "50676",
+    "CommonName": "Muréna Randallova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax reevesii",
+    "SpecCode": "10159",
+    "CommonName": "Belut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax reticularis",
+    "SpecCode": "10160",
+    "CommonName": "Ami-utsubo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax richardsonii",
+    "SpecCode": "6579",
+    "CommonName": "Anguille morel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax robinsi",
+    "SpecCode": "51788",
+    "CommonName": "Muréna robinsova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax rueppelliae",
+    "SpecCode": "5396",
+    "CommonName": "Bakasi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax ryukyuensis",
+    "SpecCode": "70209",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax sagenodeta",
+    "SpecCode": "58627",
+    "CommonName": "Mauritiuse silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax sagmacephalus",
+    "SpecCode": "58620",
+    "CommonName": "Sadul-silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax saxicola",
+    "SpecCode": "2616",
+    "CommonName": "Florida silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax serratidens",
+    "SpecCode": "58599",
+    "CommonName": "Morena",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax shaoi",
+    "SpecCode": "64161",
+    "CommonName": "Shao silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax smithi",
+    "SpecCode": "69162",
+    "CommonName": "Indian white spotted moray eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax sokotrensis",
+    "SpecCode": "60961",
+    "CommonName": "Muréna sokoterská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax steindachneri",
+    "SpecCode": "7464",
+    "CommonName": "Brown speckled eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax taiwanensis",
+    "SpecCode": "64822",
+    "CommonName": "Taiwan Rou-hsun-tsung",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax tamilnaduensis",
+    "SpecCode": "70211",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax thyrsoideus",
+    "SpecCode": "8252",
+    "CommonName": "Belut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax tile",
+    "SpecCode": "17266",
+    "CommonName": "Belut",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax undulatus",
+    "SpecCode": "4905",
+    "CommonName": "Aajalai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax unicolor",
+    "SpecCode": "1730",
+    "CommonName": "Atlandi silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax vagrans",
+    "SpecCode": "58625",
+    "CommonName": "Lõunaameerika silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax verrilli",
+    "SpecCode": "13787",
+    "CommonName": "Morena de borde blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax vicinus",
+    "SpecCode": "7548",
+    "CommonName": "Amoréia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax visakhaensis",
+    "SpecCode": "68918",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax walvisensis",
+    "SpecCode": "64983",
+    "CommonName": "Walvisi silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax woodwardi",
+    "SpecCode": "24363",
+    "CommonName": "Muréna woodwardova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax ypsilon",
+    "SpecCode": "58621",
+    "CommonName": "Igrek-silepeamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnothorax zonipectis",
+    "SpecCode": "5397",
+    "CommonName": "Ahas-dagat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

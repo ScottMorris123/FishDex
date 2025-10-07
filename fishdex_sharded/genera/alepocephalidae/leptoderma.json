@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Leptoderma affine",
+    "SpecCode": "58897",
+    "CommonName": "Eel slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptoderma lubricum",
+    "SpecCode": "22707",
+    "CommonName": "Namera-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptoderma macrophthalmum",
+    "SpecCode": "66047",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptoderma macrops",
+    "SpecCode": "10895",
+    "CommonName": "Grenadier Smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptoderma ospesca",
+    "SpecCode": "69271",
+    "CommonName": "Cabezalisa oriental",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptoderma retropinna",
+    "SpecCode": "22711",
+    "CommonName": "Yase-namera-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

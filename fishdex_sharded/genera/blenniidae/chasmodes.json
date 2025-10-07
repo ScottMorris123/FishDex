@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Chasmodes bosquianus",
+    "SpecCode": "3754",
+    "CommonName": "Striped blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chasmodes longimaxilla",
+    "SpecCode": "59791",
+    "CommonName": "Borracho bocón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chasmodes saburrae",
+    "SpecCode": "3755",
+    "CommonName": "Florida blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

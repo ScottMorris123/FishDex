@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Potamorrhaphis eigenmanni",
+    "SpecCode": "17124",
+    "CommonName": "Peixe-agulha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamorrhaphis guianensis",
+    "SpecCode": "17121",
+    "CommonName": "Agoeja fiesie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamorrhaphis labiata",
+    "SpecCode": "66713",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamorrhaphis petersi",
+    "SpecCode": "17117",
+    "CommonName": "Colopétso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

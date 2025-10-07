@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Erotelis armiger",
+    "SpecCode": "54364",
+    "CommonName": "Flathead sleeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erotelis clarki",
+    "SpecCode": "66240",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erotelis shropshirei",
+    "SpecCode": "61531",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erotelis smaragdus",
+    "SpecCode": "3830",
+    "CommonName": "Amoré",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

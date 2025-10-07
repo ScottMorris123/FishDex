@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Sphaeramia nematoptera",
+    "SpecCode": "5778",
+    "CommonName": "Capungon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphaeramia orbicularis",
+    "SpecCode": "4926",
+    "CommonName": "Chubby cardinal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

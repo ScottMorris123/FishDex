@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Rhamphochromis esox",
+    "SpecCode": "2306",
+    "CommonName": "Haukiahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphochromis ferox",
+    "SpecCode": "2303",
+    "CommonName": "Mcheni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphochromis longiceps",
+    "SpecCode": "2297",
+    "CommonName": "Mcheni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphochromis lucius",
+    "SpecCode": "2301",
+    "CommonName": "Mcheni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphochromis macrophthalmus",
+    "SpecCode": "2298",
+    "CommonName": "Batala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamphochromis woodi",
+    "SpecCode": "2302",
+    "CommonName": "Batala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

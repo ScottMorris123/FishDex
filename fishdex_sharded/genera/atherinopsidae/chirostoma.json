@@ -1,0 +1,210 @@
+[
+  {
+    "ScientificName": "Chirostoma aculeatum",
+    "SpecCode": "50254",
+    "CommonName": "Charal cuchillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma arge",
+    "SpecCode": "50255",
+    "CommonName": "Charal del Verde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma attenuatum",
+    "SpecCode": "48414",
+    "CommonName": "Charal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma bartoni",
+    "SpecCode": "6273",
+    "CommonName": "Alberca silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma chapalae",
+    "SpecCode": "48355",
+    "CommonName": "Ährenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma charari",
+    "SpecCode": "50258",
+    "CommonName": "Charal tarasco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma compressum",
+    "SpecCode": "48418",
+    "CommonName": "Pescado blanco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma consocium",
+    "SpecCode": "50259",
+    "CommonName": "Charal de rancho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma contrerasi",
+    "SpecCode": "62525",
+    "CommonName": "Ajijic silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma copandaro",
+    "SpecCode": "48415",
+    "CommonName": "Blanco de Zirahuén",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma estor",
+    "SpecCode": "48356",
+    "CommonName": "Pescado blanco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma grandocule",
+    "SpecCode": "48410",
+    "CommonName": "Bigeye silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma humboldtianum",
+    "SpecCode": "48419",
+    "CommonName": "Charal de Xochimilco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma jordani",
+    "SpecCode": "12002",
+    "CommonName": "Ährenfisch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma labarcae",
+    "SpecCode": "48412",
+    "CommonName": "Charal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma lucius",
+    "SpecCode": "48416",
+    "CommonName": "Charal de la Laguna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma melanoccus",
+    "SpecCode": "53598",
+    "CommonName": "Blunthead silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma patzcuaro",
+    "SpecCode": "48409",
+    "CommonName": "Charal pinto",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma promelas",
+    "SpecCode": "50261",
+    "CommonName": "Blacknose silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma reseratum",
+    "SpecCode": "57841",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma riojai",
+    "SpecCode": "50262",
+    "CommonName": "Charal de Santiago",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma sphyraena",
+    "SpecCode": "48358",
+    "CommonName": "Bigmouth silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirostoma zirahuen",
+    "SpecCode": "57237",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

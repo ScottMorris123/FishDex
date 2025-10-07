@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Holacanthus africanus",
+    "SpecCode": "11163",
+    "CommonName": "Guinea-kejserfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holacanthus bermudensis",
+    "SpecCode": "3608",
+    "CommonName": "Angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holacanthus ciliaris",
+    "SpecCode": "3609",
+    "CommonName": "Ángel reina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holacanthus clarionensis",
+    "SpecCode": "11172",
+    "CommonName": "Ángel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holacanthus limbaughi",
+    "SpecCode": "11177",
+    "CommonName": "Clipperton angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holacanthus passer",
+    "SpecCode": "8294",
+    "CommonName": "Angel real",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holacanthus tricolor",
+    "SpecCode": "3610",
+    "CommonName": "Angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "Family": "Somniosidae",
+  "Order": "Squaliformes",
+  "Common": "Sleeper sharks",
+  "Genera": [
+    {
+      "Genus": "Centroscymnus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/somniosidae/centroscymnus.json"
+    },
+    {
+      "Genus": "Centroselachus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/somniosidae/centroselachus.json"
+    },
+    {
+      "Genus": "Scymnodalatias",
+      "SpeciesCount": 4,
+      "genus_path": "genera/somniosidae/scymnodalatias.json"
+    },
+    {
+      "Genus": "Scymnodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/somniosidae/scymnodon.json"
+    },
+    {
+      "Genus": "Somniosus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/somniosidae/somniosus.json"
+    },
+    {
+      "Genus": "Zameus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/somniosidae/zameus.json"
+    }
+  ]
+}

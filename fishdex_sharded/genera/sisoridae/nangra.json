@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Nangra assamensis",
+    "SpecCode": "60635",
+    "CommonName": "Befuni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nangra bucculenta",
+    "SpecCode": "55590",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nangra nangra",
+    "SpecCode": "24942",
+    "CommonName": "Gang tengra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nangra ornata",
+    "SpecCode": "55601",
+    "CommonName": "Koruperhosmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nangra robusta",
+    "SpecCode": "60096",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

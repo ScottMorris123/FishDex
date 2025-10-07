@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Bathymicrops belyaninae",
+    "SpecCode": "58764",
+    "CommonName": "中太平洋小眼淵魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathymicrops brevianalis",
+    "SpecCode": "46955",
+    "CommonName": "短臀小眼淵魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathymicrops multispinis",
+    "SpecCode": "58769",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathymicrops regis",
+    "SpecCode": "9129",
+    "CommonName": "鴨嘴小眼淵魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

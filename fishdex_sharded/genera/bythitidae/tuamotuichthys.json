@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Tuamotuichthys bispinosus",
+    "SpecCode": "61706",
+    "CommonName": "Two-spined slopebrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tuamotuichthys marshallensis",
+    "SpecCode": "63299",
+    "CommonName": "Marshall slopebrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tuamotuichthys schwarzhansi",
+    "SpecCode": "65342",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

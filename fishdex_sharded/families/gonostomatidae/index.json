@@ -1,0 +1,47 @@
+{
+  "Family": "Gonostomatidae",
+  "Order": "Stomiiformes",
+  "Common": "Bristlemouths",
+  "Genera": [
+    {
+      "Genus": "Cyclothone",
+      "SpeciesCount": 13,
+      "genus_path": "genera/gonostomatidae/cyclothone.json"
+    },
+    {
+      "Genus": "Diplophos",
+      "SpeciesCount": 6,
+      "genus_path": "genera/gonostomatidae/diplophos.json"
+    },
+    {
+      "Genus": "Gonostoma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gonostomatidae/gonostoma.json"
+    },
+    {
+      "Genus": "Manducus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gonostomatidae/manducus.json"
+    },
+    {
+      "Genus": "Margrethia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gonostomatidae/margrethia.json"
+    },
+    {
+      "Genus": "Sigmops",
+      "SpeciesCount": 5,
+      "genus_path": "genera/gonostomatidae/sigmops.json"
+    },
+    {
+      "Genus": "Triplophos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gonostomatidae/triplophos.json"
+    },
+    {
+      "Genus": "Zaphotias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gonostomatidae/zaphotias.json"
+    }
+  ]
+}

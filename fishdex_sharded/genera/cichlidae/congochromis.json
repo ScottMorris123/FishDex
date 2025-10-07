@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Congochromis dimidiatus",
+    "SpecCode": "8642",
+    "CommonName": "Pielegniczka afrykanska",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congochromis pugnatus",
+    "SpecCode": "63586",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congochromis robustus",
+    "SpecCode": "66656",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congochromis sabinae",
+    "SpecCode": "62150",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congochromis squamiceps",
+    "SpecCode": "8648",
+    "CommonName": "Loasase",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Xenocyprioides carinatus",
+    "SpecCode": "56036",
+    "CommonName": "Drobník čínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocyprioides parvulus",
+    "SpecCode": "56035",
+    "CommonName": "Drobník drobný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

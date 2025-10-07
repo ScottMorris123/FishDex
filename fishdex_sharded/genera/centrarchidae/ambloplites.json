@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Ambloplites ariommus",
+    "SpecCode": "3359",
+    "CommonName": "Shadow bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambloplites cavifrons",
+    "SpecCode": "3358",
+    "CommonName": "Bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambloplites constellatus",
+    "SpecCode": "3360",
+    "CommonName": "Bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambloplites rupestris",
+    "SpecCode": "3361",
+    "CommonName": "Ambloplites",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

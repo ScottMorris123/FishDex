@@ -1,0 +1,2074 @@
+[
+  {
+    "ScientificName": "Schistura acuticephala",
+    "SpecCode": "24525",
+    "CommonName": "Teravpea-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura afasciata",
+    "SpecCode": "55542",
+    "CommonName": "Dori käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura aizawlensis",
+    "SpecCode": "67319",
+    "CommonName": "Aizawli käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura albirostris",
+    "SpecCode": "66891",
+    "CommonName": "Valgekoon-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura albisella",
+    "SpecCode": "68737",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura alticrista",
+    "SpecCode": "56156",
+    "CommonName": "Harisaba-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura altipedunculata",
+    "SpecCode": "60912",
+    "CommonName": "Jämehänd-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura amplizona",
+    "SpecCode": "57711",
+    "CommonName": "Laivööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura anambarensis",
+    "SpecCode": "62752",
+    "CommonName": "Anambari käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura andrewi",
+    "SpecCode": "68916",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura antennata",
+    "SpecCode": "58506",
+    "CommonName": "Mřenka tykadlová",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura aramis",
+    "SpecCode": "57712",
+    "CommonName": "Aramis-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura arifi",
+    "SpecCode": "24529",
+    "CommonName": "Arifi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura athos",
+    "SpecCode": "57715",
+    "CommonName": "Athos-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura atra",
+    "SpecCode": "50380",
+    "CommonName": "Mřenka černá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura aurantiaca",
+    "SpecCode": "66144",
+    "CommonName": "Oranž käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura bachmaensis",
+    "SpecCode": "58507",
+    "CommonName": "Bachma käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura bairdi",
+    "SpecCode": "57716",
+    "CommonName": "Bairdi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura balteata",
+    "SpecCode": "26884",
+    "CommonName": "Mřenka středopruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura baluchiorum",
+    "SpecCode": "24533",
+    "CommonName": "Belutšistani käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura bannaensis",
+    "SpecCode": "62723",
+    "CommonName": "Nanla käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura beavani",
+    "SpecCode": "24539",
+    "CommonName": "Beavani käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura bella",
+    "SpecCode": "55835",
+    "CommonName": "Kaunis käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura bhimachari",
+    "SpecCode": "68404",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura bolavenensis",
+    "SpecCode": "57717",
+    "CommonName": "Bolaveni käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura breviceps",
+    "SpecCode": "26885",
+    "CommonName": "Lühipea-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura bucculenta",
+    "SpecCode": "26887",
+    "CommonName": "Mřenka laoská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura callichroma",
+    "SpecCode": "60157",
+    "CommonName": "Kirev käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura callidora",
+    "SpecCode": "66193",
+    "CommonName": "Sulnis käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura carbonaria",
+    "SpecCode": "59993",
+    "CommonName": "Mřenka černá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura carletoni",
+    "SpecCode": "24544",
+    "CommonName": "Mřenka Carletonova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura cataracta",
+    "SpecCode": "50381",
+    "CommonName": "Kose-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura caudofurca",
+    "SpecCode": "60158",
+    "CommonName": "Mřenka stužkovitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura chapaensis",
+    "SpecCode": "60159",
+    "CommonName": "Sapa käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura chindwinica",
+    "SpecCode": "54295",
+    "CommonName": "Chindwini käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura cincticauda",
+    "SpecCode": "24693",
+    "CommonName": "Juttsaba-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura clatrata",
+    "SpecCode": "57718",
+    "CommonName": "Mřenka mřížkovaná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura colossa",
+    "SpecCode": "68743",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura conirostris",
+    "SpecCode": "60160",
+    "CommonName": "Laikhuul-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura coruscans",
+    "SpecCode": "57721",
+    "CommonName": "Leekuim-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura crabro",
+    "SpecCode": "57722",
+    "CommonName": "Mřenka ngiapská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura crassa",
+    "SpecCode": "68739",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura cryptofasciata",
+    "SpecCode": "62585",
+    "CommonName": "Varivööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura curtistigma",
+    "SpecCode": "55543",
+    "CommonName": "Kurrami käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura dalatensis",
+    "SpecCode": "59995",
+    "CommonName": "Dalati käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura daubentoni",
+    "SpecCode": "26839",
+    "CommonName": "d'Aubentoni käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura dayi",
+    "SpecCode": "24548",
+    "CommonName": "Keltaeväsistura",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura deansmarti",
+    "SpecCode": "61682",
+    "CommonName": "Koopa-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura defectiva",
+    "SpecCode": "57728",
+    "CommonName": "Nurivööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura deignani",
+    "SpecCode": "60898",
+    "CommonName": "Deignani käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura denisoni",
+    "SpecCode": "24546",
+    "CommonName": "Aiyra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura desmotes",
+    "SpecCode": "26888",
+    "CommonName": "Mřenka thajská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura devdevi",
+    "SpecCode": "24549",
+    "CommonName": "Himaalaja käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura diminuta",
+    "SpecCode": "66359",
+    "CommonName": "Tillem käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura disparizona",
+    "SpecCode": "62586",
+    "CommonName": "Lahkvööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura dorsizona",
+    "SpecCode": "50382",
+    "CommonName": "Mřenka sedloskvrnná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura dubia",
+    "SpecCode": "55832",
+    "CommonName": "Mřenka podivná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura ephelis",
+    "SpecCode": "57731",
+    "CommonName": "Tärnpõsk-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura epixenos",
+    "SpecCode": "68745",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura fasciata",
+    "SpecCode": "65949",
+    "CommonName": "Baraki käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura fascimaculata",
+    "SpecCode": "24556",
+    "CommonName": "Mřenka skvrnopruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura fasciolata",
+    "SpecCode": "54991",
+    "CommonName": "Cá Chạch suối sọc",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura finis",
+    "SpecCode": "57732",
+    "CommonName": "Kruusa-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura fowleriana",
+    "SpecCode": "62772",
+    "CommonName": "Fowleri käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura fusinotata",
+    "SpecCode": "57733",
+    "CommonName": "Mřenka vřetenovitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura gangetica",
+    "SpecCode": "24559",
+    "CommonName": "Gangese kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura geisleri",
+    "SpecCode": "56157",
+    "CommonName": "Geisleri käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura globiceps",
+    "SpecCode": "57734",
+    "CommonName": "Mřenka kulohlavá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura greenei",
+    "SpecCode": "68606",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura harnaiensis",
+    "SpecCode": "61650",
+    "CommonName": "Harnai käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura himachalensis",
+    "SpecCode": "24563",
+    "CommonName": "Gadela",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura hingi",
+    "SpecCode": "59997",
+    "CommonName": "Hingi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura hiranyakeshi",
+    "SpecCode": "69337",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura hoai",
+    "SpecCode": "65689",
+    "CommonName": "Lillekirju käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura horai",
+    "SpecCode": "24564",
+    "CommonName": "Hora käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura humilis",
+    "SpecCode": "63199",
+    "CommonName": "Väike käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura huongensis",
+    "SpecCode": "58493",
+    "CommonName": "Huongi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura hypsiura",
+    "SpecCode": "67267",
+    "CommonName": "Laisaba-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura imitator",
+    "SpecCode": "57735",
+    "CommonName": "Mřenka napodobivá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura implicata",
+    "SpecCode": "57736",
+    "CommonName": "Mřenka matoucí",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura incerta",
+    "SpecCode": "54996",
+    "CommonName": "Ihmjas käärtrull",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura indawgyiana",
+    "SpecCode": "68705",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura irregularis",
+    "SpecCode": "57737",
+    "CommonName": "Mřenka nepravidelná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura isostigma",
+    "SpecCode": "50384",
+    "CommonName": "Mřenka stejnoskvrnná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura jarutanini",
+    "SpecCode": "6164",
+    "CommonName": "Jarutanini käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kampucheensis",
+    "SpecCode": "68880",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kangjupkhulensis",
+    "SpecCode": "24565",
+    "CommonName": "Kangjupkhuli käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kaysonei",
+    "SpecCode": "60845",
+    "CommonName": "Laose käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kengtungensis",
+    "SpecCode": "26842",
+    "CommonName": "Kengtungi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura khamtanhi",
+    "SpecCode": "57740",
+    "CommonName": "Khamtanhi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura khugae",
+    "SpecCode": "62375",
+    "CommonName": "Khuga käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kloetzliae",
+    "SpecCode": "57741",
+    "CommonName": "Kloetzli käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura klydonion",
+    "SpecCode": "68744",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kodaguensis",
+    "SpecCode": "24568",
+    "CommonName": "Kodagu kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kohatensis",
+    "SpecCode": "24569",
+    "CommonName": "Kohati käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kohchangensis",
+    "SpecCode": "26843",
+    "CommonName": "Changi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura koladynensis",
+    "SpecCode": "67104",
+    "CommonName": "Kaladani käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kongphengi",
+    "SpecCode": "50385",
+    "CommonName": "Kongphengi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura kontumensis",
+    "SpecCode": "59994",
+    "CommonName": "Kontumi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura laterimaculata",
+    "SpecCode": "26844",
+    "CommonName": "Lapiline käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura latidens",
+    "SpecCode": "57742",
+    "CommonName": "Laihamb-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura latifasciata",
+    "SpecCode": "58189",
+    "CommonName": "Laamvööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura leukensis",
+    "SpecCode": "57743",
+    "CommonName": "Leuki käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura lingyunensis",
+    "SpecCode": "66434",
+    "CommonName": "Lingyun loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura liyaiensis",
+    "SpecCode": "68279",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura longa",
+    "SpecCode": "60161",
+    "CommonName": "Sihvakas käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura machensis",
+    "SpecCode": "55328",
+    "CommonName": "Machi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura macrocephalus",
+    "SpecCode": "57744",
+    "CommonName": "Mřenka velkohlavá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura macrolepis",
+    "SpecCode": "61651",
+    "CommonName": "Mřenka velkošupinná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura macrotaenia",
+    "SpecCode": "60162",
+    "CommonName": "Mřenka pentlicovitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura maculosa",
+    "SpecCode": "67370",
+    "CommonName": "Täpikuim-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura madhavai",
+    "SpecCode": "68403",
+    "CommonName": "Madhava's stream loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura maejotigrina",
+    "SpecCode": "66951",
+    "CommonName": "Maejo käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura maepaiensis",
+    "SpecCode": "55838",
+    "CommonName": "Mřenka salvínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura magnifluvis",
+    "SpecCode": "26846",
+    "CommonName": "Jõe-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura mahnerti",
+    "SpecCode": "55837",
+    "CommonName": "Mahnerti käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura malaisei",
+    "SpecCode": "55831",
+    "CommonName": "Irrawaddy käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura manipurensis",
+    "SpecCode": "24572",
+    "CommonName": "Manipuri käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura megalodon",
+    "SpecCode": "67745",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura melarancia",
+    "SpecCode": "57750",
+    "CommonName": "Mřenka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura menanensis",
+    "SpecCode": "26889",
+    "CommonName": "Menani käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura minuta",
+    "SpecCode": "63204",
+    "CommonName": "Pisike käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura mizoramensis",
+    "SpecCode": "67839",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura mobbsi",
+    "SpecCode": "67103",
+    "CommonName": "Mobbsi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura moeiensis",
+    "SpecCode": "55817",
+    "CommonName": "Moei käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura mukambbikaensis",
+    "SpecCode": "68405",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura multifasciata",
+    "SpecCode": "24579",
+    "CommonName": "Rohkevööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura musa",
+    "SpecCode": "68738",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura myrmekia",
+    "SpecCode": "68978",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nagaensis",
+    "SpecCode": "24581",
+    "CommonName": "Mřenka naganská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nagodiensis",
+    "SpecCode": "63202",
+    "CommonName": "Nagodi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nalbanti",
+    "SpecCode": "62457",
+    "CommonName": "Nalbanti käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura namboensis",
+    "SpecCode": "60902",
+    "CommonName": "Vietnami käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nandingensis",
+    "SpecCode": "60164",
+    "CommonName": "Nandingi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nasifilis",
+    "SpecCode": "26890",
+    "CommonName": "Mřenka vietnamská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nebeshwari",
+    "SpecCode": "68934",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nicholsi",
+    "SpecCode": "26848",
+    "CommonName": "Mřenka Nicholsova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nilgiriensis",
+    "SpecCode": "24582",
+    "CommonName": "Mřenka nilgirinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura niulanjiangensis",
+    "SpecCode": "64504",
+    "CommonName": "Niulani käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nomi",
+    "SpecCode": "57751",
+    "CommonName": "Mřenka attapská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura notostigma",
+    "SpecCode": "12269",
+    "CommonName": "Banded mountain loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura novemradiata",
+    "SpecCode": "57752",
+    "CommonName": "Mřenka paprsková",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nubigena",
+    "SpecCode": "68473",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura nudidorsum",
+    "SpecCode": "50386",
+    "CommonName": "Mřenka holohřbetá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura obeini",
+    "SpecCode": "50389",
+    "CommonName": "Mřenka Obeinova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura obliquofascia",
+    "SpecCode": "66931",
+    "CommonName": "Längvööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura oedipus",
+    "SpecCode": "6165",
+    "CommonName": "Mřenka jeskynní",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura orthocauda",
+    "SpecCode": "61373",
+    "CommonName": "Mřenka severovietnamská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura pakistanica",
+    "SpecCode": "24583",
+    "CommonName": "Mřenka pákistánská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura pantherina",
+    "SpecCode": "66946",
+    "CommonName": "Leopard-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura papulifera",
+    "SpecCode": "63786",
+    "CommonName": "Paapulpea-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura paraxena",
+    "SpecCode": "68607",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura paucicincta",
+    "SpecCode": "55824",
+    "CommonName": "Hõrevööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura paucifasciata",
+    "SpecCode": "55551",
+    "CommonName": "Aherküüt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura paucireticulata",
+    "SpecCode": "67077",
+    "CommonName": "Tuiriali käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura pawensis",
+    "SpecCode": "67323",
+    "CommonName": "Myitnge käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura personata",
+    "SpecCode": "57753",
+    "CommonName": "Mřenka osobitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura pertica",
+    "SpecCode": "57754",
+    "CommonName": "Mřenka tyčkovitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura pervagata",
+    "SpecCode": "57755",
+    "CommonName": "Kärestiku-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura phamhringi",
+    "SpecCode": "67734",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura poculi",
+    "SpecCode": "26894",
+    "CommonName": "Kivi-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura polytaenia",
+    "SpecCode": "60188",
+    "CommonName": "Jutiline käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura porocephala",
+    "SpecCode": "67025",
+    "CommonName": "Poorpea-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura porthos",
+    "SpecCode": "57756",
+    "CommonName": "Mřenka Porthos",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura prashadi",
+    "SpecCode": "24591",
+    "CommonName": "Mřenka Prashadova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura pridii",
+    "SpecCode": "61683",
+    "CommonName": "Pridi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura procera",
+    "SpecCode": "57757",
+    "CommonName": "Mřenka štíhlá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura prolixifasciata",
+    "SpecCode": "67102",
+    "CommonName": "Venivööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura pseudofasciolata",
+    "SpecCode": "52287",
+    "CommonName": "Mřenka sečuánská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura psittacula",
+    "SpecCode": "60943",
+    "CommonName": "Mřenka papouščí",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura pumatensis",
+    "SpecCode": "66433",
+    "CommonName": "Pumati käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura punctatus",
+    "SpecCode": "65721",
+    "CommonName": "Tähniline käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura puncticeps",
+    "SpecCode": "67321",
+    "CommonName": "Pugalpea-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura punctifasciata",
+    "SpecCode": "50390",
+    "CommonName": "Mřenka skvrnopruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura quaesita",
+    "SpecCode": "57758",
+    "CommonName": "Kena käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura quasimodo",
+    "SpecCode": "57759",
+    "CommonName": "Mřenka Quasimodo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura rara",
+    "SpecCode": "54995",
+    "CommonName": "Bei käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura reidi",
+    "SpecCode": "26896",
+    "CommonName": "Mřenka Reidova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura rendahli",
+    "SpecCode": "55840",
+    "CommonName": "Mřenka Rendahlova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura reticulata",
+    "SpecCode": "62227",
+    "CommonName": "Võrkjas käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura reticulofasciata",
+    "SpecCode": "24594",
+    "CommonName": "Mřenka síťkovaná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura rikiki",
+    "SpecCode": "57760",
+    "CommonName": "Mřenka rikiki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura robertsi",
+    "SpecCode": "55834",
+    "CommonName": "Mřenka Robertsova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura rosammae",
+    "SpecCode": "65802",
+    "CommonName": "Rosamma aboritrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura rubrimaculata",
+    "SpecCode": "67322",
+    "CommonName": "Punalaik-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura rupecula",
+    "SpecCode": "24694",
+    "CommonName": "Bhotee gadelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura russa",
+    "SpecCode": "57761",
+    "CommonName": "Mřenka červená",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura savona",
+    "SpecCode": "24615",
+    "CommonName": "Mřenka himálajská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura scaturigina",
+    "SpecCode": "24618",
+    "CommonName": "Dari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura schultzi",
+    "SpecCode": "26897",
+    "CommonName": "Mřenka Schultzova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura scripta",
+    "SpecCode": "69877",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura scyphovecteta",
+    "SpecCode": "68935",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura semiarmata",
+    "SpecCode": "24619",
+    "CommonName": "Koitha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sertata",
+    "SpecCode": "57762",
+    "CommonName": "Kuangsi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sexcauda",
+    "SpecCode": "26898",
+    "CommonName": "Kuusvööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sexnubes",
+    "SpecCode": "67281",
+    "CommonName": "Kuuslaik-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura shadiwalensis",
+    "SpecCode": "55552",
+    "CommonName": "Mřenka chenabská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sharavathiensis",
+    "SpecCode": "63203",
+    "CommonName": "Sharavathi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura shuensis",
+    "SpecCode": "67561",
+    "CommonName": "Shu käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sigillata",
+    "SpecCode": "57763",
+    "CommonName": "Mřenka sošná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sijuensis",
+    "SpecCode": "6166",
+    "CommonName": "Mřenska sijunská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sikmaiensis",
+    "SpecCode": "24621",
+    "CommonName": "Gadela",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura similis",
+    "SpecCode": "56160",
+    "CommonName": "Võrdvööt-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sirindhornae",
+    "SpecCode": "68175",
+    "CommonName": "Crown Scaly Stream Loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sokolovi",
+    "SpecCode": "60946",
+    "CommonName": "Mřenka Sokolovova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sombooni",
+    "SpecCode": "50391",
+    "CommonName": "Mřenka mekongská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura sonlaensis",
+    "SpecCode": "66635",
+    "CommonName": "Sonla käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura spekuli",
+    "SpecCode": "61989",
+    "CommonName": "Karsti-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura spiesi",
+    "SpecCode": "61684",
+    "CommonName": "Spiesi käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura spiloptera",
+    "SpecCode": "26899",
+    "CommonName": "Mřenka kočinčínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura spilota",
+    "SpecCode": "26902",
+    "CommonName": "Kirjak-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura striata",
+    "SpecCode": "24627",
+    "CommonName": "Chikli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura suber",
+    "SpecCode": "57788",
+    "CommonName": "Korgikarva käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura susannae",
+    "SpecCode": "60948",
+    "CommonName": "Mřenka Zuzanina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura tenebrosa",
+    "SpecCode": "66925",
+    "CommonName": "Tume käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura tenura",
+    "SpecCode": "57789",
+    "CommonName": "Mřenka záhadná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura thanho",
+    "SpecCode": "60847",
+    "CommonName": "Mřenka thanžská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura thavonei",
+    "SpecCode": "68749",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura tigrina",
+    "SpecCode": "64505",
+    "CommonName": "Tiiger-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura tirapensis",
+    "SpecCode": "60165",
+    "CommonName": "Mřenka arunachalská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura tizardi",
+    "SpecCode": "57790",
+    "CommonName": "Mřenka Tizardova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura trilineata",
+    "SpecCode": "66636",
+    "CommonName": "Kolmtriip-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura tubulinaris",
+    "SpecCode": "50392",
+    "CommonName": "Mřenka rourkovitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura udomritthiruji",
+    "SpecCode": "65285",
+    "CommonName": "Lõunatai käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura vinciguerrae",
+    "SpecCode": "24648",
+    "CommonName": "Mřenka mekalamská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura waltoni",
+    "SpecCode": "26910",
+    "CommonName": "Mřenka tmavá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura wanlainensis",
+    "SpecCode": "68474",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura xhatensis",
+    "SpecCode": "57765",
+    "CommonName": "Mřenka namxatská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura yersini",
+    "SpecCode": "60952",
+    "CommonName": "Mřenka Jersinova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schistura zonata",
+    "SpecCode": "61653",
+    "CommonName": "Vöökiri-käärtrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

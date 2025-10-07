@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Davidijordania brachyrhynchus",
+    "SpecCode": "23815",
+    "CommonName": "Nirami-sarasagaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Davidijordania jordaniana",
+    "SpecCode": "47875",
+    "CommonName": "鰭斑喬丹綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Davidijordania lacertina",
+    "SpecCode": "23816",
+    "CommonName": "Naga-sarasagaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Davidijordania poecilimon",
+    "SpecCode": "23814",
+    "CommonName": "Hime-sarasagaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Davidijordania yabei",
+    "SpecCode": "63769",
+    "CommonName": "Kurakake-sarasagaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

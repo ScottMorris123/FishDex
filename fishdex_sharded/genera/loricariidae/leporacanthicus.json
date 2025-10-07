@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Leporacanthicus galaxias",
+    "SpecCode": "54655",
+    "CommonName": "Helmivampyyripleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporacanthicus heterodon",
+    "SpecCode": "57544",
+    "CommonName": "Pantterivampyyripleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporacanthicus joselimai",
+    "SpecCode": "57545",
+    "CommonName": "Harmovampyyripleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporacanthicus triactis",
+    "SpecCode": "53592",
+    "CommonName": "兔甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

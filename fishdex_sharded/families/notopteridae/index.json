@@ -1,0 +1,27 @@
+{
+  "Family": "Notopteridae",
+  "Order": "Osteoglossiformes",
+  "Common": "Featherbacks or knifefishes",
+  "Genera": [
+    {
+      "Genus": "Chitala",
+      "SpeciesCount": 6,
+      "genus_path": "genera/notopteridae/chitala.json"
+    },
+    {
+      "Genus": "Notopterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/notopteridae/notopterus.json"
+    },
+    {
+      "Genus": "Papyrocranus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/notopteridae/papyrocranus.json"
+    },
+    {
+      "Genus": "Xenomystus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/notopteridae/xenomystus.json"
+    }
+  ]
+}

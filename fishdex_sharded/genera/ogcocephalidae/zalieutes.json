@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Zalieutes elater",
+    "SpecCode": "3096",
+    "CommonName": "Murciélago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zalieutes mcgintyi",
+    "SpecCode": "3097",
+    "CommonName": "Murciélago tres cuernos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

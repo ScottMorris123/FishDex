@@ -1,0 +1,12 @@
+{
+  "Family": "Lactariidae",
+  "Order": "Carangaria/misc",
+  "Common": "False trevallies",
+  "Genera": [
+    {
+      "Genus": "Lactarius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lactariidae/lactarius.json"
+    }
+  ]
+}

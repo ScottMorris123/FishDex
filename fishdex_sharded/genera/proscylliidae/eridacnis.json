@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Eridacnis barbouri",
+    "SpecCode": "4532",
+    "CommonName": "Cubaanse rugvinkathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eridacnis radcliffei",
+    "SpecCode": "5919",
+    "CommonName": "Cá Ngéo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eridacnis sinuans",
+    "SpecCode": "5920",
+    "CommonName": "Aafrika paelsabahai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

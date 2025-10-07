@@ -1,0 +1,12 @@
+{
+  "Family": "Rachycentridae",
+  "Order": "Carangiformes",
+  "Common": "Cobia",
+  "Genera": [
+    {
+      "Genus": "Rachycentron",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rachycentridae/rachycentron.json"
+    }
+  ]
+}

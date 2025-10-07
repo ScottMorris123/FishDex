@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lepidopsetta bilineata",
+    "SpecCode": "24237",
+    "CommonName": "Fausse limande du Pacifique",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidopsetta mochigarei",
+    "SpecCode": "8846",
+    "CommonName": "Asabagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidopsetta polyxystra",
+    "SpecCode": "58882",
+    "CommonName": "Northern rock sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

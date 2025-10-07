@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lampris guttatus",
+    "SpecCode": "1072",
+    "CommonName": "Akamanbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampris immaculatus",
+    "SpecCode": "7145",
+    "CommonName": "Lõuna-läikkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

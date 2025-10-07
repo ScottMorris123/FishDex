@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Pachypanchax arnoulti",
+    "SpecCode": "63023",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypanchax omalonotus",
+    "SpecCode": "9877",
+    "CommonName": "Madagaskar-Hechtling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypanchax patriciae",
+    "SpecCode": "63019",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypanchax playfairii",
+    "SpecCode": "9878",
+    "CommonName": "Golden panchax",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypanchax sakaramyi",
+    "SpecCode": "11855",
+    "CommonName": "Kirjokäpykilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypanchax sparksorum",
+    "SpecCode": "63022",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypanchax varatraza",
+    "SpecCode": "63007",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

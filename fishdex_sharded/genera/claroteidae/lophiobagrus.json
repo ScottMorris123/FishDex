@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Lophiobagrus aquilus",
+    "SpecCode": "9347",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophiobagrus asperispinis",
+    "SpecCode": "9348",
+    "CommonName": "粗棘脊鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophiobagrus brevispinis",
+    "SpecCode": "9349",
+    "CommonName": "短棘脊鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophiobagrus cyclurus",
+    "SpecCode": "9346",
+    "CommonName": "African bullhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

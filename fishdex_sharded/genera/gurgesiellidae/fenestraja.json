@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Fenestraja atripinna",
+    "SpecCode": "47547",
+    "CommonName": "Blackfin pygmy skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fenestraja cubensis",
+    "SpecCode": "47555",
+    "CommonName": "Cubaanse dwergrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fenestraja ishiyamai",
+    "SpecCode": "51804",
+    "CommonName": "Egale dwergrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fenestraja maceachrani",
+    "SpecCode": "54095",
+    "CommonName": "Madagascar pygmy skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fenestraja mamillidens",
+    "SpecCode": "54094",
+    "CommonName": "Okas-kääbusrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fenestraja plutonia",
+    "SpecCode": "51799",
+    "CommonName": "Pluto Skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fenestraja sibogae",
+    "SpecCode": "12585",
+    "CommonName": "Siboga kääbusrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fenestraja sinusmexicanus",
+    "SpecCode": "51807",
+    "CommonName": "Gulf Of Mexico Pygmy Skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

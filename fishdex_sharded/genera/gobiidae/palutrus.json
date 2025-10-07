@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Palutrus meteori",
+    "SpecCode": "25042",
+    "CommonName": "Hime-kumohaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Palutrus pruinosa",
+    "SpecCode": "61312",
+    "CommonName": "Pruinosa goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Palutrus reticularis",
+    "SpecCode": "25494",
+    "CommonName": "Reticulate goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Palutrus scapulopunctatus",
+    "SpecCode": "8408",
+    "CommonName": "Belukor",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

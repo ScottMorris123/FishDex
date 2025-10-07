@@ -1,0 +1,211 @@
+[
+  {
+    "ScientificName": "Saurida argentea",
+    "SpecCode": "59118",
+    "CommonName": "Cá Mối thường",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida brasiliensis",
+    "SpecCode": "2716",
+    "CommonName": "Anoli brasil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida caribbaea",
+    "SpecCode": "2717",
+    "CommonName": "Chile espinoso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida elongata",
+    "SpecCode": "4764",
+    "CommonName": "Al-alibot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida filamentosa",
+    "SpecCode": "24644",
+    "CommonName": "Filamentosus saury",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida flamma",
+    "SpecCode": "7772",
+    "CommonName": "Orangemouth lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida golanii",
+    "SpecCode": "66326",
+    "CommonName": "Golani's lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida gracilis",
+    "SpecCode": "4534",
+    "CommonName": "Aesi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida isarankurai",
+    "SpecCode": "59119",
+    "CommonName": "Shortjaw saury",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida lessepsianus",
+    "SpecCode": "67904",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida longimanus",
+    "SpecCode": "4828",
+    "CommonName": "Al-alibot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida macrolepis",
+    "SpecCode": "63148",
+    "CommonName": "Ma-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida microlepis",
+    "SpecCode": "60415",
+    "CommonName": "Chan-bi-nǔl-mae-t'ung-i",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida micropectoralis",
+    "SpecCode": "4467",
+    "CommonName": "Al-alibot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida nebulosa",
+    "SpecCode": "8119",
+    "CommonName": "Al-alibot",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida normani",
+    "SpecCode": "2718",
+    "CommonName": "Anoli",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida pseudotumbil",
+    "SpecCode": "61059",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida suspicio",
+    "SpecCode": "16512",
+    "CommonName": "Suspicious lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida tumbil",
+    "SpecCode": "6479",
+    "CommonName": "Al-alibot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida tweddlei",
+    "SpecCode": "70154",
+    "CommonName": "Tweedle's lizardfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida umeyoshii",
+    "SpecCode": "63146",
+    "CommonName": "Kuro-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida undosquamis",
+    "SpecCode": "1055",
+    "CommonName": "Al-alibot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurida wanieso",
+    "SpecCode": "10411",
+    "CommonName": "Bekut laut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

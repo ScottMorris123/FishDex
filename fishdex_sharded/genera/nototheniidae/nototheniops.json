@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Nototheniops larseni",
+    "SpecCode": "7048",
+    "CommonName": "Bocassette écrivain",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nototheniops mizops",
+    "SpecCode": "7046",
+    "CommonName": "Bocassette crapaud",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nototheniops nudifrons",
+    "SpecCode": "7047",
+    "CommonName": "Barhovedet isfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nototheniops nybelini",
+    "SpecCode": "59654",
+    "CommonName": "尼氏拟南极鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nototheniops tchizh",
+    "SpecCode": "66448",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

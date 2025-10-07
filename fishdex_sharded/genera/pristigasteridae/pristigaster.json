@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Pristigaster cayana",
+    "SpecCode": "1657",
+    "CommonName": "Amazon hatchet herring",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristigaster whiteheadi",
+    "SpecCode": "61554",
+    "CommonName": "Sledice Whiteheadova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

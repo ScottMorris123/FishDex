@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Psenes arafurensis",
+    "SpecCode": "10299",
+    "CommonName": "Arafura driftfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psenes cyanophrys",
+    "SpecCode": "3925",
+    "CommonName": "Black driftfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psenes maculatus",
+    "SpecCode": "3926",
+    "CommonName": "Blue driftfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psenes pellucidus",
+    "SpecCode": "3927",
+    "CommonName": "Blackrag",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psenes sio",
+    "SpecCode": "8224",
+    "CommonName": "Derivante",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

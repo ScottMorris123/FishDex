@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Acnodon normani",
+    "SpecCode": "26526",
+    "CommonName": "Lammaspaku",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acnodon oligacanthus",
+    "SpecCode": "28029",
+    "CommonName": "Agouéti",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acnodon senai",
+    "SpecCode": "52504",
+    "CommonName": "塞納氏尖鋸脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

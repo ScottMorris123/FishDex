@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Hephaestus adamsoni",
+    "SpecCode": "10599",
+    "CommonName": "Adamson's grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus carbo",
+    "SpecCode": "14932",
+    "CommonName": "Black grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus epirrhinos",
+    "SpecCode": "10600",
+    "CommonName": "Longnose sooty grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus fuliginosus",
+    "SpecCode": "6432",
+    "CommonName": "Black bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus habbemai",
+    "SpecCode": "25726",
+    "CommonName": "Mountain grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus jenkinsi",
+    "SpecCode": "14936",
+    "CommonName": "Emana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus komaensis",
+    "SpecCode": "48551",
+    "CommonName": "康馬河弱棘鯻",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus lineatus",
+    "SpecCode": "25727",
+    "CommonName": "Lined grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus obtusifrons",
+    "SpecCode": "10601",
+    "CommonName": "Striped grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus raymondi",
+    "SpecCode": "25731",
+    "CommonName": "Ray Moore's grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus roemeri",
+    "SpecCode": "25733",
+    "CommonName": "Röemer's grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus transmontanus",
+    "SpecCode": "25738",
+    "CommonName": "Northern grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus trimaculatus",
+    "SpecCode": "10602",
+    "CommonName": "Threespot grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hephaestus tulliensis",
+    "SpecCode": "62539",
+    "CommonName": "Khaki bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Forcipiger flavissimus",
+    "SpecCode": "5584",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Forcipiger longirostris",
+    "SpecCode": "5585",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Forcipiger wanai",
+    "SpecCode": "66863",
+    "CommonName": "Cenderawasih longnose butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

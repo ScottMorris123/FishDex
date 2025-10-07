@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ruanoho decemdigitatus",
+    "SpecCode": "46333",
+    "CommonName": "Kokopu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ruanoho whero",
+    "SpecCode": "65481",
+    "CommonName": "Spectacled triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

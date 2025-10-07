@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Acanthodoras cataphractus",
+    "SpecCode": "47599",
+    "CommonName": "Bacu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthodoras depressus",
+    "SpecCode": "47598",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthodoras spinosissimus",
+    "SpecCode": "12103",
+    "CommonName": "Bacuzinho roncador",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

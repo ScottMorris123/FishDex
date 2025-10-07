@@ -1,0 +1,137 @@
+{
+  "Family": "Mugilidae",
+  "Order": "Mugiliformes",
+  "Common": "Mullets",
+  "Genera": [
+    {
+      "Genus": "Agonostomus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/mugilidae/agonostomus.json"
+    },
+    {
+      "Genus": "Aldrichetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/aldrichetta.json"
+    },
+    {
+      "Genus": "Cestraeus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/mugilidae/cestraeus.json"
+    },
+    {
+      "Genus": "Chaenomugil",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/chaenomugil.json"
+    },
+    {
+      "Genus": "Chelon",
+      "SpeciesCount": 10,
+      "genus_path": "genera/mugilidae/chelon.json"
+    },
+    {
+      "Genus": "Crenimugil",
+      "SpeciesCount": 5,
+      "genus_path": "genera/mugilidae/crenimugil.json"
+    },
+    {
+      "Genus": "Dajaus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/dajaus.json"
+    },
+    {
+      "Genus": "Ellochelon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/ellochelon.json"
+    },
+    {
+      "Genus": "Gracilimugil",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/gracilimugil.json"
+    },
+    {
+      "Genus": "Joturus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/joturus.json"
+    },
+    {
+      "Genus": "Minimugil",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/minimugil.json"
+    },
+    {
+      "Genus": "Mugil",
+      "SpeciesCount": 17,
+      "genus_path": "genera/mugilidae/mugil.json"
+    },
+    {
+      "Genus": "Myxus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/myxus.json"
+    },
+    {
+      "Genus": "Neochelon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/neochelon.json"
+    },
+    {
+      "Genus": "Neomyxus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/neomyxus.json"
+    },
+    {
+      "Genus": "Oedalechilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/oedalechilus.json"
+    },
+    {
+      "Genus": "Osteomugil",
+      "SpeciesCount": 6,
+      "genus_path": "genera/mugilidae/osteomugil.json"
+    },
+    {
+      "Genus": "Parachelon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/parachelon.json"
+    },
+    {
+      "Genus": "Paramugil",
+      "SpeciesCount": 2,
+      "genus_path": "genera/mugilidae/paramugil.json"
+    },
+    {
+      "Genus": "Planiliza",
+      "SpeciesCount": 15,
+      "genus_path": "genera/mugilidae/planiliza.json"
+    },
+    {
+      "Genus": "Plicomugil",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/plicomugil.json"
+    },
+    {
+      "Genus": "Pseudomyxus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/pseudomyxus.json"
+    },
+    {
+      "Genus": "Rhinomugil",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/rhinomugil.json"
+    },
+    {
+      "Genus": "Sicamugil",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/sicamugil.json"
+    },
+    {
+      "Genus": "Squalomugil",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/squalomugil.json"
+    },
+    {
+      "Genus": "Trachystoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mugilidae/trachystoma.json"
+    }
+  ]
+}

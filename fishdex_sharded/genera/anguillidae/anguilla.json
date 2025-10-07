@@ -1,0 +1,209 @@
+[
+  {
+    "ScientificName": "Anguilla anguilla",
+    "SpecCode": "35",
+    "CommonName": "Aal",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla australis",
+    "SpecCode": "297",
+    "CommonName": "Aal",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla bengalensis",
+    "SpecCode": "1272",
+    "CommonName": "Aarel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla bicolor",
+    "SpecCode": "1274",
+    "CommonName": "Amalona",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla borneensis",
+    "SpecCode": "67461",
+    "CommonName": "Borneo angerjas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla celebesensis",
+    "SpecCode": "11521",
+    "CommonName": "Cá chình vây dài",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla dieffenbachii",
+    "SpecCode": "11878",
+    "CommonName": "Aal",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla interioris",
+    "SpecCode": "17282",
+    "CommonName": "Highlands long-finned eel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla japonica",
+    "SpecCode": "295",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla labiata",
+    "SpecCode": "1273",
+    "CommonName": "Aafrika angerjas",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla luzonensis",
+    "SpecCode": "65262",
+    "CommonName": "Luzoni angerjas",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla malgumora",
+    "SpecCode": "5426",
+    "CommonName": "Belud",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla marmorata",
+    "SpecCode": "1275",
+    "CommonName": "Almang",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla megastoma",
+    "SpecCode": "12408",
+    "CommonName": "Anguille de montagne",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla mossambica",
+    "SpecCode": "1276",
+    "CommonName": "African longfin eel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla nebulosa",
+    "SpecCode": "11700",
+    "CommonName": "African mottled eel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla obscura",
+    "SpecCode": "7511",
+    "CommonName": "Anguille de vase",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla reinhardtii",
+    "SpecCode": "7512",
+    "CommonName": "Anguille de Reinhardt",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anguilla rostrata",
+    "SpecCode": "296",
+    "CommonName": "Aal",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Heterobranchus bidorsalis",
+    "SpecCode": "2318",
+    "CommonName": "Adewudzea",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterobranchus boulengeri",
+    "SpecCode": "2320",
+    "CommonName": "Katondwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterobranchus isopterus",
+    "SpecCode": "2321",
+    "CommonName": "Andigise",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterobranchus longifilis",
+    "SpecCode": "2319",
+    "CommonName": "Aso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

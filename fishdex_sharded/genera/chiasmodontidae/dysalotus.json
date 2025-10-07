@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Dysalotus alcocki",
+    "SpecCode": "16915",
+    "CommonName": "線棘細齒鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dysalotus oligoscolus",
+    "SpecCode": "16916",
+    "CommonName": "Smooth swallower",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

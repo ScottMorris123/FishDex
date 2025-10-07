@@ -1,0 +1,42 @@
+{
+  "Family": "Pentacerotidae",
+  "Order": "Acropomatiformes",
+  "Common": "Armorheads",
+  "Genera": [
+    {
+      "Genus": "Evistias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pentacerotidae/evistias.json"
+    },
+    {
+      "Genus": "Histiopterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pentacerotidae/histiopterus.json"
+    },
+    {
+      "Genus": "Parazanclistius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pentacerotidae/parazanclistius.json"
+    },
+    {
+      "Genus": "Paristiopterus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pentacerotidae/paristiopterus.json"
+    },
+    {
+      "Genus": "Pentaceropsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pentacerotidae/pentaceropsis.json"
+    },
+    {
+      "Genus": "Pentaceros",
+      "SpeciesCount": 6,
+      "genus_path": "genera/pentacerotidae/pentaceros.json"
+    },
+    {
+      "Genus": "Zanclistius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pentacerotidae/zanclistius.json"
+    }
+  ]
+}

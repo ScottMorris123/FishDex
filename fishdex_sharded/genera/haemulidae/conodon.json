@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Conodon macrops",
+    "SpecCode": "13705",
+    "CommonName": "Bravo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conodon nobilis",
+    "SpecCode": "401",
+    "CommonName": "Båndgryntefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conodon serrifer",
+    "SpecCode": "13706",
+    "CommonName": "Armed grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

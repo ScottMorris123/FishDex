@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Labichthys carinatus",
+    "SpecCode": "9106",
+    "CommonName": "Harilik näpitsangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labichthys yanoi",
+    "SpecCode": "46951",
+    "CommonName": "Úhořovka indooceánská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

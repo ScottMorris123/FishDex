@@ -1,0 +1,27 @@
+{
+  "Family": "Anabantidae",
+  "Order": "Anabantiformes",
+  "Common": "Climbing gouramies",
+  "Genera": [
+    {
+      "Genus": "Anabas",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anabantidae/anabas.json"
+    },
+    {
+      "Genus": "Ctenopoma",
+      "SpeciesCount": 17,
+      "genus_path": "genera/anabantidae/ctenopoma.json"
+    },
+    {
+      "Genus": "Microctenopoma",
+      "SpeciesCount": 12,
+      "genus_path": "genera/anabantidae/microctenopoma.json"
+    },
+    {
+      "Genus": "Sandelia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anabantidae/sandelia.json"
+    }
+  ]
+}

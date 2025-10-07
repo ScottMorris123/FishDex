@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Sikukia flavicaudata",
+    "SpecCode": "58080",
+    "CommonName": "Kollasaba-nablik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sikukia gudgeri",
+    "SpecCode": "27112",
+    "CommonName": "Gudgeri nablik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sikukia longibarbata",
+    "SpecCode": "58222",
+    "CommonName": "Parmička dlouhovousá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sikukia stejnegeri",
+    "SpecCode": "27115",
+    "CommonName": "Parmička Stejnegerova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

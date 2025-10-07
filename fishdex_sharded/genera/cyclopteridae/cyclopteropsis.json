@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Cyclopteropsis bergi",
+    "SpecCode": "24060",
+    "CommonName": "Kobu-fûsen-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclopteropsis brashnikowi",
+    "SpecCode": "51411",
+    "CommonName": "布氏拟圆鳍鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclopteropsis inarmatus",
+    "SpecCode": "60671",
+    "CommonName": "Bumpy lumpsucker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclopteropsis jordani",
+    "SpecCode": "54220",
+    "CommonName": "Glat stenbider",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclopteropsis lindbergi",
+    "SpecCode": "24061",
+    "CommonName": "Name-fûsen-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclopteropsis mcalpini",
+    "SpecCode": "4181",
+    "CommonName": "Arctic lumpsucker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclopteropsis popovi",
+    "SpecCode": "51415",
+    "CommonName": "普氏拟圆鳍鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

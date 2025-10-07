@@ -1,0 +1,623 @@
+[
+  {
+    "ScientificName": "Sinocyclocheilus altishoulderus",
+    "SpecCode": "60115",
+    "CommonName": "Kõrgselg-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus anatirostris",
+    "SpecCode": "26103",
+    "CommonName": "Cave dragon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus angularis",
+    "SpecCode": "49932",
+    "CommonName": "Gara jeskynní",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus angustiporus",
+    "SpecCode": "56306",
+    "CommonName": "Ahaspilu-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus anophthalmus",
+    "SpecCode": "6150",
+    "CommonName": "Blind golden-line barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus anshuiensis",
+    "SpecCode": "67194",
+    "CommonName": "Anshui sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus aquihornes",
+    "SpecCode": "64531",
+    "CommonName": "Kotkassarv-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus biangularis",
+    "SpecCode": "61941",
+    "CommonName": "Vigel-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus bicornutus",
+    "SpecCode": "62465",
+    "CommonName": "Sarvik-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus brevibarbatus",
+    "SpecCode": "63818",
+    "CommonName": "Lühipoisene sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus brevifinus",
+    "SpecCode": "67828",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus brevis",
+    "SpecCode": "60116",
+    "CommonName": "Gara krátká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus broadihornes",
+    "SpecCode": "64532",
+    "CommonName": "Laisarv-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus cyphotergous",
+    "SpecCode": "49934",
+    "CommonName": "Küürselg-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus donglanensis",
+    "SpecCode": "62889",
+    "CommonName": "Donglani sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus dongtangensis",
+    "SpecCode": "66165",
+    "CommonName": "Dongtangi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus flexuosdorsalis",
+    "SpecCode": "66455",
+    "CommonName": "Kooldküür-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus furcodorsalis",
+    "SpecCode": "60113",
+    "CommonName": "Crossed-fork back golden-line barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus gracilicaudatus",
+    "SpecCode": "67297",
+    "CommonName": "Salesaba-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus gracilis",
+    "SpecCode": "67764",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus grahami",
+    "SpecCode": "56266",
+    "CommonName": "Dianchi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus guanduensis",
+    "SpecCode": "67012",
+    "CommonName": "Guandu sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus guilinensis",
+    "SpecCode": "61942",
+    "CommonName": "Guilini sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus guishanensis",
+    "SpecCode": "64036",
+    "CommonName": "Guishani sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus hei",
+    "SpecCode": "67015",
+    "CommonName": "Kunmingi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus huanglongdongensis",
+    "SpecCode": "67014",
+    "CommonName": "Huanglongi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus huangtianensis",
+    "SpecCode": "66043",
+    "CommonName": "Huangtiani sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus huaningensis",
+    "SpecCode": "62470",
+    "CommonName": "Huaningi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus huanjiangensis",
+    "SpecCode": "66277",
+    "CommonName": "Huanjiangi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus hugeibarbus",
+    "SpecCode": "63037",
+    "CommonName": "Pikapoisene sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus huizeensis",
+    "SpecCode": "68200",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus hyalinus",
+    "SpecCode": "49933",
+    "CommonName": "Gara průsvitná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus jii",
+    "SpecCode": "60119",
+    "CommonName": "Gara Jiova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus jiuxuensis",
+    "SpecCode": "62471",
+    "CommonName": "Jiuxu sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus lateristriatus",
+    "SpecCode": "60120",
+    "CommonName": "Gara bokopruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus liboensis",
+    "SpecCode": "62472",
+    "CommonName": "Libo sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus lingyunensis",
+    "SpecCode": "60500",
+    "CommonName": "Lingyu sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus longibarbatus",
+    "SpecCode": "60121",
+    "CommonName": "Poisur-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus longicornus",
+    "SpecCode": "69927",
+    "CommonName": "Long-horned golden-lined fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus longifinus",
+    "SpecCode": "61944",
+    "CommonName": "Pikkuim-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus luolouensis",
+    "SpecCode": "67547",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus luopingensis",
+    "SpecCode": "62473",
+    "CommonName": "Luopingi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus macrocephalus",
+    "SpecCode": "60122",
+    "CommonName": "Gara velkohlavá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus macrolepis",
+    "SpecCode": "60127",
+    "CommonName": "Gara velkošupinná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus macrophthalmus",
+    "SpecCode": "60501",
+    "CommonName": "Suursilm-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus macroscalus",
+    "SpecCode": "60126",
+    "CommonName": "Luliangi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus maculatus",
+    "SpecCode": "62474",
+    "CommonName": "Täpiline sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus maitianheensis",
+    "SpecCode": "60123",
+    "CommonName": "Gara nanpanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus malacopterus",
+    "SpecCode": "56304",
+    "CommonName": "Gara měkkoploutvá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus mashanensis",
+    "SpecCode": "66278",
+    "CommonName": "Mashani sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus microphthalmus",
+    "SpecCode": "26436",
+    "CommonName": "Gara malooká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus multipunctatus",
+    "SpecCode": "56075",
+    "CommonName": "Gara mnohoskvrnná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus oxycephalus",
+    "SpecCode": "60124",
+    "CommonName": "Gara lunanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus purpureus",
+    "SpecCode": "60125",
+    "CommonName": "Gara šarlatová",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus qiubeiensis",
+    "SpecCode": "61945",
+    "CommonName": "Qiubei sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus qujingensis",
+    "SpecCode": "62475",
+    "CommonName": "Qujingi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus rhinocerous",
+    "SpecCode": "59961",
+    "CommonName": "Ninasarv-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus robustus",
+    "SpecCode": "59926",
+    "CommonName": "Tüse sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus tianlinensis",
+    "SpecCode": "62373",
+    "CommonName": "Tianlini sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus tileihornes",
+    "SpecCode": "62477",
+    "CommonName": "Sindelsarv-sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus tingi",
+    "SpecCode": "60117",
+    "CommonName": "Fuxiani sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus wui",
+    "SpecCode": "67011",
+    "CommonName": "Wu sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus wumengshanensis",
+    "SpecCode": "63038",
+    "CommonName": "Wumengshani sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus xichouensis",
+    "SpecCode": "67197",
+    "CommonName": "Xichou sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus xunlensis",
+    "SpecCode": "62478",
+    "CommonName": "Xunle sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus yangzongensis",
+    "SpecCode": "60118",
+    "CommonName": "Yangzongi sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus yaolanensis",
+    "SpecCode": "65143",
+    "CommonName": "Yaolani sõõrshuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus yimenensis",
+    "SpecCode": "63039",
+    "CommonName": "Yimeni sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocyclocheilus yishanensis",
+    "SpecCode": "60114",
+    "CommonName": "Yishani sõõrhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

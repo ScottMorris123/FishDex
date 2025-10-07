@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Rimicola cabrilloi",
+    "SpecCode": "59748",
+    "CommonName": "Channel Islands clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rimicola dimorpha",
+    "SpecCode": "11671",
+    "CommonName": "Chupapiedra chiquita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rimicola eigenmanni",
+    "SpecCode": "3080",
+    "CommonName": "Chupapiedra flaca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rimicola muscarum",
+    "SpecCode": "3081",
+    "CommonName": "Chupapiedra sargacera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rimicola sila",
+    "SpecCode": "59749",
+    "CommonName": "Chupapiedra de Guadalupe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

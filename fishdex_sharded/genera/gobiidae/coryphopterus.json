@@ -1,0 +1,129 @@
+[
+  {
+    "ScientificName": "Coryphopterus alloides",
+    "SpecCode": "3841",
+    "CommonName": "Barfin goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus curasub",
+    "SpecCode": "70488",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus dicrus",
+    "SpecCode": "3842",
+    "CommonName": "Colon goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus eidolon",
+    "SpecCode": "3843",
+    "CommonName": "Góbido pálido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus glaucofraenum",
+    "SpecCode": "3844",
+    "CommonName": "Bridled goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus hyalinus",
+    "SpecCode": "3845",
+    "CommonName": "Glass goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus kuna",
+    "SpecCode": "63493",
+    "CommonName": "Kuna goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus lipernes",
+    "SpecCode": "3846",
+    "CommonName": "Bluenose goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus personatus",
+    "SpecCode": "3848",
+    "CommonName": "Góbido ojón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus punctipectophorus",
+    "SpecCode": "3849",
+    "CommonName": "Góbido punteado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus thrix",
+    "SpecCode": "3850",
+    "CommonName": "Bartail goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus tortugae",
+    "SpecCode": "63732",
+    "CommonName": "Patch-reef goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus urospilus",
+    "SpecCode": "25534",
+    "CommonName": "Gobio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphopterus venezuelae",
+    "SpecCode": "28076",
+    "CommonName": "Sand-canyon goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

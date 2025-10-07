@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Heniochus acuminatus",
+    "SpecCode": "5588",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heniochus chrysostomus",
+    "SpecCode": "5589",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heniochus diphreutes",
+    "SpecCode": "7769",
+    "CommonName": "Alibang-bang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heniochus intermedius",
+    "SpecCode": "12309",
+    "CommonName": "Poisson cocher de Mer Rouge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heniochus monoceros",
+    "SpecCode": "5590",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heniochus pleurotaenia",
+    "SpecCode": "12528",
+    "CommonName": "Fantomvimpelfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heniochus singularius",
+    "SpecCode": "5591",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heniochus varius",
+    "SpecCode": "5592",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

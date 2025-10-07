@@ -1,0 +1,27 @@
+{
+  "Family": "Notacanthidae",
+  "Order": "Notacanthiformes",
+  "Common": "Deep-sea spiny eels",
+  "Genera": [
+    {
+      "Genus": "Leptocephalus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/notacanthidae/leptocephalus.json"
+    },
+    {
+      "Genus": "Lipogenys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/notacanthidae/lipogenys.json"
+    },
+    {
+      "Genus": "Notacanthus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/notacanthidae/notacanthus.json"
+    },
+    {
+      "Genus": "Polyacanthonotus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/notacanthidae/polyacanthonotus.json"
+    }
+  ]
+}

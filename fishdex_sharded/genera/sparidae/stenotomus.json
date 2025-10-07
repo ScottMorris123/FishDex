@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Stenotomus caprinus",
+    "SpecCode": "1234",
+    "CommonName": "Longspine porgy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenotomus chrysops",
+    "SpecCode": "452",
+    "CommonName": "Harilik skapp",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

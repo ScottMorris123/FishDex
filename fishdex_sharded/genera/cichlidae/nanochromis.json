@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Nanochromis consortus",
+    "SpecCode": "8641",
+    "CommonName": "Hunajapalettikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanochromis minor",
+    "SpecCode": "8643",
+    "CommonName": "Pikkupalettikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanochromis nudiceps",
+    "SpecCode": "8644",
+    "CommonName": "Congo-dværgcichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanochromis parilus",
+    "SpecCode": "8645",
+    "CommonName": "Blauer Kongocichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanochromis splendens",
+    "SpecCode": "8647",
+    "CommonName": "Loistopalettikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanochromis teugelsi",
+    "SpecCode": "63000",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanochromis transvestitus",
+    "SpecCode": "8649",
+    "CommonName": "Seeprapalettikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanochromis wickleri",
+    "SpecCode": "62863",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

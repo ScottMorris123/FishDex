@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Sprattus antipodum",
+    "SpecCode": "1465",
+    "CommonName": "Blårygget brisling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sprattus fuegensis",
+    "SpecCode": "1466",
+    "CommonName": "Espadín de las Malvinas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sprattus muelleri",
+    "SpecCode": "1467",
+    "CommonName": "Mülleri kilu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sprattus novaehollandiae",
+    "SpecCode": "1468",
+    "CommonName": "Australian sprat",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sprattus sprattus",
+    "SpecCode": "1357",
+    "CommonName": "Alaccia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

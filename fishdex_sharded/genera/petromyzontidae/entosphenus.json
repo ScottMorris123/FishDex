@@ -1,0 +1,58 @@
+[
+  {
+    "ScientificName": "Entosphenus folletti",
+    "SpecCode": "25840",
+    "CommonName": "Lamproie de Californie nord",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entosphenus lethophagus",
+    "SpecCode": "2525",
+    "CommonName": "Lamproie de ruisseau du bassin Pit–Klamath",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entosphenus macrostoma",
+    "SpecCode": "4896",
+    "CommonName": "Lake lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entosphenus minimus",
+    "SpecCode": "2526",
+    "CommonName": "Lamproie du lac Miller",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entosphenus similis",
+    "SpecCode": "9480",
+    "CommonName": "Klamath lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entosphenus tridentatus",
+    "SpecCode": "2529",
+    "CommonName": "Asum",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Tanichthys albiventris",
+    "SpecCode": "69622",
+    "CommonName": "白腹唐鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanichthys albonubes",
+    "SpecCode": "4758",
+    "CommonName": "Canton danio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanichthys flavianalis",
+    "SpecCode": "69623",
+    "CommonName": "黄臀唐鱼.",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanichthys kuehnei",
+    "SpecCode": "69621",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanichthys micagemmae",
+    "SpecCode": "58712",
+    "CommonName": "Juovakardinaalikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanichthys thacbaensis",
+    "SpecCode": "62836",
+    "CommonName": "Loodevietnami tanikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

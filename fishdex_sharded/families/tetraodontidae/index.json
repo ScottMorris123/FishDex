@@ -1,0 +1,147 @@
+{
+  "Family": "Tetraodontidae",
+  "Order": "Tetraodontiformes",
+  "Common": "Puffers",
+  "Genera": [
+    {
+      "Genus": "Amblyrhynchote",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetraodontidae/amblyrhynchote.json"
+    },
+    {
+      "Genus": "Arothron",
+      "SpeciesCount": 15,
+      "genus_path": "genera/tetraodontidae/arothron.json"
+    },
+    {
+      "Genus": "Auriglobus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/tetraodontidae/auriglobus.json"
+    },
+    {
+      "Genus": "Canthigaster",
+      "SpeciesCount": 39,
+      "genus_path": "genera/tetraodontidae/canthigaster.json"
+    },
+    {
+      "Genus": "Carinotetraodon",
+      "SpeciesCount": 6,
+      "genus_path": "genera/tetraodontidae/carinotetraodon.json"
+    },
+    {
+      "Genus": "Chelonodontops",
+      "SpeciesCount": 6,
+      "genus_path": "genera/tetraodontidae/chelonodontops.json"
+    },
+    {
+      "Genus": "Chonerhinos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetraodontidae/chonerhinos.json"
+    },
+    {
+      "Genus": "Colomesus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/tetraodontidae/colomesus.json"
+    },
+    {
+      "Genus": "Contusus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tetraodontidae/contusus.json"
+    },
+    {
+      "Genus": "Dichotomyctere",
+      "SpeciesCount": 6,
+      "genus_path": "genera/tetraodontidae/dichotomyctere.json"
+    },
+    {
+      "Genus": "Ephippion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetraodontidae/ephippion.json"
+    },
+    {
+      "Genus": "Feroxodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetraodontidae/feroxodon.json"
+    },
+    {
+      "Genus": "Guentheridia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetraodontidae/guentheridia.json"
+    },
+    {
+      "Genus": "Javichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetraodontidae/javichthys.json"
+    },
+    {
+      "Genus": "Lagocephalus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/tetraodontidae/lagocephalus.json"
+    },
+    {
+      "Genus": "Leiodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tetraodontidae/leiodon.json"
+    },
+    {
+      "Genus": "Marilyna",
+      "SpeciesCount": 3,
+      "genus_path": "genera/tetraodontidae/marilyna.json"
+    },
+    {
+      "Genus": "Omegophora",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tetraodontidae/omegophora.json"
+    },
+    {
+      "Genus": "Pao",
+      "SpeciesCount": 13,
+      "genus_path": "genera/tetraodontidae/pao.json"
+    },
+    {
+      "Genus": "Pelagocephalus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tetraodontidae/pelagocephalus.json"
+    },
+    {
+      "Genus": "Polyspina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetraodontidae/polyspina.json"
+    },
+    {
+      "Genus": "Reicheltia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetraodontidae/reicheltia.json"
+    },
+    {
+      "Genus": "Sphoeroides",
+      "SpeciesCount": 23,
+      "genus_path": "genera/tetraodontidae/sphoeroides.json"
+    },
+    {
+      "Genus": "Takifugu",
+      "SpeciesCount": 27,
+      "genus_path": "genera/tetraodontidae/takifugu.json"
+    },
+    {
+      "Genus": "Tetractenos",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tetraodontidae/tetractenos.json"
+    },
+    {
+      "Genus": "Tetraodon",
+      "SpeciesCount": 9,
+      "genus_path": "genera/tetraodontidae/tetraodon.json"
+    },
+    {
+      "Genus": "Torquigener",
+      "SpeciesCount": 21,
+      "genus_path": "genera/tetraodontidae/torquigener.json"
+    },
+    {
+      "Genus": "Tylerius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetraodontidae/tylerius.json"
+    }
+  ]
+}

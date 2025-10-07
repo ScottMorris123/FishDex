@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Urotrygon aspidura",
+    "SpecCode": "13277",
+    "CommonName": "Panama tääkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon caudispinosus",
+    "SpecCode": "61154",
+    "CommonName": "Ogasaba-tääkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon chilensis",
+    "SpecCode": "8218",
+    "CommonName": "Blotched stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon cimar",
+    "SpecCode": "59473",
+    "CommonName": "Krobeline tääkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon microphthalmum",
+    "SpecCode": "27775",
+    "CommonName": "Kleinoogdoornrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon munda",
+    "SpecCode": "13278",
+    "CommonName": "Keskameerika tääkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon nana",
+    "SpecCode": "13282",
+    "CommonName": "Dwarf stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon peruanus",
+    "SpecCode": "61155",
+    "CommonName": "Peruu tääkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon reticulata",
+    "SpecCode": "13283",
+    "CommonName": "Netdoornrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon rogersi",
+    "SpecCode": "13285",
+    "CommonName": "Gestreepte ronde doornrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon serrula",
+    "SpecCode": "50099",
+    "CommonName": "Raya",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon simulatrix",
+    "SpecCode": "13288",
+    "CommonName": "Fake round ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urotrygon venezuelae",
+    "SpecCode": "52714",
+    "CommonName": "Venetsueela tääkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

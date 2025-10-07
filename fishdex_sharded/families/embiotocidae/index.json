@@ -1,0 +1,72 @@
+{
+  "Family": "Embiotocidae",
+  "Order": "Ovalentaria/misc",
+  "Common": "Surfperches",
+  "Genera": [
+    {
+      "Genus": "Amphistichus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/embiotocidae/amphistichus.json"
+    },
+    {
+      "Genus": "Brachyistius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/embiotocidae/brachyistius.json"
+    },
+    {
+      "Genus": "Cymatogaster",
+      "SpeciesCount": 1,
+      "genus_path": "genera/embiotocidae/cymatogaster.json"
+    },
+    {
+      "Genus": "Ditrema",
+      "SpeciesCount": 3,
+      "genus_path": "genera/embiotocidae/ditrema.json"
+    },
+    {
+      "Genus": "Embiotoca",
+      "SpeciesCount": 2,
+      "genus_path": "genera/embiotocidae/embiotoca.json"
+    },
+    {
+      "Genus": "Hyperprosopon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/embiotocidae/hyperprosopon.json"
+    },
+    {
+      "Genus": "Hypsurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/embiotocidae/hypsurus.json"
+    },
+    {
+      "Genus": "Hysterocarpus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/embiotocidae/hysterocarpus.json"
+    },
+    {
+      "Genus": "Micrometrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/embiotocidae/micrometrus.json"
+    },
+    {
+      "Genus": "Neoditrema",
+      "SpeciesCount": 1,
+      "genus_path": "genera/embiotocidae/neoditrema.json"
+    },
+    {
+      "Genus": "Phanerodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/embiotocidae/phanerodon.json"
+    },
+    {
+      "Genus": "Rhacochilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/embiotocidae/rhacochilus.json"
+    },
+    {
+      "Genus": "Zalembius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/embiotocidae/zalembius.json"
+    }
+  ]
+}

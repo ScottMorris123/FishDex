@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Colletteichthys dussumieri",
+    "SpecCode": "1313",
+    "CommonName": "Crapaud pipa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Colletteichthys flavipinnis",
+    "SpecCode": "66619",
+    "CommonName": "Yellowfin toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Colletteichthys occidentalis",
+    "SpecCode": "66430",
+    "CommonName": "Arabian toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

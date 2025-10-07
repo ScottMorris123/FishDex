@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Astronotus crassipinnis",
+    "SpecCode": "25744",
+    "CommonName": "Acará açu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astronotus mikoljii",
+    "SpecCode": "69791",
+    "CommonName": "Mikolji's Oscar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astronotus ocellatus",
+    "SpecCode": "3612",
+    "CommonName": "acará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

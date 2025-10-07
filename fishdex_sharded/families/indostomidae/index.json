@@ -1,0 +1,12 @@
+{
+  "Family": "Indostomidae",
+  "Order": "Synbranchiformes",
+  "Common": "Armored sticklebacks",
+  "Genera": [
+    {
+      "Genus": "Indostomus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/indostomidae/indostomus.json"
+    }
+  ]
+}

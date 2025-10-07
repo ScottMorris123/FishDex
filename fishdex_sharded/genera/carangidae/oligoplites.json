@@ -1,0 +1,53 @@
+[
+  {
+    "ScientificName": "Oligoplites altus",
+    "SpecCode": "1945",
+    "CommonName": "Aguirre amarillo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligoplites palometa",
+    "SpecCode": "999",
+    "CommonName": "Gaivira",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligoplites refulgens",
+    "SpecCode": "1946",
+    "CommonName": "Chaqueta de cuero",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligoplites saliens",
+    "SpecCode": "1000",
+    "CommonName": "Caspin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligoplites saurus",
+    "SpecCode": "1001",
+    "CommonName": "Cacana",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

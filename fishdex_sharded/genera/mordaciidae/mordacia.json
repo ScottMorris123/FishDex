@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Mordacia lapicida",
+    "SpecCode": "8721",
+    "CommonName": "Chilean lamprey",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mordacia mordax",
+    "SpecCode": "7510",
+    "CommonName": "Australian lamprey",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mordacia praecox",
+    "SpecCode": "6084",
+    "CommonName": "Australian brook lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

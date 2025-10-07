@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Fibramia amboinensis",
+    "SpecCode": "7848",
+    "CommonName": "Amami ishimochi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fibramia lateralis",
+    "SpecCode": "5761",
+    "CommonName": "Bagsang",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fibramia thermalis",
+    "SpecCode": "12747",
+    "CommonName": "Barcheeked cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

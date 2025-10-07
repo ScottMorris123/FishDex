@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Coreius cetopsis",
+    "SpecCode": "65231",
+    "CommonName": "Valask-maidelkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coreius guichenoti",
+    "SpecCode": "55908",
+    "CommonName": "Guichenoti maidelkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coreius heterodon",
+    "SpecCode": "55907",
+    "CommonName": "Erihamb-maidelkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coreius septentrionalis",
+    "SpecCode": "55909",
+    "CommonName": "Korejus čínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

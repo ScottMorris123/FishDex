@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Dissostichus eleginoides",
+    "SpecCode": "467",
+    "CommonName": "Antar patagónski",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dissostichus mawsoni",
+    "SpecCode": "7039",
+    "CommonName": "Antar polarny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

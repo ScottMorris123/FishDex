@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Notograptus gregoryi",
+    "SpecCode": "59020",
+    "CommonName": "Ethiopian",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notograptus guttatus",
+    "SpecCode": "27541",
+    "CommonName": "Spotted eel blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

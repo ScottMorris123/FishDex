@@ -1,0 +1,22 @@
+{
+  "Family": "Leptoscopidae",
+  "Order": "Acropomatiformes",
+  "Common": "Southern sandfishes",
+  "Genera": [
+    {
+      "Genus": "Crapatalus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/leptoscopidae/crapatalus.json"
+    },
+    {
+      "Genus": "Leptoscopus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/leptoscopidae/leptoscopus.json"
+    },
+    {
+      "Genus": "Lesueurina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/leptoscopidae/lesueurina.json"
+    }
+  ]
+}

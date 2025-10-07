@@ -1,0 +1,17 @@
+{
+  "Family": "Kyphosidae",
+  "Order": "Centrarchiformes",
+  "Common": "Sea chubs",
+  "Genera": [
+    {
+      "Genus": "Kyphosus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/kyphosidae/kyphosus.json"
+    },
+    {
+      "Genus": "Neoscorpis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/kyphosidae/neoscorpis.json"
+    }
+  ]
+}

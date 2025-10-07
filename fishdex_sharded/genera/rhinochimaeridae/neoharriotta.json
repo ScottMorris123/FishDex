@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Neoharriotta carri",
+    "SpecCode": "52778",
+    "CommonName": "Kariibi uusharriott",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoharriotta pinnata",
+    "SpecCode": "9003",
+    "CommonName": "Atlandi uusharriott",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoharriotta pumila",
+    "SpecCode": "52788",
+    "CommonName": "Väike uusharriott",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

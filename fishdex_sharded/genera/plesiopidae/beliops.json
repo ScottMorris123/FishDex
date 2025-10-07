@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Beliops batanensis",
+    "SpecCode": "59210",
+    "CommonName": "Batan longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Beliops xanthokrossos",
+    "SpecCode": "14952",
+    "CommonName": "Southern longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

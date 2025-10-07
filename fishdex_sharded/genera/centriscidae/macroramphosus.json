@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Macroramphosus gracilis",
+    "SpecCode": "3277",
+    "CommonName": "Canario",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macroramphosus scolopax",
+    "SpecCode": "333",
+    "CommonName": "Almindelig sneppefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

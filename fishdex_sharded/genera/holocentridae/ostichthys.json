@@ -1,0 +1,146 @@
+[
+  {
+    "ScientificName": "Ostichthys acanthorhinus",
+    "SpecCode": "10640",
+    "CommonName": "Spinesnout soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys archiepiscopus",
+    "SpecCode": "7713",
+    "CommonName": "Cardinal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys brachygnathus",
+    "SpecCode": "58753",
+    "CommonName": "Shortjaw soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys convexus",
+    "SpecCode": "68270",
+    "CommonName": "Roundhead soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys daniela",
+    "SpecCode": "68271",
+    "CommonName": "Daniela's soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys delta",
+    "SpecCode": "16853",
+    "CommonName": "Malau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys hypsipterygion",
+    "SpecCode": "23353",
+    "CommonName": "Highfin soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys japonicus",
+    "SpecCode": "8265",
+    "CommonName": "Brocade perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys kaianus",
+    "SpecCode": "10285",
+    "CommonName": "Baga-Baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys kinchi",
+    "SpecCode": "69073",
+    "CommonName": "New Ireland soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys ovaloculus",
+    "SpecCode": "59156",
+    "CommonName": "Ovaleye soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys sandix",
+    "SpecCode": "59157",
+    "CommonName": "Vermilion soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys sheni",
+    "SpecCode": "54321",
+    "CommonName": "Shen's soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys spiniger",
+    "SpecCode": "69072",
+    "CommonName": "Western Pacific spinysnout soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys sufensis",
+    "SpecCode": "68273",
+    "CommonName": "Kheha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostichthys trachypoma",
+    "SpecCode": "3252",
+    "CommonName": "Ara-ebisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "Family": "Siluridae",
+  "Order": "Siluriformes",
+  "Common": "Sheatfishes",
+  "Genera": [
+    {
+      "Genus": "Belodontichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/siluridae/belodontichthys.json"
+    },
+    {
+      "Genus": "Ceratoglanis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/siluridae/ceratoglanis.json"
+    },
+    {
+      "Genus": "Hemisilurus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/siluridae/hemisilurus.json"
+    },
+    {
+      "Genus": "Kryptopterus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/siluridae/kryptopterus.json"
+    },
+    {
+      "Genus": "Micronema",
+      "SpeciesCount": 3,
+      "genus_path": "genera/siluridae/micronema.json"
+    },
+    {
+      "Genus": "Ompok",
+      "SpeciesCount": 28,
+      "genus_path": "genera/siluridae/ompok.json"
+    },
+    {
+      "Genus": "Phalacronotus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/siluridae/phalacronotus.json"
+    },
+    {
+      "Genus": "Pinniwallago",
+      "SpeciesCount": 1,
+      "genus_path": "genera/siluridae/pinniwallago.json"
+    },
+    {
+      "Genus": "Pterocryptis",
+      "SpeciesCount": 17,
+      "genus_path": "genera/siluridae/pterocryptis.json"
+    },
+    {
+      "Genus": "Silurichthys",
+      "SpeciesCount": 9,
+      "genus_path": "genera/siluridae/silurichthys.json"
+    },
+    {
+      "Genus": "Silurus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/siluridae/silurus.json"
+    },
+    {
+      "Genus": "Wallago",
+      "SpeciesCount": 5,
+      "genus_path": "genera/siluridae/wallago.json"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Letharchus aliculatus",
+    "SpecCode": "53833",
+    "CommonName": "Hadař salvadorský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Letharchus rosenblatti",
+    "SpecCode": "13911",
+    "CommonName": "Black sailfin eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Letharchus velifer",
+    "SpecCode": "2648",
+    "CommonName": "American sailfin eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

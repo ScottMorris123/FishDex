@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Glyptocephalus cynoglossus",
+    "SpecCode": "26",
+    "CommonName": "Almindelig skærising",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptocephalus kitaharae",
+    "SpecCode": "8558",
+    "CommonName": "Cháng dié",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptocephalus stelleri",
+    "SpecCode": "8843",
+    "CommonName": "Blackfin flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptocephalus zachirus",
+    "SpecCode": "4238",
+    "CommonName": "Amerikanische Scholle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

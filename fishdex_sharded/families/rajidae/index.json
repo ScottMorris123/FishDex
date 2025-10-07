@@ -1,0 +1,97 @@
+{
+  "Family": "Rajidae",
+  "Order": "Rajiformes",
+  "Common": "Skates",
+  "Genera": [
+    {
+      "Genus": "Amblyraja",
+      "SpeciesCount": 8,
+      "genus_path": "genera/rajidae/amblyraja.json"
+    },
+    {
+      "Genus": "Beringraja",
+      "SpeciesCount": 2,
+      "genus_path": "genera/rajidae/beringraja.json"
+    },
+    {
+      "Genus": "Breviraja",
+      "SpeciesCount": 5,
+      "genus_path": "genera/rajidae/breviraja.json"
+    },
+    {
+      "Genus": "Caliraja",
+      "SpeciesCount": 4,
+      "genus_path": "genera/rajidae/caliraja.json"
+    },
+    {
+      "Genus": "Dactylobatus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/rajidae/dactylobatus.json"
+    },
+    {
+      "Genus": "Dentiraja",
+      "SpeciesCount": 10,
+      "genus_path": "genera/rajidae/dentiraja.json"
+    },
+    {
+      "Genus": "Dipturus",
+      "SpeciesCount": 42,
+      "genus_path": "genera/rajidae/dipturus.json"
+    },
+    {
+      "Genus": "Hongeo",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rajidae/hongeo.json"
+    },
+    {
+      "Genus": "Leucoraja",
+      "SpeciesCount": 16,
+      "genus_path": "genera/rajidae/leucoraja.json"
+    },
+    {
+      "Genus": "Malacoraja",
+      "SpeciesCount": 4,
+      "genus_path": "genera/rajidae/malacoraja.json"
+    },
+    {
+      "Genus": "Neoraja",
+      "SpeciesCount": 5,
+      "genus_path": "genera/rajidae/neoraja.json"
+    },
+    {
+      "Genus": "Okamejei",
+      "SpeciesCount": 14,
+      "genus_path": "genera/rajidae/okamejei.json"
+    },
+    {
+      "Genus": "Orbiraja",
+      "SpeciesCount": 2,
+      "genus_path": "genera/rajidae/orbiraja.json"
+    },
+    {
+      "Genus": "Raja",
+      "SpeciesCount": 18,
+      "genus_path": "genera/rajidae/raja.json"
+    },
+    {
+      "Genus": "Rajella",
+      "SpeciesCount": 18,
+      "genus_path": "genera/rajidae/rajella.json"
+    },
+    {
+      "Genus": "Rostroraja",
+      "SpeciesCount": 8,
+      "genus_path": "genera/rajidae/rostroraja.json"
+    },
+    {
+      "Genus": "Spiniraja",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rajidae/spiniraja.json"
+    },
+    {
+      "Genus": "Zearaja",
+      "SpeciesCount": 4,
+      "genus_path": "genera/rajidae/zearaja.json"
+    }
+  ]
+}

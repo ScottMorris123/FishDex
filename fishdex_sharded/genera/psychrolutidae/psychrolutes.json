@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Psychrolutes inermis",
+    "SpecCode": "17335",
+    "CommonName": "Kumanokajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes macrocephalus",
+    "SpecCode": "10709",
+    "CommonName": "大头隐棘杜父鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes marcidus",
+    "SpecCode": "14347",
+    "CommonName": "Australian sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes marmoratus",
+    "SpecCode": "51729",
+    "CommonName": "Fathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes microporos",
+    "SpecCode": "58788",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes occidentalis",
+    "SpecCode": "51728",
+    "CommonName": "Vestaustralsk paddeulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes paradoxus",
+    "SpecCode": "4135",
+    "CommonName": "Haletudse-paddeulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes phrictus",
+    "SpecCode": "11732",
+    "CommonName": "Blob sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes sigalutes",
+    "SpecCode": "4090",
+    "CommonName": "Soft sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes sio",
+    "SpecCode": "51730",
+    "CommonName": "Chascón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psychrolutes subspinosus",
+    "SpecCode": "27746",
+    "CommonName": "Gaddahnýtill",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

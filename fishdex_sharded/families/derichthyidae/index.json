@@ -1,0 +1,17 @@
+{
+  "Family": "Derichthyidae",
+  "Order": "Anguilliformes",
+  "Common": "Longneck eels",
+  "Genera": [
+    {
+      "Genus": "Derichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/derichthyidae/derichthys.json"
+    },
+    {
+      "Genus": "Nessorhamphus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/derichthyidae/nessorhamphus.json"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Bivibranchia bimaculata",
+    "SpecCode": "27809",
+    "CommonName": "Apaolobi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bivibranchia fowleri",
+    "SpecCode": "51223",
+    "CommonName": "Hopeakeilatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bivibranchia notata",
+    "SpecCode": "52502",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bivibranchia simulata",
+    "SpecCode": "27811",
+    "CommonName": "Apaolobi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bivibranchia velox",
+    "SpecCode": "51891",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

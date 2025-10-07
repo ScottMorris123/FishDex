@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Hydrocynus brevis",
+    "SpecCode": "5227",
+    "CommonName": "Akao",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hydrocynus forskahlii",
+    "SpecCode": "4496",
+    "CommonName": "Akao",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hydrocynus goliath",
+    "SpecCode": "8682",
+    "CommonName": "Giant tigerfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hydrocynus tanzaniae",
+    "SpecCode": "60308",
+    "CommonName": "Tansaania vesihunt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hydrocynus vittatus",
+    "SpecCode": "4479",
+    "CommonName": "Akao",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

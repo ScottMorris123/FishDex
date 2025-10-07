@@ -1,0 +1,84 @@
+[
+  {
+    "ScientificName": "Goniistius francisi",
+    "SpecCode": "64744",
+    "CommonName": "Blacktip morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goniistius gibbosus",
+    "SpecCode": "56144",
+    "CommonName": "Crested morwong",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goniistius plessisi",
+    "SpecCode": "24447",
+    "CommonName": "Plessis' morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goniistius quadricornis",
+    "SpecCode": "23504",
+    "CommonName": "Bēi dài wēng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goniistius rubrolabiatus",
+    "SpecCode": "56145",
+    "CommonName": "Punahuul-küüskala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goniistius vestitus",
+    "SpecCode": "14413",
+    "CommonName": "Crested morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goniistius vittatus",
+    "SpecCode": "7483",
+    "CommonName": "Hawaiian morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goniistius zebra",
+    "SpecCode": "11998",
+    "CommonName": "Migimaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goniistius zonatus",
+    "SpecCode": "6586",
+    "CommonName": "Ca nen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

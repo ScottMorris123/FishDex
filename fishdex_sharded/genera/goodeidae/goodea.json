@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Goodea atripinnis",
+    "SpecCode": "11945",
+    "CommonName": "Blackfin goodea",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goodea gracilis",
+    "SpecCode": "6240",
+    "CommonName": "Dusky splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Goodea luitpoldii",
+    "SpecCode": "61559",
+    "CommonName": "Green goodea",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

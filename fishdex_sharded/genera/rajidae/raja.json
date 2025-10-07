@@ -1,0 +1,165 @@
+[
+  {
+    "ScientificName": "Raja asterias",
+    "SpecCode": "8924",
+    "CommonName": "Arzilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja brachyura",
+    "SpecCode": "4552",
+    "CommonName": "Arraia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja clavata",
+    "SpecCode": "2059",
+    "CommonName": "Arraia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja herwigi",
+    "SpecCode": "8926",
+    "CommonName": "Cape Verde skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja maderensis",
+    "SpecCode": "5013",
+    "CommonName": "Arraia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja mauritaniensis",
+    "SpecCode": "8923",
+    "CommonName": "Aafrika rai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja microocellata",
+    "SpecCode": "5492",
+    "CommonName": "Arrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja miraletus",
+    "SpecCode": "5014",
+    "CommonName": "Arzilla",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja montagui",
+    "SpecCode": "4329",
+    "CommonName": "Baqara Na'hmeh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja ocellifera",
+    "SpecCode": "69056",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja parva",
+    "SpecCode": "68027",
+    "CommonName": "African brown skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja pita",
+    "SpecCode": "28130",
+    "CommonName": "Pita skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja polystigma",
+    "SpecCode": "9283",
+    "CommonName": "Črnopegasta raža",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja radula",
+    "SpecCode": "8929",
+    "CommonName": "Baqaret Mabrad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja rondeleti",
+    "SpecCode": "9303",
+    "CommonName": "Achinovatos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja rouxi",
+    "SpecCode": "8934",
+    "CommonName": "Guinea rai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja straeleni",
+    "SpecCode": "5015",
+    "CommonName": "Biscuit skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Raja undulata",
+    "SpecCode": "7617",
+    "CommonName": "Aaltorausku",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

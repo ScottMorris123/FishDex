@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Cottiusculus gonez",
+    "SpecCode": "23946",
+    "CommonName": "Kin-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottiusculus nihonkaiensis",
+    "SpecCode": "65530",
+    "CommonName": "Nihon-kin-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottiusculus primoricus",
+    "SpecCode": "70314",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottiusculus schmidti",
+    "SpecCode": "23947",
+    "CommonName": "Kinkajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

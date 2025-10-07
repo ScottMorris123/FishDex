@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Aplatophis chauliodus",
+    "SpecCode": "7550",
+    "CommonName": "Fangtooth snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplatophis zorro",
+    "SpecCode": "59958",
+    "CommonName": "Snaggle-toothed snake-eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "Family": "Botiidae",
+  "Order": "Cypriniformes",
+  "Common": "Pointface loaches",
+  "Genera": [
+    {
+      "Genus": "Ambastaia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/botiidae/ambastaia.json"
+    },
+    {
+      "Genus": "Botia",
+      "SpeciesCount": 9,
+      "genus_path": "genera/botiidae/botia.json"
+    },
+    {
+      "Genus": "Chromobotia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/botiidae/chromobotia.json"
+    },
+    {
+      "Genus": "Leptobotia",
+      "SpeciesCount": 17,
+      "genus_path": "genera/botiidae/leptobotia.json"
+    },
+    {
+      "Genus": "Parabotia",
+      "SpeciesCount": 13,
+      "genus_path": "genera/botiidae/parabotia.json"
+    },
+    {
+      "Genus": "Sinibotia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/botiidae/sinibotia.json"
+    },
+    {
+      "Genus": "Syncrossus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/botiidae/syncrossus.json"
+    },
+    {
+      "Genus": "Yasuhikotakia",
+      "SpeciesCount": 7,
+      "genus_path": "genera/botiidae/yasuhikotakia.json"
+    }
+  ]
+}

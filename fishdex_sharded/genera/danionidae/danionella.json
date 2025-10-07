@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Danionella dracula",
+    "SpecCode": "65081",
+    "CommonName": "Drakuladanionell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Danionella mirifica",
+    "SpecCode": "61690",
+    "CommonName": "Kamaingi danionell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Danionella priapus",
+    "SpecCode": "65212",
+    "CommonName": "Priaposdanionell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Danionella translucida",
+    "SpecCode": "27287",
+    "CommonName": "Dánio průsvitné",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

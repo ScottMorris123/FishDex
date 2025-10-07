@@ -1,0 +1,22 @@
+{
+  "Family": "Lotidae",
+  "Order": "Gadiformes",
+  "Common": "Hakes and burbots",
+  "Genera": [
+    {
+      "Genus": "Brosme",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lotidae/brosme.json"
+    },
+    {
+      "Genus": "Lota",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lotidae/lota.json"
+    },
+    {
+      "Genus": "Molva",
+      "SpeciesCount": 3,
+      "genus_path": "genera/lotidae/molva.json"
+    }
+  ]
+}

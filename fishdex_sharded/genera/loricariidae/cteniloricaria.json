@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Cteniloricaria maculata",
+    "SpecCode": "48315",
+    "CommonName": "Acari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cteniloricaria napova",
+    "SpecCode": "66579",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cteniloricaria platystoma",
+    "SpecCode": "48316",
+    "CommonName": "扁身梳甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

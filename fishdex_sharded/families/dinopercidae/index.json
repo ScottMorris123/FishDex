@@ -1,0 +1,17 @@
+{
+  "Family": "Dinopercidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Cavebasses",
+  "Genera": [
+    {
+      "Genus": "Centrarchops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinopercidae/centrarchops.json"
+    },
+    {
+      "Genus": "Dinoperca",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinopercidae/dinoperca.json"
+    }
+  ]
+}

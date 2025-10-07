@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Idiacanthus antrostomus",
+    "SpecCode": "11585",
+    "CommonName": "Črna zmajevka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Idiacanthus atlanticus",
+    "SpecCode": "6970",
+    "CommonName": "Atlantic dragonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Idiacanthus fasciola",
+    "SpecCode": "11828",
+    "CommonName": "Black dragon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

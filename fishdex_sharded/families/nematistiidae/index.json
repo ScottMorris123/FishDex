@@ -1,0 +1,12 @@
+{
+  "Family": "Nematistiidae",
+  "Order": "Carangiformes",
+  "Common": "Roosterfish",
+  "Genera": [
+    {
+      "Genus": "Nematistius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nematistiidae/nematistius.json"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Family": "Hypoptychidae",
+  "Order": "Perciformes/Gasterosteoidei",
+  "Common": "Sand eel",
+  "Genera": [
+    {
+      "Genus": "Aulichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hypoptychidae/aulichthys.json"
+    },
+    {
+      "Genus": "Hypoptychus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hypoptychidae/hypoptychus.json"
+    }
+  ]
+}

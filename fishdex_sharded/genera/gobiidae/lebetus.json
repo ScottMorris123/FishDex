@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lebetus guilleti",
+    "SpecCode": "459",
+    "CommonName": "Dvärgstubb",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lebetus patzneri",
+    "SpecCode": "69119",
+    "CommonName": "Patzner's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lebetus scorpioides",
+    "SpecCode": "456",
+    "CommonName": "Babka plowa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

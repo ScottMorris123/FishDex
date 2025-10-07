@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Rastrelliger brachysoma",
+    "SpecCode": "109",
+    "CommonName": "A gurukuma",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rastrelliger faughni",
+    "SpecCode": "110",
+    "CommonName": "Alumahan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rastrelliger kanagurta",
+    "SpecCode": "111",
+    "CommonName": "Aguma-a",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

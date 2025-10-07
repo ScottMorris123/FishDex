@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Eurypegasus draconis",
+    "SpecCode": "4606",
+    "CommonName": "Belalang karang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eurypegasus papilio",
+    "SpecCode": "4607",
+    "CommonName": "Hawaiian sea-moth fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

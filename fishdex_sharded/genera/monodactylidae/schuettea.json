@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Schuettea scalaripinnis",
+    "SpecCode": "52459",
+    "CommonName": "Eastern pomfred",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schuettea woodwardi",
+    "SpecCode": "59432",
+    "CommonName": "Sydøstaustralsk månefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Schroederichthys bivius",
+    "SpecCode": "838",
+    "CommonName": "Holbiche blanche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schroederichthys chilensis",
+    "SpecCode": "839",
+    "CommonName": "Holbiche à taches rouges",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schroederichthys maculatus",
+    "SpecCode": "840",
+    "CommonName": "Holbiche petite queue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schroederichthys saurisqualus",
+    "SpecCode": "61185",
+    "CommonName": "Lizard catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schroederichthys tenuis",
+    "SpecCode": "842",
+    "CommonName": "Cação-pinto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

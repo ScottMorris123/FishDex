@@ -1,0 +1,17 @@
+{
+  "Family": "Sinipercidae",
+  "Order": "Centrarchiformes",
+  "Common": "Chinese perches",
+  "Genera": [
+    {
+      "Genus": "Coreoperca",
+      "SpeciesCount": 5,
+      "genus_path": "genera/sinipercidae/coreoperca.json"
+    },
+    {
+      "Genus": "Siniperca",
+      "SpeciesCount": 9,
+      "genus_path": "genera/sinipercidae/siniperca.json"
+    }
+  ]
+}

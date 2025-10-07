@@ -1,0 +1,167 @@
+{
+  "Family": "Liparidae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Snailfishes",
+  "Genera": [
+    {
+      "Genus": "Acantholiparis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/liparidae/acantholiparis.json"
+    },
+    {
+      "Genus": "Aetheliparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/aetheliparis.json"
+    },
+    {
+      "Genus": "Allocareproctus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/liparidae/allocareproctus.json"
+    },
+    {
+      "Genus": "Careproctus",
+      "SpeciesCount": 132,
+      "genus_path": "genera/liparidae/careproctus.json"
+    },
+    {
+      "Genus": "Crystallias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/crystallias.json"
+    },
+    {
+      "Genus": "Crystallichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/liparidae/crystallichthys.json"
+    },
+    {
+      "Genus": "Edentoliparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/edentoliparis.json"
+    },
+    {
+      "Genus": "Eknomoliparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/eknomoliparis.json"
+    },
+    {
+      "Genus": "Elassodiscus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/liparidae/elassodiscus.json"
+    },
+    {
+      "Genus": "Eutelichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/eutelichthys.json"
+    },
+    {
+      "Genus": "Genioliparis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/liparidae/genioliparis.json"
+    },
+    {
+      "Genus": "Gyrinichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/gyrinichthys.json"
+    },
+    {
+      "Genus": "Liparis",
+      "SpeciesCount": 62,
+      "genus_path": "genera/liparidae/liparis.json"
+    },
+    {
+      "Genus": "Lipariscus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/lipariscus.json"
+    },
+    {
+      "Genus": "Lopholiparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/lopholiparis.json"
+    },
+    {
+      "Genus": "Menziesichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/menziesichthys.json"
+    },
+    {
+      "Genus": "Nectoliparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/nectoliparis.json"
+    },
+    {
+      "Genus": "Notoliparis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/liparidae/notoliparis.json"
+    },
+    {
+      "Genus": "Osteodiscus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/liparidae/osteodiscus.json"
+    },
+    {
+      "Genus": "Palmoliparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/palmoliparis.json"
+    },
+    {
+      "Genus": "Paraliparis",
+      "SpeciesCount": 147,
+      "genus_path": "genera/liparidae/paraliparis.json"
+    },
+    {
+      "Genus": "Polypera",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/polypera.json"
+    },
+    {
+      "Genus": "Praematoliparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/praematoliparis.json"
+    },
+    {
+      "Genus": "Prognatholiparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/prognatholiparis.json"
+    },
+    {
+      "Genus": "Psednos",
+      "SpeciesCount": 35,
+      "genus_path": "genera/liparidae/psednos.json"
+    },
+    {
+      "Genus": "Pseudoliparis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/liparidae/pseudoliparis.json"
+    },
+    {
+      "Genus": "Pseudonotoliparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/pseudonotoliparis.json"
+    },
+    {
+      "Genus": "Rhinoliparis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/liparidae/rhinoliparis.json"
+    },
+    {
+      "Genus": "Rhodichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/liparidae/rhodichthys.json"
+    },
+    {
+      "Genus": "Squaloliparis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/squaloliparis.json"
+    },
+    {
+      "Genus": "Temnocora",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liparidae/temnocora.json"
+    },
+    {
+      "Genus": "Volodichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/liparidae/volodichthys.json"
+    }
+  ]
+}

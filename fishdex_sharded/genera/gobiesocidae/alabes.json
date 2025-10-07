@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Alabes bathys",
+    "SpecCode": "64541",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes brevis",
+    "SpecCode": "55697",
+    "CommonName": "Short shore eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes dorsalis",
+    "SpecCode": "51362",
+    "CommonName": "Ålelignende dobbeltsuger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes elongata",
+    "SpecCode": "62615",
+    "CommonName": "Elongate shore eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes gibbosa",
+    "SpecCode": "62616",
+    "CommonName": "Hunchback shore eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes hoesei",
+    "SpecCode": "51367",
+    "CommonName": "Dwarf shore eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes obtusirostris",
+    "SpecCode": "62634",
+    "CommonName": "Pugnose shore eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes occidentalis",
+    "SpecCode": "62635",
+    "CommonName": "Western shore eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes parvula",
+    "SpecCode": "27497",
+    "CommonName": "Eel clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes scotti",
+    "SpecCode": "62638",
+    "CommonName": "Scott's shore eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alabes springeri",
+    "SpecCode": "64542",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bathyuroconger parvibranchialis",
+    "SpecCode": "58538",
+    "CommonName": "Pisipilu-taarnaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyuroconger vicinus",
+    "SpecCode": "9061",
+    "CommonName": "Congrio dentudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

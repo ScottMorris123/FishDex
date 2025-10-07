@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Nimbochromis fuscotaeniatus",
+    "SpecCode": "2280",
+    "CommonName": "Bale wam' muna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nimbochromis linni",
+    "SpecCode": "2275",
+    "CommonName": "Bele wa blue",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nimbochromis livingstonii",
+    "SpecCode": "2274",
+    "CommonName": "Gebacz plamisty",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nimbochromis polystigma",
+    "SpecCode": "2277",
+    "CommonName": "Gebacz wieloplamy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nimbochromis venustus",
+    "SpecCode": "2279",
+    "CommonName": "Chibang'ombi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

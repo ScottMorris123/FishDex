@@ -1,0 +1,17 @@
+{
+  "Family": "Trachinidae",
+  "Order": "Perciformes/Percoidei",
+  "Common": "Weeverfishes",
+  "Genera": [
+    {
+      "Genus": "Echiichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trachinidae/echiichthys.json"
+    },
+    {
+      "Genus": "Trachinus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/trachinidae/trachinus.json"
+    }
+  ]
+}

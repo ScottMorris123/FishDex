@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Bathyclupea hoskynii",
+    "SpecCode": "50085",
+    "CommonName": "India ebaheeringas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyclupea nikparini",
+    "SpecCode": "69110",
+    "CommonName": "Deepsea herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyclupea schroederi",
+    "SpecCode": "52845",
+    "CommonName": "Schroeder's deepsea herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

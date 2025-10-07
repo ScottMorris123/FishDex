@@ -1,0 +1,352 @@
+{
+  "Family": "Sciaenidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Drums or croakers",
+  "Genera": [
+    {
+      "Genus": "Aplodinotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/aplodinotus.json"
+    },
+    {
+      "Genus": "Argyrosomus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/sciaenidae/argyrosomus.json"
+    },
+    {
+      "Genus": "Aspericorvina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/aspericorvina.json"
+    },
+    {
+      "Genus": "Atractoscion",
+      "SpeciesCount": 5,
+      "genus_path": "genera/sciaenidae/atractoscion.json"
+    },
+    {
+      "Genus": "Atrobucca",
+      "SpeciesCount": 10,
+      "genus_path": "genera/sciaenidae/atrobucca.json"
+    },
+    {
+      "Genus": "Austronibea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/austronibea.json"
+    },
+    {
+      "Genus": "Bahaba",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sciaenidae/bahaba.json"
+    },
+    {
+      "Genus": "Bairdiella",
+      "SpeciesCount": 7,
+      "genus_path": "genera/sciaenidae/bairdiella.json"
+    },
+    {
+      "Genus": "Boesemania",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/boesemania.json"
+    },
+    {
+      "Genus": "Cheilotrema",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sciaenidae/cheilotrema.json"
+    },
+    {
+      "Genus": "Chrysochir",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/chrysochir.json"
+    },
+    {
+      "Genus": "Cilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/cilus.json"
+    },
+    {
+      "Genus": "Collichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sciaenidae/collichthys.json"
+    },
+    {
+      "Genus": "Corvula",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sciaenidae/corvula.json"
+    },
+    {
+      "Genus": "Ctenosciaena",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sciaenidae/ctenosciaena.json"
+    },
+    {
+      "Genus": "Cynoscion",
+      "SpeciesCount": 25,
+      "genus_path": "genera/sciaenidae/cynoscion.json"
+    },
+    {
+      "Genus": "Daysciaena",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/daysciaena.json"
+    },
+    {
+      "Genus": "Dendrophysa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/dendrophysa.json"
+    },
+    {
+      "Genus": "Elattarchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/elattarchus.json"
+    },
+    {
+      "Genus": "Eques",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/eques.json"
+    },
+    {
+      "Genus": "Equetus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/equetus.json"
+    },
+    {
+      "Genus": "Genyonemus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/genyonemus.json"
+    },
+    {
+      "Genus": "Isopisthus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sciaenidae/isopisthus.json"
+    },
+    {
+      "Genus": "Johnius",
+      "SpeciesCount": 35,
+      "genus_path": "genera/sciaenidae/johnius.json"
+    },
+    {
+      "Genus": "Kathala",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/kathala.json"
+    },
+    {
+      "Genus": "Larimichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sciaenidae/larimichthys.json"
+    },
+    {
+      "Genus": "Larimus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/sciaenidae/larimus.json"
+    },
+    {
+      "Genus": "Leiostomus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/leiostomus.json"
+    },
+    {
+      "Genus": "Lonchurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sciaenidae/lonchurus.json"
+    },
+    {
+      "Genus": "Macrodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sciaenidae/macrodon.json"
+    },
+    {
+      "Genus": "Macrospinosa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/macrospinosa.json"
+    },
+    {
+      "Genus": "Megalonibea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/megalonibea.json"
+    },
+    {
+      "Genus": "Menticirrhus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/sciaenidae/menticirrhus.json"
+    },
+    {
+      "Genus": "Micropogonias",
+      "SpeciesCount": 6,
+      "genus_path": "genera/sciaenidae/micropogonias.json"
+    },
+    {
+      "Genus": "Miichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/miichthys.json"
+    },
+    {
+      "Genus": "Miracorvina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/miracorvina.json"
+    },
+    {
+      "Genus": "Nebris",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sciaenidae/nebris.json"
+    },
+    {
+      "Genus": "Nibea",
+      "SpeciesCount": 10,
+      "genus_path": "genera/sciaenidae/nibea.json"
+    },
+    {
+      "Genus": "Odontoscion",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sciaenidae/odontoscion.json"
+    },
+    {
+      "Genus": "Ophioscion",
+      "SpeciesCount": 9,
+      "genus_path": "genera/sciaenidae/ophioscion.json"
+    },
+    {
+      "Genus": "Otolithes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sciaenidae/otolithes.json"
+    },
+    {
+      "Genus": "Otolithoides",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sciaenidae/otolithoides.json"
+    },
+    {
+      "Genus": "Pachypops",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sciaenidae/pachypops.json"
+    },
+    {
+      "Genus": "Pachyurus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/sciaenidae/pachyurus.json"
+    },
+    {
+      "Genus": "Panna",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sciaenidae/panna.json"
+    },
+    {
+      "Genus": "Paralonchurus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/sciaenidae/paralonchurus.json"
+    },
+    {
+      "Genus": "Paranebris",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/paranebris.json"
+    },
+    {
+      "Genus": "Paranibea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/paranibea.json"
+    },
+    {
+      "Genus": "Pareques",
+      "SpeciesCount": 8,
+      "genus_path": "genera/sciaenidae/pareques.json"
+    },
+    {
+      "Genus": "Pennahia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/sciaenidae/pennahia.json"
+    },
+    {
+      "Genus": "Pentheroscion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/pentheroscion.json"
+    },
+    {
+      "Genus": "Petilipinnis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/petilipinnis.json"
+    },
+    {
+      "Genus": "Plagioscion",
+      "SpeciesCount": 7,
+      "genus_path": "genera/sciaenidae/plagioscion.json"
+    },
+    {
+      "Genus": "Pogonias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/pogonias.json"
+    },
+    {
+      "Genus": "Protonibea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/protonibea.json"
+    },
+    {
+      "Genus": "Protosciaena",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sciaenidae/protosciaena.json"
+    },
+    {
+      "Genus": "Pseudolarimichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/pseudolarimichthys.json"
+    },
+    {
+      "Genus": "Pseudotolithus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/sciaenidae/pseudotolithus.json"
+    },
+    {
+      "Genus": "Pteroscion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/pteroscion.json"
+    },
+    {
+      "Genus": "Pterotolithus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sciaenidae/pterotolithus.json"
+    },
+    {
+      "Genus": "Robaloscion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/robaloscion.json"
+    },
+    {
+      "Genus": "Roncador",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/roncador.json"
+    },
+    {
+      "Genus": "Sciaena",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sciaenidae/sciaena.json"
+    },
+    {
+      "Genus": "Sciaenops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/sciaenops.json"
+    },
+    {
+      "Genus": "Seriphus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/seriphus.json"
+    },
+    {
+      "Genus": "Sonorolux",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/sonorolux.json"
+    },
+    {
+      "Genus": "Stellifer",
+      "SpeciesCount": 31,
+      "genus_path": "genera/sciaenidae/stellifer.json"
+    },
+    {
+      "Genus": "Totoaba",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sciaenidae/totoaba.json"
+    },
+    {
+      "Genus": "Umbrina",
+      "SpeciesCount": 17,
+      "genus_path": "genera/sciaenidae/umbrina.json"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Microlepidotus brevipinnis",
+    "SpecCode": "13722",
+    "CommonName": "Brassy grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microlepidotus inornatus",
+    "SpecCode": "3569",
+    "CommonName": "Cagna jopaton",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microlepidotus lethopristis",
+    "SpecCode": "60747",
+    "CommonName": "Roncador escamado de aletas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

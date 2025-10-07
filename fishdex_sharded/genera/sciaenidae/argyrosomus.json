@@ -1,0 +1,89 @@
+[
+  {
+    "ScientificName": "Argyrosomus amoyensis",
+    "SpecCode": "10367",
+    "CommonName": "Amoy croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrosomus beccus",
+    "SpecCode": "15852",
+    "CommonName": "喙吻白姑魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrosomus coronus",
+    "SpecCode": "17278",
+    "CommonName": "Coron meagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrosomus heinii",
+    "SpecCode": "14392",
+    "CommonName": "Arabian sea meagre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrosomus hololepidotus",
+    "SpecCode": "419",
+    "CommonName": "Afrikansk havsgös",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrosomus inodorus",
+    "SpecCode": "17270",
+    "CommonName": "Kabeljou",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrosomus japonicus",
+    "SpecCode": "11979",
+    "CommonName": "Butterfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrosomus regius",
+    "SpecCode": "418",
+    "CommonName": "Adlerfisch",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrosomus thorpei",
+    "SpecCode": "7916",
+    "CommonName": "Corvina du Sudáfrica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

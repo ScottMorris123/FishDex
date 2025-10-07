@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Crapatalus angusticeps",
+    "SpecCode": "47024",
+    "CommonName": "Slender stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crapatalus munroi",
+    "SpecCode": "51513",
+    "CommonName": "Munro's pygmy-stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crapatalus novaezelandiae",
+    "SpecCode": "49317",
+    "CommonName": "Sand stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

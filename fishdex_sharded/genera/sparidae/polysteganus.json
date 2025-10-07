@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Polysteganus baissaci",
+    "SpecCode": "14399",
+    "CommonName": "Denté guingham",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polysteganus cerasinus",
+    "SpecCode": "68064",
+    "CommonName": "Cherry seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polysteganus coeruleopunctatus",
+    "SpecCode": "7935",
+    "CommonName": "Bir-birtoy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polysteganus flavodorsalis",
+    "SpecCode": "68063",
+    "CommonName": "Yellowfin seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polysteganus lineopunctatus",
+    "SpecCode": "68060",
+    "CommonName": "Bluespotted seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polysteganus mascarenensis",
+    "SpecCode": "66273",
+    "CommonName": "Mascarene Red Seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polysteganus praeorbitalis",
+    "SpecCode": "5533",
+    "CommonName": "Denté du Natal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polysteganus undulosus",
+    "SpecCode": "4542",
+    "CommonName": "Denté maculé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

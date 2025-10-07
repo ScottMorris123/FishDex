@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Cancelloxus burrelli",
+    "SpecCode": "16984",
+    "CommonName": "Slank platanna-klipvis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cancelloxus elongatus",
+    "SpecCode": "16991",
+    "CommonName": "Whiteblotched klipfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cancelloxus longior",
+    "SpecCode": "59428",
+    "CommonName": "Elongate sand klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

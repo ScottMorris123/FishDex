@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Xenocephalus armatus",
+    "SpecCode": "27539",
+    "CommonName": "Armoured blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocephalus australiensis",
+    "SpecCode": "62090",
+    "CommonName": "Australian elongate stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocephalus cribratus",
+    "SpecCode": "56864",
+    "CommonName": "Ringed stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocephalus egregius",
+    "SpecCode": "3705",
+    "CommonName": "Freckled stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocephalus elongatus",
+    "SpecCode": "10508",
+    "CommonName": "Aomishima",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

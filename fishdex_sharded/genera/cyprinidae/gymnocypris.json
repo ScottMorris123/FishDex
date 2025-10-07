@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Gymnocypris chilianensis",
+    "SpecCode": "55387",
+    "CommonName": "Osman kansunský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocypris chui",
+    "SpecCode": "54529",
+    "CommonName": "Osman tibetský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocypris dobula",
+    "SpecCode": "54523",
+    "CommonName": "Osman čínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocypris eckloni",
+    "SpecCode": "55382",
+    "CommonName": "Eckloni paljaskarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocypris firmispinatus",
+    "SpecCode": "56080",
+    "CommonName": "Kalkuim-paljaskarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocypris namensis",
+    "SpecCode": "56099",
+    "CommonName": "Namtso paljaskarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocypris potanini",
+    "SpecCode": "55384",
+    "CommonName": "Osman Potaninův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocypris przewalskii",
+    "SpecCode": "55381",
+    "CommonName": "Osman Przewalského",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocypris scleracanthus",
+    "SpecCode": "56081",
+    "CommonName": "Langtso paljaskarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocypris waddellii",
+    "SpecCode": "54530",
+    "CommonName": "Osman Waddellův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

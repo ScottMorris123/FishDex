@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Iago garricki",
+    "SpecCode": "5930",
+    "CommonName": "Cazón picudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iago mangalorensis",
+    "SpecCode": "66623",
+    "CommonName": "Mangalore houndshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iago omanensis",
+    "SpecCode": "5929",
+    "CommonName": "Bigeye hound shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

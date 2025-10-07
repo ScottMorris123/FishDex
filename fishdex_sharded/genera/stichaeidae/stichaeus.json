@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Stichaeus fuscus",
+    "SpecCode": "51672",
+    "CommonName": "Tsuchi-gaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stichaeus grigorjewi",
+    "SpecCode": "23789",
+    "CommonName": "Grigorjevi ridakala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stichaeus nozawae",
+    "SpecCode": "23790",
+    "CommonName": "Nozava ridakala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stichaeus ochriamkini",
+    "SpecCode": "50415",
+    "CommonName": "Ohrjamkini ridakala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stichaeus pulcherrimus",
+    "SpecCode": "58894",
+    "CommonName": "Pyatnistiy stikhey",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stichaeus punctatus",
+    "SpecCode": "3795",
+    "CommonName": "Akkulliakitsok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

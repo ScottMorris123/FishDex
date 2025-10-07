@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Paraconger californiensis",
+    "SpecCode": "13613",
+    "CommonName": "Californian conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraconger caudilimbatus",
+    "SpecCode": "2631",
+    "CommonName": "Conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraconger guianensis",
+    "SpecCode": "57591",
+    "CommonName": "Guajaana ebameriangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraconger macrops",
+    "SpecCode": "16331",
+    "CommonName": "Blackspot conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraconger notialis",
+    "SpecCode": "5069",
+    "CommonName": "Ableku",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraconger ophichthys",
+    "SpecCode": "60622",
+    "CommonName": "Kookosesaare ebameriangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraconger similis",
+    "SpecCode": "13608",
+    "CommonName": "Congre à queue courte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

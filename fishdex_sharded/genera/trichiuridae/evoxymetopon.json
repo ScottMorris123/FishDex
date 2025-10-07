@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Evoxymetopon macrophthalmus",
+    "SpecCode": "63385",
+    "CommonName": "Bigeye scabbard fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evoxymetopon moricheni",
+    "SpecCode": "67821",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evoxymetopon poeyi",
+    "SpecCode": "8659",
+    "CommonName": "Hirenaga-yumetachi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evoxymetopon taeniatus",
+    "SpecCode": "7498",
+    "CommonName": "Channel Scabbardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "Family": "Erythrinidae",
+  "Order": "Characiformes",
+  "Common": "Trahiras",
+  "Genera": [
+    {
+      "Genus": "Erythrinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/erythrinidae/erythrinus.json"
+    },
+    {
+      "Genus": "Hoplerythrinus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/erythrinidae/hoplerythrinus.json"
+    },
+    {
+      "Genus": "Hoplias",
+      "SpeciesCount": 13,
+      "genus_path": "genera/erythrinidae/hoplias.json"
+    }
+  ]
+}

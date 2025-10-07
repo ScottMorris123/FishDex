@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Turrum coeruleopinnatum",
+    "SpecCode": "1924",
+    "CommonName": "Ampahan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Turrum fulvoguttatum",
+    "SpecCode": "1926",
+    "CommonName": "Albacore",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Turrum gymnostethus",
+    "SpecCode": "1905",
+    "CommonName": "Andaman-aji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "Family": "Synagropidae",
+  "Order": "Acropomatiformes",
+  "Common": "Splitfin ocean-basses",
+  "Genera": [
+    {
+      "Genus": "Caraibops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synagropidae/caraibops.json"
+    },
+    {
+      "Genus": "Kaperangus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synagropidae/kaperangus.json"
+    },
+    {
+      "Genus": "Parascombrops",
+      "SpeciesCount": 13,
+      "genus_path": "genera/synagropidae/parascombrops.json"
+    },
+    {
+      "Genus": "Synagrops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/synagropidae/synagrops.json"
+    }
+  ]
+}

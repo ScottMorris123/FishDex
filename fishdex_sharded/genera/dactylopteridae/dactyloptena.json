@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Dactyloptena gilberti",
+    "SpecCode": "24054",
+    "CommonName": "Flying gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloptena macracantha",
+    "SpecCode": "8239",
+    "CommonName": "Alón buho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloptena orientalis",
+    "SpecCode": "4485",
+    "CommonName": "Alón oriental",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloptena papilio",
+    "SpecCode": "10790",
+    "CommonName": "Bebaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloptena peterseni",
+    "SpecCode": "7691",
+    "CommonName": "Boomet al-Bahar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloptena tiltoni",
+    "SpecCode": "50799",
+    "CommonName": "Plain helmet gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

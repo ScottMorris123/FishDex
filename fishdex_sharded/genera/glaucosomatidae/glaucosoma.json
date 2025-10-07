@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Glaucosoma buergeri",
+    "SpecCode": "10793",
+    "CommonName": "Aobadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucosoma hebraicum",
+    "SpecCode": "14956",
+    "CommonName": "Aobadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucosoma magnificum",
+    "SpecCode": "10794",
+    "CommonName": "Pearl perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucosoma scapulare",
+    "SpecCode": "14958",
+    "CommonName": "Almindelig perleaborre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

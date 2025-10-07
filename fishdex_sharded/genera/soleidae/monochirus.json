@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Monochirus atlanticus",
+    "SpecCode": "68997",
+    "CommonName": "Whiskered sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monochirus hispidus",
+    "SpecCode": "2048",
+    "CommonName": "Atlandi üksuimkeel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monochirus trichodactylus",
+    "SpecCode": "56091",
+    "CommonName": "毛鰭單臂鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

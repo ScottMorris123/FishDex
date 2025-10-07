@@ -1,0 +1,67 @@
+{
+  "Family": "Plesiopidae",
+  "Order": "Ovalentaria/misc",
+  "Common": "Roundheads",
+  "Genera": [
+    {
+      "Genus": "Acanthoclinus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/plesiopidae/acanthoclinus.json"
+    },
+    {
+      "Genus": "Acanthoplesiops",
+      "SpeciesCount": 7,
+      "genus_path": "genera/plesiopidae/acanthoplesiops.json"
+    },
+    {
+      "Genus": "Assessor",
+      "SpeciesCount": 3,
+      "genus_path": "genera/plesiopidae/assessor.json"
+    },
+    {
+      "Genus": "Beliops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/plesiopidae/beliops.json"
+    },
+    {
+      "Genus": "Belonepterygion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/plesiopidae/belonepterygion.json"
+    },
+    {
+      "Genus": "Calloplesiops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/plesiopidae/calloplesiops.json"
+    },
+    {
+      "Genus": "Fraudella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/plesiopidae/fraudella.json"
+    },
+    {
+      "Genus": "Notograptus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/plesiopidae/notograptus.json"
+    },
+    {
+      "Genus": "Paraplesiops",
+      "SpeciesCount": 5,
+      "genus_path": "genera/plesiopidae/paraplesiops.json"
+    },
+    {
+      "Genus": "Plesiops",
+      "SpeciesCount": 17,
+      "genus_path": "genera/plesiopidae/plesiops.json"
+    },
+    {
+      "Genus": "Steeneichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/plesiopidae/steeneichthys.json"
+    },
+    {
+      "Genus": "Trachinops",
+      "SpeciesCount": 4,
+      "genus_path": "genera/plesiopidae/trachinops.json"
+    }
+  ]
+}

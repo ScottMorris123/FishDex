@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Heteromormyrus ansorgii",
+    "SpecCode": "8766",
+    "CommonName": "Hoikkanuijakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromormyrus longilateralis",
+    "SpecCode": "65757",
+    "CommonName": "Pikkjoon-peemotkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromormyrus pappenheimi",
+    "SpecCode": "10872",
+    "CommonName": "Pappenheimi peemotkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromormyrus pauciradiatus",
+    "SpecCode": "10864",
+    "CommonName": "Nölpnina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromormyrus szaboi",
+    "SpecCode": "61814",
+    "CommonName": "Szabo peemotkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromormyrus tavernei",
+    "SpecCode": "10837",
+    "CommonName": "Rypoun kipepský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

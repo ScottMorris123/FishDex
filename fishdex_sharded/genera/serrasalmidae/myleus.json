@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Myleus altipinnis",
+    "SpecCode": "58143",
+    "CommonName": "Pacu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myleus knerii",
+    "SpecCode": "53461",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myleus latus",
+    "SpecCode": "58136",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myleus micans",
+    "SpecCode": "53460",
+    "CommonName": "Pacamão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myleus pacu",
+    "SpecCode": "11943",
+    "CommonName": "Brauner Mühlsteinsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myleus setiger",
+    "SpecCode": "51158",
+    "CommonName": "Pacu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

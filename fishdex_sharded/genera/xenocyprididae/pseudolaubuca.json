@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Pseudolaubuca engraulis",
+    "SpecCode": "54782",
+    "CommonName": "Harilik läikviidikas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolaubuca hotaya",
+    "SpecCode": "61382",
+    "CommonName": "Kýlnatka severovietnamská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolaubuca jouyi",
+    "SpecCode": "25598",
+    "CommonName": "Kýlnatka jihokorejská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolaubuca sinensis",
+    "SpecCode": "54783",
+    "CommonName": "Hiina läikviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

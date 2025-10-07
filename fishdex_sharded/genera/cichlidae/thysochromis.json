@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Thysochromis annectens",
+    "SpecCode": "8895",
+    "CommonName": "Laikkupalettiahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysochromis ansorgii",
+    "SpecCode": "8894",
+    "CommonName": "Diba-itoin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysochromis emili",
+    "SpecCode": "69139",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

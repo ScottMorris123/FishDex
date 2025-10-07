@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Lepthoplosternum altamazonicum",
+    "SpecCode": "46505",
+    "CommonName": "Perunhaarniskamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepthoplosternum beni",
+    "SpecCode": "46507",
+    "CommonName": "Tambopata catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepthoplosternum pectorale",
+    "SpecCode": "46504",
+    "CommonName": "Arniskamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepthoplosternum stellatum",
+    "SpecCode": "62552",
+    "CommonName": "Igarapé catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepthoplosternum tordilho",
+    "SpecCode": "46508",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepthoplosternum ucamara",
+    "SpecCode": "62553",
+    "CommonName": "Ucamara catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

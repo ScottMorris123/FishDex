@@ -1,0 +1,174 @@
+[
+  {
+    "ScientificName": "Chlorophthalmus acutifrons",
+    "SpecCode": "12984",
+    "CommonName": "Greeneye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus agassizi",
+    "SpecCode": "1808",
+    "CommonName": "Agassiz's thread-sail fish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus albatrossis",
+    "SpecCode": "10415",
+    "CommonName": "Aome-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus atlanticus",
+    "SpecCode": "60741",
+    "CommonName": "Atlantic greeneye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus borealis",
+    "SpecCode": "58727",
+    "CommonName": "Maru-aome-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus brasiliensis",
+    "SpecCode": "60607",
+    "CommonName": "Brasiilia rohesilm",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus chalybeius",
+    "SpecCode": "60805",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus corniger",
+    "SpecCode": "58728",
+    "CommonName": "Ojiverde barbón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus ichthyandri",
+    "SpecCode": "55089",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus imperator",
+    "SpecCode": "70475",
+    "CommonName": "Emperor greeneye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus mascarensis",
+    "SpecCode": "70192",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus mento",
+    "SpecCode": "50086",
+    "CommonName": "蒙图青眼鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus nigromarginatus",
+    "SpecCode": "10704",
+    "CommonName": "Blackedge greeneye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus pectoralis",
+    "SpecCode": "58731",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus proridens",
+    "SpecCode": "54351",
+    "CommonName": "前齒青眼魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus punctatus",
+    "SpecCode": "7657",
+    "CommonName": "Éperlan du large tacheté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus vityazi",
+    "SpecCode": "69861",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus vulcanus",
+    "SpecCode": "69860",
+    "CommonName": "Volcano greeneye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlorophthalmus zvezdae",
+    "SpecCode": "55088",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

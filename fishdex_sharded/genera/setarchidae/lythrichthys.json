@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Lythrichthys cypho",
+    "SpecCode": "69880",
+    "CommonName": "Azukikasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrichthys dentatus",
+    "SpecCode": "69884",
+    "CommonName": "Gap-toothed red deepwater scorpionfsh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrichthys eulabes",
+    "SpecCode": "69889",
+    "CommonName": "Akakasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrichthys grahami",
+    "SpecCode": "69873",
+    "CommonName": "Graham's red deepwater scorpionfsh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrichthys longimanus",
+    "SpecCode": "10383",
+    "CommonName": "Akakasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

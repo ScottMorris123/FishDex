@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Fusigobius aureus",
+    "SpecCode": "54322",
+    "CommonName": "Golden sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius duospilus",
+    "SpecCode": "17056",
+    "CommonName": "Barenape goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius gracilis",
+    "SpecCode": "59443",
+    "CommonName": "Slender sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius humeralis",
+    "SpecCode": "59445",
+    "CommonName": "Shoulderspot sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius inframaculatus",
+    "SpecCode": "26684",
+    "CommonName": "Innerspot sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius longispinus",
+    "SpecCode": "12834",
+    "CommonName": "Hatatate-sankakuhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius maximus",
+    "SpecCode": "59446",
+    "CommonName": "Large sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius melacron",
+    "SpecCode": "59447",
+    "CommonName": "Blacktip sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius neophytus",
+    "SpecCode": "7215",
+    "CommonName": "African fusegoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius pallidus",
+    "SpecCode": "59449",
+    "CommonName": "Pale sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fusigobius signipinnis",
+    "SpecCode": "7513",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

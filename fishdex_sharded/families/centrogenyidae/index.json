@@ -1,0 +1,12 @@
+{
+  "Family": "Centrogenyidae",
+  "Order": "Eupercaria/misc",
+  "Common": "False scorpionfishes",
+  "Genera": [
+    {
+      "Genus": "Centrogenys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/centrogenyidae/centrogenys.json"
+    }
+  ]
+}

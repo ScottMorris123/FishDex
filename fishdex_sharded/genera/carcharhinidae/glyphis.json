@@ -1,0 +1,53 @@
+[
+  {
+    "ScientificName": "Glyphis fowlerae",
+    "SpecCode": "65549",
+    "CommonName": "Borneo jõehallhai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyphis gangeticus",
+    "SpecCode": "887",
+    "CommonName": "Balliar",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyphis garricki",
+    "SpecCode": "64133",
+    "CommonName": "Garricki jõehallhai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyphis glyphis",
+    "SpecCode": "888",
+    "CommonName": "Odahambune jõehallhai",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyphis siamensis",
+    "SpecCode": "57443",
+    "CommonName": "Irrawaddy jõehallhai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

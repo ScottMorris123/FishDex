@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Caesio caerulaurea",
+    "SpecCode": "918",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caesio cuning",
+    "SpecCode": "919",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caesio idreesi",
+    "SpecCode": "70573",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caesio lunaris",
+    "SpecCode": "920",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caesio striata",
+    "SpecCode": "921",
+    "CommonName": "Bilason",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caesio suevica",
+    "SpecCode": "922",
+    "CommonName": "Bagha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caesio teres",
+    "SpecCode": "923",
+    "CommonName": "Antuan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caesio varilineata",
+    "SpecCode": "924",
+    "CommonName": "Bagha hamra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caesio xanthalytos",
+    "SpecCode": "67090",
+    "CommonName": "Goldsash fusilier",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caesio xanthonota",
+    "SpecCode": "927",
+    "CommonName": "Antuan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

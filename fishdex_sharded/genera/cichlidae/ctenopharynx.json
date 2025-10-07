@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ctenopharynx intermedius",
+    "SpecCode": "2213",
+    "CommonName": "Binga la blue",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenopharynx nitidus",
+    "SpecCode": "2212",
+    "CommonName": "Chigong'u",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenopharynx pictus",
+    "SpecCode": "2214",
+    "CommonName": "Saguga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "Family": "Gurgesiellidae",
+  "Order": "Rajiformes",
+  "Common": "Pygmy skates",
+  "Genera": [
+    {
+      "Genus": "Cruriraja",
+      "SpeciesCount": 8,
+      "genus_path": "genera/gurgesiellidae/cruriraja.json"
+    },
+    {
+      "Genus": "Fenestraja",
+      "SpeciesCount": 8,
+      "genus_path": "genera/gurgesiellidae/fenestraja.json"
+    },
+    {
+      "Genus": "Gurgesiella",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gurgesiellidae/gurgesiella.json"
+    }
+  ]
+}

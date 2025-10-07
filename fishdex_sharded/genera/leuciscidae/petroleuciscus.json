@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Petroleuciscus borysthenicus",
+    "SpecCode": "25956",
+    "CommonName": "Black Sea chub",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroleuciscus kurui",
+    "SpecCode": "27511",
+    "CommonName": "Jelec hakkarinský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroleuciscus smyrnaeus",
+    "SpecCode": "27492",
+    "CommonName": "Izmir chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

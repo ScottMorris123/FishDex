@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Regalecus glesne",
+    "SpecCode": "3267",
+    "CommonName": "Airokala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Regalecus russellii",
+    "SpecCode": "25038",
+    "CommonName": "Oarfifsh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

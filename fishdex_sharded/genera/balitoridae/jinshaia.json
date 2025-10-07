@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Jinshaia abbreviata",
+    "SpecCode": "58524",
+    "CommonName": "Balitora zkrácená",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Jinshaia niulanjiangensis",
+    "SpecCode": "66438",
+    "CommonName": "Yunnani voohink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Jinshaia sinensis",
+    "SpecCode": "55403",
+    "CommonName": "Balitora čínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

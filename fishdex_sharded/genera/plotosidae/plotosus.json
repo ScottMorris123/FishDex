@@ -1,0 +1,91 @@
+[
+  {
+    "ScientificName": "Plotosus abbreviatus",
+    "SpecCode": "61302",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plotosus canius",
+    "SpecCode": "8167",
+    "CommonName": "Anito",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plotosus fisadoha",
+    "SpecCode": "61303",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plotosus japonicus",
+    "SpecCode": "63757",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plotosus limbatus",
+    "SpecCode": "5516",
+    "CommonName": "Balibot aile noire",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plotosus lineatus",
+    "SpecCode": "4706",
+    "CommonName": "௨ளுபதீ ",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plotosus nhatrangensis",
+    "SpecCode": "65357",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plotosus nkunga",
+    "SpecCode": "7900",
+    "CommonName": "African eel-catfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plotosus papuensis",
+    "SpecCode": "12098",
+    "CommonName": "Papuan catfish-eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

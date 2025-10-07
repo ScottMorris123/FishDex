@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pseudocrenilabrus multicolor",
+    "SpecCode": "6894",
+    "CommonName": "Ajuoga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocrenilabrus nicholsi",
+    "SpecCode": "6896",
+    "CommonName": "Nichols Maulbrüter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocrenilabrus philander",
+    "SpecCode": "6891",
+    "CommonName": "Chikolwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocrenilabrus pyrrhocaudalis",
+    "SpecCode": "68155",
+    "CommonName": "Fire-tailed pseudocrenilabrus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

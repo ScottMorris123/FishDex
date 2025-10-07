@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Aspidontus dussumieri",
+    "SpecCode": "6065",
+    "CommonName": "Dryf-blennie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aspidontus taeniatus",
+    "SpecCode": "6066",
+    "CommonName": "Aspidont witnik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

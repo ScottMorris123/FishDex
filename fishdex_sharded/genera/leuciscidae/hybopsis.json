@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Hybopsis amblops",
+    "SpecCode": "2779",
+    "CommonName": "Bigeye chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybopsis amnis",
+    "SpecCode": "2817",
+    "CommonName": "Jeleček mississippský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybopsis hypsinotus",
+    "SpecCode": "2785",
+    "CommonName": "Highback chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybopsis lineapunctata",
+    "SpecCode": "2788",
+    "CommonName": "Jeleček tečkočárný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybopsis rubrifrons",
+    "SpecCode": "61907",
+    "CommonName": "Jeleček saludský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybopsis winchelli",
+    "SpecCode": "10275",
+    "CommonName": "Clear chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

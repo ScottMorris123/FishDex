@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Discherodontus ashmeadi",
+    "SpecCode": "27108",
+    "CommonName": "Parma mekongská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Discherodontus halei",
+    "SpecCode": "6093",
+    "CommonName": "Asiatisk sommerfuglebarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Discherodontus parvus",
+    "SpecCode": "54710",
+    "CommonName": "Parmička malá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Discherodontus schroederi",
+    "SpecCode": "54673",
+    "CommonName": "Parmoun Schroederův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

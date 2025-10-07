@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Creedia alleni",
+    "SpecCode": "59434",
+    "CommonName": "Allen's sandburrower",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creedia bilineata",
+    "SpecCode": "59524",
+    "CommonName": "Futasuji-sunaginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creedia haswelli",
+    "SpecCode": "51510",
+    "CommonName": "Haswell's sandfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creedia partimsquamigera",
+    "SpecCode": "51511",
+    "CommonName": "Half scaled sand-diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

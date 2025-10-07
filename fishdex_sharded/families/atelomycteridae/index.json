@@ -1,0 +1,22 @@
+{
+  "Family": "Atelomycteridae",
+  "Order": "Carcharhiniformes",
+  "Common": "Coloured catsharks",
+  "Genera": [
+    {
+      "Genus": "Atelomycterus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/atelomycteridae/atelomycterus.json"
+    },
+    {
+      "Genus": "Aulohalaelurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/atelomycteridae/aulohalaelurus.json"
+    },
+    {
+      "Genus": "Schroederichthys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/atelomycteridae/schroederichthys.json"
+    }
+  ]
+}

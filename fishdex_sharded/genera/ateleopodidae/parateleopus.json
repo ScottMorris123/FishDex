@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parateleopus indicus",
+    "SpecCode": "47149",
+    "CommonName": "Smallmouth jellynose",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parateleopus microstomus",
+    "SpecCode": "54016",
+    "CommonName": "Libapikksaba",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

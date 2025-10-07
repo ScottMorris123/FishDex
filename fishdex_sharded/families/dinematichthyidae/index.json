@@ -1,0 +1,132 @@
+{
+  "Family": "Dinematichthyidae",
+  "Order": "Ophidiiformes",
+  "Common": "Viviparous brotula",
+  "Genera": [
+    {
+      "Genus": "Alionematichthys",
+      "SpeciesCount": 11,
+      "genus_path": "genera/dinematichthyidae/alionematichthys.json"
+    },
+    {
+      "Genus": "Beaglichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dinematichthyidae/beaglichthys.json"
+    },
+    {
+      "Genus": "Brosmolus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/brosmolus.json"
+    },
+    {
+      "Genus": "Brotulinella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/brotulinella.json"
+    },
+    {
+      "Genus": "Dactylosurculus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/dactylosurculus.json"
+    },
+    {
+      "Genus": "Dermatopsis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/dinematichthyidae/dermatopsis.json"
+    },
+    {
+      "Genus": "Dermatopsoides",
+      "SpeciesCount": 4,
+      "genus_path": "genera/dinematichthyidae/dermatopsoides.json"
+    },
+    {
+      "Genus": "Diancistrus",
+      "SpeciesCount": 28,
+      "genus_path": "genera/dinematichthyidae/diancistrus.json"
+    },
+    {
+      "Genus": "Didymothallus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/dinematichthyidae/didymothallus.json"
+    },
+    {
+      "Genus": "Dinematichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dinematichthyidae/dinematichthys.json"
+    },
+    {
+      "Genus": "Dipulus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dinematichthyidae/dipulus.json"
+    },
+    {
+      "Genus": "Eusurculus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dinematichthyidae/eusurculus.json"
+    },
+    {
+      "Genus": "Gunterichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dinematichthyidae/gunterichthys.json"
+    },
+    {
+      "Genus": "Lapitaichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/lapitaichthys.json"
+    },
+    {
+      "Genus": "Mascarenichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dinematichthyidae/mascarenichthys.json"
+    },
+    {
+      "Genus": "Monothrix",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/monothrix.json"
+    },
+    {
+      "Genus": "Nielsenichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/nielsenichthys.json"
+    },
+    {
+      "Genus": "Ogilbia",
+      "SpeciesCount": 18,
+      "genus_path": "genera/dinematichthyidae/ogilbia.json"
+    },
+    {
+      "Genus": "Ogilbichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/dinematichthyidae/ogilbichthys.json"
+    },
+    {
+      "Genus": "Paradiancistrus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/dinematichthyidae/paradiancistrus.json"
+    },
+    {
+      "Genus": "Porocephalichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/porocephalichthys.json"
+    },
+    {
+      "Genus": "Pseudogilbia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/pseudogilbia.json"
+    },
+    {
+      "Genus": "Typhliasina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/typhliasina.json"
+    },
+    {
+      "Genus": "Ungusurculus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/dinematichthyidae/ungusurculus.json"
+    },
+    {
+      "Genus": "Zephyrichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dinematichthyidae/zephyrichthys.json"
+    }
+  ]
+}

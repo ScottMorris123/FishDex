@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Leiopotherapon aheneus",
+    "SpecCode": "10603",
+    "CommonName": "Fortescue grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiopotherapon macrolepis",
+    "SpecCode": "10605",
+    "CommonName": "Kimberley spangled perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiopotherapon plumbeus",
+    "SpecCode": "4872",
+    "CommonName": "Ayungin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiopotherapon unicolor",
+    "SpecCode": "4800",
+    "CommonName": "Barcoo Barsch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

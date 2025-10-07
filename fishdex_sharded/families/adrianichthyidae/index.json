@@ -1,0 +1,17 @@
+{
+  "Family": "Adrianichthyidae",
+  "Order": "Beloniformes",
+  "Common": "Ricefishes",
+  "Genera": [
+    {
+      "Genus": "Adrianichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/adrianichthyidae/adrianichthys.json"
+    },
+    {
+      "Genus": "Oryzias",
+      "SpeciesCount": 34,
+      "genus_path": "genera/adrianichthyidae/oryzias.json"
+    }
+  ]
+}

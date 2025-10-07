@@ -1,0 +1,77 @@
+[
+  {
+    "ScientificName": "Lucifuga dentata",
+    "SpecCode": "27638",
+    "CommonName": "Cubansk slangekvabbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucifuga gibarensis",
+    "SpecCode": "69945",
+    "CommonName": "Gibara cave brotula",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucifuga inopinata",
+    "SpecCode": "56401",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucifuga lucayana",
+    "SpecCode": "63263",
+    "CommonName": "Lucaya cavebrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucifuga simile",
+    "SpecCode": "49453",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucifuga spelaeotes",
+    "SpecCode": "10450",
+    "CommonName": "Bahama-slangekvabbe",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucifuga subterranea",
+    "SpecCode": "27640",
+    "CommonName": "Cuban Cusk-eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucifuga teresinarum",
+    "SpecCode": "49993",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

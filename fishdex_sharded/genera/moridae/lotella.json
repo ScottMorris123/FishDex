@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Lotella fernandeziana",
+    "SpecCode": "55137",
+    "CommonName": "費爾南特島潯鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lotella phycis",
+    "SpecCode": "23157",
+    "CommonName": "Beardie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lotella rhacina",
+    "SpecCode": "24895",
+    "CommonName": "Australsk lange",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lotella tosaensis",
+    "SpecCode": "23159",
+    "CommonName": "Hosodara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

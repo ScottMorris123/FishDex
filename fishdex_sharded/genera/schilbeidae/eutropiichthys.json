@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Eutropiichthys britzi",
+    "SpecCode": "64187",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eutropiichthys burmannicus",
+    "SpecCode": "63637",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eutropiichthys cetosus",
+    "SpecCode": "67768",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eutropiichthys goongwaree",
+    "SpecCode": "24764",
+    "CommonName": "Goongwaree vacha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eutropiichthys murius",
+    "SpecCode": "13338",
+    "CommonName": "Jalkapoor",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eutropiichthys salweenensis",
+    "SpecCode": "64188",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eutropiichthys vacha",
+    "SpecCode": "13347",
+    "CommonName": "Bacha",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

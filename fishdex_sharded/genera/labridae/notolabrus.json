@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Notolabrus celidotus",
+    "SpecCode": "46850",
+    "CommonName": "Pakirikiri",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notolabrus cinctus",
+    "SpecCode": "46873",
+    "CommonName": "Girdled wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notolabrus fucicola",
+    "SpecCode": "14422",
+    "CommonName": "Banded parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notolabrus gymnogenis",
+    "SpecCode": "46838",
+    "CommonName": "Crimsonband wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notolabrus inscriptus",
+    "SpecCode": "12794",
+    "CommonName": "Green wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notolabrus parilus",
+    "SpecCode": "46823",
+    "CommonName": "Brown-spotted parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notolabrus tetricus",
+    "SpecCode": "14426",
+    "CommonName": "Bluehead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

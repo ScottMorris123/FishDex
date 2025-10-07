@@ -1,0 +1,191 @@
+[
+  {
+    "ScientificName": "Mylochromis anaphyrmus",
+    "SpecCode": "2235",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis balteatus",
+    "SpecCode": "2225",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis chekopae",
+    "SpecCode": "58749",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis ensatus",
+    "SpecCode": "58915",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis epichorialis",
+    "SpecCode": "2227",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis ericotaenia",
+    "SpecCode": "2222",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis formosus",
+    "SpecCode": "2237",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis gracilis",
+    "SpecCode": "2240",
+    "CommonName": "Haplochromis torpedo stripe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis guentheri",
+    "SpecCode": "2231",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis incola",
+    "SpecCode": "2228",
+    "CommonName": "Golden mola hap",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis labidodon",
+    "SpecCode": "2224",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis lateristriga",
+    "SpecCode": "2229",
+    "CommonName": "Basket hap",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis melanonotus",
+    "SpecCode": "2238",
+    "CommonName": "Chakhuta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis melanotaenia",
+    "SpecCode": "2226",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis mola",
+    "SpecCode": "2233",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis mollis",
+    "SpecCode": "2232",
+    "CommonName": "Haplochromis margrette diagonal stripe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis obtusus",
+    "SpecCode": "2236",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis plagiotaenia",
+    "SpecCode": "2223",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis semipalatus",
+    "SpecCode": "2230",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis sphaerodon",
+    "SpecCode": "2234",
+    "CommonName": "Haplochromis trianodon sandy shore",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylochromis spilostichus",
+    "SpecCode": "2241",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

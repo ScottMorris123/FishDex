@@ -1,0 +1,142 @@
+{
+  "Family": "Stomiidae",
+  "Order": "Stomiiformes",
+  "Common": "Barbeled dragonfishes",
+  "Genera": [
+    {
+      "Genus": "Aristostomias",
+      "SpeciesCount": 6,
+      "genus_path": "genera/stomiidae/aristostomias.json"
+    },
+    {
+      "Genus": "Astronesthes",
+      "SpeciesCount": 49,
+      "genus_path": "genera/stomiidae/astronesthes.json"
+    },
+    {
+      "Genus": "Bathophilus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/stomiidae/bathophilus.json"
+    },
+    {
+      "Genus": "Borostomias",
+      "SpeciesCount": 6,
+      "genus_path": "genera/stomiidae/borostomias.json"
+    },
+    {
+      "Genus": "Chauliodus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/stomiidae/chauliodus.json"
+    },
+    {
+      "Genus": "Chirostomias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/chirostomias.json"
+    },
+    {
+      "Genus": "Echiostoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/echiostoma.json"
+    },
+    {
+      "Genus": "Eupogonesthes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/eupogonesthes.json"
+    },
+    {
+      "Genus": "Eustomias",
+      "SpeciesCount": 122,
+      "genus_path": "genera/stomiidae/eustomias.json"
+    },
+    {
+      "Genus": "Flagellostomias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/flagellostomias.json"
+    },
+    {
+      "Genus": "Grammatostomias",
+      "SpeciesCount": 4,
+      "genus_path": "genera/stomiidae/grammatostomias.json"
+    },
+    {
+      "Genus": "Heterophotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/heterophotus.json"
+    },
+    {
+      "Genus": "Idiacanthus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/stomiidae/idiacanthus.json"
+    },
+    {
+      "Genus": "Leptostomias",
+      "SpeciesCount": 12,
+      "genus_path": "genera/stomiidae/leptostomias.json"
+    },
+    {
+      "Genus": "Malacosteus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/stomiidae/malacosteus.json"
+    },
+    {
+      "Genus": "Melanostomias",
+      "SpeciesCount": 16,
+      "genus_path": "genera/stomiidae/melanostomias.json"
+    },
+    {
+      "Genus": "Neonesthes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/stomiidae/neonesthes.json"
+    },
+    {
+      "Genus": "Odontostomias",
+      "SpeciesCount": 2,
+      "genus_path": "genera/stomiidae/odontostomias.json"
+    },
+    {
+      "Genus": "Opostomias",
+      "SpeciesCount": 2,
+      "genus_path": "genera/stomiidae/opostomias.json"
+    },
+    {
+      "Genus": "Pachystomias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/pachystomias.json"
+    },
+    {
+      "Genus": "Photonectes",
+      "SpeciesCount": 29,
+      "genus_path": "genera/stomiidae/photonectes.json"
+    },
+    {
+      "Genus": "Photostomias",
+      "SpeciesCount": 6,
+      "genus_path": "genera/stomiidae/photostomias.json"
+    },
+    {
+      "Genus": "Rhadinesthes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/rhadinesthes.json"
+    },
+    {
+      "Genus": "Stomias",
+      "SpeciesCount": 11,
+      "genus_path": "genera/stomiidae/stomias.json"
+    },
+    {
+      "Genus": "Tactostoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/tactostoma.json"
+    },
+    {
+      "Genus": "Thysanactis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/thysanactis.json"
+    },
+    {
+      "Genus": "Trigonolampa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stomiidae/trigonolampa.json"
+    }
+  ]
+}

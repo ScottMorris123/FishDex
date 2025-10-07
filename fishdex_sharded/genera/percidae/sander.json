@@ -1,0 +1,51 @@
+[
+  {
+    "ScientificName": "Sander canadensis",
+    "SpecCode": "3515",
+    "CommonName": "Amerikansk sandart",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sander lucioperca",
+    "SpecCode": "360",
+    "CommonName": "Akbalık",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sander marinus",
+    "SpecCode": "9404",
+    "CommonName": "Estuarine perch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sander vitreus",
+    "SpecCode": "3516",
+    "CommonName": "Amerikanischer Zander",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sander volgensis",
+    "SpecCode": "9405",
+    "CommonName": "Berschick",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

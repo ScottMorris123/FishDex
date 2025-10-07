@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Girardinus creolus",
+    "SpecCode": "27694",
+    "CommonName": "Creole Topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girardinus cubensis",
+    "SpecCode": "27695",
+    "CommonName": "Cuban Topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girardinus denticulatus",
+    "SpecCode": "27696",
+    "CommonName": "Graublauer Kärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girardinus falcatus",
+    "SpecCode": "27697",
+    "CommonName": "Goldbelly Topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girardinus metallicus",
+    "SpecCode": "11967",
+    "CommonName": "Guajacón Metálico",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girardinus microdactylus",
+    "SpecCode": "27698",
+    "CommonName": "Fingerkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girardinus uninotatus",
+    "SpecCode": "27700",
+    "CommonName": "Einfleck-Kärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

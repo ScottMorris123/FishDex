@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Dialommus fuscus",
+    "SpecCode": "13099",
+    "CommonName": "Firøjet slimfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dialommus macrocephalus",
+    "SpecCode": "46683",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

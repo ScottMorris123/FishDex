@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Bangana almorae",
+    "SpecCode": "54659",
+    "CommonName": "Almora bangaan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bangana brevirostris",
+    "SpecCode": "64854",
+    "CommonName": "Lühikoon-bangaan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bangana dero",
+    "SpecCode": "13171",
+    "CommonName": "Arangi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bangana devdevi",
+    "SpecCode": "23962",
+    "CommonName": "Bangana Devdevova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bangana diplostoma",
+    "SpecCode": "13174",
+    "CommonName": "Bangana kašmírská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bangana gedrosicus",
+    "SpecCode": "23981",
+    "CommonName": "Labeo maškelské",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

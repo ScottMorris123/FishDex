@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Trigonectes aplocheiloides",
+    "SpecCode": "49667",
+    "CommonName": "似单唇三角溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trigonectes balzanii",
+    "SpecCode": "49669",
+    "CommonName": "Juovahuntukala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trigonectes macrophthalmus",
+    "SpecCode": "49668",
+    "CommonName": "大眼三角溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trigonectes rogoaguae",
+    "SpecCode": "49677",
+    "CommonName": "玻利維亞三角溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trigonectes rubromarginatus",
+    "SpecCode": "49678",
+    "CommonName": "Saumahuntukala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trigonectes strigabundus",
+    "SpecCode": "49683",
+    "CommonName": "三角溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

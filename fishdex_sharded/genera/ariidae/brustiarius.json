@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Brustiarius nox",
+    "SpecCode": "13128",
+    "CommonName": "Comb-gilled catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brustiarius solidus",
+    "SpecCode": "13122",
+    "CommonName": "Hard-palate catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brustiarius utarus",
+    "SpecCode": "13127",
+    "CommonName": "Northern rivers catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pycnocraspedum armatum",
+    "SpecCode": "54224",
+    "CommonName": "盔姬鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pycnocraspedum fulvum",
+    "SpecCode": "23239",
+    "CommonName": "Ô-hime-itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pycnocraspedum microlepis",
+    "SpecCode": "23238",
+    "CommonName": "Hime-itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pycnocraspedum phyllosoma",
+    "SpecCode": "56380",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pycnocraspedum squamipinne",
+    "SpecCode": "24952",
+    "CommonName": "Pelagic cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

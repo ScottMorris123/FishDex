@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Paraloricaria agastor",
+    "SpecCode": "50625",
+    "CommonName": "奇异若甲鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraloricaria commersonoides",
+    "SpecCode": "50626",
+    "CommonName": "Catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraloricaria vetula",
+    "SpecCode": "50628",
+    "CommonName": "Cascudo-viola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

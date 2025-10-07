@@ -1,0 +1,236 @@
+[
+  {
+    "ScientificName": "Myxine affinis",
+    "SpecCode": "8716",
+    "CommonName": "Babosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine australis",
+    "SpecCode": "6946",
+    "CommonName": "Limanahkiainen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine capensis",
+    "SpecCode": "10116",
+    "CommonName": "Cape hagfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine circifrons",
+    "SpecCode": "8197",
+    "CommonName": "Lamprea babosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine debueni",
+    "SpecCode": "54049",
+    "CommonName": "DeBueni pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine dorsum",
+    "SpecCode": "54050",
+    "CommonName": "長背盲鰻",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine fernholmi",
+    "SpecCode": "54051",
+    "CommonName": "Fernholmi pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine formosana",
+    "SpecCode": "58604",
+    "CommonName": "Formoosa pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine garmani",
+    "SpecCode": "17202",
+    "CommonName": "Jaapani pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine glutinosa",
+    "SpecCode": "2513",
+    "CommonName": "Állur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine greggi",
+    "SpecCode": "69500",
+    "CommonName": "Gregg's hagfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine hubbsi",
+    "SpecCode": "54053",
+    "CommonName": "Hubbsi pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine hubbsoides",
+    "SpecCode": "54054",
+    "CommonName": "Mustjaspruun pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine ios",
+    "SpecCode": "8824",
+    "CommonName": "Hvidhovedet slimål",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine jespersenae",
+    "SpecCode": "62241",
+    "CommonName": "Jesperseni pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine knappi",
+    "SpecCode": "54056",
+    "CommonName": "Knappi pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine kuoi",
+    "SpecCode": "59807",
+    "CommonName": "Kuo pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine limosa",
+    "SpecCode": "54790",
+    "CommonName": "Mudapihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine martinii",
+    "SpecCode": "69501",
+    "CommonName": "Martini's hagfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine mccoskeri",
+    "SpecCode": "54057",
+    "CommonName": "McCoskeri pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine mcmillanae",
+    "SpecCode": "49488",
+    "CommonName": "Caribbean hagfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine paucidens",
+    "SpecCode": "53781",
+    "CommonName": "Vähehammas-pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine pequenoi",
+    "SpecCode": "54058",
+    "CommonName": "Kääbuspihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine phantasma",
+    "SpecCode": "69502",
+    "CommonName": "Ghost hagfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine robinsorum",
+    "SpecCode": "54059",
+    "CommonName": "Robinsi pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxine sotoi",
+    "SpecCode": "58628",
+    "CommonName": "Soto pihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

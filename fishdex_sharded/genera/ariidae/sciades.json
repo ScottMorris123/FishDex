@@ -1,0 +1,73 @@
+[
+  {
+    "ScientificName": "Sciades couma",
+    "SpecCode": "948",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciades dowii",
+    "SpecCode": "13494",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciades herzbergii",
+    "SpecCode": "951",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciades parkeri",
+    "SpecCode": "952",
+    "CommonName": "Ariaçu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciades passany",
+    "SpecCode": "953",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciades paucus",
+    "SpecCode": "60008",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciades proops",
+    "SpecCode": "955",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

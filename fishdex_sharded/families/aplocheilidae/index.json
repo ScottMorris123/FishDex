@@ -1,0 +1,17 @@
+{
+  "Family": "Aplocheilidae",
+  "Order": "Cyprinodontiformes",
+  "Common": "Killifishes",
+  "Genera": [
+    {
+      "Genus": "Aplocheilus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/aplocheilidae/aplocheilus.json"
+    },
+    {
+      "Genus": "Pachypanchax",
+      "SpeciesCount": 7,
+      "genus_path": "genera/aplocheilidae/pachypanchax.json"
+    }
+  ]
+}

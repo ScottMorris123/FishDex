@@ -1,0 +1,162 @@
+{
+  "Family": "Doradidae",
+  "Order": "Siluriformes",
+  "Common": "Thorny catfishes",
+  "Genera": [
+    {
+      "Genus": "Acanthodoras",
+      "SpeciesCount": 3,
+      "genus_path": "genera/doradidae/acanthodoras.json"
+    },
+    {
+      "Genus": "Agamyxis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/doradidae/agamyxis.json"
+    },
+    {
+      "Genus": "Amblydoras",
+      "SpeciesCount": 6,
+      "genus_path": "genera/doradidae/amblydoras.json"
+    },
+    {
+      "Genus": "Anadoras",
+      "SpeciesCount": 4,
+      "genus_path": "genera/doradidae/anadoras.json"
+    },
+    {
+      "Genus": "Anduzedoras",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/anduzedoras.json"
+    },
+    {
+      "Genus": "Astrodoras",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/astrodoras.json"
+    },
+    {
+      "Genus": "Centrochir",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/centrochir.json"
+    },
+    {
+      "Genus": "Centrodoras",
+      "SpeciesCount": 2,
+      "genus_path": "genera/doradidae/centrodoras.json"
+    },
+    {
+      "Genus": "Doraops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/doraops.json"
+    },
+    {
+      "Genus": "Doras",
+      "SpeciesCount": 5,
+      "genus_path": "genera/doradidae/doras.json"
+    },
+    {
+      "Genus": "Franciscodoras",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/franciscodoras.json"
+    },
+    {
+      "Genus": "Hassar",
+      "SpeciesCount": 5,
+      "genus_path": "genera/doradidae/hassar.json"
+    },
+    {
+      "Genus": "Hemidoras",
+      "SpeciesCount": 5,
+      "genus_path": "genera/doradidae/hemidoras.json"
+    },
+    {
+      "Genus": "Hypodoras",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/hypodoras.json"
+    },
+    {
+      "Genus": "Kalyptodoras",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/kalyptodoras.json"
+    },
+    {
+      "Genus": "Leptodoras",
+      "SpeciesCount": 12,
+      "genus_path": "genera/doradidae/leptodoras.json"
+    },
+    {
+      "Genus": "Lithodoras",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/lithodoras.json"
+    },
+    {
+      "Genus": "Megalodoras",
+      "SpeciesCount": 2,
+      "genus_path": "genera/doradidae/megalodoras.json"
+    },
+    {
+      "Genus": "Nemadoras",
+      "SpeciesCount": 4,
+      "genus_path": "genera/doradidae/nemadoras.json"
+    },
+    {
+      "Genus": "Orinocodoras",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/orinocodoras.json"
+    },
+    {
+      "Genus": "Ossancora",
+      "SpeciesCount": 4,
+      "genus_path": "genera/doradidae/ossancora.json"
+    },
+    {
+      "Genus": "Oxydoras",
+      "SpeciesCount": 3,
+      "genus_path": "genera/doradidae/oxydoras.json"
+    },
+    {
+      "Genus": "Physopyxis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/doradidae/physopyxis.json"
+    },
+    {
+      "Genus": "Platydoras",
+      "SpeciesCount": 5,
+      "genus_path": "genera/doradidae/platydoras.json"
+    },
+    {
+      "Genus": "Pterodoras",
+      "SpeciesCount": 2,
+      "genus_path": "genera/doradidae/pterodoras.json"
+    },
+    {
+      "Genus": "Rhinodoras",
+      "SpeciesCount": 5,
+      "genus_path": "genera/doradidae/rhinodoras.json"
+    },
+    {
+      "Genus": "Rhynchodoras",
+      "SpeciesCount": 3,
+      "genus_path": "genera/doradidae/rhynchodoras.json"
+    },
+    {
+      "Genus": "Scorpiodoras",
+      "SpeciesCount": 3,
+      "genus_path": "genera/doradidae/scorpiodoras.json"
+    },
+    {
+      "Genus": "Tenellus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/doradidae/tenellus.json"
+    },
+    {
+      "Genus": "Trachydoras",
+      "SpeciesCount": 6,
+      "genus_path": "genera/doradidae/trachydoras.json"
+    },
+    {
+      "Genus": "Wertheimeria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/doradidae/wertheimeria.json"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Family": "Channichthyidae",
+  "Order": "Perciformes/Notothenioidei",
+  "Common": "Crocodile icefishes",
+  "Genera": [
+    {
+      "Genus": "Chaenocephalus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/channichthyidae/chaenocephalus.json"
+    },
+    {
+      "Genus": "Chaenodraco",
+      "SpeciesCount": 1,
+      "genus_path": "genera/channichthyidae/chaenodraco.json"
+    },
+    {
+      "Genus": "Champsocephalus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/channichthyidae/champsocephalus.json"
+    },
+    {
+      "Genus": "Channichthys",
+      "SpeciesCount": 9,
+      "genus_path": "genera/channichthyidae/channichthys.json"
+    },
+    {
+      "Genus": "Chionobathyscus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/channichthyidae/chionobathyscus.json"
+    },
+    {
+      "Genus": "Chionodraco",
+      "SpeciesCount": 3,
+      "genus_path": "genera/channichthyidae/chionodraco.json"
+    },
+    {
+      "Genus": "Dacodraco",
+      "SpeciesCount": 1,
+      "genus_path": "genera/channichthyidae/dacodraco.json"
+    },
+    {
+      "Genus": "Neopagetopsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/channichthyidae/neopagetopsis.json"
+    },
+    {
+      "Genus": "Pagetodes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/channichthyidae/pagetodes.json"
+    },
+    {
+      "Genus": "Pagetopsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/channichthyidae/pagetopsis.json"
+    },
+    {
+      "Genus": "Pseudochaenichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/channichthyidae/pseudochaenichthys.json"
+    }
+  ]
+}

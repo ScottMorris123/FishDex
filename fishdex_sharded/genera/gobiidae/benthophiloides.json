@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Benthophiloides brauneri",
+    "SpecCode": "16261",
+    "CommonName": "Brauneri kurikmudil",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophiloides turcomanus",
+    "SpecCode": "47929",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

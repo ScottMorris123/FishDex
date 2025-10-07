@@ -1,0 +1,37 @@
+{
+  "Family": "Opisthocentridae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "\"Rearspined fin pricklebacks\"",
+  "Genera": [
+    {
+      "Genus": "Askoldia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/opisthocentridae/askoldia.json"
+    },
+    {
+      "Genus": "Kasatkia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/opisthocentridae/kasatkia.json"
+    },
+    {
+      "Genus": "Lumpenopsis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/opisthocentridae/lumpenopsis.json"
+    },
+    {
+      "Genus": "Opisthocentrus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/opisthocentridae/opisthocentrus.json"
+    },
+    {
+      "Genus": "Pholidapus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/opisthocentridae/pholidapus.json"
+    },
+    {
+      "Genus": "Plectobranchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/opisthocentridae/plectobranchus.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Vellitor centropomus",
+    "SpecCode": "23971",
+    "CommonName": "Sui",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vellitor minutus",
+    "SpecCode": "23973",
+    "CommonName": "Hime-sui",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

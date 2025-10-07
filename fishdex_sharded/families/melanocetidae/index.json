@@ -1,0 +1,12 @@
+{
+  "Family": "Melanocetidae",
+  "Order": "Lophiiformes",
+  "Common": "Black Seadevils",
+  "Genera": [
+    {
+      "Genus": "Melanocetus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/melanocetidae/melanocetus.json"
+    }
+  ]
+}

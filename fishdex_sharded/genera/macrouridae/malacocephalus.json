@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Malacocephalus boretzi",
+    "SpecCode": "58861",
+    "CommonName": "博氏軟首鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacocephalus hawaiiensis",
+    "SpecCode": "58863",
+    "CommonName": "Hawaiian softhead grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacocephalus laevis",
+    "SpecCode": "4989",
+    "CommonName": "Abámbolo de bajura",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacocephalus luzonensis",
+    "SpecCode": "7597",
+    "CommonName": "吕宋软首鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacocephalus nipponensis",
+    "SpecCode": "23182",
+    "CommonName": "Nihon-manjudara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacocephalus occidentalis",
+    "SpecCode": "4990",
+    "CommonName": "Abámbolo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacocephalus okamurai",
+    "SpecCode": "55810",
+    "CommonName": "冈村软首鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

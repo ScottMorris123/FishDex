@@ -1,0 +1,59 @@
+[
+  {
+    "ScientificName": "Pagrus africanus",
+    "SpecCode": "5067",
+    "CommonName": "African red bream",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagrus auratus",
+    "SpecCode": "6426",
+    "CommonName": "Bream",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagrus auriga",
+    "SpecCode": "5066",
+    "CommonName": "Arata rasa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagrus caeruleostictus",
+    "SpecCode": "4540",
+    "CommonName": "Ama",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagrus major",
+    "SpecCode": "445",
+    "CommonName": "Ca nho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagrus pagrus",
+    "SpecCode": "1756",
+    "CommonName": "Al badhar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

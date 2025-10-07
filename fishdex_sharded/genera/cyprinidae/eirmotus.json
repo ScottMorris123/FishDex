@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Eirmotus furvus",
+    "SpecCode": "64658",
+    "CommonName": "Tõmmu ribupardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eirmotus insignis",
+    "SpecCode": "64659",
+    "CommonName": "Tähnuim-ribupardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eirmotus isthmus",
+    "SpecCode": "64656",
+    "CommonName": "Kannas-ribupardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eirmotus octozona",
+    "SpecCode": "17384",
+    "CommonName": "Bengah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

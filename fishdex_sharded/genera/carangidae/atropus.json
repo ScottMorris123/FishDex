@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Atropus armatus",
+    "SpecCode": "1916",
+    "CommonName": "Alipuron-babaye",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atropus atropos",
+    "SpecCode": "1929",
+    "CommonName": "Alipuron",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atropus aurochs",
+    "SpecCode": "1931",
+    "CommonName": "Ampahan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atropus hedlandensis",
+    "SpecCode": "1907",
+    "CommonName": "Bumpnose kingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atropus mentalis",
+    "SpecCode": "1930",
+    "CommonName": "Anak bong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

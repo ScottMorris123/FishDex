@@ -1,0 +1,148 @@
+[
+  {
+    "ScientificName": "Bryaninops amplus",
+    "SpecCode": "7203",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops annella",
+    "SpecCode": "67266",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops dianneae",
+    "SpecCode": "56121",
+    "CommonName": "戴安娜珊瑚鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops discus",
+    "SpecCode": "66439",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops earlei",
+    "SpecCode": "67268",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops erythrops",
+    "SpecCode": "7204",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops isis",
+    "SpecCode": "56108",
+    "CommonName": "Isis goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops loki",
+    "SpecCode": "52430",
+    "CommonName": "Belodok loki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops natans",
+    "SpecCode": "7205",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops nexus",
+    "SpecCode": "56122",
+    "CommonName": "Hitomishiri-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops ridens",
+    "SpecCode": "7250",
+    "CommonName": "Porites goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops spongicolus",
+    "SpecCode": "66440",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops tectus",
+    "SpecCode": "67269",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops tigris",
+    "SpecCode": "7282",
+    "CommonName": "Antipatharia goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops translucens",
+    "SpecCode": "67270",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryaninops yongei",
+    "SpecCode": "7251",
+    "CommonName": "Garasuhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

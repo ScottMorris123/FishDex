@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Erythrocles acarina",
+    "SpecCode": "51664",
+    "CommonName": "細紅諧魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erythrocles microceps",
+    "SpecCode": "50592",
+    "CommonName": "Hi-chibiki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erythrocles monodi",
+    "SpecCode": "3562",
+    "CommonName": "Atlantic rubyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erythrocles schlegelii",
+    "SpecCode": "7693",
+    "CommonName": "Charro japonês",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erythrocles scintillans",
+    "SpecCode": "13013",
+    "CommonName": "Ature ure",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erythrocles taeniatus",
+    "SpecCode": "51671",
+    "CommonName": "紫带红谐鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

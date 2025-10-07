@@ -1,0 +1,27 @@
+{
+  "Family": "Pangasiidae",
+  "Order": "Siluriformes",
+  "Common": "Shark catfishes",
+  "Genera": [
+    {
+      "Genus": "Helicophagus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pangasiidae/helicophagus.json"
+    },
+    {
+      "Genus": "Pangasianodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pangasiidae/pangasianodon.json"
+    },
+    {
+      "Genus": "Pangasius",
+      "SpeciesCount": 22,
+      "genus_path": "genera/pangasiidae/pangasius.json"
+    },
+    {
+      "Genus": "Pseudolais",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pangasiidae/pseudolais.json"
+    }
+  ]
+}

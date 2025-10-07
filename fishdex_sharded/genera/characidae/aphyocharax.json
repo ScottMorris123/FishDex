@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Aphyocharax agassizii",
+    "SpecCode": "52921",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax alburnus",
+    "SpecCode": "12337",
+    "CommonName": "Bloodfin tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax anisitsi",
+    "SpecCode": "10618",
+    "CommonName": "Blood fins tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax colifax",
+    "SpecCode": "51818",
+    "CommonName": "Aletas de sangre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax dentatus",
+    "SpecCode": "27667",
+    "CommonName": "Douradinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax erythrurus",
+    "SpecCode": "12338",
+    "CommonName": "Flame tail tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax gracilis",
+    "SpecCode": "57991",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax nattereri",
+    "SpecCode": "51080",
+    "CommonName": "Augenfleck- oder Schwanzflecksalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax pusillus",
+    "SpecCode": "51081",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax rathbuni",
+    "SpecCode": "12340",
+    "CommonName": "Rathbun's bloodfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyocharax yekwanae",
+    "SpecCode": "61400",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

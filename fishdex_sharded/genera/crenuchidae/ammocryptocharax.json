@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Ammocryptocharax elegans",
+    "SpecCode": "48741",
+    "CommonName": "Puikkopohjatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammocryptocharax lateralis",
+    "SpecCode": "51207",
+    "CommonName": "砖红砂脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammocryptocharax minutus",
+    "SpecCode": "48742",
+    "CommonName": "Pikkupohjatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammocryptocharax vintonae",
+    "SpecCode": "48743",
+    "CommonName": "Satulapohjatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Petulanos intermedius",
+    "SpecCode": "53268",
+    "CommonName": "Suya-Missu bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petulanos plicatus",
+    "SpecCode": "51873",
+    "CommonName": "Firepunktet bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petulanos spiloclistron",
+    "SpecCode": "53271",
+    "CommonName": "Fireplettet bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

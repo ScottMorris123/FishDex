@@ -1,0 +1,32 @@
+{
+  "Family": "Nemipteridae",
+  "Order": "Eupercaria/misc",
+  "Common": "Threadfin breams, Whiptail breams",
+  "Genera": [
+    {
+      "Genus": "Nemipterus",
+      "SpeciesCount": 28,
+      "genus_path": "genera/nemipteridae/nemipterus.json"
+    },
+    {
+      "Genus": "Parascolopsis",
+      "SpeciesCount": 13,
+      "genus_path": "genera/nemipteridae/parascolopsis.json"
+    },
+    {
+      "Genus": "Pentapodus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/nemipteridae/pentapodus.json"
+    },
+    {
+      "Genus": "Scaevius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemipteridae/scaevius.json"
+    },
+    {
+      "Genus": "Scolopsis",
+      "SpeciesCount": 20,
+      "genus_path": "genera/nemipteridae/scolopsis.json"
+    }
+  ]
+}

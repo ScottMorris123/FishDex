@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Onuxodon albometeori",
+    "SpecCode": "69257",
+    "CommonName": "White pearlfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onuxodon fowleri",
+    "SpecCode": "12785",
+    "CommonName": "Aurin de Fowler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onuxodon margaritiferae",
+    "SpecCode": "10744",
+    "CommonName": "Bivalve pearlfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onuxodon parvibrachium",
+    "SpecCode": "16792",
+    "CommonName": "kutunidairo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

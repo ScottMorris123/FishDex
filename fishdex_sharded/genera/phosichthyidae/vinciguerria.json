@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Vinciguerria attenuata",
+    "SpecCode": "1780",
+    "CommonName": "Argent",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vinciguerria lucetia",
+    "SpecCode": "27409",
+    "CommonName": "Lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vinciguerria mabahiss",
+    "SpecCode": "59879",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vinciguerria nimbaria",
+    "SpecCode": "7385",
+    "CommonName": "Frilled lighthouse fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vinciguerria poweriae",
+    "SpecCode": "1781",
+    "CommonName": "Argent ver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

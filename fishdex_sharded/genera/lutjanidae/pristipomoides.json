@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Pristipomoides aquilonaris",
+    "SpecCode": "198",
+    "CommonName": "Colas vorace",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides argyrogrammicus",
+    "SpecCode": "199",
+    "CommonName": "Big-eyed snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides auricilla",
+    "SpecCode": "200",
+    "CommonName": "Bero babi igabuku",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides filamentosus",
+    "SpecCode": "201",
+    "CommonName": "Admon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides flavipinnis",
+    "SpecCode": "202",
+    "CommonName": "Bero babi alo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides freemani",
+    "SpecCode": "205",
+    "CommonName": "Colas élégant",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides macrophthalmus",
+    "SpecCode": "206",
+    "CommonName": "Bigeye snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides multidens",
+    "SpecCode": "208",
+    "CommonName": "Andaq asli",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides sieboldii",
+    "SpecCode": "209",
+    "CommonName": "Colas lavande",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides typus",
+    "SpecCode": "210",
+    "CommonName": "Adgawon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristipomoides zonatus",
+    "SpecCode": "211",
+    "CommonName": "Banded flower snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

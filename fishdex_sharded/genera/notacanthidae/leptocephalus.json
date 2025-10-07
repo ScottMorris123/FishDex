@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Leptocephalus giganteus",
+    "SpecCode": "57179",
+    "CommonName": "Giant leptocephalus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptocephalus ophichthoides",
+    "SpecCode": "61210",
+    "CommonName": "Hadař masavský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

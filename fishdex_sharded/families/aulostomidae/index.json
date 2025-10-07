@@ -1,0 +1,12 @@
+{
+  "Family": "Aulostomidae",
+  "Order": "Syngnathiformes",
+  "Common": "Trumpetfishes",
+  "Genera": [
+    {
+      "Genus": "Aulostomus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/aulostomidae/aulostomus.json"
+    }
+  ]
+}

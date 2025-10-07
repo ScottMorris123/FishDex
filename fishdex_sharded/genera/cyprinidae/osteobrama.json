@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Osteobrama alfredianus",
+    "SpecCode": "54693",
+    "CommonName": "Alfredi luislatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteobrama bakeri",
+    "SpecCode": "24058",
+    "CommonName": "Bakeri luislatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteobrama belangeri",
+    "SpecCode": "13186",
+    "CommonName": "Belangeri luislatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteobrama bhimensis",
+    "SpecCode": "55131",
+    "CommonName": "Bhongi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteobrama cotio",
+    "SpecCode": "13187",
+    "CommonName": "Bhongi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteobrama cunma",
+    "SpecCode": "24065",
+    "CommonName": "Cunma osteobrama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteobrama feae",
+    "SpecCode": "24072",
+    "CommonName": "Fea luislatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteobrama neilli",
+    "SpecCode": "24078",
+    "CommonName": "Gurda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteobrama peninsularis",
+    "SpecCode": "13188",
+    "CommonName": "Kambalgi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteobrama vigorsii",
+    "SpecCode": "13189",
+    "CommonName": "Bheema osteobrama",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

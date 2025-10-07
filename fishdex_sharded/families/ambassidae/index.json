@@ -1,0 +1,47 @@
+{
+  "Family": "Ambassidae",
+  "Order": "Ovalentaria/misc",
+  "Common": "Asiatic glassfishes",
+  "Genera": [
+    {
+      "Genus": "Ambassis",
+      "SpeciesCount": 20,
+      "genus_path": "genera/ambassidae/ambassis.json"
+    },
+    {
+      "Genus": "Chanda",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ambassidae/chanda.json"
+    },
+    {
+      "Genus": "Denariusa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ambassidae/denariusa.json"
+    },
+    {
+      "Genus": "Gymnochanda",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ambassidae/gymnochanda.json"
+    },
+    {
+      "Genus": "Paradoxodacna",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ambassidae/paradoxodacna.json"
+    },
+    {
+      "Genus": "Parambassis",
+      "SpeciesCount": 19,
+      "genus_path": "genera/ambassidae/parambassis.json"
+    },
+    {
+      "Genus": "Pseudambassis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ambassidae/pseudambassis.json"
+    },
+    {
+      "Genus": "Tetracentrum",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ambassidae/tetracentrum.json"
+    }
+  ]
+}

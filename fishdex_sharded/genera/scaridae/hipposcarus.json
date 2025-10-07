@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Hipposcarus harid",
+    "SpecCode": "7906",
+    "CommonName": "Alomea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hipposcarus longiceps",
+    "SpecCode": "5539",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

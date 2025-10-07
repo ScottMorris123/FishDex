@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Alionematichthys ceylonensis",
+    "SpecCode": "64957",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys crassiceps",
+    "SpecCode": "64958",
+    "CommonName": "Bighead viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys minyomma",
+    "SpecCode": "56405",
+    "CommonName": "細眼雙線鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys phuketensis",
+    "SpecCode": "64959",
+    "CommonName": "Phuket viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys piger",
+    "SpecCode": "64965",
+    "CommonName": "Whiskered viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys plicatosurculus",
+    "SpecCode": "64960",
+    "CommonName": "Folded viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys riukiuensis",
+    "SpecCode": "27338",
+    "CommonName": "Bigeye cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys samoaensis",
+    "SpecCode": "64961",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys shinoharai",
+    "SpecCode": "64962",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys suluensis",
+    "SpecCode": "64963",
+    "CommonName": "Sulu viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alionematichthys winterbottomi",
+    "SpecCode": "64964",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

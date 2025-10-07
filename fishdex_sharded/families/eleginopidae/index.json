@@ -1,0 +1,12 @@
+{
+  "Family": "Eleginopidae",
+  "Order": "Perciformes/Notothenioidei",
+  "Common": "Patagonian blennies",
+  "Genera": [
+    {
+      "Genus": "Eleginops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/eleginopidae/eleginops.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Chlamydoselachus africana",
+    "SpecCode": "65037",
+    "CommonName": "Aafrika mantelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlamydoselachus anguineus",
+    "SpecCode": "635",
+    "CommonName": "Chlamida",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

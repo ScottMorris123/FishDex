@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Aeoliscus punctulatus",
+    "SpecCode": "7986",
+    "CommonName": "Brzytewnik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aeoliscus strigatus",
+    "SpecCode": "6503",
+    "CommonName": "Almindelig bajonetfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

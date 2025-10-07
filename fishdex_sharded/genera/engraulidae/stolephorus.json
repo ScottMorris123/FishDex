@@ -1,0 +1,366 @@
+[
+  {
+    "ScientificName": "Stolephorus acinaces",
+    "SpecCode": "69936",
+    "CommonName": "Saber anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus advenus",
+    "SpecCode": "560",
+    "CommonName": "False Indian anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus andhraensis",
+    "SpecCode": "561",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus apiensis",
+    "SpecCode": "562",
+    "CommonName": "cigana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus babarani",
+    "SpecCode": "69116",
+    "CommonName": "Panay anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus baganensis",
+    "SpecCode": "563",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus balinensis",
+    "SpecCode": "69956",
+    "CommonName": "Great anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus belaerius",
+    "SpecCode": "69958",
+    "CommonName": "Belair anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus bengalensis",
+    "SpecCode": "70608",
+    "CommonName": "Hardenberg's anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus brachycephalus",
+    "SpecCode": "1690",
+    "CommonName": "Broadhead anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus carpentariae",
+    "SpecCode": "564",
+    "CommonName": "Carpentaria anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus celsior",
+    "SpecCode": "69798",
+    "CommonName": "Rosario anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus chinensis",
+    "SpecCode": "565",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus commersonnii",
+    "SpecCode": "566",
+    "CommonName": "Ake lae",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus concursus",
+    "SpecCode": "69799",
+    "CommonName": "Concourse anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus continentalis",
+    "SpecCode": "69961",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus diabolus",
+    "SpecCode": "70609",
+    "CommonName": "Demon anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus dubiosus",
+    "SpecCode": "567",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus eclipsis",
+    "SpecCode": "70610",
+    "CommonName": "Eclipse anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus eldorado",
+    "SpecCode": "70611",
+    "CommonName": "El Dorado anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus grandis",
+    "SpecCode": "69959",
+    "CommonName": "Papuan double-lined anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus holodon",
+    "SpecCode": "568",
+    "CommonName": "Anchoveta espinhosa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus indicus",
+    "SpecCode": "569",
+    "CommonName": "Alipatang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus insignus",
+    "SpecCode": "69960",
+    "CommonName": "Emblem anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus insularis",
+    "SpecCode": "571",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus leopardus",
+    "SpecCode": "70032",
+    "CommonName": "Leopard anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus mercurius",
+    "SpecCode": "69955",
+    "CommonName": "Mercury anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus multibranchus",
+    "SpecCode": "573",
+    "CommonName": "Caroline anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus nelsoni",
+    "SpecCode": "574",
+    "CommonName": "Nelsoni stolefoor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus pacificus",
+    "SpecCode": "575",
+    "CommonName": "Dilis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus rex",
+    "SpecCode": "69954",
+    "CommonName": "Commerson's anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus ronquilloi",
+    "SpecCode": "576",
+    "CommonName": "Bolinao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus scitulus",
+    "SpecCode": "69957",
+    "CommonName": "Southern anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus shantungensis",
+    "SpecCode": "60701",
+    "CommonName": "Sardel šandongská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus tamilensis",
+    "SpecCode": "70037",
+    "CommonName": "Tamil anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus teguhi",
+    "SpecCode": "65324",
+    "CommonName": "Sulawesi anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus tri",
+    "SpecCode": "577",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus waitei",
+    "SpecCode": "578",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stolephorus zephyrus",
+    "SpecCode": "69434",
+    "CommonName": "Zephyr anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

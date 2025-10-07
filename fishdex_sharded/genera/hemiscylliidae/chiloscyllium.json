@@ -1,0 +1,77 @@
+[
+  {
+    "ScientificName": "Chiloscyllium arabicum",
+    "SpecCode": "5901",
+    "CommonName": "Arabische bamboehaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloscyllium burmense",
+    "SpecCode": "50207",
+    "CommonName": "Bamboa birmana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloscyllium caeruleopunctatum",
+    "SpecCode": "5902",
+    "CommonName": "Bamboa estrellada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloscyllium griseum",
+    "SpecCode": "4304",
+    "CommonName": "Bamboa gris",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloscyllium hasseltii",
+    "SpecCode": "54210",
+    "CommonName": "Bamboa de Hasselt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloscyllium indicum",
+    "SpecCode": "5900",
+    "CommonName": "Balavala",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloscyllium plagiosum",
+    "SpecCode": "5120",
+    "CommonName": "Bamboa punteada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloscyllium punctatum",
+    "SpecCode": "5903",
+    "CommonName": "Bamboa estriada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

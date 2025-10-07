@@ -1,0 +1,290 @@
+[
+  {
+    "ScientificName": "Cyprinella alvarezdelvillari",
+    "SpecCode": "25881",
+    "CommonName": "Carpita tepehuana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella analostana",
+    "SpecCode": "2819",
+    "CommonName": "Jelčík analostanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella bocagrande",
+    "SpecCode": "6103",
+    "CommonName": "Carpita bocagrande",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella caerulea",
+    "SpecCode": "6104",
+    "CommonName": "Blue Shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella callisema",
+    "SpecCode": "2837",
+    "CommonName": "Jelčík potoční",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella callistia",
+    "SpecCode": "2838",
+    "CommonName": "Alabama pisikarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella callitaenia",
+    "SpecCode": "6105",
+    "CommonName": "Bluestripe Shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella camura",
+    "SpecCode": "2840",
+    "CommonName": "Bluntface shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella chloristia",
+    "SpecCode": "2846",
+    "CommonName": "Greenfin shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella eurystoma",
+    "SpecCode": "65170",
+    "CommonName": "Laisuu-pisikarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella formosa",
+    "SpecCode": "6106",
+    "CommonName": "Beautiful shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella galactura",
+    "SpecCode": "2859",
+    "CommonName": "Jelčík běloocasý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella garmani",
+    "SpecCode": "56226",
+    "CommonName": "Carpita jorobada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella gibbsi",
+    "SpecCode": "2860",
+    "CommonName": "Jelčík Gibbsův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella labrosa",
+    "SpecCode": "2787",
+    "CommonName": "Jelčík tlustopyský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella leedsi",
+    "SpecCode": "2871",
+    "CommonName": "Bannerfin shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella lepida",
+    "SpecCode": "10215",
+    "CommonName": "Edwards Plateau shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella lutrensis",
+    "SpecCode": "2876",
+    "CommonName": "Amerikanische Rotflossenorfe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella monacha",
+    "SpecCode": "6107",
+    "CommonName": "Jelčík příčnopruhý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella nivea",
+    "SpecCode": "2879",
+    "CommonName": "Jelčík běloploutvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella panarcys",
+    "SpecCode": "6108",
+    "CommonName": "Carpita del Conchos",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella proserpina",
+    "SpecCode": "6109",
+    "CommonName": "Carpita río del norte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella pyrrhomelas",
+    "SpecCode": "2891",
+    "CommonName": "Fieryblack shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella rutila",
+    "SpecCode": "56225",
+    "CommonName": "Carpita regiomontana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella spiloptera",
+    "SpecCode": "2903",
+    "CommonName": "Jelčík skvrnoploutvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella stigmatura",
+    "SpecCode": "61947",
+    "CommonName": "Tähnsaba-pisikarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella trichroistia",
+    "SpecCode": "2909",
+    "CommonName": "Jelčík tříbarvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella venusta",
+    "SpecCode": "2912",
+    "CommonName": "Blacktail shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella whipplei",
+    "SpecCode": "2915",
+    "CommonName": "Steelcolor shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella xaenura",
+    "SpecCode": "2917",
+    "CommonName": "Altamaha pisikarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella xanthicara",
+    "SpecCode": "6111",
+    "CommonName": "Carpita de Cuatro Ciénegas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinella zanema",
+    "SpecCode": "2794",
+    "CommonName": "Jelčík karolínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

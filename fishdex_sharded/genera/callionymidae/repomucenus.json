@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Repomucenus calcaratus",
+    "SpecCode": "14440",
+    "CommonName": "Sand dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Repomucenus huguenini",
+    "SpecCode": "8286",
+    "CommonName": "Bebaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Repomucenus olidus",
+    "SpecCode": "55179",
+    "CommonName": "Chinese darter dragonet",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Repomucenus ornatipinnis",
+    "SpecCode": "25830",
+    "CommonName": "Japanese ornate dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Repomucenus virgis",
+    "SpecCode": "25836",
+    "CommonName": "Bebaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

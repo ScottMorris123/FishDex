@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Guttigadus globiceps",
+    "SpecCode": "14052",
+    "CommonName": "Fathead cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guttigadus globosus",
+    "SpecCode": "46968",
+    "CommonName": "Tadpole cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guttigadus kongi",
+    "SpecCode": "7128",
+    "CommonName": "Austral cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guttigadus latifrons",
+    "SpecCode": "27733",
+    "CommonName": "Mòllera àrtiea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guttigadus nudicephalus",
+    "SpecCode": "54581",
+    "CommonName": "裸頭副咽鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guttigadus nudirostris",
+    "SpecCode": "54578",
+    "CommonName": "裸吻副咽鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guttigadus squamirostris",
+    "SpecCode": "54584",
+    "CommonName": "吻鱗副咽鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

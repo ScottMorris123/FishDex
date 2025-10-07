@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Priapichthys annectens",
+    "SpecCode": "47314",
+    "CommonName": "Aprikoosimolli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapichthys caliensis",
+    "SpecCode": "53635",
+    "CommonName": "Cali toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapichthys chocoensis",
+    "SpecCode": "53637",
+    "CommonName": "Choco toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapichthys darienensis",
+    "SpecCode": "53636",
+    "CommonName": "Capetí toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapichthys nigroventralis",
+    "SpecCode": "53634",
+    "CommonName": "Blackfinned toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapichthys panamensis",
+    "SpecCode": "47321",
+    "CommonName": "Olomina",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapichthys puetzi",
+    "SpecCode": "53659",
+    "CommonName": "Chompipa de montana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

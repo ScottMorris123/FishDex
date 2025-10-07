@@ -1,0 +1,52 @@
+[
+  {
+    "ScientificName": "Proterorhinus marmoratus",
+    "SpecCode": "12020",
+    "CommonName": "Babka mamrmurkowata",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Proterorhinus nasalis",
+    "SpecCode": "65589",
+    "CommonName": "Eastern tubenose goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Proterorhinus semilunaris",
+    "SpecCode": "65128",
+    "CommonName": "Kaya balığı",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Proterorhinus semipellucidus",
+    "SpecCode": "48272",
+    "CommonName": "半透明原吻鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Proterorhinus tataricus",
+    "SpecCode": "64103",
+    "CommonName": "Chornaya tubenose goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

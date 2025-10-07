@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Megalocottus platycephalus",
+    "SpecCode": "4114",
+    "CommonName": "Belligerent sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megalocottus taeniopterus",
+    "SpecCode": "48279",
+    "CommonName": "Southern flathead sculpin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

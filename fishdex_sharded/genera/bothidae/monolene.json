@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Monolene antillarum",
+    "SpecCode": "4226",
+    "CommonName": "Linguado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene asaedae",
+    "SpecCode": "13560",
+    "CommonName": "Asaedae flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene atrimana",
+    "SpecCode": "47182",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene danae",
+    "SpecCode": "59542",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene dubiosa",
+    "SpecCode": "13561",
+    "CommonName": "Acapulco flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene helenensis",
+    "SpecCode": "58076",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene maculipinna",
+    "SpecCode": "13562",
+    "CommonName": "Dali dali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene megalepis",
+    "SpecCode": "59545",
+    "CommonName": "Slim flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene mertensae",
+    "SpecCode": "8833",
+    "CommonName": "Carta-de-olhos-pequenos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene microstoma",
+    "SpecCode": "4994",
+    "CommonName": "Carta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monolene sessilicauda",
+    "SpecCode": "4227",
+    "CommonName": "Deepwater flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Eulophias koreanus",
+    "SpecCode": "67003",
+    "CommonName": "Jul-ga-si-chi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eulophias spinosior",
+    "SpecCode": "70055",
+    "CommonName": "Toge-itoginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eulophias tanneri",
+    "SpecCode": "23796",
+    "CommonName": "Itoginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

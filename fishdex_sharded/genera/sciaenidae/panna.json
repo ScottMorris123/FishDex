@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Panna heterolepis",
+    "SpecCode": "15921",
+    "CommonName": "Hooghly croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panna microdon",
+    "SpecCode": "8310",
+    "CommonName": "Cá Ốp nhỏ",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panna perarmata",
+    "SpecCode": "15459",
+    "CommonName": "Armour croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

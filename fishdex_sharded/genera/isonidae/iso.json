@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Iso flosmaris",
+    "SpecCode": "23365",
+    "CommonName": "Jaapani kiilkõhtkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iso hawaiiensis",
+    "SpecCode": "15555",
+    "CommonName": "Hawaiian surf sardine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iso natalensis",
+    "SpecCode": "16848",
+    "CommonName": "Branderfeetjie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iso nesiotes",
+    "SpecCode": "15558",
+    "CommonName": "Insular surf fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iso rhothophilus",
+    "SpecCode": "15557",
+    "CommonName": "Flower of the wave",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

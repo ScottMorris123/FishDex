@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Sartor elongatus",
+    "SpecCode": "52642",
+    "CommonName": "Slank skyggebundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sartor respectus",
+    "SpecCode": "51383",
+    "CommonName": "Xingu-skyggebundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sartor tucuruiensis",
+    "SpecCode": "52643",
+    "CommonName": "Tocantins-skyggebundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

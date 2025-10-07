@@ -1,0 +1,60 @@
+[
+  {
+    "ScientificName": "Chelonodontops alvheimi",
+    "SpecCode": "69762",
+    "CommonName": "Alvheim's pufferfsh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelonodontops bengalensis",
+    "SpecCode": "69763",
+    "CommonName": "Bengal reticulated puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelonodontops laticeps",
+    "SpecCode": "8073",
+    "CommonName": "Blouspikkel-blaasop",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelonodontops leopardus",
+    "SpecCode": "50083",
+    "CommonName": "Banded leopard blowfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelonodontops patoca",
+    "SpecCode": "6610",
+    "CommonName": "Anza",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelonodontops pleurospilus",
+    "SpecCode": "23126",
+    "CommonName": "Blaasop beauty",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

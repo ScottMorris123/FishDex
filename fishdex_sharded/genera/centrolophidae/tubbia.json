@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Tubbia stewarti",
+    "SpecCode": "66806",
+    "CommonName": "Seamount Rudderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tubbia tasmanica",
+    "SpecCode": "14510",
+    "CommonName": "Flabby driftfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "Family": "Percichthyidae",
+  "Order": "Centrarchiformes",
+  "Common": "Temperate perches",
+  "Genera": [
+    {
+      "Genus": "Bostockia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/percichthyidae/bostockia.json"
+    },
+    {
+      "Genus": "Gadopsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/percichthyidae/gadopsis.json"
+    },
+    {
+      "Genus": "Guyu",
+      "SpeciesCount": 1,
+      "genus_path": "genera/percichthyidae/guyu.json"
+    },
+    {
+      "Genus": "Maccullochella",
+      "SpeciesCount": 4,
+      "genus_path": "genera/percichthyidae/maccullochella.json"
+    },
+    {
+      "Genus": "Macquaria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/percichthyidae/macquaria.json"
+    },
+    {
+      "Genus": "Nannatherina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/percichthyidae/nannatherina.json"
+    },
+    {
+      "Genus": "Nannoperca",
+      "SpeciesCount": 6,
+      "genus_path": "genera/percichthyidae/nannoperca.json"
+    },
+    {
+      "Genus": "Percichthys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/percichthyidae/percichthys.json"
+    }
+  ]
+}

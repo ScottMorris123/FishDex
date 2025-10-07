@@ -1,0 +1,62 @@
+{
+  "Family": "Pentanchidae",
+  "Order": "Carcharhiniformes",
+  "Common": "Deepwater catsharks",
+  "Genera": [
+    {
+      "Genus": "Apristurus",
+      "SpeciesCount": 41,
+      "genus_path": "genera/pentanchidae/apristurus.json"
+    },
+    {
+      "Genus": "Asymbolus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/pentanchidae/asymbolus.json"
+    },
+    {
+      "Genus": "Bythaelurus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/pentanchidae/bythaelurus.json"
+    },
+    {
+      "Genus": "Cephalurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pentanchidae/cephalurus.json"
+    },
+    {
+      "Genus": "Figaro",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pentanchidae/figaro.json"
+    },
+    {
+      "Genus": "Galeus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/pentanchidae/galeus.json"
+    },
+    {
+      "Genus": "Halaelurus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/pentanchidae/halaelurus.json"
+    },
+    {
+      "Genus": "Haploblepharus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pentanchidae/haploblepharus.json"
+    },
+    {
+      "Genus": "Holohalaelurus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/pentanchidae/holohalaelurus.json"
+    },
+    {
+      "Genus": "Parmaturus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/pentanchidae/parmaturus.json"
+    },
+    {
+      "Genus": "Pentanchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pentanchidae/pentanchus.json"
+    }
+  ]
+}

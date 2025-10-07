@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Lampadena anomala",
+    "SpecCode": "7410",
+    "CommonName": "Anomalous lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampadena atlantica",
+    "SpecCode": "12414",
+    "CommonName": "大西洋炬灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampadena chavesi",
+    "SpecCode": "16667",
+    "CommonName": "Chaves' lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampadena dea",
+    "SpecCode": "16669",
+    "CommonName": "腺炬灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampadena luminosa",
+    "SpecCode": "7411",
+    "CommonName": "Kagami-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampadena notialis",
+    "SpecCode": "16760",
+    "CommonName": "Lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampadena pontifex",
+    "SpecCode": "16671",
+    "CommonName": "大头炬灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampadena speculigera",
+    "SpecCode": "16673",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampadena urophaos",
+    "SpecCode": "7412",
+    "CommonName": "Hotarubi-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampadena yaquinae",
+    "SpecCode": "23001",
+    "CommonName": "Sankô-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

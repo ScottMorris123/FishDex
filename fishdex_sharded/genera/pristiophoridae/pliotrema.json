@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pliotrema annae",
+    "SpecCode": "69211",
+    "CommonName": "Annas Sechskiemer-Sägehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pliotrema kajae",
+    "SpecCode": "69210",
+    "CommonName": "Kajas Sechskiemer-Sägehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pliotrema warreni",
+    "SpecCode": "720",
+    "CommonName": "Pardsaaghai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

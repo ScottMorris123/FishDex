@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Zesticelus bathybius",
+    "SpecCode": "60025",
+    "CommonName": "Sokokajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zesticelus ochotensis",
+    "SpecCode": "27806",
+    "CommonName": "Ohotsuku-soko-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zesticelus profundorum",
+    "SpecCode": "11735",
+    "CommonName": "Flabby sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

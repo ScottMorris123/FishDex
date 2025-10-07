@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Chirolophis ascanii",
+    "SpecCode": "57",
+    "CommonName": "Almindelig buskhoved",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirolophis decoratus",
+    "SpecCode": "3780",
+    "CommonName": "Decorated blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirolophis japonicus",
+    "SpecCode": "13154",
+    "CommonName": "Fusaginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirolophis nugator",
+    "SpecCode": "3781",
+    "CommonName": "Mosshead prickleback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirolophis saitone",
+    "SpecCode": "23772",
+    "CommonName": "Akiginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirolophis snyderi",
+    "SpecCode": "23773",
+    "CommonName": "Bearded warbonnet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirolophis tarsodes",
+    "SpecCode": "3782",
+    "CommonName": "Matcheek warbonnet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirolophis wui",
+    "SpecCode": "60430",
+    "CommonName": "왜도라치",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

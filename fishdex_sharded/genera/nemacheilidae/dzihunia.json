@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Dzihunia amudarjensis",
+    "SpecCode": "22867",
+    "CommonName": "Amudarja dzihuunia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dzihunia ilan",
+    "SpecCode": "63212",
+    "CommonName": "Zaravšoni dzihuunia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dzihunia turdakovi",
+    "SpecCode": "63309",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

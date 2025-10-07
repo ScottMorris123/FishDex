@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Guentherus altivela",
+    "SpecCode": "9149",
+    "CommonName": "Ancestro negro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guentherus katoi",
+    "SpecCode": "63761",
+    "CommonName": "Hyomon-shachiburi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

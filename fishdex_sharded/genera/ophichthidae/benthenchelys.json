@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Benthenchelys cartieri",
+    "SpecCode": "53804",
+    "CommonName": "Cartieri hõljurangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthenchelys indicus",
+    "SpecCode": "61189",
+    "CommonName": "India hõljurangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthenchelys pacificus",
+    "SpecCode": "61188",
+    "CommonName": "Vaikse ookeani hõljurangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

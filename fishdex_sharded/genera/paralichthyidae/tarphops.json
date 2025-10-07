@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Tarphops elegans",
+    "SpecCode": "24218",
+    "CommonName": "Yume-aramegarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tarphops oligolepis",
+    "SpecCode": "24216",
+    "CommonName": "Aramegarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

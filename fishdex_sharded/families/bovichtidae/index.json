@@ -1,0 +1,22 @@
+{
+  "Family": "Bovichtidae",
+  "Order": "Perciformes/Notothenioidei",
+  "Common": "Thornfishes",
+  "Genera": [
+    {
+      "Genus": "Bovichtus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/bovichtidae/bovichtus.json"
+    },
+    {
+      "Genus": "Cottoperca",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bovichtidae/cottoperca.json"
+    },
+    {
+      "Genus": "Halaphritis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bovichtidae/halaphritis.json"
+    }
+  ]
+}

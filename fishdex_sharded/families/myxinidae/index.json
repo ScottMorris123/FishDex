@@ -1,0 +1,37 @@
+{
+  "Family": "Myxinidae",
+  "Order": "Myxiniformes",
+  "Common": "Hagfishes",
+  "Genera": [
+    {
+      "Genus": "Eptatretus",
+      "SpeciesCount": 54,
+      "genus_path": "genera/myxinidae/eptatretus.json"
+    },
+    {
+      "Genus": "Myxine",
+      "SpeciesCount": 26,
+      "genus_path": "genera/myxinidae/myxine.json"
+    },
+    {
+      "Genus": "Nemamyxine",
+      "SpeciesCount": 2,
+      "genus_path": "genera/myxinidae/nemamyxine.json"
+    },
+    {
+      "Genus": "Neomyxine",
+      "SpeciesCount": 2,
+      "genus_path": "genera/myxinidae/neomyxine.json"
+    },
+    {
+      "Genus": "Notomyxine",
+      "SpeciesCount": 1,
+      "genus_path": "genera/myxinidae/notomyxine.json"
+    },
+    {
+      "Genus": "Rubicundus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/myxinidae/rubicundus.json"
+    }
+  ]
+}

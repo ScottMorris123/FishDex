@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Pavoclinus caeruleopunctatus",
+    "SpecCode": "60603",
+    "CommonName": "Bluespotted klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoclinus graminis",
+    "SpecCode": "26261",
+    "CommonName": "Grass klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoclinus laurentii",
+    "SpecCode": "8045",
+    "CommonName": "Rimpel-klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoclinus litorafontis",
+    "SpecCode": "17071",
+    "CommonName": "Slank klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoclinus mentalis",
+    "SpecCode": "8044",
+    "CommonName": "Bearded klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoclinus myae",
+    "SpecCode": "17015",
+    "CommonName": "Mya se klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoclinus pavo",
+    "SpecCode": "26266",
+    "CommonName": "Peacock klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoclinus profundus",
+    "SpecCode": "26265",
+    "CommonName": "Deepwater klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoclinus smalei",
+    "SpecCode": "17007",
+    "CommonName": "Deep-reef klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

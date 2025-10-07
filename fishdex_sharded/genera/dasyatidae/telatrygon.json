@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Telatrygon acutirostra",
+    "SpecCode": "54630",
+    "CommonName": "Scherpsnuitpijlstaartrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Telatrygon biasa",
+    "SpecCode": "68036",
+    "CommonName": "Common ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Telatrygon crozieri",
+    "SpecCode": "69055",
+    "CommonName": "Indian sharpnose ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Telatrygon zugei",
+    "SpecCode": "8205",
+    "CommonName": "Cá Đuối bồng mõm nhọn",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

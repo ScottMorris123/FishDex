@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Anabas cobojius",
+    "SpecCode": "13584",
+    "CommonName": "Climbing perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anabas testudineus",
+    "SpecCode": "495",
+    "CommonName": "Alalo",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

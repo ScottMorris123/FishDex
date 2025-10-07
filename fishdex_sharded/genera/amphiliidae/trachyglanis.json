@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Trachyglanis ineac",
+    "SpecCode": "9443",
+    "CommonName": "Giogele",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyglanis intermedius",
+    "SpecCode": "9444",
+    "CommonName": "中間粗鰍鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyglanis minutus",
+    "SpecCode": "9442",
+    "CommonName": "Sirri-imuevä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyglanis sanghensis",
+    "SpecCode": "9461",
+    "CommonName": "上兴粗鳅鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

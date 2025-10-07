@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Snyderina guentheri",
+    "SpecCode": "46366",
+    "CommonName": "Günther's waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Snyderina yamanokami",
+    "SpecCode": "10385",
+    "CommonName": "Yamahime",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

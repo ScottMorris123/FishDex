@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Acanthostracion guineense",
+    "SpecCode": "23363",
+    "CommonName": "Vierhorn-Kofferfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthostracion notacanthus",
+    "SpecCode": "23370",
+    "CommonName": "Bottlefish boxfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthostracion polygonium",
+    "SpecCode": "4287",
+    "CommonName": "Baiacu-de-chifre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthostracion quadricornis",
+    "SpecCode": "92",
+    "CommonName": "Baiacu-caixão",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

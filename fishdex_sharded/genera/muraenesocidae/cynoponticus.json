@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Cynoponticus coniceps",
+    "SpecCode": "13777",
+    "CommonName": "Conehead eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoponticus ferox",
+    "SpecCode": "4952",
+    "CommonName": "Anghidda imperiali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoponticus savanna",
+    "SpecCode": "1096",
+    "CommonName": "Conger",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Xenichthys agassizii",
+    "SpecCode": "25503",
+    "CommonName": "Ojón blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenichthys rupestris",
+    "SpecCode": "60757",
+    "CommonName": "岩奇石鱸",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenichthys xanti",
+    "SpecCode": "8334",
+    "CommonName": "Cagna gros yeux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

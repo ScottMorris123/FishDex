@@ -1,0 +1,17 @@
+{
+  "Family": "Thaumatichthyidae",
+  "Order": "Lophiiformes",
+  "Common": "Wolftrap anglers (Ref. 7463), Wolftrap Seadevils (Ref. 86949)",
+  "Genera": [
+    {
+      "Genus": "Lasiognathus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/thaumatichthyidae/lasiognathus.json"
+    },
+    {
+      "Genus": "Thaumatichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/thaumatichthyidae/thaumatichthys.json"
+    }
+  ]
+}

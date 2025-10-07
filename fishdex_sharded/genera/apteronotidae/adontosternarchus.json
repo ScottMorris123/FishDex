@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Adontosternarchus balaenops",
+    "SpecCode": "27834",
+    "CommonName": "Macana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Adontosternarchus clarkae",
+    "SpecCode": "48021",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Adontosternarchus devenanzii",
+    "SpecCode": "27831",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Adontosternarchus duartei",
+    "SpecCode": "67072",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Adontosternarchus nebulosus",
+    "SpecCode": "64497",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Adontosternarchus sachsi",
+    "SpecCode": "48019",
+    "CommonName": "无齿翎电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Bathylagichthys australis",
+    "SpecCode": "58740",
+    "CommonName": "Garcette petit-oeil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagichthys greyae",
+    "SpecCode": "9118",
+    "CommonName": "Grey's deepsea smelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagichthys kobylianskyi",
+    "SpecCode": "69322",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagichthys longipinnis",
+    "SpecCode": "58738",
+    "CommonName": "長鰭淵珍魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagichthys parini",
+    "SpecCode": "58739",
+    "CommonName": "帕氏淵珍魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagichthys problematicus",
+    "SpecCode": "50089",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

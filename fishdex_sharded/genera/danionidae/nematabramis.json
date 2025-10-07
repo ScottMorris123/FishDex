@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Nematabramis alestes",
+    "SpecCode": "5164",
+    "CommonName": "Dumpis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematabramis borneensis",
+    "SpecCode": "26642",
+    "CommonName": "Borneo niitlatik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematabramis everetti",
+    "SpecCode": "5165",
+    "CommonName": "Dumpis Everettův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematabramis steindachnerii",
+    "SpecCode": "5431",
+    "CommonName": "Dumpis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematabramis verecundus",
+    "SpecCode": "5163",
+    "CommonName": "Mindanao niitlatik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

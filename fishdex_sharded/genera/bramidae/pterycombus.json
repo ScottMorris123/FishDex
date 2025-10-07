@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pterycombus brama",
+    "SpecCode": "3558",
+    "CommonName": "Atlantic fanfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterycombus petersii",
+    "SpecCode": "12279",
+    "CommonName": "Fanfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

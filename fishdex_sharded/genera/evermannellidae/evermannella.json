@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Evermannella ahlstromi",
+    "SpecCode": "57278",
+    "CommonName": "阿氏齒口魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evermannella balbo",
+    "SpecCode": "1796",
+    "CommonName": "Ancioja i funnu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evermannella indica",
+    "SpecCode": "16604",
+    "CommonName": "Indian sabretooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evermannella megalops",
+    "SpecCode": "55100",
+    "CommonName": "大眼齒口魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evermannella melanoderma",
+    "SpecCode": "60704",
+    "CommonName": "Indian sabertooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

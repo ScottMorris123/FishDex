@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Afurcagobius suppositus",
+    "SpecCode": "57010",
+    "CommonName": "Long-headed goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Afurcagobius tamarensis",
+    "SpecCode": "52422",
+    "CommonName": "Tamar River goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Pseudobunocephalus amazonicus",
+    "SpecCode": "53749",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobunocephalus bifidus",
+    "SpecCode": "48634",
+    "CommonName": "Carachita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobunocephalus iheringii",
+    "SpecCode": "23458",
+    "CommonName": "guitarrita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobunocephalus lundbergi",
+    "SpecCode": "64643",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobunocephalus quadriradiatus",
+    "SpecCode": "53751",
+    "CommonName": "Vierstrahl-Bratfannenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobunocephalus rugosus",
+    "SpecCode": "58092",
+    "CommonName": "guitarrita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobunocephalus timbira",
+    "SpecCode": "70029",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

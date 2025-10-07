@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Profundulus guatemalensis",
+    "SpecCode": "49584",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Profundulus kreiseri",
+    "SpecCode": "66629",
+    "CommonName": "El Escamudo de Kreiser",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Profundulus mixtlanensis",
+    "SpecCode": "68098",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Profundulus oaxacae",
+    "SpecCode": "62862",
+    "CommonName": "Escamudo oaxaqueño",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Profundulus parentiae",
+    "SpecCode": "69178",
+    "CommonName": "Parenti's killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Profundulus punctatus",
+    "SpecCode": "49586",
+    "CommonName": "Brownspotted killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

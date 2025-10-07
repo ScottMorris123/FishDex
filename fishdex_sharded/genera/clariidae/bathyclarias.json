@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Bathyclarias atribranchus",
+    "SpecCode": "8382",
+    "CommonName": "Mbumbu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyclarias euryodon",
+    "SpecCode": "8366",
+    "CommonName": "Bombe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyclarias filicibarbis",
+    "SpecCode": "8367",
+    "CommonName": "Bombe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyclarias foveolatus",
+    "SpecCode": "8368",
+    "CommonName": "Chimwamapumba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyclarias longibarbis",
+    "SpecCode": "8372",
+    "CommonName": "Bombe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyclarias nyasensis",
+    "SpecCode": "8374",
+    "CommonName": "Bombe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyclarias rotundifrons",
+    "SpecCode": "8375",
+    "CommonName": "Bombe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyclarias worthingtoni",
+    "SpecCode": "8376",
+    "CommonName": "Bombe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

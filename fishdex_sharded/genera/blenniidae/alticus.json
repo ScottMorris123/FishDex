@@ -1,0 +1,84 @@
+[
+  {
+    "ScientificName": "Alticus arnoldorum",
+    "SpecCode": "56805",
+    "CommonName": "Leaping rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticus kirkii",
+    "SpecCode": "46411",
+    "CommonName": "Kirk's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticus magnusi",
+    "SpecCode": "67677",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticus monochrus",
+    "SpecCode": "9919",
+    "CommonName": "Filament blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticus montanoi",
+    "SpecCode": "59611",
+    "CommonName": "Montano's Rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticus orientalis",
+    "SpecCode": "67686",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticus saliens",
+    "SpecCode": "6031",
+    "CommonName": "Harilik kaljuhüpik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticus sertatus",
+    "SpecCode": "62209",
+    "CommonName": "Garlanded rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticus simplicirrus",
+    "SpecCode": "61229",
+    "CommonName": "Marquesan rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

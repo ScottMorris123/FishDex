@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Filimanus heptadactyla",
+    "SpecCode": "13530",
+    "CommonName": "Bameen",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Filimanus hexanema",
+    "SpecCode": "14516",
+    "CommonName": "Barbudo javanés",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Filimanus perplexa",
+    "SpecCode": "14517",
+    "CommonName": "Barbudo espléndido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Filimanus sealei",
+    "SpecCode": "14518",
+    "CommonName": "Barbudo de ocho dedos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Filimanus similis",
+    "SpecCode": "58276",
+    "CommonName": "Barbudo de siete dedos índico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Filimanus xanthonema",
+    "SpecCode": "10616",
+    "CommonName": "Barbudo de dedos amarillos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

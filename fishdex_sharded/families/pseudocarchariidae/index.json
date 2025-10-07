@@ -1,0 +1,12 @@
+{
+  "Family": "Pseudocarchariidae",
+  "Order": "Lamniformes",
+  "Common": "Crocodile sharks",
+  "Genera": [
+    {
+      "Genus": "Pseudocarcharias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudocarchariidae/pseudocarcharias.json"
+    }
+  ]
+}

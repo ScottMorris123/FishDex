@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pterodoras granulosus",
+    "SpecCode": "12109",
+    "CommonName": "abotoado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterodoras rivasi",
+    "SpecCode": "47648",
+    "CommonName": "Sierra apureña",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

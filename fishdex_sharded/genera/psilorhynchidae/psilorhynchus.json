@@ -1,0 +1,263 @@
+[
+  {
+    "ScientificName": "Psilorhynchus amplicephalus",
+    "SpecCode": "63789",
+    "CommonName": "Laipea-mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus arunachalensis",
+    "SpecCode": "63328",
+    "CommonName": "Dirangi mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus balitora",
+    "SpecCode": "24489",
+    "CommonName": "Balitora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus brachyrhynchus",
+    "SpecCode": "65805",
+    "CommonName": "Lühikoon-mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus breviminor",
+    "SpecCode": "64701",
+    "CommonName": "Tömp mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus chakpiensis",
+    "SpecCode": "67193",
+    "CommonName": "Chakpi mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus gokkyi",
+    "SpecCode": "65807",
+    "CommonName": "Gokkyi mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus hamiltoni",
+    "SpecCode": "67078",
+    "CommonName": "Hamiltoni mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus homaloptera",
+    "SpecCode": "24492",
+    "CommonName": "Homaloptera minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus kaladanensis",
+    "SpecCode": "68020",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus khopai",
+    "SpecCode": "67756",
+    "CommonName": "Khopai mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus konemi",
+    "SpecCode": "68310",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus maculatus",
+    "SpecCode": "67577",
+    "CommonName": "Laiguline mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus magnaoculus",
+    "SpecCode": "69630",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus melissa",
+    "SpecCode": "65777",
+    "CommonName": "Mumm-mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus microphthalmus",
+    "SpecCode": "27288",
+    "CommonName": "Väikesilm-mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus nepalensis",
+    "SpecCode": "64796",
+    "CommonName": "Nepali mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus ngathanu",
+    "SpecCode": "67575",
+    "CommonName": "Ngathanu-mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus nudithoracicus",
+    "SpecCode": "24490",
+    "CommonName": "Balitora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus olliei",
+    "SpecCode": "67892",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus pavimentatus",
+    "SpecCode": "65778",
+    "CommonName": "Sillutis-mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus piperatus",
+    "SpecCode": "65806",
+    "CommonName": "Piprakirju mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus pseudecheneis",
+    "SpecCode": "24495",
+    "CommonName": "Imiuim-mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus rahmani",
+    "SpecCode": "64797",
+    "CommonName": "Rahmani mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus robustus",
+    "SpecCode": "63827",
+    "CommonName": "Tüse mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus rowleyi",
+    "SpecCode": "67578",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus sucatio",
+    "SpecCode": "24496",
+    "CommonName": "Liiva-mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus tenura",
+    "SpecCode": "64647",
+    "CommonName": "Salesaba-mägirünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilorhynchus tysoni",
+    "SpecCode": "68066",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

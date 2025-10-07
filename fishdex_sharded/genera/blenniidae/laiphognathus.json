@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Laiphognathus longispinis",
+    "SpecCode": "64223",
+    "CommonName": "Crown spotty blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laiphognathus multimaculatus",
+    "SpecCode": "7564",
+    "CommonName": "Many spotted blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

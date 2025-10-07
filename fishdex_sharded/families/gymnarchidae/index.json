@@ -1,0 +1,12 @@
+{
+  "Family": "Gymnarchidae",
+  "Order": "Osteoglossiformes",
+  "Common": "Abas",
+  "Genera": [
+    {
+      "Genus": "Gymnarchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gymnarchidae/gymnarchus.json"
+    }
+  ]
+}

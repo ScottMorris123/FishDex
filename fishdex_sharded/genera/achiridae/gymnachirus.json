@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gymnachirus melas",
+    "SpecCode": "4257",
+    "CommonName": "Nacktzunge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnachirus nudus",
+    "SpecCode": "7575",
+    "CommonName": "Acedía nudosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnachirus texae",
+    "SpecCode": "4258",
+    "CommonName": "Fringed sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

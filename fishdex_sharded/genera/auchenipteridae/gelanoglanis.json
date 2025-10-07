@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Gelanoglanis nanonocticolus",
+    "SpecCode": "54555",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gelanoglanis pan",
+    "SpecCode": "67708",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gelanoglanis stroudi",
+    "SpecCode": "47670",
+    "CommonName": "Kääpiötatia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gelanoglanis travieso",
+    "SpecCode": "64274",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "Family": "Creediidae",
+  "Order": "Acropomatiformes",
+  "Common": "Sandburrowers",
+  "Genera": [
+    {
+      "Genus": "Apodocreedia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/creediidae/apodocreedia.json"
+    },
+    {
+      "Genus": "Chalixodytes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/creediidae/chalixodytes.json"
+    },
+    {
+      "Genus": "Creedia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/creediidae/creedia.json"
+    },
+    {
+      "Genus": "Crystallodytes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/creediidae/crystallodytes.json"
+    },
+    {
+      "Genus": "Limnichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/creediidae/limnichthys.json"
+    },
+    {
+      "Genus": "Myopsaron",
+      "SpeciesCount": 1,
+      "genus_path": "genera/creediidae/myopsaron.json"
+    },
+    {
+      "Genus": "Schizochirus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/creediidae/schizochirus.json"
+    },
+    {
+      "Genus": "Tewara",
+      "SpeciesCount": 1,
+      "genus_path": "genera/creediidae/tewara.json"
+    }
+  ]
+}

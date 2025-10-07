@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Decodon grandisquamis",
+    "SpecCode": "16902",
+    "CommonName": "Grootskub-lipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decodon melasma",
+    "SpecCode": "13835",
+    "CommonName": "Blackspot wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decodon pacificus",
+    "SpecCode": "23521",
+    "CommonName": "Kazari-akabô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decodon puellaris",
+    "SpecCode": "3657",
+    "CommonName": "Doncella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

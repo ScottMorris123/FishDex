@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Quassiremus ascensionis",
+    "SpecCode": "16520",
+    "CommonName": "Blackspotted snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Quassiremus evionthas",
+    "SpecCode": "25547",
+    "CommonName": "Anguila de Galapagos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Quassiremus nothochir",
+    "SpecCode": "13924",
+    "CommonName": "Hadař pobřežní",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Quassiremus polyclitellum",
+    "SpecCode": "27173",
+    "CommonName": "Hadař novozélandský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

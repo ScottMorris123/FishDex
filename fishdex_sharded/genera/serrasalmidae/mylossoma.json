@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Mylossoma acanthogaster",
+    "SpecCode": "49391",
+    "CommonName": "Palometa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylossoma albiscopum",
+    "SpecCode": "69486",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylossoma aureum",
+    "SpecCode": "25524",
+    "CommonName": "Garopita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylossoma duriventre",
+    "SpecCode": "12977",
+    "CommonName": "brillantina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylossoma unimaculatum",
+    "SpecCode": "69532",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

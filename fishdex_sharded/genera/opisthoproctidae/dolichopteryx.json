@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Dolichopteryx anascopa",
+    "SpecCode": "51693",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichopteryx andriashevi",
+    "SpecCode": "65556",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichopteryx longipes",
+    "SpecCode": "9121",
+    "CommonName": "Brownsnout spookfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichopteryx minuscula",
+    "SpecCode": "63387",
+    "CommonName": "Hina-deme-nigisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichopteryx parini",
+    "SpecCode": "60994",
+    "CommonName": "Winged spookfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichopteryx pseudolongipes",
+    "SpecCode": "64629",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichopteryx rostrata",
+    "SpecCode": "63388",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichopteryx trunovi",
+    "SpecCode": "63390",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dolichopteryx vityazi",
+    "SpecCode": "65557",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

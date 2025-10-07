@@ -1,0 +1,42 @@
+{
+  "Family": "Phosichthyidae",
+  "Order": "Stomiiformes",
+  "Common": "Lightfishes",
+  "Genera": [
+    {
+      "Genus": "Ichthyococcus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/phosichthyidae/ichthyococcus.json"
+    },
+    {
+      "Genus": "Phosichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/phosichthyidae/phosichthys.json"
+    },
+    {
+      "Genus": "Pollichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/phosichthyidae/pollichthys.json"
+    },
+    {
+      "Genus": "Polymetme",
+      "SpeciesCount": 6,
+      "genus_path": "genera/phosichthyidae/polymetme.json"
+    },
+    {
+      "Genus": "Vinciguerria",
+      "SpeciesCount": 5,
+      "genus_path": "genera/phosichthyidae/vinciguerria.json"
+    },
+    {
+      "Genus": "Woodsia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/phosichthyidae/woodsia.json"
+    },
+    {
+      "Genus": "Yarrella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/phosichthyidae/yarrella.json"
+    }
+  ]
+}

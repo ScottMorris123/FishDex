@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Parachanna africana",
+    "SpecCode": "9893",
+    "CommonName": "African snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachanna insignis",
+    "SpecCode": "9894",
+    "CommonName": "Gezeichneter Schlangenkopf",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachanna obscura",
+    "SpecCode": "5467",
+    "CommonName": "Abioth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

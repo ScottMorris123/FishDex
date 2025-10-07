@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Otothyris juquiae",
+    "SpecCode": "55247",
+    "CommonName": "Juovavaajamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Otothyris lophophanes",
+    "SpecCode": "50466",
+    "CommonName": "Brauner Otocinclus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Otothyris rostrata",
+    "SpecCode": "55248",
+    "CommonName": "Cascudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Otothyris travassosi",
+    "SpecCode": "55280",
+    "CommonName": "Pisamavaajamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

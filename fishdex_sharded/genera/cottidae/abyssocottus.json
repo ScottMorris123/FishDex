@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Abyssocottus elochini",
+    "SpecCode": "48039",
+    "CommonName": "Elokhin sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abyssocottus fuscus",
+    "SpecCode": "70423",
+    "CommonName": "Brownish sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abyssocottus gibbosus",
+    "SpecCode": "48040",
+    "CommonName": "Harilik süvahärg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abyssocottus korotneffi",
+    "SpecCode": "47208",
+    "CommonName": "Small-eyed sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abyssocottus pumilus",
+    "SpecCode": "70424",
+    "CommonName": "Dwarf deep-water sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abyssocottus subulatus",
+    "SpecCode": "70422",
+    "CommonName": "Fusiform sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

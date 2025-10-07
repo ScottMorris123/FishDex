@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Pachypterus acutirostris",
+    "SpecCode": "61819",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypterus atherinoides",
+    "SpecCode": "5494",
+    "CommonName": "Batashi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypterus khavalchor",
+    "SpecCode": "24767",
+    "CommonName": "Ilimeenu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

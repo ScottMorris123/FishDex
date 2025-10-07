@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Dermatolepis dermatolepis",
+    "SpecCode": "9185",
+    "CommonName": "Cabrilla cuero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermatolepis inermis",
+    "SpecCode": "3322",
+    "CommonName": "Boricua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermatolepis striolata",
+    "SpecCode": "6458",
+    "CommonName": "Alovo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

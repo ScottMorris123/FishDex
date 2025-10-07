@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Haploblepharus edwardsii",
+    "SpecCode": "825",
+    "CommonName": "Alitán viperino",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haploblepharus fuscus",
+    "SpecCode": "826",
+    "CommonName": "Alitán marrón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haploblepharus kistnasamyi",
+    "SpecCode": "63795",
+    "CommonName": "Natali ujehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haploblepharus pictus",
+    "SpecCode": "827",
+    "CommonName": "Alitán obscuro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

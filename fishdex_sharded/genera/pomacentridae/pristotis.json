@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pristotis cyanostigma",
+    "SpecCode": "12507",
+    "CommonName": "Bluedotted damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristotis obtusirostris",
+    "SpecCode": "8127",
+    "CommonName": "Gombing",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

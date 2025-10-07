@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Elops affinis",
+    "SpecCode": "2601",
+    "CommonName": "Chiro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elops hawaiensis",
+    "SpecCode": "6415",
+    "CommonName": "Alho",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elops lacerta",
+    "SpecCode": "4959",
+    "CommonName": "Agban",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elops machnata",
+    "SpecCode": "5512",
+    "CommonName": "௨லத்தீ ",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elops saurus",
+    "SpecCode": "175",
+    "CommonName": "௨லத்தீ",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elops senegalensis",
+    "SpecCode": "5023",
+    "CommonName": "Agba",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elops smithi",
+    "SpecCode": "65327",
+    "CommonName": "Machete malacho",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

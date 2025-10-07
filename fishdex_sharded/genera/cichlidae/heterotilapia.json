@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Heterotilapia buettikoferi",
+    "SpecCode": "8902",
+    "CommonName": "Hornet tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterotilapia cessiana",
+    "SpecCode": "2485",
+    "CommonName": "Raitatilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

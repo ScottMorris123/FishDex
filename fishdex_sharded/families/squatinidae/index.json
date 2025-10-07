@@ -1,0 +1,12 @@
+{
+  "Family": "Squatinidae",
+  "Order": "Squatiniformes",
+  "Common": "Angel sharks",
+  "Genera": [
+    {
+      "Genus": "Squatina",
+      "SpeciesCount": 26,
+      "genus_path": "genera/squatinidae/squatina.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Leptoglanis bouilloni",
+    "SpecCode": "9336",
+    "CommonName": "布氏细鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptoglanis xenognathus",
+    "SpecCode": "9344",
+    "CommonName": "大頜細鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

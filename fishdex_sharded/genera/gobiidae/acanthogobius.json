@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Acanthogobius elongatus",
+    "SpecCode": "67583",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthogobius flavimanus",
+    "SpecCode": "3832",
+    "CommonName": "Cá Bong",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthogobius hasta",
+    "SpecCode": "13045",
+    "CommonName": "Cá Bống hat-ta",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthogobius insularis",
+    "SpecCode": "67376",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthogobius lactipes",
+    "SpecCode": "23696",
+    "CommonName": "Ashishirohaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthogobius luridus",
+    "SpecCode": "55485",
+    "CommonName": "비늘흰발망둑",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthogobius ommaturus",
+    "SpecCode": "22525",
+    "CommonName": "Asian freshwater goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthogobius stigmothonus",
+    "SpecCode": "69021",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

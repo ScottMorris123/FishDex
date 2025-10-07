@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pterolebias hoignei",
+    "SpecCode": "27346",
+    "CommonName": "Rusohuntukala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterolebias longipinnis",
+    "SpecCode": "10972",
+    "CommonName": "Featherfin panchax",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterolebias phasianus",
+    "SpecCode": "49580",
+    "CommonName": "Fasaanihuntukala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterolebias zonatus",
+    "SpecCode": "27345",
+    "CommonName": "Gestreifter Schleierkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

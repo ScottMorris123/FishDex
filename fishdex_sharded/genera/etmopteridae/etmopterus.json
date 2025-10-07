@@ -1,0 +1,399 @@
+[
+  {
+    "ScientificName": "Etmopterus alphus",
+    "SpecCode": "68051",
+    "CommonName": "Whitecheek lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus benchleyi",
+    "SpecCode": "67845",
+    "CommonName": "Ninja lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus bigelowi",
+    "SpecCode": "25482",
+    "CommonName": "Blurred lantern shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus brachyurus",
+    "SpecCode": "675",
+    "CommonName": "Korthalet lanternehaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus brosei",
+    "SpecCode": "69483",
+    "CommonName": "Barrie's lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus bullisi",
+    "SpecCode": "676",
+    "CommonName": "Gerimpelde lantaarnhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus burgessi",
+    "SpecCode": "63154",
+    "CommonName": "Broadnose lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus carteri",
+    "SpecCode": "50208",
+    "CommonName": "Cilindrische lantaarnhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus caudistigmus",
+    "SpecCode": "60034",
+    "CommonName": "Märksaba-tumehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus compagnoi",
+    "SpecCode": "25483",
+    "CommonName": "Brown lantern shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus decacuspidatus",
+    "SpecCode": "677",
+    "CommonName": "Combtooth lantern shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus dianthus",
+    "SpecCode": "60035",
+    "CommonName": "Pink lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus dislineatus",
+    "SpecCode": "60036",
+    "CommonName": "Katkendjoon-tumehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus evansi",
+    "SpecCode": "60037",
+    "CommonName": "Blackmouth lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus fusus",
+    "SpecCode": "60038",
+    "CommonName": "Pygmy lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus gracilispinis",
+    "SpecCode": "678",
+    "CommonName": "Broadbanded lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus granulosus",
+    "SpecCode": "679",
+    "CommonName": "Baxters lantern dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus hillianus",
+    "SpecCode": "680",
+    "CommonName": "Blackbelly Dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus joungi",
+    "SpecCode": "66060",
+    "CommonName": "Joungi tumehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus lailae",
+    "SpecCode": "68367",
+    "CommonName": "Laila's lanternshark",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus lii",
+    "SpecCode": "70570",
+    "CommonName": "Li's lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus litvinovi",
+    "SpecCode": "53935",
+    "CommonName": "Kleinooglantaarnhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus lucifer",
+    "SpecCode": "681",
+    "CommonName": "Blackbelly lantern shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus marshae",
+    "SpecCode": "68881",
+    "CommonName": "Marsha's lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus molleri",
+    "SpecCode": "23928",
+    "CommonName": "Blackbelly lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus parini",
+    "SpecCode": "69489",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus perryi",
+    "SpecCode": "50209",
+    "CommonName": "Dvärgkäxa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus polli",
+    "SpecCode": "682",
+    "CommonName": "Aafrika tumehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus princeps",
+    "SpecCode": "683",
+    "CommonName": "Brunkäxa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus pseudosqualiolus",
+    "SpecCode": "60039",
+    "CommonName": "False lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus pusillus",
+    "SpecCode": "684",
+    "CommonName": "Gata-preta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus pycnolepis",
+    "SpecCode": "53934",
+    "CommonName": "Dense-scale lantern shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus robinsi",
+    "SpecCode": "53936",
+    "CommonName": "Robin's lantaarnhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus samadiae",
+    "SpecCode": "68364",
+    "CommonName": "Papuan lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus schultzi",
+    "SpecCode": "685",
+    "CommonName": "Franjevinlantaarnhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus sculptus",
+    "SpecCode": "66301",
+    "CommonName": "Raidhammas-tumehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus sentosus",
+    "SpecCode": "686",
+    "CommonName": "Doornige lantaarnhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus sheikoi",
+    "SpecCode": "53993",
+    "CommonName": "Raspelhammashai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus spinax",
+    "SpecCode": "687",
+    "CommonName": "Agugghiú neigru",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus splendidus",
+    "SpecCode": "27023",
+    "CommonName": "Futoshimi-fujikujra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus unicolor",
+    "SpecCode": "688",
+    "CommonName": "Bristled lanternshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus viator",
+    "SpecCode": "66262",
+    "CommonName": "Rändur-tumehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus villosus",
+    "SpecCode": "689",
+    "CommonName": "Havai tumehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etmopterus virens",
+    "SpecCode": "690",
+    "CommonName": "Green lantern shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

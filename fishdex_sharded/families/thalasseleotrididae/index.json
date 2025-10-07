@@ -1,0 +1,22 @@
+{
+  "Family": "Thalasseleotrididae",
+  "Order": "Gobiiformes",
+  "Common": "Ocean sleepers",
+  "Genera": [
+    {
+      "Genus": "Grahamichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/thalasseleotrididae/grahamichthys.json"
+    },
+    {
+      "Genus": "Tempestichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/thalasseleotrididae/tempestichthys.json"
+    },
+    {
+      "Genus": "Thalasseleotris",
+      "SpeciesCount": 2,
+      "genus_path": "genera/thalasseleotrididae/thalasseleotris.json"
+    }
+  ]
+}

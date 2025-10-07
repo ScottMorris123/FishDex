@@ -1,0 +1,17 @@
+{
+  "Family": "Monocentridae",
+  "Order": "Trachichthyiformes",
+  "Common": "Pinecone fishes",
+  "Genera": [
+    {
+      "Genus": "Cleidopus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monocentridae/cleidopus.json"
+    },
+    {
+      "Genus": "Monocentris",
+      "SpeciesCount": 4,
+      "genus_path": "genera/monocentridae/monocentris.json"
+    }
+  ]
+}

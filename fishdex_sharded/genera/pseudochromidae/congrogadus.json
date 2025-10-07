@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Congrogadus amplimaculatus",
+    "SpecCode": "4415",
+    "CommonName": "Largespot eel blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congrogadus hierichthys",
+    "SpecCode": "4418",
+    "CommonName": "Sulu eelblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congrogadus malayanus",
+    "SpecCode": "4416",
+    "CommonName": "Malayan eel blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congrogadus spinifer",
+    "SpecCode": "4417",
+    "CommonName": "Small-spot eel-blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congrogadus subducens",
+    "SpecCode": "4419",
+    "CommonName": "Ambeetunbeet",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congrogadus winterbottomi",
+    "SpecCode": "59010",
+    "CommonName": "Pilbara eel blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

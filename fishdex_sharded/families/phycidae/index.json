@@ -1,0 +1,17 @@
+{
+  "Family": "Phycidae",
+  "Order": "Gadiformes",
+  "Common": "Phycid hakes",
+  "Genera": [
+    {
+      "Genus": "Phycis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/phycidae/phycis.json"
+    },
+    {
+      "Genus": "Urophycis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/phycidae/urophycis.json"
+    }
+  ]
+}

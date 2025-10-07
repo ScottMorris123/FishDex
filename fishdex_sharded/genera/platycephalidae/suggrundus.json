@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Suggrundus cooperi",
+    "SpecCode": "52820",
+    "CommonName": "库氏大眼鲬",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suggrundus macracanthus",
+    "SpecCode": "10336",
+    "CommonName": "Baji duri besar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suggrundus meerdervoortii",
+    "SpecCode": "12993",
+    "CommonName": "Big-eyed flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

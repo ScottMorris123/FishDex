@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Trygonoptera galba",
+    "SpecCode": "64141",
+    "CommonName": "Kollane pakssabarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trygonoptera imitata",
+    "SpecCode": "64139",
+    "CommonName": "Eastern shovelnose stingaree",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trygonoptera mucosa",
+    "SpecCode": "24000",
+    "CommonName": "Bebil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trygonoptera ovalis",
+    "SpecCode": "27066",
+    "CommonName": "Bight stingaree",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trygonoptera personata",
+    "SpecCode": "27143",
+    "CommonName": "Masked stingaree",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trygonoptera testacea",
+    "SpecCode": "15439",
+    "CommonName": "Common stingaree",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

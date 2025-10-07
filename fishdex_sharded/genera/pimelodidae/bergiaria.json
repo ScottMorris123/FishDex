@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bergiaria platana",
+    "SpecCode": "48529",
+    "CommonName": "Bagre picudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bergiaria westermanni",
+    "SpecCode": "48530",
+    "CommonName": "bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

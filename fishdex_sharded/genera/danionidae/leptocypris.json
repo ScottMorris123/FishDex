@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Leptocypris crossensis",
+    "SpecCode": "5275",
+    "CommonName": "Kameruni salekarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptocypris guineensis",
+    "SpecCode": "5274",
+    "CommonName": "Guinea salekarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptocypris konkoureensis",
+    "SpecCode": "5272",
+    "CommonName": "Konkouré salekarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptocypris lujae",
+    "SpecCode": "12715",
+    "CommonName": "Luja salekarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptocypris modestus",
+    "SpecCode": "11591",
+    "CommonName": "Kongo salekarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptocypris niloticus",
+    "SpecCode": "5273",
+    "CommonName": "Afrikanisches Moderlieschen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptocypris taiaensis",
+    "SpecCode": "5271",
+    "CommonName": "Neobola sierraleonská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptocypris weeksii",
+    "SpecCode": "12721",
+    "CommonName": "Ikekenge",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptocypris weynsii",
+    "SpecCode": "11592",
+    "CommonName": "Neobola Weynsova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

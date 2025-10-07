@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Phycis blennoides",
+    "SpecCode": "1340",
+    "CommonName": "Abrotea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phycis chesteri",
+    "SpecCode": "1880",
+    "CommonName": "Dolgoplavuta tabinja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phycis phycis",
+    "SpecCode": "1747",
+    "CommonName": "Abrota",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

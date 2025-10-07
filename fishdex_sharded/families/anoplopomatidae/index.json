@@ -1,0 +1,17 @@
+{
+  "Family": "Anoplopomatidae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Sablefishes",
+  "Genera": [
+    {
+      "Genus": "Anoplopoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anoplopomatidae/anoplopoma.json"
+    },
+    {
+      "Genus": "Erilepis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anoplopomatidae/erilepis.json"
+    }
+  ]
+}

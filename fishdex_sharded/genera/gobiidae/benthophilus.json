@@ -1,0 +1,181 @@
+[
+  {
+    "ScientificName": "Benthophilus baeri",
+    "SpecCode": "47930",
+    "CommonName": "Baer pugolovka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus casachicus",
+    "SpecCode": "61546",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus ctenolepidus",
+    "SpecCode": "48341",
+    "CommonName": "Gav Mahi Shfaf",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus durrelli",
+    "SpecCode": "64114",
+    "CommonName": "Don tadpole-goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus granulosus",
+    "SpecCode": "47935",
+    "CommonName": "Granular pugolovka",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus grimmi",
+    "SpecCode": "47936",
+    "CommonName": "格氏瘤鰕虎魚",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus kessleri",
+    "SpecCode": "48277",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus leobergius",
+    "SpecCode": "63397",
+    "CommonName": "Caspian stellate tadpole-goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus leptocephalus",
+    "SpecCode": "47937",
+    "CommonName": "小头瘤鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus leptorhynchus",
+    "SpecCode": "47938",
+    "CommonName": "Short-snout pugolovka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus macrocephalus",
+    "SpecCode": "47931",
+    "CommonName": "Caspian goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus magistri",
+    "SpecCode": "25973",
+    "CommonName": "Azov tadpole goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus mahmudbejovi",
+    "SpecCode": "55531",
+    "CommonName": "Small-spine tadpole-goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus nudus",
+    "SpecCode": "63477",
+    "CommonName": "Black Sea tadpole-goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus persicus",
+    "SpecCode": "69772",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus ragimovi",
+    "SpecCode": "62057",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus spinosus",
+    "SpecCode": "47933",
+    "CommonName": "Spiny pugolovka",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus stellatus",
+    "SpecCode": "16265",
+    "CommonName": "Gav Mahi Khtri",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthophilus svetovidovi",
+    "SpecCode": "55532",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

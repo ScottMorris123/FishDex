@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Gadiculus argenteus",
+    "SpecCode": "1875",
+    "CommonName": "Abbutatiello",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadiculus thori",
+    "SpecCode": "25",
+    "CommonName": "Faneca plateada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

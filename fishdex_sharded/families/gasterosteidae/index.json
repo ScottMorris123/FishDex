@@ -1,0 +1,32 @@
+{
+  "Family": "Gasterosteidae",
+  "Order": "Perciformes/Gasterosteoidei",
+  "Common": "Sticklebacks and tubesnouts",
+  "Genera": [
+    {
+      "Genus": "Apeltes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gasterosteidae/apeltes.json"
+    },
+    {
+      "Genus": "Culaea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gasterosteidae/culaea.json"
+    },
+    {
+      "Genus": "Gasterosteus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/gasterosteidae/gasterosteus.json"
+    },
+    {
+      "Genus": "Pungitius",
+      "SpeciesCount": 11,
+      "genus_path": "genera/gasterosteidae/pungitius.json"
+    },
+    {
+      "Genus": "Spinachia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gasterosteidae/spinachia.json"
+    }
+  ]
+}

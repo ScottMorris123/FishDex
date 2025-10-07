@@ -1,0 +1,221 @@
+[
+  {
+    "ScientificName": "Vanmanenia caldwelli",
+    "SpecCode": "60131",
+    "CommonName": "Caldwelli vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia caobangensis",
+    "SpecCode": "65675",
+    "CommonName": "Caobangi vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia crassicauda",
+    "SpecCode": "57769",
+    "CommonName": "Aurinkoimunuoliainen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia gymnetrus",
+    "SpecCode": "55020",
+    "CommonName": "Kiilaskõht-vanmaneenia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia hainanensis",
+    "SpecCode": "55018",
+    "CommonName": "Hainani vanmaneenia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia homalocephala",
+    "SpecCode": "60499",
+    "CommonName": "Lamepea-vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia lineata",
+    "SpecCode": "60132",
+    "CommonName": "Mřenka čárkovaná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia maculata",
+    "SpecCode": "67737",
+    "CommonName": "Täpiline vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia microcephala",
+    "SpecCode": "69473",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia microlepis",
+    "SpecCode": "65699",
+    "CommonName": "Peenrüü-vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia monofasciodorsala",
+    "SpecCode": "65700",
+    "CommonName": "Vöötuim-vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia multiloba",
+    "SpecCode": "61366",
+    "CommonName": "Balitora mnoholaločná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia nahangensis",
+    "SpecCode": "65704",
+    "CommonName": "Nàhangi vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia orcucampus",
+    "SpecCode": "69481",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia pingchowensis",
+    "SpecCode": "55017",
+    "CommonName": "Hiina vanmaneenia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia polylepis",
+    "SpecCode": "67740",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia pseudostriata",
+    "SpecCode": "69474",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia serrilineata",
+    "SpecCode": "57771",
+    "CommonName": "Mřenka křivočará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia stenosoma",
+    "SpecCode": "60134",
+    "CommonName": "Ahas vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia striata",
+    "SpecCode": "57773",
+    "CommonName": "Viiruimunuoliainen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia tetraloba",
+    "SpecCode": "60834",
+    "CommonName": "Mřenka čtyřlaločná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia trifasciodorsala",
+    "SpecCode": "65735",
+    "CommonName": "Kolmvööt-vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia ventrosquamata",
+    "SpecCode": "61367",
+    "CommonName": "Balitora severovietnamská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanmanenia xinyiensis",
+    "SpecCode": "55019",
+    "CommonName": "Guangdongi vanmaneenia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

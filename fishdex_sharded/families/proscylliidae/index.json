@@ -1,0 +1,22 @@
+{
+  "Family": "Proscylliidae",
+  "Order": "Carcharhiniformes",
+  "Common": "Finback catsharks",
+  "Genera": [
+    {
+      "Genus": "Ctenacis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/proscylliidae/ctenacis.json"
+    },
+    {
+      "Genus": "Eridacnis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/proscylliidae/eridacnis.json"
+    },
+    {
+      "Genus": "Proscyllium",
+      "SpeciesCount": 3,
+      "genus_path": "genera/proscylliidae/proscyllium.json"
+    }
+  ]
+}

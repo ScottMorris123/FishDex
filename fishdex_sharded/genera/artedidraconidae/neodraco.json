@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Neodraco loennbergi",
+    "SpecCode": "7064",
+    "CommonName": "尖须阿氏龙鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neodraco skottsbergi",
+    "SpecCode": "7068",
+    "CommonName": "長胸鰭阿氏龍鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

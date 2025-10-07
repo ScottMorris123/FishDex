@@ -1,0 +1,17 @@
+{
+  "Family": "Parascylliidae",
+  "Order": "Orectolobiformes",
+  "Common": "Collared carpet sharks",
+  "Genera": [
+    {
+      "Genus": "Cirrhoscyllium",
+      "SpeciesCount": 3,
+      "genus_path": "genera/parascylliidae/cirrhoscyllium.json"
+    },
+    {
+      "Genus": "Parascyllium",
+      "SpeciesCount": 5,
+      "genus_path": "genera/parascylliidae/parascyllium.json"
+    }
+  ]
+}

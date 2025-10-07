@@ -1,0 +1,157 @@
+{
+  "Family": "Dorosomatidae",
+  "Order": "Clupeiformes",
+  "Common": "Gizzard shads and sardinellas",
+  "Genera": [
+    {
+      "Genus": "Amblygaster",
+      "SpeciesCount": 4,
+      "genus_path": "genera/dorosomatidae/amblygaster.json"
+    },
+    {
+      "Genus": "Anodontostoma",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dorosomatidae/anodontostoma.json"
+    },
+    {
+      "Genus": "Clupanodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/clupanodon.json"
+    },
+    {
+      "Genus": "Congothrissa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/congothrissa.json"
+    },
+    {
+      "Genus": "Dorosoma",
+      "SpeciesCount": 5,
+      "genus_path": "genera/dorosomatidae/dorosoma.json"
+    },
+    {
+      "Genus": "Escualosa",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dorosomatidae/escualosa.json"
+    },
+    {
+      "Genus": "Ethmalosa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/ethmalosa.json"
+    },
+    {
+      "Genus": "Gonialosa",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dorosomatidae/gonialosa.json"
+    },
+    {
+      "Genus": "Gudusia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dorosomatidae/gudusia.json"
+    },
+    {
+      "Genus": "Harengula",
+      "SpeciesCount": 4,
+      "genus_path": "genera/dorosomatidae/harengula.json"
+    },
+    {
+      "Genus": "Herklotsichthys",
+      "SpeciesCount": 12,
+      "genus_path": "genera/dorosomatidae/herklotsichthys.json"
+    },
+    {
+      "Genus": "Hilsa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/hilsa.json"
+    },
+    {
+      "Genus": "Konosirus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/konosirus.json"
+    },
+    {
+      "Genus": "Laeviscutella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/laeviscutella.json"
+    },
+    {
+      "Genus": "Lile",
+      "SpeciesCount": 4,
+      "genus_path": "genera/dorosomatidae/lile.json"
+    },
+    {
+      "Genus": "Limnothrissa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/limnothrissa.json"
+    },
+    {
+      "Genus": "Microthrissa",
+      "SpeciesCount": 5,
+      "genus_path": "genera/dorosomatidae/microthrissa.json"
+    },
+    {
+      "Genus": "Nannothrissa",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dorosomatidae/nannothrissa.json"
+    },
+    {
+      "Genus": "Nematalosa",
+      "SpeciesCount": 11,
+      "genus_path": "genera/dorosomatidae/nematalosa.json"
+    },
+    {
+      "Genus": "Odaxothrissa",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dorosomatidae/odaxothrissa.json"
+    },
+    {
+      "Genus": "Opisthonema",
+      "SpeciesCount": 5,
+      "genus_path": "genera/dorosomatidae/opisthonema.json"
+    },
+    {
+      "Genus": "Pellonula",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dorosomatidae/pellonula.json"
+    },
+    {
+      "Genus": "Platanichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/platanichthys.json"
+    },
+    {
+      "Genus": "Potamothrissa",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dorosomatidae/potamothrissa.json"
+    },
+    {
+      "Genus": "Rhinosardinia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dorosomatidae/rhinosardinia.json"
+    },
+    {
+      "Genus": "Sardinella",
+      "SpeciesCount": 27,
+      "genus_path": "genera/dorosomatidae/sardinella.json"
+    },
+    {
+      "Genus": "Sierrathrissa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/sierrathrissa.json"
+    },
+    {
+      "Genus": "Stolothrissa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/stolothrissa.json"
+    },
+    {
+      "Genus": "Tenualosa",
+      "SpeciesCount": 5,
+      "genus_path": "genera/dorosomatidae/tenualosa.json"
+    },
+    {
+      "Genus": "Thrattidion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dorosomatidae/thrattidion.json"
+    }
+  ]
+}

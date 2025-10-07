@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Chrysoblephus anglicus",
+    "SpecCode": "5528",
+    "CommonName": "Englesman",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysoblephus cristiceps",
+    "SpecCode": "6002",
+    "CommonName": "Dageraad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysoblephus gibbiceps",
+    "SpecCode": "6003",
+    "CommonName": "Dageral",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysoblephus laticeps",
+    "SpecCode": "5529",
+    "CommonName": "Laipea-ookersilm",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysoblephus lophus",
+    "SpecCode": "7930",
+    "CommonName": "False Englishman",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysoblephus puniceus",
+    "SpecCode": "5530",
+    "CommonName": "Marreco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Family": "Hoplichthyidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Ghost flatheads",
+  "Genera": [
+    {
+      "Genus": "Hoplichthys",
+      "SpeciesCount": 14,
+      "genus_path": "genera/hoplichthyidae/hoplichthys.json"
+    }
+  ]
+}

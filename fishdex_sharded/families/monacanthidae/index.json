@@ -1,0 +1,142 @@
+{
+  "Family": "Monacanthidae",
+  "Order": "Tetraodontiformes",
+  "Common": "Filefishes",
+  "Genera": [
+    {
+      "Genus": "Acanthaluteres",
+      "SpeciesCount": 3,
+      "genus_path": "genera/monacanthidae/acanthaluteres.json"
+    },
+    {
+      "Genus": "Acreichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/monacanthidae/acreichthys.json"
+    },
+    {
+      "Genus": "Aluterus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/monacanthidae/aluterus.json"
+    },
+    {
+      "Genus": "Amanses",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/amanses.json"
+    },
+    {
+      "Genus": "Anacanthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/anacanthus.json"
+    },
+    {
+      "Genus": "Arotrolepis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/arotrolepis.json"
+    },
+    {
+      "Genus": "Brachaluteres",
+      "SpeciesCount": 4,
+      "genus_path": "genera/monacanthidae/brachaluteres.json"
+    },
+    {
+      "Genus": "Cantherhines",
+      "SpeciesCount": 12,
+      "genus_path": "genera/monacanthidae/cantherhines.json"
+    },
+    {
+      "Genus": "Cantheschenia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/monacanthidae/cantheschenia.json"
+    },
+    {
+      "Genus": "Chaetodermis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/chaetodermis.json"
+    },
+    {
+      "Genus": "Colurodontis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/colurodontis.json"
+    },
+    {
+      "Genus": "Enigmacanthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/enigmacanthus.json"
+    },
+    {
+      "Genus": "Eubalichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/monacanthidae/eubalichthys.json"
+    },
+    {
+      "Genus": "Lalmohania",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/lalmohania.json"
+    },
+    {
+      "Genus": "Meuschenia",
+      "SpeciesCount": 8,
+      "genus_path": "genera/monacanthidae/meuschenia.json"
+    },
+    {
+      "Genus": "Monacanthus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/monacanthidae/monacanthus.json"
+    },
+    {
+      "Genus": "Nelusetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/nelusetta.json"
+    },
+    {
+      "Genus": "Oxymonacanthus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/monacanthidae/oxymonacanthus.json"
+    },
+    {
+      "Genus": "Paraluteres",
+      "SpeciesCount": 2,
+      "genus_path": "genera/monacanthidae/paraluteres.json"
+    },
+    {
+      "Genus": "Paramonacanthus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/monacanthidae/paramonacanthus.json"
+    },
+    {
+      "Genus": "Pervagor",
+      "SpeciesCount": 8,
+      "genus_path": "genera/monacanthidae/pervagor.json"
+    },
+    {
+      "Genus": "Pseudalutarius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/pseudalutarius.json"
+    },
+    {
+      "Genus": "Pseudomonacanthus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/monacanthidae/pseudomonacanthus.json"
+    },
+    {
+      "Genus": "Rudarius",
+      "SpeciesCount": 3,
+      "genus_path": "genera/monacanthidae/rudarius.json"
+    },
+    {
+      "Genus": "Scobinichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/monacanthidae/scobinichthys.json"
+    },
+    {
+      "Genus": "Stephanolepis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/monacanthidae/stephanolepis.json"
+    },
+    {
+      "Genus": "Thamnaconus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/monacanthidae/thamnaconus.json"
+    }
+  ]
+}

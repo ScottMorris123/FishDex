@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Teleogramma brichardi",
+    "SpecCode": "8876",
+    "CommonName": "Madeahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleogramma depressa",
+    "SpecCode": "8877",
+    "CommonName": "扁全線麗魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleogramma gracile",
+    "SpecCode": "8878",
+    "CommonName": "Hentomadeahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleogramma monogramma",
+    "SpecCode": "8879",
+    "CommonName": "Merkkimadeahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleogramma obamaorum",
+    "SpecCode": "67778",
+    "CommonName": "Obama cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

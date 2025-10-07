@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Polycentrus jundia",
+    "SpecCode": "67718",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polycentrus schomburgkii",
+    "SpecCode": "11133",
+    "CommonName": "Falso pez hoja",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

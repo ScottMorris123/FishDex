@@ -1,0 +1,12 @@
+{
+  "Family": "Schindleriidae",
+  "Order": "Gobiiformes",
+  "Common": "Infantfishes",
+  "Genera": [
+    {
+      "Genus": "Schindleria",
+      "SpeciesCount": 10,
+      "genus_path": "genera/schindleriidae/schindleria.json"
+    }
+  ]
+}

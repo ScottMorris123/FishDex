@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Ginglymostoma cirratum",
+    "SpecCode": "2532",
+    "CommonName": "Amhaj",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ginglymostoma unami",
+    "SpecCode": "68129",
+    "CommonName": "Tiburón gata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

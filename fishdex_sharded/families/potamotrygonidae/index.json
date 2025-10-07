@@ -1,0 +1,32 @@
+{
+  "Family": "Potamotrygonidae",
+  "Order": "Myliobatiformes",
+  "Common": "River stingrays",
+  "Genera": [
+    {
+      "Genus": "Heliotrygon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/potamotrygonidae/heliotrygon.json"
+    },
+    {
+      "Genus": "Paratrygon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/potamotrygonidae/paratrygon.json"
+    },
+    {
+      "Genus": "Plesiotrygon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/potamotrygonidae/plesiotrygon.json"
+    },
+    {
+      "Genus": "Potamotrygon",
+      "SpeciesCount": 31,
+      "genus_path": "genera/potamotrygonidae/potamotrygon.json"
+    },
+    {
+      "Genus": "Styracura",
+      "SpeciesCount": 2,
+      "genus_path": "genera/potamotrygonidae/styracura.json"
+    }
+  ]
+}

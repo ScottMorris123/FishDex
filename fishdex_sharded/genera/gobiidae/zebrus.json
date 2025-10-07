@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Zebrus pallaoroi",
+    "SpecCode": "69456",
+    "CommonName": "Pallaoro's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zebrus zebrus",
+    "SpecCode": "16348",
+    "CommonName": "Çizgilikaya balığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "ScientificName": "Schizothorax argentatus",
+    "SpecCode": "12226",
+    "CommonName": "Balhaši marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax beipanensis",
+    "SpecCode": "64882",
+    "CommonName": "Beipani marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax biddulphi",
+    "SpecCode": "55357",
+    "CommonName": "Marinka Biddulphova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax chongi",
+    "SpecCode": "55964",
+    "CommonName": "Marinka sečuánská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax cryptolepis",
+    "SpecCode": "60147",
+    "CommonName": "Marinka skrytošupinná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax curvifrons",
+    "SpecCode": "24427",
+    "CommonName": "Common marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax curvilabiatus",
+    "SpecCode": "55980",
+    "CommonName": "Kurvmokk-marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax dainellii",
+    "SpecCode": "61940",
+    "CommonName": "Dainelli kurdkõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax davidi",
+    "SpecCode": "55954",
+    "CommonName": "Davidi marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax dolichonema",
+    "SpecCode": "54515",
+    "CommonName": "Marinka dyčunská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax dulongensis",
+    "SpecCode": "55974",
+    "CommonName": "Dulongi marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax edeniana",
+    "SpecCode": "55949",
+    "CommonName": "Edeni marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax elongatus",
+    "SpecCode": "55976",
+    "CommonName": "Marinka protažená",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax esocinus",
+    "SpecCode": "24430",
+    "CommonName": "Chhurru",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax eurystomus",
+    "SpecCode": "60148",
+    "CommonName": "Laisuu-marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax gongshanensis",
+    "SpecCode": "56103",
+    "CommonName": "Gongshani marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax grahami",
+    "SpecCode": "54516",
+    "CommonName": "Grahami marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax griseus",
+    "SpecCode": "55956",
+    "CommonName": "Hall marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax heteri",
+    "SpecCode": "67223",
+    "CommonName": "Irrawaddy marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax heterochilus",
+    "SpecCode": "60133",
+    "CommonName": "Erihuul-marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax heterophysallidos",
+    "SpecCode": "64881",
+    "CommonName": "Nanpani marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax huegelii",
+    "SpecCode": "61490",
+    "CommonName": "Hügeli marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax integrilabiatus",
+    "SpecCode": "56087",
+    "CommonName": "Marinka tibetská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax kozlovi",
+    "SpecCode": "14462",
+    "CommonName": "Kozlovi marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax kumaonensis",
+    "SpecCode": "24456",
+    "CommonName": "Kumaon snowtrout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax labiatus",
+    "SpecCode": "24432",
+    "CommonName": "Chush",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax labrosus",
+    "SpecCode": "55988",
+    "CommonName": "Lugu marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax lantsangensis",
+    "SpecCode": "54514",
+    "CommonName": "Lantsangi marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax lepidothorax",
+    "SpecCode": "26100",
+    "CommonName": "Fuxiani marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax leukus",
+    "SpecCode": "67222",
+    "CommonName": "Näsahuul-marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax lissolabiatus",
+    "SpecCode": "14460",
+    "CommonName": "Marinka říční",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax longibarbus",
+    "SpecCode": "55995",
+    "CommonName": "Marinka dlouhovousá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax macrophthalmus",
+    "SpecCode": "24451",
+    "CommonName": "Marinka velkooká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax macropogon",
+    "SpecCode": "54491",
+    "CommonName": "Lhasa marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax malacanthus",
+    "SpecCode": "55977",
+    "CommonName": "Dayingi marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax meridionalis",
+    "SpecCode": "14459",
+    "CommonName": "Longchuani marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax microcephalus",
+    "SpecCode": "55952",
+    "CommonName": "Marinka malohlavá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax microstomus",
+    "SpecCode": "55982",
+    "CommonName": "Väikesuu-marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax molesworthi",
+    "SpecCode": "54490",
+    "CommonName": "Asla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax myzostomus",
+    "SpecCode": "55990",
+    "CommonName": "Imisuu-marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax nasus",
+    "SpecCode": "13241",
+    "CommonName": "Dongu snowtrout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax nepalensis",
+    "SpecCode": "56756",
+    "CommonName": "Asla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax ninglangensis",
+    "SpecCode": "55984",
+    "CommonName": "Marinka ninglangská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax nudiventris",
+    "SpecCode": "64876",
+    "CommonName": "Paljaskõht-marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax nukiangensis",
+    "SpecCode": "54513",
+    "CommonName": "Marinka nukiangská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax oconnori",
+    "SpecCode": "54493",
+    "CommonName": "Marinka O' Connorova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax oligolepis",
+    "SpecCode": "55979",
+    "CommonName": "Marinka tombiguanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax parvus",
+    "SpecCode": "55991",
+    "CommonName": "Marinka malá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax pelzami",
+    "SpecCode": "48167",
+    "CommonName": "Khaju",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax plagiostomus",
+    "SpecCode": "54512",
+    "CommonName": "Asaila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax prenanti",
+    "SpecCode": "55358",
+    "CommonName": "Marinka Prenantova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax progastus",
+    "SpecCode": "13244",
+    "CommonName": "Chuchhe Asala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax pseudoaksaiensis",
+    "SpecCode": "48168",
+    "CommonName": "Ili marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax raraensis",
+    "SpecCode": "24455",
+    "CommonName": "Rara marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax richardsonii",
+    "SpecCode": "8705",
+    "CommonName": "Alawan snowtrout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax rotundimaxillaris",
+    "SpecCode": "55993",
+    "CommonName": "Marinka tančongská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax sinensis",
+    "SpecCode": "55953",
+    "CommonName": "Hiina marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax skarduensis",
+    "SpecCode": "62443",
+    "CommonName": "Skardu marinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax waltoni",
+    "SpecCode": "54492",
+    "CommonName": "Marinka Waltonova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax wangchiachii",
+    "SpecCode": "14458",
+    "CommonName": "Kärestikumarinka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax yunnanensis",
+    "SpecCode": "55994",
+    "CommonName": "Marinka junanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizothorax zarudnyi",
+    "SpecCode": "55301",
+    "CommonName": "Anjac",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Tlaloc candalarius",
+    "SpecCode": "49583",
+    "CommonName": "Escamudo de Comitán",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tlaloc hildebrandi",
+    "SpecCode": "11904",
+    "CommonName": "Chiapas killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tlaloc labialis",
+    "SpecCode": "49585",
+    "CommonName": "Escamudo bocón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tlaloc portillorum",
+    "SpecCode": "65461",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

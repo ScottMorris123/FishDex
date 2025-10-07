@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Cheirocerus abuelo",
+    "SpecCode": "48431",
+    "CommonName": "Abuelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheirocerus eques",
+    "SpecCode": "48432",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheirocerus goeldii",
+    "SpecCode": "48433",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

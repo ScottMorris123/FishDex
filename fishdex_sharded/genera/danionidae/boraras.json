@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Boraras brigittae",
+    "SpecCode": "22509",
+    "CommonName": "Brigitte kääbusrasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boraras maculatus",
+    "SpecCode": "10879",
+    "CommonName": "Dwarf",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boraras merah",
+    "SpecCode": "22603",
+    "CommonName": "Kalimantani kääbusrasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boraras micros",
+    "SpecCode": "52295",
+    "CommonName": "Laiksaba-kääbusrasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boraras naevus",
+    "SpecCode": "66258",
+    "CommonName": "Plekiline kääbusrasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boraras urophthalmoides",
+    "SpecCode": "12211",
+    "CommonName": "Exclamation-point rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

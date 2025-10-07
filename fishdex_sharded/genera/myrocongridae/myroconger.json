@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Myroconger compressus",
+    "SpecCode": "4524",
+    "CommonName": "Murénovec zploštělý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myroconger gracilis",
+    "SpecCode": "58235",
+    "CommonName": "Murénovec štíhlý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myroconger nigrodentatus",
+    "SpecCode": "57849",
+    "CommonName": "Murénovec černozubý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myroconger prolixus",
+    "SpecCode": "57837",
+    "CommonName": "Murénovec zprohýbaný",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myroconger seychellensis",
+    "SpecCode": "63052",
+    "CommonName": "Seišelli mureenangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

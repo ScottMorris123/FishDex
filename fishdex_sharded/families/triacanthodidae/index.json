@@ -1,0 +1,62 @@
+{
+  "Family": "Triacanthodidae",
+  "Order": "Tetraodontiformes",
+  "Common": "Spikefishes",
+  "Genera": [
+    {
+      "Genus": "Atrophacanthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triacanthodidae/atrophacanthus.json"
+    },
+    {
+      "Genus": "Bathyphylax",
+      "SpeciesCount": 3,
+      "genus_path": "genera/triacanthodidae/bathyphylax.json"
+    },
+    {
+      "Genus": "Halimochirurgus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/triacanthodidae/halimochirurgus.json"
+    },
+    {
+      "Genus": "Hollardia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/triacanthodidae/hollardia.json"
+    },
+    {
+      "Genus": "Johnsonina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triacanthodidae/johnsonina.json"
+    },
+    {
+      "Genus": "Macrorhamphosodes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/triacanthodidae/macrorhamphosodes.json"
+    },
+    {
+      "Genus": "Mephisto",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triacanthodidae/mephisto.json"
+    },
+    {
+      "Genus": "Parahollardia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/triacanthodidae/parahollardia.json"
+    },
+    {
+      "Genus": "Paratriacanthodes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/triacanthodidae/paratriacanthodes.json"
+    },
+    {
+      "Genus": "Triacanthodes",
+      "SpeciesCount": 4,
+      "genus_path": "genera/triacanthodidae/triacanthodes.json"
+    },
+    {
+      "Genus": "Tydemania",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triacanthodidae/tydemania.json"
+    }
+  ]
+}

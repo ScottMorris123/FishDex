@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Labropsis alleni",
+    "SpecCode": "4863",
+    "CommonName": "Allen's tubelip",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labropsis australis",
+    "SpecCode": "4868",
+    "CommonName": "Southern tubelip",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labropsis manabei",
+    "SpecCode": "4866",
+    "CommonName": "Manabebera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labropsis micronesica",
+    "SpecCode": "4867",
+    "CommonName": "Micronesian wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labropsis polynesica",
+    "SpecCode": "4864",
+    "CommonName": "波利尼西亚褶唇鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labropsis xanthonota",
+    "SpecCode": "4865",
+    "CommonName": "Blacklobe wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

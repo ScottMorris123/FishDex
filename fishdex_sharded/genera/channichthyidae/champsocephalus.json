@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Champsocephalus esox",
+    "SpecCode": "5133",
+    "CommonName": "Geddeisfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Champsocephalus gunnari",
+    "SpecCode": "474",
+    "CommonName": "Antarktična ledna krokodilka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

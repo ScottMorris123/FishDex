@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Acanthocobitis botia",
+    "SpecCode": "12256",
+    "CommonName": "Augenfleck-Ceylonschmerle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthocobitis mooreh",
+    "SpecCode": "24577",
+    "CommonName": "Dekkani ogatrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthocobitis pavonacea",
+    "SpecCode": "24585",
+    "CommonName": "Paabu-ogatrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthocobitis pictilis",
+    "SpecCode": "66575",
+    "CommonName": "Tikand-ogatrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthocobitis rubidipinnis",
+    "SpecCode": "24604",
+    "CommonName": "Mřenka rangúnská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthocobitis urophthalmus",
+    "SpecCode": "10378",
+    "CommonName": "Banded mountain loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

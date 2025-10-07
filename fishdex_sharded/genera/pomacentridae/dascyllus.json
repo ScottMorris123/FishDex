@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Dascyllus abudafur",
+    "SpecCode": "68973",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus albisella",
+    "SpecCode": "7816",
+    "CommonName": "Alo ilo i",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus aruanus",
+    "SpecCode": "5110",
+    "CommonName": "Apiapi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus auripinnis",
+    "SpecCode": "59464",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus carneus",
+    "SpecCode": "7798",
+    "CommonName": "Blauflossen-Mönchfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus flavicaudus",
+    "SpecCode": "11972",
+    "CommonName": "Black damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus marginatus",
+    "SpecCode": "11985",
+    "CommonName": "Arabischer Preußenfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus melanurus",
+    "SpecCode": "5111",
+    "CommonName": "Black tail humbug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus reticulatus",
+    "SpecCode": "5113",
+    "CommonName": "Baro-baro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus strasburgi",
+    "SpecCode": "9254",
+    "CommonName": "Strasburg's dascyllus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dascyllus trimaculatus",
+    "SpecCode": "5112",
+    "CommonName": "'Atoti",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Gvozdarus balushkini",
+    "SpecCode": "60949",
+    "CommonName": "巴氏格伏南极鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gvozdarus svetovidovi",
+    "SpecCode": "7043",
+    "CommonName": "Naked-head toothfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

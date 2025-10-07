@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Hemerocoetes artus",
+    "SpecCode": "49319",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemerocoetes macrophthalmus",
+    "SpecCode": "49320",
+    "CommonName": "韋氏雙犁魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemerocoetes monopterygius",
+    "SpecCode": "49321",
+    "CommonName": "Kohikohi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemerocoetes morelandi",
+    "SpecCode": "49322",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemerocoetes pauciradiatus",
+    "SpecCode": "49323",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

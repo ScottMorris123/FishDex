@@ -1,0 +1,105 @@
+[
+  {
+    "ScientificName": "Istigobius campbelli",
+    "SpecCode": "4336",
+    "CommonName": "Cá Bống cam bên",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius decoratus",
+    "SpecCode": "4328",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius diadema",
+    "SpecCode": "25201",
+    "CommonName": "Eye-line sand-goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius goldmanni",
+    "SpecCode": "4327",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius hoesei",
+    "SpecCode": "4335",
+    "CommonName": "Hoese's sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius hoshinonis",
+    "SpecCode": "1102",
+    "CommonName": "Hoshinohaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius murdyi",
+    "SpecCode": "69114",
+    "CommonName": "Murdy's sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius nigroocellatus",
+    "SpecCode": "4325",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius ornatus",
+    "SpecCode": "4322",
+    "CommonName": "Belodok batik",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius rigilius",
+    "SpecCode": "4324",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Istigobius spence",
+    "SpecCode": "4337",
+    "CommonName": "Pearl goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

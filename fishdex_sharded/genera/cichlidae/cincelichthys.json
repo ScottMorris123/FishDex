@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Cincelichthys bocourti",
+    "SpecCode": "26771",
+    "CommonName": "Ameerika sidrunahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cincelichthys pearsei",
+    "SpecCode": "26774",
+    "CommonName": "Kaakaokirjoahven",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Taractes asper",
+    "SpecCode": "3559",
+    "CommonName": "Flathead pomfret",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taractes rubescens",
+    "SpecCode": "10456",
+    "CommonName": "Bawal ekor pisau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

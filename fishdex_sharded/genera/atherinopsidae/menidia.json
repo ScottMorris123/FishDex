@@ -1,0 +1,79 @@
+[
+  {
+    "ScientificName": "Menidia audens",
+    "SpecCode": "67447",
+    "CommonName": "Mississippi silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menidia beryllina",
+    "SpecCode": "3241",
+    "CommonName": "Bibavični gavun",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menidia clarkhubbsi",
+    "SpecCode": "53527",
+    "CommonName": "Amazon-stribefisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menidia colei",
+    "SpecCode": "53522",
+    "CommonName": "Golden silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menidia conchorum",
+    "SpecCode": "3242",
+    "CommonName": "Key Silverside",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menidia extensa",
+    "SpecCode": "3243",
+    "CommonName": "Ährenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menidia menidia",
+    "SpecCode": "339",
+    "CommonName": "Atlantski gavun",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Menidia peninsulae",
+    "SpecCode": "3244",
+    "CommonName": "Plateadito playero",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

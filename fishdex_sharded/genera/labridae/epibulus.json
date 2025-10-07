@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Epibulus brevis",
+    "SpecCode": "63878",
+    "CommonName": "Latent slingjaw wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epibulus insidiator",
+    "SpecCode": "5606",
+    "CommonName": "A-soap",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

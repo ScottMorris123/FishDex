@@ -1,0 +1,122 @@
+{
+  "Family": "Heptapteridae",
+  "Order": "Siluriformes",
+  "Common": "Three-barbeled catfishes",
+  "Genera": [
+    {
+      "Genus": "Acentronichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/heptapteridae/acentronichthys.json"
+    },
+    {
+      "Genus": "Brachyglanis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/heptapteridae/brachyglanis.json"
+    },
+    {
+      "Genus": "Brachyrhamdia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/heptapteridae/brachyrhamdia.json"
+    },
+    {
+      "Genus": "Cetopsorhamdia",
+      "SpeciesCount": 9,
+      "genus_path": "genera/heptapteridae/cetopsorhamdia.json"
+    },
+    {
+      "Genus": "Chasmocranus",
+      "SpeciesCount": 12,
+      "genus_path": "genera/heptapteridae/chasmocranus.json"
+    },
+    {
+      "Genus": "Gladioglanis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/heptapteridae/gladioglanis.json"
+    },
+    {
+      "Genus": "Goeldiella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/heptapteridae/goeldiella.json"
+    },
+    {
+      "Genus": "Heptapterus",
+      "SpeciesCount": 12,
+      "genus_path": "genera/heptapteridae/heptapterus.json"
+    },
+    {
+      "Genus": "Horiomyzon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/heptapteridae/horiomyzon.json"
+    },
+    {
+      "Genus": "Imparfinis",
+      "SpeciesCount": 21,
+      "genus_path": "genera/heptapteridae/imparfinis.json"
+    },
+    {
+      "Genus": "Leptorhamdia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/heptapteridae/leptorhamdia.json"
+    },
+    {
+      "Genus": "Mastiglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/heptapteridae/mastiglanis.json"
+    },
+    {
+      "Genus": "Myoglanis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/heptapteridae/myoglanis.json"
+    },
+    {
+      "Genus": "Nannoglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/heptapteridae/nannoglanis.json"
+    },
+    {
+      "Genus": "Nemuroglanis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/heptapteridae/nemuroglanis.json"
+    },
+    {
+      "Genus": "Pariolius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/heptapteridae/pariolius.json"
+    },
+    {
+      "Genus": "Phenacorhamdia",
+      "SpeciesCount": 11,
+      "genus_path": "genera/heptapteridae/phenacorhamdia.json"
+    },
+    {
+      "Genus": "Pimelodella",
+      "SpeciesCount": 81,
+      "genus_path": "genera/heptapteridae/pimelodella.json"
+    },
+    {
+      "Genus": "Rhamdella",
+      "SpeciesCount": 9,
+      "genus_path": "genera/heptapteridae/rhamdella.json"
+    },
+    {
+      "Genus": "Rhamdia",
+      "SpeciesCount": 24,
+      "genus_path": "genera/heptapteridae/rhamdia.json"
+    },
+    {
+      "Genus": "Rhamdioglanis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/heptapteridae/rhamdioglanis.json"
+    },
+    {
+      "Genus": "Rhamdiopsis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/heptapteridae/rhamdiopsis.json"
+    },
+    {
+      "Genus": "Taunayia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/heptapteridae/taunayia.json"
+    }
+  ]
+}

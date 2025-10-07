@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Paraluteres arqat",
+    "SpecCode": "54621",
+    "CommonName": "阿卡副革魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraluteres prionurus",
+    "SpecCode": "6560",
+    "CommonName": "Blacksaddle filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

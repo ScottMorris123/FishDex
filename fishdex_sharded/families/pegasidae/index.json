@@ -1,0 +1,17 @@
+{
+  "Family": "Pegasidae",
+  "Order": "Dactylopteriformes",
+  "Common": "Seamoths",
+  "Genera": [
+    {
+      "Genus": "Eurypegasus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pegasidae/eurypegasus.json"
+    },
+    {
+      "Genus": "Pegasus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pegasidae/pegasus.json"
+    }
+  ]
+}

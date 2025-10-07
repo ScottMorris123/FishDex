@@ -1,0 +1,121 @@
+[
+  {
+    "ScientificName": "Salarias alboguttatus",
+    "SpecCode": "25795",
+    "CommonName": "Mano'o",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias ceramensis",
+    "SpecCode": "7749",
+    "CommonName": "Anay-anay",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias fasciatus",
+    "SpecCode": "6058",
+    "CommonName": "Banded blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias guttatus",
+    "SpecCode": "11616",
+    "CommonName": "Blue-spot blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias luctuosus",
+    "SpecCode": "6060",
+    "CommonName": "Shimaginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias nigrocinctus",
+    "SpecCode": "61231",
+    "CommonName": "Blackstreaked blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias obscurus",
+    "SpecCode": "59843",
+    "CommonName": "Obscure blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias patzneri",
+    "SpecCode": "59273",
+    "CommonName": "Patzner's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias ramosus",
+    "SpecCode": "59272",
+    "CommonName": "Pünktchen-Kammzähner",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias segmentatus",
+    "SpecCode": "22515",
+    "CommonName": "Red-spotted blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias sexfilum",
+    "SpecCode": "61222",
+    "CommonName": "Spalding's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias sibogai",
+    "SpecCode": "61221",
+    "CommonName": "Siboga blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salarias sinuosus",
+    "SpecCode": "13763",
+    "CommonName": "Crinkle-lipped blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

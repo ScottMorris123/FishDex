@@ -1,0 +1,343 @@
+[
+  {
+    "ScientificName": "Glossogobius ankaranensis",
+    "SpecCode": "49996",
+    "CommonName": "Luolatokko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius aureus",
+    "SpecCode": "8250",
+    "CommonName": "Belodok mas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius bellendenensis",
+    "SpecCode": "64851",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius bicirrhosus",
+    "SpecCode": "11804",
+    "CommonName": "Agohigehaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius brunnoides",
+    "SpecCode": "26502",
+    "CommonName": "Dusky mountain goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius bulmeri",
+    "SpecCode": "26496",
+    "CommonName": "Bulmer's goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius callidus",
+    "SpecCode": "9947",
+    "CommonName": "Gobie comorien",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius celebius",
+    "SpecCode": "22501",
+    "CommonName": "Bal-la",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius circumspectus",
+    "SpecCode": "25074",
+    "CommonName": "Bagtis",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius clitellus",
+    "SpecCode": "66600",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius coatesi",
+    "SpecCode": "26503",
+    "CommonName": "Coates' goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius concavifrons",
+    "SpecCode": "22774",
+    "CommonName": "Concave flathead goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius flavipinnis",
+    "SpecCode": "6349",
+    "CommonName": "黃鰭舌鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius giuris",
+    "SpecCode": "4833",
+    "CommonName": "Abbrony",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius gnomus",
+    "SpecCode": "68635",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius hoesei",
+    "SpecCode": "10780",
+    "CommonName": "Hoese's goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius illimis",
+    "SpecCode": "66599",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius intermedius",
+    "SpecCode": "10781",
+    "CommonName": "中間舌鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius kokius",
+    "SpecCode": "9948",
+    "CommonName": "Cabot",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius koragensis",
+    "SpecCode": "26506",
+    "CommonName": "Koragu tank goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius macrocephalus",
+    "SpecCode": "68847",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius mahalonensis",
+    "SpecCode": "67965",
+    "CommonName": "Mahalona bluefin goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius matanensis",
+    "SpecCode": "6340",
+    "CommonName": "馬坦舌鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius minutus",
+    "SpecCode": "65417",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius multipapillus",
+    "SpecCode": "68854",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius munroi",
+    "SpecCode": "66601",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius muscorum",
+    "SpecCode": "64852",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius nanus",
+    "SpecCode": "68636",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius obscuripinnis",
+    "SpecCode": "55640",
+    "CommonName": "无斑叉舌鲨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius olivaceus",
+    "SpecCode": "23693",
+    "CommonName": "Cá Bống chấm gáy",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius pumilus",
+    "SpecCode": "68637",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius robertsi",
+    "SpecCode": "64853",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius sentaniensis",
+    "SpecCode": "68864",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius sparsipapillus",
+    "SpecCode": "26841",
+    "CommonName": "Linecheek tank goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius tenuiformis",
+    "SpecCode": "70268",
+    "CommonName": "Natal flathead goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossogobius torrentis",
+    "SpecCode": "26508",
+    "CommonName": "White water goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

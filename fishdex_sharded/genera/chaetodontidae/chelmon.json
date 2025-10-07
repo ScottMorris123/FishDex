@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Chelmon marginalis",
+    "SpecCode": "6650",
+    "CommonName": "Bagang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelmon muelleri",
+    "SpecCode": "6651",
+    "CommonName": "Bagang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelmon rostratus",
+    "SpecCode": "5483",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

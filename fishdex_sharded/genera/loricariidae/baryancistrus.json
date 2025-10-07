@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Baryancistrus beggini",
+    "SpecCode": "64885",
+    "CommonName": "Blue panaque",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Baryancistrus chrysolomus",
+    "SpecCode": "66162",
+    "CommonName": "Aba laranja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Baryancistrus demantoides",
+    "SpecCode": "62498",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Baryancistrus longipinnis",
+    "SpecCode": "50004",
+    "CommonName": "長鰭副鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Baryancistrus niveatus",
+    "SpecCode": "50006",
+    "CommonName": "Helmitulipleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Baryancistrus xanthellus",
+    "SpecCode": "66161",
+    "CommonName": "Amarelinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

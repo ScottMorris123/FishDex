@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Acentronichthys fissipinnis",
+    "SpecCode": "47788",
+    "CommonName": "裂鰭鼬鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentronichthys leptos",
+    "SpecCode": "47798",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

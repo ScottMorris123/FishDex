@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Yuriria alta",
+    "SpecCode": "50229",
+    "CommonName": "Carpa blanca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yuriria amatlana",
+    "SpecCode": "65171",
+    "CommonName": "Amatlan chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yuriria chapalae",
+    "SpecCode": "62434",
+    "CommonName": "Carpa de Chapala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

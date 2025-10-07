@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Protopterus aethiopicus",
+    "SpecCode": "8734",
+    "CommonName": "Äthiopischer Lungenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protopterus amphibius",
+    "SpecCode": "8735",
+    "CommonName": "Bahník malý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protopterus annectens",
+    "SpecCode": "2384",
+    "CommonName": "Abiyeseni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protopterus dolloi",
+    "SpecCode": "8736",
+    "CommonName": "Anguille",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

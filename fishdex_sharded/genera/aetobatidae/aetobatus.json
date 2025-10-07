@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Aetobatus flagellum",
+    "SpecCode": "8973",
+    "CommonName": "Cá Ó không chấm",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetobatus laticeps",
+    "SpecCode": "69023",
+    "CommonName": "Chucho pintado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetobatus narinari",
+    "SpecCode": "1250",
+    "CommonName": "Adlerrochen",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetobatus narutobiei",
+    "SpecCode": "67276",
+    "CommonName": "Cá Ó không châm",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetobatus ocellatus",
+    "SpecCode": "12600",
+    "CommonName": "Bagtau",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

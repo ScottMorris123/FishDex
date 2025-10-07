@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Centriscus cristatus",
+    "SpecCode": "11870",
+    "CommonName": "Glat bajonetfisk",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centriscus scutatus",
+    "SpecCode": "6510",
+    "CommonName": "Cá Múa đít nhỏ",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

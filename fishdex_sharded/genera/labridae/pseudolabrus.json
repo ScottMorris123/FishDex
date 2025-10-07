@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Pseudolabrus biserialis",
+    "SpecCode": "46934",
+    "CommonName": "Redband wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus eoethinus",
+    "SpecCode": "59646",
+    "CommonName": "Aka-sasanoha-bera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus fuentesi",
+    "SpecCode": "46949",
+    "CommonName": "Fuentesi's wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus gayi",
+    "SpecCode": "46923",
+    "CommonName": "Vieja de Juan Fernández",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus guentheri",
+    "SpecCode": "13155",
+    "CommonName": "Chocolate parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus japonicus",
+    "SpecCode": "12795",
+    "CommonName": "Sasanohabera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus luculentus",
+    "SpecCode": "12796",
+    "CommonName": "Luculent wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus miles",
+    "SpecCode": "46965",
+    "CommonName": "Puuwaiwhakarua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus rubicundus",
+    "SpecCode": "14424",
+    "CommonName": "Rosy parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus semifasciatus",
+    "SpecCode": "46956",
+    "CommonName": "Halfbarred wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus sieboldi",
+    "SpecCode": "57440",
+    "CommonName": "황놀래기",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolabrus torotai",
+    "SpecCode": "46959",
+    "CommonName": "托氏拟隆头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

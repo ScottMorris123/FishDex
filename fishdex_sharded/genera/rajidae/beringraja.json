@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Beringraja binoculata",
+    "SpecCode": "2556",
+    "CommonName": "Big skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Beringraja pulchra",
+    "SpecCode": "22550",
+    "CommonName": "Geaderde rog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

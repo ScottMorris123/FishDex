@@ -1,0 +1,84 @@
+[
+  {
+    "ScientificName": "Paralabrax albomaculatus",
+    "SpecCode": "12860",
+    "CommonName": "Camotillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralabrax auroguttatus",
+    "SpecCode": "14238",
+    "CommonName": "Cabrilla extranjera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralabrax callaensis",
+    "SpecCode": "50020",
+    "CommonName": "Cabrilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralabrax clathratus",
+    "SpecCode": "3335",
+    "CommonName": "Cabrilla alguera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralabrax dewegeri",
+    "SpecCode": "1218",
+    "CommonName": "Amerikahata",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralabrax humeralis",
+    "SpecCode": "352",
+    "CommonName": "Bagalo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralabrax loro",
+    "SpecCode": "14239",
+    "CommonName": "Cabrilla cachete amarillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralabrax maculatofasciatus",
+    "SpecCode": "3336",
+    "CommonName": "Cabrilla de roca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralabrax nebulifer",
+    "SpecCode": "3337",
+    "CommonName": "Barred sand bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

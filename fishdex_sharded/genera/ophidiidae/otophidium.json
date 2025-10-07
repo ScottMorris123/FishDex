@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Otophidium chickcharney",
+    "SpecCode": "16526",
+    "CommonName": "Congriperla fantasma",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Otophidium dormitator",
+    "SpecCode": "3118",
+    "CommonName": "Sleeper cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Otophidium indefatigabile",
+    "SpecCode": "13939",
+    "CommonName": "Bighead cusk eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Otophidium omostigma",
+    "SpecCode": "3119",
+    "CommonName": "Congriperla lunareja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

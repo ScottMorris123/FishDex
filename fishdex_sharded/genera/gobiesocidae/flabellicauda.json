@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Flabellicauda akiko",
+    "SpecCode": "66878",
+    "CommonName": "Minute clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Flabellicauda alleni",
+    "SpecCode": "70309",
+    "CommonName": "Allen's clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Flabellicauda bolini",
+    "SpecCode": "27088",
+    "CommonName": "Bolin's clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Flabellicauda cometes",
+    "SpecCode": "70310",
+    "CommonName": "Comet clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

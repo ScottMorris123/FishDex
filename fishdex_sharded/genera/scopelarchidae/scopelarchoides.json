@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Scopelarchoides climax",
+    "SpecCode": "59134",
+    "CommonName": "頂擬珠目魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelarchoides danae",
+    "SpecCode": "16627",
+    "CommonName": "Dana pearleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelarchoides kreffti",
+    "SpecCode": "61209",
+    "CommonName": "Twin-striped pearleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelarchoides nicholsi",
+    "SpecCode": "47620",
+    "CommonName": "尼氏拟珠目鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelarchoides signifer",
+    "SpecCode": "16718",
+    "CommonName": "長胸擬珠目魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

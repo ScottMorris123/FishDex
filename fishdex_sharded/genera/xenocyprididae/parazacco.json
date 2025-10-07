@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Parazacco fasciatus",
+    "SpecCode": "60434",
+    "CommonName": "Parazako pruhovaný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parazacco spilurus",
+    "SpecCode": "54890",
+    "CommonName": "Laiksaba-lättelepits",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

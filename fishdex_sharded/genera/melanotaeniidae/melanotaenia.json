@@ -1,0 +1,805 @@
+[
+  {
+    "ScientificName": "Melanotaenia affinis",
+    "SpecCode": "25621",
+    "CommonName": "Kiilasateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia ajamaruensis",
+    "SpecCode": "10485",
+    "CommonName": "Ajamaru lakes rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia albimarginata",
+    "SpecCode": "68000",
+    "CommonName": "Whitetip rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia ammeri",
+    "SpecCode": "64763",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia angfa",
+    "SpecCode": "10486",
+    "CommonName": "Messinkisateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia arfakensis",
+    "SpecCode": "10487",
+    "CommonName": "Arfak rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia arguni",
+    "SpecCode": "67378",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia aruensis",
+    "SpecCode": "68003",
+    "CommonName": "Aru rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia australis",
+    "SpecCode": "22712",
+    "CommonName": "Australian rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia batanta",
+    "SpecCode": "51784",
+    "CommonName": "Batanta rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia boesemani",
+    "SpecCode": "10489",
+    "CommonName": "Boesemani vikerkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia bowmani",
+    "SpecCode": "70143",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia caerulea",
+    "SpecCode": "47841",
+    "CommonName": "Blå regnbuefisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia catherinae",
+    "SpecCode": "10490",
+    "CommonName": "Tummasateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia corona",
+    "SpecCode": "10491",
+    "CommonName": "Corona rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia duboulayi",
+    "SpecCode": "22677",
+    "CommonName": "Crimsonspotted rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia dumasi",
+    "SpecCode": "70458",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia eachamensis",
+    "SpecCode": "6290",
+    "CommonName": "Lake Eacham rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia ericrobertsi",
+    "SpecCode": "68894",
+    "CommonName": "Susvva rainbovvfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia etnaensis",
+    "SpecCode": "70198",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia exquisita",
+    "SpecCode": "10492",
+    "CommonName": "Exquisite rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia fasinensis",
+    "SpecCode": "65765",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia flavipinnis",
+    "SpecCode": "68884",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia fluviatilis",
+    "SpecCode": "22685",
+    "CommonName": "Australian rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia fredericki",
+    "SpecCode": "25624",
+    "CommonName": "Pastellisateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia garylangei",
+    "SpecCode": "68079",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia goldiei",
+    "SpecCode": "25625",
+    "CommonName": "Goldie Regenbogenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia gracilis",
+    "SpecCode": "10493",
+    "CommonName": "Schlanker Regenbogenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia grunwaldi",
+    "SpecCode": "69996",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia herbertaxelrodi",
+    "SpecCode": "10495",
+    "CommonName": "Gylden regnbuefisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia irianjaya",
+    "SpecCode": "25628",
+    "CommonName": "Irian Jaya rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia iris",
+    "SpecCode": "10496",
+    "CommonName": "Lyhtysateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia jakora",
+    "SpecCode": "70429",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia japenensis",
+    "SpecCode": "25630",
+    "CommonName": "Oranssisateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia kamaka",
+    "SpecCode": "26951",
+    "CommonName": "Kamaka rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia klasioensis",
+    "SpecCode": "69902",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia kokasensis",
+    "SpecCode": "64839",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia kolaensis",
+    "SpecCode": "68004",
+    "CommonName": "Kola rainbowfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia lacunosa",
+    "SpecCode": "70145",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia lacustris",
+    "SpecCode": "10497",
+    "CommonName": "Aquamarin-Regenbogenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia lakamora",
+    "SpecCode": "26952",
+    "CommonName": "Kultaviirusateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia laticlavia",
+    "SpecCode": "68895",
+    "CommonName": "Aifuf rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia longispina",
+    "SpecCode": "69903",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia maccullochi",
+    "SpecCode": "11306",
+    "CommonName": "Dwarf rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia mairasi",
+    "SpecCode": "66233",
+    "CommonName": "Lake Furnusu rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia mamahensis",
+    "SpecCode": "69995",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia manibuii",
+    "SpecCode": "69905",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia maylandi",
+    "SpecCode": "10498",
+    "CommonName": "Mayland's rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia misoolensis",
+    "SpecCode": "10499",
+    "CommonName": "Kiillesateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia monticola",
+    "SpecCode": "10500",
+    "CommonName": "Gebirgsregenbogenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia mubiensis",
+    "SpecCode": "47842",
+    "CommonName": "Mubi rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia multiradiata",
+    "SpecCode": "68900",
+    "CommonName": "Moswaren rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia naramasae",
+    "SpecCode": "69906",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia nigrans",
+    "SpecCode": "11307",
+    "CommonName": "Australian rainbow",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia ogilbyi",
+    "SpecCode": "10509",
+    "CommonName": "Ogilby's rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia oktediensis",
+    "SpecCode": "10510",
+    "CommonName": "Oktedi rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia papuae",
+    "SpecCode": "10511",
+    "CommonName": "Linjasateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia parkinsoni",
+    "SpecCode": "25638",
+    "CommonName": "Keltasateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia parva",
+    "SpecCode": "10514",
+    "CommonName": "Lake Kuromai rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia patoti",
+    "SpecCode": "68008",
+    "CommonName": "Patoti's rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia picta",
+    "SpecCode": "68005",
+    "CommonName": "Painted rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia pierucciae",
+    "SpecCode": "26953",
+    "CommonName": "Pierucci's rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia pimaensis",
+    "SpecCode": "10515",
+    "CommonName": "Pima River rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia praecox",
+    "SpecCode": "10516",
+    "CommonName": "Diamant-Regenbogenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia pygmaea",
+    "SpecCode": "10517",
+    "CommonName": "Kääpiösateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia rubripinnis",
+    "SpecCode": "51785",
+    "CommonName": "Red-finned rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia rubrivittata",
+    "SpecCode": "68009",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia rubrostriata",
+    "SpecCode": "25644",
+    "CommonName": "Red-striped rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia rumberponensis",
+    "SpecCode": "69910",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia sahulensis",
+    "SpecCode": "70064",
+    "CommonName": "Sahul rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia salawati",
+    "SpecCode": "66362",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia sembrae",
+    "SpecCode": "69909",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia senckenbergiana",
+    "SpecCode": "68007",
+    "CommonName": "Senckenberg rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia sexlineata",
+    "SpecCode": "10518",
+    "CommonName": "Fly River rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia sikuensis",
+    "SpecCode": "69914",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia sneideri",
+    "SpecCode": "69560",
+    "CommonName": "Kumawa rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia solata",
+    "SpecCode": "62767",
+    "CommonName": "Northern Rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia splendida",
+    "SpecCode": "13102",
+    "CommonName": "Checkered rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia susii",
+    "SpecCode": "69904",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia sylvatica",
+    "SpecCode": "56218",
+    "CommonName": "巴布亚虹银汉鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia synergos",
+    "SpecCode": "63724",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia trifasciata",
+    "SpecCode": "22717",
+    "CommonName": "Banded rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia urisa",
+    "SpecCode": "67379",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia utcheensis",
+    "SpecCode": "61579",
+    "CommonName": "Utchee rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia vanheurni",
+    "SpecCode": "10520",
+    "CommonName": "Isosateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia veoliae",
+    "SpecCode": "67380",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia wanoma",
+    "SpecCode": "67384",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia wilsoni",
+    "SpecCode": "70001",
+    "CommonName": "Little rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanotaenia wokamensis",
+    "SpecCode": "68006",
+    "CommonName": "Wokam rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

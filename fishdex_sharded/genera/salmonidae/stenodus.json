@@ -1,0 +1,24 @@
+[
+  {
+    "ScientificName": "Stenodus leucichthys",
+    "SpecCode": "2692",
+    "CommonName": "Azad Mahi Volga",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenodus nelma",
+    "SpecCode": "66490",
+    "CommonName": "Nelma",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "ScientificName": "Toxotes blythii",
+    "SpecCode": "25220",
+    "CommonName": "Myanmar-skyttefisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxotes chatareus",
+    "SpecCode": "8079",
+    "CommonName": "Archer fish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxotes jaculatrix",
+    "SpecCode": "8229",
+    "CommonName": "Almindelig skyttefisk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxotes kimberleyensis",
+    "SpecCode": "62208",
+    "CommonName": "Kimberley archerfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxotes lorentzi",
+    "SpecCode": "12175",
+    "CommonName": "Lorent'z archerfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxotes microlepis",
+    "SpecCode": "24840",
+    "CommonName": "Archerfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Toxotes oligolepis",
+    "SpecCode": "10630",
+    "CommonName": "Großschuppiger Schützenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

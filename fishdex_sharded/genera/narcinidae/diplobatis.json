@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Diplobatis colombiensis",
+    "SpecCode": "53912",
+    "CommonName": "Colombia lahkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplobatis guamachensis",
+    "SpecCode": "53913",
+    "CommonName": "Pruunvööt-lahkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplobatis ommata",
+    "SpecCode": "8723",
+    "CommonName": "Bullseye electric ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplobatis picta",
+    "SpecCode": "27776",
+    "CommonName": "Gekleurde stroomrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

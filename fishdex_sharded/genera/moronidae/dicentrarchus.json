@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Dicentrarchus labrax",
+    "SpecCode": "63",
+    "CommonName": "Agač",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dicentrarchus punctatus",
+    "SpecCode": "394",
+    "CommonName": "Ablagh",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Styracura pacifica",
+    "SpecCode": "13182",
+    "CommonName": "Chupare del Pacífico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Styracura schmardae",
+    "SpecCode": "1249",
+    "CommonName": "Caribbean whiptail stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

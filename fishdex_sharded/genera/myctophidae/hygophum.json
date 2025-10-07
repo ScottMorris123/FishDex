@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Hygophum atratum",
+    "SpecCode": "54409",
+    "CommonName": "Thickhead lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hygophum benoiti",
+    "SpecCode": "1718",
+    "CommonName": "Benet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hygophum bruuni",
+    "SpecCode": "55104",
+    "CommonName": "布氏壮灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hygophum hanseni",
+    "SpecCode": "16759",
+    "CommonName": "Hansen's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hygophum hygomii",
+    "SpecCode": "1719",
+    "CommonName": "Benet negre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hygophum macrochir",
+    "SpecCode": "16665",
+    "CommonName": "Largefin lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hygophum proximum",
+    "SpecCode": "4522",
+    "CommonName": "Firefly lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hygophum reinhardtii",
+    "SpecCode": "4520",
+    "CommonName": "Broadhead lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hygophum taaningi",
+    "SpecCode": "16291",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

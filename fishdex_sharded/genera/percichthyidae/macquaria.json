@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Macquaria ambigua",
+    "SpecCode": "10312",
+    "CommonName": "Australischer Goldbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macquaria australasica",
+    "SpecCode": "10566",
+    "CommonName": "Australian bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

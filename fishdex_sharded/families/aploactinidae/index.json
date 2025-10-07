@@ -1,0 +1,92 @@
+{
+  "Family": "Aploactinidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Velvetfishes",
+  "Genera": [
+    {
+      "Genus": "Acanthosphex",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aploactinidae/acanthosphex.json"
+    },
+    {
+      "Genus": "Adventor",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aploactinidae/adventor.json"
+    },
+    {
+      "Genus": "Aploactis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aploactinidae/aploactis.json"
+    },
+    {
+      "Genus": "Aploactisoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aploactinidae/aploactisoma.json"
+    },
+    {
+      "Genus": "Bathyaploactis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/aploactinidae/bathyaploactis.json"
+    },
+    {
+      "Genus": "Cocotropus",
+      "SpeciesCount": 17,
+      "genus_path": "genera/aploactinidae/cocotropus.json"
+    },
+    {
+      "Genus": "Erisphex",
+      "SpeciesCount": 4,
+      "genus_path": "genera/aploactinidae/erisphex.json"
+    },
+    {
+      "Genus": "Kanekonia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/aploactinidae/kanekonia.json"
+    },
+    {
+      "Genus": "Matsubarichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aploactinidae/matsubarichthys.json"
+    },
+    {
+      "Genus": "Neoaploactis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aploactinidae/neoaploactis.json"
+    },
+    {
+      "Genus": "Paraploactis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/aploactinidae/paraploactis.json"
+    },
+    {
+      "Genus": "Peristrominous",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aploactinidae/peristrominous.json"
+    },
+    {
+      "Genus": "Prosoproctus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aploactinidae/prosoproctus.json"
+    },
+    {
+      "Genus": "Pseudopataecus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/aploactinidae/pseudopataecus.json"
+    },
+    {
+      "Genus": "Ptarmus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/aploactinidae/ptarmus.json"
+    },
+    {
+      "Genus": "Sthenopus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aploactinidae/sthenopus.json"
+    },
+    {
+      "Genus": "Xenaploactis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/aploactinidae/xenaploactis.json"
+    }
+  ]
+}

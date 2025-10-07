@@ -1,0 +1,104 @@
+[
+  {
+    "ScientificName": "Hemitrygon akajei",
+    "SpecCode": "940",
+    "CommonName": "Aka ei",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon bennettii",
+    "SpecCode": "15387",
+    "CommonName": "Bennetti astelrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon fluviorum",
+    "SpecCode": "12583",
+    "CommonName": "Brown stingray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon izuensis",
+    "SpecCode": "54631",
+    "CommonName": "Izu astelrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon laevigata",
+    "SpecCode": "54629",
+    "CommonName": "Yantai astelrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon laosensis",
+    "SpecCode": "15389",
+    "CommonName": "Bobele",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon longicauda",
+    "SpecCode": "68227",
+    "CommonName": "Merauke stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon navarrae",
+    "SpecCode": "54626",
+    "CommonName": "Blackish stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon parvonigra",
+    "SpecCode": "64143",
+    "CommonName": "Dwarf black stingray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon sinensis",
+    "SpecCode": "54627",
+    "CommonName": "Chinese pijlstaartrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitrygon yemenensis",
+    "SpecCode": "69779",
+    "CommonName": "Hein's stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

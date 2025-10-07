@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Lateolabrax japonicus",
+    "SpecCode": "4589",
+    "CommonName": "Asian seabass",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lateolabrax latus",
+    "SpecCode": "23379",
+    "CommonName": "Asian seabass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

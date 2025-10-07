@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Puntigrus anchisporus",
+    "SpecCode": "17461",
+    "CommonName": "Berbaju",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntigrus navjotsodhii",
+    "SpecCode": "66952",
+    "CommonName": "Kalimantani tiigerpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntigrus partipentazona",
+    "SpecCode": "27130",
+    "CommonName": "Kanh chrea",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntigrus pulcher",
+    "SpecCode": "66784",
+    "CommonName": "Kaunis saagpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntigrus tetrazona",
+    "SpecCode": "4766",
+    "CommonName": "Chetyrekhpolosyi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

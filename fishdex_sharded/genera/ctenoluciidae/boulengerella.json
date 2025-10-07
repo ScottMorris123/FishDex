@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Boulengerella cuvieri",
+    "SpecCode": "27228",
+    "CommonName": "Bicuda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boulengerella lateristriga",
+    "SpecCode": "12404",
+    "CommonName": "Agujeta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boulengerella lucius",
+    "SpecCode": "12406",
+    "CommonName": "Cuviers Hechtsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boulengerella maculata",
+    "SpecCode": "12405",
+    "CommonName": "Agujeta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Boulengerella xyrekes",
+    "SpecCode": "27240",
+    "CommonName": "Pirapoco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

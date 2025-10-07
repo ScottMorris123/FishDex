@@ -1,0 +1,624 @@
+[
+  {
+    "ScientificName": "Pempheris adspersa",
+    "SpecCode": "47000",
+    "CommonName": "Bigeye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris adusta",
+    "SpecCode": "25447",
+    "CommonName": "Curved bullseye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris affinis",
+    "SpecCode": "52716",
+    "CommonName": "Blacktip bullseye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris analis",
+    "SpecCode": "12907",
+    "CommonName": "Big eye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris andilana",
+    "SpecCode": "68317",
+    "CommonName": "Andilana sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris argyrea",
+    "SpecCode": "68318",
+    "CommonName": "Seychelles silver sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris bexillon",
+    "SpecCode": "67360",
+    "CommonName": "Yellowfin sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris bineeshi",
+    "SpecCode": "68319",
+    "CommonName": "Tuticorn sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris bruggemanni",
+    "SpecCode": "68320",
+    "CommonName": "Mascarene sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris compressa",
+    "SpecCode": "47014",
+    "CommonName": "Bulleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris connelli",
+    "SpecCode": "68321",
+    "CommonName": "African sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris convexa",
+    "SpecCode": "68558",
+    "CommonName": "Convex sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris cuprea",
+    "SpecCode": "68559",
+    "CommonName": "Mozambique sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris darvelli",
+    "SpecCode": "68560",
+    "CommonName": "Jissah sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris eatoni",
+    "SpecCode": "68561",
+    "CommonName": "Durban sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris ellipse",
+    "SpecCode": "68322",
+    "CommonName": "Elliptical sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris familia",
+    "SpecCode": "69264",
+    "CommonName": "Bonin-hatampo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris gasparinii",
+    "SpecCode": "69011",
+    "CommonName": "Trindade sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris hadra",
+    "SpecCode": "68323",
+    "CommonName": "Maldives sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris heemstraorum",
+    "SpecCode": "68324",
+    "CommonName": "Greater sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris hollemani",
+    "SpecCode": "68325",
+    "CommonName": "Madagascar sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris ibo",
+    "SpecCode": "68326",
+    "CommonName": "Ibo sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris japonica",
+    "SpecCode": "13021",
+    "CommonName": "Tsumaguro-hatanpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris klunzingeri",
+    "SpecCode": "14388",
+    "CommonName": "Klunzinger's bullseye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris kruppi",
+    "SpecCode": "68327",
+    "CommonName": "Aden sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris kuriamuria",
+    "SpecCode": "68146",
+    "CommonName": "Oman sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris leiolepis",
+    "SpecCode": "68328",
+    "CommonName": "Smoothscale sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris malabarica",
+    "SpecCode": "67361",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris mangula",
+    "SpecCode": "25449",
+    "CommonName": "Black-edged sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris megalops",
+    "SpecCode": "68329",
+    "CommonName": "Bigeye sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris micromma",
+    "SpecCode": "68330",
+    "CommonName": "Smalleye sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris molucca",
+    "SpecCode": "8189",
+    "CommonName": "Black-edged sweeper",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris multiradiata",
+    "SpecCode": "14389",
+    "CommonName": "Almindelig fejer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris muscat",
+    "SpecCode": "68331",
+    "CommonName": "Muscat sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris nesogallica",
+    "SpecCode": "67343",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris nyctereutes",
+    "SpecCode": "23481",
+    "CommonName": "Mie-hatanpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris orbis",
+    "SpecCode": "68332",
+    "CommonName": "Sinai sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris ornata",
+    "SpecCode": "52496",
+    "CommonName": "Orangelined bullseye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris otaitensis",
+    "SpecCode": "60241",
+    "CommonName": "Bambi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris oualensis",
+    "SpecCode": "5802",
+    "CommonName": "Ambatta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris pathirana",
+    "SpecCode": "68333",
+    "CommonName": "Trincomalee sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris peza",
+    "SpecCode": "68334",
+    "CommonName": "Blackfin sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris poeyi",
+    "SpecCode": "12174",
+    "CommonName": "Babalochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris rapa",
+    "SpecCode": "50769",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris rhomboidea",
+    "SpecCode": "68147",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris rochai",
+    "SpecCode": "68335",
+    "CommonName": "Rocha's sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris rubricauda",
+    "SpecCode": "68336",
+    "CommonName": "Redtail sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris sarayu",
+    "SpecCode": "67344",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris schomburgkii",
+    "SpecCode": "3593",
+    "CommonName": "Atlandi suursilmkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris schreineri",
+    "SpecCode": "52717",
+    "CommonName": "Manteiga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris schwenkii",
+    "SpecCode": "12908",
+    "CommonName": "Kampitan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris sergey",
+    "SpecCode": "68337",
+    "CommonName": "Yellow sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris shimoni",
+    "SpecCode": "68338",
+    "CommonName": "Shimoni sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris shirleen",
+    "SpecCode": "68339",
+    "CommonName": "Hurghada sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris smithorum",
+    "SpecCode": "68340",
+    "CommonName": "Chumbe sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris tau",
+    "SpecCode": "68341",
+    "CommonName": "Tau sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris ternay",
+    "SpecCode": "68342",
+    "CommonName": "Seychelles sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris tilman",
+    "SpecCode": "68343",
+    "CommonName": "Aqaba sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris tiran",
+    "SpecCode": "68345",
+    "CommonName": "Tiran sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris tominagai",
+    "SpecCode": "67342",
+    "CommonName": "African silver sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris trinco",
+    "SpecCode": "68346",
+    "CommonName": "Sri Lanka sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris ufuagari",
+    "SpecCode": "66820",
+    "CommonName": "Crown sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris vanicolensis",
+    "SpecCode": "10350",
+    "CommonName": "Ateş balıği",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris viridis",
+    "SpecCode": "68347",
+    "CommonName": "Green sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris wilsoni",
+    "SpecCode": "68348",
+    "CommonName": "Fahal sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris xanthomma",
+    "SpecCode": "68349",
+    "CommonName": "Yemen sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris xanthoptera",
+    "SpecCode": "23477",
+    "CommonName": "Minami-hatanpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris ypsilychnus",
+    "SpecCode": "52497",
+    "CommonName": "Ypsilon bullseye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pempheris zajonzi",
+    "SpecCode": "68350",
+    "CommonName": "Socotra sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

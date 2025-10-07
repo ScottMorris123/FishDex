@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Odontoscion dentex",
+    "SpecCode": "1185",
+    "CommonName": "Bombache de roca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontoscion eurymesops",
+    "SpecCode": "13994",
+    "CommonName": "Bombache galapagano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontoscion xanthops",
+    "SpecCode": "13993",
+    "CommonName": "Bombache ojo amarillo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

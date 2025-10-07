@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Algansea amecae",
+    "SpecCode": "65078",
+    "CommonName": "Ameca algansea",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Algansea aphanea",
+    "SpecCode": "55226",
+    "CommonName": "Algansea tuxpanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Algansea avia",
+    "SpecCode": "55223",
+    "CommonName": "Läänealgansea",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Algansea barbata",
+    "SpecCode": "50221",
+    "CommonName": "Algansea vousatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Algansea lacustris",
+    "SpecCode": "50222",
+    "CommonName": "Acúmara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Algansea monticola",
+    "SpecCode": "55222",
+    "CommonName": "Algansea horská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Algansea popoche",
+    "SpecCode": "50225",
+    "CommonName": "Algansea ocotlánská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Algansea tincella",
+    "SpecCode": "50227",
+    "CommonName": "Algansea mexická",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

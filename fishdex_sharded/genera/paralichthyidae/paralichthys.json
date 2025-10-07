@@ -1,0 +1,171 @@
+[
+  {
+    "ScientificName": "Paralichthys adspersus",
+    "SpecCode": "10573",
+    "CommonName": "Fine flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys aestuarius",
+    "SpecCode": "13969",
+    "CommonName": "Cardeau alabate",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys albigutta",
+    "SpecCode": "980",
+    "CommonName": "Cardeau trois yeux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys brasiliensis",
+    "SpecCode": "14125",
+    "CommonName": "Brazilian flounder",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys californicus",
+    "SpecCode": "4228",
+    "CommonName": "California flounder",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys delfini",
+    "SpecCode": "55117",
+    "CommonName": "德氏牙鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys dentatus",
+    "SpecCode": "1338",
+    "CommonName": "Calcan de vara",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys fernandezianus",
+    "SpecCode": "55125",
+    "CommonName": "施氏牙鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys isosceles",
+    "SpecCode": "54747",
+    "CommonName": "Burajiru-hirame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys lethostigma",
+    "SpecCode": "981",
+    "CommonName": "Cardeau de Floride",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys microps",
+    "SpecCode": "54963",
+    "CommonName": "Chiri-hirame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys olivaceus",
+    "SpecCode": "1351",
+    "CommonName": "Aziatskiy paralikht",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys orbignyanus",
+    "SpecCode": "26369",
+    "CommonName": "Linguado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys patagonicus",
+    "SpecCode": "14127",
+    "CommonName": "Cardeau patagonien",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys squamilentus",
+    "SpecCode": "4230",
+    "CommonName": "Broad flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys triocellatus",
+    "SpecCode": "57926",
+    "CommonName": "Linguado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys tropicus",
+    "SpecCode": "982",
+    "CommonName": "Cardeau tropical",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralichthys woolmani",
+    "SpecCode": "13971",
+    "CommonName": "Cardeau huarache",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

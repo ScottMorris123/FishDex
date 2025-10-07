@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Biotoecus dicentrarchus",
+    "SpecCode": "57422",
+    "CommonName": "Kuultoakara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Biotoecus opercularis",
+    "SpecCode": "46719",
+    "CommonName": "Perhosakara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

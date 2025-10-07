@@ -1,0 +1,147 @@
+[
+  {
+    "ScientificName": "Merluccius albidus",
+    "SpecCode": "1080",
+    "CommonName": "Högsjökummel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius angustimanus",
+    "SpecCode": "1827",
+    "CommonName": "Dwarf hake",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius australis",
+    "SpecCode": "322",
+    "CommonName": "Blue whiting",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius bilinearis",
+    "SpecCode": "323",
+    "CommonName": "Amerikanischer Seehecht",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius capensis",
+    "SpecCode": "1828",
+    "CommonName": "Cape hake",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius gayi",
+    "SpecCode": "324",
+    "CommonName": "Bakaliáros",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius hernandezi",
+    "SpecCode": "60857",
+    "CommonName": "Californisk kulmule",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius hubbsi",
+    "SpecCode": "325",
+    "CommonName": "Argentiina merluus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius merluccius",
+    "SpecCode": "30",
+    "CommonName": "Abadioa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius paradoxus",
+    "SpecCode": "1826",
+    "CommonName": "Deep water hake",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius patagonicus",
+    "SpecCode": "61588",
+    "CommonName": "Merlu de Patagonie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius peruanus",
+    "SpecCode": "14693",
+    "CommonName": "Chilensk kummel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius polli",
+    "SpecCode": "327",
+    "CommonName": "Benguela hake",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius productus",
+    "SpecCode": "326",
+    "CommonName": "Bakaliaro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius senegalensis",
+    "SpecCode": "321",
+    "CommonName": "Black hake",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Merluccius tasmanicus",
+    "SpecCode": "63108",
+    "CommonName": "Tasmani merluus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

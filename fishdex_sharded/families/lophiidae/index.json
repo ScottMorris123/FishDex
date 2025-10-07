@@ -1,0 +1,27 @@
+{
+  "Family": "Lophiidae",
+  "Order": "Lophiiformes",
+  "Common": "Goosefishes",
+  "Genera": [
+    {
+      "Genus": "Lophiodes",
+      "SpeciesCount": 18,
+      "genus_path": "genera/lophiidae/lophiodes.json"
+    },
+    {
+      "Genus": "Lophiomus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lophiidae/lophiomus.json"
+    },
+    {
+      "Genus": "Lophius",
+      "SpeciesCount": 7,
+      "genus_path": "genera/lophiidae/lophius.json"
+    },
+    {
+      "Genus": "Sladenia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/lophiidae/sladenia.json"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "ScientificName": "Rhyacichthys aspro",
+    "SpecCode": "4435",
+    "CommonName": "Almindelig smerlingeagtig kutling",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhyacichthys guilberti",
+    "SpecCode": "27291",
+    "CommonName": "Guilberti imirind",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

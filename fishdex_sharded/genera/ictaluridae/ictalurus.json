@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Ictalurus australis",
+    "SpecCode": "6185",
+    "CommonName": "Bagre del Panuco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictalurus balsanus",
+    "SpecCode": "47360",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictalurus dugesii",
+    "SpecCode": "47361",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictalurus furcatus",
+    "SpecCode": "3019",
+    "CommonName": "Bagre azul",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictalurus lupus",
+    "SpecCode": "3020",
+    "CommonName": "Bagre lobo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictalurus meridionalis",
+    "SpecCode": "66263",
+    "CommonName": "Bagre azul del sureste",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictalurus mexicanus",
+    "SpecCode": "6186",
+    "CommonName": "Bagre de Rio Verde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictalurus ochoterenai",
+    "SpecCode": "48393",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictalurus pricei",
+    "SpecCode": "3024",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictalurus punctatus",
+    "SpecCode": "290",
+    "CommonName": "Azul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

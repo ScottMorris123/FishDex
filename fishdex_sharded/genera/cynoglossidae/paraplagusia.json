@@ -1,0 +1,58 @@
+[
+  {
+    "ScientificName": "Paraplagusia bilineata",
+    "SpecCode": "522",
+    "CommonName": "Arabu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplagusia blochii",
+    "SpecCode": "7488",
+    "CommonName": "Aralu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplagusia guttata",
+    "SpecCode": "59535",
+    "CommonName": "栉鳞须鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplagusia japonica",
+    "SpecCode": "8972",
+    "CommonName": "Black cow-tongue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplagusia longirostris",
+    "SpecCode": "13096",
+    "CommonName": "Long-snouted tongue sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplagusia sinerama",
+    "SpecCode": "24638",
+    "CommonName": "Dusky tongue sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

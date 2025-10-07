@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Hybognathus amarus",
+    "SpecCode": "6121",
+    "CommonName": "Carpa Chamizal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybognathus argyritis",
+    "SpecCode": "2772",
+    "CommonName": "Jeleček stříbřitý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybognathus hankinsoni",
+    "SpecCode": "2773",
+    "CommonName": "Brassy minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybognathus hayi",
+    "SpecCode": "2774",
+    "CommonName": "Cypress minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybognathus nuchalis",
+    "SpecCode": "2775",
+    "CommonName": "Jeleček mississippský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybognathus placitus",
+    "SpecCode": "2776",
+    "CommonName": "Jeleček coloradský",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hybognathus regius",
+    "SpecCode": "2777",
+    "CommonName": "Eastern silvery minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

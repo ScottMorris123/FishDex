@@ -1,0 +1,12 @@
+{
+  "Family": "Lateolabracidae",
+  "Order": "Acropomatiformes",
+  "Common": "Asian seaperches",
+  "Genera": [
+    {
+      "Genus": "Lateolabrax",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lateolabracidae/lateolabrax.json"
+    }
+  ]
+}

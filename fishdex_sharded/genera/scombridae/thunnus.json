@@ -1,0 +1,77 @@
+[
+  {
+    "ScientificName": "Thunnus alalunga",
+    "SpecCode": "142",
+    "CommonName": "Aahi taria",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thunnus albacares",
+    "SpecCode": "143",
+    "CommonName": "A'ahi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thunnus atlanticus",
+    "SpecCode": "144",
+    "CommonName": "Albacora",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thunnus maccoyii",
+    "SpecCode": "145",
+    "CommonName": "Aleta azul del Sur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thunnus obesus",
+    "SpecCode": "146",
+    "CommonName": "A'ahi o'opa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thunnus orientalis",
+    "SpecCode": "14290",
+    "CommonName": "Ahi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thunnus thynnus",
+    "SpecCode": "147",
+    "CommonName": "Albacora",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thunnus tonggol",
+    "SpecCode": "148",
+    "CommonName": "Abu-abu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

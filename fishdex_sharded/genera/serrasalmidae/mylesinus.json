@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Mylesinus paraschomburgkii",
+    "SpecCode": "53333",
+    "CommonName": "Pacu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylesinus paucisquamatus",
+    "SpecCode": "52602",
+    "CommonName": "Curupeté",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mylesinus schomburgkii",
+    "SpecCode": "51959",
+    "CommonName": "Pacu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

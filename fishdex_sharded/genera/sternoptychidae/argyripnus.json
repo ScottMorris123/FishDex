@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Argyripnus atlanticus",
+    "SpecCode": "11678",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyripnus boreopacificus",
+    "SpecCode": "70470",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyripnus brocki",
+    "SpecCode": "7386",
+    "CommonName": "Brock's bristle-mouth fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyripnus electronus",
+    "SpecCode": "54314",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyripnus ephippiatus",
+    "SpecCode": "7387",
+    "CommonName": "Gilbert & Cramer's bristle-mouth fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyripnus hulleyi",
+    "SpecCode": "65528",
+    "CommonName": "Brossé réunionnanais",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyripnus iridescens",
+    "SpecCode": "24494",
+    "CommonName": "Brilliant pearlside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyripnus pharos",
+    "SpecCode": "63903",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyripnus scharpfi",
+    "SpecCode": "70589",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

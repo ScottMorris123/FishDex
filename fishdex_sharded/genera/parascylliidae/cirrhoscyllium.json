@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Cirrhoscyllium expolitum",
+    "SpecCode": "5911",
+    "CommonName": "Alfombrera barbuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhoscyllium formosanum",
+    "SpecCode": "5912",
+    "CommonName": "Alfombrera de Taiwan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhoscyllium japonicum",
+    "SpecCode": "5913",
+    "CommonName": "Alfombrera japonesa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

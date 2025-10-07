@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Hyperlophus translucidus",
+    "SpecCode": "1572",
+    "CommonName": "Glas-sandbrisling",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyperlophus vittatus",
+    "SpecCode": "1573",
+    "CommonName": "Glassy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

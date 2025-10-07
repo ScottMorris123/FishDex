@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Bleekeria albicauda",
+    "SpecCode": "69497",
+    "CommonName": "White-tipped sandlance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bleekeria estuaria",
+    "SpecCode": "67705",
+    "CommonName": "Estuary sandlance",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bleekeria kallolepis",
+    "SpecCode": "58283",
+    "CommonName": "Aruna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bleekeria mitsukurii",
+    "SpecCode": "9236",
+    "CommonName": "Mitsukuri's sandlance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bleekeria murtii",
+    "SpecCode": "69503",
+    "CommonName": "Murty's sandlance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bleekeria nigrilinea",
+    "SpecCode": "69498",
+    "CommonName": "Black-edged fin sandlance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bleekeria profunda",
+    "SpecCode": "67704",
+    "CommonName": "Deep-water sandlance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bleekeria viridianguilla",
+    "SpecCode": "10612",
+    "CommonName": "Pacific sandlance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

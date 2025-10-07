@@ -1,0 +1,62 @@
+{
+  "Family": "Butidae",
+  "Order": "Gobiiformes",
+  "Common": "Gudgeon gobies",
+  "Genera": [
+    {
+      "Genus": "Bostrychus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/butidae/bostrychus.json"
+    },
+    {
+      "Genus": "Butis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/butidae/butis.json"
+    },
+    {
+      "Genus": "Incara",
+      "SpeciesCount": 1,
+      "genus_path": "genera/butidae/incara.json"
+    },
+    {
+      "Genus": "Kribia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/butidae/kribia.json"
+    },
+    {
+      "Genus": "Odonteleotris",
+      "SpeciesCount": 2,
+      "genus_path": "genera/butidae/odonteleotris.json"
+    },
+    {
+      "Genus": "Ophiocara",
+      "SpeciesCount": 2,
+      "genus_path": "genera/butidae/ophiocara.json"
+    },
+    {
+      "Genus": "Oxyeleotris",
+      "SpeciesCount": 18,
+      "genus_path": "genera/butidae/oxyeleotris.json"
+    },
+    {
+      "Genus": "Paloa",
+      "SpeciesCount": 2,
+      "genus_path": "genera/butidae/paloa.json"
+    },
+    {
+      "Genus": "Parviparma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/butidae/parviparma.json"
+    },
+    {
+      "Genus": "Pogoneleotris",
+      "SpeciesCount": 1,
+      "genus_path": "genera/butidae/pogoneleotris.json"
+    },
+    {
+      "Genus": "Prionobutis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/butidae/prionobutis.json"
+    }
+  ]
+}

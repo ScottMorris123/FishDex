@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Zu cristatus",
+    "SpecCode": "1776",
+    "CommonName": "Cardenal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zu elongatus",
+    "SpecCode": "10665",
+    "CommonName": "Scalloped dealfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

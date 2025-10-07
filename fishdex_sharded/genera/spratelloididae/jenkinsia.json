@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Jenkinsia lamprotaenia",
+    "SpecCode": "1461",
+    "CommonName": "Blue fry",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Jenkinsia majua",
+    "SpecCode": "1462",
+    "CommonName": "Jenkinsie bahamská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Jenkinsia parvula",
+    "SpecCode": "1463",
+    "CommonName": "Canalera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Jenkinsia stolifera",
+    "SpecCode": "1464",
+    "CommonName": "Canalera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

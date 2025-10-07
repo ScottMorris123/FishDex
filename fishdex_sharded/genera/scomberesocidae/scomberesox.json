@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Scomberesox saurus",
+    "SpecCode": "1084",
+    "CommonName": "Agora forestiera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberesox scombroides",
+    "SpecCode": "9027",
+    "CommonName": "Aguja",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberesox simulans",
+    "SpecCode": "7754",
+    "CommonName": "Agulha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

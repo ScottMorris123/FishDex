@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Stereolepis doederleini",
+    "SpecCode": "23382",
+    "CommonName": "Ôkuchi-ishinagi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stereolepis gigas",
+    "SpecCode": "3310",
+    "CommonName": "Bar gigantesque",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Bathyagonus alascanus",
+    "SpecCode": "4159",
+    "CommonName": "Grå panserulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyagonus infraspinatus",
+    "SpecCode": "4160",
+    "CommonName": "Pigkindet panserulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyagonus nigripinnis",
+    "SpecCode": "4161",
+    "CommonName": "Blackfin poacher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyagonus pentacanthus",
+    "SpecCode": "4162",
+    "CommonName": "Bigeye poacher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Atherinosoma elongatum",
+    "SpecCode": "52323",
+    "CommonName": "Elongate hardyhead",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinosoma microstoma",
+    "SpecCode": "52325",
+    "CommonName": "Endora's hardyhead",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

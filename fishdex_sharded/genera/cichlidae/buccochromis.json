@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Buccochromis atritaeniatus",
+    "SpecCode": "2246",
+    "CommonName": "Chabawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Buccochromis heterotaenia",
+    "SpecCode": "2245",
+    "CommonName": "Dimba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Buccochromis lepturus",
+    "SpecCode": "2243",
+    "CommonName": "Chidondolo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Buccochromis nototaenia",
+    "SpecCode": "2242",
+    "CommonName": "Chigong'u wa ndembera",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Buccochromis oculatus",
+    "SpecCode": "2247",
+    "CommonName": "Dimba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Buccochromis rhoadesii",
+    "SpecCode": "2244",
+    "CommonName": "Dimba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Buccochromis spectabilis",
+    "SpecCode": "2248",
+    "CommonName": "Dimba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

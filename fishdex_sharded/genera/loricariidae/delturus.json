@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Delturus angulicauda",
+    "SpecCode": "48838",
+    "CommonName": "鰻尾三角下口鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Delturus brevis",
+    "SpecCode": "63138",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Delturus carinotus",
+    "SpecCode": "48839",
+    "CommonName": "龍首三角下口鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Delturus parahybae",
+    "SpecCode": "48841",
+    "CommonName": "Cascudo laje",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

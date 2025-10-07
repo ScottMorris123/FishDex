@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Cymolutes lecluse",
+    "SpecCode": "6081",
+    "CommonName": "Badara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cymolutes praetextatus",
+    "SpecCode": "5607",
+    "CommonName": "Alle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cymolutes torquatus",
+    "SpecCode": "5608",
+    "CommonName": "Collared knifefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

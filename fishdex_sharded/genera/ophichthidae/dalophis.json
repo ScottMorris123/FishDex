@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Dalophis boulengeri",
+    "SpecCode": "5031",
+    "CommonName": "Aafrika tõngurangerjas",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dalophis cephalopeltis",
+    "SpecCode": "5032",
+    "CommonName": "Guinea tõngurangerjas",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dalophis imberbis",
+    "SpecCode": "1789",
+    "CommonName": "Armless snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dalophis multidentatus",
+    "SpecCode": "9082",
+    "CommonName": "Hadař mnohozubý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dalophis obtusirostris",
+    "SpecCode": "9083",
+    "CommonName": "Hadař tuporypý",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

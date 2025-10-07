@@ -1,0 +1,97 @@
+{
+  "Family": "Stichaeidae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "Pricklebacks",
+  "Genera": [
+    {
+      "Genus": "Alectrias",
+      "SpeciesCount": 6,
+      "genus_path": "genera/stichaeidae/alectrias.json"
+    },
+    {
+      "Genus": "Alectridium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stichaeidae/alectridium.json"
+    },
+    {
+      "Genus": "Anoplarchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/stichaeidae/anoplarchus.json"
+    },
+    {
+      "Genus": "Bryozoichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/stichaeidae/bryozoichthys.json"
+    },
+    {
+      "Genus": "Chirolophis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/stichaeidae/chirolophis.json"
+    },
+    {
+      "Genus": "Dictyosoma",
+      "SpeciesCount": 3,
+      "genus_path": "genera/stichaeidae/dictyosoma.json"
+    },
+    {
+      "Genus": "Ernogrammus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/stichaeidae/ernogrammus.json"
+    },
+    {
+      "Genus": "Esselenichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/stichaeidae/esselenichthys.json"
+    },
+    {
+      "Genus": "Eumesogrammus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stichaeidae/eumesogrammus.json"
+    },
+    {
+      "Genus": "Gymnoclinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stichaeidae/gymnoclinus.json"
+    },
+    {
+      "Genus": "Phytichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stichaeidae/phytichthys.json"
+    },
+    {
+      "Genus": "Plagiogrammus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stichaeidae/plagiogrammus.json"
+    },
+    {
+      "Genus": "Pseudalectrias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stichaeidae/pseudalectrias.json"
+    },
+    {
+      "Genus": "Soldatovia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stichaeidae/soldatovia.json"
+    },
+    {
+      "Genus": "Stichaeopsis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/stichaeidae/stichaeopsis.json"
+    },
+    {
+      "Genus": "Stichaeus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/stichaeidae/stichaeus.json"
+    },
+    {
+      "Genus": "Ulvaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/stichaeidae/ulvaria.json"
+    },
+    {
+      "Genus": "Xiphister",
+      "SpeciesCount": 2,
+      "genus_path": "genera/stichaeidae/xiphister.json"
+    }
+  ]
+}

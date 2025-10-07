@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Procatopus aberrans",
+    "SpecCode": "9702",
+    "CommonName": "Blaugrüner Leuchtaugenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Procatopus nototaenia",
+    "SpecCode": "9703",
+    "CommonName": "Breitflossiger Leuchtaugenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Procatopus similis",
+    "SpecCode": "9704",
+    "CommonName": "Kirjotähtisilmä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

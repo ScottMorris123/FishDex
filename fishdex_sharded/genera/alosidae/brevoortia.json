@@ -1,0 +1,60 @@
+[
+  {
+    "ScientificName": "Brevoortia aurea",
+    "SpecCode": "1587",
+    "CommonName": "Brasiilia menheden",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brevoortia gunteri",
+    "SpecCode": "1588",
+    "CommonName": "Finescale menhaden",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brevoortia patronus",
+    "SpecCode": "1589",
+    "CommonName": "Bunker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brevoortia pectinata",
+    "SpecCode": "1590",
+    "CommonName": "Argentiina menheden",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brevoortia smithi",
+    "SpecCode": "1591",
+    "CommonName": "Gulfenad menhaden",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brevoortia tyrannus",
+    "SpecCode": "1592",
+    "CommonName": "Alaccia americana",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

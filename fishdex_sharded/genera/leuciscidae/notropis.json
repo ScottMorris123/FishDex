@@ -1,0 +1,822 @@
+[
+  {
+    "ScientificName": "Notropis aguirrepequenoi",
+    "SpecCode": "6125",
+    "CommonName": "Carpita del Pilón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis albizonatus",
+    "SpecCode": "54242",
+    "CommonName": "Jeleček bělopruhý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis alborus",
+    "SpecCode": "2814",
+    "CommonName": "Jeleček běloústý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis altipinnis",
+    "SpecCode": "2815",
+    "CommonName": "Highfin shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis amabilis",
+    "SpecCode": "2816",
+    "CommonName": "Carpita texana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis amecae",
+    "SpecCode": "6126",
+    "CommonName": "Ameca hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis ammophilus",
+    "SpecCode": "10223",
+    "CommonName": "Jeleček oranžovoploutvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis amoenus",
+    "SpecCode": "2818",
+    "CommonName": "Comely shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis anogenus",
+    "SpecCode": "2820",
+    "CommonName": "Jeleček tuponosý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis ariommus",
+    "SpecCode": "2822",
+    "CommonName": "Jeleček alabamský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis asperifrons",
+    "SpecCode": "2823",
+    "CommonName": "Burrhead shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis atherinoides",
+    "SpecCode": "2824",
+    "CommonName": "Common emerald shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis atrocaudalis",
+    "SpecCode": "2826",
+    "CommonName": "Blackspot shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis aulidion",
+    "SpecCode": "6127",
+    "CommonName": "Carpita de Durango",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis baileyi",
+    "SpecCode": "2827",
+    "CommonName": "Bailey hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis bairdi",
+    "SpecCode": "2828",
+    "CommonName": "Bairdi hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis bifrenatus",
+    "SpecCode": "2830",
+    "CommonName": "Bridle shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis blennius",
+    "SpecCode": "2831",
+    "CommonName": "Jeleček říční",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis boops",
+    "SpecCode": "2832",
+    "CommonName": "Bigeye shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis boucardi",
+    "SpecCode": "55752",
+    "CommonName": "Balsas shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis braytoni",
+    "SpecCode": "2833",
+    "CommonName": "Braytoni hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis buccata",
+    "SpecCode": "2752",
+    "CommonName": "Jeleček stříbrotlamý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis buccula",
+    "SpecCode": "2834",
+    "CommonName": "Jeleček malooký",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis buchanani",
+    "SpecCode": "2835",
+    "CommonName": "Buchanani hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis cahabae",
+    "SpecCode": "6128",
+    "CommonName": "Cahaba hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis calabazas",
+    "SpecCode": "62165",
+    "CommonName": "Calabazas shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis calientis",
+    "SpecCode": "50228",
+    "CommonName": "Carpita amarilla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis candidus",
+    "SpecCode": "2841",
+    "CommonName": "Helkiv hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis chalybaeus",
+    "SpecCode": "2843",
+    "CommonName": "Ironcolor shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis chihuahua",
+    "SpecCode": "2844",
+    "CommonName": "Carpita chihuahuense",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis chiliticus",
+    "SpecCode": "2845",
+    "CommonName": "Jeleček rudopyský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis chlorocephalus",
+    "SpecCode": "2847",
+    "CommonName": "Greenhead shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis chrosomus",
+    "SpecCode": "2848",
+    "CommonName": "Blå regnbueelritse",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis cumingii",
+    "SpecCode": "62432",
+    "CommonName": "Atoyac chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis cummingsae",
+    "SpecCode": "2852",
+    "CommonName": "Dusky shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis dorsalis",
+    "SpecCode": "2853",
+    "CommonName": "Bigmouth shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis edwardraneyi",
+    "SpecCode": "2854",
+    "CommonName": "Fluvial shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis girardi",
+    "SpecCode": "2861",
+    "CommonName": "Arkansas River shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis grandis",
+    "SpecCode": "65658",
+    "CommonName": "Carpita de Zacapu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis greenei",
+    "SpecCode": "2862",
+    "CommonName": "Jeleček Greenův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis harperi",
+    "SpecCode": "2863",
+    "CommonName": "Harperi hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis heterodon",
+    "SpecCode": "2864",
+    "CommonName": "Blackchin shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis heterolepis",
+    "SpecCode": "2865",
+    "CommonName": "Blacknose shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis hudsonius",
+    "SpecCode": "2867",
+    "CommonName": "Jeleček ocasoskvrnný",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis hypsilepis",
+    "SpecCode": "2869",
+    "CommonName": "Apalachicola hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis imeldae",
+    "SpecCode": "6129",
+    "CommonName": "Imelda hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis jemezanus",
+    "SpecCode": "2870",
+    "CommonName": "Carpita del Bravo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis leuciodus",
+    "SpecCode": "2872",
+    "CommonName": "Jeleček holstonský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis longirostris",
+    "SpecCode": "2874",
+    "CommonName": "Jeleček dlouhonosý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis lutipinnis",
+    "SpecCode": "2875",
+    "CommonName": "Jeleček žlutoploutvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis maculatus",
+    "SpecCode": "2877",
+    "CommonName": "Jeleček skvrnitý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis marhabatiensis",
+    "SpecCode": "65657",
+    "CommonName": "Carpita de Maravatío",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis mekistocholas",
+    "SpecCode": "2878",
+    "CommonName": "Cape Fear Shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis melanostomus",
+    "SpecCode": "6130",
+    "CommonName": "Blackmouth Shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis micropteryx",
+    "SpecCode": "62366",
+    "CommonName": "Highland shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis moralesi",
+    "SpecCode": "6131",
+    "CommonName": "Carpita del tepelmeme",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis nazas",
+    "SpecCode": "55757",
+    "CommonName": "Carpita de Nazas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis nubilus",
+    "SpecCode": "2880",
+    "CommonName": "Jeleček soumračný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis orca",
+    "SpecCode": "6132",
+    "CommonName": "Carpita de El Paso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis ortenburgeri",
+    "SpecCode": "2881",
+    "CommonName": "Jeleček Ortenburgerův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis oxyrhynchus",
+    "SpecCode": "2882",
+    "CommonName": "Jeleček ostronosý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis ozarcanus",
+    "SpecCode": "2883",
+    "CommonName": "Jeleček ozarcký",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis percobromus",
+    "SpecCode": "62367",
+    "CommonName": "Carmine shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis perpallidus",
+    "SpecCode": "2884",
+    "CommonName": "Colorless Shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis petersoni",
+    "SpecCode": "2885",
+    "CommonName": "Coastal shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis photogenis",
+    "SpecCode": "2886",
+    "CommonName": "Helkpõsk-hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis potteri",
+    "SpecCode": "2888",
+    "CommonName": "Chub shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis procne",
+    "SpecCode": "2889",
+    "CommonName": "Jeleček texaský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis rafinesquei",
+    "SpecCode": "60222",
+    "CommonName": "Jeleček Rafinesqueův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis rubellus",
+    "SpecCode": "2893",
+    "CommonName": "Jeleček červenavý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis rubricroceus",
+    "SpecCode": "2894",
+    "CommonName": "Jeleček šafránový",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis rupestris",
+    "SpecCode": "10263",
+    "CommonName": "Bedrock shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis sabinae",
+    "SpecCode": "2895",
+    "CommonName": "Jeleček sabinský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis saladonis",
+    "SpecCode": "6133",
+    "CommonName": "Carpita del Salado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis scabriceps",
+    "SpecCode": "2896",
+    "CommonName": "Jeleček sinkingský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis scepticus",
+    "SpecCode": "2897",
+    "CommonName": "Jeleček saludanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis semperasper",
+    "SpecCode": "2898",
+    "CommonName": "Igikare hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis shumardi",
+    "SpecCode": "2899",
+    "CommonName": "Jeleček stříbropásý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis simus",
+    "SpecCode": "2901",
+    "CommonName": "Bluntnose shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis spectrunculus",
+    "SpecCode": "2902",
+    "CommonName": "Jeleček zrcadlový",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis stilbius",
+    "SpecCode": "2904",
+    "CommonName": "Hiilgav hõbeteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis stramineus",
+    "SpecCode": "2905",
+    "CommonName": "Carpita arenera",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis suttkusi",
+    "SpecCode": "58225",
+    "CommonName": "Jeleček Suttkusův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis telescopus",
+    "SpecCode": "2906",
+    "CommonName": "Jeleček virginský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis texanus",
+    "SpecCode": "2907",
+    "CommonName": "Jeleček michiganský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis topeka",
+    "SpecCode": "2908",
+    "CommonName": "Jeleček dakotský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis tropicus",
+    "SpecCode": "61910",
+    "CommonName": "Carpita tropical",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis uranoscopus",
+    "SpecCode": "2911",
+    "CommonName": "Jeleček cahabský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis volucellus",
+    "SpecCode": "2913",
+    "CommonName": "Jeleček prosvítavý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis wickliffi",
+    "SpecCode": "62430",
+    "CommonName": "Channel shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notropis xaenocephalus",
+    "SpecCode": "2916",
+    "CommonName": "Coosa shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

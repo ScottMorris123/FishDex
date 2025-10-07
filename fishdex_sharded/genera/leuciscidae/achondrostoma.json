@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Achondrostoma arcasii",
+    "SpecCode": "23608",
+    "CommonName": "Bermehuela-ahersuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achondrostoma asturicense",
+    "SpecCode": "70088",
+    "CommonName": "Bermejuela del Esla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achondrostoma garzonorum",
+    "SpecCode": "70086",
+    "CommonName": "Bermeja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achondrostoma numantinum",
+    "SpecCode": "70087",
+    "CommonName": "Bermejuela numantina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achondrostoma occidentale",
+    "SpecCode": "62633",
+    "CommonName": "Lääne-ahersuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achondrostoma oligolepis",
+    "SpecCode": "23609",
+    "CommonName": "Plotice portugalská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achondrostoma salmantinum",
+    "SpecCode": "63837",
+    "CommonName": "Duero ahersuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "Family": "Curimatidae",
+  "Order": "Characiformes",
+  "Common": "Toothless characins",
+  "Genera": [
+    {
+      "Genus": "Curimata",
+      "SpeciesCount": 13,
+      "genus_path": "genera/curimatidae/curimata.json"
+    },
+    {
+      "Genus": "Curimatella",
+      "SpeciesCount": 5,
+      "genus_path": "genera/curimatidae/curimatella.json"
+    },
+    {
+      "Genus": "Curimatopsis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/curimatidae/curimatopsis.json"
+    },
+    {
+      "Genus": "Cyphocharax",
+      "SpeciesCount": 42,
+      "genus_path": "genera/curimatidae/cyphocharax.json"
+    },
+    {
+      "Genus": "Potamorhina",
+      "SpeciesCount": 5,
+      "genus_path": "genera/curimatidae/potamorhina.json"
+    },
+    {
+      "Genus": "Psectrogaster",
+      "SpeciesCount": 8,
+      "genus_path": "genera/curimatidae/psectrogaster.json"
+    },
+    {
+      "Genus": "Pseudocurimata",
+      "SpeciesCount": 6,
+      "genus_path": "genera/curimatidae/pseudocurimata.json"
+    },
+    {
+      "Genus": "Steindachnerina",
+      "SpeciesCount": 23,
+      "genus_path": "genera/curimatidae/steindachnerina.json"
+    }
+  ]
+}

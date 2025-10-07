@@ -1,0 +1,85 @@
+[
+  {
+    "ScientificName": "Formosania chenyiyui",
+    "SpecCode": "60457",
+    "CommonName": "Balitora fujianská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Formosania davidi",
+    "SpecCode": "60803",
+    "CommonName": "Balitora Davidova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Formosania fascicauda",
+    "SpecCode": "54720",
+    "CommonName": "Vöötsaba-formosaania",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Formosania fasciolata",
+    "SpecCode": "64499",
+    "CommonName": "Vöödiline formosaania",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Formosania galericula",
+    "SpecCode": "66049",
+    "CommonName": "Zhejiangi formosaania",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Formosania lacustris",
+    "SpecCode": "17232",
+    "CommonName": "Balitora tajvanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Formosania paucisquama",
+    "SpecCode": "55021",
+    "CommonName": "Balitora guangdongská",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Formosania stigmata",
+    "SpecCode": "55022",
+    "CommonName": "Balitora znamenaná",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Formosania tinkhami",
+    "SpecCode": "55023",
+    "CommonName": "Balitora Tinkhamova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

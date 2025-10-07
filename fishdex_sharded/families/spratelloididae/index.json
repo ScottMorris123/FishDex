@@ -1,0 +1,17 @@
+{
+  "Family": "Spratelloididae",
+  "Order": "Clupeiformes",
+  "Common": "Small round herrings",
+  "Genera": [
+    {
+      "Genus": "Jenkinsia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/spratelloididae/jenkinsia.json"
+    },
+    {
+      "Genus": "Spratelloides",
+      "SpeciesCount": 4,
+      "genus_path": "genera/spratelloididae/spratelloides.json"
+    }
+  ]
+}

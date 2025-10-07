@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Porocottus allisi",
+    "SpecCode": "23940",
+    "CommonName": "Fusakajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porocottus camtschaticus",
+    "SpecCode": "56767",
+    "CommonName": "大眼棘杜父魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porocottus coronatus",
+    "SpecCode": "56765",
+    "CommonName": "Kanmuri-fusakajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porocottus japonicus",
+    "SpecCode": "56768",
+    "CommonName": "日本棘杜父魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porocottus leptosomus",
+    "SpecCode": "59889",
+    "CommonName": "Koryo-sil-hoed-dae",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porocottus mednius",
+    "SpecCode": "11731",
+    "CommonName": "Aleutian fringed sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porocottus minutus",
+    "SpecCode": "56766",
+    "CommonName": "微棘杜父魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porocottus quadrifilis",
+    "SpecCode": "50809",
+    "CommonName": "四線棘杜父魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porocottus tentaculatus",
+    "SpecCode": "23942",
+    "CommonName": "Itofusakajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

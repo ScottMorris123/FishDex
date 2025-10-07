@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Scopelosaurus adleri",
+    "SpecCode": "60268",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus ahlstromi",
+    "SpecCode": "24623",
+    "CommonName": "Ahlstrom's waryfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus argenteus",
+    "SpecCode": "9158",
+    "CommonName": "Waryfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus craddocki",
+    "SpecCode": "60953",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus gibbsi",
+    "SpecCode": "49272",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus hamiltoni",
+    "SpecCode": "6976",
+    "CommonName": "Merlucette d'Hamilton",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus harryi",
+    "SpecCode": "11600",
+    "CommonName": "Harii-fude-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus herwigi",
+    "SpecCode": "25684",
+    "CommonName": "大眼弱蜥魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus hoedti",
+    "SpecCode": "22972",
+    "CommonName": "Hikari-fude-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus hubbsi",
+    "SpecCode": "55102",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus lepidus",
+    "SpecCode": "9159",
+    "CommonName": "Blackfin waryfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus mauli",
+    "SpecCode": "22977",
+    "CommonName": "Maoru-fude-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus meadi",
+    "SpecCode": "9161",
+    "CommonName": "Blackring waryfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelosaurus smithii",
+    "SpecCode": "9162",
+    "CommonName": "Fude-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

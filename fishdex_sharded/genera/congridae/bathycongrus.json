@@ -1,0 +1,263 @@
+[
+  {
+    "ScientificName": "Bathycongrus aequoreus",
+    "SpecCode": "60265",
+    "CommonName": "Havai uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus albimarginatus",
+    "SpecCode": "70415",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus bertini",
+    "SpecCode": "9066",
+    "CommonName": "Bertini uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus bimaculatus",
+    "SpecCode": "70417",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus bleekeri",
+    "SpecCode": "60263",
+    "CommonName": "Bleekeri uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus brunneus",
+    "SpecCode": "70416",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus bullisi",
+    "SpecCode": "27790",
+    "CommonName": "Bullish conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus castlei",
+    "SpecCode": "70418",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus dubius",
+    "SpecCode": "58530",
+    "CommonName": "Dubious conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus graciliceps",
+    "SpecCode": "70419",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus guttulatus",
+    "SpecCode": "10559",
+    "CommonName": "Lined conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus longicavis",
+    "SpecCode": "64904",
+    "CommonName": "Pikkõõs-uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus macrocercus",
+    "SpecCode": "58534",
+    "CommonName": "Andamani uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus macrurus",
+    "SpecCode": "13615",
+    "CommonName": "Bathycongrus macrurus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus melanostomus",
+    "SpecCode": "69897",
+    "CommonName": "Black mouth conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus nasicus",
+    "SpecCode": "58536",
+    "CommonName": "Nokis-uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus odontostomus",
+    "SpecCode": "60619",
+    "CommonName": "Hammas-uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus parapolyporus",
+    "SpecCode": "64905",
+    "CommonName": "Sagepoor-uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus parviporus",
+    "SpecCode": "66227",
+    "CommonName": "Pisipoor-uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus polyporus",
+    "SpecCode": "58564",
+    "CommonName": "Tihepoor-uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus retrotinctus",
+    "SpecCode": "23296",
+    "CommonName": "Barong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus thysanochilus",
+    "SpecCode": "47573",
+    "CommonName": "Conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus trilineatus",
+    "SpecCode": "60621",
+    "CommonName": "Kolmjoon-uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus trimaculatus",
+    "SpecCode": "64784",
+    "CommonName": "Kolmlaik-uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus unimaculatus",
+    "SpecCode": "64906",
+    "CommonName": "Ainulaik-uuranguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus varidens",
+    "SpecCode": "13616",
+    "CommonName": "Congre à tête longue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus vicinalis",
+    "SpecCode": "58546",
+    "CommonName": "Congrio vecino",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus villosus",
+    "SpecCode": "70420",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathycongrus wallacei",
+    "SpecCode": "7676",
+    "CommonName": "Longnose conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

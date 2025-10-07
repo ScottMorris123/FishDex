@@ -1,0 +1,42 @@
+{
+  "Family": "Melanotaeniidae",
+  "Order": "Atheriniformes",
+  "Common": "Rainbowfishes, blue eyes",
+  "Genera": [
+    {
+      "Genus": "Cairnsichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/melanotaeniidae/cairnsichthys.json"
+    },
+    {
+      "Genus": "Chilatherina",
+      "SpeciesCount": 11,
+      "genus_path": "genera/melanotaeniidae/chilatherina.json"
+    },
+    {
+      "Genus": "Glossolepis",
+      "SpeciesCount": 9,
+      "genus_path": "genera/melanotaeniidae/glossolepis.json"
+    },
+    {
+      "Genus": "Iriatherina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/melanotaeniidae/iriatherina.json"
+    },
+    {
+      "Genus": "Melanotaenia",
+      "SpeciesCount": 89,
+      "genus_path": "genera/melanotaeniidae/melanotaenia.json"
+    },
+    {
+      "Genus": "Pelangia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/melanotaeniidae/pelangia.json"
+    },
+    {
+      "Genus": "Rhadinocentrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/melanotaeniidae/rhadinocentrus.json"
+    }
+  ]
+}

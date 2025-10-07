@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Optivus agastos",
+    "SpecCode": "64735",
+    "CommonName": "Violet roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Optivus agrammus",
+    "SpecCode": "64736",
+    "CommonName": "Western roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Optivus elongatus",
+    "SpecCode": "12004",
+    "CommonName": "Long roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

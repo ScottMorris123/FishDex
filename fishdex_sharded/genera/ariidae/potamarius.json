@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Potamarius izabalensis",
+    "SpecCode": "54274",
+    "CommonName": "Izabali jõehammassäga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamarius nelsoni",
+    "SpecCode": "51770",
+    "CommonName": "Bagre lacadon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamarius usumacintae",
+    "SpecCode": "64022",
+    "CommonName": "Bagre del Usumacinta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

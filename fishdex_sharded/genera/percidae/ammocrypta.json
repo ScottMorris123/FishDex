@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Ammocrypta beanii",
+    "SpecCode": "3390",
+    "CommonName": "Naked sand darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammocrypta bifascia",
+    "SpecCode": "3391",
+    "CommonName": "Florida sand darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammocrypta clara",
+    "SpecCode": "3392",
+    "CommonName": "Vestlig sandsmutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammocrypta meridiana",
+    "SpecCode": "3393",
+    "CommonName": "Southern sand darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammocrypta pellucida",
+    "SpecCode": "3394",
+    "CommonName": "Dard de sable",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammocrypta vivax",
+    "SpecCode": "3395",
+    "CommonName": "Ammokripta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

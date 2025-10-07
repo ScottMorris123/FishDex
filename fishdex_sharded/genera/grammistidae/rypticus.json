@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Rypticus bicolor",
+    "SpecCode": "25545",
+    "CommonName": "Jabonero moteado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rypticus bistrispinus",
+    "SpecCode": "3353",
+    "CommonName": "Badejo-sabão",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rypticus bornoi",
+    "SpecCode": "16536",
+    "CommonName": "Largespotted soapfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rypticus carpenteri",
+    "SpecCode": "66505",
+    "CommonName": "Slope soapfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rypticus courtenayi",
+    "SpecCode": "56840",
+    "CommonName": "Jabonero de Socorro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rypticus maculatus",
+    "SpecCode": "3354",
+    "CommonName": "Hvidplettet sæbefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rypticus nigripinnis",
+    "SpecCode": "8331",
+    "CommonName": "Blackfin soapfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rypticus randalli",
+    "SpecCode": "55056",
+    "CommonName": "Badejo-sabão",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rypticus saponaceus",
+    "SpecCode": "1056",
+    "CommonName": "Adihoué",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rypticus subbifrenatus",
+    "SpecCode": "3355",
+    "CommonName": "Badejo-sabão",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

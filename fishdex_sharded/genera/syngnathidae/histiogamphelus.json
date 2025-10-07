@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Histiogamphelus briggsii",
+    "SpecCode": "46142",
+    "CommonName": "Briggs crested pipefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Histiogamphelus cristatus",
+    "SpecCode": "46143",
+    "CommonName": "Cocks-comb pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

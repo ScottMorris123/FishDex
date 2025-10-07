@@ -1,0 +1,185 @@
+[
+  {
+    "ScientificName": "Zenarchopterus alleni",
+    "SpecCode": "25571",
+    "CommonName": "Allen's river garfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus buffonis",
+    "SpecCode": "17041",
+    "CommonName": "Buffonis halfbeak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus caudovittatus",
+    "SpecCode": "17111",
+    "CommonName": "Longjaw river garfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus clarus",
+    "SpecCode": "25045",
+    "CommonName": "Cá lìm kìm",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus dispar",
+    "SpecCode": "9648",
+    "CommonName": "Bigiw",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus dunckeri",
+    "SpecCode": "17043",
+    "CommonName": "Duncker's river garfish",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus dux",
+    "SpecCode": "24759",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus ectuntio",
+    "SpecCode": "24760",
+    "CommonName": "Cá lìm kìm",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus gilli",
+    "SpecCode": "17112",
+    "CommonName": "Estuary garfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus kampeni",
+    "SpecCode": "13014",
+    "CommonName": "Jokinokkakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus novaeguineae",
+    "SpecCode": "25579",
+    "CommonName": "Fly river garfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus ornithocephala",
+    "SpecCode": "17127",
+    "CommonName": "Vogelkop river garfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus pappenheimi",
+    "SpecCode": "24763",
+    "CommonName": "Bangkok halfbeak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus philippinus",
+    "SpecCode": "27629",
+    "CommonName": "菲律宾异鳞鱵",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus quadrimaculatus",
+    "SpecCode": "53542",
+    "CommonName": "四斑异鳞鱵",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus rasori",
+    "SpecCode": "17114",
+    "CommonName": "Short garfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus robertsi",
+    "SpecCode": "25584",
+    "CommonName": "Robert's river garfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus striga",
+    "SpecCode": "25052",
+    "CommonName": "Hooghly halfbeak",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenarchopterus xiphophorus",
+    "SpecCode": "53547",
+    "CommonName": "剑异鳞鱵",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

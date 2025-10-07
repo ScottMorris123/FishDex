@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parenchelyurus hepburni",
+    "SpecCode": "6064",
+    "CommonName": "Bluespotted blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parenchelyurus hyena",
+    "SpecCode": "27536",
+    "CommonName": "Hyena blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

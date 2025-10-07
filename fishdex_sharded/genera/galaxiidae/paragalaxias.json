@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Paragalaxias dissimilis",
+    "SpecCode": "14287",
+    "CommonName": "Dissimilar jollytail",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragalaxias eleotroides",
+    "SpecCode": "14288",
+    "CommonName": "Great Lake Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragalaxias julianus",
+    "SpecCode": "14289",
+    "CommonName": "Julian galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragalaxias mesotes",
+    "SpecCode": "10436",
+    "CommonName": "Arthurs galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

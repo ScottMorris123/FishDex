@@ -1,0 +1,22 @@
+{
+  "Family": "Molidae",
+  "Order": "Tetraodontiformes",
+  "Common": "Molas or Ocean Sunfishes",
+  "Genera": [
+    {
+      "Genus": "Masturus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/molidae/masturus.json"
+    },
+    {
+      "Genus": "Mola",
+      "SpeciesCount": 3,
+      "genus_path": "genera/molidae/mola.json"
+    },
+    {
+      "Genus": "Ranzania",
+      "SpeciesCount": 1,
+      "genus_path": "genera/molidae/ranzania.json"
+    }
+  ]
+}

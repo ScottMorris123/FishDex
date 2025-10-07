@@ -1,0 +1,789 @@
+[
+  {
+    "ScientificName": "Chaetodon adiergastos",
+    "SpecCode": "6515",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon andamanensis",
+    "SpecCode": "58164",
+    "CommonName": "Andaman butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon argentatus",
+    "SpecCode": "6665",
+    "CommonName": "Asian butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon assarius",
+    "SpecCode": "6516",
+    "CommonName": "Assarius butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon aureofasciatus",
+    "SpecCode": "6513",
+    "CommonName": "Bagang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon auriga",
+    "SpecCode": "5557",
+    "CommonName": "Ababang amariyu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon auripes",
+    "SpecCode": "6648",
+    "CommonName": "Bagang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon austriacus",
+    "SpecCode": "6514",
+    "CommonName": "Blacktail butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon baronessa",
+    "SpecCode": "5558",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon bennetti",
+    "SpecCode": "5559",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon blackburnii",
+    "SpecCode": "8015",
+    "CommonName": "Blackburn's butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon burgessi",
+    "SpecCode": "5560",
+    "CommonName": "Alibang-bang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon capistratus",
+    "SpecCode": "3602",
+    "CommonName": "Borboleta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon citrinellus",
+    "SpecCode": "5561",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon collare",
+    "SpecCode": "7803",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon daedalma",
+    "SpecCode": "12646",
+    "CommonName": "Smedejernsfanefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon declivis",
+    "SpecCode": "12259",
+    "CommonName": "Marquesan butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon decussatus",
+    "SpecCode": "10352",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon dialeucos",
+    "SpecCode": "25436",
+    "CommonName": "Oman butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon dolosus",
+    "SpecCode": "8916",
+    "CommonName": "African butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon ephippium",
+    "SpecCode": "5562",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon falcula",
+    "SpecCode": "8014",
+    "CommonName": "Bagang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon fasciatus",
+    "SpecCode": "12274",
+    "CommonName": "Diagonal butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon flavirostris",
+    "SpecCode": "6527",
+    "CommonName": "Black butterflyfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon flavocoronatus",
+    "SpecCode": "5563",
+    "CommonName": "Gulkronet fanefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon fremblii",
+    "SpecCode": "7808",
+    "CommonName": "Blåstribet fanefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon gardineri",
+    "SpecCode": "12534",
+    "CommonName": "Gardiner's butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon guentheri",
+    "SpecCode": "6528",
+    "CommonName": "Bagang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon guttatissimus",
+    "SpecCode": "7791",
+    "CommonName": "Chétodon moucheté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon hoefleri",
+    "SpecCode": "5046",
+    "CommonName": "Borboleta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon humeralis",
+    "SpecCode": "8278",
+    "CommonName": "Mariposa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon interruptus",
+    "SpecCode": "61607",
+    "CommonName": "Indian Ocean teardrop butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon kleinii",
+    "SpecCode": "5446",
+    "CommonName": "Alanaasi bibee",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon larvatus",
+    "SpecCode": "12287",
+    "CommonName": "Blue chevron butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon leucopleura",
+    "SpecCode": "8083",
+    "CommonName": "Misht gardineri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon lineolatus",
+    "SpecCode": "5564",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon litus",
+    "SpecCode": "12538",
+    "CommonName": "Easter Island butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon lunula",
+    "SpecCode": "5565",
+    "CommonName": "Ababang lonnat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon lunulatus",
+    "SpecCode": "14300",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon madagaskariensis",
+    "SpecCode": "7793",
+    "CommonName": "Chétodon à damiers",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon marleyi",
+    "SpecCode": "8013",
+    "CommonName": "Dobbeltbåndet fanefisk",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon melannotus",
+    "SpecCode": "5566",
+    "CommonName": "Akebono-chôchô-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon melapterus",
+    "SpecCode": "12533",
+    "CommonName": "Arabisk fanefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon mertensii",
+    "SpecCode": "5567",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon mesoleucos",
+    "SpecCode": "25428",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon meyeri",
+    "SpecCode": "5568",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon miliaris",
+    "SpecCode": "5136",
+    "CommonName": "Hirsefanefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon mitratus",
+    "SpecCode": "8927",
+    "CommonName": "Chétodon à mitre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon multicinctus",
+    "SpecCode": "7810",
+    "CommonName": "Kikakapu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon nigropunctatus",
+    "SpecCode": "12535",
+    "CommonName": "Black-spotted butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon nippon",
+    "SpecCode": "12532",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon ocellatus",
+    "SpecCode": "3604",
+    "CommonName": "Beija-moça",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon ocellicaudus",
+    "SpecCode": "5569",
+    "CommonName": "Alibang-bang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon octofasciatus",
+    "SpecCode": "5570",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon ornatissimus",
+    "SpecCode": "6550",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon oxycephalus",
+    "SpecCode": "5472",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon paucifasciatus",
+    "SpecCode": "12296",
+    "CommonName": "Crown butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon pelewensis",
+    "SpecCode": "6606",
+    "CommonName": "daliga ragutu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon pictus",
+    "SpecCode": "66029",
+    "CommonName": "Horseshoe butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon plebeius",
+    "SpecCode": "6613",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon punctatofasciatus",
+    "SpecCode": "5571",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon quadrimaculatus",
+    "SpecCode": "5572",
+    "CommonName": "daliga ragutu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon rafflesii",
+    "SpecCode": "5573",
+    "CommonName": "Ami-chô-chô-uo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon rainfordi",
+    "SpecCode": "6631",
+    "CommonName": "Northern butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon reticulatus",
+    "SpecCode": "5574",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon robustus",
+    "SpecCode": "10191",
+    "CommonName": "Borboleta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon sanctaehelenae",
+    "SpecCode": "12536",
+    "CommonName": "Cunningfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon sedentarius",
+    "SpecCode": "3605",
+    "CommonName": "Borboleta-mariposa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon selene",
+    "SpecCode": "6634",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon semeion",
+    "SpecCode": "5575",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon semilarvatus",
+    "SpecCode": "12300",
+    "CommonName": "Addis butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon smithi",
+    "SpecCode": "12648",
+    "CommonName": "Bicolored butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon speculum",
+    "SpecCode": "5576",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon striatus",
+    "SpecCode": "3606",
+    "CommonName": "Banded butterfly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon tinkeri",
+    "SpecCode": "5577",
+    "CommonName": "Hawaiian butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon triangulum",
+    "SpecCode": "7805",
+    "CommonName": "Chétodon à chevrons",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon trichrous",
+    "SpecCode": "12537",
+    "CommonName": "Paraharaha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon tricinctus",
+    "SpecCode": "6636",
+    "CommonName": "Three stripe butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon trifascialis",
+    "SpecCode": "5578",
+    "CommonName": "Acropora butterfly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon trifasciatus",
+    "SpecCode": "5579",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon ulietensis",
+    "SpecCode": "5580",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon unimaculatus",
+    "SpecCode": "5581",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon vagabundus",
+    "SpecCode": "5582",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon wiebeli",
+    "SpecCode": "6666",
+    "CommonName": "Butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon xanthocephalus",
+    "SpecCode": "7794",
+    "CommonName": "Chétodon à tete jaune",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon xanthurus",
+    "SpecCode": "6508",
+    "CommonName": "Amime-chôchô-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetodon zanzibarensis",
+    "SpecCode": "8933",
+    "CommonName": "Einfleck-Falterfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

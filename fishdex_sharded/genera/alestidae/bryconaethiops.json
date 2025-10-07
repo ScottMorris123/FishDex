@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Bryconaethiops boulengeri",
+    "SpecCode": "11126",
+    "CommonName": "Huutomerkkitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryconaethiops macrops",
+    "SpecCode": "11127",
+    "CommonName": "Itotombe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryconaethiops microstoma",
+    "SpecCode": "11128",
+    "CommonName": "Akita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryconaethiops quinquesquamae",
+    "SpecCode": "2322",
+    "CommonName": "Nigeeria vimpelsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryconaethiops yseuxi",
+    "SpecCode": "64712",
+    "CommonName": "Kongo vimpelsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

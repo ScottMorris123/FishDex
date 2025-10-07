@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Leptolebias aureoguttatus",
+    "SpecCode": "49704",
+    "CommonName": "Goldpunktfächerfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptolebias citrinipinnis",
+    "SpecCode": "57473",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptolebias itanhaensis",
+    "SpecCode": "63955",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptolebias marmoratus",
+    "SpecCode": "6276",
+    "CommonName": "Annual Tropical Killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptolebias opalescens",
+    "SpecCode": "6278",
+    "CommonName": "Annual Tropical Killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptolebias splendens",
+    "SpecCode": "6279",
+    "CommonName": "Annual Tropical Killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

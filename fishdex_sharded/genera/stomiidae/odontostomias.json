@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Odontostomias masticopogon",
+    "SpecCode": "16509",
+    "CommonName": "強牙巨口魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontostomias micropogon",
+    "SpecCode": "5297",
+    "CommonName": "小须强牙巨口鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "ScientificName": "Kraemeria bryani",
+    "SpecCode": "22497",
+    "CommonName": "Bryan's sand dart",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kraemeria cunicularia",
+    "SpecCode": "15877",
+    "CommonName": "Sunahaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kraemeria galatheaensis",
+    "SpecCode": "60792",
+    "CommonName": "Galathea sand dart",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kraemeria merensis",
+    "SpecCode": "60791",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kraemeria nuda",
+    "SpecCode": "60799",
+    "CommonName": "裸沙鱧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kraemeria samoensis",
+    "SpecCode": "9966",
+    "CommonName": "Lever disab",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kraemeria tongaensis",
+    "SpecCode": "23680",
+    "CommonName": "Tonga-sunahaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

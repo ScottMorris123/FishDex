@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Schizopygopsis anteroventris",
+    "SpecCode": "56083",
+    "CommonName": "Škrabalka tibetská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizopygopsis kessleri",
+    "SpecCode": "61967",
+    "CommonName": "Kessleri pilukõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizopygopsis kialingensis",
+    "SpecCode": "56082",
+    "CommonName": "Jialingi pilukõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizopygopsis malacanthus",
+    "SpecCode": "54521",
+    "CommonName": "Pehmeuim-pilukõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizopygopsis pylzovi",
+    "SpecCode": "14463",
+    "CommonName": "Pylzovi pilukõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizopygopsis selincuoensis",
+    "SpecCode": "69241",
+    "CommonName": "Selincuo naked carp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizopygopsis stoliczkai",
+    "SpecCode": "24426",
+    "CommonName": "False osman",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizopygopsis thermalis",
+    "SpecCode": "54518",
+    "CommonName": "Allika-pilukõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schizopygopsis younghusbandi",
+    "SpecCode": "54495",
+    "CommonName": "Brahmaputra pilukõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

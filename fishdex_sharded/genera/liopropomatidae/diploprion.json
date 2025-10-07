@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Diploprion bifasciatum",
+    "SpecCode": "6603",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diploprion drachi",
+    "SpecCode": "24437",
+    "CommonName": "Punase mere seebiahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

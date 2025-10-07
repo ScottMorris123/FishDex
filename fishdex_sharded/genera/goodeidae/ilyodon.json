@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ilyodon cortesae",
+    "SpecCode": "58378",
+    "CommonName": "Freckled splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilyodon furcidens",
+    "SpecCode": "11946",
+    "CommonName": "Bass-colored goodeid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilyodon lennoni",
+    "SpecCode": "46434",
+    "CommonName": "Chacambero splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilyodon whitei",
+    "SpecCode": "46435",
+    "CommonName": "Balsas Hochlandkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilyodon xantusi",
+    "SpecCode": "60988",
+    "CommonName": "Limones splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

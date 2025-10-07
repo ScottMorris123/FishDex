@@ -1,0 +1,67 @@
+{
+  "Family": "Crenuchidae",
+  "Order": "Characiformes",
+  "Common": "South American darters",
+  "Genera": [
+    {
+      "Genus": "Ammocryptocharax",
+      "SpeciesCount": 4,
+      "genus_path": "genera/crenuchidae/ammocryptocharax.json"
+    },
+    {
+      "Genus": "Characidium",
+      "SpeciesCount": 67,
+      "genus_path": "genera/crenuchidae/characidium.json"
+    },
+    {
+      "Genus": "Crenuchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/crenuchidae/crenuchus.json"
+    },
+    {
+      "Genus": "Elachocharax",
+      "SpeciesCount": 4,
+      "genus_path": "genera/crenuchidae/elachocharax.json"
+    },
+    {
+      "Genus": "Geryichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/crenuchidae/geryichthys.json"
+    },
+    {
+      "Genus": "Klausewitzia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/crenuchidae/klausewitzia.json"
+    },
+    {
+      "Genus": "Leptocharacidium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/crenuchidae/leptocharacidium.json"
+    },
+    {
+      "Genus": "Melanocharacidium",
+      "SpeciesCount": 9,
+      "genus_path": "genera/crenuchidae/melanocharacidium.json"
+    },
+    {
+      "Genus": "Microcharacidium",
+      "SpeciesCount": 4,
+      "genus_path": "genera/crenuchidae/microcharacidium.json"
+    },
+    {
+      "Genus": "Odontocharacidium",
+      "SpeciesCount": 2,
+      "genus_path": "genera/crenuchidae/odontocharacidium.json"
+    },
+    {
+      "Genus": "Poecilocharax",
+      "SpeciesCount": 2,
+      "genus_path": "genera/crenuchidae/poecilocharax.json"
+    },
+    {
+      "Genus": "Skiotocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/crenuchidae/skiotocharax.json"
+    }
+  ]
+}

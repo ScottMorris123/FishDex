@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Vanacampus margaritifer",
+    "SpecCode": "46213",
+    "CommonName": "Mother-of-pearl pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanacampus phillipi",
+    "SpecCode": "46214",
+    "CommonName": "Medium-snouted pipefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanacampus poecilolaemus",
+    "SpecCode": "46215",
+    "CommonName": "Australian long-nosed pipefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vanacampus vercoi",
+    "SpecCode": "46216",
+    "CommonName": "Flinder's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Otolithoides biauritus",
+    "SpecCode": "4570",
+    "CommonName": "Bombache bronzeado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Otolithoides pama",
+    "SpecCode": "12056",
+    "CommonName": "Bhola",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

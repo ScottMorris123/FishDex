@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Remora albescens",
+    "SpecCode": "3548",
+    "CommonName": "Agarrador",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Remora australis",
+    "SpecCode": "3545",
+    "CommonName": "Hvalsugefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Remora brachyptera",
+    "SpecCode": "3546",
+    "CommonName": "Agarrador",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Remora osteochir",
+    "SpecCode": "3547",
+    "CommonName": "Agarrador",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Remora remora",
+    "SpecCode": "1751",
+    "CommonName": "Agarrador",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,207 @@
+{
+  "Family": "Ariidae",
+  "Order": "Siluriformes",
+  "Common": "Sea catfishes",
+  "Genera": [
+    {
+      "Genus": "Aceroichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/aceroichthys.json"
+    },
+    {
+      "Genus": "Ariopsis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/ariidae/ariopsis.json"
+    },
+    {
+      "Genus": "Arius",
+      "SpeciesCount": 26,
+      "genus_path": "genera/ariidae/arius.json"
+    },
+    {
+      "Genus": "Aspistor",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/aspistor.json"
+    },
+    {
+      "Genus": "Bagre",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ariidae/bagre.json"
+    },
+    {
+      "Genus": "Batrachocephalus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/batrachocephalus.json"
+    },
+    {
+      "Genus": "Bleekeriella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/bleekeriella.json"
+    },
+    {
+      "Genus": "Brustiarius",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ariidae/brustiarius.json"
+    },
+    {
+      "Genus": "Carlarius",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ariidae/carlarius.json"
+    },
+    {
+      "Genus": "Cathorops",
+      "SpeciesCount": 23,
+      "genus_path": "genera/ariidae/cathorops.json"
+    },
+    {
+      "Genus": "Cephalocassis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ariidae/cephalocassis.json"
+    },
+    {
+      "Genus": "Chinchaysuyoa",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ariidae/chinchaysuyoa.json"
+    },
+    {
+      "Genus": "Cinetodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/cinetodus.json"
+    },
+    {
+      "Genus": "Cochlefelis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ariidae/cochlefelis.json"
+    },
+    {
+      "Genus": "Cryptarius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ariidae/cryptarius.json"
+    },
+    {
+      "Genus": "Doiichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/doiichthys.json"
+    },
+    {
+      "Genus": "Galeichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ariidae/galeichthys.json"
+    },
+    {
+      "Genus": "Genidens",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ariidae/genidens.json"
+    },
+    {
+      "Genus": "Hemiarius",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ariidae/hemiarius.json"
+    },
+    {
+      "Genus": "Hexanematichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ariidae/hexanematichthys.json"
+    },
+    {
+      "Genus": "Ketengus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/ketengus.json"
+    },
+    {
+      "Genus": "Kyataphisa",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ariidae/kyataphisa.json"
+    },
+    {
+      "Genus": "Megalosciades",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/megalosciades.json"
+    },
+    {
+      "Genus": "Nedystoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/nedystoma.json"
+    },
+    {
+      "Genus": "Nemapteryx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/nemapteryx.json"
+    },
+    {
+      "Genus": "Neoarius",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ariidae/neoarius.json"
+    },
+    {
+      "Genus": "Netuma",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ariidae/netuma.json"
+    },
+    {
+      "Genus": "Notarius",
+      "SpeciesCount": 16,
+      "genus_path": "genera/ariidae/notarius.json"
+    },
+    {
+      "Genus": "Occidentarius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/occidentarius.json"
+    },
+    {
+      "Genus": "Osteogeneiosus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/osteogeneiosus.json"
+    },
+    {
+      "Genus": "Pachyula",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ariidae/pachyula.json"
+    },
+    {
+      "Genus": "Papuarius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/papuarius.json"
+    },
+    {
+      "Genus": "Paracinetodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/paracinetodus.json"
+    },
+    {
+      "Genus": "Paragenidens",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/paragenidens.json"
+    },
+    {
+      "Genus": "Pararius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ariidae/pararius.json"
+    },
+    {
+      "Genus": "Plicofollis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/ariidae/plicofollis.json"
+    },
+    {
+      "Genus": "Potamarius",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ariidae/potamarius.json"
+    },
+    {
+      "Genus": "Potamosilurus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ariidae/potamosilurus.json"
+    },
+    {
+      "Genus": "Pseudosciades",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ariidae/pseudosciades.json"
+    },
+    {
+      "Genus": "Sciades",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ariidae/sciades.json"
+    }
+  ]
+}

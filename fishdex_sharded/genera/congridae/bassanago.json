@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Bassanago albescens",
+    "SpecCode": "15663",
+    "CommonName": "Conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassanago bulbiceps",
+    "SpecCode": "13968",
+    "CommonName": "Paispea-languangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassanago hirsutus",
+    "SpecCode": "24402",
+    "CommonName": "Deepsea conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassanago nielseni",
+    "SpecCode": "54850",
+    "CommonName": "Nielseni languangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

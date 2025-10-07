@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Pseudobalistes flavimarginatus",
+    "SpecCode": "6027",
+    "CommonName": "Ampaka kuba",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobalistes fuscus",
+    "SpecCode": "4466",
+    "CommonName": "Ampapagot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobalistes naufragium",
+    "SpecCode": "8226",
+    "CommonName": "Baliste de roche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

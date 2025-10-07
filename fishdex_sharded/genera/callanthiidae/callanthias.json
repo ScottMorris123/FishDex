@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Callanthias allporti",
+    "SpecCode": "14577",
+    "CommonName": "Allport's perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callanthias australis",
+    "SpecCode": "15302",
+    "CommonName": "Glorious groppo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callanthias japonicus",
+    "SpecCode": "13004",
+    "CommonName": "Měi huā yì",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callanthias legras",
+    "SpecCode": "10755",
+    "CommonName": "Goldie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callanthias parini",
+    "SpecCode": "55296",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callanthias platei",
+    "SpecCode": "55298",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callanthias ruber",
+    "SpecCode": "1783",
+    "CommonName": "Barbier des Canaries",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callanthias splendens",
+    "SpecCode": "59013",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

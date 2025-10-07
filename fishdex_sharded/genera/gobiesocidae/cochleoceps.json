@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Cochleoceps bassensis",
+    "SpecCode": "55712",
+    "CommonName": "Broadhead clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cochleoceps bicolor",
+    "SpecCode": "51377",
+    "CommonName": "Western cleaner clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cochleoceps orientalis",
+    "SpecCode": "51501",
+    "CommonName": "Eastern cleaner-clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cochleoceps spatula",
+    "SpecCode": "55710",
+    "CommonName": "Spadenose clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cochleoceps viridis",
+    "SpecCode": "60705",
+    "CommonName": "Green clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

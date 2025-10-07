@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Chaenophryne draco",
+    "SpecCode": "16895",
+    "CommonName": "Drage-mareangler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenophryne longiceps",
+    "SpecCode": "16897",
+    "CommonName": "Can-opener smoothdream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenophryne melanorhabdus",
+    "SpecCode": "27427",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenophryne quasiramifera",
+    "SpecCode": "63954",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenophryne ramifera",
+    "SpecCode": "16899",
+    "CommonName": "拉迈蟾口鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

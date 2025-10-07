@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Hemicaranx amblyrhynchus",
+    "SpecCode": "997",
+    "CommonName": "Bluntnose jack",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemicaranx bicolor",
+    "SpecCode": "1942",
+    "CommonName": "Bicolor jack",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemicaranx leucurus",
+    "SpecCode": "1943",
+    "CommonName": "Bluntnose jack",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemicaranx zelotes",
+    "SpecCode": "1944",
+    "CommonName": "Blackfin jack",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

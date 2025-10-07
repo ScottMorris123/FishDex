@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Callopanchax huwaldi",
+    "SpecCode": "61574",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callopanchax monroviae",
+    "SpecCode": "9768",
+    "CommonName": "Kaunoviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callopanchax occidentalis",
+    "SpecCode": "9772",
+    "CommonName": "Fasaaniviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callopanchax sidibeorum",
+    "SpecCode": "65480",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callopanchax toddi",
+    "SpecCode": "9797",
+    "CommonName": "Viidakkoviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

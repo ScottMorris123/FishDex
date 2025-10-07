@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Priapella bonita",
+    "SpecCode": "6221",
+    "CommonName": "Dobrotka pasiasta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapella chamulae",
+    "SpecCode": "63051",
+    "CommonName": "Safirtandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapella compressa",
+    "SpecCode": "47305",
+    "CommonName": "Gedrungener Blauaugen-Kärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapella intermedia",
+    "SpecCode": "47308",
+    "CommonName": "Blåøjetandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapella lacandonae",
+    "SpecCode": "66190",
+    "CommonName": "Mizola toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Priapella olmecae",
+    "SpecCode": "47309",
+    "CommonName": "Guayacón olmeca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

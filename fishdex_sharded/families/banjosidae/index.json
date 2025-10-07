@@ -1,0 +1,12 @@
+{
+  "Family": "Banjosidae",
+  "Order": "Acropomatiformes",
+  "Common": "Banjofishes",
+  "Genera": [
+    {
+      "Genus": "Banjos",
+      "SpeciesCount": 3,
+      "genus_path": "genera/banjosidae/banjos.json"
+    }
+  ]
+}

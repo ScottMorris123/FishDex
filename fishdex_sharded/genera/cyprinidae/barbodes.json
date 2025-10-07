@@ -1,0 +1,435 @@
+[
+  {
+    "ScientificName": "Barbodes amarus",
+    "SpecCode": "5183",
+    "CommonName": "Dipura",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes aurotaeniatus",
+    "SpecCode": "27129",
+    "CommonName": "Kuldtriip-puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes banksi",
+    "SpecCode": "58398",
+    "CommonName": "Bangas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes bantolanensis",
+    "SpecCode": "5186",
+    "CommonName": "Manguao puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes baoulan",
+    "SpecCode": "5340",
+    "CommonName": "Baolan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes belinka",
+    "SpecCode": "17362",
+    "CommonName": "Belingka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes binotatus",
+    "SpecCode": "5180",
+    "CommonName": "Bada putiah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes bunau",
+    "SpecCode": "63028",
+    "CommonName": "Bunaupuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes carnaticus",
+    "SpecCode": "12138",
+    "CommonName": "Carnatic carp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes cataractae",
+    "SpecCode": "9930",
+    "CommonName": "Misamise pardpuntius",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes clemensi",
+    "SpecCode": "5182",
+    "CommonName": "Bagangan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes colemani",
+    "SpecCode": "61691",
+    "CommonName": "Colemani pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes disa",
+    "SpecCode": "9932",
+    "CommonName": "Disa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes dorsimaculatus",
+    "SpecCode": "12139",
+    "CommonName": "Blackline barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes dunckeri",
+    "SpecCode": "12140",
+    "CommonName": "Bigspot barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes everetti",
+    "SpecCode": "10805",
+    "CommonName": "Berbaju",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes flavifuscus",
+    "SpecCode": "5184",
+    "CommonName": "Katapa-tapa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes hemictenus",
+    "SpecCode": "5176",
+    "CommonName": "Naujani pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes herrei",
+    "SpecCode": "9934",
+    "CommonName": "Herre`i pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes ivis",
+    "SpecCode": "67254",
+    "CommonName": "Balabaci pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes joaquinae",
+    "SpecCode": "65847",
+    "CommonName": "Joaquina pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes katolo",
+    "SpecCode": "5188",
+    "CommonName": "Katolo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes kuchingensis",
+    "SpecCode": "27446",
+    "CommonName": "Bangas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes lanaoensis",
+    "SpecCode": "5187",
+    "CommonName": "Kandar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes lindog",
+    "SpecCode": "5190",
+    "CommonName": "Lindog",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes mahakkamensis",
+    "SpecCode": "27337",
+    "CommonName": "Mahakami pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes manalak",
+    "SpecCode": "5189",
+    "CommonName": "Manalak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes manguaoensis",
+    "SpecCode": "5185",
+    "CommonName": "Manguao pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes microps",
+    "SpecCode": "25199",
+    "CommonName": "Parmička drobnooká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes montanoi",
+    "SpecCode": "5181",
+    "CommonName": "Parmička simulacká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes pachycheilus",
+    "SpecCode": "5173",
+    "CommonName": "Hlavín filipínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes palaemophagus",
+    "SpecCode": "5175",
+    "CommonName": "Bitungu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes palata",
+    "SpecCode": "5191",
+    "CommonName": "Ahaspea-pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes palavanensis",
+    "SpecCode": "67255",
+    "CommonName": "Palawani pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes polylepis",
+    "SpecCode": "59925",
+    "CommonName": "Hiina pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes quinquemaculatus",
+    "SpecCode": "67256",
+    "CommonName": "Viislaik-pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes resinus",
+    "SpecCode": "5171",
+    "CommonName": "Agus filipínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes rhombeus",
+    "SpecCode": "57700",
+    "CommonName": "Parmička čtvercová",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes semifasciolatus",
+    "SpecCode": "4677",
+    "CommonName": "Barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes sirang",
+    "SpecCode": "9933",
+    "CommonName": "Parmička filipínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes strigatus",
+    "SpecCode": "17367",
+    "CommonName": "Bongoni pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes sunieri",
+    "SpecCode": "17369",
+    "CommonName": "Parmička Sunierova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes tras",
+    "SpecCode": "5339",
+    "CommonName": "Parmička jezerní",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes truncatulus",
+    "SpecCode": "5174",
+    "CommonName": "Bitungu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes tumba",
+    "SpecCode": "5178",
+    "CommonName": "Parmička proměnlivá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes umalii",
+    "SpecCode": "65846",
+    "CommonName": "Umali pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes wynaadensis",
+    "SpecCode": "13185",
+    "CommonName": "Bili-meenu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbodes xouthos",
+    "SpecCode": "66367",
+    "CommonName": "Brunei pardpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "Family": "Anchariidae",
+  "Order": "Siluriformes",
+  "Common": "Vaonas",
+  "Genera": [
+    {
+      "Genus": "Ancharius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anchariidae/ancharius.json"
+    },
+    {
+      "Genus": "Gogo",
+      "SpeciesCount": 4,
+      "genus_path": "genera/anchariidae/gogo.json"
+    }
+  ]
+}

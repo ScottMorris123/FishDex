@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Ptychobarbus chungtienensis",
+    "SpecCode": "56254",
+    "CommonName": "Chungtien schizothoracin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychobarbus conirostris",
+    "SpecCode": "13236",
+    "CommonName": "Indus snowtrout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychobarbus dipogon",
+    "SpecCode": "54494",
+    "CommonName": "Osman tibetský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychobarbus kaznakovi",
+    "SpecCode": "54517",
+    "CommonName": "Bilobed-lip schizothoracin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

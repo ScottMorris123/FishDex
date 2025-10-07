@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Mimagoniates barberi",
+    "SpecCode": "52624",
+    "CommonName": "Blåbåndstetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimagoniates inequalis",
+    "SpecCode": "12389",
+    "CommonName": "Bredhalet tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimagoniates lateralis",
+    "SpecCode": "52681",
+    "CommonName": "Barberos Tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimagoniates microlepis",
+    "SpecCode": "53344",
+    "CommonName": "Blå tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimagoniates pulcher",
+    "SpecCode": "65085",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimagoniates rheocharis",
+    "SpecCode": "52593",
+    "CommonName": "Lambari-azul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimagoniates sylvicola",
+    "SpecCode": "52594",
+    "CommonName": "迷人長臀脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

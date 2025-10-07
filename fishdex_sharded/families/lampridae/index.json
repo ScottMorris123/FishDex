@@ -1,0 +1,12 @@
+{
+  "Family": "Lampridae",
+  "Order": "Lampriformes",
+  "Common": "Opahs",
+  "Genera": [
+    {
+      "Genus": "Lampris",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lampridae/lampris.json"
+    }
+  ]
+}

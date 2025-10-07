@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Rhinogobio cylindricus",
+    "SpecCode": "55915",
+    "CommonName": "Silinderjas nospelrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinogobio hunanensis",
+    "SpecCode": "55914",
+    "CommonName": "Hrouzek hunanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinogobio nasutus",
+    "SpecCode": "55916",
+    "CommonName": "Hrouzek nosatý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinogobio typus",
+    "SpecCode": "54978",
+    "CommonName": "Harilik nospelrünt",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinogobio ventralis",
+    "SpecCode": "55917",
+    "CommonName": "Suuruim-nospelrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

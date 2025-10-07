@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Tosanoides annepatrice",
+    "SpecCode": "69086",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tosanoides aphrodite",
+    "SpecCode": "69032",
+    "CommonName": "Aphrodite anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tosanoides filamentosus",
+    "SpecCode": "23420",
+    "CommonName": "Itohikihanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tosanoides flavofasciatus",
+    "SpecCode": "23421",
+    "CommonName": "Kishimahanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tosanoides obama",
+    "SpecCode": "68183",
+    "CommonName": "Obama anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

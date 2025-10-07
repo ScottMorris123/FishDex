@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Rathbunella alleni",
+    "SpecCode": "52850",
+    "CommonName": "Ronco pelón aletirrayada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rathbunella hypoplecta",
+    "SpecCode": "3694",
+    "CommonName": "Blubanded ronquil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

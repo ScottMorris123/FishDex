@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Latridopsis ciliaris",
+    "SpecCode": "12960",
+    "CommonName": "Blå trompeter",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Latridopsis forsteri",
+    "SpecCode": "14416",
+    "CommonName": "Bastard trompeter",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

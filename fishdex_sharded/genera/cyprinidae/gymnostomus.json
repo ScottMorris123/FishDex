@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gymnostomus ariza",
+    "SpecCode": "13168",
+    "CommonName": "Aringal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnostomus fulungee",
+    "SpecCode": "13160",
+    "CommonName": "Arja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnostomus horai",
+    "SpecCode": "55281",
+    "CommonName": "Inlé bangaan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

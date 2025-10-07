@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Urophycis brasiliensis",
+    "SpecCode": "311",
+    "CommonName": "Abrote",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urophycis chuss",
+    "SpecCode": "312",
+    "CommonName": "Abrótea vermelha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urophycis cirrata",
+    "SpecCode": "1884",
+    "CommonName": "Abrótea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urophycis earllii",
+    "SpecCode": "1885",
+    "CommonName": "Carolina hake",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urophycis floridana",
+    "SpecCode": "1882",
+    "CommonName": "Floridabrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urophycis mystacea",
+    "SpecCode": "60494",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urophycis regia",
+    "SpecCode": "1883",
+    "CommonName": "Hake",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urophycis tenuis",
+    "SpecCode": "313",
+    "CommonName": "Abrótea branca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

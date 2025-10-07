@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Crenidens crenidens",
+    "SpecCode": "7931",
+    "CommonName": "Battan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenidens indicus",
+    "SpecCode": "68299",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenidens macracanthus",
+    "SpecCode": "68300",
+    "CommonName": "Günther's karanteen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

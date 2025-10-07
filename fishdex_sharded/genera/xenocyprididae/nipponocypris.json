@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Nipponocypris koreanus",
+    "SpecCode": "62480",
+    "CommonName": "Korea idakarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nipponocypris sieboldii",
+    "SpecCode": "61903",
+    "CommonName": "Numamutsu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nipponocypris temminckii",
+    "SpecCode": "8076",
+    "CommonName": "Dark chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

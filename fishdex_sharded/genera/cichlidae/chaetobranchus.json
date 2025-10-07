@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Chaetobranchus flavescens",
+    "SpecCode": "25776",
+    "CommonName": "Acará prata",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetobranchus semifasciatus",
+    "SpecCode": "46775",
+    "CommonName": "半花鬃鰓魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

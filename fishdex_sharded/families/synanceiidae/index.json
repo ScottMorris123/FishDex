@@ -1,0 +1,52 @@
+{
+  "Family": "Synanceiidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Stonefishes",
+  "Genera": [
+    {
+      "Genus": "Choridactylus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/synanceiidae/choridactylus.json"
+    },
+    {
+      "Genus": "Dampierosa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synanceiidae/dampierosa.json"
+    },
+    {
+      "Genus": "Erosa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synanceiidae/erosa.json"
+    },
+    {
+      "Genus": "Inimicus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/synanceiidae/inimicus.json"
+    },
+    {
+      "Genus": "Leptosynanceia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synanceiidae/leptosynanceia.json"
+    },
+    {
+      "Genus": "Minous",
+      "SpeciesCount": 15,
+      "genus_path": "genera/synanceiidae/minous.json"
+    },
+    {
+      "Genus": "Pseudosynanceia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synanceiidae/pseudosynanceia.json"
+    },
+    {
+      "Genus": "Synanceia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/synanceiidae/synanceia.json"
+    },
+    {
+      "Genus": "Trachicephalus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synanceiidae/trachicephalus.json"
+    }
+  ]
+}

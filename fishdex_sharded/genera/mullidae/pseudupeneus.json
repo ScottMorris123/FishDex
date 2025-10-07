@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pseudupeneus grandisquamis",
+    "SpecCode": "3592",
+    "CommonName": "Bigscale goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudupeneus maculatus",
+    "SpecCode": "1094",
+    "CommonName": "Barbaray jaune et gris",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudupeneus prayensis",
+    "SpecCode": "453",
+    "CommonName": "Aloué",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

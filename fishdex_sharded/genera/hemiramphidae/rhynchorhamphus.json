@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Rhynchorhamphus arabicus",
+    "SpecCode": "53274",
+    "CommonName": "Arabian flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchorhamphus georgii",
+    "SpecCode": "4666",
+    "CommonName": "Azhamurrel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchorhamphus malabaricus",
+    "SpecCode": "25000",
+    "CommonName": "Agujeta malabárica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchorhamphus naga",
+    "SpecCode": "16892",
+    "CommonName": "Buging",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

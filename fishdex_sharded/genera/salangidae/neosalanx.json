@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Neosalanx anderssoni",
+    "SpecCode": "47138",
+    "CommonName": "도화뱅어",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosalanx argentea",
+    "SpecCode": "60142",
+    "CommonName": "銀色新銀魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosalanx brevirostris",
+    "SpecCode": "47136",
+    "CommonName": "短吻新銀魚",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosalanx hubbsi",
+    "SpecCode": "60404",
+    "CommonName": "실뱅어",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosalanx jordani",
+    "SpecCode": "47135",
+    "CommonName": "젓뱅어",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosalanx oligodontis",
+    "SpecCode": "60143",
+    "CommonName": "寡齒新銀魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosalanx pseudotaihuensis",
+    "SpecCode": "60144",
+    "CommonName": "近太湖新銀魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosalanx reganius",
+    "SpecCode": "10418",
+    "CommonName": "Ariakehimeshirauo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosalanx taihuensis",
+    "SpecCode": "55418",
+    "CommonName": "Yangtze icefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosalanx tangkahkeii",
+    "SpecCode": "54884",
+    "CommonName": "Chinese icefish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "ScientificName": "Carcharhinus acronotus",
+    "SpecCode": "857",
+    "CommonName": "Blacknose shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus albimarginatus",
+    "SpecCode": "858",
+    "CommonName": "'Ae nuhu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus altimus",
+    "SpecCode": "859",
+    "CommonName": "Baboso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus amblyrhynchoides",
+    "SpecCode": "860",
+    "CommonName": "Chalarm Nah-moo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus amblyrhynchos",
+    "SpecCode": "861",
+    "CommonName": "Aga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus amboinensis",
+    "SpecCode": "862",
+    "CommonName": "Ambon sharpnose puffer",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus borneensis",
+    "SpecCode": "863",
+    "CommonName": "Borneo hallhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus brachyurus",
+    "SpecCode": "864",
+    "CommonName": "Bacota",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus brevipinna",
+    "SpecCode": "865",
+    "CommonName": "Blacktipped shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus cautus",
+    "SpecCode": "866",
+    "CommonName": "Nervehaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus cerdale",
+    "SpecCode": "66939",
+    "CommonName": "Cabeza dura",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus coatesi",
+    "SpecCode": "67451",
+    "CommonName": "Coatesi hallhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus dussumieri",
+    "SpecCode": "867",
+    "CommonName": "Balda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus falciformis",
+    "SpecCode": "868",
+    "CommonName": "Bala maora",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus fitzroyensis",
+    "SpecCode": "869",
+    "CommonName": "Abaja-hallhai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus galapagensis",
+    "SpecCode": "870",
+    "CommonName": "Cação",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus hemiodon",
+    "SpecCode": "871",
+    "CommonName": "Cá Nhám",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus humani",
+    "SpecCode": "67430",
+    "CommonName": "Human's whaler shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus isodon",
+    "SpecCode": "872",
+    "CommonName": "Cação-dente-liso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus leiodon",
+    "SpecCode": "9378",
+    "CommonName": "Gladtandzwarttiphaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus leucas",
+    "SpecCode": "873",
+    "CommonName": "Blåhaj",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus limbatus",
+    "SpecCode": "874",
+    "CommonName": "Balda",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus longimanus",
+    "SpecCode": "875",
+    "CommonName": "Aileron blanc du large",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus macloti",
+    "SpecCode": "876",
+    "CommonName": "Cá Nhám mõm dài",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus macrops",
+    "SpecCode": "63792",
+    "CommonName": "Suursilm-hallhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus melanopterus",
+    "SpecCode": "877",
+    "CommonName": "Aileron noir",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus obscurus",
+    "SpecCode": "878",
+    "CommonName": "Arenero",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus obsoletus",
+    "SpecCode": "69201",
+    "CommonName": "Lost shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus perezii",
+    "SpecCode": "879",
+    "CommonName": "Cação-coralino",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus plumbeus",
+    "SpecCode": "880",
+    "CommonName": "Arenero",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus porosus",
+    "SpecCode": "881",
+    "CommonName": "Azeiteiro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus sealei",
+    "SpecCode": "882",
+    "CommonName": "Blackspot shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus signatus",
+    "SpecCode": "883",
+    "CommonName": "Cação-noturno",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus sorrah",
+    "SpecCode": "884",
+    "CommonName": "Balda",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus tilstoni",
+    "SpecCode": "15721",
+    "CommonName": "Australian blacktip shark",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharhinus tjutjot",
+    "SpecCode": "67456",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

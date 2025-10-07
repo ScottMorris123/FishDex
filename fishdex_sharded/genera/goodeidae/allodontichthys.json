@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Allodontichthys hubbsi",
+    "SpecCode": "11931",
+    "CommonName": "Bredstribet splitfinne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allodontichthys polylepis",
+    "SpecCode": "46425",
+    "CommonName": "Finescale splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allodontichthys tamazulae",
+    "SpecCode": "11932",
+    "CommonName": "Mandariinitoka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allodontichthys zonistius",
+    "SpecCode": "46426",
+    "CommonName": "Bandfin splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

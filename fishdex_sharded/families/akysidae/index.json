@@ -1,0 +1,32 @@
+{
+  "Family": "Akysidae",
+  "Order": "Siluriformes",
+  "Common": "Stream catfishes",
+  "Genera": [
+    {
+      "Genus": "Acrochordonichthys",
+      "SpeciesCount": 10,
+      "genus_path": "genera/akysidae/acrochordonichthys.json"
+    },
+    {
+      "Genus": "Akysis",
+      "SpeciesCount": 24,
+      "genus_path": "genera/akysidae/akysis.json"
+    },
+    {
+      "Genus": "Breitensteinia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/akysidae/breitensteinia.json"
+    },
+    {
+      "Genus": "Parakysis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/akysidae/parakysis.json"
+    },
+    {
+      "Genus": "Pseudobagarius",
+      "SpeciesCount": 14,
+      "genus_path": "genera/akysidae/pseudobagarius.json"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Poblana alchichica",
+    "SpecCode": "6286",
+    "CommonName": "Alchichica silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poblana ferdebueni",
+    "SpecCode": "6287",
+    "CommonName": "Charal de Almoloya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poblana letholepis",
+    "SpecCode": "6288",
+    "CommonName": "Charal de La Preciosa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poblana squamata",
+    "SpecCode": "6289",
+    "CommonName": "Charal de Quechulac",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

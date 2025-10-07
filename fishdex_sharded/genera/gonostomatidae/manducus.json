@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Manducus greyae",
+    "SpecCode": "10333",
+    "CommonName": "格雷双光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Manducus maderensis",
+    "SpecCode": "10156",
+    "CommonName": "Tsumari-yumehadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

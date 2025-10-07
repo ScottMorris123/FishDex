@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Axoclinus cocoensis",
+    "SpecCode": "46543",
+    "CommonName": "Cocos triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Axoclinus lucillae",
+    "SpecCode": "46547",
+    "CommonName": "Panama triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Axoclinus multicinctus",
+    "SpecCode": "46548",
+    "CommonName": "Mulitbarred triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Axoclinus nigricaudus",
+    "SpecCode": "46550",
+    "CommonName": "Cortez triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Axoclinus rubinoffi",
+    "SpecCode": "46602",
+    "CommonName": "Rubinoff's triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Axoclinus storeyae",
+    "SpecCode": "66099",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Decapterus akaadsi",
+    "SpecCode": "23465",
+    "CommonName": "Aka-aji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus koheru",
+    "SpecCode": "1902",
+    "CommonName": "Koheru",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus kurroides",
+    "SpecCode": "1940",
+    "CommonName": "Aka-aji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus macarellus",
+    "SpecCode": "993",
+    "CommonName": "Amia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus macrosoma",
+    "SpecCode": "1938",
+    "CommonName": "Atuleau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus maruadsi",
+    "SpecCode": "1939",
+    "CommonName": "Bā làng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus muroadsi",
+    "SpecCode": "12302",
+    "CommonName": "Amberstripe scad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus punctatus",
+    "SpecCode": "994",
+    "CommonName": "Alassan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus russelli",
+    "SpecCode": "374",
+    "CommonName": "Akamuro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus smithvanizi",
+    "SpecCode": "69454",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decapterus tabl",
+    "SpecCode": "995",
+    "CommonName": "Baleg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

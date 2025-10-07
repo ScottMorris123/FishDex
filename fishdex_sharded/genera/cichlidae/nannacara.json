@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Nannacara adoketa",
+    "SpecCode": "52354",
+    "CommonName": "Seepra-akara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nannacara anomala",
+    "SpecCode": "11180",
+    "CommonName": "Acalape",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nannacara aureocephalus",
+    "SpecCode": "47072",
+    "CommonName": "Acalape",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nannacara bimaculata",
+    "SpecCode": "47074",
+    "CommonName": "Kaksitäpläakara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nannacara quadrispinae",
+    "SpecCode": "62419",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nannacara taenia",
+    "SpecCode": "61462",
+    "CommonName": "Gebänderter Zwergbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

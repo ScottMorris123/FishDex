@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Drepane africana",
+    "SpecCode": "455",
+    "CommonName": "Aafrika hõbesõõrkala",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Drepane longimana",
+    "SpecCode": "7692",
+    "CommonName": "Aroosmahi-e-navari",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Drepane punctata",
+    "SpecCode": "454",
+    "CommonName": "Agung-agung",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

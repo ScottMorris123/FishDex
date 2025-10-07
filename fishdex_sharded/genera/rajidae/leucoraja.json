@@ -1,0 +1,147 @@
+[
+  {
+    "ScientificName": "Leucoraja caribbaea",
+    "SpecCode": "62520",
+    "CommonName": "Maya skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja circularis",
+    "SpecCode": "7614",
+    "CommonName": "Cuckoo ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja compagnoi",
+    "SpecCode": "23828",
+    "CommonName": "Compagno helerai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja elaineae",
+    "SpecCode": "69127",
+    "CommonName": "Elaine's skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja erinaceus",
+    "SpecCode": "2557",
+    "CommonName": "Igelkottsrocka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja fullonica",
+    "SpecCode": "7619",
+    "CommonName": "Akanthovatos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja garmani",
+    "SpecCode": "1253",
+    "CommonName": "Freckled skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja lentiginosa",
+    "SpecCode": "11877",
+    "CommonName": "Freckled skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja leucosticta",
+    "SpecCode": "8903",
+    "CommonName": "Appelgrauwe rog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja melitensis",
+    "SpecCode": "9260",
+    "CommonName": "Malta helerai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja naevus",
+    "SpecCode": "4326",
+    "CommonName": "Baqara Mzahrah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja ocellata",
+    "SpecCode": "2562",
+    "CommonName": "Big skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja pristispina",
+    "SpecCode": "63975",
+    "CommonName": "Saagselg-helerai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja virginica",
+    "SpecCode": "62521",
+    "CommonName": "Virginia helerai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja wallacei",
+    "SpecCode": "7964",
+    "CommonName": "Blancmange skate",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucoraja yucatanensis",
+    "SpecCode": "51861",
+    "CommonName": "Yucatan skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

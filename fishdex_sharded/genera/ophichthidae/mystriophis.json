@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Mystriophis crosnieri",
+    "SpecCode": "9091",
+    "CommonName": "Crosnieri luitsangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystriophis rostellatus",
+    "SpecCode": "9092",
+    "CommonName": "Aafrika luitsangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Acanthaphritis barbata",
+    "SpecCode": "12559",
+    "CommonName": "Barbel duckbill",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthaphritis grandisquamis",
+    "SpecCode": "59262",
+    "CommonName": "大鱗棘吻魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthaphritis ozawai",
+    "SpecCode": "59416",
+    "CommonName": "Yellowspotted duckbill",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthaphritis unoorum",
+    "SpecCode": "59263",
+    "CommonName": "昂氏棘吻魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Melanocetus eustalus",
+    "SpecCode": "60856",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocetus johnsonii",
+    "SpecCode": "2292",
+    "CommonName": "Blackdevil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocetus murrayi",
+    "SpecCode": "16882",
+    "CommonName": "Black deep-sea angler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocetus niger",
+    "SpecCode": "55134",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocetus polyactis",
+    "SpecCode": "66988",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocetus rossi",
+    "SpecCode": "7144",
+    "CommonName": "罗氏黑犀鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

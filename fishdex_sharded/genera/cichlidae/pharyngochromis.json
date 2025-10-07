@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pharyngochromis acuticeps",
+    "SpecCode": "6677",
+    "CommonName": "Zambesi-kurper",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pharyngochromis darlingi",
+    "SpecCode": "5365",
+    "CommonName": "Tshilamba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

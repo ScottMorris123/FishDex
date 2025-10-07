@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Kumba calvifrons",
+    "SpecCode": "27168",
+    "CommonName": "裸額舟尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kumba dentoni",
+    "SpecCode": "27169",
+    "CommonName": "登氏舟尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kumba gymnorhynchus",
+    "SpecCode": "27170",
+    "CommonName": "裸吻舟尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kumba hebetata",
+    "SpecCode": "16823",
+    "CommonName": "鈍頭舟尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kumba japonica",
+    "SpecCode": "23187",
+    "CommonName": "Kagami-hige",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kumba maculisquama",
+    "SpecCode": "27171",
+    "CommonName": "斑鱗舟尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kumba musorstom",
+    "SpecCode": "58851",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kumba punctulata",
+    "SpecCode": "27172",
+    "CommonName": "点斑舟尾鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

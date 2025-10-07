@@ -1,0 +1,51 @@
+[
+  {
+    "ScientificName": "Lycengraulis batesii",
+    "SpecCode": "551",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycengraulis figueiredoi",
+    "SpecCode": "67371",
+    "CommonName": "Figueiredo jõeanšoovis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycengraulis grossidens",
+    "SpecCode": "552",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycengraulis limnichthys",
+    "SpecCode": "61556",
+    "CommonName": "Venetsueela jõeanšoovis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycengraulis poeyi",
+    "SpecCode": "553",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

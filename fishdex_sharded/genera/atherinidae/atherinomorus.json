@@ -1,0 +1,89 @@
+[
+  {
+    "ScientificName": "Atherinomorus endrachtensis",
+    "SpecCode": "5228",
+    "CommonName": "Babalombah silah",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinomorus forskalii",
+    "SpecCode": "66821",
+    "CommonName": "Bizhreh Kbyreh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinomorus insularum",
+    "SpecCode": "15025",
+    "CommonName": "Gingyo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinomorus lacunosus",
+    "SpecCode": "1303",
+    "CommonName": "Abou zoubara",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinomorus lineatus",
+    "SpecCode": "15087",
+    "CommonName": "Gono",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinomorus pinguis",
+    "SpecCode": "66824",
+    "CommonName": "Hosoobi-yakushima-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinomorus regina",
+    "SpecCode": "15106",
+    "CommonName": "Culion silverside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinomorus stipes",
+    "SpecCode": "3234",
+    "CommonName": "Athérine tête-dure",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinomorus vaigiensis",
+    "SpecCode": "61247",
+    "CommonName": "Common hardyhead",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

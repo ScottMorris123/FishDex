@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Atractosteus spatula",
+    "SpecCode": "1073",
+    "CommonName": "Alligator gar",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atractosteus tristoechus",
+    "SpecCode": "1074",
+    "CommonName": "Alligatorhecht",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atractosteus tropicus",
+    "SpecCode": "7326",
+    "CommonName": "Catán",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

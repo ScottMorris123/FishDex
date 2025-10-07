@@ -1,0 +1,246 @@
+[
+  {
+    "ScientificName": "Cynoscion acoupa",
+    "SpecCode": "1169",
+    "CommonName": "Acoupa toeroe",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion albus",
+    "SpecCode": "14024",
+    "CommonName": "Acoupa reine",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion analis",
+    "SpecCode": "403",
+    "CommonName": "Acoupa du pérou",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion arenarius",
+    "SpecCode": "1170",
+    "CommonName": "Acoupa de sable",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion guatucupa",
+    "SpecCode": "52918",
+    "CommonName": "Corvinata listada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion jamaicensis",
+    "SpecCode": "1171",
+    "CommonName": "Acoupa mongolare",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion leiarchus",
+    "SpecCode": "1173",
+    "CommonName": "Acoupa blanc",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion microlepidotus",
+    "SpecCode": "1174",
+    "CommonName": "Acoupa doré",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion nannus",
+    "SpecCode": "14027",
+    "CommonName": "Acoupa nain",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion nebulosus",
+    "SpecCode": "405",
+    "CommonName": "Acoupa pintade",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion nortoni",
+    "SpecCode": "59829",
+    "CommonName": "corvina de altura",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion nothus",
+    "SpecCode": "1175",
+    "CommonName": "Acoupa argenté",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion othonopterus",
+    "SpecCode": "14026",
+    "CommonName": "Acoupa du golfe",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion parvipinnis",
+    "SpecCode": "3581",
+    "CommonName": "Acoupa magdalène",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion phoxocephalus",
+    "SpecCode": "11001",
+    "CommonName": "Acoupa cachème",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion praedatorius",
+    "SpecCode": "14028",
+    "CommonName": "Acoupa à grande gueule",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion regalis",
+    "SpecCode": "406",
+    "CommonName": "Acoupa royal",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion reticulatus",
+    "SpecCode": "14030",
+    "CommonName": "Acoupa rayée",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion similis",
+    "SpecCode": "1176",
+    "CommonName": "Acoupa tonquiche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion squamipinnis",
+    "SpecCode": "14110",
+    "CommonName": "Acoupa écailleuse",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion steindachneri",
+    "SpecCode": "1177",
+    "CommonName": "Acoupa tident",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion stolzmanni",
+    "SpecCode": "11002",
+    "CommonName": "Acoupa de Stolzman",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion striatus",
+    "SpecCode": "407",
+    "CommonName": "Acoupa rayé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion virescens",
+    "SpecCode": "1178",
+    "CommonName": "Acoupa cambucu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoscion xanthulus",
+    "SpecCode": "3582",
+    "CommonName": "Acoupa à gueule jaune",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

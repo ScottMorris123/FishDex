@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Cololabis adoceta",
+    "SpecCode": "12967",
+    "CommonName": "Brincador",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cololabis saira",
+    "SpecCode": "303",
+    "CommonName": "Agulhao-do-Japao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Nemateleotris decora",
+    "SpecCode": "6616",
+    "CommonName": "Akebonohaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemateleotris helfrichi",
+    "SpecCode": "12750",
+    "CommonName": "Helfrichs' dartfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemateleotris lavandula",
+    "SpecCode": "70089",
+    "CommonName": "Lavender-blushed dartfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemateleotris magnifica",
+    "SpecCode": "6629",
+    "CommonName": "Almindelig ildhalekutling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

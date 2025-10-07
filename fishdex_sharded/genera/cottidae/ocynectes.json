@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ocynectes maschalis",
+    "SpecCode": "23975",
+    "CommonName": "Idaten-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ocynectes modestus",
+    "SpecCode": "23976",
+    "CommonName": "Mutsu-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

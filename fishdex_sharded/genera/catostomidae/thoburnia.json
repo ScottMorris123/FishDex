@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Thoburnia atripinnis",
+    "SpecCode": "2999",
+    "CommonName": "Blackfin sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thoburnia hamiltoni",
+    "SpecCode": "3005",
+    "CommonName": "Pakaprovec Hamiltonův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thoburnia rhothoeca",
+    "SpecCode": "3011",
+    "CommonName": "Pakaprovec potoční",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

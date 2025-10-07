@@ -1,0 +1,32 @@
+{
+  "Family": "Scopelarchidae",
+  "Order": "Aulopiformes",
+  "Common": "Pearleyes",
+  "Genera": [
+    {
+      "Genus": "Benthalbella",
+      "SpeciesCount": 4,
+      "genus_path": "genera/scopelarchidae/benthalbella.json"
+    },
+    {
+      "Genus": "Lagiacrusichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scopelarchidae/lagiacrusichthys.json"
+    },
+    {
+      "Genus": "Rosenblattichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/scopelarchidae/rosenblattichthys.json"
+    },
+    {
+      "Genus": "Scopelarchoides",
+      "SpeciesCount": 5,
+      "genus_path": "genera/scopelarchidae/scopelarchoides.json"
+    },
+    {
+      "Genus": "Scopelarchus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/scopelarchidae/scopelarchus.json"
+    }
+  ]
+}

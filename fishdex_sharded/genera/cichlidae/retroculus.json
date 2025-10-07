@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Retroculus lapidifer",
+    "SpecCode": "47077",
+    "CommonName": "Ajunta pedra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Retroculus septentrionalis",
+    "SpecCode": "47078",
+    "CommonName": "Akalayouloupoko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Retroculus xinguensis",
+    "SpecCode": "47079",
+    "CommonName": "Viherkoskitonkija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Parkraemeria ornata",
+    "SpecCode": "23679",
+    "CommonName": "擬沙鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parkraemeria rhinoceros",
+    "SpecCode": "67836",
+    "CommonName": "Tengu-ginpo-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parkraemeria saltator",
+    "SpecCode": "67834",
+    "CommonName": "Ginpohaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

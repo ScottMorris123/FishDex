@@ -1,0 +1,116 @@
+[
+  {
+    "ScientificName": "Himantura alcockii",
+    "SpecCode": "12588",
+    "CommonName": "Bleekgevlekte pijlstaartrog",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura australis",
+    "SpecCode": "68037",
+    "CommonName": "Australian whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura fava",
+    "SpecCode": "63625",
+    "CommonName": "honeycomb whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura fluviatilis",
+    "SpecCode": "13149",
+    "CommonName": "Ganges stingray",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura krempfi",
+    "SpecCode": "27028",
+    "CommonName": "Gemarmerde zoetwaterpijlstaartrog",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura leoparda",
+    "SpecCode": "64147",
+    "CommonName": "Jaaguar-nuutrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura marginata",
+    "SpecCode": "13151",
+    "CommonName": "Black-edge whip ray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura microphthalma",
+    "SpecCode": "54628",
+    "CommonName": "Kleinoogpijlstaartrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura pareh",
+    "SpecCode": "57389",
+    "CommonName": "Indoneesia nuutrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura tutul",
+    "SpecCode": "67649",
+    "CommonName": "Fine-spotted leopard whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura uarnak",
+    "SpecCode": "5507",
+    "CommonName": "Banded whiptail stingray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantura undulata",
+    "SpecCode": "12584",
+    "CommonName": "Fafalua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

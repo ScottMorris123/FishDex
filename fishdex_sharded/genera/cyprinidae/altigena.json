@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Altigena discognathoides",
+    "SpecCode": "54954",
+    "CommonName": "Labeo kruhočelisté",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altigena elegans",
+    "SpecCode": "50345",
+    "CommonName": "Bangana ozdobná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altigena lippa",
+    "SpecCode": "23985",
+    "CommonName": "Bangana červenooká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altigena malihkaia",
+    "SpecCode": "70430",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altigena sinkleri",
+    "SpecCode": "54683",
+    "CommonName": "Bangana Sinklerova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altigena tonkinensis",
+    "SpecCode": "60237",
+    "CommonName": "Cá Hoả",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altigena wui",
+    "SpecCode": "60239",
+    "CommonName": "Wu bangaan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altigena yunnanensis",
+    "SpecCode": "56299",
+    "CommonName": "Labeo junanské",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altigena zhui",
+    "SpecCode": "59916",
+    "CommonName": "Zhu bangaan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

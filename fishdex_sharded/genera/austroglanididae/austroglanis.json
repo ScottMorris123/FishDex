@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Austroglanis barnardi",
+    "SpecCode": "6188",
+    "CommonName": "Barnard se klipbaber",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austroglanis gilli",
+    "SpecCode": "6189",
+    "CommonName": "Clanwilliam catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austroglanis sclateri",
+    "SpecCode": "6190",
+    "CommonName": "Buurimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

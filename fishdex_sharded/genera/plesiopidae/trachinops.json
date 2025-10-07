@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Trachinops brauni",
+    "SpecCode": "14987",
+    "CommonName": "Bluelined hulafish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinops caudimaculatus",
+    "SpecCode": "14989",
+    "CommonName": "Blotched-tailed trachinops",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinops noarlungae",
+    "SpecCode": "14992",
+    "CommonName": "Noarlunga hulafish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinops taeniatus",
+    "SpecCode": "14994",
+    "CommonName": "Eastern hulafish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

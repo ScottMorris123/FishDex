@@ -1,0 +1,12 @@
+{
+  "Family": "Leptochariidae",
+  "Order": "Carcharhiniformes",
+  "Common": "Barbeled houndsharks",
+  "Genera": [
+    {
+      "Genus": "Leptocharias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/leptochariidae/leptocharias.json"
+    }
+  ]
+}

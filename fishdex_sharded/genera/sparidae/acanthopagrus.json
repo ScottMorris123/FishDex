@@ -1,0 +1,199 @@
+[
+  {
+    "ScientificName": "Acanthopagrus akazakii",
+    "SpecCode": "63150",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus arabicus",
+    "SpecCode": "67314",
+    "CommonName": "Arabian yellowfin seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus australis",
+    "SpecCode": "8109",
+    "CommonName": "Australian sea bream",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus berda",
+    "SpecCode": "5526",
+    "CommonName": "Ambatsindriaka",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus bifasciatus",
+    "SpecCode": "4543",
+    "CommonName": "Bint al nakhodha",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus butcheri",
+    "SpecCode": "14601",
+    "CommonName": "Black bream",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus catenula",
+    "SpecCode": "67289",
+    "CommonName": "Bridled seabream",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus chinshira",
+    "SpecCode": "63767",
+    "CommonName": "Okinawa-kichinu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus datnia",
+    "SpecCode": "67331",
+    "CommonName": "Bengal yellowfin seabream",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus latus",
+    "SpecCode": "6356",
+    "CommonName": "Atavara",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus morrisonae",
+    "SpecCode": "67330",
+    "CommonName": "Western yellowfin seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus omanensis",
+    "SpecCode": "65370",
+    "CommonName": "Black Margined Seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus pacificus",
+    "SpecCode": "65896",
+    "CommonName": "Bakoko",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus palmaris",
+    "SpecCode": "8110",
+    "CommonName": "Hump-headed bream",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus randalli",
+    "SpecCode": "65100",
+    "CommonName": "Middle East Black Seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus schlegelii",
+    "SpecCode": "6531",
+    "CommonName": "Black porgy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus sheim",
+    "SpecCode": "67333",
+    "CommonName": "Spotted yellowfin seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus sivicolus",
+    "SpecCode": "6583",
+    "CommonName": "Minami-kurodai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus taiwanensis",
+    "SpecCode": "63153",
+    "CommonName": "Taiwan picnic seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopagrus vagus",
+    "SpecCode": "65558",
+    "CommonName": "Wandering seabream",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

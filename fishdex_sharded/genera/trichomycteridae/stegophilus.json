@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Stegophilus insidiosus",
+    "SpecCode": "48759",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stegophilus panzeri",
+    "SpecCode": "48762",
+    "CommonName": "潘氏喜盖鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stegophilus septentrionalis",
+    "SpecCode": "48765",
+    "CommonName": "北方喜盖鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

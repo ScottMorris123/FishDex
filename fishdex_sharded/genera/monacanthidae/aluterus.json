@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Aluterus heudelotii",
+    "SpecCode": "4273",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aluterus monoceros",
+    "SpecCode": "4274",
+    "CommonName": "Ampapaquet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aluterus schoepfii",
+    "SpecCode": "1081",
+    "CommonName": "Alutera pomaranczowa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aluterus scriptus",
+    "SpecCode": "4275",
+    "CommonName": "Alutera pisana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

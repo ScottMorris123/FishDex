@@ -1,0 +1,272 @@
+[
+  {
+    "ScientificName": "Farlowella acus",
+    "SpecCode": "11280",
+    "CommonName": "Aguja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella altocorpus",
+    "SpecCode": "63504",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella amazonum",
+    "SpecCode": "50538",
+    "CommonName": "Acarí espada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella colombiensis",
+    "SpecCode": "53514",
+    "CommonName": "Kolumbiannokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella curtirostra",
+    "SpecCode": "49356",
+    "CommonName": "Aguja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella gianetii",
+    "SpecCode": "69975",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella gracilis",
+    "SpecCode": "50539",
+    "CommonName": "Kleiner Nadelwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella hahni",
+    "SpecCode": "50542",
+    "CommonName": "vieja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella hasemani",
+    "SpecCode": "50544",
+    "CommonName": "黑斯曼管吻鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella henriquei",
+    "SpecCode": "50545",
+    "CommonName": "Verkkonokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella isbruckeri",
+    "SpecCode": "53511",
+    "CommonName": "Koveranokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella jauruensis",
+    "SpecCode": "50547",
+    "CommonName": "巴西管吻鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella knerii",
+    "SpecCode": "50548",
+    "CommonName": "Kners Schnabelwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella mariaelenae",
+    "SpecCode": "50550",
+    "CommonName": "Aguja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella martini",
+    "SpecCode": "50551",
+    "CommonName": "Lyhytnokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella mitoupibo",
+    "SpecCode": "70003",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella nattereri",
+    "SpecCode": "48329",
+    "CommonName": "Hoikkanokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella odontotumulus",
+    "SpecCode": "53510",
+    "CommonName": "Kaitanokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella oxyrryncha",
+    "SpecCode": "50541",
+    "CommonName": "Leveänokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella paraguayensis",
+    "SpecCode": "53512",
+    "CommonName": "Levynokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella platorynchus",
+    "SpecCode": "53513",
+    "CommonName": "Kiilanokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella reticulata",
+    "SpecCode": "48332",
+    "CommonName": "Goret",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella rugosa",
+    "SpecCode": "48331",
+    "CommonName": "Goré-zégwi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella schreitmuelleri",
+    "SpecCode": "50549",
+    "CommonName": "Tummanokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella smithi",
+    "SpecCode": "50554",
+    "CommonName": "Pikkunokkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella taphorni",
+    "SpecCode": "53507",
+    "CommonName": "塔氏管吻鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella venezuelensis",
+    "SpecCode": "50555",
+    "CommonName": "Aguja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella vittata",
+    "SpecCode": "50537",
+    "CommonName": "Aguja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella wuyjugu",
+    "SpecCode": "70057",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Farlowella yarigui",
+    "SpecCode": "67586",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

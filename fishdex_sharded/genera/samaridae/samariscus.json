@@ -1,0 +1,182 @@
+[
+  {
+    "ScientificName": "Samariscus asanoi",
+    "SpecCode": "59667",
+    "CommonName": "阿氏沙鰈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus corallinus",
+    "SpecCode": "61108",
+    "CommonName": "Coralline-red flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus desoutterae",
+    "SpecCode": "56824",
+    "CommonName": "德苏沙鲽",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus filipectoralis",
+    "SpecCode": "59668",
+    "CommonName": "丝鳍沙鲽",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus hexaradiatus",
+    "SpecCode": "69382",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus huysmani",
+    "SpecCode": "10583",
+    "CommonName": "Huysman's flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus inornatus",
+    "SpecCode": "56090",
+    "CommonName": "无斑沙鲽",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus japonicus",
+    "SpecCode": "24240",
+    "CommonName": "Crescent sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus latus",
+    "SpecCode": "15185",
+    "CommonName": "Deep-body righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus leopardus",
+    "SpecCode": "65646",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus longimanus",
+    "SpecCode": "23893",
+    "CommonName": "Flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus luzonensis",
+    "SpecCode": "15186",
+    "CommonName": "Luzon righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus macrognathus",
+    "SpecCode": "15189",
+    "CommonName": "Large-mouth righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus maculatus",
+    "SpecCode": "15190",
+    "CommonName": "Spotted righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus multiradiatus",
+    "SpecCode": "63682",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus neocaledonia",
+    "SpecCode": "66377",
+    "CommonName": "New Caledonian righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus nielseni",
+    "SpecCode": "15191",
+    "CommonName": "Nielsen's righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus sunieri",
+    "SpecCode": "15192",
+    "CommonName": "Sunier's righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus triocellatus",
+    "SpecCode": "8568",
+    "CommonName": "Ali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samariscus xenicus",
+    "SpecCode": "24241",
+    "CommonName": "Ko-tsukinowagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

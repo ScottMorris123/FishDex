@@ -1,0 +1,22 @@
+{
+  "Family": "Lamnidae",
+  "Order": "Lamniformes",
+  "Common": "Mackerel sharks or white shark",
+  "Genera": [
+    {
+      "Genus": "Carcharodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lamnidae/carcharodon.json"
+    },
+    {
+      "Genus": "Isurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lamnidae/isurus.json"
+    },
+    {
+      "Genus": "Lamna",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lamnidae/lamna.json"
+    }
+  ]
+}

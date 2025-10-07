@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Scomberoides commersonnianus",
+    "SpecCode": "1950",
+    "CommonName": "Bashkel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberoides lysan",
+    "SpecCode": "1951",
+    "CommonName": "Alarano",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberoides tala",
+    "SpecCode": "1952",
+    "CommonName": "Båndplettet dronningfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberoides tol",
+    "SpecCode": "1953",
+    "CommonName": "Bashkel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

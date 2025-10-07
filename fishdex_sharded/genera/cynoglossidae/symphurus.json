@@ -1,0 +1,802 @@
+[
+  {
+    "ScientificName": "Symphurus arabicus",
+    "SpecCode": "69698",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus arawak",
+    "SpecCode": "4261",
+    "CommonName": "Caribbean tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus atramentatus",
+    "SpecCode": "13632",
+    "CommonName": "Halfspotted tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus atricauda",
+    "SpecCode": "4262",
+    "CommonName": "California tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus australis",
+    "SpecCode": "59529",
+    "CommonName": "Deepwater tongue sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus bathyspilus",
+    "SpecCode": "61637",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus billykrietei",
+    "SpecCode": "47250",
+    "CommonName": "Chocolatebanded tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus brachycephalus",
+    "SpecCode": "69657",
+    "CommonName": "Short-headed tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus callopterus",
+    "SpecCode": "13636",
+    "CommonName": "Chocolate tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus caribbeanus",
+    "SpecCode": "24610",
+    "CommonName": "加勒比无线鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus chabanaudi",
+    "SpecCode": "13637",
+    "CommonName": "Chabanaud's tonguefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus civitatum",
+    "SpecCode": "4263",
+    "CommonName": "Lengua gatita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus diabolicus",
+    "SpecCode": "13640",
+    "CommonName": "Devil's tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus diomedeanus",
+    "SpecCode": "1018",
+    "CommonName": "Langue fil noir",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus elongatus",
+    "SpecCode": "24626",
+    "CommonName": "Elongate tonguefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus fallax",
+    "SpecCode": "69700",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus fasciolaris",
+    "SpecCode": "13643",
+    "CommonName": "Banded tonguefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus fuscus",
+    "SpecCode": "61502",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus gilesii",
+    "SpecCode": "24260",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus ginsburgi",
+    "SpecCode": "47489",
+    "CommonName": "Ginsburg's tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus gorgonae",
+    "SpecCode": "13644",
+    "CommonName": "Dwarf tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus hernandezi",
+    "SpecCode": "69680",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus holothuriae",
+    "SpecCode": "69664",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus hondoensis",
+    "SpecCode": "59528",
+    "CommonName": "Hondo-ushinoshita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus hongae",
+    "SpecCode": "69658",
+    "CommonName": "Hong's tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus insularis",
+    "SpecCode": "57291",
+    "CommonName": "Plagusie insulaire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus jenynsi",
+    "SpecCode": "47630",
+    "CommonName": "Jenyn's tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus kyaropterygium",
+    "SpecCode": "47514",
+    "CommonName": "Língua-de-mulata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus leeorum",
+    "SpecCode": "13645",
+    "CommonName": "Blacktail tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus leptosomus",
+    "SpecCode": "69659",
+    "CommonName": "Slender tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus leucochilus",
+    "SpecCode": "68264",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus ligulatus",
+    "SpecCode": "8870",
+    "CommonName": "Aflang hundetunge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus longirostris",
+    "SpecCode": "69656",
+    "CommonName": "Hashinaga-Azumagare",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus lubbocki",
+    "SpecCode": "57296",
+    "CommonName": "伦氏无线鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus luzonensis",
+    "SpecCode": "58960",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus macrophthalmus",
+    "SpecCode": "61503",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus maculopinnis",
+    "SpecCode": "66306",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus maldivensis",
+    "SpecCode": "59537",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus marginatus",
+    "SpecCode": "47499",
+    "CommonName": "Língua-de-mulata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus marmoratus",
+    "SpecCode": "17371",
+    "CommonName": "Dadali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus megasomus",
+    "SpecCode": "65217",
+    "CommonName": "Giant tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus melanurus",
+    "SpecCode": "13646",
+    "CommonName": "Drab tonguefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus melasmatotheca",
+    "SpecCode": "13647",
+    "CommonName": "Blackstripe tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus microlepis",
+    "SpecCode": "13648",
+    "CommonName": "Langue mutilée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus microrhynchus",
+    "SpecCode": "47916",
+    "CommonName": "小吻无线鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus minor",
+    "SpecCode": "4264",
+    "CommonName": "Largescale tonguefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus monostigmus",
+    "SpecCode": "63020",
+    "CommonName": "Spotbelly tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus multimaculatus",
+    "SpecCode": "65070",
+    "CommonName": "Pepperdot Tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus nebulosus",
+    "SpecCode": "4265",
+    "CommonName": "Freckled tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus nigrescens",
+    "SpecCode": "1768",
+    "CommonName": "Dark Tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus normani",
+    "SpecCode": "8873",
+    "CommonName": "Norman's tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus novemfasciatus",
+    "SpecCode": "56093",
+    "CommonName": "九带无线鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus ocellaris",
+    "SpecCode": "63846",
+    "CommonName": "Ringtail tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus ocellatus",
+    "SpecCode": "7687",
+    "CommonName": "Double-spot tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus oculellus",
+    "SpecCode": "24607",
+    "CommonName": "小眼无线鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus oligomerus",
+    "SpecCode": "13649",
+    "CommonName": "Hojita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus ommaspilus",
+    "SpecCode": "16432",
+    "CommonName": "Ocellated tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus orientalis",
+    "SpecCode": "24248",
+    "CommonName": "Azumagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus oxyrhynchus",
+    "SpecCode": "69886",
+    "CommonName": "Sharpnose tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus parvus",
+    "SpecCode": "4266",
+    "CommonName": "Lengua pigmea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus pelicanus",
+    "SpecCode": "4267",
+    "CommonName": "Langhalet hundetunge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus piger",
+    "SpecCode": "4268",
+    "CommonName": "Deepwater Tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus plagiusa",
+    "SpecCode": "1019",
+    "CommonName": "Blackcheek tonguefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus plagusia",
+    "SpecCode": "7532",
+    "CommonName": "Drab tonguefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus polylepis",
+    "SpecCode": "69660",
+    "CommonName": "Small-scale tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus prolatinaris",
+    "SpecCode": "13650",
+    "CommonName": "Halfstriped tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus pusillus",
+    "SpecCode": "4269",
+    "CommonName": "Northern tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus regani",
+    "SpecCode": "24369",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus reticulatus",
+    "SpecCode": "57292",
+    "CommonName": "網紋無線鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus rhytisma",
+    "SpecCode": "16431",
+    "CommonName": "Língua-de-mulata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus robustus",
+    "SpecCode": "69661",
+    "CommonName": "Robust tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus sayademalhensis",
+    "SpecCode": "69699",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus schultzi",
+    "SpecCode": "58961",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus septemstriatus",
+    "SpecCode": "23886",
+    "CommonName": "Sevenband tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus stigmosus",
+    "SpecCode": "47251",
+    "CommonName": "Blotchfin tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus strictus",
+    "SpecCode": "7688",
+    "CommonName": "Blackbelly tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus tessellatus",
+    "SpecCode": "24603",
+    "CommonName": "Lengua de vaca",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus thermophilus",
+    "SpecCode": "64628",
+    "CommonName": "Western Pacific tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus trewavasae",
+    "SpecCode": "47510",
+    "CommonName": "Língua-de-mulata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus trifasciatus",
+    "SpecCode": "24405",
+    "CommonName": "Threeband tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus undatus",
+    "SpecCode": "58962",
+    "CommonName": "波紋無線鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus undecimplerus",
+    "SpecCode": "13651",
+    "CommonName": "Dark cheek tongue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus urospilus",
+    "SpecCode": "4270",
+    "CommonName": "Lengua colipunteada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus vanmelleae",
+    "SpecCode": "59536",
+    "CommonName": "Pelada de Vanmelle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus variegatus",
+    "SpecCode": "8922",
+    "CommonName": "杂斑无线鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus varius",
+    "SpecCode": "13654",
+    "CommonName": "Langue mouchetée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus williamsi",
+    "SpecCode": "13655",
+    "CommonName": "Langue de Williams",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symphurus woodmasoni",
+    "SpecCode": "24746",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

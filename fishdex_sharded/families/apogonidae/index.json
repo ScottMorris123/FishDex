@@ -1,0 +1,207 @@
+{
+  "Family": "Apogonidae",
+  "Order": "Kurtiformes",
+  "Common": "Cardinalfishes",
+  "Genera": [
+    {
+      "Genus": "Amioides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/amioides.json"
+    },
+    {
+      "Genus": "Apogon",
+      "SpeciesCount": 54,
+      "genus_path": "genera/apogonidae/apogon.json"
+    },
+    {
+      "Genus": "Apogonichthyoides",
+      "SpeciesCount": 23,
+      "genus_path": "genera/apogonidae/apogonichthyoides.json"
+    },
+    {
+      "Genus": "Apogonichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/apogonidae/apogonichthys.json"
+    },
+    {
+      "Genus": "Archamia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/archamia.json"
+    },
+    {
+      "Genus": "Astrapogon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/apogonidae/astrapogon.json"
+    },
+    {
+      "Genus": "Cercamia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/apogonidae/cercamia.json"
+    },
+    {
+      "Genus": "Cheilodipterus",
+      "SpeciesCount": 17,
+      "genus_path": "genera/apogonidae/cheilodipterus.json"
+    },
+    {
+      "Genus": "Fibramia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/apogonidae/fibramia.json"
+    },
+    {
+      "Genus": "Foa",
+      "SpeciesCount": 8,
+      "genus_path": "genera/apogonidae/foa.json"
+    },
+    {
+      "Genus": "Fowleria",
+      "SpeciesCount": 8,
+      "genus_path": "genera/apogonidae/fowleria.json"
+    },
+    {
+      "Genus": "Glossamia",
+      "SpeciesCount": 11,
+      "genus_path": "genera/apogonidae/glossamia.json"
+    },
+    {
+      "Genus": "Gymnapogon",
+      "SpeciesCount": 10,
+      "genus_path": "genera/apogonidae/gymnapogon.json"
+    },
+    {
+      "Genus": "Holapogon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/holapogon.json"
+    },
+    {
+      "Genus": "Jaydia",
+      "SpeciesCount": 19,
+      "genus_path": "genera/apogonidae/jaydia.json"
+    },
+    {
+      "Genus": "Lachneratus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/lachneratus.json"
+    },
+    {
+      "Genus": "Lepidamia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/apogonidae/lepidamia.json"
+    },
+    {
+      "Genus": "Neamia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/apogonidae/neamia.json"
+    },
+    {
+      "Genus": "Nectamia",
+      "SpeciesCount": 9,
+      "genus_path": "genera/apogonidae/nectamia.json"
+    },
+    {
+      "Genus": "Ostorhinchus",
+      "SpeciesCount": 90,
+      "genus_path": "genera/apogonidae/ostorhinchus.json"
+    },
+    {
+      "Genus": "Ozichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/ozichthys.json"
+    },
+    {
+      "Genus": "Paroncheilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/paroncheilus.json"
+    },
+    {
+      "Genus": "Paxton",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/paxton.json"
+    },
+    {
+      "Genus": "Phaeoptyx",
+      "SpeciesCount": 3,
+      "genus_path": "genera/apogonidae/phaeoptyx.json"
+    },
+    {
+      "Genus": "Pristiapogon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/apogonidae/pristiapogon.json"
+    },
+    {
+      "Genus": "Pristicon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/apogonidae/pristicon.json"
+    },
+    {
+      "Genus": "Pseudamia",
+      "SpeciesCount": 7,
+      "genus_path": "genera/apogonidae/pseudamia.json"
+    },
+    {
+      "Genus": "Pseudamiops",
+      "SpeciesCount": 5,
+      "genus_path": "genera/apogonidae/pseudamiops.json"
+    },
+    {
+      "Genus": "Pterapogon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/pterapogon.json"
+    },
+    {
+      "Genus": "Quinca",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/quinca.json"
+    },
+    {
+      "Genus": "Rhabdamia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/apogonidae/rhabdamia.json"
+    },
+    {
+      "Genus": "Siphamia",
+      "SpeciesCount": 25,
+      "genus_path": "genera/apogonidae/siphamia.json"
+    },
+    {
+      "Genus": "Sphaeramia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/apogonidae/sphaeramia.json"
+    },
+    {
+      "Genus": "Taeniamia",
+      "SpeciesCount": 14,
+      "genus_path": "genera/apogonidae/taeniamia.json"
+    },
+    {
+      "Genus": "Verulux",
+      "SpeciesCount": 2,
+      "genus_path": "genera/apogonidae/verulux.json"
+    },
+    {
+      "Genus": "Vincentia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/apogonidae/vincentia.json"
+    },
+    {
+      "Genus": "Xeniamia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/xeniamia.json"
+    },
+    {
+      "Genus": "Yarica",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apogonidae/yarica.json"
+    },
+    {
+      "Genus": "Zapogon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/apogonidae/zapogon.json"
+    },
+    {
+      "Genus": "Zoramia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/apogonidae/zoramia.json"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Gadus chalcogrammus",
+    "SpecCode": "318",
+    "CommonName": "Abadejo de alasca",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadus finnmarchicus",
+    "SpecCode": "1881",
+    "CommonName": "Atlandi mintai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadus macrocephalus",
+    "SpecCode": "308",
+    "CommonName": "Alaska cod",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadus morhua",
+    "SpecCode": "69",
+    "CommonName": "Albondiga de pescado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "ScientificName": "Scomberomorus brasiliensis",
+    "SpecCode": "119",
+    "CommonName": "Atlantic sierra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus cavalla",
+    "SpecCode": "120",
+    "CommonName": "Atlantisk kongemakrel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus commerson",
+    "SpecCode": "121",
+    "CommonName": " వరిమెన్",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus concolor",
+    "SpecCode": "122",
+    "CommonName": "Carite de Monterey",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus guttatus",
+    "SpecCode": "123",
+    "CommonName": "Ajong ajong",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus koreanus",
+    "SpecCode": "124",
+    "CommonName": "Avstralijskaya korolevskaya makrel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus lineolatus",
+    "SpecCode": "125",
+    "CommonName": "Alu thora",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus maculatus",
+    "SpecCode": "126",
+    "CommonName": "Atlantic spanish mackerel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus multiradiatus",
+    "SpecCode": "128",
+    "CommonName": "Carite papuense",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus munroi",
+    "SpecCode": "129",
+    "CommonName": "Austraalia kuningmakrell",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus niphonius",
+    "SpecCode": "131",
+    "CommonName": "Bà yú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus plurilineatus",
+    "SpecCode": "132",
+    "CommonName": "Carite canadi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus queenslandicus",
+    "SpecCode": "133",
+    "CommonName": "Blotched mackerel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus regalis",
+    "SpecCode": "134",
+    "CommonName": "Alasana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus semifasciatus",
+    "SpecCode": "135",
+    "CommonName": "Broadbanded mackerel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus sierra",
+    "SpecCode": "136",
+    "CommonName": "Carite sierra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus sinensis",
+    "SpecCode": "137",
+    "CommonName": "Cá thu song",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scomberomorus tritor",
+    "SpecCode": "141",
+    "CommonName": "Adzuda",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

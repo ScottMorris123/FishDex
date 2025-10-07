@@ -1,0 +1,17 @@
+{
+  "Family": "Channidae",
+  "Order": "Anabantiformes",
+  "Common": "Snakeheads",
+  "Genera": [
+    {
+      "Genus": "Channa",
+      "SpeciesCount": 46,
+      "genus_path": "genera/channidae/channa.json"
+    },
+    {
+      "Genus": "Parachanna",
+      "SpeciesCount": 3,
+      "genus_path": "genera/channidae/parachanna.json"
+    }
+  ]
+}

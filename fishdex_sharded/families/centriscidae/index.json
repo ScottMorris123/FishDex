@@ -1,0 +1,32 @@
+{
+  "Family": "Centriscidae",
+  "Order": "Syngnathiformes",
+  "Common": "Snipefishes and shrimpfishes",
+  "Genera": [
+    {
+      "Genus": "Aeoliscus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/centriscidae/aeoliscus.json"
+    },
+    {
+      "Genus": "Centriscops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/centriscidae/centriscops.json"
+    },
+    {
+      "Genus": "Centriscus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/centriscidae/centriscus.json"
+    },
+    {
+      "Genus": "Macroramphosus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/centriscidae/macroramphosus.json"
+    },
+    {
+      "Genus": "Notopogon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/centriscidae/notopogon.json"
+    }
+  ]
+}

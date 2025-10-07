@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Ophiclinus antarcticus",
+    "SpecCode": "59425",
+    "CommonName": "Adelaide snakeblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophiclinus brevipinnis",
+    "SpecCode": "59427",
+    "CommonName": "Shortfin snake blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophiclinus gabrieli",
+    "SpecCode": "52473",
+    "CommonName": "Frosted snake blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophiclinus gracilis",
+    "SpecCode": "52475",
+    "CommonName": "Blackback snake blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophiclinus ningulus",
+    "SpecCode": "52471",
+    "CommonName": "Distinctiveless snakeblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophiclinus pectoralis",
+    "SpecCode": "59525",
+    "CommonName": "Slender snake blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

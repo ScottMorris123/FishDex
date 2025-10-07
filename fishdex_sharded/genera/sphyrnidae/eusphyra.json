@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Eusphyra blochii",
+    "SpecCode": "908",
+    "CommonName": "Abul-garn",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eusphyra laticeps",
+    "SpecCode": "69723",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

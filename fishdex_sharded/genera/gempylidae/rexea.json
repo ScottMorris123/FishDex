@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Rexea alisae",
+    "SpecCode": "54965",
+    "CommonName": "艾氏短蛇鯖",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rexea antefurcata",
+    "SpecCode": "8485",
+    "CommonName": "Dlinnokrylaya reksiya",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rexea bengalensis",
+    "SpecCode": "8486",
+    "CommonName": "Bengal escolar",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rexea brevilineata",
+    "SpecCode": "8487",
+    "CommonName": "Escolar de rayas cortas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rexea nakamurai",
+    "SpecCode": "8488",
+    "CommonName": "Escolar de Nakamura",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rexea prometheoides",
+    "SpecCode": "7697",
+    "CommonName": "Cá Thu hố",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rexea solandri",
+    "SpecCode": "8490",
+    "CommonName": "Barraconda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

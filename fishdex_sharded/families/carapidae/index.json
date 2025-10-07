@@ -1,0 +1,47 @@
+{
+  "Family": "Carapidae",
+  "Order": "Ophidiiformes",
+  "Common": "Pearlfishes",
+  "Genera": [
+    {
+      "Genus": "Carapus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/carapidae/carapus.json"
+    },
+    {
+      "Genus": "Echiodon",
+      "SpeciesCount": 13,
+      "genus_path": "genera/carapidae/echiodon.json"
+    },
+    {
+      "Genus": "Encheliophis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/carapidae/encheliophis.json"
+    },
+    {
+      "Genus": "Eurypleuron",
+      "SpeciesCount": 2,
+      "genus_path": "genera/carapidae/eurypleuron.json"
+    },
+    {
+      "Genus": "Onuxodon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/carapidae/onuxodon.json"
+    },
+    {
+      "Genus": "Pyramodon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/carapidae/pyramodon.json"
+    },
+    {
+      "Genus": "Snyderidia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carapidae/snyderidia.json"
+    },
+    {
+      "Genus": "Tetragondacnus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carapidae/tetragondacnus.json"
+    }
+  ]
+}

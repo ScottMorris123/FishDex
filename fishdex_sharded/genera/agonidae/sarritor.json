@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Sarritor frenatus",
+    "SpecCode": "4170",
+    "CommonName": "Saagjas kõblashärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarritor knipowitschi",
+    "SpecCode": "62093",
+    "CommonName": "Knipovitši kõblashärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarritor leptorhynchus",
+    "SpecCode": "4171",
+    "CommonName": "Longnose poacher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

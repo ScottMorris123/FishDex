@@ -1,0 +1,59 @@
+[
+  {
+    "ScientificName": "Heteromycteris capensis",
+    "SpecCode": "7926",
+    "CommonName": "Cape sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromycteris hartzfeldii",
+    "SpecCode": "24053",
+    "CommonName": "Hartfeld's sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromycteris japonicus",
+    "SpecCode": "8971",
+    "CommonName": "Bamboo sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromycteris matsubarai",
+    "SpecCode": "24242",
+    "CommonName": "Lidah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromycteris oculus",
+    "SpecCode": "24416",
+    "CommonName": "Chondong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteromycteris proboscideus",
+    "SpecCode": "8844",
+    "CommonName": "Acedia trompuda",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

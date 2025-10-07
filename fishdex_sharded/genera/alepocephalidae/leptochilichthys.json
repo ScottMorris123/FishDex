@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Leptochilichthys agassizii",
+    "SpecCode": "9166",
+    "CommonName": "Agassiz' smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptochilichthys microlepis",
+    "SpecCode": "52695",
+    "CommonName": "Oni-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptochilichthys pinguis",
+    "SpecCode": "9170",
+    "CommonName": "Vaillant's smoothhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Paracapoeta anamisensis",
+    "SpecCode": "70265",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracapoeta barroisi",
+    "SpecCode": "54826",
+    "CommonName": "Barroisi ramul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracapoeta erhani",
+    "SpecCode": "64790",
+    "CommonName": "Ceyhan scraper",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracapoeta mandica",
+    "SpecCode": "67905",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracapoeta trutta",
+    "SpecCode": "54717",
+    "CommonName": "Barg Bidy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

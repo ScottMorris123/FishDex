@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pinjalo lewisi",
+    "SpecCode": "8430",
+    "CommonName": "Fusilier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pinjalo pinjalo",
+    "SpecCode": "196",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

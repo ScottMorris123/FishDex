@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Austrobatrachus foedus",
+    "SpecCode": "23153",
+    "CommonName": "Fronsende platannavis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austrobatrachus iselesele",
+    "SpecCode": "66616",
+    "CommonName": "Zulu toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

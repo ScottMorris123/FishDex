@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Phanerodon atripes",
+    "SpecCode": "3637",
+    "CommonName": "Mojarra picuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phanerodon furcatus",
+    "SpecCode": "3638",
+    "CommonName": "Hvid brændingsaborre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phanerodon vacca",
+    "SpecCode": "3640",
+    "CommonName": "Dusky sea-perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

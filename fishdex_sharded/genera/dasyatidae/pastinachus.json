@@ -1,0 +1,52 @@
+[
+  {
+    "ScientificName": "Pastinachus ater",
+    "SpecCode": "65900",
+    "CommonName": "Broad cowtail ray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pastinachus gracilicaudus",
+    "SpecCode": "65553",
+    "CommonName": "Narrowtail stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pastinachus sephen",
+    "SpecCode": "8203",
+    "CommonName": "௭ல்த்தீருக்கை",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pastinachus solocirostris",
+    "SpecCode": "63343",
+    "CommonName": "Karekoon-naaskelrai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pastinachus stellurostris",
+    "SpecCode": "65554",
+    "CommonName": "Starrynose stingray",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

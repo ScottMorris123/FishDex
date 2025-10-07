@@ -1,0 +1,12 @@
+{
+  "Family": "Paralichthodidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Peppered flounders",
+  "Genera": [
+    {
+      "Genus": "Paralichthodes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/paralichthodidae/paralichthodes.json"
+    }
+  ]
+}

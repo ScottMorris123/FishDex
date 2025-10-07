@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Scoliodon laticaudus",
+    "SpecCode": "906",
+    "CommonName": "Aul pidiyan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scoliodon macrorhynchos",
+    "SpecCode": "67046",
+    "CommonName": "Pacific spadenose shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

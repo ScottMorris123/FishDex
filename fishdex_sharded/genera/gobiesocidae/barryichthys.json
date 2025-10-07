@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Barryichthys algicola",
+    "SpecCode": "69034",
+    "CommonName": "Green rat clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barryichthys hutchinsi",
+    "SpecCode": "69033",
+    "CommonName": "Brown rat clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

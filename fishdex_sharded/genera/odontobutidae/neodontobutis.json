@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Neodontobutis aurarmus",
+    "SpecCode": "50399",
+    "CommonName": "黃沙塘鱧",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neodontobutis hainanensis",
+    "SpecCode": "55200",
+    "CommonName": "大鱗細齒塘鱧的異名",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neodontobutis macropectoralis",
+    "SpecCode": "61796",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neodontobutis ngheanensis",
+    "SpecCode": "66690",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neodontobutis tonkinensis",
+    "SpecCode": "60235",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

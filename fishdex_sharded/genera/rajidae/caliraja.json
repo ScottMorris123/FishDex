@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Caliraja cortezensis",
+    "SpecCode": "13210",
+    "CommonName": "Cortez' ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caliraja inornata",
+    "SpecCode": "2558",
+    "CommonName": "California ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caliraja rhina",
+    "SpecCode": "2566",
+    "CommonName": "Gandah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caliraja stellulata",
+    "SpecCode": "2570",
+    "CommonName": "K'ak'ew'",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

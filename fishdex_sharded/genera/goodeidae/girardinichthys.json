@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Girardinichthys ireneae",
+    "SpecCode": "62262",
+    "CommonName": "Broget splitfinne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girardinichthys multiradiatus",
+    "SpecCode": "6238",
+    "CommonName": "Darkedged splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girardinichthys viviparus",
+    "SpecCode": "6239",
+    "CommonName": "Chapultepec splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

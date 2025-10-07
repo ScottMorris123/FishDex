@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ghatsa menoni",
+    "SpecCode": "54325",
+    "CommonName": "Balitora Menonova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ghatsa montana",
+    "SpecCode": "24513",
+    "CommonName": "Anaimalai lameuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ghatsa pillaii",
+    "SpecCode": "54334",
+    "CommonName": "Balitora keralská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ghatsa santhamparaiensis",
+    "SpecCode": "61645",
+    "CommonName": "Santhamparai lameuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ghatsa silasi",
+    "SpecCode": "66323",
+    "CommonName": "Silasi lameuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

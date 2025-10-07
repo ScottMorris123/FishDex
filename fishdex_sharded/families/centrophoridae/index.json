@@ -1,0 +1,17 @@
+{
+  "Family": "Centrophoridae",
+  "Order": "Squaliformes",
+  "Common": "Gulper sharks",
+  "Genera": [
+    {
+      "Genus": "Centrophorus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/centrophoridae/centrophorus.json"
+    },
+    {
+      "Genus": "Deania",
+      "SpeciesCount": 4,
+      "genus_path": "genera/centrophoridae/deania.json"
+    }
+  ]
+}

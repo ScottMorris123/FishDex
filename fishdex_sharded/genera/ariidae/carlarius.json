@@ -1,0 +1,43 @@
+[
+  {
+    "ScientificName": "Carlarius gigas",
+    "SpecCode": "4945",
+    "CommonName": "Bagre gigante",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carlarius heudelotii",
+    "SpecCode": "4928",
+    "CommonName": "Abrar",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carlarius latiscutatus",
+    "SpecCode": "4929",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carlarius parkii",
+    "SpecCode": "4946",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

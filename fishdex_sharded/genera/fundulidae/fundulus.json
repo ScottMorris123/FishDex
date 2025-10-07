@@ -1,0 +1,381 @@
+[
+  {
+    "ScientificName": "Fundulus albolineatus",
+    "SpecCode": "3185",
+    "CommonName": "Whiteline Topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus bermudae",
+    "SpecCode": "49559",
+    "CommonName": "Bermuda killifish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus bifax",
+    "SpecCode": "10319",
+    "CommonName": "Stippled studfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus blairae",
+    "SpecCode": "49560",
+    "CommonName": "Western starhead topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus catenatus",
+    "SpecCode": "3186",
+    "CommonName": "Ketjukilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus chrysotus",
+    "SpecCode": "3187",
+    "CommonName": "Goldauge",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus cingulatus",
+    "SpecCode": "3188",
+    "CommonName": "Banded topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus confluentus",
+    "SpecCode": "3189",
+    "CommonName": "Amerikanskiy fundulus",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus diaphanus",
+    "SpecCode": "3190",
+    "CommonName": "Banded killifish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus dispar",
+    "SpecCode": "10322",
+    "CommonName": "Maskenkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus escambiae",
+    "SpecCode": "10321",
+    "CommonName": "Eastern starhead topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus euryzonus",
+    "SpecCode": "10323",
+    "CommonName": "Broadstripe topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus grandis",
+    "SpecCode": "3191",
+    "CommonName": "Golf-Killifisch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus grandissimus",
+    "SpecCode": "49561",
+    "CommonName": "Giant killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus heteroclitus",
+    "SpecCode": "3192",
+    "CommonName": "Blauband-Kärpfling",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus jenkinsi",
+    "SpecCode": "3193",
+    "CommonName": "Rämekilli",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus julisia",
+    "SpecCode": "6281",
+    "CommonName": "Barrens Topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus kansae",
+    "SpecCode": "62022",
+    "CommonName": "Northern plains killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus lima",
+    "SpecCode": "6282",
+    "CommonName": "Baja California killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus lineolatus",
+    "SpecCode": "3194",
+    "CommonName": "Aitakilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus luciae",
+    "SpecCode": "3195",
+    "CommonName": "Kanelikilli",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus majalis",
+    "SpecCode": "3196",
+    "CommonName": "Killifish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus notatus",
+    "SpecCode": "3197",
+    "CommonName": "Blackstripe topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus nottii",
+    "SpecCode": "3198",
+    "CommonName": "Bayou topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus olivaceus",
+    "SpecCode": "3199",
+    "CommonName": "Blackspotted topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus parvipinnis",
+    "SpecCode": "3200",
+    "CommonName": "California killifish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus persimilis",
+    "SpecCode": "49562",
+    "CommonName": "Sardinilla yucateca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus philpisteri",
+    "SpecCode": "64537",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus pulvereus",
+    "SpecCode": "3201",
+    "CommonName": "Bayou killifish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus rathbuni",
+    "SpecCode": "3202",
+    "CommonName": "Speckled killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus relictus",
+    "SpecCode": "49563",
+    "CommonName": "Lover's Lake killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus rubrifrons",
+    "SpecCode": "49564",
+    "CommonName": "Redface topminnow",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus saguanus",
+    "SpecCode": "49843",
+    "CommonName": "Cuban Gulf Killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus sciadicus",
+    "SpecCode": "3203",
+    "CommonName": "Plains topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus seminolis",
+    "SpecCode": "3204",
+    "CommonName": "Seminole killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus similis",
+    "SpecCode": "3205",
+    "CommonName": "Longnose killifish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus stellifer",
+    "SpecCode": "3206",
+    "CommonName": "Southern studfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus waccamensis",
+    "SpecCode": "3207",
+    "CommonName": "Waccamaw Killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus xenicus",
+    "SpecCode": "3166",
+    "CommonName": "Diamond killifish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulus zebrinus",
+    "SpecCode": "3208",
+    "CommonName": "Plains killifish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

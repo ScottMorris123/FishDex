@@ -1,0 +1,17 @@
+{
+  "Family": "Muraenolepididae",
+  "Order": "Gadiformes",
+  "Common": "Eel cods",
+  "Genera": [
+    {
+      "Genus": "Muraenolepis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/muraenolepididae/muraenolepis.json"
+    },
+    {
+      "Genus": "Notomuraenobathys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/muraenolepididae/notomuraenobathys.json"
+    }
+  ]
+}

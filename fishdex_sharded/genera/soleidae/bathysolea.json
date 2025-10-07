@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Bathysolea lactea",
+    "SpecCode": "8839",
+    "CommonName": "乳色深水鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathysolea lagarderae",
+    "SpecCode": "46255",
+    "CommonName": "东非深水鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathysolea polli",
+    "SpecCode": "46251",
+    "CommonName": "Sole noire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathysolea profundicola",
+    "SpecCode": "8840",
+    "CommonName": "Deep water sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Karalla daura",
+    "SpecCode": "4574",
+    "CommonName": "Bagsang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Karalla dussumieri",
+    "SpecCode": "6372",
+    "CommonName": "Bale bete",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

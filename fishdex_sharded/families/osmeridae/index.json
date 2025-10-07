@@ -1,0 +1,37 @@
+{
+  "Family": "Osmeridae",
+  "Order": "Osmeriformes",
+  "Common": "Smelts",
+  "Genera": [
+    {
+      "Genus": "Allosmerus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/osmeridae/allosmerus.json"
+    },
+    {
+      "Genus": "Hypomesus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/osmeridae/hypomesus.json"
+    },
+    {
+      "Genus": "Mallotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/osmeridae/mallotus.json"
+    },
+    {
+      "Genus": "Osmerus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/osmeridae/osmerus.json"
+    },
+    {
+      "Genus": "Spirinchus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/osmeridae/spirinchus.json"
+    },
+    {
+      "Genus": "Thaleichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/osmeridae/thaleichthys.json"
+    }
+  ]
+}

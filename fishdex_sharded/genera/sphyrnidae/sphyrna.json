@@ -1,0 +1,87 @@
+[
+  {
+    "ScientificName": "Sphyrna corona",
+    "SpecCode": "909",
+    "CommonName": "Cachona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyrna couardi",
+    "SpecCode": "911",
+    "CommonName": "Cornuda aliblanca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyrna gilberti",
+    "SpecCode": "67093",
+    "CommonName": "Carolina hammerhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyrna lewini",
+    "SpecCode": "912",
+    "CommonName": "Abul-garn",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyrna media",
+    "SpecCode": "913",
+    "CommonName": "Cação-martelo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyrna mokarran",
+    "SpecCode": "914",
+    "CommonName": "Abu-garn",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyrna tiburo",
+    "SpecCode": "915",
+    "CommonName": "Bonnet hammerhead",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyrna tudes",
+    "SpecCode": "55029",
+    "CommonName": "Bat jaram bat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphyrna zygaena",
+    "SpecCode": "917",
+    "CommonName": "Abou bornita",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

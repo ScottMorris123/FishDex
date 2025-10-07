@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Canthidermis macrolepis",
+    "SpecCode": "46433",
+    "CommonName": "Largescale triggerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthidermis maculata",
+    "SpecCode": "4278",
+    "CommonName": "Amimongara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthidermis rotundatus",
+    "SpecCode": "59946",
+    "CommonName": "Sikki-kalihi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthidermis sufflamen",
+    "SpecCode": "4279",
+    "CommonName": "Assum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Canthidermis willughbeii",
+    "SpecCode": "60058",
+    "CommonName": "Cangulo-machado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

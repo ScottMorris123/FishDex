@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Asthenomacrurus fragilis",
+    "SpecCode": "13880",
+    "CommonName": "Fragile grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asthenomacrurus victoris",
+    "SpecCode": "24983",
+    "CommonName": "Victory whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

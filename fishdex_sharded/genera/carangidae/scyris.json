@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Scyris alexandrina",
+    "SpecCode": "1888",
+    "CommonName": "African threadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scyris indica",
+    "SpecCode": "10",
+    "CommonName": "Alektys indyjski",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

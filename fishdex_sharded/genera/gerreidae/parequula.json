@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parequula elongata",
+    "SpecCode": "67022",
+    "CommonName": "Western silverbelly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parequula melbournensis",
+    "SpecCode": "14373",
+    "CommonName": "Austraalia sillerdkõht",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

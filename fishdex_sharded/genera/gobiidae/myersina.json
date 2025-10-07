@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Myersina adonis",
+    "SpecCode": "64549",
+    "CommonName": "Adonis shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myersina balteata",
+    "SpecCode": "69087",
+    "CommonName": "Belted shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myersina crocata",
+    "SpecCode": "59240",
+    "CommonName": "Yellow-spotted shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myersina filifer",
+    "SpecCode": "23640",
+    "CommonName": "Cá Bống sao chấm mây",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myersina lachneri",
+    "SpecCode": "27567",
+    "CommonName": "Black-mast shrimp-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myersina macrostoma",
+    "SpecCode": "23642",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myersina nigrivirgata",
+    "SpecCode": "23643",
+    "CommonName": "Blackline shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myersina papuanus",
+    "SpecCode": "61317",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myersina pretoriusi",
+    "SpecCode": "17051",
+    "CommonName": "Pondoland sailfin goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myersina yangii",
+    "SpecCode": "59322",
+    "CommonName": "杨氏丝鰕虎鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

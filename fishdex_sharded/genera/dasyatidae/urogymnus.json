@@ -1,0 +1,62 @@
+[
+  {
+    "ScientificName": "Urogymnus acanthobothrium",
+    "SpecCode": "68054",
+    "CommonName": "Mumburarr whipray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urogymnus asperrimus",
+    "SpecCode": "5400",
+    "CommonName": "Balinauag",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urogymnus dalyensis",
+    "SpecCode": "64145",
+    "CommonName": "Austraalia nuutrai",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urogymnus granulatus",
+    "SpecCode": "12586",
+    "CommonName": "Coachwhip ray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urogymnus lobistoma",
+    "SpecCode": "63391",
+    "CommonName": "Pari mulut tajam",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urogymnus polylepis",
+    "SpecCode": "11693",
+    "CommonName": "Baya gawiy",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

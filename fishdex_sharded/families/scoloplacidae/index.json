@@ -1,0 +1,12 @@
+{
+  "Family": "Scoloplacidae",
+  "Order": "Siluriformes",
+  "Common": "Spiny dwarf catfishes",
+  "Genera": [
+    {
+      "Genus": "Scoloplax",
+      "SpeciesCount": 6,
+      "genus_path": "genera/scoloplacidae/scoloplax.json"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "ScientificName": "Moringua abbreviata",
+    "SpecCode": "22919",
+    "CommonName": "Fafa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua bicolor",
+    "SpecCode": "58716",
+    "CommonName": "Bicolor spaghetti eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua edwardsi",
+    "SpecCode": "2603",
+    "CommonName": "Edwardsi vagelangerjas",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua ferruginea",
+    "SpecCode": "12883",
+    "CommonName": "Intermediate thrush-eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua guthriana",
+    "SpecCode": "17477",
+    "CommonName": "Bengal spaghetti-eel",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua hawaiiensis",
+    "SpecCode": "67023",
+    "CommonName": "Havai vagelangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua javanica",
+    "SpecCode": "15801",
+    "CommonName": "Black-tailed thrush eel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua macrocephalus",
+    "SpecCode": "54888",
+    "CommonName": "Štíhlouš velkohlavý",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua macrochir",
+    "SpecCode": "53795",
+    "CommonName": "Faniveng",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua microchir",
+    "SpecCode": "8051",
+    "CommonName": "Anguille spaghetti",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua penni",
+    "SpecCode": "27382",
+    "CommonName": "Penni vagelangerjas",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Moringua raitaborua",
+    "SpecCode": "17226",
+    "CommonName": "Lilla spaghettiål",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

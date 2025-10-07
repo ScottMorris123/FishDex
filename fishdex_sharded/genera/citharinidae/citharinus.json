@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Citharinus citharus",
+    "SpecCode": "5269",
+    "CommonName": "Abal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharinus congicus",
+    "SpecCode": "11266",
+    "CommonName": "Kongo-Geradsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharinus eburneensis",
+    "SpecCode": "6079",
+    "CommonName": "Pikkusitara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharinus gibbosus",
+    "SpecCode": "11267",
+    "CommonName": "Booku",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharinus latus",
+    "SpecCode": "5268",
+    "CommonName": "Abal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharinus macrolepis",
+    "SpecCode": "11268",
+    "CommonName": "Lidondo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

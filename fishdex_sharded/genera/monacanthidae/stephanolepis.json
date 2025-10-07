@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Stephanolepis aurata",
+    "SpecCode": "7843",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stephanolepis cirrhifer",
+    "SpecCode": "531",
+    "CommonName": "Cangulo-de-vela",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stephanolepis diaspros",
+    "SpecCode": "14343",
+    "CommonName": "Afrički kostorog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stephanolepis hispida",
+    "SpecCode": "4281",
+    "CommonName": "Almindelig filfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stephanolepis setifer",
+    "SpecCode": "1195",
+    "CommonName": "Balista cu tep",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

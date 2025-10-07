@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Gazza achlamys",
+    "SpecCode": "5797",
+    "CommonName": "Damul",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gazza dentex",
+    "SpecCode": "50948",
+    "CommonName": "Ambache blanc",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gazza minuta",
+    "SpecCode": "4462",
+    "CommonName": "Angag",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gazza rhombea",
+    "SpecCode": "59084",
+    "CommonName": "Hishi-koban-hiiragi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gazza squamiventralis",
+    "SpecCode": "58336",
+    "CommonName": "Scaled belly toothpony",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Aurigequula fasciata",
+    "SpecCode": "4452",
+    "CommonName": "Bakagan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aurigequula longispinis",
+    "SpecCode": "59023",
+    "CommonName": "Daguldulan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aurigequula striata",
+    "SpecCode": "59026",
+    "CommonName": "Striated ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

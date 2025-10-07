@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Marilyna darwinii",
+    "SpecCode": "27607",
+    "CommonName": "Darwin toadfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marilyna meraukensis",
+    "SpecCode": "26605",
+    "CommonName": "Merauke toadfish",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marilyna pleurosticta",
+    "SpecCode": "27689",
+    "CommonName": "Banded toadfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

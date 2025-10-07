@@ -1,0 +1,470 @@
+[
+  {
+    "ScientificName": "Nemacheilus anguilla",
+    "SpecCode": "24528",
+    "CommonName": "Anger-kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus arenicolus",
+    "SpecCode": "50378",
+    "CommonName": "Liiva-kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus banar",
+    "SpecCode": "58504",
+    "CommonName": "Mřenka banar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus binotatus",
+    "SpecCode": "26879",
+    "CommonName": "Kaksijuovanuoliainen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus chrysolaimos",
+    "SpecCode": "22973",
+    "CommonName": "Mřenka jávská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus cleopatra",
+    "SpecCode": "58505",
+    "CommonName": "Mřenka Kleopatra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus corica",
+    "SpecCode": "24545",
+    "CommonName": "Koirka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus doonensis",
+    "SpecCode": "24551",
+    "CommonName": "Mřenka kandholská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus drassensis",
+    "SpecCode": "60636",
+    "CommonName": "Mřenka drasenská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus elegantissimus",
+    "SpecCode": "27464",
+    "CommonName": "Mřenka ozdobná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus fasciatus",
+    "SpecCode": "12265",
+    "CommonName": "Bänderschmerle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus guentheri",
+    "SpecCode": "24560",
+    "CommonName": "Güntheri kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus huapingensis",
+    "SpecCode": "60465",
+    "CommonName": "Huapingi kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus inglisi",
+    "SpecCode": "63200",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus jaklesii",
+    "SpecCode": "66412",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus kaimurensis",
+    "SpecCode": "60649",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus kapuasensis",
+    "SpecCode": "22974",
+    "CommonName": "Ikan batu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus keralensis",
+    "SpecCode": "24566",
+    "CommonName": "Koitha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus lactogeneus",
+    "SpecCode": "22976",
+    "CommonName": "Ikan batu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus longipectoralis",
+    "SpecCode": "22978",
+    "CommonName": "Mahakami kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus longipinnis",
+    "SpecCode": "22979",
+    "CommonName": "Mřenka dlouhoploutvá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus longistriatus",
+    "SpecCode": "26833",
+    "CommonName": "Mřenka podélnopruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus lunanensis",
+    "SpecCode": "66158",
+    "CommonName": "Lunani kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus marang",
+    "SpecCode": "65759",
+    "CommonName": "Marangi kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus masyae",
+    "SpecCode": "12268",
+    "CommonName": "Arrow loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus menoni",
+    "SpecCode": "60639",
+    "CommonName": "Menoni kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus monilis",
+    "SpecCode": "24573",
+    "CommonName": "Kee-kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus olivaceus",
+    "SpecCode": "5428",
+    "CommonName": "Mřenka bongonská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus ornatus",
+    "SpecCode": "55768",
+    "CommonName": "Kaunis kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus oxianus",
+    "SpecCode": "22859",
+    "CommonName": "Amudar'inskii golets",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus pallidus",
+    "SpecCode": "26834",
+    "CommonName": "Kahvatu kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus papillos",
+    "SpecCode": "64996",
+    "CommonName": "Näsamokk-kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus paucimaculatus",
+    "SpecCode": "66268",
+    "CommonName": "Hõrelaik-kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus periyarensis",
+    "SpecCode": "62711",
+    "CommonName": "Periyari kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus petrubanarescui",
+    "SpecCode": "24588",
+    "CommonName": "Bănărescu kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus pfeifferae",
+    "SpecCode": "22980",
+    "CommonName": "Batu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus platiceps",
+    "SpecCode": "26838",
+    "CommonName": "Lamepea-kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus pulchellus",
+    "SpecCode": "24592",
+    "CommonName": "Koitha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus rueppelli",
+    "SpecCode": "24605",
+    "CommonName": "Chikli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus saravacensis",
+    "SpecCode": "22981",
+    "CommonName": "Ikan batu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus selangoricus",
+    "SpecCode": "12270",
+    "CommonName": "Fighting loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus shehensis",
+    "SpecCode": "60637",
+    "CommonName": "Mřenka šehenská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus shuangjiangensis",
+    "SpecCode": "60189",
+    "CommonName": "Mřenka šuangjiangská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus singhi",
+    "SpecCode": "24624",
+    "CommonName": "Mřenka Singhova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus spiniferus",
+    "SpecCode": "22982",
+    "CommonName": "Ikan batu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus stigmofasciatus",
+    "SpecCode": "64898",
+    "CommonName": "Laikvööt-kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus subfusca",
+    "SpecCode": "54498",
+    "CommonName": "Mřenka temná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus tebo",
+    "SpecCode": "64899",
+    "CommonName": "Tebo kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus triangularis",
+    "SpecCode": "24647",
+    "CommonName": "Kaldlaik-kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus troglocataractus",
+    "SpecCode": "6158",
+    "CommonName": "Blind cave loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus tuberigum",
+    "SpecCode": "59974",
+    "CommonName": "Köbersaba-kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemacheilus yingjiangensis",
+    "SpecCode": "60190",
+    "CommonName": "Mřenka jingjiangenská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

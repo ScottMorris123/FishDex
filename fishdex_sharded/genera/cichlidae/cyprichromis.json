@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Cyprichromis coloratus",
+    "SpecCode": "62729",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprichromis leptosoma",
+    "SpecCode": "8573",
+    "CommonName": "Gulhalet jumbocichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprichromis microlepidotus",
+    "SpecCode": "8574",
+    "CommonName": "Kleinschuppiger Kärpflingbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprichromis pavo",
+    "SpecCode": "60278",
+    "CommonName": "Safiirikilliahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprichromis zonatus",
+    "SpecCode": "60277",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

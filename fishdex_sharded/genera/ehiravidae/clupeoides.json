@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Clupeoides borneensis",
+    "SpecCode": "1561",
+    "CommonName": "Aber",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeoides hypselosoma",
+    "SpecCode": "1562",
+    "CommonName": "Kalimantan river sprat",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeoides papuensis",
+    "SpecCode": "1563",
+    "CommonName": "Paapua virrakilu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeoides venulosus",
+    "SpecCode": "1564",
+    "CommonName": "Indonesisk flodbrisling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

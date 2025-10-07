@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Paristiopterus gallipavo",
+    "SpecCode": "12353",
+    "CommonName": "Brown-spotted boarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paristiopterus labiosus",
+    "SpecCode": "12354",
+    "CommonName": "Boarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

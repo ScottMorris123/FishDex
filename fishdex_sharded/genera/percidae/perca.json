@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Perca flavescens",
+    "SpecCode": "359",
+    "CommonName": "American perch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Perca fluviatilis",
+    "SpecCode": "358",
+    "CommonName": "Abbor",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Perca schrenkii",
+    "SpecCode": "4639",
+    "CommonName": "Balhaši ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

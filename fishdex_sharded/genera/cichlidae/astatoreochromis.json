@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Astatoreochromis alluaudi",
+    "SpecCode": "4688",
+    "CommonName": "Alluaudi-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astatoreochromis straeleni",
+    "SpecCode": "6879",
+    "CommonName": "Bluelip haplo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

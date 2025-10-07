@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parvilux boschmai",
+    "SpecCode": "54418",
+    "CommonName": "博氏小光灯笼鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parvilux ingens",
+    "SpecCode": "5311",
+    "CommonName": "Giant lampfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

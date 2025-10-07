@@ -1,0 +1,87 @@
+{
+  "Family": "Clariidae",
+  "Order": "Siluriformes",
+  "Common": "Airbreathing catfishes",
+  "Genera": [
+    {
+      "Genus": "Bathyclarias",
+      "SpeciesCount": 8,
+      "genus_path": "genera/clariidae/bathyclarias.json"
+    },
+    {
+      "Genus": "Channallabes",
+      "SpeciesCount": 6,
+      "genus_path": "genera/clariidae/channallabes.json"
+    },
+    {
+      "Genus": "Clariallabes",
+      "SpeciesCount": 16,
+      "genus_path": "genera/clariidae/clariallabes.json"
+    },
+    {
+      "Genus": "Clarias",
+      "SpeciesCount": 62,
+      "genus_path": "genera/clariidae/clarias.json"
+    },
+    {
+      "Genus": "Dinotopterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clariidae/dinotopterus.json"
+    },
+    {
+      "Genus": "Dolichallabes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clariidae/dolichallabes.json"
+    },
+    {
+      "Genus": "Encheloclarias",
+      "SpeciesCount": 7,
+      "genus_path": "genera/clariidae/encheloclarias.json"
+    },
+    {
+      "Genus": "Gymnallabes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/clariidae/gymnallabes.json"
+    },
+    {
+      "Genus": "Heterobranchus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/clariidae/heterobranchus.json"
+    },
+    {
+      "Genus": "Horaglanis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/clariidae/horaglanis.json"
+    },
+    {
+      "Genus": "Platyallabes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clariidae/platyallabes.json"
+    },
+    {
+      "Genus": "Platyclarias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clariidae/platyclarias.json"
+    },
+    {
+      "Genus": "Pseudotanganikallabes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clariidae/pseudotanganikallabes.json"
+    },
+    {
+      "Genus": "Tanganikallabes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/clariidae/tanganikallabes.json"
+    },
+    {
+      "Genus": "Uegitglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clariidae/uegitglanis.json"
+    },
+    {
+      "Genus": "Xenoclarias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/clariidae/xenoclarias.json"
+    }
+  ]
+}

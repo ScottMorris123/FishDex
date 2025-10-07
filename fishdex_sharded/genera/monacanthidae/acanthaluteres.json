@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Acanthaluteres brownii",
+    "SpecCode": "14532",
+    "CommonName": "Spiny-tailed leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthaluteres spilomelanurus",
+    "SpecCode": "51356",
+    "CommonName": "Bridled leatherjacket",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthaluteres vittiger",
+    "SpecCode": "14550",
+    "CommonName": "Brown leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

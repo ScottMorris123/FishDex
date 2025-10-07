@@ -1,0 +1,220 @@
+[
+  {
+    "ScientificName": "Prionotus alatus",
+    "SpecCode": "4020",
+    "CommonName": "Rubio espinoso",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus albirostris",
+    "SpecCode": "14256",
+    "CommonName": "Cabro cariblanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus beanii",
+    "SpecCode": "7497",
+    "CommonName": "Bean's searobin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus birostratus",
+    "SpecCode": "14257",
+    "CommonName": "Gallineta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus carolinus",
+    "SpecCode": "1243",
+    "CommonName": "Grondin carolin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus evolans",
+    "SpecCode": "1244",
+    "CommonName": "Grondin volant",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus horrens",
+    "SpecCode": "14258",
+    "CommonName": "Bristly searobin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus longispinosus",
+    "SpecCode": "4026",
+    "CommonName": "Bigeye searobin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus martis",
+    "SpecCode": "4021",
+    "CommonName": "Barred searobin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus miles",
+    "SpecCode": "12892",
+    "CommonName": "Galapagos gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus murielae",
+    "SpecCode": "59583",
+    "CommonName": "穆氏鋸魴鮄",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus nudigula",
+    "SpecCode": "14029",
+    "CommonName": "Atlantic searobin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus ophryas",
+    "SpecCode": "4022",
+    "CommonName": "Båndhalet knurhane",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus paralatus",
+    "SpecCode": "4023",
+    "CommonName": "Mexican searobin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus punctatus",
+    "SpecCode": "1245",
+    "CommonName": "Atlantic searobin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus roseus",
+    "SpecCode": "4024",
+    "CommonName": "Blåplettet knurhane",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus rubio",
+    "SpecCode": "4025",
+    "CommonName": "Blackwing Searobin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus ruscarius",
+    "SpecCode": "14259",
+    "CommonName": "Common searobin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus scitulus",
+    "SpecCode": "4027",
+    "CommonName": "Leopard searobin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus stearnsi",
+    "SpecCode": "4028",
+    "CommonName": "Gallina aleta corta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus stephanophrys",
+    "SpecCode": "4029",
+    "CommonName": "Blackfin gurnard",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus teaguei",
+    "SpecCode": "14260",
+    "CommonName": "Grondin costa-ricien",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionotus tribulus",
+    "SpecCode": "4030",
+    "CommonName": "Bighead searobin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

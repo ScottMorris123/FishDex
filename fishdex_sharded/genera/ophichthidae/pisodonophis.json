@@ -1,0 +1,82 @@
+[
+  {
+    "ScientificName": "Pisodonophis boro",
+    "SpecCode": "8055",
+    "CommonName": "Bedong",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pisodonophis cancrivorus",
+    "SpecCode": "8054",
+    "CommonName": "Belin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pisodonophis copelandi",
+    "SpecCode": "53857",
+    "CommonName": "Copelandi nürihammasangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pisodonophis daspilotus",
+    "SpecCode": "13920",
+    "CommonName": "Blunt-toothed snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pisodonophis hijala",
+    "SpecCode": "61192",
+    "CommonName": "Bengali nürihammasangerjas",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pisodonophis hoevenii",
+    "SpecCode": "28132",
+    "CommonName": "Hadař Hoevenův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pisodonophis hypselopterus",
+    "SpecCode": "17333",
+    "CommonName": "Borneo nürihammasangerjas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pisodonophis semicinctus",
+    "SpecCode": "9097",
+    "CommonName": "Baakono saa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

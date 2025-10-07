@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Cnesterodon brevirostratus",
+    "SpecCode": "53679",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cnesterodon carnegiei",
+    "SpecCode": "46480",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cnesterodon decemmaculatus",
+    "SpecCode": "4753",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cnesterodon holopteros",
+    "SpecCode": "63002",
+    "CommonName": "Helfinnetandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cnesterodon hypselurus",
+    "SpecCode": "61802",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cnesterodon iguape",
+    "SpecCode": "62765",
+    "CommonName": "Iporanga tooth carp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cnesterodon omorgmatos",
+    "SpecCode": "61803",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cnesterodon pirai",
+    "SpecCode": "65068",
+    "CommonName": "Almeida toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cnesterodon raddai",
+    "SpecCode": "61804",
+    "CommonName": "Resistencia toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cnesterodon septentrionalis",
+    "SpecCode": "53677",
+    "CommonName": "Sumptandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

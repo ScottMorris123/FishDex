@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Monacanthus chinensis",
+    "SpecCode": "7976",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monacanthus ciliatus",
+    "SpecCode": "4280",
+    "CommonName": "Bourse émeri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monacanthus tuckeri",
+    "SpecCode": "4283",
+    "CommonName": "Chivo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

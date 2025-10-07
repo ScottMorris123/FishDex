@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Halosaurus attenuatus",
+    "SpecCode": "9014",
+    "CommonName": "Halosaur štíhlý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halosaurus carinicauda",
+    "SpecCode": "59482",
+    "CommonName": "Halosaur maloocasý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halosaurus guentheri",
+    "SpecCode": "9016",
+    "CommonName": "Güntheri soolasaurus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halosaurus johnsonianus",
+    "SpecCode": "9017",
+    "CommonName": "Halosaur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halosaurus ovenii",
+    "SpecCode": "5051",
+    "CommonName": "Halosaur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halosaurus pectoralis",
+    "SpecCode": "13986",
+    "CommonName": "Australian halosaur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halosaurus radiatus",
+    "SpecCode": "54384",
+    "CommonName": "Halosaur paprsčitý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halosaurus ridgwayi",
+    "SpecCode": "59842",
+    "CommonName": "Filipiini soolasaurus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halosaurus sinensis",
+    "SpecCode": "60661",
+    "CommonName": "Halosaur čínský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

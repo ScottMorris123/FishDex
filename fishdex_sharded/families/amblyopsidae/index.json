@@ -1,0 +1,32 @@
+{
+  "Family": "Amblyopsidae",
+  "Order": "Percopsiformes",
+  "Common": "Cavefishes",
+  "Genera": [
+    {
+      "Genus": "Amblyopsis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/amblyopsidae/amblyopsis.json"
+    },
+    {
+      "Genus": "Chologaster",
+      "SpeciesCount": 1,
+      "genus_path": "genera/amblyopsidae/chologaster.json"
+    },
+    {
+      "Genus": "Forbesichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/amblyopsidae/forbesichthys.json"
+    },
+    {
+      "Genus": "Speoplatyrhinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/amblyopsidae/speoplatyrhinus.json"
+    },
+    {
+      "Genus": "Typhlichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/amblyopsidae/typhlichthys.json"
+    }
+  ]
+}

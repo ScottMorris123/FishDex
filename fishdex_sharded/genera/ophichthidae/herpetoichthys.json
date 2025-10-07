@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Herpetoichthys fossatus",
+    "SpecCode": "13908",
+    "CommonName": "Hadař příkopový",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herpetoichthys regius",
+    "SpecCode": "9095",
+    "CommonName": "Hadař mauritánský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

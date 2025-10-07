@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Cyclichthys hardenbergi",
+    "SpecCode": "11227",
+    "CommonName": "Hardenbergi ümarkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclichthys orbicularis",
+    "SpecCode": "5196",
+    "CommonName": "Ballonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclichthys spilostylus",
+    "SpecCode": "10305",
+    "CommonName": "Ballonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

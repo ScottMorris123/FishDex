@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Stanulus seychellensis",
+    "SpecCode": "6061",
+    "CommonName": "Mano'o",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stanulus talboti",
+    "SpecCode": "12642",
+    "CommonName": "Talbot's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

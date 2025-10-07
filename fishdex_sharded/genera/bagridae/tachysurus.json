@@ -1,0 +1,122 @@
+[
+  {
+    "ScientificName": "Tachysurus adiposalis",
+    "SpecCode": "17307",
+    "CommonName": "三角姑",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus argentivittatus",
+    "SpecCode": "50965",
+    "CommonName": "Dwarf catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus brashnikowi",
+    "SpecCode": "28024",
+    "CommonName": "Brazhnikov's catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus dumerili",
+    "SpecCode": "50980",
+    "CommonName": "Chinese longsnout catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus fulvidraco",
+    "SpecCode": "28052",
+    "CommonName": "(китайская) косатка-скрипун",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus herzensteini",
+    "SpecCode": "28047",
+    "CommonName": "Herzensteini käätssäga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus hoi",
+    "SpecCode": "50941",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus longispinalis",
+    "SpecCode": "65696",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus nitidus",
+    "SpecCode": "50943",
+    "CommonName": "밀자개",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus nudiceps",
+    "SpecCode": "22947",
+    "CommonName": "Gigi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus sinensis",
+    "SpecCode": "58672",
+    "CommonName": "Amurinkimalaismonni",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus spilotus",
+    "SpecCode": "65145",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tachysurus virgatus",
+    "SpecCode": "50951",
+    "CommonName": "条纹鮠",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

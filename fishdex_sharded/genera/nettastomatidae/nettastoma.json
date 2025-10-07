@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Nettastoma falcinaris",
+    "SpecCode": "55065",
+    "CommonName": "Štíhlohlavec jihoamerický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettastoma melanura",
+    "SpecCode": "1739",
+    "CommonName": "Ànec",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettastoma parviceps",
+    "SpecCode": "10233",
+    "CommonName": "Duckbill eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettastoma solitarium",
+    "SpecCode": "7492",
+    "CommonName": "Erak-partangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nettastoma syntresis",
+    "SpecCode": "58707",
+    "CommonName": "Keskatlandi partangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

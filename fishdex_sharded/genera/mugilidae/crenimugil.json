@@ -1,0 +1,54 @@
+[
+  {
+    "ScientificName": "Crenimugil buchanani",
+    "SpecCode": "4817",
+    "CommonName": "Afa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenimugil crenilabis",
+    "SpecCode": "5653",
+    "CommonName": "Agwas",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenimugil heterocheilos",
+    "SpecCode": "15723",
+    "CommonName": "Banak",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenimugil pedaraki",
+    "SpecCode": "46377",
+    "CommonName": "Longfin mullet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenimugil seheli",
+    "SpecCode": "5659",
+    "CommonName": "Aitam",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "ScientificName": "Thymallus arcticus",
+    "SpecCode": "2693",
+    "CommonName": "American grayling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus baicalensis",
+    "SpecCode": "8586",
+    "CommonName": "Baikal black grayling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus brevipinnis",
+    "SpecCode": "63142",
+    "CommonName": "Valge baikali harjus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus brevirostris",
+    "SpecCode": "4643",
+    "CommonName": "Kharius mongol'skiy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus burejensis",
+    "SpecCode": "63141",
+    "CommonName": "Bureja harjus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus flavomaculatus",
+    "SpecCode": "63055",
+    "CommonName": "Yellow-spotted grayling",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus grubii",
+    "SpecCode": "46544",
+    "CommonName": "Amur grayling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus mertensii",
+    "SpecCode": "61680",
+    "CommonName": "Kamtšatka harjus",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus nigrescens",
+    "SpecCode": "48255",
+    "CommonName": "Kosogol grayling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus pallasii",
+    "SpecCode": "48138",
+    "CommonName": "East Siberian grayling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus svetovidovi",
+    "SpecCode": "64861",
+    "CommonName": "Jenissei harjus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus thymallus",
+    "SpecCode": "4605",
+    "CommonName": "Aesch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus tugarinae",
+    "SpecCode": "63284",
+    "CommonName": "lower Amur grayling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymallus yaluensis",
+    "SpecCode": "25609",
+    "CommonName": "Jalu harjus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

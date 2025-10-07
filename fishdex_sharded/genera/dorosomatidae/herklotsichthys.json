@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Herklotsichthys blackburni",
+    "SpecCode": "1487",
+    "CommonName": "Blacburn's yellow fin herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys castelnaui",
+    "SpecCode": "1488",
+    "CommonName": "Castelnau's herring",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys collettei",
+    "SpecCode": "1497",
+    "CommonName": "Collette´i heeringake",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys dispilonotus",
+    "SpecCode": "1489",
+    "CommonName": "Blacksaddle herring",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys gotoi",
+    "SpecCode": "1490",
+    "CommonName": "Black-spot herring",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys koningsbergeri",
+    "SpecCode": "1491",
+    "CommonName": "Koningbergers sild",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys lippa",
+    "SpecCode": "1496",
+    "CommonName": "Australian spotted herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys lossei",
+    "SpecCode": "1492",
+    "CommonName": "Golf-sild",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys ovalis",
+    "SpecCode": "62953",
+    "CommonName": "Ma-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys punctatus",
+    "SpecCode": "1493",
+    "CommonName": "Aber",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys quadrimaculatus",
+    "SpecCode": "1494",
+    "CommonName": "Ampiny",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herklotsichthys spilura",
+    "SpecCode": "1495",
+    "CommonName": "Dagaa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

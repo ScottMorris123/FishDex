@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Scymnodon ichiharai",
+    "SpecCode": "53991",
+    "CommonName": "Ichihara-biroudozame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scymnodon macracanthus",
+    "SpecCode": "665",
+    "CommonName": "Langstekelijshaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scymnodon ringens",
+    "SpecCode": "700",
+    "CommonName": "Arreganhada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

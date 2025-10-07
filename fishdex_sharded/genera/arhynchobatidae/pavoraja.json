@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Pavoraja alleni",
+    "SpecCode": "24064",
+    "CommonName": "Alleni paaburai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoraja arenaria",
+    "SpecCode": "64235",
+    "CommonName": "Liivakarva paaburai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoraja mosaica",
+    "SpecCode": "64237",
+    "CommonName": "Mosaic skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoraja nitida",
+    "SpecCode": "24068",
+    "CommonName": "Graceful skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoraja pseudonitida",
+    "SpecCode": "64238",
+    "CommonName": "False peacock skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pavoraja umbrosa",
+    "SpecCode": "64239",
+    "CommonName": "Dusky skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

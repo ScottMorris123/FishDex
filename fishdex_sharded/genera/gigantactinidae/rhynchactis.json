@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Rhynchactis leptonema",
+    "SpecCode": "17001",
+    "CommonName": "Niit-tundelnina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchactis macrothrix",
+    "SpecCode": "51704",
+    "CommonName": "Puhmjas tundelnina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchactis microthrix",
+    "SpecCode": "51705",
+    "CommonName": "Ädal-tundelnina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

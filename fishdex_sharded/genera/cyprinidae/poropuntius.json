@@ -1,0 +1,364 @@
+[
+  {
+    "ScientificName": "Poropuntius alloiopleurus",
+    "SpecCode": "54695",
+    "CommonName": "Parmička annamská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius angustus",
+    "SpecCode": "57695",
+    "CommonName": "Lauge poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius bantamensis",
+    "SpecCode": "58018",
+    "CommonName": "Tai poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius birtwistlei",
+    "SpecCode": "54696",
+    "CommonName": "Birtwistle`i poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius bolovenensis",
+    "SpecCode": "57412",
+    "CommonName": "Bolaveni poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius brevispinus",
+    "SpecCode": "66114",
+    "CommonName": "Lühioga-poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius burtoni",
+    "SpecCode": "60192",
+    "CommonName": "Burtoni poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius carinatus",
+    "SpecCode": "60207",
+    "CommonName": "Kiilselg-poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius chondrorhynchus",
+    "SpecCode": "54697",
+    "CommonName": "Kõhrkoon-poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius chonglingchungi",
+    "SpecCode": "52572",
+    "CommonName": "Parma junanská",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius cogginii",
+    "SpecCode": "56239",
+    "CommonName": "Erhai poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius consternans",
+    "SpecCode": "57697",
+    "CommonName": "Parmička podivuhodná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius daliensis",
+    "SpecCode": "65182",
+    "CommonName": "Dali poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius deauratus",
+    "SpecCode": "27122",
+    "CommonName": "Goldbarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius exiguus",
+    "SpecCode": "54733",
+    "CommonName": "Küür-poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius faucis",
+    "SpecCode": "54698",
+    "CommonName": "Parmička mepingská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius fuxianhuensis",
+    "SpecCode": "52577",
+    "CommonName": "Fuxiani poorpuntius",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius genyognathus",
+    "SpecCode": "58363",
+    "CommonName": "Parmička kitanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius hampaloides",
+    "SpecCode": "54699",
+    "CommonName": "Hampala-poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius hathe",
+    "SpecCode": "58512",
+    "CommonName": "Hathe poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius heterolepidotus",
+    "SpecCode": "58513",
+    "CommonName": "Erisoom-poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius huangchuchieni",
+    "SpecCode": "54722",
+    "CommonName": "Lõunahiina poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius huguenini",
+    "SpecCode": "16207",
+    "CommonName": "Huguenini poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius kontumensis",
+    "SpecCode": "27123",
+    "CommonName": "Kontumi poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius krempfi",
+    "SpecCode": "56281",
+    "CommonName": "Krempfi poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius laoensis",
+    "SpecCode": "27124",
+    "CommonName": "Laose poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius lobocheiloides",
+    "SpecCode": "57698",
+    "CommonName": "Parmička laločnatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius margarianus",
+    "SpecCode": "54732",
+    "CommonName": "Margary poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius melanogrammus",
+    "SpecCode": "58515",
+    "CommonName": "Mustjoon-poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius normani",
+    "SpecCode": "60214",
+    "CommonName": "Normani poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius opisthopterus",
+    "SpecCode": "54712",
+    "CommonName": "Nujiangi poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius rhomboides",
+    "SpecCode": "54713",
+    "CommonName": "Parmička kosočtverečná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius scapanognathus",
+    "SpecCode": "58516",
+    "CommonName": "Lasnlõug-poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius schanicus",
+    "SpecCode": "60416",
+    "CommonName": "Nga yit",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius shanensis",
+    "SpecCode": "24175",
+    "CommonName": "Parmička myanmarská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius smedleyi",
+    "SpecCode": "54702",
+    "CommonName": "Parmička Smedleyova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius solitus",
+    "SpecCode": "57699",
+    "CommonName": "Oliivjas poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius speleops",
+    "SpecCode": "26080",
+    "CommonName": "Koopa-poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius susanae",
+    "SpecCode": "61872",
+    "CommonName": "Susani poorpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropuntius tawarensis",
+    "SpecCode": "17459",
+    "CommonName": "Keperas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

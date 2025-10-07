@@ -1,0 +1,58 @@
+[
+  {
+    "ScientificName": "Orthopristis cantharina",
+    "SpecCode": "12965",
+    "CommonName": "Burrito brin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orthopristis chalceus",
+    "SpecCode": "13723",
+    "CommonName": "Brassy grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orthopristis chrysoptera",
+    "SpecCode": "5",
+    "CommonName": "Ameriška prašičevka",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orthopristis forbesi",
+    "SpecCode": "25501",
+    "CommonName": "Roncador de Galapagos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orthopristis reddingi",
+    "SpecCode": "13724",
+    "CommonName": "Bronzestriped grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orthopristis rubra",
+    "SpecCode": "1145",
+    "CommonName": "Canguito",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Halieutaea brevicauda",
+    "SpecCode": "14051",
+    "CommonName": "Batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutaea coccinea",
+    "SpecCode": "10643",
+    "CommonName": "Anglerfish Rattlefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutaea fitzsimonsi",
+    "SpecCode": "10257",
+    "CommonName": "Circular seabat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutaea fumosa",
+    "SpecCode": "8179",
+    "CommonName": "Anglerfish Batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutaea hancocki",
+    "SpecCode": "16840",
+    "CommonName": "Hairy seabat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutaea indica",
+    "SpecCode": "10332",
+    "CommonName": "Anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutaea nigra",
+    "SpecCode": "58662",
+    "CommonName": "黑棘茄魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutaea retifera",
+    "SpecCode": "57901",
+    "CommonName": "Torpedoranglefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutaea stellata",
+    "SpecCode": "10331",
+    "CommonName": "Akagutsu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

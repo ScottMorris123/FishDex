@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Labrus bergylta",
+    "SpecCode": "572",
+    "CommonName": "Ballan wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrus merula",
+    "SpecCode": "4582",
+    "CommonName": "Abukheder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrus mixtus",
+    "SpecCode": "1375",
+    "CommonName": "Blågylta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrus viridis",
+    "SpecCode": "51659",
+    "CommonName": "Bimba",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

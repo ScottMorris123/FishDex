@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Pleuronectes platessa",
+    "SpecCode": "1342",
+    "CommonName": "An leathóg bhallach",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleuronectes quadrituberculatus",
+    "SpecCode": "4250",
+    "CommonName": "Alaska plaice",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

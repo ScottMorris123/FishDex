@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rhytiodus argenteofuscus",
+    "SpecCode": "25653",
+    "CommonName": "Amazon-nålebundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhytiodus elongatus",
+    "SpecCode": "51379",
+    "CommonName": "Aflang nålebundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhytiodus lauzannei",
+    "SpecCode": "56972",
+    "CommonName": "Boliviansk nålebundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhytiodus microlepis",
+    "SpecCode": "51334",
+    "CommonName": "Lisa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

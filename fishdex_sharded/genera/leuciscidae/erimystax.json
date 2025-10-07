@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Erimystax cahni",
+    "SpecCode": "2780",
+    "CommonName": "Sale pardturbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erimystax dissimilis",
+    "SpecCode": "2782",
+    "CommonName": "Jelčík skvrnitý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erimystax harryi",
+    "SpecCode": "61898",
+    "CommonName": "Ozark chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erimystax insignis",
+    "SpecCode": "2786",
+    "CommonName": "Blotched chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erimystax x-punctatus",
+    "SpecCode": "2793",
+    "CommonName": "Gravel chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

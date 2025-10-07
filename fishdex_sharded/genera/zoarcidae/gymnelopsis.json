@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Gymnelopsis brashnikovi",
+    "SpecCode": "23820",
+    "CommonName": "Himegenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelopsis brevifenestrata",
+    "SpecCode": "47876",
+    "CommonName": "短似裸綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelopsis humilis",
+    "SpecCode": "61675",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelopsis ocellata",
+    "SpecCode": "23819",
+    "CommonName": "Yaitogenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelopsis ochotensis",
+    "SpecCode": "23821",
+    "CommonName": "Niramigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

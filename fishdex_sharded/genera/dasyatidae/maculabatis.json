@@ -1,0 +1,84 @@
+[
+  {
+    "ScientificName": "Maculabatis ambigua",
+    "SpecCode": "68238",
+    "CommonName": "Baraka\"s whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maculabatis arabica",
+    "SpecCode": "68286",
+    "CommonName": "Arabic whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maculabatis astra",
+    "SpecCode": "64149",
+    "CommonName": "Black-spotted whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maculabatis bineeshi",
+    "SpecCode": "68287",
+    "CommonName": "Short-tail whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maculabatis gerrardi",
+    "SpecCode": "15483",
+    "CommonName": "Banded whiptail ray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maculabatis macrura",
+    "SpecCode": "69728",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maculabatis pastinacoides",
+    "SpecCode": "57398",
+    "CommonName": "Pari",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maculabatis randalli",
+    "SpecCode": "66572",
+    "CommonName": "Arabian banded whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maculabatis toshi",
+    "SpecCode": "15487",
+    "CommonName": "Black-edged whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Luciobrotula bartschi",
+    "SpecCode": "12502",
+    "CommonName": "Kuro-umidojô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobrotula brasiliensis",
+    "SpecCode": "65622",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobrotula coheni",
+    "SpecCode": "65623",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobrotula corethromycter",
+    "SpecCode": "8975",
+    "CommonName": "Buta-umidojou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobrotula lineata",
+    "SpecCode": "54157",
+    "CommonName": "線紋矛鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobrotula nolfi",
+    "SpecCode": "56350",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

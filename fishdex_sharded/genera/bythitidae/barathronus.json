@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Barathronus affinis",
+    "SpecCode": "56408",
+    "CommonName": "安芬盲鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus algrahami",
+    "SpecCode": "70109",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus bicolor",
+    "SpecCode": "56409",
+    "CommonName": "双色盲鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus bruuni",
+    "SpecCode": "56410",
+    "CommonName": "布氏盲鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus diaphanus",
+    "SpecCode": "56411",
+    "CommonName": "盲鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus linsi",
+    "SpecCode": "68871",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus maculatus",
+    "SpecCode": "16830",
+    "CommonName": "Spotted gelatinous cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus multidens",
+    "SpecCode": "56412",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus pacificus",
+    "SpecCode": "56413",
+    "CommonName": "太平洋盲鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus parfaiti",
+    "SpecCode": "46303",
+    "CommonName": "Harilik paljasnirkkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathronus roulei",
+    "SpecCode": "70104",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Empetrichthys latos",
+    "SpecCode": "3182",
+    "CommonName": "Pahrump killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Empetrichthys merriami",
+    "SpecCode": "3183",
+    "CommonName": "Ash Meadows Killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

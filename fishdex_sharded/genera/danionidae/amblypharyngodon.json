@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Amblypharyngodon atkinsonii",
+    "SpecCode": "24299",
+    "CommonName": "Birma kardsilm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblypharyngodon chulabhornae",
+    "SpecCode": "27058",
+    "CommonName": "Dánio thajské",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblypharyngodon melettinus",
+    "SpecCode": "13619",
+    "CommonName": "Attentive carplet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblypharyngodon microlepis",
+    "SpecCode": "24300",
+    "CommonName": "Carplet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblypharyngodon mola",
+    "SpecCode": "24301",
+    "CommonName": "Carplet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

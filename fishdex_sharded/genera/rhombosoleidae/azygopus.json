@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Azygopus flemingi",
+    "SpecCode": "70466",
+    "CommonName": "Spotted flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Azygopus pinnifasciatus",
+    "SpecCode": "14525",
+    "CommonName": "Bandedfin flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

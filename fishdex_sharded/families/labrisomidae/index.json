@@ -1,0 +1,87 @@
+{
+  "Family": "Labrisomidae",
+  "Order": "Blenniiformes",
+  "Common": "Labrisomids",
+  "Genera": [
+    {
+      "Genus": "Alloclinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labrisomidae/alloclinus.json"
+    },
+    {
+      "Genus": "Auchenionchus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labrisomidae/auchenionchus.json"
+    },
+    {
+      "Genus": "Brockius",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labrisomidae/brockius.json"
+    },
+    {
+      "Genus": "Calliclinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labrisomidae/calliclinus.json"
+    },
+    {
+      "Genus": "Cottoclinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labrisomidae/cottoclinus.json"
+    },
+    {
+      "Genus": "Cryptotrema",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labrisomidae/cryptotrema.json"
+    },
+    {
+      "Genus": "Dialommus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labrisomidae/dialommus.json"
+    },
+    {
+      "Genus": "Exerpes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labrisomidae/exerpes.json"
+    },
+    {
+      "Genus": "Gobioclinus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/labrisomidae/gobioclinus.json"
+    },
+    {
+      "Genus": "Haptoclinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labrisomidae/haptoclinus.json"
+    },
+    {
+      "Genus": "Labrisomus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/labrisomidae/labrisomus.json"
+    },
+    {
+      "Genus": "Malacoctenus",
+      "SpeciesCount": 25,
+      "genus_path": "genera/labrisomidae/malacoctenus.json"
+    },
+    {
+      "Genus": "Nemaclinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labrisomidae/nemaclinus.json"
+    },
+    {
+      "Genus": "Paraclinus",
+      "SpeciesCount": 23,
+      "genus_path": "genera/labrisomidae/paraclinus.json"
+    },
+    {
+      "Genus": "Starksia",
+      "SpeciesCount": 38,
+      "genus_path": "genera/labrisomidae/starksia.json"
+    },
+    {
+      "Genus": "Xenomedea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labrisomidae/xenomedea.json"
+    }
+  ]
+}

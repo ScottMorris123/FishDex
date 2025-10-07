@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Cochlefelis danielsi",
+    "SpecCode": "25515",
+    "CommonName": "Daniel's catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cochlefelis insidiator",
+    "SpecCode": "60003",
+    "CommonName": "Flat catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cochlefelis spatula",
+    "SpecCode": "25517",
+    "CommonName": "Duckbilled catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

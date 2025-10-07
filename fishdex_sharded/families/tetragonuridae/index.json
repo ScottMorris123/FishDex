@@ -1,0 +1,12 @@
+{
+  "Family": "Tetragonuridae",
+  "Order": "Scombriformes",
+  "Common": "Squaretails",
+  "Genera": [
+    {
+      "Genus": "Tetragonurus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/tetragonuridae/tetragonurus.json"
+    }
+  ]
+}

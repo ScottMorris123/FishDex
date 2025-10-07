@@ -1,0 +1,17 @@
+{
+  "Family": "Berycidae",
+  "Order": "Beryciformes",
+  "Common": "Alfonsinos",
+  "Genera": [
+    {
+      "Genus": "Beryx",
+      "SpeciesCount": 3,
+      "genus_path": "genera/berycidae/beryx.json"
+    },
+    {
+      "Genus": "Centroberyx",
+      "SpeciesCount": 7,
+      "genus_path": "genera/berycidae/centroberyx.json"
+    }
+  ]
+}

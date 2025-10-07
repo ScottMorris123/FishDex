@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Parrella fusca",
+    "SpecCode": "46843",
+    "CommonName": "棕色麥鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parrella ginsburgi",
+    "SpecCode": "54399",
+    "CommonName": "Darkblotch goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parrella lucretiae",
+    "SpecCode": "46842",
+    "CommonName": "Gobio maculado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parrella macropteryx",
+    "SpecCode": "57937",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parrella maxillaris",
+    "SpecCode": "46844",
+    "CommonName": "Doublestripe goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

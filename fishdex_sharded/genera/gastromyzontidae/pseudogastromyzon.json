@@ -1,0 +1,123 @@
+[
+  {
+    "ScientificName": "Pseudogastromyzon buas",
+    "SpecCode": "60804",
+    "CommonName": "Búa kupphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon changtingensis",
+    "SpecCode": "55026",
+    "CommonName": "Fujiani kupphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon cheni",
+    "SpecCode": "55707",
+    "CommonName": "Cheni kupphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon daon",
+    "SpecCode": "60802",
+    "CommonName": "Đà kupphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon elongatus",
+    "SpecCode": "61371",
+    "CommonName": "Sale kupphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon fangi",
+    "SpecCode": "55024",
+    "CommonName": "Fangi kupphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon fasciatus",
+    "SpecCode": "60900",
+    "CommonName": "Äâ¸¹Îüöú",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon laticeps",
+    "SpecCode": "55030",
+    "CommonName": "Laipea-kupphink",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon lianjiangensis",
+    "SpecCode": "55028",
+    "CommonName": "Lianjiangi kupphink",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon loos",
+    "SpecCode": "61372",
+    "CommonName": "Lô kupphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon meihuashanensis",
+    "SpecCode": "60611",
+    "CommonName": "Meihuashani kupphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon myersi",
+    "SpecCode": "7757",
+    "CommonName": "Kirjoimunuoliainen",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogastromyzon peristictus",
+    "SpecCode": "55025",
+    "CommonName": "Přísavník fengšunský",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

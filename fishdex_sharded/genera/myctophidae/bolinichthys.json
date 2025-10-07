@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Bolinichthys distofax",
+    "SpecCode": "7405",
+    "CommonName": "Futo-mikazuki-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bolinichthys indicus",
+    "SpecCode": "11875",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bolinichthys longipes",
+    "SpecCode": "7406",
+    "CommonName": "Hoso-mikazuki-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bolinichthys nikolayi",
+    "SpecCode": "24659",
+    "CommonName": "Nikolay's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bolinichthys photothorax",
+    "SpecCode": "11876",
+    "CommonName": "Lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bolinichthys pyrsobolus",
+    "SpecCode": "15974",
+    "CommonName": "Fiery lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bolinichthys supralateralis",
+    "SpecCode": "7407",
+    "CommonName": "Lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

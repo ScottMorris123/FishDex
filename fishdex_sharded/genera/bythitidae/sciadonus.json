@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Sciadonus cryptophthalmus",
+    "SpecCode": "46349",
+    "CommonName": "Peitsilm-ärnnirk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciadonus jonassoni",
+    "SpecCode": "56417",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciadonus longiventralis",
+    "SpecCode": "70111",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciadonus pedicellaris",
+    "SpecCode": "55193",
+    "CommonName": "柄臂胶鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciadonus robinsorum",
+    "SpecCode": "70112",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

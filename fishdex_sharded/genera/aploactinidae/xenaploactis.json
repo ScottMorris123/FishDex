@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Xenaploactis anopta",
+    "SpecCode": "59078",
+    "CommonName": "吕宋奇绒鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenaploactis asperrima",
+    "SpecCode": "59077",
+    "CommonName": "奇絨鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenaploactis cautes",
+    "SpecCode": "59080",
+    "CommonName": "Rough velvetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Batrochoglanis acanthochiroides",
+    "SpecCode": "49295",
+    "CommonName": "Bagre sapo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrochoglanis melanurus",
+    "SpecCode": "62637",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrochoglanis raninus",
+    "SpecCode": "13103",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrochoglanis transmontanus",
+    "SpecCode": "48384",
+    "CommonName": "Barbudo negro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrochoglanis villosus",
+    "SpecCode": "48385",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

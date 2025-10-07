@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Negaprion acutidens",
+    "SpecCode": "896",
+    "CommonName": "'A'ava",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Negaprion brevirostris",
+    "SpecCode": "897",
+    "CommonName": "Almindelig citronhaj",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

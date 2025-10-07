@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Assessor flavissimus",
+    "SpecCode": "14960",
+    "CommonName": "Kollane assessor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Assessor macneilli",
+    "SpecCode": "12827",
+    "CommonName": "Blauer Mirakelbarsch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Assessor randalli",
+    "SpecCode": "23439",
+    "CommonName": "Tsubame-tanabata-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

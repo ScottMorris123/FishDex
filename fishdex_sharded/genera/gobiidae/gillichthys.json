@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Gillichthys detrusus",
+    "SpecCode": "67261",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillichthys mirabilis",
+    "SpecCode": "3854",
+    "CommonName": "Chupalodo grande",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillichthys seta",
+    "SpecCode": "54508",
+    "CommonName": "Chupalodo chico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

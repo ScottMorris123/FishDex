@@ -1,0 +1,12 @@
+{
+  "Family": "Dichistiidae",
+  "Order": "Centrarchiformes",
+  "Common": "Galjoen fishes",
+  "Genera": [
+    {
+      "Genus": "Dichistius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dichistiidae/dichistius.json"
+    }
+  ]
+}

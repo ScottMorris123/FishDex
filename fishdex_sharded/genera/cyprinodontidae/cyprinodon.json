@@ -1,0 +1,452 @@
+[
+  {
+    "ScientificName": "Cyprinodon albivelis",
+    "SpecCode": "59788",
+    "CommonName": "Cachorrito aletas blancas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon alvarezi",
+    "SpecCode": "6246",
+    "CommonName": "Cachorrito de Potosí",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon arcuatus",
+    "SpecCode": "61505",
+    "CommonName": "Santa Cruz pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon artifrons",
+    "SpecCode": "57257",
+    "CommonName": "Bolín petota",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon atrorus",
+    "SpecCode": "6247",
+    "CommonName": "Blårygget tandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon beltrani",
+    "SpecCode": "6248",
+    "CommonName": "Blackfin pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon bifasciatus",
+    "SpecCode": "6249",
+    "CommonName": "Cachorrito de Cuatro Ciénegas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon bobmilleri",
+    "SpecCode": "58215",
+    "CommonName": "Cachorrito de San Ignacio",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon bondi",
+    "SpecCode": "27732",
+    "CommonName": "Hispaniola pupfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon bovinus",
+    "SpecCode": "3169",
+    "CommonName": "Härkäkilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon brontotheroides",
+    "SpecCode": "67142",
+    "CommonName": "Durophage pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon ceciliae",
+    "SpecCode": "49547",
+    "CommonName": "Cachorrito de la Presa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon dearborni",
+    "SpecCode": "49548",
+    "CommonName": "Barigonchi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon desquamator",
+    "SpecCode": "67141",
+    "CommonName": "Scale-eating pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon diabolis",
+    "SpecCode": "3170",
+    "CommonName": "Devils Hole Pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon elegans",
+    "SpecCode": "3171",
+    "CommonName": "Comanche Springs Pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon eremus",
+    "SpecCode": "59732",
+    "CommonName": "Cachorrito del Sonoyta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon esconditus",
+    "SpecCode": "61506",
+    "CommonName": "Cachorrito escondido",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon eximius",
+    "SpecCode": "3172",
+    "CommonName": "Cachorrito del Conchos",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon fontinalis",
+    "SpecCode": "6250",
+    "CommonName": "Cachorrito de Carbonera",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon higuey",
+    "SpecCode": "49549",
+    "CommonName": "多米尼加鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon hubbsi",
+    "SpecCode": "3173",
+    "CommonName": "Lake Eustis minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon inmemoriam",
+    "SpecCode": "49550",
+    "CommonName": "Cachorrito de Charco Azul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon julimes",
+    "SpecCode": "65630",
+    "CommonName": "Julimes pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon labiosus",
+    "SpecCode": "6251",
+    "CommonName": "Cachorrito cangrejero",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon laciniatus",
+    "SpecCode": "16522",
+    "CommonName": "Bahama pupfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon latifasciatus",
+    "SpecCode": "6252",
+    "CommonName": "Cachorrito de Parras",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon longidorsalis",
+    "SpecCode": "25882",
+    "CommonName": "Cachorrito de Charco Palmal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon macrolepis",
+    "SpecCode": "6253",
+    "CommonName": "Bigscale pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon macularius",
+    "SpecCode": "3174",
+    "CommonName": "Aavikkokilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon maya",
+    "SpecCode": "6254",
+    "CommonName": "Cachorrito gigante",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon meeki",
+    "SpecCode": "6255",
+    "CommonName": "Cachorrito de Mezquital",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon nazas",
+    "SpecCode": "6256",
+    "CommonName": "Cachorrito del Aguanaval",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon nevadensis",
+    "SpecCode": "3175",
+    "CommonName": "Amargosa pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon nichollsi",
+    "SpecCode": "49551",
+    "CommonName": "尼氏鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon pachycephalus",
+    "SpecCode": "6257",
+    "CommonName": "Bighead pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon pecosensis",
+    "SpecCode": "3176",
+    "CommonName": "Pecos Pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon pisteri",
+    "SpecCode": "59790",
+    "CommonName": "Cachorrito de Guzmán",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon radiosus",
+    "SpecCode": "3177",
+    "CommonName": "Owens Pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon riverendi",
+    "SpecCode": "49855",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon rubrofluviatilis",
+    "SpecCode": "3178",
+    "CommonName": "Jokikilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon salinus",
+    "SpecCode": "3179",
+    "CommonName": "Cottonball Marsh pupfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon salvadori",
+    "SpecCode": "62529",
+    "CommonName": "Bocochi pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon simus",
+    "SpecCode": "6259",
+    "CommonName": "Boxer pupfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon suavium",
+    "SpecCode": "62949",
+    "CommonName": "Cachoritto besucón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon tularosa",
+    "SpecCode": "3180",
+    "CommonName": "Tularosankilli",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon variegatus",
+    "SpecCode": "3181",
+    "CommonName": "Bahama sheepshead minnow",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon verecundus",
+    "SpecCode": "6260",
+    "CommonName": "Cachorrito aletón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinodon veronicae",
+    "SpecCode": "25883",
+    "CommonName": "Cachorrito de Charco Azul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

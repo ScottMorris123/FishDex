@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Bathymaster caeruleofasciatus",
+    "SpecCode": "3690",
+    "CommonName": "Alaskan ronquil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathymaster derjugini",
+    "SpecCode": "23545",
+    "CommonName": "Kaugida süvalohe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathymaster leurolepis",
+    "SpecCode": "3691",
+    "CommonName": "Madara-medamauo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathymaster signatus",
+    "SpecCode": "3692",
+    "CommonName": "Searcher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

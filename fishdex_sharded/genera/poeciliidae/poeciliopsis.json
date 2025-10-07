@@ -1,0 +1,233 @@
+[
+  {
+    "ScientificName": "Poeciliopsis baenschi",
+    "SpecCode": "47228",
+    "CommonName": "Baenschs tandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis balsas",
+    "SpecCode": "47229",
+    "CommonName": "Balsas livebearer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis catemaco",
+    "SpecCode": "47230",
+    "CommonName": "Catemaco livebearer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis elongata",
+    "SpecCode": "46920",
+    "CommonName": "Aflang tandkarpe",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis fasciata",
+    "SpecCode": "47231",
+    "CommonName": "Evätäplämolli",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis gracilis",
+    "SpecCode": "3229",
+    "CommonName": "Guatopote jarocho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis hnilickai",
+    "SpecCode": "47232",
+    "CommonName": "Chiapas Kärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis infans",
+    "SpecCode": "47233",
+    "CommonName": "Guatopote del Lerma",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis jackschultzi",
+    "SpecCode": "69940",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis latidens",
+    "SpecCode": "47234",
+    "CommonName": "Breitstreifenkärpfling",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis lucida",
+    "SpecCode": "47235",
+    "CommonName": "Clearfin livebearer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis lutzi",
+    "SpecCode": "53654",
+    "CommonName": "Guatopote oaxaqueño",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis monacha",
+    "SpecCode": "26064",
+    "CommonName": "Benito-tandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis occidentalis",
+    "SpecCode": "3230",
+    "CommonName": "Arizonakärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis paucimaculata",
+    "SpecCode": "47236",
+    "CommonName": "Fåplettet tandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis pleurospilus",
+    "SpecCode": "62528",
+    "CommonName": "Guatopote manchote",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis presidionis",
+    "SpecCode": "47237",
+    "CommonName": "Guatopote de Sinaloa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis prolifica",
+    "SpecCode": "47238",
+    "CommonName": "Aurinkomolli",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis retropinna",
+    "SpecCode": "47239",
+    "CommonName": "Buroca toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis santaelena",
+    "SpecCode": "64661",
+    "CommonName": "Elena-tandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis scarlli",
+    "SpecCode": "47291",
+    "CommonName": "Aavemolli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis sonoriensis",
+    "SpecCode": "65075",
+    "CommonName": "Sonora topminnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis turneri",
+    "SpecCode": "47292",
+    "CommonName": "Apamila-Kärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis turrubarensis",
+    "SpecCode": "47293",
+    "CommonName": "Barred livebearer",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poeciliopsis viriosa",
+    "SpecCode": "47303",
+    "CommonName": "Chubby livebearer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

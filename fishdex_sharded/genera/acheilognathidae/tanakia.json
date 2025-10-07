@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Tanakia koreensis",
+    "SpecCode": "60014",
+    "CommonName": "Korea paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanakia lanceolata",
+    "SpecCode": "22890",
+    "CommonName": "Sale tanakia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanakia latimarginata",
+    "SpecCode": "67835",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanakia limbata",
+    "SpecCode": "11929",
+    "CommonName": "Aburabote",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanakia shimazui",
+    "SpecCode": "65138",
+    "CommonName": "Shimazu tanakia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanakia signifer",
+    "SpecCode": "56272",
+    "CommonName": "Korean bittering",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tanakia somjinensis",
+    "SpecCode": "60015",
+    "CommonName": "Hořavka somjinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

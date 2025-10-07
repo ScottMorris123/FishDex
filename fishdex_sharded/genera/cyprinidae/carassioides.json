@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Carassioides acuminatus",
+    "SpecCode": "61171",
+    "CommonName": "Cá Nhung",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carassioides argentea",
+    "SpecCode": "62813",
+    "CommonName": "Hõbedane idakoger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carassioides macropterus",
+    "SpecCode": "62814",
+    "CommonName": "Suuruim-idakoger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carassioides phongnhaensis",
+    "SpecCode": "67427",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

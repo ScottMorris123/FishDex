@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Etelis carbunculus",
+    "SpecCode": "87",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etelis coruscans",
+    "SpecCode": "1385",
+    "CommonName": "Abuninas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etelis oculatus",
+    "SpecCode": "1391",
+    "CommonName": "Blear-eyed snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etelis radiosus",
+    "SpecCode": "1392",
+    "CommonName": "Bleg snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

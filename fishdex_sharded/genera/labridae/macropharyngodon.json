@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Macropharyngodon bipartitus",
+    "SpecCode": "7801",
+    "CommonName": "Diamond wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon choati",
+    "SpecCode": "13138",
+    "CommonName": "Choat's leopard-wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon cyanoguttatus",
+    "SpecCode": "13136",
+    "CommonName": "Blouspikkel-lipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon geoffroy",
+    "SpecCode": "7767",
+    "CommonName": "Arinamawa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon kuiteri",
+    "SpecCode": "13141",
+    "CommonName": "Black leopard wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon marisrubri",
+    "SpecCode": "13137",
+    "CommonName": "Diamant-Lippfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon meleagris",
+    "SpecCode": "4984",
+    "CommonName": "Arinaimawa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon moyeri",
+    "SpecCode": "23534",
+    "CommonName": "Usuba-nodogurobera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon negrosensis",
+    "SpecCode": "4985",
+    "CommonName": "Black leopard wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon ornatus",
+    "SpecCode": "12724",
+    "CommonName": "False leopard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon pakoko",
+    "SpecCode": "67486",
+    "CommonName": "Pakoko wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropharyngodon vivienae",
+    "SpecCode": "13140",
+    "CommonName": "Madagakar-lipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

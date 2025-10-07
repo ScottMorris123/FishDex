@@ -1,0 +1,52 @@
+{
+  "Family": "Opisthoproctidae",
+  "Order": "Argentiniformes",
+  "Common": "Barreleyes or spookfishes",
+  "Genera": [
+    {
+      "Genus": "Bathylychnops",
+      "SpeciesCount": 3,
+      "genus_path": "genera/opisthoproctidae/bathylychnops.json"
+    },
+    {
+      "Genus": "Dolichopteroides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/opisthoproctidae/dolichopteroides.json"
+    },
+    {
+      "Genus": "Dolichopteryx",
+      "SpeciesCount": 9,
+      "genus_path": "genera/opisthoproctidae/dolichopteryx.json"
+    },
+    {
+      "Genus": "Ioichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/opisthoproctidae/ioichthys.json"
+    },
+    {
+      "Genus": "Macropinna",
+      "SpeciesCount": 1,
+      "genus_path": "genera/opisthoproctidae/macropinna.json"
+    },
+    {
+      "Genus": "Monacoa",
+      "SpeciesCount": 3,
+      "genus_path": "genera/opisthoproctidae/monacoa.json"
+    },
+    {
+      "Genus": "Opisthoproctus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/opisthoproctidae/opisthoproctus.json"
+    },
+    {
+      "Genus": "Rhynchohyalus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/opisthoproctidae/rhynchohyalus.json"
+    },
+    {
+      "Genus": "Winteria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/opisthoproctidae/winteria.json"
+    }
+  ]
+}

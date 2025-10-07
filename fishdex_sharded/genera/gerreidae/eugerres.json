@@ -1,0 +1,60 @@
+[
+  {
+    "ScientificName": "Eugerres axillaris",
+    "SpecCode": "13697",
+    "CommonName": "Black axillary mojarra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugerres brasilianus",
+    "SpecCode": "7533",
+    "CommonName": "Acará-tinga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugerres brevimanus",
+    "SpecCode": "13699",
+    "CommonName": "Blanche à nageoire courte",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugerres lineatus",
+    "SpecCode": "13730",
+    "CommonName": "Blanche naine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugerres mexicanus",
+    "SpecCode": "55796",
+    "CommonName": "Lacandon mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugerres plumieri",
+    "SpecCode": "1053",
+    "CommonName": "Blanche rayée",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

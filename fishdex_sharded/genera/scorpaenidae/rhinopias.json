@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Rhinopias aphanes",
+    "SpecCode": "12898",
+    "CommonName": "Lacy scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinopias argoliba",
+    "SpecCode": "23883",
+    "CommonName": "Namidakasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinopias cea",
+    "SpecCode": "50318",
+    "CommonName": "Cea's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinopias eschmeyeri",
+    "SpecCode": "25845",
+    "CommonName": "Eschmeyeri nospelpuuk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinopias frondosa",
+    "SpecCode": "5823",
+    "CommonName": "Borokasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinopias xenops",
+    "SpecCode": "23884",
+    "CommonName": "Nise-borokasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

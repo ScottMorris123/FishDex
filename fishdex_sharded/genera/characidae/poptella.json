@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Poptella brevispina",
+    "SpecCode": "27921",
+    "CommonName": "Piaba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poptella compressa",
+    "SpecCode": "51977",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poptella longipinnis",
+    "SpecCode": "51979",
+    "CommonName": "Ketassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poptella paraguayensis",
+    "SpecCode": "53345",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

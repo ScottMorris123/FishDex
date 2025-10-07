@@ -1,0 +1,85 @@
+[
+  {
+    "ScientificName": "Siniperca chuatsi",
+    "SpecCode": "28054",
+    "CommonName": "Aucha-Barsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siniperca fortis",
+    "SpecCode": "60140",
+    "CommonName": "麻鱖",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siniperca knerii",
+    "SpecCode": "55170",
+    "CommonName": "Big-eye mandarin fish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siniperca liuzhouensis",
+    "SpecCode": "60139",
+    "CommonName": "柳州鱖",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siniperca obscura",
+    "SpecCode": "52749",
+    "CommonName": "少鱗鱖",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siniperca roulei",
+    "SpecCode": "55428",
+    "CommonName": "Slender mandarinfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siniperca scherzeri",
+    "SpecCode": "55171",
+    "CommonName": "Golden mandarin fish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siniperca undulata",
+    "SpecCode": "55172",
+    "CommonName": "波纹鳜",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siniperca vietnamensis",
+    "SpecCode": "60141",
+    "CommonName": "高体鳜",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

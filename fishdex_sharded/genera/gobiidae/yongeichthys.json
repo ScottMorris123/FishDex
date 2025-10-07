@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Yongeichthys criniger",
+    "SpecCode": "49161",
+    "CommonName": "Belodok lisah",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yongeichthys thomasi",
+    "SpecCode": "10007",
+    "CommonName": "汤氏裸颊鰕虎鱼",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yongeichthys tuticorinensis",
+    "SpecCode": "60628",
+    "CommonName": "印度裸頰鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

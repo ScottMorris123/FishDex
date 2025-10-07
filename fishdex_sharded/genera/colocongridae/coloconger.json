@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Coloconger cadenati",
+    "SpecCode": "9067",
+    "CommonName": "Cadenati pällangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coloconger canina",
+    "SpecCode": "61376",
+    "CommonName": "Hadoun psí",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coloconger eximia",
+    "SpecCode": "61377",
+    "CommonName": "Hadoun jihoafrický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coloconger japonicus",
+    "SpecCode": "23279",
+    "CommonName": "Bake-fusa-anago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coloconger maculatus",
+    "SpecCode": "69512",
+    "CommonName": "Caudal-spot short-tail eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coloconger meadi",
+    "SpecCode": "27788",
+    "CommonName": "Hadoun mexický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coloconger raniceps",
+    "SpecCode": "23277",
+    "CommonName": "Froghead eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coloconger saldanhai",
+    "SpecCode": "70476",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coloconger scholesi",
+    "SpecCode": "7674",
+    "CommonName": "Hadoun malajský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

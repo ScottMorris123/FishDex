@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Polymixia berndti",
+    "SpecCode": "10273",
+    "CommonName": "Arameginme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia busakhini",
+    "SpecCode": "52816",
+    "CommonName": "Busakhin's beardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia carmenae",
+    "SpecCode": "70567",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia fusca",
+    "SpecCode": "52808",
+    "CommonName": "暗色须鳂",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia japonica",
+    "SpecCode": "12996",
+    "CommonName": "Barbu argenté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia longispina",
+    "SpecCode": "52812",
+    "CommonName": "長棘鬚鰃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia lowei",
+    "SpecCode": "3245",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia nobilis",
+    "SpecCode": "7557",
+    "CommonName": "Atlandi kakspoisur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia salagomeziensis",
+    "SpecCode": "52815",
+    "CommonName": "东太平洋须鳂",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia sazonovi",
+    "SpecCode": "52818",
+    "CommonName": "萨氏",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymixia yuri",
+    "SpecCode": "52809",
+    "CommonName": "尤氏须鳂",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

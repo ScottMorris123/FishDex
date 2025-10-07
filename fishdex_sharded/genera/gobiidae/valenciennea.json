@@ -1,0 +1,148 @@
+[
+  {
+    "ScientificName": "Valenciennea alleni",
+    "SpecCode": "12606",
+    "CommonName": "Allen's glider goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea bella",
+    "SpecCode": "12607",
+    "CommonName": "Bella goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea decora",
+    "SpecCode": "12609",
+    "CommonName": "Decora goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea helsdingenii",
+    "SpecCode": "7224",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea immaculata",
+    "SpecCode": "12614",
+    "CommonName": "Immaculate glider goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea limicola",
+    "SpecCode": "12610",
+    "CommonName": "Mud goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea longipinnis",
+    "SpecCode": "7225",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea muralis",
+    "SpecCode": "7226",
+    "CommonName": "Belodok jalur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea parva",
+    "SpecCode": "12611",
+    "CommonName": "Little glider goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea persica",
+    "SpecCode": "12612",
+    "CommonName": "波斯凡塘鱧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea puellaris",
+    "SpecCode": "7246",
+    "CommonName": "Bagtis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea randalli",
+    "SpecCode": "12613",
+    "CommonName": "Belodok karang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea sexguttata",
+    "SpecCode": "7227",
+    "CommonName": "Belodok tompok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea strigata",
+    "SpecCode": "6575",
+    "CommonName": "Akahachihaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea wardii",
+    "SpecCode": "12615",
+    "CommonName": "Broadbarred glider goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valenciennea yanoi",
+    "SpecCode": "69085",
+    "CommonName": "Kiito-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

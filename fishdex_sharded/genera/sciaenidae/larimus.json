@@ -1,0 +1,58 @@
+[
+  {
+    "ScientificName": "Larimus acclivis",
+    "SpecCode": "14015",
+    "CommonName": "Bombache boquinete",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Larimus argenteus",
+    "SpecCode": "14014",
+    "CommonName": "Bombache boquituerta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Larimus breviceps",
+    "SpecCode": "1180",
+    "CommonName": "Amarrala",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Larimus effulgens",
+    "SpecCode": "14011",
+    "CommonName": "Bombache nato",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Larimus fasciatus",
+    "SpecCode": "1182",
+    "CommonName": "Banded drum",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Larimus pacificus",
+    "SpecCode": "14009",
+    "CommonName": "Bombache cajeto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

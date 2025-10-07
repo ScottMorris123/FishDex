@@ -1,0 +1,12 @@
+{
+  "Family": "Kurtidae",
+  "Order": "Kurtiformes",
+  "Common": "Nurseryfishes",
+  "Genera": [
+    {
+      "Genus": "Kurtus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/kurtidae/kurtus.json"
+    }
+  ]
+}

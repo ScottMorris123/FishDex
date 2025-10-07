@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Echinophryne crassispina",
+    "SpecCode": "14039",
+    "CommonName": "Prickly anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echinophryne mitchellii",
+    "SpecCode": "14042",
+    "CommonName": "Bristly frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echinophryne reynoldsi",
+    "SpecCode": "24729",
+    "CommonName": "Reynold's anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

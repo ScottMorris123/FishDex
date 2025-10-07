@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Anostomoides atrianalis",
+    "SpecCode": "51380",
+    "CommonName": "Venezuela-bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anostomoides laticeps",
+    "SpecCode": "25636",
+    "CommonName": "Araçu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anostomoides passionis",
+    "SpecCode": "62844",
+    "CommonName": "Xingu-bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

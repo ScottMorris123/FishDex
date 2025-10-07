@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Odax cyanoallix",
+    "SpecCode": "12838",
+    "CommonName": "Bluefinned butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odax pullus",
+    "SpecCode": "12840",
+    "CommonName": "Butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

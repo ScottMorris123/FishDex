@@ -1,0 +1,158 @@
+[
+  {
+    "ScientificName": "Planiliza abu",
+    "SpecCode": "13461",
+    "CommonName": "Abu mullet",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza affinis",
+    "SpecCode": "15287",
+    "CommonName": "Cá Đối vây trước",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza alata",
+    "SpecCode": "7861",
+    "CommonName": "Basket mullet",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza carinata",
+    "SpecCode": "13673",
+    "CommonName": "Bıldırcın kefal",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza haematocheilus",
+    "SpecCode": "13000",
+    "CommonName": "Haarder",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza klunzingeri",
+    "SpecCode": "46376",
+    "CommonName": "Klunzinger's mullet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza macrolepis",
+    "SpecCode": "4816",
+    "CommonName": "Aguas",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza mandapamensis",
+    "SpecCode": "60634",
+    "CommonName": "Indian mullet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza melinoptera",
+    "SpecCode": "5655",
+    "CommonName": "Aligasin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza ordensis",
+    "SpecCode": "69356",
+    "CommonName": "River Diamond mullet",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza parsia",
+    "SpecCode": "4668",
+    "CommonName": "Avele-meen",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza persica",
+    "SpecCode": "46461",
+    "CommonName": "Biah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza planiceps",
+    "SpecCode": "4820",
+    "CommonName": "Avelemeen",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza subviridis",
+    "SpecCode": "4819",
+    "CommonName": "Aligasin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planiliza tade",
+    "SpecCode": "69357",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

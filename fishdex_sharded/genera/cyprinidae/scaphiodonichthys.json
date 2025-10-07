@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Scaphiodonichthys acanthopterus",
+    "SpecCode": "50363",
+    "CommonName": "Ogauim-nagarmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scaphiodonichthys burmanicus",
+    "SpecCode": "23199",
+    "CommonName": "Birma nagarmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scaphiodonichthys macracanthus",
+    "SpecCode": "54740",
+    "CommonName": "Chramule tonkinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Alepisaurus brevirostris",
+    "SpecCode": "2728",
+    "CommonName": "Kortneus-lansetvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepisaurus ferox",
+    "SpecCode": "99",
+    "CommonName": "Alepisavros",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

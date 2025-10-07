@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Tominanga aurea",
+    "SpecCode": "25184",
+    "CommonName": "金色富永沼銀漢魚",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tominanga sanguicauda",
+    "SpecCode": "25185",
+    "CommonName": "Blutschwanz-Ährenfisch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

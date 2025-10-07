@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Brachypterois curvispina",
+    "SpecCode": "67874",
+    "CommonName": "Australian sawcheek scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachypterois serrulata",
+    "SpecCode": "9203",
+    "CommonName": "Depu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachypterois serrulifer",
+    "SpecCode": "67875",
+    "CommonName": "Sawmaxilla scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

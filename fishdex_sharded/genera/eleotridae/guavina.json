@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Guavina guavina",
+    "SpecCode": "27916",
+    "CommonName": "Amburé",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guavina micropus",
+    "SpecCode": "54419",
+    "CommonName": "小眼瓜維那塘鱧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

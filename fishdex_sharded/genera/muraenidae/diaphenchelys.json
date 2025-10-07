@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Diaphenchelys dalmatian",
+    "SpecCode": "69263",
+    "CommonName": "Dalmatian moray eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphenchelys pelonates",
+    "SpecCode": "63905",
+    "CommonName": "Mudamureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

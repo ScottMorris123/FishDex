@@ -1,0 +1,57 @@
+{
+  "Family": "Scaridae",
+  "Order": "Eupercaria/misc",
+  "Common": "Parrotfishes",
+  "Genera": [
+    {
+      "Genus": "Bolbometopon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scaridae/bolbometopon.json"
+    },
+    {
+      "Genus": "Calotomus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/scaridae/calotomus.json"
+    },
+    {
+      "Genus": "Cetoscarus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scaridae/cetoscarus.json"
+    },
+    {
+      "Genus": "Chlorurus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/scaridae/chlorurus.json"
+    },
+    {
+      "Genus": "Cryptotomus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scaridae/cryptotomus.json"
+    },
+    {
+      "Genus": "Hipposcarus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scaridae/hipposcarus.json"
+    },
+    {
+      "Genus": "Leptoscarus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scaridae/leptoscarus.json"
+    },
+    {
+      "Genus": "Nicholsina",
+      "SpeciesCount": 3,
+      "genus_path": "genera/scaridae/nicholsina.json"
+    },
+    {
+      "Genus": "Scarus",
+      "SpeciesCount": 52,
+      "genus_path": "genera/scaridae/scarus.json"
+    },
+    {
+      "Genus": "Sparisoma",
+      "SpeciesCount": 15,
+      "genus_path": "genera/scaridae/sparisoma.json"
+    }
+  ]
+}

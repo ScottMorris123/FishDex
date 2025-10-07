@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Diodon eydouxii",
+    "SpecCode": "14490",
+    "CommonName": "Baiacu-de-espinho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diodon holocanthus",
+    "SpecCode": "4659",
+    "CommonName": "Ajargo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diodon hystrix",
+    "SpecCode": "1022",
+    "CommonName": "Adjidjan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diodon liturosus",
+    "SpecCode": "6552",
+    "CommonName": "Black blotched porcupinefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diodon nicthemerus",
+    "SpecCode": "12864",
+    "CommonName": "Blow up",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

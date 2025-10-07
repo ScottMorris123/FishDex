@@ -1,0 +1,507 @@
+[
+  {
+    "ScientificName": "Bathyraja abyssicola",
+    "SpecCode": "22552",
+    "CommonName": "Chihirokasube",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja aguja",
+    "SpecCode": "54024",
+    "CommonName": "Aguja skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja albomaculata",
+    "SpecCode": "51178",
+    "CommonName": "Raya de lunares",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja aleutica",
+    "SpecCode": "2555",
+    "CommonName": "Aleutian skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja andriashevi",
+    "SpecCode": "12581",
+    "CommonName": "Kleinogige rog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja arctowskii",
+    "SpecCode": "69387",
+    "CommonName": "Antarctic dark-mouth skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja bergi",
+    "SpecCode": "50293",
+    "CommonName": "Bergi süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja brachyurops",
+    "SpecCode": "51184",
+    "CommonName": "Breedsnuitrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja caeluronigricans",
+    "SpecCode": "22562",
+    "CommonName": "Lillakasmust süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja chapmani",
+    "SpecCode": "69859",
+    "CommonName": "Chapman's skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja cousseauae",
+    "SpecCode": "63559",
+    "CommonName": "Cousseau süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja diplotaenia",
+    "SpecCode": "22559",
+    "CommonName": "Donkerroze rog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja eatonii",
+    "SpecCode": "6948",
+    "CommonName": "Eatoni süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja fedorovi",
+    "SpecCode": "54111",
+    "CommonName": "Cinnamon skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja griseocauda",
+    "SpecCode": "27229",
+    "CommonName": "Austral ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja hesperafricana",
+    "SpecCode": "23795",
+    "CommonName": "Lääneaafrika süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja interrupta",
+    "SpecCode": "2559",
+    "CommonName": "Bering skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja irrasa",
+    "SpecCode": "6949",
+    "CommonName": "Kerguelen sandpaper skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja ishiharai",
+    "SpecCode": "63802",
+    "CommonName": "Abyssal skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja isotrachys",
+    "SpecCode": "22556",
+    "CommonName": "Challenger skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja kincaidii",
+    "SpecCode": "69750",
+    "CommonName": "Sandpaper Skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja leucomelanos",
+    "SpecCode": "66441",
+    "CommonName": "Domino skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja lindbergi",
+    "SpecCode": "22565",
+    "CommonName": "Commander skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja longicauda",
+    "SpecCode": "52468",
+    "CommonName": "Pikksaba-süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja maccaini",
+    "SpecCode": "6950",
+    "CommonName": "McCaini süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja macloviana",
+    "SpecCode": "52474",
+    "CommonName": "Patagonian skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja maculata",
+    "SpecCode": "54021",
+    "CommonName": "Laiguline süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja magellanica",
+    "SpecCode": "51190",
+    "CommonName": "Magalhãesi süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja mariposa",
+    "SpecCode": "63102",
+    "CommonName": "Butterfly skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja matsubarai",
+    "SpecCode": "22561",
+    "CommonName": "Donkerpaarse rog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja meridionalis",
+    "SpecCode": "6951",
+    "CommonName": "Dark-belly skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja microtrachys",
+    "SpecCode": "69753",
+    "CommonName": "Fijngestekelde rog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja minispinosa",
+    "SpecCode": "22564",
+    "CommonName": "Kleingestekelde rog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja multispinis",
+    "SpecCode": "54023",
+    "CommonName": "Multispine skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja murrayi",
+    "SpecCode": "6952",
+    "CommonName": "Murray süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja notoroensis",
+    "SpecCode": "22563",
+    "CommonName": "Notoro skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja pacifica",
+    "SpecCode": "68503",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja pallida",
+    "SpecCode": "9251",
+    "CommonName": "Heller Tiefenrochen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja panthera",
+    "SpecCode": "66500",
+    "CommonName": "Leopard skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja papilionifera",
+    "SpecCode": "54019",
+    "CommonName": "Butterfly skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja peruana",
+    "SpecCode": "54020",
+    "CommonName": "Peruu süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja pseudoisotrachys",
+    "SpecCode": "54091",
+    "CommonName": "Jaapani süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja richardsoni",
+    "SpecCode": "9252",
+    "CommonName": "Deepsea skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja scaphiops",
+    "SpecCode": "52472",
+    "CommonName": "Cuphead skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja schroederi",
+    "SpecCode": "54022",
+    "CommonName": "Hvidmundet rokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja shuntovi",
+    "SpecCode": "47416",
+    "CommonName": "Longnose deepsea skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja smirnovi",
+    "SpecCode": "22567",
+    "CommonName": "Dobukasube",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja smithii",
+    "SpecCode": "10121",
+    "CommonName": "African softnose skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja spinicauda",
+    "SpecCode": "2569",
+    "CommonName": "Dornschwanz-Tiefenrochen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja spinosissima",
+    "SpecCode": "13208",
+    "CommonName": "Pacific white skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja taranetzi",
+    "SpecCode": "54038",
+    "CommonName": "Aleoetenrog",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja trachouros",
+    "SpecCode": "22557",
+    "CommonName": "Eremo skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja trachura",
+    "SpecCode": "2571",
+    "CommonName": "Black skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja tunae",
+    "SpecCode": "63803",
+    "CommonName": "Mosambiigi süvarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja tzinovskii",
+    "SpecCode": "12582",
+    "CommonName": "Creamback skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyraja violacea",
+    "SpecCode": "22558",
+    "CommonName": "Kitanokasube",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

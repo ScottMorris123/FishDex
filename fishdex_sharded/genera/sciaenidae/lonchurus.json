@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Lonchurus elegans",
+    "SpecCode": "1188",
+    "CommonName": "Betara",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lonchurus lanceolatus",
+    "SpecCode": "1183",
+    "CommonName": "Barbiche longue aile",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

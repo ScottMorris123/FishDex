@@ -1,0 +1,22 @@
+{
+  "Family": "Trygonorrhinidae",
+  "Order": "Rhinopristiformes",
+  "Common": "Banjo rays, Fiddler rays",
+  "Genera": [
+    {
+      "Genus": "Aptychotrema",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trygonorrhinidae/aptychotrema.json"
+    },
+    {
+      "Genus": "Trygonorrhina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trygonorrhinidae/trygonorrhina.json"
+    },
+    {
+      "Genus": "Zapteryx",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trygonorrhinidae/zapteryx.json"
+    }
+  ]
+}

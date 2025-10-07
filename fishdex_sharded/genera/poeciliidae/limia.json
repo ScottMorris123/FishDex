@@ -1,0 +1,194 @@
+[
+  {
+    "ScientificName": "Limia caymanensis",
+    "SpecCode": "27701",
+    "CommonName": "Grand Cayman limia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia dominicensis",
+    "SpecCode": "27702",
+    "CommonName": "Dominika-Molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia fuscomaculata",
+    "SpecCode": "27703",
+    "CommonName": "Blotched limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia garnieri",
+    "SpecCode": "27704",
+    "CommonName": "Garniers limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia grossidens",
+    "SpecCode": "27705",
+    "CommonName": "Breitzahn-Limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia heterandria",
+    "SpecCode": "47222",
+    "CommonName": "Haitinmolli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia immaculata",
+    "SpecCode": "27706",
+    "CommonName": "Gulfinnet limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia melanogaster",
+    "SpecCode": "10998",
+    "CommonName": "Blå limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia melanonotata",
+    "SpecCode": "27707",
+    "CommonName": "Blackbanded limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia miragoanensis",
+    "SpecCode": "27708",
+    "CommonName": "Miragoane limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia nigrofasciata",
+    "SpecCode": "11981",
+    "CommonName": "Blackbarred limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia ornata",
+    "SpecCode": "27709",
+    "CommonName": "Korulimia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia pauciradiata",
+    "SpecCode": "27710",
+    "CommonName": "Few-rayed limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia perugiae",
+    "SpecCode": "27711",
+    "CommonName": "Mustaevälimia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia rivasi",
+    "SpecCode": "27712",
+    "CommonName": "Galet-limia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia sulphurophila",
+    "SpecCode": "27713",
+    "CommonName": "Rikkilimia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia tridens",
+    "SpecCode": "49033",
+    "CommonName": "Loistolimia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia versicolor",
+    "SpecCode": "27715",
+    "CommonName": "Bunte Limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia vittata",
+    "SpecCode": "4665",
+    "CommonName": "Banded limia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia yaguajali",
+    "SpecCode": "27720",
+    "CommonName": "Keltakurkkulimia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limia zonata",
+    "SpecCode": "27721",
+    "CommonName": "Stribet limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

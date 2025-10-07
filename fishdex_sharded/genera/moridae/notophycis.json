@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Notophycis fitchi",
+    "SpecCode": "60895",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notophycis marginata",
+    "SpecCode": "2008",
+    "CommonName": "Brótola",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

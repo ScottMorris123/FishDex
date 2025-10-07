@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Alpinocottus poecilopus",
+    "SpecCode": "8419",
+    "CommonName": "Alpine bullhead",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alpinocottus volki",
+    "SpecCode": "48320",
+    "CommonName": "Kirjoeväsimppu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Ephippus goreensis",
+    "SpecCode": "4938",
+    "CommonName": "Aafrika merilabidas",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ephippus orbis",
+    "SpecCode": "8243",
+    "CommonName": "Batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

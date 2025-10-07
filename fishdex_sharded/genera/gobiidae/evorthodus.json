@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Evorthodus lyricus",
+    "SpecCode": "3853",
+    "CommonName": "Amoré",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evorthodus minutus",
+    "SpecCode": "54388",
+    "CommonName": "Gobio pequeño",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

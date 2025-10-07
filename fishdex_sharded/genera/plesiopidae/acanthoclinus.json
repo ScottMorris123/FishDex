@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Acanthoclinus fuscus",
+    "SpecCode": "12865",
+    "CommonName": "Olive rockfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoclinus littoreus",
+    "SpecCode": "49224",
+    "CommonName": "Rockfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoclinus marilynae",
+    "SpecCode": "46323",
+    "CommonName": "Stout rockfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoclinus matti",
+    "SpecCode": "47430",
+    "CommonName": "馬氏棘鮗",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoclinus rua",
+    "SpecCode": "46322",
+    "CommonName": "Little rockfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

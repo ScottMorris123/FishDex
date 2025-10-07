@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Artedius corallinus",
+    "SpecCode": "4044",
+    "CommonName": "Charrasco coralino",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artedius fenestralis",
+    "SpecCode": "4046",
+    "CommonName": "Padded sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artedius harringtoni",
+    "SpecCode": "4047",
+    "CommonName": "Luskoglavi kapelj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artedius lateralis",
+    "SpecCode": "4048",
+    "CommonName": "Ar bokoluski",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artedius notospilotus",
+    "SpecCode": "4050",
+    "CommonName": "Bonehead sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

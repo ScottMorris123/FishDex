@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Atractodenchelys brevitrunca",
+    "SpecCode": "70363",
+    "CommonName": "Short-bodied arrowtooth eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atractodenchelys phrix",
+    "SpecCode": "61179",
+    "CommonName": "Arrowtooth Eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atractodenchelys robinsorum",
+    "SpecCode": "63090",
+    "CommonName": "Korallimere noolhammasangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Amblycirrhitus bimacula",
+    "SpecCode": "5829",
+    "CommonName": "La'o",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblycirrhitus earnshawi",
+    "SpecCode": "22482",
+    "CommonName": "White hawkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblycirrhitus oxyrhynchos",
+    "SpecCode": "60598",
+    "CommonName": "Sharpsnout hawkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblycirrhitus pinos",
+    "SpecCode": "3655",
+    "CommonName": "Grannyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblycirrhitus unimacula",
+    "SpecCode": "23501",
+    "CommonName": "Kurohoshigonbe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

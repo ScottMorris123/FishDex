@@ -1,0 +1,52 @@
+{
+  "Family": "Pristigasteridae",
+  "Order": "Clupeiformes",
+  "Common": "Pristigasterids",
+  "Genera": [
+    {
+      "Genus": "Chirocentrodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pristigasteridae/chirocentrodon.json"
+    },
+    {
+      "Genus": "Ilisha",
+      "SpeciesCount": 16,
+      "genus_path": "genera/pristigasteridae/ilisha.json"
+    },
+    {
+      "Genus": "Neoopisthopterus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pristigasteridae/neoopisthopterus.json"
+    },
+    {
+      "Genus": "Odontognathus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pristigasteridae/odontognathus.json"
+    },
+    {
+      "Genus": "Opisthopterus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/pristigasteridae/opisthopterus.json"
+    },
+    {
+      "Genus": "Pellona",
+      "SpeciesCount": 6,
+      "genus_path": "genera/pristigasteridae/pellona.json"
+    },
+    {
+      "Genus": "Pliosteostoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pristigasteridae/pliosteostoma.json"
+    },
+    {
+      "Genus": "Pristigaster",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pristigasteridae/pristigaster.json"
+    },
+    {
+      "Genus": "Raconda",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pristigasteridae/raconda.json"
+    }
+  ]
+}

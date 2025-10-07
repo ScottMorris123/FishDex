@@ -1,0 +1,32 @@
+{
+  "Family": "Zenarchopteridae",
+  "Order": "Beloniformes",
+  "Common": "Internally fertilized halfbeaks",
+  "Genera": [
+    {
+      "Genus": "Dermogenys",
+      "SpeciesCount": 13,
+      "genus_path": "genera/zenarchopteridae/dermogenys.json"
+    },
+    {
+      "Genus": "Hemirhamphodon",
+      "SpeciesCount": 9,
+      "genus_path": "genera/zenarchopteridae/hemirhamphodon.json"
+    },
+    {
+      "Genus": "Nomorhamphus",
+      "SpeciesCount": 22,
+      "genus_path": "genera/zenarchopteridae/nomorhamphus.json"
+    },
+    {
+      "Genus": "Tondanichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zenarchopteridae/tondanichthys.json"
+    },
+    {
+      "Genus": "Zenarchopterus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/zenarchopteridae/zenarchopterus.json"
+    }
+  ]
+}

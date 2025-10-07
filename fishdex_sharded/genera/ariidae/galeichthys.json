@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Galeichthys ater",
+    "SpecCode": "5998",
+    "CommonName": "Black seacatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galeichthys feliceps",
+    "SpecCode": "288",
+    "CommonName": "Baber",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galeichthys peruvianus",
+    "SpecCode": "13493",
+    "CommonName": "Bagre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galeichthys troworum",
+    "SpecCode": "65787",
+    "CommonName": "Trowi haiuimsäga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

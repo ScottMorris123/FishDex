@@ -1,0 +1,318 @@
+[
+  {
+    "ScientificName": "Osteochilus bellus",
+    "SpecCode": "17433",
+    "CommonName": "Kaunis luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus bleekeri",
+    "SpecCode": "64792",
+    "CommonName": "Bleekeri luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus borneensis",
+    "SpecCode": "17434",
+    "CommonName": "Borneo luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus brachynotopteroides",
+    "SpecCode": "27160",
+    "CommonName": "Kontumi luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus chini",
+    "SpecCode": "27340",
+    "CommonName": "Chini luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus enneaporos",
+    "SpecCode": "17435",
+    "CommonName": "Tai luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus flavicauda",
+    "SpecCode": "65097",
+    "CommonName": "Kollasaba-luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus harrisoni",
+    "SpecCode": "17436",
+    "CommonName": "Harrisoni luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus ingeri",
+    "SpecCode": "27339",
+    "CommonName": "Ingeri luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus intermedius",
+    "SpecCode": "17437",
+    "CommonName": "Menyadin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus jeruk",
+    "SpecCode": "58340",
+    "CommonName": "Oranž luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus kahajanensis",
+    "SpecCode": "17438",
+    "CommonName": "Kahajani luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus kappenii",
+    "SpecCode": "17439",
+    "CommonName": "Kappeni luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus kelabau",
+    "SpecCode": "22817",
+    "CommonName": "Kelabau",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus kerinciensis",
+    "SpecCode": "64994",
+    "CommonName": "Kerinci luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus kuekenthali",
+    "SpecCode": "52598",
+    "CommonName": "Kükenthali luumokk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus lini",
+    "SpecCode": "27161",
+    "CommonName": "Lini luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus longidorsalis",
+    "SpecCode": "54300",
+    "CommonName": "Drobníček indický",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus melanopleura",
+    "SpecCode": "16124",
+    "CommonName": "Aro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus microcephalus",
+    "SpecCode": "17441",
+    "CommonName": "Bantak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus nashii",
+    "SpecCode": "24089",
+    "CommonName": "Chandkas barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus partilineatus",
+    "SpecCode": "27013",
+    "CommonName": "Engkarit",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus pentalineatus",
+    "SpecCode": "17442",
+    "CommonName": "Tvrdoretka pětipruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus repang",
+    "SpecCode": "17445",
+    "CommonName": "Repang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus salsburyi",
+    "SpecCode": "28241",
+    "CommonName": "&#32441;&#21767;&#40060;",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus sarawakensis",
+    "SpecCode": "27342",
+    "CommonName": "Sarawaki luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus scapularis",
+    "SpecCode": "65633",
+    "CommonName": "Tumetäpp-luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus schlegelii",
+    "SpecCode": "16131",
+    "CommonName": "Aralin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus serokan",
+    "SpecCode": "58341",
+    "CommonName": "Soo-luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus sondhii",
+    "SpecCode": "24082",
+    "CommonName": "Sondhi luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus spilurus",
+    "SpecCode": "5432",
+    "CommonName": "Bantak batu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus striatus",
+    "SpecCode": "50352",
+    "CommonName": "Mekongi luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus vittatoides",
+    "SpecCode": "65636",
+    "CommonName": "Idaborneo luumokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus vittatus",
+    "SpecCode": "277",
+    "CommonName": "Asah-asah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteochilus waandersii",
+    "SpecCode": "17448",
+    "CommonName": "Bantak batu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

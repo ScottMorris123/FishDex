@@ -1,0 +1,177 @@
+{
+  "Family": "Myctophidae",
+  "Order": "Myctophiformes",
+  "Common": "Lanternfishes",
+  "Genera": [
+    {
+      "Genus": "Benthosema",
+      "SpeciesCount": 5,
+      "genus_path": "genera/myctophidae/benthosema.json"
+    },
+    {
+      "Genus": "Bolinichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/myctophidae/bolinichthys.json"
+    },
+    {
+      "Genus": "Centrobranchus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/myctophidae/centrobranchus.json"
+    },
+    {
+      "Genus": "Ceratoscopelus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/myctophidae/ceratoscopelus.json"
+    },
+    {
+      "Genus": "Ctenoscopelus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/myctophidae/ctenoscopelus.json"
+    },
+    {
+      "Genus": "Dasyscopelus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/myctophidae/dasyscopelus.json"
+    },
+    {
+      "Genus": "Diaphus",
+      "SpeciesCount": 79,
+      "genus_path": "genera/myctophidae/diaphus.json"
+    },
+    {
+      "Genus": "Diogenichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/myctophidae/diogenichthys.json"
+    },
+    {
+      "Genus": "Electrona",
+      "SpeciesCount": 5,
+      "genus_path": "genera/myctophidae/electrona.json"
+    },
+    {
+      "Genus": "Gonichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/myctophidae/gonichthys.json"
+    },
+    {
+      "Genus": "Gymnoscopelus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/myctophidae/gymnoscopelus.json"
+    },
+    {
+      "Genus": "Hintonia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/myctophidae/hintonia.json"
+    },
+    {
+      "Genus": "Hygophum",
+      "SpeciesCount": 9,
+      "genus_path": "genera/myctophidae/hygophum.json"
+    },
+    {
+      "Genus": "Idiolychnus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/myctophidae/idiolychnus.json"
+    },
+    {
+      "Genus": "Krefftichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/myctophidae/krefftichthys.json"
+    },
+    {
+      "Genus": "Lampadena",
+      "SpeciesCount": 10,
+      "genus_path": "genera/myctophidae/lampadena.json"
+    },
+    {
+      "Genus": "Lampanyctodes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/myctophidae/lampanyctodes.json"
+    },
+    {
+      "Genus": "Lampanyctus",
+      "SpeciesCount": 39,
+      "genus_path": "genera/myctophidae/lampanyctus.json"
+    },
+    {
+      "Genus": "Lampichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/myctophidae/lampichthys.json"
+    },
+    {
+      "Genus": "Lepidophanes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/myctophidae/lepidophanes.json"
+    },
+    {
+      "Genus": "Lobianchia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/myctophidae/lobianchia.json"
+    },
+    {
+      "Genus": "Loweina",
+      "SpeciesCount": 3,
+      "genus_path": "genera/myctophidae/loweina.json"
+    },
+    {
+      "Genus": "Metelectrona",
+      "SpeciesCount": 3,
+      "genus_path": "genera/myctophidae/metelectrona.json"
+    },
+    {
+      "Genus": "Myctophum",
+      "SpeciesCount": 11,
+      "genus_path": "genera/myctophidae/myctophum.json"
+    },
+    {
+      "Genus": "Notolychnus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/myctophidae/notolychnus.json"
+    },
+    {
+      "Genus": "Notoscopelus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/myctophidae/notoscopelus.json"
+    },
+    {
+      "Genus": "Parvilux",
+      "SpeciesCount": 2,
+      "genus_path": "genera/myctophidae/parvilux.json"
+    },
+    {
+      "Genus": "Protomyctophum",
+      "SpeciesCount": 15,
+      "genus_path": "genera/myctophidae/protomyctophum.json"
+    },
+    {
+      "Genus": "Scopelopsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/myctophidae/scopelopsis.json"
+    },
+    {
+      "Genus": "Stenobrachius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/myctophidae/stenobrachius.json"
+    },
+    {
+      "Genus": "Symbolophorus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/myctophidae/symbolophorus.json"
+    },
+    {
+      "Genus": "Taaningichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/myctophidae/taaningichthys.json"
+    },
+    {
+      "Genus": "Tarletonbeania",
+      "SpeciesCount": 2,
+      "genus_path": "genera/myctophidae/tarletonbeania.json"
+    },
+    {
+      "Genus": "Triphoturus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/myctophidae/triphoturus.json"
+    }
+  ]
+}

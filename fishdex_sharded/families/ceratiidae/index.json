@@ -1,0 +1,17 @@
+{
+  "Family": "Ceratiidae",
+  "Order": "Lophiiformes",
+  "Common": "Warty Seadevils",
+  "Genera": [
+    {
+      "Genus": "Ceratias",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ceratiidae/ceratias.json"
+    },
+    {
+      "Genus": "Cryptopsaras",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ceratiidae/cryptopsaras.json"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "ScientificName": "Achirus achirus",
+    "SpecCode": "7572",
+    "CommonName": "Alumaïa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achirus declivis",
+    "SpecCode": "52941",
+    "CommonName": "Lost sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achirus klunzingeri",
+    "SpecCode": "13429",
+    "CommonName": "Brown sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achirus lineatus",
+    "SpecCode": "4256",
+    "CommonName": "Acedía rayada",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achirus mazatlanus",
+    "SpecCode": "10429",
+    "CommonName": "Guardaboya mulata",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achirus mucuri",
+    "SpecCode": "64929",
+    "CommonName": "American sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achirus novoae",
+    "SpecCode": "57101",
+    "CommonName": "Lenguado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achirus scutum",
+    "SpecCode": "13434",
+    "CommonName": "Comal",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achirus zebrinus",
+    "SpecCode": "52950",
+    "CommonName": "Suela cebra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

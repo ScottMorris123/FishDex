@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Andinoacara biseriatus",
+    "SpecCode": "46569",
+    "CommonName": "Kookoskirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andinoacara blombergi",
+    "SpecCode": "67109",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andinoacara coeruleopunctatus",
+    "SpecCode": "28234",
+    "CommonName": "Chogorro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andinoacara latifrons",
+    "SpecCode": "12271",
+    "CommonName": "Azuleja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andinoacara pulcher",
+    "SpecCode": "4727",
+    "CommonName": "Acará-azul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andinoacara rivulatus",
+    "SpecCode": "12209",
+    "CommonName": "Goldsaum-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andinoacara sapayensis",
+    "SpecCode": "12277",
+    "CommonName": "Sapankirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andinoacara stalsbergi",
+    "SpecCode": "65199",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

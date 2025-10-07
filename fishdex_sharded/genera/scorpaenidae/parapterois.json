@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parapterois heterura",
+    "SpecCode": "7917",
+    "CommonName": "Blackfoot firefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapterois macrura",
+    "SpecCode": "65830",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

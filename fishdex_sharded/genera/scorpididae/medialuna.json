@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Medialuna ancietae",
+    "SpecCode": "59440",
+    "CommonName": "Chino",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Medialuna californiensis",
+    "SpecCode": "3597",
+    "CommonName": "Calicagère demi-lune",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

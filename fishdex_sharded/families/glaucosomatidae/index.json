@@ -1,0 +1,12 @@
+{
+  "Family": "Glaucosomatidae",
+  "Order": "Acropomatiformes",
+  "Common": "Pearl perches",
+  "Genera": [
+    {
+      "Genus": "Glaucosoma",
+      "SpeciesCount": 4,
+      "genus_path": "genera/glaucosomatidae/glaucosoma.json"
+    }
+  ]
+}

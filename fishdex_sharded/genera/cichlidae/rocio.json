@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rocio gemmata",
+    "SpecCode": "63626",
+    "CommonName": "Mojarra de Leona Vicario",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rocio ocotal",
+    "SpecCode": "63623",
+    "CommonName": "Mojarra del Ocotal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rocio octofasciata",
+    "SpecCode": "3616",
+    "CommonName": "Achtbindenbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rocio spinosissima",
+    "SpecCode": "26770",
+    "CommonName": "Piikkieväkirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

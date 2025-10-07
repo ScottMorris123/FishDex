@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Uraspis helvola",
+    "SpecCode": "1983",
+    "CommonName": "Anak bong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Uraspis secunda",
+    "SpecCode": "1012",
+    "CommonName": "Basset-hull's trevally",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Uraspis uraspis",
+    "SpecCode": "1984",
+    "CommonName": "Alipuron",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

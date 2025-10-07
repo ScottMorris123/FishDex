@@ -1,0 +1,22 @@
+{
+  "Family": "Retropinnidae",
+  "Order": "Osmeriformes",
+  "Common": "New Zealand smelts",
+  "Genera": [
+    {
+      "Genus": "Prototroctes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/retropinnidae/prototroctes.json"
+    },
+    {
+      "Genus": "Retropinna",
+      "SpeciesCount": 3,
+      "genus_path": "genera/retropinnidae/retropinna.json"
+    },
+    {
+      "Genus": "Stokellia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/retropinnidae/stokellia.json"
+    }
+  ]
+}

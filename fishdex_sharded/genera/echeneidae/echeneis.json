@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Echeneis naucrates",
+    "SpecCode": "2467",
+    "CommonName": "Agarrador",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echeneis neucratoides",
+    "SpecCode": "3543",
+    "CommonName": "Hvidfinnet sugefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

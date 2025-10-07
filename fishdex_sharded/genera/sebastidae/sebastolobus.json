@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Sebastolobus alascanus",
+    "SpecCode": "4009",
+    "CommonName": "Alaska ogapõsk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastolobus altivelis",
+    "SpecCode": "4010",
+    "CommonName": "Chancharro espinoso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastolobus macrochir",
+    "SpecCode": "11704",
+    "CommonName": "Broadbanded thornyhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

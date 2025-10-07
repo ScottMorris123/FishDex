@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Arctoraja parmifera",
+    "SpecCode": "2564",
+    "CommonName": "Alaska skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arctoraja sexoculata",
+    "SpecCode": "69617",
+    "CommonName": "Cимуширский скат",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arctoraja simoterus",
+    "SpecCode": "22566",
+    "CommonName": "Hokkaido skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "ScientificName": "Caranx bartholomaei",
+    "SpecCode": "1913",
+    "CommonName": "Atún",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx bucculentus",
+    "SpecCode": "1896",
+    "CommonName": "Alaala",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx caballus",
+    "SpecCode": "1900",
+    "CommonName": "Bonito",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx caninus",
+    "SpecCode": "1901",
+    "CommonName": "Aurel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx crysos",
+    "SpecCode": "1933",
+    "CommonName": "Akole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx fischeri",
+    "SpecCode": "63514",
+    "CommonName": "Carangue de Fischer",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx heberi",
+    "SpecCode": "1898",
+    "CommonName": "Atanagul parava",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx hippos",
+    "SpecCode": "71",
+    "CommonName": "Agbre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx ignobilis",
+    "SpecCode": "1895",
+    "CommonName": "Akao",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx latus",
+    "SpecCode": "1935",
+    "CommonName": "Aracimbora",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx lugubris",
+    "SpecCode": "1936",
+    "CommonName": "Anakbong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx melampygus",
+    "SpecCode": "1906",
+    "CommonName": "Adlo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx papuensis",
+    "SpecCode": "6360",
+    "CommonName": "Autea",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx rhonchus",
+    "SpecCode": "1899",
+    "CommonName": "Africanski karankse",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx ruber",
+    "SpecCode": "1918",
+    "CommonName": "Bar jack",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx senegallus",
+    "SpecCode": "1897",
+    "CommonName": "African jack",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx sexfasciatus",
+    "SpecCode": "1917",
+    "CommonName": "Adlo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx tille",
+    "SpecCode": "1928",
+    "CommonName": "Adlo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caranx vinctus",
+    "SpecCode": "1919",
+    "CommonName": "Barred jack",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

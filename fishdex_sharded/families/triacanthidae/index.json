@@ -1,0 +1,27 @@
+{
+  "Family": "Triacanthidae",
+  "Order": "Tetraodontiformes",
+  "Common": "Triplespines",
+  "Genera": [
+    {
+      "Genus": "Pseudotriacanthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triacanthidae/pseudotriacanthus.json"
+    },
+    {
+      "Genus": "Triacanthus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/triacanthidae/triacanthus.json"
+    },
+    {
+      "Genus": "Tripodichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/triacanthidae/tripodichthys.json"
+    },
+    {
+      "Genus": "Trixiphichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triacanthidae/trixiphichthys.json"
+    }
+  ]
+}

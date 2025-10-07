@@ -1,0 +1,32 @@
+{
+  "Family": "Anacanthobatidae",
+  "Order": "Rajiformes",
+  "Common": "Smooth skates",
+  "Genera": [
+    {
+      "Genus": "Anacanthobatis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anacanthobatidae/anacanthobatis.json"
+    },
+    {
+      "Genus": "Indobatis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anacanthobatidae/indobatis.json"
+    },
+    {
+      "Genus": "Schroederobatis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anacanthobatidae/schroederobatis.json"
+    },
+    {
+      "Genus": "Sinobatis",
+      "SpeciesCount": 9,
+      "genus_path": "genera/anacanthobatidae/sinobatis.json"
+    },
+    {
+      "Genus": "Springeria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/anacanthobatidae/springeria.json"
+    }
+  ]
+}

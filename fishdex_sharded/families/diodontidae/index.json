@@ -1,0 +1,42 @@
+{
+  "Family": "Diodontidae",
+  "Order": "Tetraodontiformes",
+  "Common": "Porcupinefishes (burrfishes)",
+  "Genera": [
+    {
+      "Genus": "Allomycterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/diodontidae/allomycterus.json"
+    },
+    {
+      "Genus": "Chilomycterus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/diodontidae/chilomycterus.json"
+    },
+    {
+      "Genus": "Cyclichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/diodontidae/cyclichthys.json"
+    },
+    {
+      "Genus": "Dicotylichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/diodontidae/dicotylichthys.json"
+    },
+    {
+      "Genus": "Diodon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/diodontidae/diodon.json"
+    },
+    {
+      "Genus": "Lophodiodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/diodontidae/lophodiodon.json"
+    },
+    {
+      "Genus": "Tragulichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/diodontidae/tragulichthys.json"
+    }
+  ]
+}

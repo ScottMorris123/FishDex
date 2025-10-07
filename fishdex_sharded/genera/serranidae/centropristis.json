@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Centropristis fuscula",
+    "SpecCode": "3315",
+    "CommonName": "Serrano oliváceo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropristis ocyurus",
+    "SpecCode": "3316",
+    "CommonName": "Bank sea bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropristis philadelphica",
+    "SpecCode": "3317",
+    "CommonName": "Cabrilla serrana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropristis rufus",
+    "SpecCode": "61260",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropristis striata",
+    "SpecCode": "361",
+    "CommonName": "Black sea bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

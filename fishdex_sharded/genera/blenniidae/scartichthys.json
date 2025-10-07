@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Scartichthys crapulatus",
+    "SpecCode": "27049",
+    "CommonName": "智利鸚鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartichthys gigas",
+    "SpecCode": "13554",
+    "CommonName": "Blennie géante",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartichthys variolatus",
+    "SpecCode": "27050",
+    "CommonName": "杂色鹦鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartichthys viridis",
+    "SpecCode": "27051",
+    "CommonName": "Borrachito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

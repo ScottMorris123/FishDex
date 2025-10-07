@@ -1,0 +1,17 @@
+{
+  "Family": "Gigantactinidae",
+  "Order": "Lophiiformes",
+  "Common": "Whipnose anglers",
+  "Genera": [
+    {
+      "Genus": "Gigantactis",
+      "SpeciesCount": 21,
+      "genus_path": "genera/gigantactinidae/gigantactis.json"
+    },
+    {
+      "Genus": "Rhynchactis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gigantactinidae/rhynchactis.json"
+    }
+  ]
+}

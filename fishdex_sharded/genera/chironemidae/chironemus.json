@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Chironemus bicornis",
+    "SpecCode": "54945",
+    "CommonName": "Yunyungo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chironemus delfini",
+    "SpecCode": "60597",
+    "CommonName": "德氏丝鳍",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chironemus georgianus",
+    "SpecCode": "14605",
+    "CommonName": "Kelp fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chironemus maculosus",
+    "SpecCode": "47017",
+    "CommonName": "Silver spot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chironemus marmoratus",
+    "SpecCode": "47002",
+    "CommonName": "Eastern kelpfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chironemus microlepis",
+    "SpecCode": "27505",
+    "CommonName": "Smallscale kelpfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

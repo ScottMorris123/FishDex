@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Brochiraja aenigma",
+    "SpecCode": "63349",
+    "CommonName": "Reebus-oganinarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brochiraja albilabiata",
+    "SpecCode": "63350",
+    "CommonName": "Valgehuul-oganinarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brochiraja asperula",
+    "SpecCode": "47418",
+    "CommonName": "Prickly deepsea skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brochiraja heuresa",
+    "SpecCode": "66408",
+    "CommonName": "Eureka-oganinarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brochiraja leviveneta",
+    "SpecCode": "63351",
+    "CommonName": "Sinakas oganinarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brochiraja microspinifera",
+    "SpecCode": "63352",
+    "CommonName": "Väike oganinarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brochiraja spinifera",
+    "SpecCode": "47419",
+    "CommonName": "Doornige diepzeerog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brochiraja vittacauda",
+    "SpecCode": "66409",
+    "CommonName": "Rihmsaba-oganinarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

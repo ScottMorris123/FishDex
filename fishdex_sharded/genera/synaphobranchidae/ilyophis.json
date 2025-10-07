@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Ilyophis arx",
+    "SpecCode": "54785",
+    "CommonName": "Castle´i läkuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilyophis blachei",
+    "SpecCode": "54784",
+    "CommonName": "Jäme läkuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilyophis brunneus",
+    "SpecCode": "9103",
+    "CommonName": "Muddy arrowtooth eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilyophis nigeli",
+    "SpecCode": "52411",
+    "CommonName": "Nigeli läkuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilyophis robinsae",
+    "SpecCode": "52388",
+    "CommonName": "Robinsi läkuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilyophis saldanhai",
+    "SpecCode": "61180",
+    "CommonName": "Saldanha läkuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

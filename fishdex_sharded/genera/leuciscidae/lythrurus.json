@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Lythrurus alegnotus",
+    "SpecCode": "61911",
+    "CommonName": "Sõdur-rahkteibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus ardens",
+    "SpecCode": "2821",
+    "CommonName": "Leekuim-rahkteibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus atrapiculus",
+    "SpecCode": "2825",
+    "CommonName": "Blacktip shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus bellus",
+    "SpecCode": "2829",
+    "CommonName": "Kaunis rahkteibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus fasciolaris",
+    "SpecCode": "62431",
+    "CommonName": "Sarlak-rahkteibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus fumeus",
+    "SpecCode": "2858",
+    "CommonName": "Nõgitriip-rahkteibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus lirus",
+    "SpecCode": "2873",
+    "CommonName": "Mägi-rahkteibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus matutinus",
+    "SpecCode": "56259",
+    "CommonName": "Pinewoods shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus roseipinnis",
+    "SpecCode": "2892",
+    "CommonName": "Cherryfin shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus snelsoni",
+    "SpecCode": "6134",
+    "CommonName": "Ouachita Mountain Shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lythrurus umbratilis",
+    "SpecCode": "2910",
+    "CommonName": "Redfin shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

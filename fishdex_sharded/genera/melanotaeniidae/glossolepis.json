@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Glossolepis dorityi",
+    "SpecCode": "61578",
+    "CommonName": "Tulisateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossolepis incisa",
+    "SpecCode": "10477",
+    "CommonName": "Harisoomuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossolepis kabia",
+    "SpecCode": "66105",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossolepis leggetti",
+    "SpecCode": "51783",
+    "CommonName": "Leggett's rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossolepis maculosa",
+    "SpecCode": "10478",
+    "CommonName": "Black-spotted rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossolepis multisquamata",
+    "SpecCode": "25619",
+    "CommonName": "Rosy rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossolepis pseudoincisa",
+    "SpecCode": "10479",
+    "CommonName": "Oliivisateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossolepis ramuensis",
+    "SpecCode": "10482",
+    "CommonName": "Malvasateenkaarikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossolepis wanamensis",
+    "SpecCode": "10483",
+    "CommonName": "Lake Wanam rainbowfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

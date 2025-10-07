@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Sympterichthys moultoni",
+    "SpecCode": "65256",
+    "CommonName": "Moulton's handfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sympterichthys unipennis",
+    "SpecCode": "24720",
+    "CommonName": "Smooth handfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

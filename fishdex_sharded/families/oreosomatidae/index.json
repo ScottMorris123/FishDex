@@ -1,0 +1,27 @@
+{
+  "Family": "Oreosomatidae",
+  "Order": "Zeiformes",
+  "Common": "Oreos",
+  "Genera": [
+    {
+      "Genus": "Allocyttus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/oreosomatidae/allocyttus.json"
+    },
+    {
+      "Genus": "Neocyttus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/oreosomatidae/neocyttus.json"
+    },
+    {
+      "Genus": "Oreosoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oreosomatidae/oreosoma.json"
+    },
+    {
+      "Genus": "Pseudocyttus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oreosomatidae/pseudocyttus.json"
+    }
+  ]
+}

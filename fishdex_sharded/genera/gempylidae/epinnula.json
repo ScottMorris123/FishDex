@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Epinnula magistralis",
+    "SpecCode": "8468",
+    "CommonName": "Aosumiyaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinnula pacifica",
+    "SpecCode": "69188",
+    "CommonName": "Pacific Domine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

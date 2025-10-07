@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hoplobrotula armata",
+    "SpecCode": "12563",
+    "CommonName": "Armored brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplobrotula badia",
+    "SpecCode": "54139",
+    "CommonName": "Jaapani merinirk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplobrotula gnathopus",
+    "SpecCode": "7628",
+    "CommonName": "Abrótia falsa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

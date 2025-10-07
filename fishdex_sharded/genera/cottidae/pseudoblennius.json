@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Pseudoblennius argenteus",
+    "SpecCode": "60041",
+    "CommonName": "Yanagi-anahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoblennius cottoides",
+    "SpecCode": "23979",
+    "CommonName": "Asahi-anahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoblennius marmoratus",
+    "SpecCode": "23980",
+    "CommonName": "Aya-anahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoblennius percoides",
+    "SpecCode": "23977",
+    "CommonName": "Anahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoblennius totomius",
+    "SpecCode": "60040",
+    "CommonName": "Hama-anahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoblennius zonostigma",
+    "SpecCode": "23978",
+    "CommonName": "Obi-anahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

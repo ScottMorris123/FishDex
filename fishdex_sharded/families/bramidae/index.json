@@ -1,0 +1,42 @@
+{
+  "Family": "Bramidae",
+  "Order": "Scombriformes",
+  "Common": "Pomfrets",
+  "Genera": [
+    {
+      "Genus": "Brama",
+      "SpeciesCount": 8,
+      "genus_path": "genera/bramidae/brama.json"
+    },
+    {
+      "Genus": "Eumegistus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bramidae/eumegistus.json"
+    },
+    {
+      "Genus": "Pteraclis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bramidae/pteraclis.json"
+    },
+    {
+      "Genus": "Pterycombus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bramidae/pterycombus.json"
+    },
+    {
+      "Genus": "Taractes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bramidae/taractes.json"
+    },
+    {
+      "Genus": "Taractichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bramidae/taractichthys.json"
+    },
+    {
+      "Genus": "Xenobrama",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bramidae/xenobrama.json"
+    }
+  ]
+}

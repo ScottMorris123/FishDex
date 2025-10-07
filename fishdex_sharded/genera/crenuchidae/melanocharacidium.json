@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Melanocharacidium auroradiatum",
+    "SpecCode": "52590",
+    "CommonName": "金輻黑身脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocharacidium blennioides",
+    "SpecCode": "48744",
+    "CommonName": "Luikeropohjatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocharacidium compressum",
+    "SpecCode": "48810",
+    "CommonName": "侧扁黑身脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocharacidium depressum",
+    "SpecCode": "48812",
+    "CommonName": "巴西黑身脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocharacidium dispilomma",
+    "SpecCode": "28027",
+    "CommonName": "Tummapohjatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocharacidium melanopteron",
+    "SpecCode": "48814",
+    "CommonName": "暗鰭黑身脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocharacidium nigrum",
+    "SpecCode": "48815",
+    "CommonName": "全黑身脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocharacidium pectorale",
+    "SpecCode": "48818",
+    "CommonName": "大胸黑身脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanocharacidium rex",
+    "SpecCode": "48821",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

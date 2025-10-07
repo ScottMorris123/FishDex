@@ -1,0 +1,155 @@
+[
+  {
+    "ScientificName": "Porogadus abyssalis",
+    "SpecCode": "8985",
+    "CommonName": "Abadejo-abissal-do-Atlântico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus atripectus",
+    "SpecCode": "56377",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus caboverdensis",
+    "SpecCode": "69550",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus catena",
+    "SpecCode": "54236",
+    "CommonName": "大头孔鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus dracocephalus",
+    "SpecCode": "69551",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus gracilis",
+    "SpecCode": "27429",
+    "CommonName": "Cavernous assfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus guentheri",
+    "SpecCode": "23630",
+    "CommonName": "Tara-itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus lacrimatus",
+    "SpecCode": "69712",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus longiceps",
+    "SpecCode": "56378",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus melanocephalus",
+    "SpecCode": "56376",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus mendax",
+    "SpecCode": "69552",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus miles",
+    "SpecCode": "16789",
+    "CommonName": "Abadèche mince",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus nudus",
+    "SpecCode": "54214",
+    "CommonName": "大西洋孔鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus promelas",
+    "SpecCode": "69715",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus solomonensis",
+    "SpecCode": "69713",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus trichiurus",
+    "SpecCode": "54237",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porogadus turgidus",
+    "SpecCode": "69711",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "Family": "Paralepididae",
+  "Order": "Aulopiformes",
+  "Common": "Barracudinas",
+  "Genera": [
+    {
+      "Genus": "Arctozenus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/paralepididae/arctozenus.json"
+    },
+    {
+      "Genus": "Dolichosudis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/paralepididae/dolichosudis.json"
+    },
+    {
+      "Genus": "Magnisudis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/paralepididae/magnisudis.json"
+    },
+    {
+      "Genus": "Notolepis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/paralepididae/notolepis.json"
+    },
+    {
+      "Genus": "Paralepis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/paralepididae/paralepis.json"
+    },
+    {
+      "Genus": "Stemonosudis",
+      "SpeciesCount": 14,
+      "genus_path": "genera/paralepididae/stemonosudis.json"
+    },
+    {
+      "Genus": "Sudis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/paralepididae/sudis.json"
+    },
+    {
+      "Genus": "Uncisudis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/paralepididae/uncisudis.json"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Family": "Harpagiferidae",
+  "Order": "Perciformes/Notothenioidei",
+  "Common": "Spiny plunderfishes",
+  "Genera": [
+    {
+      "Genus": "Harpagifer",
+      "SpeciesCount": 12,
+      "genus_path": "genera/harpagiferidae/harpagifer.json"
+    }
+  ]
+}

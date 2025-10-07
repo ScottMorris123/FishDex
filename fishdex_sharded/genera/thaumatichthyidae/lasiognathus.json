@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Lasiognathus amphirhamphus",
+    "SpecCode": "62561",
+    "CommonName": "Kaksikkonks-õngkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiognathus beebei",
+    "SpecCode": "50780",
+    "CommonName": "Beebe õngkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiognathus dinema",
+    "SpecCode": "70496",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiognathus intermedius",
+    "SpecCode": "50782",
+    "CommonName": "Vahelmine õngkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiognathus saccostoma",
+    "SpecCode": "50784",
+    "CommonName": "Harilik õngkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiognathus waltoni",
+    "SpecCode": "50781",
+    "CommonName": "Waltoni õngkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

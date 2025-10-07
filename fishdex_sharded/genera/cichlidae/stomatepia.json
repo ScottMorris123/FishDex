@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Stomatepia mariae",
+    "SpecCode": "6329",
+    "CommonName": "Alkali cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomatepia mongo",
+    "SpecCode": "6330",
+    "CommonName": "Mongo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stomatepia pindu",
+    "SpecCode": "6331",
+    "CommonName": "Pindu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

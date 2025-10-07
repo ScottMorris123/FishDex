@@ -1,0 +1,420 @@
+[
+  {
+    "ScientificName": "Channa amphibeus",
+    "SpecCode": "25273",
+    "CommonName": "Borna snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa andrao",
+    "SpecCode": "67146",
+    "CommonName": "Redspotted snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa ara",
+    "SpecCode": "69839",
+    "CommonName": "Sri Lanka giant snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa argus",
+    "SpecCode": "4799",
+    "CommonName": " דג צפוני אסיאתי",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa aristonei",
+    "SpecCode": "70615",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa asiatica",
+    "SpecCode": "7756",
+    "CommonName": "Asiatischer Schlangenkopf",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa aurantimaculata",
+    "SpecCode": "57932",
+    "CommonName": "Goldspotted snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa aurantipectoralis",
+    "SpecCode": "68311",
+    "CommonName": "Orangefinned snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa aurolineata",
+    "SpecCode": "70562",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa bankanensis",
+    "SpecCode": "25144",
+    "CommonName": "Bangka snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa baramensis",
+    "SpecCode": "61686",
+    "CommonName": "Baram snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa barca",
+    "SpecCode": "10133",
+    "CommonName": "Assam-slangehovedfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa bleheri",
+    "SpecCode": "59754",
+    "CommonName": "Blåfinnet slangehovedfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa brunnea",
+    "SpecCode": "69341",
+    "CommonName": "Brown bleheri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa burmanica",
+    "SpecCode": "61418",
+    "CommonName": "Putao snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa cyanospilos",
+    "SpecCode": "25145",
+    "CommonName": "Blåplettet slangehovedfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa diplogramma",
+    "SpecCode": "55109",
+    "CommonName": "Malabar snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa gachua",
+    "SpecCode": "50504",
+    "CommonName": "Asiatischer kleiner schlangenkopf",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa harcourtbutleri",
+    "SpecCode": "59914",
+    "CommonName": "Andaman emerald snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa hoaluensis",
+    "SpecCode": "66678",
+    "CommonName": "Vietnames snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa kelaartii",
+    "SpecCode": "69876",
+    "CommonName": "Dwarf snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa longistomata",
+    "SpecCode": "66680",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa lucius",
+    "SpecCode": "16137",
+    "CommonName": "Cá day",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa maculata",
+    "SpecCode": "8701",
+    "CommonName": "Blotched snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa marulioides",
+    "SpecCode": "25148",
+    "CommonName": "Malaysisk slangehovedfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa marulius",
+    "SpecCode": "5144",
+    "CommonName": "Ara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa melanoptera",
+    "SpecCode": "25149",
+    "CommonName": "Blackfinned snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa melanostigma",
+    "SpecCode": "66321",
+    "CommonName": "Lohit snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa melasoma",
+    "SpecCode": "5192",
+    "CommonName": "Black snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa micropeltes",
+    "SpecCode": "344",
+    "CommonName": "Anak roman",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa ninhbinhensis",
+    "SpecCode": "66679",
+    "CommonName": "Orange seam snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa nox",
+    "SpecCode": "59753",
+    "CommonName": "Dark snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa orientalis",
+    "SpecCode": "5143",
+    "CommonName": "Asiatic snakehead",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa ornatipinnis",
+    "SpecCode": "64104",
+    "CommonName": "Ornate snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa panaw",
+    "SpecCode": "55607",
+    "CommonName": "Blackspotted snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa pardalis",
+    "SpecCode": "68312",
+    "CommonName": "Channa sp. Meghalaya leopard",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa pleurophthalma",
+    "SpecCode": "14699",
+    "CommonName": "Kerandang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa pomanensis",
+    "SpecCode": "68525",
+    "CommonName": "Poma snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa pseudomarulius",
+    "SpecCode": "68643",
+    "CommonName": "Orangeplettet slangehovedfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa pulchra",
+    "SpecCode": "64105",
+    "CommonName": "Colored snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa punctata",
+    "SpecCode": "5147",
+    "CommonName": "Araccan",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa quinquefasciata",
+    "SpecCode": "70614",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa rara",
+    "SpecCode": "70455",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa shingon",
+    "SpecCode": "68513",
+    "CommonName": "Humpbacked snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa stewartii",
+    "SpecCode": "13591",
+    "CommonName": "Assamese snakehead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channa striata",
+    "SpecCode": "343",
+    "CommonName": "Aluan",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

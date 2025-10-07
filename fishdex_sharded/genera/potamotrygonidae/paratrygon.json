@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Paratrygon aiereba",
+    "SpecCode": "50646",
+    "CommonName": "Aiereba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paratrygon orinocensis",
+    "SpecCode": "69581",
+    "CommonName": "Orinoco-flodpigrokke",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paratrygon parvaspina",
+    "SpecCode": "69582",
+    "CommonName": "Bundfarvet flodpigrokke",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

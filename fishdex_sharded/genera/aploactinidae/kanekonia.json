@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Kanekonia florida",
+    "SpecCode": "12763",
+    "CommonName": "Hanachigo-okoze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kanekonia leichhardti",
+    "SpecCode": "69103",
+    "CommonName": "Leichhardt's velvetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kanekonia pelta",
+    "SpecCode": "12762",
+    "CommonName": "盾无鳞鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kanekonia queenslandica",
+    "SpecCode": "12556",
+    "CommonName": "Deep velvetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

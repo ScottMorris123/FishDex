@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Atrosalarias fuscus",
+    "SpecCode": "17462",
+    "CommonName": "Black blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrosalarias holomelas",
+    "SpecCode": "7559",
+    "CommonName": "Brown coral blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrosalarias hosokawai",
+    "SpecCode": "59610",
+    "CommonName": "Hosokawa-indokaeruuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

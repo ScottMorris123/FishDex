@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Blepsias bilobus",
+    "SpecCode": "4053",
+    "CommonName": "Crested sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blepsias cirrhosus",
+    "SpecCode": "4054",
+    "CommonName": "Habemik poisehärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

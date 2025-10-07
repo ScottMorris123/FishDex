@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Brama australis",
+    "SpecCode": "54793",
+    "CommonName": "Palometa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brama brama",
+    "SpecCode": "391",
+    "CommonName": "Almindelig havbrasen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brama caribbea",
+    "SpecCode": "3554",
+    "CommonName": "Caribbean pomfret",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brama dussumieri",
+    "SpecCode": "1435",
+    "CommonName": "Bawal cermin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brama japonica",
+    "SpecCode": "3555",
+    "CommonName": "Bigtooth pomfret",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brama myersi",
+    "SpecCode": "23468",
+    "CommonName": "Myers' pomfret",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brama orcini",
+    "SpecCode": "3556",
+    "CommonName": "Bigbelly pomfret",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brama pauciradiata",
+    "SpecCode": "52492",
+    "CommonName": "Shortfin pomfret",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

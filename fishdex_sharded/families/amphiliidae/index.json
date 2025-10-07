@@ -1,0 +1,72 @@
+{
+  "Family": "Amphiliidae",
+  "Order": "Siluriformes",
+  "Common": "Loach catfishes",
+  "Genera": [
+    {
+      "Genus": "Amphilius",
+      "SpeciesCount": 37,
+      "genus_path": "genera/amphiliidae/amphilius.json"
+    },
+    {
+      "Genus": "Andersonia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/amphiliidae/andersonia.json"
+    },
+    {
+      "Genus": "Belonoglanis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/amphiliidae/belonoglanis.json"
+    },
+    {
+      "Genus": "Congoglanis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/amphiliidae/congoglanis.json"
+    },
+    {
+      "Genus": "Dolichamphilius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/amphiliidae/dolichamphilius.json"
+    },
+    {
+      "Genus": "Doumea",
+      "SpeciesCount": 9,
+      "genus_path": "genera/amphiliidae/doumea.json"
+    },
+    {
+      "Genus": "Leptoglanis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/amphiliidae/leptoglanis.json"
+    },
+    {
+      "Genus": "Paramphilius",
+      "SpeciesCount": 4,
+      "genus_path": "genera/amphiliidae/paramphilius.json"
+    },
+    {
+      "Genus": "Phractura",
+      "SpeciesCount": 13,
+      "genus_path": "genera/amphiliidae/phractura.json"
+    },
+    {
+      "Genus": "Psammphiletria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/amphiliidae/psammphiletria.json"
+    },
+    {
+      "Genus": "Tetracamphilius",
+      "SpeciesCount": 4,
+      "genus_path": "genera/amphiliidae/tetracamphilius.json"
+    },
+    {
+      "Genus": "Trachyglanis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/amphiliidae/trachyglanis.json"
+    },
+    {
+      "Genus": "Zaireichthys",
+      "SpeciesCount": 18,
+      "genus_path": "genera/amphiliidae/zaireichthys.json"
+    }
+  ]
+}

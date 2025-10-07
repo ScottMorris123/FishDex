@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Rhinichthys atratulus",
+    "SpecCode": "2943",
+    "CommonName": "Amerikanische Schwarznase",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinichthys cataractae",
+    "SpecCode": "2944",
+    "CommonName": "Carpita rinconera",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinichthys cobitis",
+    "SpecCode": "2956",
+    "CommonName": "Carpita locha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinichthys deaconi",
+    "SpecCode": "6149",
+    "CommonName": "Deaconi vöötnina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinichthys evermanni",
+    "SpecCode": "2945",
+    "CommonName": "Jelčík Evermannův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinichthys falcatus",
+    "SpecCode": "2946",
+    "CommonName": "Jelčík leopardí",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinichthys obtusus",
+    "SpecCode": "62163",
+    "CommonName": "Naseux noir de l'ouest",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinichthys osculus",
+    "SpecCode": "2947",
+    "CommonName": "Carpita pinta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinichthys umatilla",
+    "SpecCode": "10171",
+    "CommonName": "Jelčík umatillský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

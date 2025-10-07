@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Latris lineata",
+    "SpecCode": "14417",
+    "CommonName": "Common trumpeter",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Latris pacifica",
+    "SpecCode": "64864",
+    "CommonName": "Hõbe-trompetahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

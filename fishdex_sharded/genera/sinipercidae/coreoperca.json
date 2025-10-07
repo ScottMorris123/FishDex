@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Coreoperca herzi",
+    "SpecCode": "54792",
+    "CommonName": "꺽지",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coreoperca kawamebari",
+    "SpecCode": "23632",
+    "CommonName": "Aucha perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coreoperca liui",
+    "SpecCode": "67556",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coreoperca loona",
+    "SpecCode": "60425",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coreoperca whiteheadi",
+    "SpecCode": "55173",
+    "CommonName": "中国少鳞鳜(石鳜)",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

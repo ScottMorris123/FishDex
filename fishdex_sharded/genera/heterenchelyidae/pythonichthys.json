@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pythonichthys asodes",
+    "SpecCode": "60770",
+    "CommonName": "Anguilla de fango del Pacifico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pythonichthys macrurus",
+    "SpecCode": "9049",
+    "CommonName": "Longtailed shortfaced eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pythonichthys microphthalmus",
+    "SpecCode": "9051",
+    "CommonName": "Shorttailed shortfaced eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pythonichthys sanguineus",
+    "SpecCode": "27785",
+    "CommonName": "Morena de sanguinea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

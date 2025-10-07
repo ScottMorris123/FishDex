@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Prototroctes maraena",
+    "SpecCode": "6199",
+    "CommonName": "Austraalia poolharjus",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prototroctes oxyrhynchus",
+    "SpecCode": "6200",
+    "CommonName": "Extinct grayling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

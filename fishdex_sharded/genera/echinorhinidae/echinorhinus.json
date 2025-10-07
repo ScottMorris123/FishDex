@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Echinorhinus brucus",
+    "SpecCode": "641",
+    "CommonName": "Achinoskylopsaro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echinorhinus cookei",
+    "SpecCode": "642",
+    "CommonName": "Cooki tähishai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

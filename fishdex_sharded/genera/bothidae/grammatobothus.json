@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Grammatobothus krempfi",
+    "SpecCode": "15579",
+    "CommonName": "Cá bơn ba chấm đen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatobothus pennatus",
+    "SpecCode": "11238",
+    "CommonName": "Feather-fin flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatobothus polyophthalmus",
+    "SpecCode": "6638",
+    "CommonName": "Dapa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

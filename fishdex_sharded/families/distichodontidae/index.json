@@ -1,0 +1,87 @@
+{
+  "Family": "Distichodontidae",
+  "Order": "Characiformes",
+  "Common": "Distichodus",
+  "Genera": [
+    {
+      "Genus": "Belonophago",
+      "SpeciesCount": 2,
+      "genus_path": "genera/distichodontidae/belonophago.json"
+    },
+    {
+      "Genus": "Congocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/distichodontidae/congocharax.json"
+    },
+    {
+      "Genus": "Distichodus",
+      "SpeciesCount": 28,
+      "genus_path": "genera/distichodontidae/distichodus.json"
+    },
+    {
+      "Genus": "Dundocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/distichodontidae/dundocharax.json"
+    },
+    {
+      "Genus": "Eugnathichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/distichodontidae/eugnathichthys.json"
+    },
+    {
+      "Genus": "Ichthyborus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/distichodontidae/ichthyborus.json"
+    },
+    {
+      "Genus": "Mesoborus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/distichodontidae/mesoborus.json"
+    },
+    {
+      "Genus": "Microstomatichthyoborus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/distichodontidae/microstomatichthyoborus.json"
+    },
+    {
+      "Genus": "Monostichodus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/distichodontidae/monostichodus.json"
+    },
+    {
+      "Genus": "Nannaethiops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/distichodontidae/nannaethiops.json"
+    },
+    {
+      "Genus": "Nannocharax",
+      "SpeciesCount": 42,
+      "genus_path": "genera/distichodontidae/nannocharax.json"
+    },
+    {
+      "Genus": "Neolebias",
+      "SpeciesCount": 12,
+      "genus_path": "genera/distichodontidae/neolebias.json"
+    },
+    {
+      "Genus": "Paradistichodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/distichodontidae/paradistichodus.json"
+    },
+    {
+      "Genus": "Paraphago",
+      "SpeciesCount": 1,
+      "genus_path": "genera/distichodontidae/paraphago.json"
+    },
+    {
+      "Genus": "Phago",
+      "SpeciesCount": 3,
+      "genus_path": "genera/distichodontidae/phago.json"
+    },
+    {
+      "Genus": "Xenocharax",
+      "SpeciesCount": 2,
+      "genus_path": "genera/distichodontidae/xenocharax.json"
+    }
+  ]
+}

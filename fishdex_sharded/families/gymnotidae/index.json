@@ -1,0 +1,17 @@
+{
+  "Family": "Gymnotidae",
+  "Order": "Gymnotiformes",
+  "Common": "Naked-back knifefishes",
+  "Genera": [
+    {
+      "Genus": "Electrophorus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gymnotidae/electrophorus.json"
+    },
+    {
+      "Genus": "Gymnotus",
+      "SpeciesCount": 42,
+      "genus_path": "genera/gymnotidae/gymnotus.json"
+    }
+  ]
+}

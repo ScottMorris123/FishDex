@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Paradiplospinus antarcticus",
+    "SpecCode": "8484",
+    "CommonName": "Antarctic escolar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paradiplospinus gracilis",
+    "SpecCode": "7117",
+    "CommonName": "Aafrika lõunagempüül",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

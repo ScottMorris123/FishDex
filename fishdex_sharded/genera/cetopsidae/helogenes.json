@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Helogenes castaneus",
+    "SpecCode": "12524",
+    "CommonName": "光沼鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helogenes gouldingi",
+    "SpecCode": "12523",
+    "CommonName": "古氏泽鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helogenes marmoratus",
+    "SpecCode": "12525",
+    "CommonName": "Asicurrupa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helogenes uruyensis",
+    "SpecCode": "12526",
+    "CommonName": "乌鲁耶泽鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

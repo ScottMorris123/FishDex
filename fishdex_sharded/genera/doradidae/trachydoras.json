@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Trachydoras brevis",
+    "SpecCode": "47590",
+    "CommonName": "短陶乐鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachydoras gepharti",
+    "SpecCode": "68653",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachydoras microstomus",
+    "SpecCode": "47584",
+    "CommonName": "Sierra culata",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachydoras nattereri",
+    "SpecCode": "47586",
+    "CommonName": "Pirillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachydoras paraguayensis",
+    "SpecCode": "47587",
+    "CommonName": "armadinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachydoras steindachneri",
+    "SpecCode": "47641",
+    "CommonName": "Bagre hueso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Micromesistius australis",
+    "SpecCode": "320",
+    "CommonName": "Bacaladilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micromesistius poutassou",
+    "SpecCode": "31",
+    "CommonName": "Abadekho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Eclectochromis lobochilus",
+    "SpecCode": "2273",
+    "CommonName": "Kambuzi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eclectochromis ornatus",
+    "SpecCode": "2271",
+    "CommonName": "Flavimanus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

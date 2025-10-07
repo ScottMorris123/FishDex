@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Carnegiella marthae",
+    "SpecCode": "10733",
+    "CommonName": "Blackwing hatchetfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carnegiella myersi",
+    "SpecCode": "11901",
+    "CommonName": "Dwarf hatchetfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carnegiella schereri",
+    "SpecCode": "11902",
+    "CommonName": "Dwarf hatchetfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carnegiella strigata",
+    "SpecCode": "10736",
+    "CommonName": "Agosibi siba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

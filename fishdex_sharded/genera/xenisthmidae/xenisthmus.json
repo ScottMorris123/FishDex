@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Xenisthmus africanus",
+    "SpecCode": "26426",
+    "CommonName": "Flathead wriggler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenisthmus balius",
+    "SpecCode": "26773",
+    "CommonName": "Freckled wriggler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenisthmus chapmani",
+    "SpecCode": "66691",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenisthmus chi",
+    "SpecCode": "63885",
+    "CommonName": "Chi wriggler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenisthmus clarus",
+    "SpecCode": "23540",
+    "CommonName": "Clear wriggler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenisthmus eirospilus",
+    "SpecCode": "63886",
+    "CommonName": "Spotted wriggler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenisthmus nigrolateralis",
+    "SpecCode": "69907",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenisthmus oligoporus",
+    "SpecCode": "68375",
+    "CommonName": "Few-pored wriggler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenisthmus polyzonatus",
+    "SpecCode": "13766",
+    "CommonName": "Barred wriggler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenisthmus semicinctus",
+    "SpecCode": "63887",
+    "CommonName": "Halfbelt wriggler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lithogenes valencia",
+    "SpecCode": "61591",
+    "CommonName": "Valencia kaljusäga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lithogenes villosus",
+    "SpecCode": "48120",
+    "CommonName": "Alkuimumonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lithogenes wahari",
+    "SpecCode": "65361",
+    "CommonName": "Wahari kaljusäga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

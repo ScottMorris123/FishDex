@@ -1,0 +1,114 @@
+[
+  {
+    "ScientificName": "Myliobatis aquila",
+    "SpecCode": "4330",
+    "CommonName": "Acula",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis australis",
+    "SpecCode": "8687",
+    "CommonName": "Austraalia kotkasrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis californica",
+    "SpecCode": "2582",
+    "CommonName": "Aigle de mer técolette",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis chilensis",
+    "SpecCode": "8216",
+    "CommonName": "Aguila de mar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis freminvillei",
+    "SpecCode": "1251",
+    "CommonName": "Águila naríz de vaca",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis goodei",
+    "SpecCode": "2583",
+    "CommonName": "Aigle de mer chuche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis hamlyni",
+    "SpecCode": "15477",
+    "CommonName": "Hamlyn's bull-ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis longirostris",
+    "SpecCode": "13199",
+    "CommonName": "Aguila picuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis peruvianus",
+    "SpecCode": "54617",
+    "CommonName": "Peruu kotkasrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis ridens",
+    "SpecCode": "67472",
+    "CommonName": "Chucho ñato",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis tenuicaudatus",
+    "SpecCode": "12819",
+    "CommonName": "Aigle de mer commun",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myliobatis tobijei",
+    "SpecCode": "12964",
+    "CommonName": "Cá Ó đầu bò",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

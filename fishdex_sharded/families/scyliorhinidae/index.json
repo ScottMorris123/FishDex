@@ -1,0 +1,27 @@
+{
+  "Family": "Scyliorhinidae",
+  "Order": "Carcharhiniformes",
+  "Common": "Cat sharks",
+  "Genera": [
+    {
+      "Genus": "Akheilos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scyliorhinidae/akheilos.json"
+    },
+    {
+      "Genus": "Cephaloscyllium",
+      "SpeciesCount": 18,
+      "genus_path": "genera/scyliorhinidae/cephaloscyllium.json"
+    },
+    {
+      "Genus": "Poroderma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scyliorhinidae/poroderma.json"
+    },
+    {
+      "Genus": "Scyliorhinus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/scyliorhinidae/scyliorhinus.json"
+    }
+  ]
+}

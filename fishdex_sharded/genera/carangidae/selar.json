@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Selar boops",
+    "SpecCode": "1954",
+    "CommonName": "Adlo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selar crumenophthalmus",
+    "SpecCode": "387",
+    "CommonName": "Adlo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

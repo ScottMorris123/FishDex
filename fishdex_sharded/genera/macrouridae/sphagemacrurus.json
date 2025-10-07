@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Sphagemacrurus decimalis",
+    "SpecCode": "58841",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphagemacrurus gibber",
+    "SpecCode": "52363",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphagemacrurus grenadae",
+    "SpecCode": "8545",
+    "CommonName": "Pugnose grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphagemacrurus hirundo",
+    "SpecCode": "10178",
+    "CommonName": "Peixe rato",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphagemacrurus pumiliceps",
+    "SpecCode": "16826",
+    "CommonName": "Dwarf whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphagemacrurus richardi",
+    "SpecCode": "27133",
+    "CommonName": "Richard's whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

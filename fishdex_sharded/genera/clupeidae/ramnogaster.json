@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ramnogaster arcuata",
+    "SpecCode": "1524",
+    "CommonName": "Harilik manduufia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ramnogaster melanostoma",
+    "SpecCode": "1525",
+    "CommonName": "Mandufia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

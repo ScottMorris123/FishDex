@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Rhamdiopsis krugi",
+    "SpecCode": "65888",
+    "CommonName": "Bagre cego",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamdiopsis microcephala",
+    "SpecCode": "48426",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamdiopsis moreirai",
+    "SpecCode": "47779",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ophiclinops hutchinsi",
+    "SpecCode": "59424",
+    "CommonName": "Earspot snake blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophiclinops pardalis",
+    "SpecCode": "59423",
+    "CommonName": "Spotted snake blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophiclinops varius",
+    "SpecCode": "52477",
+    "CommonName": "Variegated snake blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

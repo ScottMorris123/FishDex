@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Elachocharax geryi",
+    "SpecCode": "48849",
+    "CommonName": "格氏美鮭脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elachocharax junki",
+    "SpecCode": "48850",
+    "CommonName": "盖氏美鲑脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elachocharax mitopterus",
+    "SpecCode": "48851",
+    "CommonName": "線鰭美鮭脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elachocharax pulcher",
+    "SpecCode": "48882",
+    "CommonName": "Ruskopohjatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Esox americanus",
+    "SpecCode": "2709",
+    "CommonName": "Ameerika haug",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esox aquitanicus",
+    "SpecCode": "67505",
+    "CommonName": "Aquitanian pike",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esox cisalpinus",
+    "SpecCode": "66315",
+    "CommonName": "Alpi haug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esox lucius",
+    "SpecCode": "258",
+    "CommonName": "American pike",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esox masquinongy",
+    "SpecCode": "2711",
+    "CommonName": "Allegheny River pike",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esox niger",
+    "SpecCode": "2712",
+    "CommonName": "Amerikanischer Hecht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esox reichertii",
+    "SpecCode": "4638",
+    "CommonName": "Amur pike",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

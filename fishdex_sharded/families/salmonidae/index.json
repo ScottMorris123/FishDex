@@ -1,0 +1,62 @@
+{
+  "Family": "Salmonidae",
+  "Order": "Salmoniformes",
+  "Common": "Salmonids",
+  "Genera": [
+    {
+      "Genus": "Brachymystax",
+      "SpeciesCount": 3,
+      "genus_path": "genera/salmonidae/brachymystax.json"
+    },
+    {
+      "Genus": "Coregonus",
+      "SpeciesCount": 78,
+      "genus_path": "genera/salmonidae/coregonus.json"
+    },
+    {
+      "Genus": "Hucho",
+      "SpeciesCount": 4,
+      "genus_path": "genera/salmonidae/hucho.json"
+    },
+    {
+      "Genus": "Oncorhynchus",
+      "SpeciesCount": 16,
+      "genus_path": "genera/salmonidae/oncorhynchus.json"
+    },
+    {
+      "Genus": "Parahucho",
+      "SpeciesCount": 1,
+      "genus_path": "genera/salmonidae/parahucho.json"
+    },
+    {
+      "Genus": "Prosopium",
+      "SpeciesCount": 6,
+      "genus_path": "genera/salmonidae/prosopium.json"
+    },
+    {
+      "Genus": "Salmo",
+      "SpeciesCount": 50,
+      "genus_path": "genera/salmonidae/salmo.json"
+    },
+    {
+      "Genus": "Salvelinus",
+      "SpeciesCount": 51,
+      "genus_path": "genera/salmonidae/salvelinus.json"
+    },
+    {
+      "Genus": "Salvethymus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/salmonidae/salvethymus.json"
+    },
+    {
+      "Genus": "Stenodus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/salmonidae/stenodus.json"
+    },
+    {
+      "Genus": "Thymallus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/salmonidae/thymallus.json"
+    }
+  ]
+}

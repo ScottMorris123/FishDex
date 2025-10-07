@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parasphaerichthys lineatus",
+    "SpecCode": "60387",
+    "CommonName": "Stribet minigurami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasphaerichthys ocellatus",
+    "SpecCode": "12077",
+    "CommonName": "Burmanesischer Schokoladengurami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

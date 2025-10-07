@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Scleromystax barbatus",
+    "SpecCode": "12161",
+    "CommonName": "Banded corydoras",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scleromystax macropterus",
+    "SpecCode": "12181",
+    "CommonName": "Antennepansermalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scleromystax prionotos",
+    "SpecCode": "46199",
+    "CommonName": "Coast cory",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scleromystax salmacis",
+    "SpecCode": "62698",
+    "CommonName": "Kort pansermalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

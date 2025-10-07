@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Richardsonius balteatus",
+    "SpecCode": "2949",
+    "CommonName": "Columbia River minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Richardsonius egregius",
+    "SpecCode": "2950",
+    "CommonName": "Lahontan redside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Siokunichthys bentuviai",
+    "SpecCode": "7194",
+    "CommonName": "Barred xenia-pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siokunichthys breviceps",
+    "SpecCode": "7191",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siokunichthys herrei",
+    "SpecCode": "7190",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siokunichthys nigrolineatus",
+    "SpecCode": "7192",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siokunichthys southwelli",
+    "SpecCode": "7193",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Siokunichthys striatus",
+    "SpecCode": "64774",
+    "CommonName": "New Caledonian soft-coral pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Platyberyx andriashevi",
+    "SpecCode": "67443",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platyberyx mauli",
+    "SpecCode": "67442",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platyberyx opalescens",
+    "SpecCode": "17385",
+    "CommonName": "Ennisfiskur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platyberyx paucus",
+    "SpecCode": "67658",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platyberyx pietschi",
+    "SpecCode": "67659",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platyberyx rhyton",
+    "SpecCode": "67660",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

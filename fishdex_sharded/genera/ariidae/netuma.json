@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Netuma bilineata",
+    "SpecCode": "11740",
+    "CommonName": "Bronze catfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Netuma patriciae",
+    "SpecCode": "69232",
+    "CommonName": "Whipfin sea catfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Netuma thalassina",
+    "SpecCode": "10220",
+    "CommonName": "Arius wielki",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

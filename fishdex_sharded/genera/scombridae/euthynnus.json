@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Euthynnus affinis",
+    "SpecCode": "96",
+    "CommonName": "Aloy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euthynnus alletteratus",
+    "SpecCode": "97",
+    "CommonName": "Alacurza",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euthynnus lineatus",
+    "SpecCode": "98",
+    "CommonName": "Atún patiseca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

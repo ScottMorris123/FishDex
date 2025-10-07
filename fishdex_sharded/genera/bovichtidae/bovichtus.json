@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Bovichtus angustifrons",
+    "SpecCode": "51514",
+    "CommonName": "Dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bovichtus argentinus",
+    "SpecCode": "59307",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bovichtus chilensis",
+    "SpecCode": "56284",
+    "CommonName": "Torito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bovichtus diacanthus",
+    "SpecCode": "59309",
+    "CommonName": "双棘牛鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bovichtus oculus",
+    "SpecCode": "49315",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bovichtus psychrolutes",
+    "SpecCode": "47023",
+    "CommonName": "寒牛魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bovichtus variegatus",
+    "SpecCode": "12010",
+    "CommonName": "Austraalia sarvpõsk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bovichtus veneris",
+    "SpecCode": "59308",
+    "CommonName": "印度洋牛魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

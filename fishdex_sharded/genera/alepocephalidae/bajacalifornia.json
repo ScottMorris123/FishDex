@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Bajacalifornia aequatoris",
+    "SpecCode": "56744",
+    "CommonName": "赤道巴傑加州平頭魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bajacalifornia arcylepis",
+    "SpecCode": "56747",
+    "CommonName": "Network slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bajacalifornia burragei",
+    "SpecCode": "5200",
+    "CommonName": "Sharpchin slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bajacalifornia calcarata",
+    "SpecCode": "16453",
+    "CommonName": "Brown slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bajacalifornia erimoensis",
+    "SpecCode": "58907",
+    "CommonName": "Ukeguchi-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bajacalifornia megalops",
+    "SpecCode": "10003",
+    "CommonName": "Alépocéphale à grands yeux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bajacalifornia microstoma",
+    "SpecCode": "56745",
+    "CommonName": "大口巴傑加州平頭魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

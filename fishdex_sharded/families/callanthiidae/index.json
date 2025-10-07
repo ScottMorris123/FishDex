@@ -1,0 +1,17 @@
+{
+  "Family": "Callanthiidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Splendid perches",
+  "Genera": [
+    {
+      "Genus": "Callanthias",
+      "SpeciesCount": 8,
+      "genus_path": "genera/callanthiidae/callanthias.json"
+    },
+    {
+      "Genus": "Grammatonotus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/callanthiidae/grammatonotus.json"
+    }
+  ]
+}

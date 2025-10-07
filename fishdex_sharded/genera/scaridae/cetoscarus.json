@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Cetoscarus bicolor",
+    "SpecCode": "5538",
+    "CommonName": "Bayan dwiwarna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetoscarus ocellatus",
+    "SpecCode": "66097",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

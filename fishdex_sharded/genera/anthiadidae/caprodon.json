@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Caprodon affinis",
+    "SpecCode": "69010",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caprodon krasyukovae",
+    "SpecCode": "61254",
+    "CommonName": "Krasyukova's perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caprodon longimanus",
+    "SpecCode": "15086",
+    "CommonName": "Langflossiger Seebarsch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caprodon schlegelii",
+    "SpecCode": "13007",
+    "CommonName": "Akaisaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caprodon unicolor",
+    "SpecCode": "69009",
+    "CommonName": "Elegant Anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

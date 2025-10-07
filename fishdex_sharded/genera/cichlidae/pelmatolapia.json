@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Pelmatolapia cabrae",
+    "SpecCode": "8909",
+    "CommonName": "Akuba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelmatolapia mariae",
+    "SpecCode": "2489",
+    "CommonName": "A-sannoh",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

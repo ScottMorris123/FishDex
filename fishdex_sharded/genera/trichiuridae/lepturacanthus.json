@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Lepturacanthus pantului",
+    "SpecCode": "8664",
+    "CommonName": "Coromandal ribbonfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepturacanthus roelandti",
+    "SpecCode": "63399",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepturacanthus savala",
+    "SpecCode": "8314",
+    "CommonName": "Bale",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Belobranchus belobranchus",
+    "SpecCode": "11787",
+    "CommonName": "Batingulo",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Belobranchus segura",
+    "SpecCode": "66926",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

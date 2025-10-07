@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Gnathopogon caerulescens",
+    "SpecCode": "22910",
+    "CommonName": "Honmoroko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathopogon elongatus",
+    "SpecCode": "22909",
+    "CommonName": "Hrouzenka protáhlá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathopogon herzensteini",
+    "SpecCode": "55370",
+    "CommonName": "Herzensteini pardrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathopogon imberbis",
+    "SpecCode": "55369",
+    "CommonName": "Hrouzenka bezvousá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathopogon nicholsi",
+    "SpecCode": "55373",
+    "CommonName": "Hrouzenka Nicholsova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathopogon polytaenia",
+    "SpecCode": "55374",
+    "CommonName": "Hrouzenka mnohopásá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathopogon strigatus",
+    "SpecCode": "46937",
+    "CommonName": "Hrouzenka amurská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathopogon taeniellus",
+    "SpecCode": "55372",
+    "CommonName": "Hrouzenka minenská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathopogon tsinanensis",
+    "SpecCode": "55375",
+    "CommonName": "Barbitörö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

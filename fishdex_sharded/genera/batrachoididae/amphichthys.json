@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Amphichthys cryptocentrus",
+    "SpecCode": "967",
+    "CommonName": "Bocon toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphichthys rubigenis",
+    "SpecCode": "53589",
+    "CommonName": "Pacamão",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

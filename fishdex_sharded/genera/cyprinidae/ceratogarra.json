@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ceratogarra bisangularis",
+    "SpecCode": "65837",
+    "CommonName": "Õnarnina-napplõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ceratogarra cambodgiensis",
+    "SpecCode": "27164",
+    "CommonName": "Gara kambodžská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ceratogarra fasciacauda",
+    "SpecCode": "27165",
+    "CommonName": "Gara pruhoocasá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

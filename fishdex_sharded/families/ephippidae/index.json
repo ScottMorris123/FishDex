@@ -1,0 +1,47 @@
+{
+  "Family": "Ephippidae",
+  "Order": "Acanthuriformes",
+  "Common": "Spadefishes, batfishes and scats",
+  "Genera": [
+    {
+      "Genus": "Chaetodipterus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ephippidae/chaetodipterus.json"
+    },
+    {
+      "Genus": "Ephippus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ephippidae/ephippus.json"
+    },
+    {
+      "Genus": "Parapsettus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ephippidae/parapsettus.json"
+    },
+    {
+      "Genus": "Platax",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ephippidae/platax.json"
+    },
+    {
+      "Genus": "Proteracanthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ephippidae/proteracanthus.json"
+    },
+    {
+      "Genus": "Rhinoprenes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ephippidae/rhinoprenes.json"
+    },
+    {
+      "Genus": "Tripterodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ephippidae/tripterodon.json"
+    },
+    {
+      "Genus": "Zabidius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ephippidae/zabidius.json"
+    }
+  ]
+}

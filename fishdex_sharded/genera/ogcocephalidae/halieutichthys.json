@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Halieutichthys aculeatus",
+    "SpecCode": "3091",
+    "CommonName": "diablito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutichthys bispinosus",
+    "SpecCode": "65849",
+    "CommonName": "Murciélago tubos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutichthys caribbaeus",
+    "SpecCode": "65848",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutichthys intermedius",
+    "SpecCode": "65850",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

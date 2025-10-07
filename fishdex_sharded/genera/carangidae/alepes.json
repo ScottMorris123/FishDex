@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Alepes apercna",
+    "SpecCode": "15332",
+    "CommonName": "Banded scad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepes djedaba",
+    "SpecCode": "1889",
+    "CommonName": "Alepa zlotopletwa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepes kleinii",
+    "SpecCode": "1903",
+    "CommonName": "Banded scad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepes melanoptera",
+    "SpecCode": "1890",
+    "CommonName": "Banded scad",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alepes vari",
+    "SpecCode": "1891",
+    "CommonName": "Baculan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

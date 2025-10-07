@@ -1,0 +1,69 @@
+[
+  {
+    "ScientificName": "Caffrogobius agulhensis",
+    "SpecCode": "17048",
+    "CommonName": "Agulhas goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caffrogobius caffer",
+    "SpecCode": "9925",
+    "CommonName": "Banded goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caffrogobius dubius",
+    "SpecCode": "26845",
+    "CommonName": "鈍頭卡佛鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caffrogobius gilchristi",
+    "SpecCode": "9927",
+    "CommonName": "Prison goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caffrogobius natalensis",
+    "SpecCode": "9929",
+    "CommonName": "Baldy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caffrogobius nudiceps",
+    "SpecCode": "9931",
+    "CommonName": "Barehead goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caffrogobius saldanha",
+    "SpecCode": "9976",
+    "CommonName": "Commafin goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

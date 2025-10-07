@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Pseudorasbora elongata",
+    "SpecCode": "55987",
+    "CommonName": "Sale ebarasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudorasbora interrupta",
+    "SpecCode": "63619",
+    "CommonName": "Guangdongi ebarasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudorasbora parva",
+    "SpecCode": "4691",
+    "CommonName": "Amurcheh",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudorasbora pugnax",
+    "SpecCode": "67966",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudorasbora pumila",
+    "SpecCode": "22924",
+    "CommonName": "Japaninrasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Aplodactylus arctidens",
+    "SpecCode": "47003",
+    "CommonName": "Kehe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplodactylus etheridgii",
+    "SpecCode": "27509",
+    "CommonName": "Notchhead marblefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplodactylus lophodon",
+    "SpecCode": "52462",
+    "CommonName": "Cockatoo fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplodactylus punctatus",
+    "SpecCode": "12909",
+    "CommonName": "&#26001;&#28857;&#40560;&#32705;",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplodactylus westralis",
+    "SpecCode": "15712",
+    "CommonName": "Cockatoo morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

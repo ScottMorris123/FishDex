@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Cirrhitichthys aprinus",
+    "SpecCode": "6604",
+    "CommonName": "Blotched hawkfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitichthys aureus",
+    "SpecCode": "10473",
+    "CommonName": "Golden hawkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitichthys bleekeri",
+    "SpecCode": "58167",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitichthys calliurus",
+    "SpecCode": "46372",
+    "CommonName": "Épervier d'Oman",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitichthys falco",
+    "SpecCode": "5445",
+    "CommonName": "bika vatu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitichthys guichenoti",
+    "SpecCode": "25806",
+    "CommonName": "Cave hawkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitichthys oxycephalus",
+    "SpecCode": "5830",
+    "CommonName": "Coral hawkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitichthys randalli",
+    "SpecCode": "60600",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

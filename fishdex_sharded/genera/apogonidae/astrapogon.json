@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Astrapogon alutus",
+    "SpecCode": "3533",
+    "CommonName": "Bronze Cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astrapogon puncticulatus",
+    "SpecCode": "3534",
+    "CommonName": "Blackfin Cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astrapogon stellatus",
+    "SpecCode": "3535",
+    "CommonName": "Cardenal de cobo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

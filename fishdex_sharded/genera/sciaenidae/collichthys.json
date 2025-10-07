@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Collichthys lucidus",
+    "SpecCode": "23635",
+    "CommonName": "Big head croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Collichthys niveatus",
+    "SpecCode": "23476",
+    "CommonName": "Bighead croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

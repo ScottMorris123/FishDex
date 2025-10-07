@@ -1,0 +1,12 @@
+{
+  "Family": "Champsodontidae",
+  "Order": "Acropomatiformes",
+  "Common": "Crocodile toothfishes",
+  "Genera": [
+    {
+      "Genus": "Champsodon",
+      "SpeciesCount": 13,
+      "genus_path": "genera/champsodontidae/champsodon.json"
+    }
+  ]
+}

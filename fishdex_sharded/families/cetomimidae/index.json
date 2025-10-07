@@ -1,0 +1,87 @@
+{
+  "Family": "Cetomimidae",
+  "Order": "Beryciformes",
+  "Common": "Flabby whalefishes",
+  "Genera": [
+    {
+      "Genus": "Ataxolepis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cetomimidae/ataxolepis.json"
+    },
+    {
+      "Genus": "Cetichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cetomimidae/cetichthys.json"
+    },
+    {
+      "Genus": "Cetomimoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/cetomimoides.json"
+    },
+    {
+      "Genus": "Cetomimus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cetomimidae/cetomimus.json"
+    },
+    {
+      "Genus": "Cetostoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/cetostoma.json"
+    },
+    {
+      "Genus": "Danacetichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/danacetichthys.json"
+    },
+    {
+      "Genus": "Ditropichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/ditropichthys.json"
+    },
+    {
+      "Genus": "Eutaeniophorus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/eutaeniophorus.json"
+    },
+    {
+      "Genus": "Gyrinomimus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cetomimidae/gyrinomimus.json"
+    },
+    {
+      "Genus": "Megalomycter",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/megalomycter.json"
+    },
+    {
+      "Genus": "Mirapinna",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/mirapinna.json"
+    },
+    {
+      "Genus": "Notocetichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/notocetichthys.json"
+    },
+    {
+      "Genus": "Parataeniophorus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cetomimidae/parataeniophorus.json"
+    },
+    {
+      "Genus": "Procetichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/procetichthys.json"
+    },
+    {
+      "Genus": "Rhamphocetichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/rhamphocetichthys.json"
+    },
+    {
+      "Genus": "Vitiaziella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cetomimidae/vitiaziella.json"
+    }
+  ]
+}

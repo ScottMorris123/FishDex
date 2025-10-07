@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Thorichthys affinis",
+    "SpecCode": "26809",
+    "CommonName": "Golden cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thorichthys aureus",
+    "SpecCode": "7324",
+    "CommonName": "Blue flash",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thorichthys callolepis",
+    "SpecCode": "26811",
+    "CommonName": "Mojarra de San Domingo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thorichthys helleri",
+    "SpecCode": "26812",
+    "CommonName": "Hehkusuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thorichthys maculipinnis",
+    "SpecCode": "26501",
+    "CommonName": "Chescla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thorichthys meeki",
+    "SpecCode": "4676",
+    "CommonName": "Castarrica",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thorichthys panchovillai",
+    "SpecCode": "68672",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thorichthys pasionis",
+    "SpecCode": "26814",
+    "CommonName": "Blackgullet cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thorichthys socolofi",
+    "SpecCode": "26815",
+    "CommonName": "Chiapas cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

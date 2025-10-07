@@ -1,0 +1,52 @@
+[
+  {
+    "ScientificName": "Pseudaspius brandtii",
+    "SpecCode": "47843",
+    "CommonName": "Altai osman",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudaspius hakonensis",
+    "SpecCode": "23622",
+    "CommonName": "Big-scaled redfin",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudaspius leptocephalus",
+    "SpecCode": "46597",
+    "CommonName": "Amurskiy zherekh",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudaspius nakamurai",
+    "SpecCode": "60022",
+    "CommonName": "Nakamura ugui",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudaspius sachalinensis",
+    "SpecCode": "23619",
+    "CommonName": "Ezo-ugui",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

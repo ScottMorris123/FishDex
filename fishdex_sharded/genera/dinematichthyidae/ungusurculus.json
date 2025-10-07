@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Ungusurculus collettei",
+    "SpecCode": "64488",
+    "CommonName": "Collette's viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ungusurculus komodoensis",
+    "SpecCode": "64489",
+    "CommonName": "Komodo viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ungusurculus philippinensis",
+    "SpecCode": "64490",
+    "CommonName": "Philippines viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ungusurculus riauensis",
+    "SpecCode": "64491",
+    "CommonName": "Riau viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ungusurculus sundaensis",
+    "SpecCode": "64492",
+    "CommonName": "Sunda viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ungusurculus williamsi",
+    "SpecCode": "64493",
+    "CommonName": "Williams' viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

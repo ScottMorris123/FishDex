@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Plagiotremus azaleus",
+    "SpecCode": "25513",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus ewaensis",
+    "SpecCode": "7833",
+    "CommonName": "Blue-stripe blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus flavus",
+    "SpecCode": "62213",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus goslinei",
+    "SpecCode": "7834",
+    "CommonName": "Biting blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus iosodon",
+    "SpecCode": "61226",
+    "CommonName": "Arrowtooth fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus laudandus",
+    "SpecCode": "6070",
+    "CommonName": "Bicolor fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus phenax",
+    "SpecCode": "12787",
+    "CommonName": "Imposter fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus rhinorhynchos",
+    "SpecCode": "6071",
+    "CommonName": "Bavosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus spilistius",
+    "SpecCode": "46736",
+    "CommonName": "Slender blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus tapeinosoma",
+    "SpecCode": "6072",
+    "CommonName": "Aspidont wieloplamek",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiotremus townsendi",
+    "SpecCode": "12788",
+    "CommonName": "Townsend's fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

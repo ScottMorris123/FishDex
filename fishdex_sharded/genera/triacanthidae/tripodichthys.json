@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Tripodichthys angustifrons",
+    "SpecCode": "15228",
+    "CommonName": "Blackflag tripodfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tripodichthys blochii",
+    "SpecCode": "8413",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tripodichthys oxycephalus",
+    "SpecCode": "15229",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

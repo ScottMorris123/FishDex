@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Hiodon alosoides",
+    "SpecCode": "2666",
+    "CommonName": "Goldauge",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hiodon tergisus",
+    "SpecCode": "2667",
+    "CommonName": "Freshwater herring",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

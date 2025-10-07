@@ -1,0 +1,184 @@
+[
+  {
+    "ScientificName": "Acipenser baerii",
+    "SpecCode": "4683",
+    "CommonName": "Baikal sturgeon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser brevirostrum",
+    "SpecCode": "2590",
+    "CommonName": "Esturgeon à museau court",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser dabryanus",
+    "SpecCode": "8737",
+    "CommonName": "Dabry's Sturgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser fulvescens",
+    "SpecCode": "2591",
+    "CommonName": "Amerikansk stör",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser gueldenstaedtii",
+    "SpecCode": "4712",
+    "CommonName": "Azov-Black sea sturgeon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser medirostris",
+    "SpecCode": "2592",
+    "CommonName": "Barbel sturgeon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser mikadoi",
+    "SpecCode": "9762",
+    "CommonName": "Chôzame",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser naccarii",
+    "SpecCode": "2504",
+    "CommonName": "Aadria tuur",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser nudiventris",
+    "SpecCode": "2505",
+    "CommonName": "Barbel sturgeon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser oxyrinchus",
+    "SpecCode": "2593",
+    "CommonName": "American Atlantic sturgeon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser persicus",
+    "SpecCode": "9763",
+    "CommonName": "Darakul",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser ruthenus",
+    "SpecCode": "4604",
+    "CommonName": "Cega",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser schrenckii",
+    "SpecCode": "6085",
+    "CommonName": "Amur sturgeon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser sinensis",
+    "SpecCode": "8762",
+    "CommonName": "Chinese sturgeon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser stellatus",
+    "SpecCode": "2065",
+    "CommonName": "Astroxyrychi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser sturio",
+    "SpecCode": "2066",
+    "CommonName": "Açl mersine",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acipenser transmontanus",
+    "SpecCode": "2594",
+    "CommonName": "Amerikanischer Stör",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

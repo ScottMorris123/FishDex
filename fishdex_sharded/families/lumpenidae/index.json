@@ -1,0 +1,47 @@
+{
+  "Family": "Lumpenidae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "Eel pricklebacks",
+  "Genera": [
+    {
+      "Genus": "Acantholumpenus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lumpenidae/acantholumpenus.json"
+    },
+    {
+      "Genus": "Anisarchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lumpenidae/anisarchus.json"
+    },
+    {
+      "Genus": "Leptoclinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lumpenidae/leptoclinus.json"
+    },
+    {
+      "Genus": "Lumpenella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lumpenidae/lumpenella.json"
+    },
+    {
+      "Genus": "Lumpenus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/lumpenidae/lumpenus.json"
+    },
+    {
+      "Genus": "Neolumpenus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lumpenidae/neolumpenus.json"
+    },
+    {
+      "Genus": "Poroclinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lumpenidae/poroclinus.json"
+    },
+    {
+      "Genus": "Xenolumpenus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lumpenidae/xenolumpenus.json"
+    }
+  ]
+}

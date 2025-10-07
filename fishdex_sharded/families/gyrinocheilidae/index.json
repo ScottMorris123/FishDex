@@ -1,0 +1,12 @@
+{
+  "Family": "Gyrinocheilidae",
+  "Order": "Cypriniformes",
+  "Common": "Algae eaters",
+  "Genera": [
+    {
+      "Genus": "Gyrinocheilus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gyrinocheilidae/gyrinocheilus.json"
+    }
+  ]
+}

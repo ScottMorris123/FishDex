@@ -1,0 +1,131 @@
+[
+  {
+    "ScientificName": "Taenioides anguillaris",
+    "SpecCode": "25125",
+    "CommonName": "Anguilla eelgoby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides buchanani",
+    "SpecCode": "25270",
+    "CommonName": "Burmese gobyeel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides caniscapulus",
+    "SpecCode": "60103",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides cirratus",
+    "SpecCode": "4899",
+    "CommonName": "Baliga",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides eruptionis",
+    "SpecCode": "60104",
+    "CommonName": "Cá Nhàm xám",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides esquivel",
+    "SpecCode": "10001",
+    "CommonName": "Bulhond-palingdikkop",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides gracilis",
+    "SpecCode": "10004",
+    "CommonName": "Slender eel goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides jacksoni",
+    "SpecCode": "6350",
+    "CommonName": "Bearded eelgoby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides kentalleni",
+    "SpecCode": "60102",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides limicola",
+    "SpecCode": "23677",
+    "CommonName": "Bearded eel goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides mordax",
+    "SpecCode": "60105",
+    "CommonName": "Eastern eel goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides nigrimarginatus",
+    "SpecCode": "26870",
+    "CommonName": "Blackfin eel goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taenioides purpurascens",
+    "SpecCode": "60106",
+    "CommonName": "Purple eel goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

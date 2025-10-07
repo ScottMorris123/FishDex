@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Ancistrogobius dipus",
+    "SpecCode": "65437",
+    "CommonName": "Double-fin cheek-hook goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrogobius squamiceps",
+    "SpecCode": "65438",
+    "CommonName": "Scaly cheek-hook goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrogobius yanoi",
+    "SpecCode": "65439",
+    "CommonName": "Asabano ho'okagi-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrogobius yoshigoui",
+    "SpecCode": "65440",
+    "CommonName": "Itokake Ho'okagi-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

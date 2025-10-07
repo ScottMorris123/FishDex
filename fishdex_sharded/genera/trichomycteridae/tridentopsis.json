@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Tridentopsis cahuali",
+    "SpecCode": "58377",
+    "CommonName": "Kituluikeromonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentopsis pearsoni",
+    "SpecCode": "48796",
+    "CommonName": "Parananluikeromonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentopsis tocantinsi",
+    "SpecCode": "48797",
+    "CommonName": "托氏小叉齒毛鼻鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

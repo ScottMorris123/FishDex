@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lophonectes gallus",
+    "SpecCode": "14522",
+    "CommonName": "Crested flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophonectes mongonuiensis",
+    "SpecCode": "58967",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pseudopimelodus bufonius",
+    "SpecCode": "58258",
+    "CommonName": "Bagre sapo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopimelodus charus",
+    "SpecCode": "58259",
+    "CommonName": "Peixe-sapo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopimelodus mangurus",
+    "SpecCode": "58260",
+    "CommonName": "Bagresapo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopimelodus pulcher",
+    "SpecCode": "13266",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopimelodus schultzi",
+    "SpecCode": "58261",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

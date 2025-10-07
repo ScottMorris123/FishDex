@@ -1,0 +1,17 @@
+{
+  "Family": "Chlorophthalmidae",
+  "Order": "Aulopiformes",
+  "Common": "Greeneyes",
+  "Genera": [
+    {
+      "Genus": "Chlorophthalmus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/chlorophthalmidae/chlorophthalmus.json"
+    },
+    {
+      "Genus": "Parasudis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/chlorophthalmidae/parasudis.json"
+    }
+  ]
+}

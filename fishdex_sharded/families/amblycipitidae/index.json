@@ -1,0 +1,27 @@
+{
+  "Family": "Amblycipitidae",
+  "Order": "Siluriformes",
+  "Common": "Torrent catfishes",
+  "Genera": [
+    {
+      "Genus": "Amblyceps",
+      "SpeciesCount": 21,
+      "genus_path": "genera/amblycipitidae/amblyceps.json"
+    },
+    {
+      "Genus": "Liobagrus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/amblycipitidae/liobagrus.json"
+    },
+    {
+      "Genus": "Nahangbagrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/amblycipitidae/nahangbagrus.json"
+    },
+    {
+      "Genus": "Xiurenbagrus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/amblycipitidae/xiurenbagrus.json"
+    }
+  ]
+}

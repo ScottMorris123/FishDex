@@ -1,0 +1,42 @@
+{
+  "Family": "Acheilognathidae",
+  "Order": "Cypriniformes",
+  "Common": "Bitterlings",
+  "Genera": [
+    {
+      "Genus": "Acanthorhodeus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/acheilognathidae/acanthorhodeus.json"
+    },
+    {
+      "Genus": "Acheilognathus",
+      "SpeciesCount": 40,
+      "genus_path": "genera/acheilognathidae/acheilognathus.json"
+    },
+    {
+      "Genus": "Paratanakia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/acheilognathidae/paratanakia.json"
+    },
+    {
+      "Genus": "Pseudorhodeus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/acheilognathidae/pseudorhodeus.json"
+    },
+    {
+      "Genus": "Rhodeus",
+      "SpeciesCount": 23,
+      "genus_path": "genera/acheilognathidae/rhodeus.json"
+    },
+    {
+      "Genus": "Sinorhodeus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/acheilognathidae/sinorhodeus.json"
+    },
+    {
+      "Genus": "Tanakia",
+      "SpeciesCount": 7,
+      "genus_path": "genera/acheilognathidae/tanakia.json"
+    }
+  ]
+}

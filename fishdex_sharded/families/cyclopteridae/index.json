@@ -1,0 +1,42 @@
+{
+  "Family": "Cyclopteridae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Lumpfishes",
+  "Genera": [
+    {
+      "Genus": "Aptocyclus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyclopteridae/aptocyclus.json"
+    },
+    {
+      "Genus": "Cyclopsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyclopteridae/cyclopsis.json"
+    },
+    {
+      "Genus": "Cyclopteropsis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cyclopteridae/cyclopteropsis.json"
+    },
+    {
+      "Genus": "Cyclopterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyclopteridae/cyclopterus.json"
+    },
+    {
+      "Genus": "Eumicrotremus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/cyclopteridae/eumicrotremus.json"
+    },
+    {
+      "Genus": "Lethotremus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyclopteridae/lethotremus.json"
+    },
+    {
+      "Genus": "Proeumicrotremus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyclopteridae/proeumicrotremus.json"
+    }
+  ]
+}

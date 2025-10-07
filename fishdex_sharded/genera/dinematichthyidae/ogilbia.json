@@ -1,0 +1,165 @@
+[
+  {
+    "ScientificName": "Ogilbia boehlkei",
+    "SpecCode": "63279",
+    "CommonName": "Boehlke's coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia boydwalkeri",
+    "SpecCode": "63265",
+    "CommonName": "Brótula del profesor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia cayorum",
+    "SpecCode": "3123",
+    "CommonName": "Brotula amarilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia cocoensis",
+    "SpecCode": "63270",
+    "CommonName": "Coco coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia davidsmithi",
+    "SpecCode": "63271",
+    "CommonName": "Brótula de Cortés",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia deroyi",
+    "SpecCode": "46088",
+    "CommonName": "Deroy's cuskeel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia galapagosensis",
+    "SpecCode": "46091",
+    "CommonName": "Galapagos cuskeel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia jeffwilliamsi",
+    "SpecCode": "63280",
+    "CommonName": "William's coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia jewettae",
+    "SpecCode": "63272",
+    "CommonName": "Jewett's coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia mccoskeri",
+    "SpecCode": "63281",
+    "CommonName": "Mccosker's coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia nigromarginata",
+    "SpecCode": "63273",
+    "CommonName": "Blackmargin brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia nudiceps",
+    "SpecCode": "63274",
+    "CommonName": "Brótula pelona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia robertsoni",
+    "SpecCode": "63277",
+    "CommonName": "Brótula café",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia sabaji",
+    "SpecCode": "63282",
+    "CommonName": "Curator brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia sedorae",
+    "SpecCode": "63278",
+    "CommonName": "Brótula espina partida",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia suarezae",
+    "SpecCode": "63283",
+    "CommonName": "Brótula timida",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia tyleri",
+    "SpecCode": "63291",
+    "CommonName": "Tyler's coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbia ventralis",
+    "SpecCode": "46467",
+    "CommonName": "Brótula del Golfo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Nemanthias bartlettorum",
+    "SpecCode": "12719",
+    "CommonName": "Bartletts' anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemanthias bicolor",
+    "SpecCode": "7874",
+    "CommonName": "Anthias bicolore",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemanthias carberryi",
+    "SpecCode": "12730",
+    "CommonName": "Draadvin-goudvissie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemanthias dispar",
+    "SpecCode": "7454",
+    "CommonName": "Akane-hanagoi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemanthias regalis",
+    "SpecCode": "26872",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

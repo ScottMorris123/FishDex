@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Bairdiella armata",
+    "SpecCode": "14623",
+    "CommonName": "Armed croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bairdiella chrysoura",
+    "SpecCode": "1165",
+    "CommonName": "Corvineta blanca",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bairdiella ensifera",
+    "SpecCode": "13985",
+    "CommonName": "Barbirrubia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bairdiella goeldi",
+    "SpecCode": "70190",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bairdiella icistia",
+    "SpecCode": "3579",
+    "CommonName": "Bairdiella",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bairdiella ronchus",
+    "SpecCode": "1166",
+    "CommonName": "Bororo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bairdiella veraecrucis",
+    "SpecCode": "70452",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

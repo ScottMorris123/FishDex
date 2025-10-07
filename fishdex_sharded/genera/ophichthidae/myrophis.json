@@ -1,0 +1,68 @@
+[
+  {
+    "ScientificName": "Myrophis anterodorsalis",
+    "SpecCode": "53895",
+    "CommonName": "Longfin worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrophis lepturus",
+    "SpecCode": "60262",
+    "CommonName": "Salesaba-konuangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrophis microchir",
+    "SpecCode": "22602",
+    "CommonName": "Hadař maloploutvý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrophis platyrhynchus",
+    "SpecCode": "16518",
+    "CommonName": "Broadnose worm eel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrophis plumbeus",
+    "SpecCode": "9090",
+    "CommonName": "Hadař šedý",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrophis punctatus",
+    "SpecCode": "2652",
+    "CommonName": "Congro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrophis vafer",
+    "SpecCode": "2653",
+    "CommonName": "Anguila gusano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

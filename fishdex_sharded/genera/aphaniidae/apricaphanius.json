@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Apricaphanius baeticus",
+    "SpecCode": "61504",
+    "CommonName": "Guadalquivir toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apricaphanius iberus",
+    "SpecCode": "4876",
+    "CommonName": "Aphanius d'Espagne",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apricaphanius saourensis",
+    "SpecCode": "62763",
+    "CommonName": "Afanius sahariano",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

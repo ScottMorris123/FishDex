@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Blennioclinus brachycephalus",
+    "SpecCode": "25456",
+    "CommonName": "Galon-klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blennioclinus stella",
+    "SpecCode": "26224",
+    "CommonName": "Silverbubble klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

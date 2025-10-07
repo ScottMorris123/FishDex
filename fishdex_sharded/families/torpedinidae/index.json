@@ -1,0 +1,17 @@
+{
+  "Family": "Torpedinidae",
+  "Order": "Torpediniformes",
+  "Common": "Electric rays",
+  "Genera": [
+    {
+      "Genus": "Tetronarce",
+      "SpeciesCount": 13,
+      "genus_path": "genera/torpedinidae/tetronarce.json"
+    },
+    {
+      "Genus": "Torpedo",
+      "SpeciesCount": 11,
+      "genus_path": "genera/torpedinidae/torpedo.json"
+    }
+  ]
+}

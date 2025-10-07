@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Skythrenchelys macrostomus",
+    "SpecCode": "27351",
+    "CommonName": "Hadař velkoústý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Skythrenchelys zabra",
+    "SpecCode": "59403",
+    "CommonName": "Ablas sünkangerjas",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

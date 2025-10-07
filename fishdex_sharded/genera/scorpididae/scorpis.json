@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Scorpis aequipinnis",
+    "SpecCode": "14390",
+    "CommonName": "Feje-rorfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpis chilensis",
+    "SpecCode": "56288",
+    "CommonName": "Pampanito de J. Fernández",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpis georgiana",
+    "SpecCode": "14620",
+    "CommonName": "Banded sweep",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpis lineolata",
+    "SpecCode": "27504",
+    "CommonName": "False pompano",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpis violacea",
+    "SpecCode": "12235",
+    "CommonName": "Blue maomao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

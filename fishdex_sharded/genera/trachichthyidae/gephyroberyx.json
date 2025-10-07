@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Gephyroberyx darwinii",
+    "SpecCode": "4962",
+    "CommonName": "Big Roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyroberyx japonicus",
+    "SpecCode": "60885",
+    "CommonName": "Big roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

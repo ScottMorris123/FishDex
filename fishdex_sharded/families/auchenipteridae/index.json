@@ -1,0 +1,132 @@
+{
+  "Family": "Auchenipteridae",
+  "Order": "Siluriformes",
+  "Common": "Driftwood catfishes",
+  "Genera": [
+    {
+      "Genus": "Ageneiosus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/auchenipteridae/ageneiosus.json"
+    },
+    {
+      "Genus": "Asterophysus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/auchenipteridae/asterophysus.json"
+    },
+    {
+      "Genus": "Auchenipterichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/auchenipteridae/auchenipterichthys.json"
+    },
+    {
+      "Genus": "Auchenipterus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/auchenipteridae/auchenipterus.json"
+    },
+    {
+      "Genus": "Centromochlus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/auchenipteridae/centromochlus.json"
+    },
+    {
+      "Genus": "Duringlanis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/auchenipteridae/duringlanis.json"
+    },
+    {
+      "Genus": "Entomocorus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/auchenipteridae/entomocorus.json"
+    },
+    {
+      "Genus": "Epapterus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/auchenipteridae/epapterus.json"
+    },
+    {
+      "Genus": "Ferrarissoaresia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/auchenipteridae/ferrarissoaresia.json"
+    },
+    {
+      "Genus": "Gelanoglanis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/auchenipteridae/gelanoglanis.json"
+    },
+    {
+      "Genus": "Gephyromochlus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/auchenipteridae/gephyromochlus.json"
+    },
+    {
+      "Genus": "Glanidium",
+      "SpeciesCount": 6,
+      "genus_path": "genera/auchenipteridae/glanidium.json"
+    },
+    {
+      "Genus": "Liosomadoras",
+      "SpeciesCount": 2,
+      "genus_path": "genera/auchenipteridae/liosomadoras.json"
+    },
+    {
+      "Genus": "Pseudauchenipterus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/auchenipteridae/pseudauchenipterus.json"
+    },
+    {
+      "Genus": "Pseudepapterus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/auchenipteridae/pseudepapterus.json"
+    },
+    {
+      "Genus": "Pseudotatia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/auchenipteridae/pseudotatia.json"
+    },
+    {
+      "Genus": "Spinipterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/auchenipteridae/spinipterus.json"
+    },
+    {
+      "Genus": "Tatia",
+      "SpeciesCount": 21,
+      "genus_path": "genera/auchenipteridae/tatia.json"
+    },
+    {
+      "Genus": "Tetranematichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/auchenipteridae/tetranematichthys.json"
+    },
+    {
+      "Genus": "Tocantinsia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/auchenipteridae/tocantinsia.json"
+    },
+    {
+      "Genus": "Trachelyichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/auchenipteridae/trachelyichthys.json"
+    },
+    {
+      "Genus": "Trachelyopterichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/auchenipteridae/trachelyopterichthys.json"
+    },
+    {
+      "Genus": "Trachelyopterus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/auchenipteridae/trachelyopterus.json"
+    },
+    {
+      "Genus": "Trachycorystes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/auchenipteridae/trachycorystes.json"
+    },
+    {
+      "Genus": "Tympanopleura",
+      "SpeciesCount": 6,
+      "genus_path": "genera/auchenipteridae/tympanopleura.json"
+    }
+  ]
+}

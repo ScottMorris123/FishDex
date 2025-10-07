@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Centroscymnus coelolepis",
+    "SpecCode": "662",
+    "CommonName": "Beloglazaya akula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroscymnus owstonii",
+    "SpecCode": "666",
+    "CommonName": "Black shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

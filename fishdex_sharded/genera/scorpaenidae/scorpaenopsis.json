@@ -1,0 +1,256 @@
+[
+  {
+    "ScientificName": "Scorpaenopsis altirostris",
+    "SpecCode": "59495",
+    "CommonName": "高吻拟鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis barbata",
+    "SpecCode": "12767",
+    "CommonName": "Abu al-Laban",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis brevifrons",
+    "SpecCode": "12605",
+    "CommonName": "Shortnose scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis cacopsis",
+    "SpecCode": "6653",
+    "CommonName": "Jenkin's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis cirrosa",
+    "SpecCode": "12080",
+    "CommonName": "Depu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis cotticeps",
+    "SpecCode": "59205",
+    "CommonName": "Hime-satsuma-kasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis crenulata",
+    "SpecCode": "65926",
+    "CommonName": "Serrated deepwater scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis diabolus",
+    "SpecCode": "4921",
+    "CommonName": "Abu al-Laban",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis eschmeyeri",
+    "SpecCode": "62945",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis furneauxi",
+    "SpecCode": "52375",
+    "CommonName": "Furneaux scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis gibbosa",
+    "SpecCode": "7918",
+    "CommonName": "Boggel-skerpioenvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis gilchristi",
+    "SpecCode": "16868",
+    "CommonName": "Gilchrist se skerpioenvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis insperatus",
+    "SpecCode": "62169",
+    "CommonName": "Sydney scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis lactomaculata",
+    "SpecCode": "28125",
+    "CommonName": "Whiteblotched scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis longispina",
+    "SpecCode": "59496",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis macrochir",
+    "SpecCode": "5820",
+    "CommonName": "delasiga",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis neglecta",
+    "SpecCode": "12555",
+    "CommonName": "Toyo kasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis obtusa",
+    "SpecCode": "59497",
+    "CommonName": "Shortsnout scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis orientalis",
+    "SpecCode": "59498",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis oxycephalus",
+    "SpecCode": "5822",
+    "CommonName": "Bwavaxic",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis papuensis",
+    "SpecCode": "56815",
+    "CommonName": "delasiga",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis pluralis",
+    "SpecCode": "59499",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis possi",
+    "SpecCode": "59500",
+    "CommonName": "delasiga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis pusilla",
+    "SpecCode": "59501",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis ramaraoi",
+    "SpecCode": "59506",
+    "CommonName": "Rama Rao's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis rubrimarginata",
+    "SpecCode": "67587",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis venosa",
+    "SpecCode": "7919",
+    "CommonName": "Ampo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenopsis vittapinna",
+    "SpecCode": "59507",
+    "CommonName": "Bandfin scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

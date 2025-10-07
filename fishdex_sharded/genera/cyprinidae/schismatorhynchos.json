@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Schismatorhynchos endecarhapis",
+    "SpecCode": "61710",
+    "CommonName": "Indoneesia mõrakoon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schismatorhynchos heterorhynchos",
+    "SpecCode": "22678",
+    "CommonName": "Delphinbarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schismatorhynchos holorhynchos",
+    "SpecCode": "56313",
+    "CommonName": "Malai mõrakoon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schismatorhynchos nukta",
+    "SpecCode": "13206",
+    "CommonName": "Kyhmybarbi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

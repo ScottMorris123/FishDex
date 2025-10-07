@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Astroscopus guttatus",
+    "SpecCode": "3703",
+    "CommonName": "Aranhuço",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroscopus sexspinosus",
+    "SpecCode": "14115",
+    "CommonName": "Bacalhau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroscopus ygraecum",
+    "SpecCode": "3704",
+    "CommonName": "Aniquim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astroscopus zephyreus",
+    "SpecCode": "14261",
+    "CommonName": "Enterrador",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

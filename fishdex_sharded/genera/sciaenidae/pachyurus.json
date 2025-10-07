@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Pachyurus adspersus",
+    "SpecCode": "12057",
+    "CommonName": "Brazilian croaker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachyurus bonariensis",
+    "SpecCode": "12052",
+    "CommonName": "burriqueta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachyurus calhamazon",
+    "SpecCode": "63004",
+    "CommonName": "Corvina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachyurus francisci",
+    "SpecCode": "12053",
+    "CommonName": "Corvina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachyurus gabrielensis",
+    "SpecCode": "63006",
+    "CommonName": "Corvina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachyurus junki",
+    "SpecCode": "63008",
+    "CommonName": "Corvina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachyurus paucirastrus",
+    "SpecCode": "57649",
+    "CommonName": "Corvina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachyurus schomburgkii",
+    "SpecCode": "8082",
+    "CommonName": "Amazon croaker",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachyurus squamipennis",
+    "SpecCode": "57648",
+    "CommonName": "Corvina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachyurus stewarti",
+    "SpecCode": "62189",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

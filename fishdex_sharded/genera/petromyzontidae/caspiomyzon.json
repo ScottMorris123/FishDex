@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Caspiomyzon graecus",
+    "SpecCode": "65524",
+    "CommonName": "Epiruse hammassilm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caspiomyzon hellenicus",
+    "SpecCode": "25843",
+    "CommonName": "Gavochelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caspiomyzon wagneri",
+    "SpecCode": "8718",
+    "CommonName": "Caspian lamprey",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

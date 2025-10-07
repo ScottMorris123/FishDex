@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Solocisquama carinata",
+    "SpecCode": "58609",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solocisquama erythrina",
+    "SpecCode": "58608",
+    "CommonName": "紅長鰭蝠魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solocisquama stellulata",
+    "SpecCode": "16838",
+    "CommonName": "Iga-fûryû-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

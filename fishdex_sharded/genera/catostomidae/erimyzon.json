@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Erimyzon claviformis",
+    "SpecCode": "66122",
+    "CommonName": "Lääne-koolmekala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erimyzon oblongus",
+    "SpecCode": "2986",
+    "CommonName": "Bæk-sugedøbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erimyzon sucetta",
+    "SpecCode": "2987",
+    "CommonName": "Harilik koolmekala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erimyzon tenuis",
+    "SpecCode": "2988",
+    "CommonName": "Pakaprovec ostroploutvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

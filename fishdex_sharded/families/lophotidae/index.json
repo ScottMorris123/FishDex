@@ -1,0 +1,17 @@
+{
+  "Family": "Lophotidae",
+  "Order": "Lampriformes",
+  "Common": "Crestfishes",
+  "Genera": [
+    {
+      "Genus": "Eumecichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lophotidae/eumecichthys.json"
+    },
+    {
+      "Genus": "Lophotus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/lophotidae/lophotus.json"
+    }
+  ]
+}

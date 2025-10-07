@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Protomyzon aphelocheilus",
+    "SpecCode": "22990",
+    "CommonName": "Balitora tambunanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protomyzon borneensis",
+    "SpecCode": "22991",
+    "CommonName": "Balitora severobornejská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protomyzon griswoldi",
+    "SpecCode": "22995",
+    "CommonName": "Balitora Griswoldova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protomyzon whiteheadi",
+    "SpecCode": "22996",
+    "CommonName": "Balitora Whiteheadova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

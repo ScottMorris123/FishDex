@@ -1,0 +1,52 @@
+[
+  {
+    "ScientificName": "Odontamblyopus lacepedii",
+    "SpecCode": "60110",
+    "CommonName": "Warasubo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontamblyopus rebecca",
+    "SpecCode": "60107",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontamblyopus roseus",
+    "SpecCode": "60109",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontamblyopus rubicundus",
+    "SpecCode": "13545",
+    "CommonName": "Aalgrundel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontamblyopus tenuis",
+    "SpecCode": "60108",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

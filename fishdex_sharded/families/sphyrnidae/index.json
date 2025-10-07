@@ -1,0 +1,17 @@
+{
+  "Family": "Sphyrnidae",
+  "Order": "Carcharhiniformes",
+  "Common": "Hammerhead, bonnethead, or scoophead sharks",
+  "Genera": [
+    {
+      "Genus": "Eusphyra",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sphyrnidae/eusphyra.json"
+    },
+    {
+      "Genus": "Sphyrna",
+      "SpeciesCount": 9,
+      "genus_path": "genera/sphyrnidae/sphyrna.json"
+    }
+  ]
+}

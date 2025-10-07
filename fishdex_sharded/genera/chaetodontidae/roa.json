@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Roa australis",
+    "SpecCode": "65038",
+    "CommonName": "Triple-banded butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Roa excelsa",
+    "SpecCode": "12531",
+    "CommonName": "Hawaiian brown-banded butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Roa haraguchiae",
+    "SpecCode": "69653",
+    "CommonName": "Panda-genrokudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Roa jayakari",
+    "SpecCode": "12530",
+    "CommonName": "Dateera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Roa modesta",
+    "SpecCode": "11668",
+    "CommonName": "Alibang-bang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Roa rumsfeldi",
+    "SpecCode": "68418",
+    "CommonName": "Deep-blackfin butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Roa semilunaris",
+    "SpecCode": "69654",
+    "CommonName": "Half-moon barred butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Roa uejoi",
+    "SpecCode": "69655",
+    "CommonName": "Guam barred butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bathytyphlops marionae",
+    "SpecCode": "9150",
+    "CommonName": "Marion's spiderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytyphlops sewelli",
+    "SpecCode": "9151",
+    "CommonName": "西氏深海青眼魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

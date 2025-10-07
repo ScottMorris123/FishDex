@@ -1,0 +1,69 @@
+[
+  {
+    "ScientificName": "Ammodytes americanus",
+    "SpecCode": "3820",
+    "CommonName": "Ameerika tobias",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytes dubius",
+    "SpecCode": "3821",
+    "CommonName": "Djuptobis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytes heian",
+    "SpecCode": "70396",
+    "CommonName": "Oh-ikanago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytes hexapterus",
+    "SpecCode": "3822",
+    "CommonName": "Dobijak pacificzny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytes marinus",
+    "SpecCode": "37",
+    "CommonName": "Aguacioso",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytes personatus",
+    "SpecCode": "487",
+    "CommonName": "Galeota-do-Pacífico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytes tobianus",
+    "SpecCode": "38",
+    "CommonName": "Aguacioso",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

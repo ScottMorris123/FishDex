@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Datnioides campbelli",
+    "SpecCode": "27022",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Datnioides microlepis",
+    "SpecCode": "14506",
+    "CommonName": "Cá huòng",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Datnioides polota",
+    "SpecCode": "14698",
+    "CommonName": "Barred tigerfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Datnioides pulcher",
+    "SpecCode": "50395",
+    "CommonName": "Siamese tiger perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Datnioides undecimradiatus",
+    "SpecCode": "16200",
+    "CommonName": "Mekong tiger perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

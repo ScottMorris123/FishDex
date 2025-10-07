@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Loweina interrupta",
+    "SpecCode": "16765",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Loweina rara",
+    "SpecCode": "7427",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Loweina terminata",
+    "SpecCode": "59763",
+    "CommonName": "Kirara-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

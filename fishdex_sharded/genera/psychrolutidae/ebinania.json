@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Ebinania australiae",
+    "SpecCode": "64589",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ebinania brephocephala",
+    "SpecCode": "23983",
+    "CommonName": "Bôzukajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ebinania costaecanariae",
+    "SpecCode": "10182",
+    "CommonName": "大头红杜父鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ebinania gyrinoides",
+    "SpecCode": "58785",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ebinania macquariensis",
+    "SpecCode": "60331",
+    "CommonName": "Cotte subantarctique",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ebinania malacocephala",
+    "SpecCode": "60332",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ebinania vermiculata",
+    "SpecCode": "23984",
+    "CommonName": "Akadonko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

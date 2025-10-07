@@ -1,0 +1,17 @@
+{
+  "Family": "Scomberesocidae",
+  "Order": "Beloniformes",
+  "Common": "Sauries",
+  "Genera": [
+    {
+      "Genus": "Cololabis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scomberesocidae/cololabis.json"
+    },
+    {
+      "Genus": "Scomberesox",
+      "SpeciesCount": 3,
+      "genus_path": "genera/scomberesocidae/scomberesox.json"
+    }
+  ]
+}

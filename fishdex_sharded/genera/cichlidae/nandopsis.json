@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Nandopsis haitiensis",
+    "SpecCode": "12318",
+    "CommonName": "Haitian cichlid",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nandopsis ramsdeni",
+    "SpecCode": "26780",
+    "CommonName": "Jotura",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nandopsis tetracanthus",
+    "SpecCode": "27741",
+    "CommonName": "Biajaca",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

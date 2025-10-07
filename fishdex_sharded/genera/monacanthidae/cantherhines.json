@@ -1,0 +1,111 @@
+[
+  {
+    "ScientificName": "Cantherhines cerinus",
+    "SpecCode": "66328",
+    "CommonName": "Waxy filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines dumerilii",
+    "SpecCode": "5836",
+    "CommonName": "Arbaletrier gris",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines fronticinctus",
+    "SpecCode": "7842",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines longicaudus",
+    "SpecCode": "54607",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines macrocerus",
+    "SpecCode": "4277",
+    "CommonName": "American whitespotted filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines nukuhiva",
+    "SpecCode": "66329",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines pardalis",
+    "SpecCode": "6635",
+    "CommonName": "Aimeo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines pullus",
+    "SpecCode": "1082",
+    "CommonName": "Bourse pintade",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines rapanui",
+    "SpecCode": "54610",
+    "CommonName": "Kōreva",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines sandwichiensis",
+    "SpecCode": "7835",
+    "CommonName": "Balioagoro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines tiki",
+    "SpecCode": "55003",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cantherhines verecundus",
+    "SpecCode": "12601",
+    "CommonName": "'O'ili",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

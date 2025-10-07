@@ -1,0 +1,1222 @@
+{
+  "Family": "Cichlidae",
+  "Order": "Cichliformes",
+  "Common": "Cichlids",
+  "Genera": [
+    {
+      "Genus": "Abactochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/abactochromis.json"
+    },
+    {
+      "Genus": "Acarichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/acarichthys.json"
+    },
+    {
+      "Genus": "Acaronia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/acaronia.json"
+    },
+    {
+      "Genus": "Aequidens",
+      "SpeciesCount": 17,
+      "genus_path": "genera/cichlidae/aequidens.json"
+    },
+    {
+      "Genus": "Alticorpus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/alticorpus.json"
+    },
+    {
+      "Genus": "Altolamprologus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/altolamprologus.json"
+    },
+    {
+      "Genus": "Amatitlania",
+      "SpeciesCount": 9,
+      "genus_path": "genera/cichlidae/amatitlania.json"
+    },
+    {
+      "Genus": "Amphilophus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/cichlidae/amphilophus.json"
+    },
+    {
+      "Genus": "Andinoacara",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/andinoacara.json"
+    },
+    {
+      "Genus": "Anomalochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/anomalochromis.json"
+    },
+    {
+      "Genus": "Apistogramma",
+      "SpeciesCount": 94,
+      "genus_path": "genera/cichlidae/apistogramma.json"
+    },
+    {
+      "Genus": "Apistogrammoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/apistogrammoides.json"
+    },
+    {
+      "Genus": "Archocentrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/archocentrus.json"
+    },
+    {
+      "Genus": "Aristochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/aristochromis.json"
+    },
+    {
+      "Genus": "Astatheros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/astatheros.json"
+    },
+    {
+      "Genus": "Astatoreochromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/astatoreochromis.json"
+    },
+    {
+      "Genus": "Astatotilapia",
+      "SpeciesCount": 9,
+      "genus_path": "genera/cichlidae/astatotilapia.json"
+    },
+    {
+      "Genus": "Astronotus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/astronotus.json"
+    },
+    {
+      "Genus": "Aulonocara",
+      "SpeciesCount": 22,
+      "genus_path": "genera/cichlidae/aulonocara.json"
+    },
+    {
+      "Genus": "Aulonocranus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/aulonocranus.json"
+    },
+    {
+      "Genus": "Australoheros",
+      "SpeciesCount": 29,
+      "genus_path": "genera/cichlidae/australoheros.json"
+    },
+    {
+      "Genus": "Baileychromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/baileychromis.json"
+    },
+    {
+      "Genus": "Bathybates",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cichlidae/bathybates.json"
+    },
+    {
+      "Genus": "Benitochromis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/benitochromis.json"
+    },
+    {
+      "Genus": "Benthochromis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/benthochromis.json"
+    },
+    {
+      "Genus": "Biotodoma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/biotodoma.json"
+    },
+    {
+      "Genus": "Biotoecus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/biotoecus.json"
+    },
+    {
+      "Genus": "Boulengerochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/boulengerochromis.json"
+    },
+    {
+      "Genus": "Buccochromis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cichlidae/buccochromis.json"
+    },
+    {
+      "Genus": "Bujurquina",
+      "SpeciesCount": 21,
+      "genus_path": "genera/cichlidae/bujurquina.json"
+    },
+    {
+      "Genus": "Callochromis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/callochromis.json"
+    },
+    {
+      "Genus": "Caprichromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/caprichromis.json"
+    },
+    {
+      "Genus": "Caquetaia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/caquetaia.json"
+    },
+    {
+      "Genus": "Cardiopharynx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/cardiopharynx.json"
+    },
+    {
+      "Genus": "Chaetobranchopsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/chaetobranchopsis.json"
+    },
+    {
+      "Genus": "Chaetobranchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/chaetobranchus.json"
+    },
+    {
+      "Genus": "Chalinochromis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/chalinochromis.json"
+    },
+    {
+      "Genus": "Champsochromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/champsochromis.json"
+    },
+    {
+      "Genus": "Cheilochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/cheilochromis.json"
+    },
+    {
+      "Genus": "Chetia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/chetia.json"
+    },
+    {
+      "Genus": "Chiapaheros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/chiapaheros.json"
+    },
+    {
+      "Genus": "Chilochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/chilochromis.json"
+    },
+    {
+      "Genus": "Chilotilapia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/chilotilapia.json"
+    },
+    {
+      "Genus": "Chindongo",
+      "SpeciesCount": 11,
+      "genus_path": "genera/cichlidae/chindongo.json"
+    },
+    {
+      "Genus": "Chocoheros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/chocoheros.json"
+    },
+    {
+      "Genus": "Chortiheros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/chortiheros.json"
+    },
+    {
+      "Genus": "Chromidotilapia",
+      "SpeciesCount": 11,
+      "genus_path": "genera/cichlidae/chromidotilapia.json"
+    },
+    {
+      "Genus": "Chuco",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/chuco.json"
+    },
+    {
+      "Genus": "Cichla",
+      "SpeciesCount": 15,
+      "genus_path": "genera/cichlidae/cichla.json"
+    },
+    {
+      "Genus": "Cichlasoma",
+      "SpeciesCount": 14,
+      "genus_path": "genera/cichlidae/cichlasoma.json"
+    },
+    {
+      "Genus": "Cincelichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/cincelichthys.json"
+    },
+    {
+      "Genus": "Cleithracara",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/cleithracara.json"
+    },
+    {
+      "Genus": "Coelotilapia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/coelotilapia.json"
+    },
+    {
+      "Genus": "Congochromis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/congochromis.json"
+    },
+    {
+      "Genus": "Congolapia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/congolapia.json"
+    },
+    {
+      "Genus": "Copadichromis",
+      "SpeciesCount": 25,
+      "genus_path": "genera/cichlidae/copadichromis.json"
+    },
+    {
+      "Genus": "Coptodon",
+      "SpeciesCount": 31,
+      "genus_path": "genera/cichlidae/coptodon.json"
+    },
+    {
+      "Genus": "Corematodus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/corematodus.json"
+    },
+    {
+      "Genus": "Crenicara",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/crenicara.json"
+    },
+    {
+      "Genus": "Crenicichla",
+      "SpeciesCount": 94,
+      "genus_path": "genera/cichlidae/crenicichla.json"
+    },
+    {
+      "Genus": "Cribroheros",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/cribroheros.json"
+    },
+    {
+      "Genus": "Cryptoheros",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/cryptoheros.json"
+    },
+    {
+      "Genus": "Ctenochromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/ctenochromis.json"
+    },
+    {
+      "Genus": "Ctenopharynx",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/ctenopharynx.json"
+    },
+    {
+      "Genus": "Cunningtonia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/cunningtonia.json"
+    },
+    {
+      "Genus": "Cyathochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/cyathochromis.json"
+    },
+    {
+      "Genus": "Cyathopharynx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/cyathopharynx.json"
+    },
+    {
+      "Genus": "Cyclopharynx",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/cyclopharynx.json"
+    },
+    {
+      "Genus": "Cynotilapia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/cynotilapia.json"
+    },
+    {
+      "Genus": "Cyphotilapia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/cyphotilapia.json"
+    },
+    {
+      "Genus": "Cyprichromis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/cyprichromis.json"
+    },
+    {
+      "Genus": "Cyrtocara",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/cyrtocara.json"
+    },
+    {
+      "Genus": "Danakilia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/danakilia.json"
+    },
+    {
+      "Genus": "Darienheros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/darienheros.json"
+    },
+    {
+      "Genus": "Dicrossus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/dicrossus.json"
+    },
+    {
+      "Genus": "Dimidiochromis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/dimidiochromis.json"
+    },
+    {
+      "Genus": "Diplotaxodon",
+      "SpeciesCount": 10,
+      "genus_path": "genera/cichlidae/diplotaxodon.json"
+    },
+    {
+      "Genus": "Divandu",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/divandu.json"
+    },
+    {
+      "Genus": "Docimodus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/docimodus.json"
+    },
+    {
+      "Genus": "Eclectochromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/eclectochromis.json"
+    },
+    {
+      "Genus": "Ectodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/ectodus.json"
+    },
+    {
+      "Genus": "Enigmatochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/enigmatochromis.json"
+    },
+    {
+      "Genus": "Eretmodus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/eretmodus.json"
+    },
+    {
+      "Genus": "Etia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/etia.json"
+    },
+    {
+      "Genus": "Etroplus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/etroplus.json"
+    },
+    {
+      "Genus": "Exochochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/exochochromis.json"
+    },
+    {
+      "Genus": "Fossorochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/fossorochromis.json"
+    },
+    {
+      "Genus": "Genyochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/genyochromis.json"
+    },
+    {
+      "Genus": "Geophagus",
+      "SpeciesCount": 31,
+      "genus_path": "genera/cichlidae/geophagus.json"
+    },
+    {
+      "Genus": "Gephyrochromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/gephyrochromis.json"
+    },
+    {
+      "Genus": "Gnathochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/gnathochromis.json"
+    },
+    {
+      "Genus": "Gobiocichla",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/gobiocichla.json"
+    },
+    {
+      "Genus": "Grammatotria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/grammatotria.json"
+    },
+    {
+      "Genus": "Greenwoodochromis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/greenwoodochromis.json"
+    },
+    {
+      "Genus": "Guianacara",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cichlidae/guianacara.json"
+    },
+    {
+      "Genus": "Gymnogeophagus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/cichlidae/gymnogeophagus.json"
+    },
+    {
+      "Genus": "Haplochromis",
+      "SpeciesCount": 250,
+      "genus_path": "genera/cichlidae/haplochromis.json"
+    },
+    {
+      "Genus": "Haplotaxodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/haplotaxodon.json"
+    },
+    {
+      "Genus": "Hemibates",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/hemibates.json"
+    },
+    {
+      "Genus": "Hemichromis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/hemichromis.json"
+    },
+    {
+      "Genus": "Hemitaeniochromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/hemitaeniochromis.json"
+    },
+    {
+      "Genus": "Hemitilapia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/hemitilapia.json"
+    },
+    {
+      "Genus": "Herichthys",
+      "SpeciesCount": 14,
+      "genus_path": "genera/cichlidae/herichthys.json"
+    },
+    {
+      "Genus": "Heroina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/heroina.json"
+    },
+    {
+      "Genus": "Heros",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/heros.json"
+    },
+    {
+      "Genus": "Herotilapia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/herotilapia.json"
+    },
+    {
+      "Genus": "Heterochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/heterochromis.json"
+    },
+    {
+      "Genus": "Heterotilapia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/heterotilapia.json"
+    },
+    {
+      "Genus": "Hoplarchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/hoplarchus.json"
+    },
+    {
+      "Genus": "Hypselecara",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/hypselecara.json"
+    },
+    {
+      "Genus": "Hypsophrys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/hypsophrys.json"
+    },
+    {
+      "Genus": "Interochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/interochromis.json"
+    },
+    {
+      "Genus": "Iodotropheus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/iodotropheus.json"
+    },
+    {
+      "Genus": "Iranocichla",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/iranocichla.json"
+    },
+    {
+      "Genus": "Isthmoheros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/isthmoheros.json"
+    },
+    {
+      "Genus": "Jabarichromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/jabarichromis.json"
+    },
+    {
+      "Genus": "Julidochromis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/julidochromis.json"
+    },
+    {
+      "Genus": "Katria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/katria.json"
+    },
+    {
+      "Genus": "Kihnichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/kihnichthys.json"
+    },
+    {
+      "Genus": "Konia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/konia.json"
+    },
+    {
+      "Genus": "Krobia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/krobia.json"
+    },
+    {
+      "Genus": "Kronoheros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/kronoheros.json"
+    },
+    {
+      "Genus": "Labeotropheus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/cichlidae/labeotropheus.json"
+    },
+    {
+      "Genus": "Labidochromis",
+      "SpeciesCount": 19,
+      "genus_path": "genera/cichlidae/labidochromis.json"
+    },
+    {
+      "Genus": "Laetacara",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cichlidae/laetacara.json"
+    },
+    {
+      "Genus": "Lamprologus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/cichlidae/lamprologus.json"
+    },
+    {
+      "Genus": "Lepidiolamprologus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/cichlidae/lepidiolamprologus.json"
+    },
+    {
+      "Genus": "Lestradea",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/lestradea.json"
+    },
+    {
+      "Genus": "Lethrinops",
+      "SpeciesCount": 25,
+      "genus_path": "genera/cichlidae/lethrinops.json"
+    },
+    {
+      "Genus": "Lichnochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/lichnochromis.json"
+    },
+    {
+      "Genus": "Limbochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/limbochromis.json"
+    },
+    {
+      "Genus": "Limnochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/limnochromis.json"
+    },
+    {
+      "Genus": "Limnotilapia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/limnotilapia.json"
+    },
+    {
+      "Genus": "Lobochilotes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/lobochilotes.json"
+    },
+    {
+      "Genus": "Lufubuchromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/lufubuchromis.json"
+    },
+    {
+      "Genus": "Maskaheros",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/maskaheros.json"
+    },
+    {
+      "Genus": "Mayaheros",
+      "SpeciesCount": 13,
+      "genus_path": "genera/cichlidae/mayaheros.json"
+    },
+    {
+      "Genus": "Maylandia",
+      "SpeciesCount": 33,
+      "genus_path": "genera/cichlidae/maylandia.json"
+    },
+    {
+      "Genus": "Mazarunia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/mazarunia.json"
+    },
+    {
+      "Genus": "Mchenga",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/mchenga.json"
+    },
+    {
+      "Genus": "Melanochromis",
+      "SpeciesCount": 15,
+      "genus_path": "genera/cichlidae/melanochromis.json"
+    },
+    {
+      "Genus": "Mesoheros",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/mesoheros.json"
+    },
+    {
+      "Genus": "Mesonauta",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/mesonauta.json"
+    },
+    {
+      "Genus": "Mikrogeophagus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/mikrogeophagus.json"
+    },
+    {
+      "Genus": "Myaka",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/myaka.json"
+    },
+    {
+      "Genus": "Mylochromis",
+      "SpeciesCount": 21,
+      "genus_path": "genera/cichlidae/mylochromis.json"
+    },
+    {
+      "Genus": "Naevochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/naevochromis.json"
+    },
+    {
+      "Genus": "Nandopsis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/nandopsis.json"
+    },
+    {
+      "Genus": "Nannacara",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/nannacara.json"
+    },
+    {
+      "Genus": "Nanochromis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/nanochromis.json"
+    },
+    {
+      "Genus": "Neolamprologus",
+      "SpeciesCount": 47,
+      "genus_path": "genera/cichlidae/neolamprologus.json"
+    },
+    {
+      "Genus": "Nimbochromis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/nimbochromis.json"
+    },
+    {
+      "Genus": "Nyassachromis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/nyassachromis.json"
+    },
+    {
+      "Genus": "Ophthalmotilapia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/ophthalmotilapia.json"
+    },
+    {
+      "Genus": "Oreochromis",
+      "SpeciesCount": 37,
+      "genus_path": "genera/cichlidae/oreochromis.json"
+    },
+    {
+      "Genus": "Orthochromis",
+      "SpeciesCount": 19,
+      "genus_path": "genera/cichlidae/orthochromis.json"
+    },
+    {
+      "Genus": "Oscura",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/oscura.json"
+    },
+    {
+      "Genus": "Otopharynx",
+      "SpeciesCount": 20,
+      "genus_path": "genera/cichlidae/otopharynx.json"
+    },
+    {
+      "Genus": "Oxylapia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/oxylapia.json"
+    },
+    {
+      "Genus": "Palaeoplex",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/palaeoplex.json"
+    },
+    {
+      "Genus": "Pallidochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/pallidochromis.json"
+    },
+    {
+      "Genus": "Panamius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/panamius.json"
+    },
+    {
+      "Genus": "Parachromis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/parachromis.json"
+    },
+    {
+      "Genus": "Paracyprichromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/paracyprichromis.json"
+    },
+    {
+      "Genus": "Paragobiocichla",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/paragobiocichla.json"
+    },
+    {
+      "Genus": "Parananochromis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/parananochromis.json"
+    },
+    {
+      "Genus": "Paraneetroplus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/paraneetroplus.json"
+    },
+    {
+      "Genus": "Paratilapia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/paratilapia.json"
+    },
+    {
+      "Genus": "Paretroplus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/cichlidae/paretroplus.json"
+    },
+    {
+      "Genus": "Pelmatochromis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/pelmatochromis.json"
+    },
+    {
+      "Genus": "Pelmatolapia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/pelmatolapia.json"
+    },
+    {
+      "Genus": "Pelvicachromis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/pelvicachromis.json"
+    },
+    {
+      "Genus": "Perissodus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/perissodus.json"
+    },
+    {
+      "Genus": "Petenia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/petenia.json"
+    },
+    {
+      "Genus": "Petrochromis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/petrochromis.json"
+    },
+    {
+      "Genus": "Petrotilapia",
+      "SpeciesCount": 10,
+      "genus_path": "genera/cichlidae/petrotilapia.json"
+    },
+    {
+      "Genus": "Pharyngochromis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/pharyngochromis.json"
+    },
+    {
+      "Genus": "Placidochromis",
+      "SpeciesCount": 43,
+      "genus_path": "genera/cichlidae/placidochromis.json"
+    },
+    {
+      "Genus": "Plecodus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/plecodus.json"
+    },
+    {
+      "Genus": "Protomelas",
+      "SpeciesCount": 16,
+      "genus_path": "genera/cichlidae/protomelas.json"
+    },
+    {
+      "Genus": "Pseudetroplus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/pseudetroplus.json"
+    },
+    {
+      "Genus": "Pseudocrenilabrus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/pseudocrenilabrus.json"
+    },
+    {
+      "Genus": "Pseudosimochromis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/pseudosimochromis.json"
+    },
+    {
+      "Genus": "Pseudotropheus",
+      "SpeciesCount": 16,
+      "genus_path": "genera/cichlidae/pseudotropheus.json"
+    },
+    {
+      "Genus": "Pterochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/pterochromis.json"
+    },
+    {
+      "Genus": "Pterophyllum",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/pterophyllum.json"
+    },
+    {
+      "Genus": "Ptychochromis",
+      "SpeciesCount": 10,
+      "genus_path": "genera/cichlidae/ptychochromis.json"
+    },
+    {
+      "Genus": "Ptychochromoides",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/ptychochromoides.json"
+    },
+    {
+      "Genus": "Pungu",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/pungu.json"
+    },
+    {
+      "Genus": "Reganochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/reganochromis.json"
+    },
+    {
+      "Genus": "Retroculus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/retroculus.json"
+    },
+    {
+      "Genus": "Rhamphochromis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/rhamphochromis.json"
+    },
+    {
+      "Genus": "Rheoheros",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/rheoheros.json"
+    },
+    {
+      "Genus": "Rocio",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/rocio.json"
+    },
+    {
+      "Genus": "Rondonacara",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/rondonacara.json"
+    },
+    {
+      "Genus": "Rubricatochromis",
+      "SpeciesCount": 9,
+      "genus_path": "genera/cichlidae/rubricatochromis.json"
+    },
+    {
+      "Genus": "Sargochromis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/sargochromis.json"
+    },
+    {
+      "Genus": "Sarotherodon",
+      "SpeciesCount": 13,
+      "genus_path": "genera/cichlidae/sarotherodon.json"
+    },
+    {
+      "Genus": "Satanoperca",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/satanoperca.json"
+    },
+    {
+      "Genus": "Schwetzochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/schwetzochromis.json"
+    },
+    {
+      "Genus": "Sciaenochromis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/sciaenochromis.json"
+    },
+    {
+      "Genus": "Serranochromis",
+      "SpeciesCount": 15,
+      "genus_path": "genera/cichlidae/serranochromis.json"
+    },
+    {
+      "Genus": "Shuja",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/shuja.json"
+    },
+    {
+      "Genus": "Simochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/simochromis.json"
+    },
+    {
+      "Genus": "Spathodus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/spathodus.json"
+    },
+    {
+      "Genus": "Steatocranus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/steatocranus.json"
+    },
+    {
+      "Genus": "Stigmatochromis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/stigmatochromis.json"
+    },
+    {
+      "Genus": "Stomatepia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/stomatepia.json"
+    },
+    {
+      "Genus": "Symphysodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/symphysodon.json"
+    },
+    {
+      "Genus": "Taeniacara",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/taeniacara.json"
+    },
+    {
+      "Genus": "Taeniochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/taeniochromis.json"
+    },
+    {
+      "Genus": "Taeniolethrinops",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/taeniolethrinops.json"
+    },
+    {
+      "Genus": "Tahuantinsuyoa",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/tahuantinsuyoa.json"
+    },
+    {
+      "Genus": "Talamancaheros",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/talamancaheros.json"
+    },
+    {
+      "Genus": "Tangachromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/tangachromis.json"
+    },
+    {
+      "Genus": "Tanganicodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/tanganicodus.json"
+    },
+    {
+      "Genus": "Teleocichla",
+      "SpeciesCount": 9,
+      "genus_path": "genera/cichlidae/teleocichla.json"
+    },
+    {
+      "Genus": "Teleogramma",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/teleogramma.json"
+    },
+    {
+      "Genus": "Telmatochromis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/telmatochromis.json"
+    },
+    {
+      "Genus": "Theraps",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/theraps.json"
+    },
+    {
+      "Genus": "Thoracochromis",
+      "SpeciesCount": 12,
+      "genus_path": "genera/cichlidae/thoracochromis.json"
+    },
+    {
+      "Genus": "Thorichthys",
+      "SpeciesCount": 9,
+      "genus_path": "genera/cichlidae/thorichthys.json"
+    },
+    {
+      "Genus": "Thysochromis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/thysochromis.json"
+    },
+    {
+      "Genus": "Tilapia",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cichlidae/tilapia.json"
+    },
+    {
+      "Genus": "Tomocichla",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/tomocichla.json"
+    },
+    {
+      "Genus": "Tramitichromis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cichlidae/tramitichromis.json"
+    },
+    {
+      "Genus": "Trematocara",
+      "SpeciesCount": 9,
+      "genus_path": "genera/cichlidae/trematocara.json"
+    },
+    {
+      "Genus": "Trematochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/trematochromis.json"
+    },
+    {
+      "Genus": "Trematocranus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/trematocranus.json"
+    },
+    {
+      "Genus": "Trichromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/trichromis.json"
+    },
+    {
+      "Genus": "Triglachromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/triglachromis.json"
+    },
+    {
+      "Genus": "Tristramella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/tristramella.json"
+    },
+    {
+      "Genus": "Tropheops",
+      "SpeciesCount": 11,
+      "genus_path": "genera/cichlidae/tropheops.json"
+    },
+    {
+      "Genus": "Tropheus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cichlidae/tropheus.json"
+    },
+    {
+      "Genus": "Tylochromis",
+      "SpeciesCount": 18,
+      "genus_path": "genera/cichlidae/tylochromis.json"
+    },
+    {
+      "Genus": "Tyrannochromis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cichlidae/tyrannochromis.json"
+    },
+    {
+      "Genus": "Uaru",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cichlidae/uaru.json"
+    },
+    {
+      "Genus": "Variabilichromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/variabilichromis.json"
+    },
+    {
+      "Genus": "Vieja",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cichlidae/vieja.json"
+    },
+    {
+      "Genus": "Wajpamheros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/wajpamheros.json"
+    },
+    {
+      "Genus": "Wallaceochromis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cichlidae/wallaceochromis.json"
+    },
+    {
+      "Genus": "Xenochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cichlidae/xenochromis.json"
+    },
+    {
+      "Genus": "Xenotilapia",
+      "SpeciesCount": 18,
+      "genus_path": "genera/cichlidae/xenotilapia.json"
+    }
+  ]
+}

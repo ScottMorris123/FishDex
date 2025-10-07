@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Caecula kuro",
+    "SpecCode": "61392",
+    "CommonName": "Jaapani peitsilmangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caecula pterygera",
+    "SpecCode": "14359",
+    "CommonName": "Finny snake eel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

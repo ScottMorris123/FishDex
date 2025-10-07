@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Scalicus amiscus",
+    "SpecCode": "24028",
+    "CommonName": "Higekihôbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scalicus engyceros",
+    "SpecCode": "24040",
+    "CommonName": "Sokokihôbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scalicus gilberti",
+    "SpecCode": "67037",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scalicus hians",
+    "SpecCode": "24029",
+    "CommonName": "Nanyôkihôbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scalicus investigatoris",
+    "SpecCode": "10739",
+    "CommonName": "暗沙紅魴鮄",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scalicus orientalis",
+    "SpecCode": "12570",
+    "CommonName": "东方红鲂鮄",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scalicus quadratorostratus",
+    "SpecCode": "50787",
+    "CommonName": "方吻紅魴鮄",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scalicus serrulatus",
+    "SpecCode": "24031",
+    "CommonName": "Togekihôbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "Family": "Procatopodidae",
+  "Order": "Cyprinodontiformes",
+  "Common": "African lampeyes",
+  "Genera": [
+    {
+      "Genus": "Aapticheilichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/procatopodidae/aapticheilichthys.json"
+    },
+    {
+      "Genus": "Aplocheilichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/procatopodidae/aplocheilichthys.json"
+    },
+    {
+      "Genus": "Congopanchax",
+      "SpeciesCount": 2,
+      "genus_path": "genera/procatopodidae/congopanchax.json"
+    },
+    {
+      "Genus": "Hylopanchax",
+      "SpeciesCount": 8,
+      "genus_path": "genera/procatopodidae/hylopanchax.json"
+    },
+    {
+      "Genus": "Hypsopanchax",
+      "SpeciesCount": 6,
+      "genus_path": "genera/procatopodidae/hypsopanchax.json"
+    },
+    {
+      "Genus": "Laciris",
+      "SpeciesCount": 1,
+      "genus_path": "genera/procatopodidae/laciris.json"
+    },
+    {
+      "Genus": "Lacustricola",
+      "SpeciesCount": 25,
+      "genus_path": "genera/procatopodidae/lacustricola.json"
+    },
+    {
+      "Genus": "Lamprichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/procatopodidae/lamprichthys.json"
+    },
+    {
+      "Genus": "Micropanchax",
+      "SpeciesCount": 11,
+      "genus_path": "genera/procatopodidae/micropanchax.json"
+    },
+    {
+      "Genus": "Plataplochilus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/procatopodidae/plataplochilus.json"
+    },
+    {
+      "Genus": "Platypanchax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/procatopodidae/platypanchax.json"
+    },
+    {
+      "Genus": "Poropanchax",
+      "SpeciesCount": 6,
+      "genus_path": "genera/procatopodidae/poropanchax.json"
+    },
+    {
+      "Genus": "Procatopus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/procatopodidae/procatopus.json"
+    },
+    {
+      "Genus": "Rhexipanchax",
+      "SpeciesCount": 4,
+      "genus_path": "genera/procatopodidae/rhexipanchax.json"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Pararius mastersi",
+    "SpecCode": "24599",
+    "CommonName": "Catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pararius proximus",
+    "SpecCode": "24600",
+    "CommonName": "Arafura catfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

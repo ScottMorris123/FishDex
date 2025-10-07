@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Butis amboinensis",
+    "SpecCode": "11792",
+    "CommonName": "Ambon gudgeon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Butis butis",
+    "SpecCode": "8035",
+    "CommonName": "Belosoh",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Butis gymnopomus",
+    "SpecCode": "8410",
+    "CommonName": "Gestreifte Spitzkopfgrundel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Butis humeralis",
+    "SpecCode": "25053",
+    "CommonName": "Bukletson",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Butis koilomatodon",
+    "SpecCode": "8036",
+    "CommonName": "Bufanlueai",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Butis melanostigma",
+    "SpecCode": "23085",
+    "CommonName": "Blackspot sleeper",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

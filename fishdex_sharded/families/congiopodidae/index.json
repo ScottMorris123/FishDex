@@ -1,0 +1,12 @@
+{
+  "Family": "Congiopodidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Racehorses or pigfishes",
+  "Genera": [
+    {
+      "Genus": "Congiopodus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/congiopodidae/congiopodus.json"
+    }
+  ]
+}

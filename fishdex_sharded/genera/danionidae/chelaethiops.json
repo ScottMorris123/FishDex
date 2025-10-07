@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Chelaethiops bibie",
+    "SpecCode": "5270",
+    "CommonName": "Bibie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelaethiops congicus",
+    "SpecCode": "11511",
+    "CommonName": "Kongo helkselg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelaethiops elongatus",
+    "SpecCode": "11513",
+    "CommonName": "Lirangabärbling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelaethiops minutus",
+    "SpecCode": "11514",
+    "CommonName": "Neobola tanganická",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelaethiops rukwaensis",
+    "SpecCode": "11515",
+    "CommonName": "Dagaa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

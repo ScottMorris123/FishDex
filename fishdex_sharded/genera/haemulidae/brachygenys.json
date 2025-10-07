@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Brachygenys californiensis",
+    "SpecCode": "3570",
+    "CommonName": "Californian salema",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachygenys chrysargyreum",
+    "SpecCode": "1134",
+    "CommonName": "Arara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachygenys jessiae",
+    "SpecCode": "25502",
+    "CommonName": "Black-striped salema",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachygenys peruanus",
+    "SpecCode": "60758",
+    "CommonName": "秘魯異石鱸",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

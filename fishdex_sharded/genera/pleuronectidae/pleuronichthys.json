@@ -1,0 +1,76 @@
+[
+  {
+    "ScientificName": "Pleuronichthys coenosus",
+    "SpecCode": "4251",
+    "CommonName": "C-O sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleuronichthys cornutus",
+    "SpecCode": "8551",
+    "CommonName": "Carlottin meita-gare",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleuronichthys decurrens",
+    "SpecCode": "4252",
+    "CommonName": "Curlfin sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleuronichthys guttulatus",
+    "SpecCode": "4241",
+    "CommonName": "Charlottin diamant",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleuronichthys lighti",
+    "SpecCode": "69706",
+    "CommonName": "Common frog flounder",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleuronichthys ocellatus",
+    "SpecCode": "13979",
+    "CommonName": "Charlottin ocellé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleuronichthys ritteri",
+    "SpecCode": "4253",
+    "CommonName": "Charlottin marbré",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleuronichthys verticalis",
+    "SpecCode": "4254",
+    "CommonName": "Charlottin têtard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

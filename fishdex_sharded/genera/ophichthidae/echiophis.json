@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Echiophis brunneus",
+    "SpecCode": "13905",
+    "CommonName": "Anguila pecosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echiophis intertinctus",
+    "SpecCode": "2643",
+    "CommonName": "Congro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echiophis punctifer",
+    "SpecCode": "2645",
+    "CommonName": "Cobra-bico-curto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

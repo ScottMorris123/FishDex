@@ -1,0 +1,105 @@
+[
+  {
+    "ScientificName": "Torpedo adenensis",
+    "SpecCode": "61157",
+    "CommonName": "Aden torpedo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo alexandrinsis",
+    "SpecCode": "57378",
+    "CommonName": "Aleksandria elektrirai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo andersoni",
+    "SpecCode": "53902",
+    "CommonName": "Caribbean torpedo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo bauchotae",
+    "SpecCode": "8941",
+    "CommonName": "Bauchoti elektrirai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo fuscomaculata",
+    "SpecCode": "5062",
+    "CommonName": "Blackspotted electric ray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo mackayana",
+    "SpecCode": "8942",
+    "CommonName": "Mackay elektrirai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo marmorata",
+    "SpecCode": "5132",
+    "CommonName": "Banjača",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo panthera",
+    "SpecCode": "27060",
+    "CommonName": "Bogenstirn-Torpedorochen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo sinuspersici",
+    "SpecCode": "7970",
+    "CommonName": "Elektrický rejnok skvrnitý",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo suessii",
+    "SpecCode": "61378",
+    "CommonName": "Red sea torpedo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torpedo torpedo",
+    "SpecCode": "2062",
+    "CommonName": "Almindelig elrokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

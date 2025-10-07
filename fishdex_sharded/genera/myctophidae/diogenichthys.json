@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Diogenichthys atlanticus",
+    "SpecCode": "7409",
+    "CommonName": "Atlandi diogeneskala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diogenichthys laternatus",
+    "SpecCode": "2733",
+    "CommonName": "Diogenes lantern fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diogenichthys panurgus",
+    "SpecCode": "16757",
+    "CommonName": "印明灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

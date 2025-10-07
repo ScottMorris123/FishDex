@@ -1,0 +1,17 @@
+{
+  "Family": "Moronidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Temperate basses",
+  "Genera": [
+    {
+      "Genus": "Dicentrarchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/moronidae/dicentrarchus.json"
+    },
+    {
+      "Genus": "Morone",
+      "SpeciesCount": 4,
+      "genus_path": "genera/moronidae/morone.json"
+    }
+  ]
+}

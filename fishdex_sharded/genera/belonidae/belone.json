@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Belone belone",
+    "SpecCode": "47",
+    "CommonName": "Ache",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Belone euxini",
+    "SpecCode": "67051",
+    "CommonName": "Morska bekasa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Belone svetovidovi",
+    "SpecCode": "9195",
+    "CommonName": "Aguglia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Rogadius asper",
+    "SpecCode": "8305",
+    "CommonName": "Baji ekor belang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rogadius fehlmanni",
+    "SpecCode": "67411",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rogadius mcgroutheri",
+    "SpecCode": "64586",
+    "CommonName": "McGrouther's flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rogadius patriciae",
+    "SpecCode": "12982",
+    "CommonName": "Blackbanded flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rogadius pristiger",
+    "SpecCode": "15225",
+    "CommonName": "Baji badan berduri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rogadius serratus",
+    "SpecCode": "15226",
+    "CommonName": "Serrate flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rogadius welanderi",
+    "SpecCode": "10253",
+    "CommonName": "Tolo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

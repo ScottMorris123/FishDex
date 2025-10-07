@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Luxilus albeolus",
+    "SpecCode": "2813",
+    "CommonName": "Luxilus bělavý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luxilus cardinalis",
+    "SpecCode": "10209",
+    "CommonName": "Cardinal shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luxilus cerasinus",
+    "SpecCode": "2842",
+    "CommonName": "Crescent shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luxilus chrysocephalus",
+    "SpecCode": "2849",
+    "CommonName": "Jeleček zlatohlavý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luxilus coccogenis",
+    "SpecCode": "2850",
+    "CommonName": "Luxilus alabamský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luxilus cornutus",
+    "SpecCode": "2851",
+    "CommonName": "Common shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luxilus pilsbryi",
+    "SpecCode": "2887",
+    "CommonName": "Duskystripe shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luxilus zonatus",
+    "SpecCode": "2918",
+    "CommonName": "Bleeding shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luxilus zonistius",
+    "SpecCode": "2919",
+    "CommonName": "Bandfin shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

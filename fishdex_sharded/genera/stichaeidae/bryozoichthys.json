@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bryozoichthys lysimus",
+    "SpecCode": "3777",
+    "CommonName": "Fusakakeginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryozoichthys marjorius",
+    "SpecCode": "3778",
+    "CommonName": "Pearly prickleback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

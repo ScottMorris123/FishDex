@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Eurymen bassargini",
+    "SpecCode": "58800",
+    "CommonName": "Bassargini manahärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eurymen gyrinus",
+    "SpecCode": "11715",
+    "CommonName": "Glatkindet paddeulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Chaca bankanensis",
+    "SpecCode": "12013",
+    "CommonName": "Angler catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaca burmensis",
+    "SpecCode": "24971",
+    "CommonName": "Burmankitamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaca chaca",
+    "SpecCode": "10258",
+    "CommonName": "Angler catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaca serica",
+    "SpecCode": "66577",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

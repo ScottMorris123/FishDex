@@ -1,0 +1,732 @@
+{
+  "Family": "Characidae",
+  "Order": "Characiformes",
+  "Common": "Characins; tetras",
+  "Genera": [
+    {
+      "Genus": "Acanthocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/acanthocharax.json"
+    },
+    {
+      "Genus": "Acestrocephalus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/characidae/acestrocephalus.json"
+    },
+    {
+      "Genus": "Acinocheirodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/acinocheirodon.json"
+    },
+    {
+      "Genus": "Acrobrycon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/acrobrycon.json"
+    },
+    {
+      "Genus": "Amazonichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/amazonichthys.json"
+    },
+    {
+      "Genus": "Amazonspinther",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/amazonspinther.json"
+    },
+    {
+      "Genus": "Andromakhe",
+      "SpeciesCount": 5,
+      "genus_path": "genera/characidae/andromakhe.json"
+    },
+    {
+      "Genus": "Aphyocharacidium",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/aphyocharacidium.json"
+    },
+    {
+      "Genus": "Aphyocharax",
+      "SpeciesCount": 11,
+      "genus_path": "genera/characidae/aphyocharax.json"
+    },
+    {
+      "Genus": "Aphyocheirodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/aphyocheirodon.json"
+    },
+    {
+      "Genus": "Aphyodite",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/aphyodite.json"
+    },
+    {
+      "Genus": "Argopleura",
+      "SpeciesCount": 4,
+      "genus_path": "genera/characidae/argopleura.json"
+    },
+    {
+      "Genus": "Astyanax",
+      "SpeciesCount": 132,
+      "genus_path": "genera/characidae/astyanax.json"
+    },
+    {
+      "Genus": "Atopomesus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/atopomesus.json"
+    },
+    {
+      "Genus": "Attonitus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/attonitus.json"
+    },
+    {
+      "Genus": "Aulixidens",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/aulixidens.json"
+    },
+    {
+      "Genus": "Axelrodia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/axelrodia.json"
+    },
+    {
+      "Genus": "Bario",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/bario.json"
+    },
+    {
+      "Genus": "Boehlkea",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/boehlkea.json"
+    },
+    {
+      "Genus": "Brachychalcinus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/characidae/brachychalcinus.json"
+    },
+    {
+      "Genus": "Brittanichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/brittanichthys.json"
+    },
+    {
+      "Genus": "Bryconacidnus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/bryconacidnus.json"
+    },
+    {
+      "Genus": "Bryconadenos",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/bryconadenos.json"
+    },
+    {
+      "Genus": "Bryconamericus",
+      "SpeciesCount": 81,
+      "genus_path": "genera/characidae/bryconamericus.json"
+    },
+    {
+      "Genus": "Bryconella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/bryconella.json"
+    },
+    {
+      "Genus": "Bryconexodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/bryconexodon.json"
+    },
+    {
+      "Genus": "Caiapobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/caiapobrycon.json"
+    },
+    {
+      "Genus": "Carlana",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/carlana.json"
+    },
+    {
+      "Genus": "Ceratobranchia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/characidae/ceratobranchia.json"
+    },
+    {
+      "Genus": "Charax",
+      "SpeciesCount": 18,
+      "genus_path": "genera/characidae/charax.json"
+    },
+    {
+      "Genus": "Cheirodon",
+      "SpeciesCount": 10,
+      "genus_path": "genera/characidae/cheirodon.json"
+    },
+    {
+      "Genus": "Cheirodontops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/cheirodontops.json"
+    },
+    {
+      "Genus": "Chrysobrycon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/characidae/chrysobrycon.json"
+    },
+    {
+      "Genus": "Compsura",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/compsura.json"
+    },
+    {
+      "Genus": "Coptobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/coptobrycon.json"
+    },
+    {
+      "Genus": "Corynopoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/corynopoma.json"
+    },
+    {
+      "Genus": "Creagrutus",
+      "SpeciesCount": 72,
+      "genus_path": "genera/characidae/creagrutus.json"
+    },
+    {
+      "Genus": "Ctenobrycon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/characidae/ctenobrycon.json"
+    },
+    {
+      "Genus": "Ctenocheirodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/ctenocheirodon.json"
+    },
+    {
+      "Genus": "Cynopotamus",
+      "SpeciesCount": 12,
+      "genus_path": "genera/characidae/cynopotamus.json"
+    },
+    {
+      "Genus": "Dectobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/dectobrycon.json"
+    },
+    {
+      "Genus": "Deuterodon",
+      "SpeciesCount": 24,
+      "genus_path": "genera/characidae/deuterodon.json"
+    },
+    {
+      "Genus": "Diapoma",
+      "SpeciesCount": 14,
+      "genus_path": "genera/characidae/diapoma.json"
+    },
+    {
+      "Genus": "Ectrepopterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/ectrepopterus.json"
+    },
+    {
+      "Genus": "Eretmobrycon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/eretmobrycon.json"
+    },
+    {
+      "Genus": "Erythrocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/erythrocharax.json"
+    },
+    {
+      "Genus": "Exodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/exodon.json"
+    },
+    {
+      "Genus": "Galeocharax",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/galeocharax.json"
+    },
+    {
+      "Genus": "Genycharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/genycharax.json"
+    },
+    {
+      "Genus": "Gephyrocharax",
+      "SpeciesCount": 13,
+      "genus_path": "genera/characidae/gephyrocharax.json"
+    },
+    {
+      "Genus": "Glandulocauda",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/glandulocauda.json"
+    },
+    {
+      "Genus": "Grundulus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/grundulus.json"
+    },
+    {
+      "Genus": "Gymnocharacinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/gymnocharacinus.json"
+    },
+    {
+      "Genus": "Gymnocorymbus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/characidae/gymnocorymbus.json"
+    },
+    {
+      "Genus": "Gymnotichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/gymnotichthys.json"
+    },
+    {
+      "Genus": "Hasemania",
+      "SpeciesCount": 9,
+      "genus_path": "genera/characidae/hasemania.json"
+    },
+    {
+      "Genus": "Hemibrycon",
+      "SpeciesCount": 38,
+      "genus_path": "genera/characidae/hemibrycon.json"
+    },
+    {
+      "Genus": "Hemigrammus",
+      "SpeciesCount": 57,
+      "genus_path": "genera/characidae/hemigrammus.json"
+    },
+    {
+      "Genus": "Heterocheirodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/heterocheirodon.json"
+    },
+    {
+      "Genus": "Hollandichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/hollandichthys.json"
+    },
+    {
+      "Genus": "Hyphessobrycon",
+      "SpeciesCount": 149,
+      "genus_path": "genera/characidae/hyphessobrycon.json"
+    },
+    {
+      "Genus": "Hypobrycon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/hypobrycon.json"
+    },
+    {
+      "Genus": "Hysteronotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/hysteronotus.json"
+    },
+    {
+      "Genus": "Inpaichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/inpaichthys.json"
+    },
+    {
+      "Genus": "Iotabrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/iotabrycon.json"
+    },
+    {
+      "Genus": "Jupiaba",
+      "SpeciesCount": 29,
+      "genus_path": "genera/characidae/jupiaba.json"
+    },
+    {
+      "Genus": "Knodus",
+      "SpeciesCount": 24,
+      "genus_path": "genera/characidae/knodus.json"
+    },
+    {
+      "Genus": "Kolpotocheirodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/kolpotocheirodon.json"
+    },
+    {
+      "Genus": "Landonia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/landonia.json"
+    },
+    {
+      "Genus": "Lepidocharax",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/lepidocharax.json"
+    },
+    {
+      "Genus": "Leptagoniates",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/leptagoniates.json"
+    },
+    {
+      "Genus": "Leptobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/leptobrycon.json"
+    },
+    {
+      "Genus": "Lophiobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/lophiobrycon.json"
+    },
+    {
+      "Genus": "Macropsobrycon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/macropsobrycon.json"
+    },
+    {
+      "Genus": "Makunaima",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/makunaima.json"
+    },
+    {
+      "Genus": "Markiana",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/markiana.json"
+    },
+    {
+      "Genus": "Microgenys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/microgenys.json"
+    },
+    {
+      "Genus": "Microschemobrycon",
+      "SpeciesCount": 7,
+      "genus_path": "genera/characidae/microschemobrycon.json"
+    },
+    {
+      "Genus": "Mimagoniates",
+      "SpeciesCount": 7,
+      "genus_path": "genera/characidae/mimagoniates.json"
+    },
+    {
+      "Genus": "Mixobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/mixobrycon.json"
+    },
+    {
+      "Genus": "Moenkhausia",
+      "SpeciesCount": 83,
+      "genus_path": "genera/characidae/moenkhausia.json"
+    },
+    {
+      "Genus": "Monotocheirodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/monotocheirodon.json"
+    },
+    {
+      "Genus": "Nanocheirodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/nanocheirodon.json"
+    },
+    {
+      "Genus": "Nematobrycon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/nematobrycon.json"
+    },
+    {
+      "Genus": "Nematocharax",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/nematocharax.json"
+    },
+    {
+      "Genus": "Odontostilbe",
+      "SpeciesCount": 19,
+      "genus_path": "genera/characidae/odontostilbe.json"
+    },
+    {
+      "Genus": "Odontostoechus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/odontostoechus.json"
+    },
+    {
+      "Genus": "Oligobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/oligobrycon.json"
+    },
+    {
+      "Genus": "Oligosarcus",
+      "SpeciesCount": 22,
+      "genus_path": "genera/characidae/oligosarcus.json"
+    },
+    {
+      "Genus": "Orthospinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/orthospinus.json"
+    },
+    {
+      "Genus": "Othonocheirodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/othonocheirodus.json"
+    },
+    {
+      "Genus": "Oxybrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/oxybrycon.json"
+    },
+    {
+      "Genus": "Paracheirodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/paracheirodon.json"
+    },
+    {
+      "Genus": "Paragoniates",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/paragoniates.json"
+    },
+    {
+      "Genus": "Parapristella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/parapristella.json"
+    },
+    {
+      "Genus": "Parastremma",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/parastremma.json"
+    },
+    {
+      "Genus": "Parecbasis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/parecbasis.json"
+    },
+    {
+      "Genus": "Petitella",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/petitella.json"
+    },
+    {
+      "Genus": "Phallobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/phallobrycon.json"
+    },
+    {
+      "Genus": "Phenacobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/phenacobrycon.json"
+    },
+    {
+      "Genus": "Phenacogaster",
+      "SpeciesCount": 21,
+      "genus_path": "genera/characidae/phenacogaster.json"
+    },
+    {
+      "Genus": "Phenagoniates",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/phenagoniates.json"
+    },
+    {
+      "Genus": "Phycocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/phycocharax.json"
+    },
+    {
+      "Genus": "Piabarchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/piabarchus.json"
+    },
+    {
+      "Genus": "Piabina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/piabina.json"
+    },
+    {
+      "Genus": "Planaltina",
+      "SpeciesCount": 4,
+      "genus_path": "genera/characidae/planaltina.json"
+    },
+    {
+      "Genus": "Poptella",
+      "SpeciesCount": 4,
+      "genus_path": "genera/characidae/poptella.json"
+    },
+    {
+      "Genus": "Priocharax",
+      "SpeciesCount": 7,
+      "genus_path": "genera/characidae/priocharax.json"
+    },
+    {
+      "Genus": "Prionobrama",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/prionobrama.json"
+    },
+    {
+      "Genus": "Pristella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/pristella.json"
+    },
+    {
+      "Genus": "Prodontocharax",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/prodontocharax.json"
+    },
+    {
+      "Genus": "Protocheirodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/protocheirodon.json"
+    },
+    {
+      "Genus": "Psalidodon",
+      "SpeciesCount": 32,
+      "genus_path": "genera/characidae/psalidodon.json"
+    },
+    {
+      "Genus": "Psellogrammus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/psellogrammus.json"
+    },
+    {
+      "Genus": "Pseudochalceus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/characidae/pseudochalceus.json"
+    },
+    {
+      "Genus": "Pseudocheirodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/pseudocheirodon.json"
+    },
+    {
+      "Genus": "Pseudocorynopoma",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/pseudocorynopoma.json"
+    },
+    {
+      "Genus": "Pterobrycon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/pterobrycon.json"
+    },
+    {
+      "Genus": "Ptychocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/ptychocharax.json"
+    },
+    {
+      "Genus": "Rachoviscus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/rachoviscus.json"
+    },
+    {
+      "Genus": "Rhinobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/rhinobrycon.json"
+    },
+    {
+      "Genus": "Rhinopetitia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/rhinopetitia.json"
+    },
+    {
+      "Genus": "Rhoadsia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/rhoadsia.json"
+    },
+    {
+      "Genus": "Roeboexodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/roeboexodon.json"
+    },
+    {
+      "Genus": "Roeboides",
+      "SpeciesCount": 22,
+      "genus_path": "genera/characidae/roeboides.json"
+    },
+    {
+      "Genus": "Saccoderma",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/saccoderma.json"
+    },
+    {
+      "Genus": "Schultzites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/schultzites.json"
+    },
+    {
+      "Genus": "Scissor",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/scissor.json"
+    },
+    {
+      "Genus": "Scopaeocharax",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/scopaeocharax.json"
+    },
+    {
+      "Genus": "Serrabrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/serrabrycon.json"
+    },
+    {
+      "Genus": "Serrapinnus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/characidae/serrapinnus.json"
+    },
+    {
+      "Genus": "Spintherobolus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/characidae/spintherobolus.json"
+    },
+    {
+      "Genus": "Stethaprion",
+      "SpeciesCount": 2,
+      "genus_path": "genera/characidae/stethaprion.json"
+    },
+    {
+      "Genus": "Stichonodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/stichonodon.json"
+    },
+    {
+      "Genus": "Stygichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/stygichthys.json"
+    },
+    {
+      "Genus": "Tetragonopterus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/characidae/tetragonopterus.json"
+    },
+    {
+      "Genus": "Thayeria",
+      "SpeciesCount": 3,
+      "genus_path": "genera/characidae/thayeria.json"
+    },
+    {
+      "Genus": "Thrissobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/thrissobrycon.json"
+    },
+    {
+      "Genus": "Trochilocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/trochilocharax.json"
+    },
+    {
+      "Genus": "Tucanoichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/tucanoichthys.json"
+    },
+    {
+      "Genus": "Tyttobrycon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/characidae/tyttobrycon.json"
+    },
+    {
+      "Genus": "Tyttocharax",
+      "SpeciesCount": 4,
+      "genus_path": "genera/characidae/tyttocharax.json"
+    },
+    {
+      "Genus": "Varicharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/varicharax.json"
+    },
+    {
+      "Genus": "Xenagoniates",
+      "SpeciesCount": 1,
+      "genus_path": "genera/characidae/xenagoniates.json"
+    },
+    {
+      "Genus": "Xenurobrycon",
+      "SpeciesCount": 6,
+      "genus_path": "genera/characidae/xenurobrycon.json"
+    }
+  ]
+}

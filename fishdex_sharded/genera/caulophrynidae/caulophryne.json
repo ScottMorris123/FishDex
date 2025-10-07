@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Caulophryne bacescui",
+    "SpecCode": "67089",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulophryne jordani",
+    "SpecCode": "23253",
+    "CommonName": "Fanfin angler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulophryne pelagica",
+    "SpecCode": "58771",
+    "CommonName": "大洋茎角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulophryne polynema",
+    "SpecCode": "16873",
+    "CommonName": "Frenja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

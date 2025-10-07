@@ -1,0 +1,12 @@
+{
+  "Family": "Paraulopidae",
+  "Order": "Aulopiformes",
+  "Common": "Cucumber fishes",
+  "Genera": [
+    {
+      "Genus": "Paraulopus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/paraulopidae/paraulopus.json"
+    }
+  ]
+}

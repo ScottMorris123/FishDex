@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Phallotorynus dispilos",
+    "SpecCode": "62517",
+    "CommonName": "Toprikket tandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallotorynus fasciolatus",
+    "SpecCode": "47169",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallotorynus jucundus",
+    "SpecCode": "47170",
+    "CommonName": "Antler toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallotorynus pankalos",
+    "SpecCode": "62519",
+    "CommonName": "Bellyspotted toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallotorynus psittakos",
+    "SpecCode": "62518",
+    "CommonName": "Clementina toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallotorynus victoriae",
+    "SpecCode": "61807",
+    "CommonName": "Argentinian toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Silurichthys citatus",
+    "SpecCode": "46279",
+    "CommonName": "Borneonveitsimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurichthys gibbiceps",
+    "SpecCode": "55210",
+    "CommonName": "駝頭近鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurichthys hasseltii",
+    "SpecCode": "23113",
+    "CommonName": "Hasselt's leaf catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurichthys indragiriensis",
+    "SpecCode": "55211",
+    "CommonName": "Sumatranveitsimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurichthys ligneolus",
+    "SpecCode": "65979",
+    "CommonName": "Brown leaf catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurichthys marmoratus",
+    "SpecCode": "55212",
+    "CommonName": "Anak lais",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurichthys phaiosoma",
+    "SpecCode": "23115",
+    "CommonName": "Anak lais",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurichthys sanguineus",
+    "SpecCode": "23288",
+    "CommonName": "Puroveitsimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silurichthys schneideri",
+    "SpecCode": "23116",
+    "CommonName": "Vaaleaveitsimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Podothecus accipenserinus",
+    "SpecCode": "4153",
+    "CommonName": "Lisica poczer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Podothecus hamlini",
+    "SpecCode": "62092",
+    "CommonName": "팔각줄고기",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Podothecus sachi",
+    "SpecCode": "24005",
+    "CommonName": "Sachi pardrüühärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Podothecus sturioides",
+    "SpecCode": "50366",
+    "CommonName": "Kôri-tokubire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Podothecus veternus",
+    "SpecCode": "50370",
+    "CommonName": "Malousaya lisichka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

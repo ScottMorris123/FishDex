@@ -1,0 +1,17 @@
+{
+  "Family": "Symphysanodontidae",
+  "Order": "Acropomatiformes",
+  "Common": "Slopefishes",
+  "Genera": [
+    {
+      "Genus": "Cymatognathus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/symphysanodontidae/cymatognathus.json"
+    },
+    {
+      "Genus": "Symphysanodon",
+      "SpeciesCount": 12,
+      "genus_path": "genera/symphysanodontidae/symphysanodon.json"
+    }
+  ]
+}

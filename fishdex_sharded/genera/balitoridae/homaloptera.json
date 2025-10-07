@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Homaloptera bilineata",
+    "SpecCode": "24511",
+    "CommonName": "Balitora dvojpruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homaloptera confuzona",
+    "SpecCode": "57706",
+    "CommonName": "Mřenka plachá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homaloptera ocellata",
+    "SpecCode": "22868",
+    "CommonName": "Balitora očkatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homaloptera ogilviei",
+    "SpecCode": "22875",
+    "CommonName": "Balitora tampinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homaloptera orthogoniata",
+    "SpecCode": "22877",
+    "CommonName": "Balitora sedlovitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homaloptera parclitella",
+    "SpecCode": "62218",
+    "CommonName": "Malai lameuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

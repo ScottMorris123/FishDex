@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Synbranchus lampreia",
+    "SpecCode": "62651",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synbranchus madeirae",
+    "SpecCode": "51374",
+    "CommonName": "Atinga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synbranchus marmoratus",
+    "SpecCode": "5319",
+    "CommonName": "Akomoe",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Salariopsis atlantica",
+    "SpecCode": "66697",
+    "CommonName": "Moroccan blenny",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salariopsis economidisi",
+    "SpecCode": "62596",
+    "CommonName": "Trichonis blenny",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salariopsis fluviatilis",
+    "SpecCode": "4877",
+    "CommonName": "Babica riječna",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

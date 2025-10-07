@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Polyamblyodon germanum",
+    "SpecCode": "7933",
+    "CommonName": "Duitser",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyamblyodon gibbosum",
+    "SpecCode": "7934",
+    "CommonName": "Cristie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

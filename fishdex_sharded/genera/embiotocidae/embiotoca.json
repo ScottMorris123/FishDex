@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Embiotoca jacksoni",
+    "SpecCode": "3628",
+    "CommonName": "Black perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Embiotoca lateralis",
+    "SpecCode": "3629",
+    "CommonName": "Blue seaperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

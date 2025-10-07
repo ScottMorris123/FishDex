@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Acyrtus artius",
+    "SpecCode": "16662",
+    "CommonName": "Chupapiedra papilosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acyrtus lanthanum",
+    "SpecCode": "67983",
+    "CommonName": "Orange-spotted clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acyrtus pauciradiatus",
+    "SpecCode": "62176",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acyrtus rubiginosus",
+    "SpecCode": "16677",
+    "CommonName": "Chupapiedra roja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

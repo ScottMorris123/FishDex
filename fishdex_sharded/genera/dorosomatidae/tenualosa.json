@@ -1,0 +1,55 @@
+[
+  {
+    "ScientificName": "Tenualosa ilisha",
+    "SpecCode": "1596",
+    "CommonName": "௨ள்ளம்",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tenualosa macrura",
+    "SpecCode": "1597",
+    "CommonName": "Bengkalis",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tenualosa reevesii",
+    "SpecCode": "1598",
+    "CommonName": "Bengkalis",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tenualosa thibaudeaui",
+    "SpecCode": "1599",
+    "CommonName": "Cá Cháy nam",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tenualosa toli",
+    "SpecCode": "1600",
+    "CommonName": "௨ள்ளம் ",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

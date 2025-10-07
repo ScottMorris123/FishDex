@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Mataeocephalus acipenserinus",
+    "SpecCode": "8499",
+    "CommonName": "Sturgeon granadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mataeocephalus adustus",
+    "SpecCode": "52370",
+    "CommonName": "鋸鰭愚首鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mataeocephalus cristatus",
+    "SpecCode": "65025",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mataeocephalus hyostomus",
+    "SpecCode": "52183",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mataeocephalus kotlyari",
+    "SpecCode": "64832",
+    "CommonName": "Kotlyar's whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mataeocephalus tenuicauda",
+    "SpecCode": "8500",
+    "CommonName": "Granadero de cola fina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

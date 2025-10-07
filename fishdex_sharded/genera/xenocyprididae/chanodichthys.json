@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Chanodichthys abramoides",
+    "SpecCode": "62433",
+    "CommonName": "Latik-hõbesilm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chanodichthys dabryi",
+    "SpecCode": "46610",
+    "CommonName": "Gorbushka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chanodichthys erythropterus",
+    "SpecCode": "4635",
+    "CommonName": "Bak ue",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chanodichthys mongolicus",
+    "SpecCode": "46706",
+    "CommonName": "Chanod mongolský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chanodichthys oxycephalus",
+    "SpecCode": "56247",
+    "CommonName": "Jangtse hõbesilm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

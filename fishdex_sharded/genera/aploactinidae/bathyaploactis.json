@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bathyaploactis curtisensis",
+    "SpecCode": "52248",
+    "CommonName": "Port Curtis mossback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyaploactis ornatissima",
+    "SpecCode": "27472",
+    "CommonName": "Ornate velvetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

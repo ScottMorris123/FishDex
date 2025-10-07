@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Dipulus caecus",
+    "SpecCode": "24964",
+    "CommonName": "Blindfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipulus hutchinsi",
+    "SpecCode": "63251",
+    "CommonName": "Hutchin's mudbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipulus norfolkanus",
+    "SpecCode": "56406",
+    "CommonName": "諾福克鰻鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Family": "Glaucostegidae",
+  "Order": "Rhinopristiformes",
+  "Common": "Giant guitarfishes",
+  "Genera": [
+    {
+      "Genus": "Glaucostegus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/glaucostegidae/glaucostegus.json"
+    }
+  ]
+}

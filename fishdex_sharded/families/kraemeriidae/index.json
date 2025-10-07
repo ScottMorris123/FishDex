@@ -1,0 +1,17 @@
+{
+  "Family": "Kraemeriidae",
+  "Order": "Gobiiformes",
+  "Common": "Sand darters",
+  "Genera": [
+    {
+      "Genus": "Gobitrichinotus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/kraemeriidae/gobitrichinotus.json"
+    },
+    {
+      "Genus": "Kraemeria",
+      "SpeciesCount": 7,
+      "genus_path": "genera/kraemeriidae/kraemeria.json"
+    }
+  ]
+}

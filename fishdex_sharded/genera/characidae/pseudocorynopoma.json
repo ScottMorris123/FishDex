@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pseudocorynopoma doriae",
+    "SpecCode": "12398",
+    "CommonName": "Drachenflosser",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocorynopoma heterandria",
+    "SpecCode": "56441",
+    "CommonName": "Leijakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocorynopoma stanleyi",
+    "SpecCode": "69400",
+    "CommonName": "Clear-finned dragonfin tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

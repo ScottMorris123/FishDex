@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Turcinoemacheilus bahaii",
+    "SpecCode": "67324",
+    "CommonName": "Bahāʾ türktrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Turcinoemacheilus hafezi",
+    "SpecCode": "67366",
+    "CommonName": "Hāfezi türktrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Turcinoemacheilus himalaya",
+    "SpecCode": "66318",
+    "CommonName": "Himaalaja türktrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Turcinoemacheilus kosswigi",
+    "SpecCode": "54801",
+    "CommonName": "Çöpçü balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Turcinoemacheilus minimus",
+    "SpecCode": "67325",
+    "CommonName": "Ceyhan loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Turcinoemacheilus saadii",
+    "SpecCode": "67326",
+    "CommonName": "Saadi türktrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

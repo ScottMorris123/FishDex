@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Poecilopsetta albomaculata",
+    "SpecCode": "47214",
+    "CommonName": "白斑瓦鰈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta beanii",
+    "SpecCode": "58866",
+    "CommonName": "Deepwater dab",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta colorata",
+    "SpecCode": "10581",
+    "CommonName": "Colored righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta dorsialta",
+    "SpecCode": "59208",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta hawaiiensis",
+    "SpecCode": "58868",
+    "CommonName": "夏威夷瓦鰈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta inermis",
+    "SpecCode": "49185",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta macrocephala",
+    "SpecCode": "61198",
+    "CommonName": "Bighead righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta multiradiata",
+    "SpecCode": "65478",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta natalensis",
+    "SpecCode": "8905",
+    "CommonName": "African righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta normani",
+    "SpecCode": "58850",
+    "CommonName": "諾氏瓦鰈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta pectoralis",
+    "SpecCode": "63403",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta plinthus",
+    "SpecCode": "15180",
+    "CommonName": "Brick sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta praelonga",
+    "SpecCode": "10582",
+    "CommonName": "Alcock's narrowbody righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta vaynei",
+    "SpecCode": "58869",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilopsetta zanzibarensis",
+    "SpecCode": "47215",
+    "CommonName": "桑給巴爾瓦鰈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

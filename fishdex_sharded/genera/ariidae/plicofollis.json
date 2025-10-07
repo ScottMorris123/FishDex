@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Plicofollis argyropleuron",
+    "SpecCode": "11739",
+    "CommonName": "Broadbent's catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plicofollis dussumieri",
+    "SpecCode": "1287",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plicofollis layardi",
+    "SpecCode": "1297",
+    "CommonName": "Bagre agulheta",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plicofollis magatensis",
+    "SpecCode": "26914",
+    "CommonName": "吕宋海鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plicofollis nella",
+    "SpecCode": "23383",
+    "CommonName": "Catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plicofollis platystomus",
+    "SpecCode": "1292",
+    "CommonName": "Bagre pato",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plicofollis polystaphylodon",
+    "SpecCode": "1293",
+    "CommonName": "Bagre mozambiqueño",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plicofollis tonggol",
+    "SpecCode": "1286",
+    "CommonName": "Arahan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

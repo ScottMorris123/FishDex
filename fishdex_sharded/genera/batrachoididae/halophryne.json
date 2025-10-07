@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Halophryne diemensis",
+    "SpecCode": "10748",
+    "CommonName": "Australian frogfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halophryne hutchinsi",
+    "SpecCode": "51695",
+    "CommonName": "Hutchin's toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halophryne ocellatus",
+    "SpecCode": "10749",
+    "CommonName": "Ocellate frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halophryne queenslandiae",
+    "SpecCode": "24714",
+    "CommonName": "Queensland toadfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Protosciaena bathytatos",
+    "SpecCode": "1189",
+    "CommonName": "Corvina de fondo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Protosciaena trewavasae",
+    "SpecCode": "1190",
+    "CommonName": "Corvina granadina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

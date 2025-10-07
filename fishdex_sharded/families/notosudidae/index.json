@@ -1,0 +1,22 @@
+{
+  "Family": "Notosudidae",
+  "Order": "Aulopiformes",
+  "Common": "Waryfishes",
+  "Genera": [
+    {
+      "Genus": "Ahliesaurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/notosudidae/ahliesaurus.json"
+    },
+    {
+      "Genus": "Luciosudis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/notosudidae/luciosudis.json"
+    },
+    {
+      "Genus": "Scopelosaurus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/notosudidae/scopelosaurus.json"
+    }
+  ]
+}

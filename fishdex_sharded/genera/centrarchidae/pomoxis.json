@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pomoxis annularis",
+    "SpecCode": "3387",
+    "CommonName": "Calicos bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomoxis nigromaculatus",
+    "SpecCode": "3388",
+    "CommonName": "Black crappie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

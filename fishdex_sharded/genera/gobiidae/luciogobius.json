@@ -1,0 +1,151 @@
+[
+  {
+    "ScientificName": "Luciogobius adapel",
+    "SpecCode": "59975",
+    "CommonName": "Kawari-mimizuhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius albus",
+    "SpecCode": "23715",
+    "CommonName": "Dôkutsu-mimizuhaze",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius ama",
+    "SpecCode": "59329",
+    "CommonName": "大头犬竿鰕虎鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius brevipterus",
+    "SpecCode": "60437",
+    "CommonName": "短鰭竿鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius dormitoris",
+    "SpecCode": "23716",
+    "CommonName": "Nemuri-mimizuhaze",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius elongatus",
+    "SpecCode": "23714",
+    "CommonName": "Naga-mimizuhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius fluvialis",
+    "SpecCode": "66112",
+    "CommonName": "Nagare-mimizuhaze",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius fonticola",
+    "SpecCode": "66111",
+    "CommonName": "Yusui-mimizuhaze",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius grandis",
+    "SpecCode": "23712",
+    "CommonName": "Ô-mimizuhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius guttatus",
+    "SpecCode": "15822",
+    "CommonName": "Flat-headed goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius koma",
+    "SpecCode": "23710",
+    "CommonName": "Komahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius pallidus",
+    "SpecCode": "23717",
+    "CommonName": "Ido-mimizuhaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius parvulus",
+    "SpecCode": "23718",
+    "CommonName": "Nansenhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius platycephalus",
+    "SpecCode": "23713",
+    "CommonName": "Yari-mimizuhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius ryukyuensis",
+    "SpecCode": "66024",
+    "CommonName": "Minami-hime-mimizuhaze",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciogobius saikaiensis",
+    "SpecCode": "23711",
+    "CommonName": "Hige-mimizuhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Microchirus azevia",
+    "SpecCode": "61001",
+    "CommonName": "Acevia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microchirus boscanion",
+    "SpecCode": "8847",
+    "CommonName": "Acedia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microchirus frechkopi",
+    "SpecCode": "4992",
+    "CommonName": "Azevia-de-quatro-olhos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microchirus ocellatus",
+    "SpecCode": "4991",
+    "CommonName": "Augenfleckige seezunge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microchirus theophila",
+    "SpecCode": "7690",
+    "CommonName": "Acevia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microchirus variegatus",
+    "SpecCode": "32",
+    "CommonName": "Azevia raïada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microchirus wittei",
+    "SpecCode": "4993",
+    "CommonName": "Azevia-raiada-africana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

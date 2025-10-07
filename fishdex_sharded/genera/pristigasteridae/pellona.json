@@ -1,0 +1,62 @@
+[
+  {
+    "ScientificName": "Pellona altamazonica",
+    "SpecCode": "50911",
+    "CommonName": "Apapa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pellona castelnaeana",
+    "SpecCode": "1639",
+    "CommonName": "Amazon pellona",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pellona dayi",
+    "SpecCode": "1640",
+    "CommonName": "Day pellona",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pellona ditchela",
+    "SpecCode": "1641",
+    "CommonName": "Aarijoog",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pellona flavipinnis",
+    "SpecCode": "1642",
+    "CommonName": "Alose-écaille fluviale",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pellona harroweri",
+    "SpecCode": "1643",
+    "CommonName": "Alose-écaille brésilienne",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

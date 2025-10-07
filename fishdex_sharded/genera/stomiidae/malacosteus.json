@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Malacosteus australis",
+    "SpecCode": "64601",
+    "CommonName": "Lõuna-pikklõug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacosteus niger",
+    "SpecCode": "10157",
+    "CommonName": "Black hinged-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

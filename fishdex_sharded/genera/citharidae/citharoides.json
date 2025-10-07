@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Citharoides macrolepidotus",
+    "SpecCode": "8827",
+    "CommonName": "Branched ray flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharoides macrolepis",
+    "SpecCode": "7665",
+    "CommonName": "Carta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharoides orbitalis",
+    "SpecCode": "59042",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

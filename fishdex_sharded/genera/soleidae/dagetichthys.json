@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Dagetichthys lakdoensis",
+    "SpecCode": "10100",
+    "CommonName": "巧鰨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dagetichthys lusitanicus",
+    "SpecCode": "8854",
+    "CommonName": "Aforfume",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dagetichthys marginatus",
+    "SpecCode": "7929",
+    "CommonName": "Amami-ushinoshita",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Gonorynchus abbreviatus",
+    "SpecCode": "22888",
+    "CommonName": "Ap-ch'i",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonorynchus forsteri",
+    "SpecCode": "58348",
+    "CommonName": "Sandfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonorynchus gonorynchus",
+    "SpecCode": "4528",
+    "CommonName": "Beaked salmon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonorynchus greyi",
+    "SpecCode": "12749",
+    "CommonName": "Beaked salmon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonorynchus moseleyi",
+    "SpecCode": "58349",
+    "CommonName": "Beaked sandfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

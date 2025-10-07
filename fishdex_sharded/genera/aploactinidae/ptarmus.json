@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ptarmus gallus",
+    "SpecCode": "52867",
+    "CommonName": "野毒疣鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptarmus jubatus",
+    "SpecCode": "8048",
+    "CommonName": "Crested scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

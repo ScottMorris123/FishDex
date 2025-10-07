@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Brachyistius aletes",
+    "SpecCode": "52729",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyistius frenatus",
+    "SpecCode": "3625",
+    "CommonName": "Brown sea-perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

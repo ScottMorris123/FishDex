@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Platax batavianus",
+    "SpecCode": "10547",
+    "CommonName": "Batavia batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platax boersii",
+    "SpecCode": "14307",
+    "CommonName": "Batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platax orbicularis",
+    "SpecCode": "5737",
+    "CommonName": "Ågguas påkyo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platax pinnatus",
+    "SpecCode": "5738",
+    "CommonName": "Akakukuri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platax teira",
+    "SpecCode": "5739",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

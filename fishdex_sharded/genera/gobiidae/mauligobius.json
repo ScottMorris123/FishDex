@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Mauligobius maderensis",
+    "SpecCode": "9967",
+    "CommonName": "Gobie de Madère",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mauligobius nigri",
+    "SpecCode": "9969",
+    "CommonName": "尼氏矇矓鰕虎魚",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

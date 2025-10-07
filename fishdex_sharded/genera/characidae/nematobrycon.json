@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Nematobrycon lacortei",
+    "SpecCode": "12393",
+    "CommonName": "Rainbow tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematobrycon palmeri",
+    "SpecCode": "10683",
+    "CommonName": "Blyszczyk cesarski a. tetra cesarska",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

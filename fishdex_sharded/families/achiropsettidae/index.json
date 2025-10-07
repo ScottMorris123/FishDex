@@ -1,0 +1,27 @@
+{
+  "Family": "Achiropsettidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Southern flounders",
+  "Genera": [
+    {
+      "Genus": "Achiropsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/achiropsettidae/achiropsetta.json"
+    },
+    {
+      "Genus": "Mancopsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/achiropsettidae/mancopsetta.json"
+    },
+    {
+      "Genus": "Neoachiropsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/achiropsettidae/neoachiropsetta.json"
+    },
+    {
+      "Genus": "Pseudomancopsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/achiropsettidae/pseudomancopsetta.json"
+    }
+  ]
+}

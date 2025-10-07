@@ -1,0 +1,107 @@
+[
+  {
+    "ScientificName": "Lates angustifrons",
+    "SpecCode": "4497",
+    "CommonName": "Capitaine",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates calcarifer",
+    "SpecCode": "346",
+    "CommonName": "Akame",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates japonicus",
+    "SpecCode": "6406",
+    "CommonName": "Akame",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates lakdiva",
+    "SpecCode": "66563",
+    "CommonName": "Koduwa",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates longispinis",
+    "SpecCode": "9896",
+    "CommonName": "Iji",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates macrophthalmus",
+    "SpecCode": "9897",
+    "CommonName": "Albert lates",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates mariae",
+    "SpecCode": "9898",
+    "CommonName": "Bigeye lates",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates microlepis",
+    "SpecCode": "4801",
+    "CommonName": "Forktail lates",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates niloticus",
+    "SpecCode": "347",
+    "CommonName": "Aja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates stappersii",
+    "SpecCode": "4498",
+    "CommonName": "Bukabuka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lates uwisara",
+    "SpecCode": "66564",
+    "CommonName": "Myanmar sea bass",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

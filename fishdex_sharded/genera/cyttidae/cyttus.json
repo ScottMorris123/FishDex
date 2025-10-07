@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Cyttus australis",
+    "SpecCode": "14136",
+    "CommonName": "Australian silver dory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyttus novaezealandiae",
+    "SpecCode": "14575",
+    "CommonName": "Dory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyttus traversi",
+    "SpecCode": "10676",
+    "CommonName": "Bight dory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

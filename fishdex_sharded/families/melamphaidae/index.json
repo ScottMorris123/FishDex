@@ -1,0 +1,32 @@
+{
+  "Family": "Melamphaidae",
+  "Order": "Beryciformes",
+  "Common": "Bigscale fishes or ridgeheads",
+  "Genera": [
+    {
+      "Genus": "Melamphaes",
+      "SpeciesCount": 36,
+      "genus_path": "genera/melamphaidae/melamphaes.json"
+    },
+    {
+      "Genus": "Poromitra",
+      "SpeciesCount": 22,
+      "genus_path": "genera/melamphaidae/poromitra.json"
+    },
+    {
+      "Genus": "Scopeloberyx",
+      "SpeciesCount": 9,
+      "genus_path": "genera/melamphaidae/scopeloberyx.json"
+    },
+    {
+      "Genus": "Scopelogadus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/melamphaidae/scopelogadus.json"
+    },
+    {
+      "Genus": "Sio",
+      "SpeciesCount": 1,
+      "genus_path": "genera/melamphaidae/sio.json"
+    }
+  ]
+}

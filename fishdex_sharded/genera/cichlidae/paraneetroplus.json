@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Paraneetroplus bulleri",
+    "SpecCode": "26818",
+    "CommonName": "Corrientero",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraneetroplus gibbiceps",
+    "SpecCode": "26795",
+    "CommonName": "Corrientero verde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraneetroplus nebulifer",
+    "SpecCode": "26802",
+    "CommonName": "Chonga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

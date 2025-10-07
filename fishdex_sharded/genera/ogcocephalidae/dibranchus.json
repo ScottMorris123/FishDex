@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Dibranchus accinctus",
+    "SpecCode": "58639",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus atlanticus",
+    "SpecCode": "4956",
+    "CommonName": "Atlantic batfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus cracens",
+    "SpecCode": "58632",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus discors",
+    "SpecCode": "58638",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus erinaceus",
+    "SpecCode": "58636",
+    "CommonName": "Igelkottsulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus hystrix",
+    "SpecCode": "58630",
+    "CommonName": "糙長鰭蝠魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus japonicus",
+    "SpecCode": "23252",
+    "CommonName": "Japanese seabat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus nasutus",
+    "SpecCode": "61055",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus nudivomer",
+    "SpecCode": "58637",
+    "CommonName": "裸犁長鰭蝠魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus sparsus",
+    "SpecCode": "58634",
+    "CommonName": "鯛形長鰭蝠魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus spinosus",
+    "SpecCode": "58635",
+    "CommonName": "Murciélago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus spongiosa",
+    "SpecCode": "58631",
+    "CommonName": "海綿(棲)長鰭蝠魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus tremendus",
+    "SpecCode": "58629",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dibranchus velutinus",
+    "SpecCode": "58633",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

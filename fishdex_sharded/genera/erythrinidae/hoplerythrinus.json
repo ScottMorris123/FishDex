@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hoplerythrinus cinereus",
+    "SpecCode": "57726",
+    "CommonName": "Waubeen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplerythrinus gronovii",
+    "SpecCode": "57729",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplerythrinus unitaeniatus",
+    "SpecCode": "5305",
+    "CommonName": "Aimara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

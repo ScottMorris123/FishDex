@@ -1,0 +1,32 @@
+{
+  "Family": "Triportheidae",
+  "Order": "Characiformes",
+  "Common": "Hatchet characins",
+  "Genera": [
+    {
+      "Genus": "Agoniates",
+      "SpeciesCount": 2,
+      "genus_path": "genera/triportheidae/agoniates.json"
+    },
+    {
+      "Genus": "Clupeacharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triportheidae/clupeacharax.json"
+    },
+    {
+      "Genus": "Engraulisoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triportheidae/engraulisoma.json"
+    },
+    {
+      "Genus": "Lignobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triportheidae/lignobrycon.json"
+    },
+    {
+      "Genus": "Triportheus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/triportheidae/triportheus.json"
+    }
+  ]
+}

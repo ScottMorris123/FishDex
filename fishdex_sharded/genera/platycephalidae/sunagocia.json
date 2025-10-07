@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Sunagocia arenicola",
+    "SpecCode": "12901",
+    "CommonName": "Baji kepala lebar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sunagocia carbunculus",
+    "SpecCode": "15241",
+    "CommonName": "Baji mata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sunagocia omanensis",
+    "SpecCode": "69084",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sunagocia otaitensis",
+    "SpecCode": "12903",
+    "CommonName": "bunobuno",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sunagocia sainsburyi",
+    "SpecCode": "64194",
+    "CommonName": "Sainsbury's flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

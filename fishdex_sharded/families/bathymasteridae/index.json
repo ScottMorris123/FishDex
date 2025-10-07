@@ -1,0 +1,22 @@
+{
+  "Family": "Bathymasteridae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "Ronquils",
+  "Genera": [
+    {
+      "Genus": "Bathymaster",
+      "SpeciesCount": 4,
+      "genus_path": "genera/bathymasteridae/bathymaster.json"
+    },
+    {
+      "Genus": "Rathbunella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bathymasteridae/rathbunella.json"
+    },
+    {
+      "Genus": "Ronquilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathymasteridae/ronquilus.json"
+    }
+  ]
+}

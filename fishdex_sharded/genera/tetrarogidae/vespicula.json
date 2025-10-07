@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Vespicula cypho",
+    "SpecCode": "59067",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vespicula trachinoides",
+    "SpecCode": "59068",
+    "CommonName": "Goblinfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vespicula zollingeri",
+    "SpecCode": "59069",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

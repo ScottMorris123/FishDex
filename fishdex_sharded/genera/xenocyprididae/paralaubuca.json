@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Paralaubuca barroni",
+    "SpecCode": "16169",
+    "CommonName": "Barroni lammiviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralaubuca harmandi",
+    "SpecCode": "27040",
+    "CommonName": "Harmandi lammiviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralaubuca riveroi",
+    "SpecCode": "16173",
+    "CommonName": "Cá thiêu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralaubuca stigmabrachium",
+    "SpecCode": "54694",
+    "CommonName": "Kýlnatka mekongská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralaubuca typus",
+    "SpecCode": "27025",
+    "CommonName": "Dtaep",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

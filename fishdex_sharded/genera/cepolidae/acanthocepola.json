@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Acanthocepola abbreviata",
+    "SpecCode": "10354",
+    "CommonName": "Bandfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthocepola indica",
+    "SpecCode": "9216",
+    "CommonName": "Indisk båndfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthocepola krusensternii",
+    "SpecCode": "9215",
+    "CommonName": "Akatachi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthocepola limbata",
+    "SpecCode": "9214",
+    "CommonName": "Bandfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

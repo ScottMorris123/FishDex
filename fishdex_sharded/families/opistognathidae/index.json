@@ -1,0 +1,27 @@
+{
+  "Family": "Opistognathidae",
+  "Order": "Ovalentaria/misc",
+  "Common": "Jawfishes",
+  "Genera": [
+    {
+      "Genus": "Anoptoplacus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/opistognathidae/anoptoplacus.json"
+    },
+    {
+      "Genus": "Lonchopisthus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/opistognathidae/lonchopisthus.json"
+    },
+    {
+      "Genus": "Opistognathus",
+      "SpeciesCount": 78,
+      "genus_path": "genera/opistognathidae/opistognathus.json"
+    },
+    {
+      "Genus": "Stalix",
+      "SpeciesCount": 12,
+      "genus_path": "genera/opistognathidae/stalix.json"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Xenopoclinus kochi",
+    "SpecCode": "17020",
+    "CommonName": "Platanna klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenopoclinus leprosus",
+    "SpecCode": "17018",
+    "CommonName": "Leprous platanna-klipfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

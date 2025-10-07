@@ -1,0 +1,120 @@
+[
+  {
+    "ScientificName": "Paretroplus dambabe",
+    "SpecCode": "61389",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus damii",
+    "SpecCode": "8787",
+    "CommonName": "Damba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus gymnopreopercularis",
+    "SpecCode": "64280",
+    "CommonName": "Melemshiska",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus kieneri",
+    "SpecCode": "8788",
+    "CommonName": "Kotsovato",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus lamenabe",
+    "SpecCode": "64279",
+    "CommonName": "Big red cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus loisellei",
+    "SpecCode": "65930",
+    "CommonName": "Ventitry",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus maculatus",
+    "SpecCode": "8789",
+    "CommonName": "Damba Mipentina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus maromandia",
+    "SpecCode": "58319",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus menarambo",
+    "SpecCode": "57958",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus nourissati",
+    "SpecCode": "58482",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus petiti",
+    "SpecCode": "8790",
+    "CommonName": "Kotso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus polyactis",
+    "SpecCode": "8791",
+    "CommonName": "Borivava",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paretroplus tsimoly",
+    "SpecCode": "58484",
+    "CommonName": "Tsimoly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

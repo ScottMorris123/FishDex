@@ -1,0 +1,52 @@
+{
+  "Family": "Dactyloscopidae",
+  "Order": "Blenniiformes",
+  "Common": "Sand stargazers",
+  "Genera": [
+    {
+      "Genus": "Dactylagnus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dactyloscopidae/dactylagnus.json"
+    },
+    {
+      "Genus": "Dactyloscopus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/dactyloscopidae/dactyloscopus.json"
+    },
+    {
+      "Genus": "Gillellus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/dactyloscopidae/gillellus.json"
+    },
+    {
+      "Genus": "Heteristius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dactyloscopidae/heteristius.json"
+    },
+    {
+      "Genus": "Leurochilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dactyloscopidae/leurochilus.json"
+    },
+    {
+      "Genus": "Myxodagnus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/dactyloscopidae/myxodagnus.json"
+    },
+    {
+      "Genus": "Platygillellus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/dactyloscopidae/platygillellus.json"
+    },
+    {
+      "Genus": "Sindoscopus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dactyloscopidae/sindoscopus.json"
+    },
+    {
+      "Genus": "Storrsia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dactyloscopidae/storrsia.json"
+    }
+  ]
+}

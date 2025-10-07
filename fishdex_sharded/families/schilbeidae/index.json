@@ -1,0 +1,52 @@
+{
+  "Family": "Schilbeidae",
+  "Order": "Siluriformes",
+  "Common": "Schilbid catfishes",
+  "Genera": [
+    {
+      "Genus": "Eutropiichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/schilbeidae/eutropiichthys.json"
+    },
+    {
+      "Genus": "Irvineia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/schilbeidae/irvineia.json"
+    },
+    {
+      "Genus": "Pachypterus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/schilbeidae/pachypterus.json"
+    },
+    {
+      "Genus": "Parailia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/schilbeidae/parailia.json"
+    },
+    {
+      "Genus": "Pareutropius",
+      "SpeciesCount": 4,
+      "genus_path": "genera/schilbeidae/pareutropius.json"
+    },
+    {
+      "Genus": "Platytropius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/schilbeidae/platytropius.json"
+    },
+    {
+      "Genus": "Schilbe",
+      "SpeciesCount": 21,
+      "genus_path": "genera/schilbeidae/schilbe.json"
+    },
+    {
+      "Genus": "Silonia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/schilbeidae/silonia.json"
+    },
+    {
+      "Genus": "Siluranodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/schilbeidae/siluranodon.json"
+    }
+  ]
+}

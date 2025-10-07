@@ -1,0 +1,200 @@
+[
+  {
+    "ScientificName": "Awaous acritosus",
+    "SpecCode": "52402",
+    "CommonName": "Roman nose goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous aeneofuscus",
+    "SpecCode": "9935",
+    "CommonName": "Freshwater goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous banana",
+    "SpecCode": "50323",
+    "CommonName": "Gobio de río",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous bustamantei",
+    "SpecCode": "59373",
+    "CommonName": "Meloco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous commersoni",
+    "SpecCode": "9964",
+    "CommonName": "Cabot",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous flavus",
+    "SpecCode": "47844",
+    "CommonName": "橙黃阿胡鰕虎魚",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous fluviatilis",
+    "SpecCode": "25238",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous grammepomus",
+    "SpecCode": "11799",
+    "CommonName": "Bele",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous guamensis",
+    "SpecCode": "27290",
+    "CommonName": "Bailla",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous jayakari",
+    "SpecCode": "67990",
+    "CommonName": "Arabian freshwater goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous lateristriga",
+    "SpecCode": "2492",
+    "CommonName": "Adima",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous litturatus",
+    "SpecCode": "61318",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous macrorhynchus",
+    "SpecCode": "9937",
+    "CommonName": "大吻厚唇鰕虎魚",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous melanocephalus",
+    "SpecCode": "6595",
+    "CommonName": "Batog",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous motla",
+    "SpecCode": "70576",
+    "CommonName": "Mahanadi scribbled goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous ocellaris",
+    "SpecCode": "15787",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous pallidus",
+    "SpecCode": "9941",
+    "CommonName": "蒼白厚唇鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous personatus",
+    "SpecCode": "55524",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous stamineus",
+    "SpecCode": "67119",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Awaous tajasica",
+    "SpecCode": "46950",
+    "CommonName": "River Goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

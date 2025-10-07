@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Amblyraja doellojuradoi",
+    "SpecCode": "54120",
+    "CommonName": "Lõuna-sünkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyraja frerichsi",
+    "SpecCode": "54121",
+    "CommonName": "Dikke rog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyraja georgiana",
+    "SpecCode": "6953",
+    "CommonName": "Amblyraja georgiana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyraja hyperborea",
+    "SpecCode": "9256",
+    "CommonName": "Arctic skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyraja jenseni",
+    "SpecCode": "27757",
+    "CommonName": "Jenseni sünkrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyraja radiata",
+    "SpecCode": "2565",
+    "CommonName": "Agdlernak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyraja reversa",
+    "SpecCode": "54089",
+    "CommonName": "Reversed skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyraja taaf",
+    "SpecCode": "6954",
+    "CommonName": "Raie épineuse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

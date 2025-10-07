@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Promyllantor adenensis",
+    "SpecCode": "63054",
+    "CommonName": "Adeni muikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Promyllantor atlanticus",
+    "SpecCode": "63053",
+    "CommonName": "Atlandi muikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Promyllantor purpureus",
+    "SpecCode": "58540",
+    "CommonName": "Úhořovec nachový",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

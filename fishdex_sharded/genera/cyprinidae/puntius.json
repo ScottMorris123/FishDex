@@ -1,0 +1,464 @@
+[
+  {
+    "ScientificName": "Puntius ambassis",
+    "SpecCode": "61489",
+    "CommonName": "Idaindia puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius amphibius",
+    "SpecCode": "24092",
+    "CommonName": "Khavli",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius aphya",
+    "SpecCode": "61864",
+    "CommonName": "Jaava puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius arenatus",
+    "SpecCode": "24096",
+    "CommonName": "Arenatus barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius bimaculatus",
+    "SpecCode": "13635",
+    "CommonName": "Ipilli kadaya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius bramoides",
+    "SpecCode": "58186",
+    "CommonName": "Balar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius brevis",
+    "SpecCode": "22821",
+    "CommonName": "Cá ram",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius burmanicus",
+    "SpecCode": "24144",
+    "CommonName": "Birma puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius cauveriensis",
+    "SpecCode": "65239",
+    "CommonName": "Cauvery barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius chola",
+    "SpecCode": "10796",
+    "CommonName": "Chala punti",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius crescentus",
+    "SpecCode": "60629",
+    "CommonName": "Parmička sunderinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius deccanensis",
+    "SpecCode": "24147",
+    "CommonName": "Deccan barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius dolichopterus",
+    "SpecCode": "67787",
+    "CommonName": "Long fin Kerala barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius dorsalis",
+    "SpecCode": "13193",
+    "CommonName": "Cauvery meenu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius fraseri",
+    "SpecCode": "24149",
+    "CommonName": "Dharna barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius kamalika",
+    "SpecCode": "64154",
+    "CommonName": "Kamalika puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius kelumi",
+    "SpecCode": "64798",
+    "CommonName": "Kelumi puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius khohi",
+    "SpecCode": "65140",
+    "CommonName": "Khohi puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius layardi",
+    "SpecCode": "65177",
+    "CommonName": "Layardi puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius madhusoodani",
+    "SpecCode": "66459",
+    "CommonName": "Madhusoodana puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius mahecola",
+    "SpecCode": "61902",
+    "CommonName": "Mahé puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius masyai",
+    "SpecCode": "27128",
+    "CommonName": "Masya puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius melanostigma",
+    "SpecCode": "66711",
+    "CommonName": "Mustlaik-puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius morehensis",
+    "SpecCode": "59967",
+    "CommonName": "Morehi puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius mudumalaiensis",
+    "SpecCode": "54299",
+    "CommonName": "Mudumalai puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius muzaffarpurensis",
+    "SpecCode": "66712",
+    "CommonName": "Muzaffarpuri puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius nangalensis",
+    "SpecCode": "60193",
+    "CommonName": "Nangali puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius nelsoni",
+    "SpecCode": "67800",
+    "CommonName": "Travancore yellow barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius nigronotus",
+    "SpecCode": "67803",
+    "CommonName": "Malabar black-backed barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius parrah",
+    "SpecCode": "13196",
+    "CommonName": "Pakke",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius paucimaculatus",
+    "SpecCode": "54929",
+    "CommonName": "Hõrelaik-puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius pinnauratus",
+    "SpecCode": "68205",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius pugio",
+    "SpecCode": "63877",
+    "CommonName": "Ogapuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius punjabensis",
+    "SpecCode": "24155",
+    "CommonName": "Parmička lahorská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius puntio",
+    "SpecCode": "24159",
+    "CommonName": "Harilik puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius sachsii",
+    "SpecCode": "12150",
+    "CommonName": "Goldfinned barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius sahyadriensis",
+    "SpecCode": "24174",
+    "CommonName": "Gende",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius sealei",
+    "SpecCode": "59488",
+    "CommonName": "Seale`i puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius snyderi",
+    "SpecCode": "65141",
+    "CommonName": "Snyderi puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius sophore",
+    "SpecCode": "10137",
+    "CommonName": "Allikkobarbi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius sophoroides",
+    "SpecCode": "60625",
+    "CommonName": "Lammipuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius spilopterus",
+    "SpecCode": "61705",
+    "CommonName": "Tai puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius stigma",
+    "SpecCode": "68203",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius takhoaensis",
+    "SpecCode": "61283",
+    "CommonName": "Vietnami puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius terio",
+    "SpecCode": "12163",
+    "CommonName": "Ainulaik-puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius tetraspilus",
+    "SpecCode": "61873",
+    "CommonName": "Nelilaik-puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius thermalis",
+    "SpecCode": "66710",
+    "CommonName": "Sri Lanka swamp barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius titteya",
+    "SpecCode": "6147",
+    "CommonName": "Bitterlingsbarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius viridis",
+    "SpecCode": "67282",
+    "CommonName": "Rohekas puntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius vittatus",
+    "SpecCode": "12170",
+    "CommonName": "Greenstripe barb",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntius waageni",
+    "SpecCode": "24187",
+    "CommonName": "Parmička Waagenova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

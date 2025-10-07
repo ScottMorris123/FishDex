@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Biwia springeri",
+    "SpecCode": "55144",
+    "CommonName": "Hrouzkovka Springerova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Biwia tama",
+    "SpecCode": "61879",
+    "CommonName": "Tama Idarünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Biwia yodoensis",
+    "SpecCode": "65477",
+    "CommonName": "Yodo idarünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Biwia zezera",
+    "SpecCode": "22923",
+    "CommonName": "Bivie japonská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

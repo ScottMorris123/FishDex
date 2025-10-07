@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Tetragonurus atlanticus",
+    "SpecCode": "3928",
+    "CommonName": "Atlandi alett",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetragonurus cuvieri",
+    "SpecCode": "1772",
+    "CommonName": "Colicuadrado ojito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetragonurus pacificus",
+    "SpecCode": "26385",
+    "CommonName": "Pacific squaretail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Spondyliosoma cantharus",
+    "SpecCode": "1356",
+    "CommonName": "Al faham",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spondyliosoma emarginatum",
+    "SpecCode": "5536",
+    "CommonName": "Aafrika hammaskoger",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

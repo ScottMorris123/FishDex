@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Conidens laticephalus",
+    "SpecCode": "24995",
+    "CommonName": "Ankô-uba-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conidens samoensis",
+    "SpecCode": "55713",
+    "CommonName": "Samoan clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

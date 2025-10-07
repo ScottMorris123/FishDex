@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ditrema jordani",
+    "SpecCode": "64734",
+    "CommonName": "Aka-tanago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ditrema temminckii",
+    "SpecCode": "13038",
+    "CommonName": "Hǎi jì",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ditrema viride",
+    "SpecCode": "23494",
+    "CommonName": "Aotanago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

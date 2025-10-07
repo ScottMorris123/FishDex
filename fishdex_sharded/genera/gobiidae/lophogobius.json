@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Lophogobius cristulatus",
+    "SpecCode": "54396",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophogobius cyprinoides",
+    "SpecCode": "3884",
+    "CommonName": "Crested goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

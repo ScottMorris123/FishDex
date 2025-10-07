@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Erromyzon compactus",
+    "SpecCode": "62225",
+    "CommonName": "Tömp napphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erromyzon kalotaenia",
+    "SpecCode": "67471",
+    "CommonName": "Ruuduline napphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erromyzon sinensis",
+    "SpecCode": "60402",
+    "CommonName": "Balitora čínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Erromyzon yangi",
+    "SpecCode": "63435",
+    "CommonName": "Yangi napphink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

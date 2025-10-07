@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Rhinoliparis attenuatus",
+    "SpecCode": "25257",
+    "CommonName": "Slim snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinoliparis barbulifer",
+    "SpecCode": "50721",
+    "CommonName": "Longnose snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

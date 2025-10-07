@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rhinolepadichthys geminus",
+    "SpecCode": "70594",
+    "CommonName": "Pacific doubleline clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinolepadichthys heemstraorum",
+    "SpecCode": "70595",
+    "CommonName": "Heemstra's clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinolepadichthys lineatus",
+    "SpecCode": "23229",
+    "CommonName": "Doubleline clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinolepadichthys polyastrous",
+    "SpecCode": "70596",
+    "CommonName": "Starry clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

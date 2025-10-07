@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Lepidamia kalosoma",
+    "SpecCode": "58155",
+    "CommonName": "Pinstripe cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidamia multitaeniata",
+    "SpecCode": "8009",
+    "CommonName": "Sahihaht",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidamia natalensis",
+    "SpecCode": "23648",
+    "CommonName": "Kleinskub-kardinal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidamia omanensis",
+    "SpecCode": "26994",
+    "CommonName": "Oman cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

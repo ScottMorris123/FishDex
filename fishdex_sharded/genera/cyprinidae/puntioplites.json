@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Puntioplites bulu",
+    "SpecCode": "14512",
+    "CommonName": "Bulu indonéský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntioplites falcifer",
+    "SpecCode": "27182",
+    "CommonName": "Bulu thajský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntioplites proctozystron",
+    "SpecCode": "16203",
+    "CommonName": "Bulu mekongský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puntioplites waandersi",
+    "SpecCode": "17460",
+    "CommonName": "Kepiat",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

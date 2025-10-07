@@ -1,0 +1,248 @@
+[
+  {
+    "ScientificName": "Alosa aestivalis",
+    "SpecCode": "1574",
+    "CommonName": "Alosa-azul",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa agone",
+    "SpecCode": "28201",
+    "CommonName": "Agone",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa alabamae",
+    "SpecCode": "1575",
+    "CommonName": "Alabama aloosa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa algeriensis",
+    "SpecCode": "65105",
+    "CommonName": "Alžeeria aloosa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa alosa",
+    "SpecCode": "101",
+    "CommonName": "Agone",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa braschnikowi",
+    "SpecCode": "1576",
+    "CommonName": "Brazhnikov's shad",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa caspia",
+    "SpecCode": "1577",
+    "CommonName": "Alose",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa chrysochloris",
+    "SpecCode": "1578",
+    "CommonName": "Alose dorée",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa curensis",
+    "SpecCode": "47559",
+    "CommonName": "Kizilagach herring",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa fallax",
+    "SpecCode": "5355",
+    "CommonName": "Abzeln",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa immaculata",
+    "SpecCode": "105",
+    "CommonName": "Alosa pontica",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa kessleri",
+    "SpecCode": "1580",
+    "CommonName": "Beshenka",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa killarnensis",
+    "SpecCode": "64754",
+    "CommonName": "Killarney aloosa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa macedonica",
+    "SpecCode": "25775",
+    "CommonName": "Liparia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa maeotica",
+    "SpecCode": "1581",
+    "CommonName": "Aasovi aloosa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa mediocris",
+    "SpecCode": "1582",
+    "CommonName": "Alose américaine",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa pseudoharengus",
+    "SpecCode": "1583",
+    "CommonName": "Alaccia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa sapidissima",
+    "SpecCode": "1584",
+    "CommonName": "Allaccia americana",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa saposchnikowii",
+    "SpecCode": "1585",
+    "CommonName": "Bigeye shad",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa sphaerocephala",
+    "SpecCode": "1586",
+    "CommonName": "Agrakhan shad",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa suworowi",
+    "SpecCode": "66115",
+    "CommonName": "Suvorovi aloosa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa tanaica",
+    "SpecCode": "48090",
+    "CommonName": "Azov shad",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa vistonica",
+    "SpecCode": "28212",
+    "CommonName": "Placka řecká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alosa volgensis",
+    "SpecCode": "63396",
+    "CommonName": "Volga aloosa",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

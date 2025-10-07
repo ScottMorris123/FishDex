@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Platydoras armatulus",
+    "SpecCode": "47627",
+    "CommonName": "Abotoado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platydoras birindellii",
+    "SpecCode": "69149",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platydoras brachylecis",
+    "SpecCode": "64691",
+    "CommonName": "Corro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platydoras costatus",
+    "SpecCode": "12107",
+    "CommonName": "Abotoado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platydoras hancockii",
+    "SpecCode": "12105",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

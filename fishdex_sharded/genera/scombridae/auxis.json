@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Auxis brachydorax",
+    "SpecCode": "54675",
+    "CommonName": "Botellita grande",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auxis eudorax",
+    "SpecCode": "54674",
+    "CommonName": "Botellita chica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auxis rochei",
+    "SpecCode": "93",
+    "CommonName": "Aloy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auxis thazard",
+    "SpecCode": "94",
+    "CommonName": "Alagoduwa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

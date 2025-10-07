@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Kurtus gulliveri",
+    "SpecCode": "4436",
+    "CommonName": "Australischer Kurter",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kurtus indicus",
+    "SpecCode": "4437",
+    "CommonName": "Cinta madu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "ScientificName": "Oncorhynchus aguabonita",
+    "SpecCode": "2686",
+    "CommonName": "Golden trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus apache",
+    "SpecCode": "2687",
+    "CommonName": "Apache trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus chrysogaster",
+    "SpecCode": "6208",
+    "CommonName": "Mehiški zlati losos",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus clarkii",
+    "SpecCode": "2688",
+    "CommonName": "Clarki forell",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus formosanus",
+    "SpecCode": "16686",
+    "CommonName": "Cherry salmon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus gilae",
+    "SpecCode": "2689",
+    "CommonName": "Gila forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus gorbuscha",
+    "SpecCode": "240",
+    "CommonName": "amaqtuuq",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus iwame",
+    "SpecCode": "10448",
+    "CommonName": "Iwame forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus kawamurae",
+    "SpecCode": "66106",
+    "CommonName": "Kunimasu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus keta",
+    "SpecCode": "241",
+    "CommonName": "Alngartuliq",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus kisutch",
+    "SpecCode": "245",
+    "CommonName": "Belaya",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus masou",
+    "SpecCode": "242",
+    "CommonName": "Amago",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus mykiss",
+    "SpecCode": "239",
+    "CommonName": "Alabalik",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus nerka",
+    "SpecCode": "243",
+    "CommonName": "Beni-zake",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus rhodurus",
+    "SpecCode": "4731",
+    "CommonName": "Amago",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oncorhynchus tshawytscha",
+    "SpecCode": "244",
+    "CommonName": "Blackmouth",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

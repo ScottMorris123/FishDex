@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Neoclinus blanchardi",
+    "SpecCode": "3740",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus bryope",
+    "SpecCode": "23570",
+    "CommonName": "Kokeginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus chihiroe",
+    "SpecCode": "26661",
+    "CommonName": "Shizumiiso-koke-ginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus lacunicola",
+    "SpecCode": "23572",
+    "CommonName": "Iwa-ana-kokeginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus monogrammus",
+    "SpecCode": "65987",
+    "CommonName": "Chishio-kokeginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus nudiceps",
+    "SpecCode": "65988",
+    "CommonName": "Oki-matsuge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus nudus",
+    "SpecCode": "26673",
+    "CommonName": "Hadaka-koke-ginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus okazakii",
+    "SpecCode": "26660",
+    "CommonName": "Araiso-koke-ginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus stephensae",
+    "SpecCode": "3741",
+    "CommonName": "Blenia amarilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus toshimaensis",
+    "SpecCode": "23571",
+    "CommonName": "Toshima-kokeginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoclinus uninotatus",
+    "SpecCode": "3742",
+    "CommonName": "Onespot fringehead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

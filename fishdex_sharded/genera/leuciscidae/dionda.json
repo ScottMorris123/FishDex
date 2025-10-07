@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Dionda argentosa",
+    "SpecCode": "61880",
+    "CommonName": "Carpa de manantial",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dionda diaboli",
+    "SpecCode": "2749",
+    "CommonName": "Carpa diabla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dionda episcopa",
+    "SpecCode": "2750",
+    "CommonName": "Carpa manchada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dionda melanops",
+    "SpecCode": "61881",
+    "CommonName": "Carpa manchada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dionda nigrotaeniata",
+    "SpecCode": "61895",
+    "CommonName": "Guadalupe dionda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dionda serena",
+    "SpecCode": "62096",
+    "CommonName": "Hele dionda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Maurolicus amethystinopunctatus",
+    "SpecCode": "60991",
+    "CommonName": "Argent filós",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus australis",
+    "SpecCode": "51609",
+    "CommonName": "Pennant lantern-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus breviculus",
+    "SpecCode": "51616",
+    "CommonName": "短身穆氏暗光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus imperatorius",
+    "SpecCode": "51610",
+    "CommonName": "Emperor seamount lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus inventionis",
+    "SpecCode": "51601",
+    "CommonName": "南印度洋穆氏暗光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus japonicus",
+    "SpecCode": "60992",
+    "CommonName": "Kyūri-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus javanicus",
+    "SpecCode": "51614",
+    "CommonName": "Javan pearlside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus kornilovorum",
+    "SpecCode": "51613",
+    "CommonName": "东非穆氏暗光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus mucronatus",
+    "SpecCode": "51615",
+    "CommonName": "尖穆氏暗光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus muelleri",
+    "SpecCode": "754",
+    "CommonName": "Acciuga Maria Luisa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus parvipinnis",
+    "SpecCode": "51606",
+    "CommonName": "小翅穆氏暗光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus rudjakovi",
+    "SpecCode": "51608",
+    "CommonName": "魯迪穆氏暗光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus stehmanni",
+    "SpecCode": "51603",
+    "CommonName": "斯特穆氏暗光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus walvisensis",
+    "SpecCode": "51607",
+    "CommonName": "南大西洋穆氏暗光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maurolicus weitzmani",
+    "SpecCode": "51611",
+    "CommonName": "Atlantic pearlside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

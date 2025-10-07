@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Lophius americanus",
+    "SpecCode": "532",
+    "CommonName": "Ameriška morska spaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophius budegassa",
+    "SpecCode": "5094",
+    "CommonName": "Abu shas aswad elbatn",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophius gastrophysus",
+    "SpecCode": "1078",
+    "CommonName": "Anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophius litulon",
+    "SpecCode": "23247",
+    "CommonName": "Anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophius piscatorius",
+    "SpecCode": "716",
+    "CommonName": "Almindelig Havtaske",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophius vaillanti",
+    "SpecCode": "4988",
+    "CommonName": "Baudroie africaine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophius vomerinus",
+    "SpecCode": "10256",
+    "CommonName": "Baudroie diable",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

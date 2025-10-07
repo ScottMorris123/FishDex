@@ -1,0 +1,12 @@
+{
+  "Family": "Bathysauridae",
+  "Order": "Aulopiformes",
+  "Common": "Deepsea lizardfishes",
+  "Genera": [
+    {
+      "Genus": "Bathysaurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bathysauridae/bathysaurus.json"
+    }
+  ]
+}

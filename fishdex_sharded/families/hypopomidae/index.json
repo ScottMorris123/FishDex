@@ -1,0 +1,52 @@
+{
+  "Family": "Hypopomidae",
+  "Order": "Gymnotiformes",
+  "Common": "Bluntnose knifefishes",
+  "Genera": [
+    {
+      "Genus": "Akawaio",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hypopomidae/akawaio.json"
+    },
+    {
+      "Genus": "Brachyhypopomus",
+      "SpeciesCount": 29,
+      "genus_path": "genera/hypopomidae/brachyhypopomus.json"
+    },
+    {
+      "Genus": "Hypopomus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hypopomidae/hypopomus.json"
+    },
+    {
+      "Genus": "Hypopygus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/hypopomidae/hypopygus.json"
+    },
+    {
+      "Genus": "Microsternarchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/hypopomidae/microsternarchus.json"
+    },
+    {
+      "Genus": "Procerusternarchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hypopomidae/procerusternarchus.json"
+    },
+    {
+      "Genus": "Racenisia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hypopomidae/racenisia.json"
+    },
+    {
+      "Genus": "Steatogenys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/hypopomidae/steatogenys.json"
+    },
+    {
+      "Genus": "Stegostenopos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hypopomidae/stegostenopos.json"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Phenacoscorpius adenensis",
+    "SpecCode": "25849",
+    "CommonName": "Toothed no-line scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacoscorpius eschmeyeri",
+    "SpecCode": "58830",
+    "CommonName": "埃氏伪大眼鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacoscorpius longicaudalis",
+    "SpecCode": "70229",
+    "CommonName": "Australian no-line scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacoscorpius longilineatus",
+    "SpecCode": "66748",
+    "CommonName": "Southern no-line scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacoscorpius longirostris",
+    "SpecCode": "65164",
+    "CommonName": "Longsnout No-line Scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacoscorpius mccoskeri",
+    "SpecCode": "69182",
+    "CommonName": "McCosker's no-line scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacoscorpius megalops",
+    "SpecCode": "46985",
+    "CommonName": "Noline scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacoscorpius nebris",
+    "SpecCode": "12454",
+    "CommonName": "Short-tube scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Labrisomus conditus",
+    "SpecCode": "64873",
+    "CommonName": "Masquerader hairy blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus cricota",
+    "SpecCode": "59789",
+    "CommonName": "Amborê",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus fernandezianus",
+    "SpecCode": "55258",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus jenkinsi",
+    "SpecCode": "46661",
+    "CommonName": "Jenkins' blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus multiporosus",
+    "SpecCode": "8295",
+    "CommonName": "Blenia porosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus nuchipinnis",
+    "SpecCode": "3735",
+    "CommonName": "Alcabroz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus philippii",
+    "SpecCode": "55259",
+    "CommonName": "Chalapo clinid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus pomaspilus",
+    "SpecCode": "60826",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus socorroensis",
+    "SpecCode": "54353",
+    "CommonName": "Misspelled blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus wigginsi",
+    "SpecCode": "54354",
+    "CommonName": "Baja blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labrisomus xanti",
+    "SpecCode": "8297",
+    "CommonName": "Blenia bocona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

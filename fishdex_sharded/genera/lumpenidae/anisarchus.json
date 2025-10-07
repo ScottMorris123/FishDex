@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Anisarchus macrops",
+    "SpecCode": "23774",
+    "CommonName": "Medamaginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anisarchus medius",
+    "SpecCode": "3789",
+    "CommonName": "Ilniy lyumpen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

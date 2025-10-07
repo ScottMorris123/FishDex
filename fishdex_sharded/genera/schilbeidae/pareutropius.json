@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pareutropius buffei",
+    "SpecCode": "9363",
+    "CommonName": "Asan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareutropius debauwi",
+    "SpecCode": "9364",
+    "CommonName": "African glass catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareutropius longifilis",
+    "SpecCode": "9365",
+    "CommonName": "Dande",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareutropius mandevillei",
+    "SpecCode": "9366",
+    "CommonName": "Pikkukuultomonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

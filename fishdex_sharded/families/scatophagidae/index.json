@@ -1,0 +1,17 @@
+{
+  "Family": "Scatophagidae",
+  "Order": "Acanthuriformes",
+  "Common": "Scats",
+  "Genera": [
+    {
+      "Genus": "Scatophagus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scatophagidae/scatophagus.json"
+    },
+    {
+      "Genus": "Selenotoca",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scatophagidae/selenotoca.json"
+    }
+  ]
+}

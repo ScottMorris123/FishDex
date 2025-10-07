@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Hirundichthys affinis",
+    "SpecCode": "7457",
+    "CommonName": "Arangola",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys albimaculatus",
+    "SpecCode": "13715",
+    "CommonName": "Exocet à tache blanche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys coromandelensis",
+    "SpecCode": "14292",
+    "CommonName": "Coromandel flying fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys ilma",
+    "SpecCode": "60698",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys indicus",
+    "SpecCode": "67585",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys marginatus",
+    "SpecCode": "13693",
+    "CommonName": "Banded flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys oxycephalus",
+    "SpecCode": "1034",
+    "CommonName": "Benet flyvefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys rondeletii",
+    "SpecCode": "1035",
+    "CommonName": "Ancilleddu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys rufipinnis",
+    "SpecCode": "67994",
+    "CommonName": "Redfin flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys socotranus",
+    "SpecCode": "60693",
+    "CommonName": "也門文鰩魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys speculiger",
+    "SpecCode": "1036",
+    "CommonName": "Black-finned flying-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hirundichthys volador",
+    "SpecCode": "67993",
+    "CommonName": "Atlantic blackwing flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

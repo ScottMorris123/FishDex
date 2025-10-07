@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Sargochromis carlottae",
+    "SpecCode": "5364",
+    "CommonName": "Imbuma",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargochromis codringtonii",
+    "SpecCode": "5361",
+    "CommonName": "Green dream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargochromis coulteri",
+    "SpecCode": "6899",
+    "CommonName": "Cunene happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargochromis giardi",
+    "SpecCode": "5363",
+    "CommonName": "Ligroos happie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargochromis greenwoodi",
+    "SpecCode": "6901",
+    "CommonName": "Greenwood se happie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargochromis mellandi",
+    "SpecCode": "6904",
+    "CommonName": "Green bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargochromis mortimeri",
+    "SpecCode": "6905",
+    "CommonName": "Mortimer se happie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargochromis thysi",
+    "SpecCode": "6909",
+    "CommonName": "齊氏鮨麗魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

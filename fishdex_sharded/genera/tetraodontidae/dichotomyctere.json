@@ -1,0 +1,59 @@
+[
+  {
+    "ScientificName": "Dichotomyctere erythrotaenia",
+    "SpecCode": "25176",
+    "CommonName": "Red-striped toadfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dichotomyctere fluviatilis",
+    "SpecCode": "11270",
+    "CommonName": "Buntal-gigi hijau",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dichotomyctere kretamensis",
+    "SpecCode": "25178",
+    "CommonName": "Valkopilkkupallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dichotomyctere nigroviridis",
+    "SpecCode": "7763",
+    "CommonName": "Buntal-gigi kupang",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dichotomyctere ocellatus",
+    "SpecCode": "25175",
+    "CommonName": "Eyespot pufferfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dichotomyctere sabahensis",
+    "SpecCode": "25180",
+    "CommonName": "沙巴魨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

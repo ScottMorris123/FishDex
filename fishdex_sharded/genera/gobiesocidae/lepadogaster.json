@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lepadogaster candolii",
+    "SpecCode": "640",
+    "CommonName": "Aixafa-roques",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadogaster lepadogaster",
+    "SpecCode": "643",
+    "CommonName": "Adriatisk dobbeltsuger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadogaster purpurea",
+    "SpecCode": "16746",
+    "CommonName": "Cornish sucker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

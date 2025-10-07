@@ -1,0 +1,64 @@
+[
+  {
+    "ScientificName": "Osteomugil cunnesius",
+    "SpecCode": "4700",
+    "CommonName": "Anding",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteomugil engeli",
+    "SpecCode": "5658",
+    "CommonName": "Anae",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteomugil formosae",
+    "SpecCode": "53897",
+    "CommonName": "Cá Đối Đài loan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteomugil perusii",
+    "SpecCode": "53923",
+    "CommonName": "Longfinned mullet",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteomugil robustus",
+    "SpecCode": "7864",
+    "CommonName": "Jebojebo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osteomugil speigleri",
+    "SpecCode": "8320",
+    "CommonName": "Agwas",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

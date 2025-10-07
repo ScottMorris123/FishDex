@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Platygobiopsis akihito",
+    "SpecCode": "12761",
+    "CommonName": "Imperial goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platygobiopsis dispar",
+    "SpecCode": "64816",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platygobiopsis hadiatyae",
+    "SpecCode": "69212",
+    "CommonName": "Renny's flat goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platygobiopsis tansei",
+    "SpecCode": "63766",
+    "CommonName": "Beta-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

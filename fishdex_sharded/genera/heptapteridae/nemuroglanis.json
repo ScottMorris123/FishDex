@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Nemuroglanis furcatus",
+    "SpecCode": "65991",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemuroglanis lanceolatus",
+    "SpecCode": "48394",
+    "CommonName": "尖头线油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemuroglanis mariai",
+    "SpecCode": "47800",
+    "CommonName": "馬氏鼬鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemuroglanis panamensis",
+    "SpecCode": "47804",
+    "CommonName": "巴拿馬鼬鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemuroglanis pauciradiatus",
+    "SpecCode": "57672",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

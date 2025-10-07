@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pseudomonacanthus elongatus",
+    "SpecCode": "11682",
+    "CommonName": "Elongate leather-jacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomonacanthus macrurus",
+    "SpecCode": "10598",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomonacanthus peroni",
+    "SpecCode": "10553",
+    "CommonName": "Brown-spotted leather-jacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomonacanthus tweediei",
+    "SpecCode": "70484",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "ScientificName": "Cirrhinus cirrhosus",
+    "SpecCode": "4494",
+    "CommonName": "Arju",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhinus inornatus",
+    "SpecCode": "55273",
+    "CommonName": "Kaame tsirriin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhinus jullieni",
+    "SpecCode": "27148",
+    "CommonName": "Cá linh ong",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhinus macrops",
+    "SpecCode": "13161",
+    "CommonName": "Godavari tsirriin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhinus microlepis",
+    "SpecCode": "27149",
+    "CommonName": "Kralang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhinus molitorella",
+    "SpecCode": "49051",
+    "CommonName": "Asiatisk mudderkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhinus mrigala",
+    "SpecCode": "66743",
+    "CommonName": "Mirka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhinus reba",
+    "SpecCode": "65229",
+    "CommonName": "Bata",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhinus rubirostris",
+    "SpecCode": "55310",
+    "CommonName": "Niya gwoh nadee",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

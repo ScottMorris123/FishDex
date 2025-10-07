@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Chilomycterus antennatus",
+    "SpecCode": "4299",
+    "CommonName": "Baiacu pintado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chilomycterus antillarum",
+    "SpecCode": "4300",
+    "CommonName": "Baiacu-de-espinho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chilomycterus mauretanicus",
+    "SpecCode": "5070",
+    "CommonName": "Baiacú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chilomycterus reticulatus",
+    "SpecCode": "10206",
+    "CommonName": "Baiacu-de-espinho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chilomycterus schoepfii",
+    "SpecCode": "6407",
+    "CommonName": "Baiacu-de-espinho-listrado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chilomycterus spinosus",
+    "SpecCode": "57956",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

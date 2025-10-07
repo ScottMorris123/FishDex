@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Hexanematichthys henni",
+    "SpecCode": "60697",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hexanematichthys sagor",
+    "SpecCode": "1281",
+    "CommonName": "Babukan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

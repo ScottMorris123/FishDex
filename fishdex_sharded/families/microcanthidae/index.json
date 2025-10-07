@@ -1,0 +1,27 @@
+{
+  "Family": "Microcanthidae",
+  "Order": "Centrarchiformes",
+  "Common": "Stripeys",
+  "Genera": [
+    {
+      "Genus": "Atypichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/microcanthidae/atypichthys.json"
+    },
+    {
+      "Genus": "Microcanthus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/microcanthidae/microcanthus.json"
+    },
+    {
+      "Genus": "Neatypus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/microcanthidae/neatypus.json"
+    },
+    {
+      "Genus": "Tilodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/microcanthidae/tilodon.json"
+    }
+  ]
+}

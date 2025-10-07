@@ -1,0 +1,42 @@
+{
+  "Family": "Ostraciidae",
+  "Order": "Tetraodontiformes",
+  "Common": "Boxfishes",
+  "Genera": [
+    {
+      "Genus": "Acanthostracion",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ostraciidae/acanthostracion.json"
+    },
+    {
+      "Genus": "Lactophrys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ostraciidae/lactophrys.json"
+    },
+    {
+      "Genus": "Lactoria",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ostraciidae/lactoria.json"
+    },
+    {
+      "Genus": "Ostracion",
+      "SpeciesCount": 8,
+      "genus_path": "genera/ostraciidae/ostracion.json"
+    },
+    {
+      "Genus": "Paracanthostracion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ostraciidae/paracanthostracion.json"
+    },
+    {
+      "Genus": "Rhynchostracion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ostraciidae/rhynchostracion.json"
+    },
+    {
+      "Genus": "Tetrosomus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ostraciidae/tetrosomus.json"
+    }
+  ]
+}

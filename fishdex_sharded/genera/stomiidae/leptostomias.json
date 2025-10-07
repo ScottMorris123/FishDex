@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Leptostomias analis",
+    "SpecCode": "58243",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias bermudensis",
+    "SpecCode": "58248",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias bilobatus",
+    "SpecCode": "16505",
+    "CommonName": "双叶纤巨口鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias gladiator",
+    "SpecCode": "11769",
+    "CommonName": "Scaleless dragonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias gracilis",
+    "SpecCode": "10158",
+    "CommonName": "纖巨口魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias haplocaulus",
+    "SpecCode": "11770",
+    "CommonName": "单茎纤巨口鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias leptobolus",
+    "SpecCode": "27415",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias longibarba",
+    "SpecCode": "11771",
+    "CommonName": "Langdraad draakvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias macronema",
+    "SpecCode": "7396",
+    "CommonName": "Long-threaded dragon fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias macropogon",
+    "SpecCode": "61153",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias multifilis",
+    "SpecCode": "22852",
+    "CommonName": "Yari-hoshi-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptostomias robustus",
+    "SpecCode": "22855",
+    "CommonName": "Fude-hoshi-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

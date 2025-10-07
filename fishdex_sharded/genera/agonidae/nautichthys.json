@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Nautichthys oculofasciatus",
+    "SpecCode": "4125",
+    "CommonName": "Ameerika purihärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nautichthys pribilovius",
+    "SpecCode": "4126",
+    "CommonName": "Eyeshade sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nautichthys robustus",
+    "SpecCode": "4127",
+    "CommonName": "Lühiuim-purihärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

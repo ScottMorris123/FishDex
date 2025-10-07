@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Opsaridium boweni",
+    "SpecCode": "60646",
+    "CommonName": "Boweni norjasdaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium engrauloides",
+    "SpecCode": "11604",
+    "CommonName": "Anšoovis-norjasdaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium leleupi",
+    "SpecCode": "11605",
+    "CommonName": "Leleupi norjasdaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium loveridgii",
+    "SpecCode": "11606",
+    "CommonName": "Pstruhovec Loveridgův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium maculicauda",
+    "SpecCode": "11607",
+    "CommonName": "Pstruhovec skvrnoocasý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium microcephalum",
+    "SpecCode": "5419",
+    "CommonName": "Lake trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium microlepis",
+    "SpecCode": "5418",
+    "CommonName": "Lake salmon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium peringueyi",
+    "SpecCode": "61408",
+    "CommonName": "Banded minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium splendens",
+    "SpecCode": "50854",
+    "CommonName": "Mulanga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium tweddleorum",
+    "SpecCode": "50198",
+    "CommonName": "Dwarf sanjika",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium ubangiense",
+    "SpecCode": "11608",
+    "CommonName": "Oubangui norjasdaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsaridium zambezense",
+    "SpecCode": "11609",
+    "CommonName": "Balkghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

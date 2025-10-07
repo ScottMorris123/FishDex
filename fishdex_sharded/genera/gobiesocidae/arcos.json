@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Arcos decoris",
+    "SpecCode": "46469",
+    "CommonName": "Elegant clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arcos erythrops",
+    "SpecCode": "46470",
+    "CommonName": "Chupaiedra de cantil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arcos nudus",
+    "SpecCode": "16663",
+    "CommonName": "Chupapiedra acojinada",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arcos poecilophthalmos",
+    "SpecCode": "25544",
+    "CommonName": "Galapagos clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arcos rhodospilus",
+    "SpecCode": "46471",
+    "CommonName": "Pejesapo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

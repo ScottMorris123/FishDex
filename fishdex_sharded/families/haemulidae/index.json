@@ -1,0 +1,112 @@
+{
+  "Family": "Haemulidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Grunts",
+  "Genera": [
+    {
+      "Genus": "Anisotremus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/haemulidae/anisotremus.json"
+    },
+    {
+      "Genus": "Boridia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/haemulidae/boridia.json"
+    },
+    {
+      "Genus": "Brachydeuterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/haemulidae/brachydeuterus.json"
+    },
+    {
+      "Genus": "Brachygenys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/haemulidae/brachygenys.json"
+    },
+    {
+      "Genus": "Conodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/haemulidae/conodon.json"
+    },
+    {
+      "Genus": "Diagramma",
+      "SpeciesCount": 4,
+      "genus_path": "genera/haemulidae/diagramma.json"
+    },
+    {
+      "Genus": "Emmelichthyops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/haemulidae/emmelichthyops.json"
+    },
+    {
+      "Genus": "Genyatremus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/haemulidae/genyatremus.json"
+    },
+    {
+      "Genus": "Haemulon",
+      "SpeciesCount": 21,
+      "genus_path": "genera/haemulidae/haemulon.json"
+    },
+    {
+      "Genus": "Haemulopsis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/haemulidae/haemulopsis.json"
+    },
+    {
+      "Genus": "Isacia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/haemulidae/isacia.json"
+    },
+    {
+      "Genus": "Microlepidotus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/haemulidae/microlepidotus.json"
+    },
+    {
+      "Genus": "Orthopristis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/haemulidae/orthopristis.json"
+    },
+    {
+      "Genus": "Parakuhlia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/haemulidae/parakuhlia.json"
+    },
+    {
+      "Genus": "Paranisotremus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/haemulidae/paranisotremus.json"
+    },
+    {
+      "Genus": "Parapristipoma",
+      "SpeciesCount": 4,
+      "genus_path": "genera/haemulidae/parapristipoma.json"
+    },
+    {
+      "Genus": "Plectorhinchus",
+      "SpeciesCount": 31,
+      "genus_path": "genera/haemulidae/plectorhinchus.json"
+    },
+    {
+      "Genus": "Pomadasys",
+      "SpeciesCount": 29,
+      "genus_path": "genera/haemulidae/pomadasys.json"
+    },
+    {
+      "Genus": "Rhencus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/haemulidae/rhencus.json"
+    },
+    {
+      "Genus": "Rhonciscus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/haemulidae/rhonciscus.json"
+    },
+    {
+      "Genus": "Xenichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/haemulidae/xenichthys.json"
+    }
+  ]
+}

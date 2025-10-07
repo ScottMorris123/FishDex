@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Hypopygus benoneae",
+    "SpecCode": "67130",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypopygus hoedemani",
+    "SpecCode": "66341",
+    "CommonName": "Hoedeman's Hypopygus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypopygus isbruckeri",
+    "SpecCode": "66342",
+    "CommonName": "Isbrücker's Hypopygus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypopygus lepturus",
+    "SpecCode": "28035",
+    "CommonName": "Alapo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypopygus minissimus",
+    "SpecCode": "66343",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypopygus neblinae",
+    "SpecCode": "47924",
+    "CommonName": "尼布利下肾电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypopygus nijsseni",
+    "SpecCode": "66344",
+    "CommonName": "Nijssen's Hypopygus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypopygus ortegai",
+    "SpecCode": "66345",
+    "CommonName": "Ortega's Hypopygus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypopygus varii",
+    "SpecCode": "69998",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

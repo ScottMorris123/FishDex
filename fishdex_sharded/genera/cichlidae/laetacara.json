@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Laetacara araguaiae",
+    "SpecCode": "64940",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laetacara curviceps",
+    "SpecCode": "12262",
+    "CommonName": "Akara cetkowana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laetacara dorsigera",
+    "SpecCode": "12264",
+    "CommonName": "Acará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laetacara flamannellus",
+    "SpecCode": "66945",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laetacara flavilabris",
+    "SpecCode": "26730",
+    "CommonName": "Bujurqui",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laetacara fulvipinnis",
+    "SpecCode": "63488",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laetacara thayeri",
+    "SpecCode": "26728",
+    "CommonName": "Gelblippen-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

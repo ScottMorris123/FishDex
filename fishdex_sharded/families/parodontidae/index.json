@@ -1,0 +1,22 @@
+{
+  "Family": "Parodontidae",
+  "Order": "Characiformes",
+  "Common": "Scrapetooths",
+  "Genera": [
+    {
+      "Genus": "Apareiodon",
+      "SpeciesCount": 15,
+      "genus_path": "genera/parodontidae/apareiodon.json"
+    },
+    {
+      "Genus": "Parodon",
+      "SpeciesCount": 14,
+      "genus_path": "genera/parodontidae/parodon.json"
+    },
+    {
+      "Genus": "Saccodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/parodontidae/saccodon.json"
+    }
+  ]
+}

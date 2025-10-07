@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Brachysomophis atlanticus",
+    "SpecCode": "9080",
+    "CommonName": "Atlandi oherdangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachysomophis cirrocheilos",
+    "SpecCode": "12886",
+    "CommonName": "Hadař stočený",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachysomophis crocodilinus",
+    "SpecCode": "12887",
+    "CommonName": "Ati'ati",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachysomophis henshawi",
+    "SpecCode": "59559",
+    "CommonName": "Crocodile snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachysomophis longipinnis",
+    "SpecCode": "59581",
+    "CommonName": "Pikkuim-oherdangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachysomophis porphyreus",
+    "SpecCode": "22613",
+    "CommonName": "Hadař modravý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachysomophis umbonis",
+    "SpecCode": "59530",
+    "CommonName": "Punnpõsk-oherdangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

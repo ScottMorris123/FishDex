@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Brevitrygon heterura",
+    "SpecCode": "68226",
+    "CommonName": "Dwarf whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brevitrygon imbricata",
+    "SpecCode": "13150",
+    "CommonName": "Bengal whipray",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brevitrygon javaensis",
+    "SpecCode": "68228",
+    "CommonName": "Javan whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brevitrygon manjajiae",
+    "SpecCode": "70507",
+    "CommonName": "Sandwich whipray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brevitrygon walga",
+    "SpecCode": "15484",
+    "CommonName": "Bengal whipray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

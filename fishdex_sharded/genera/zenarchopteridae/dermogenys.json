@@ -1,0 +1,125 @@
+[
+  {
+    "ScientificName": "Dermogenys bispina",
+    "SpecCode": "61565",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys brachynotopterus",
+    "SpecCode": "25025",
+    "CommonName": "Gangetic halfbeak",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys bruneiensis",
+    "SpecCode": "61567",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys burmanica",
+    "SpecCode": "66069",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys collettei",
+    "SpecCode": "61568",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys montana",
+    "SpecCode": "23405",
+    "CommonName": "Puropainijakala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys orientalis",
+    "SpecCode": "23406",
+    "CommonName": "Ruskopainijakala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys palawanensis",
+    "SpecCode": "59854",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys pusilla",
+    "SpecCode": "11298",
+    "CommonName": "Bryderhalvnæb",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys robertsi",
+    "SpecCode": "59853",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys siamensis",
+    "SpecCode": "60230",
+    "CommonName": "Siaminpainijakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys sumatrana",
+    "SpecCode": "23407",
+    "CommonName": "Sumatranpainijakala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermogenys vogti",
+    "SpecCode": "23408",
+    "CommonName": "伏氏皮頦鱵",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

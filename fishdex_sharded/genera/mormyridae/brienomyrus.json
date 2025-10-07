@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Brienomyrus adustus",
+    "SpecCode": "10826",
+    "CommonName": "Rypoun temný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brienomyrus brachyistius",
+    "SpecCode": "5208",
+    "CommonName": "Lühiuim-tölpkoon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brienomyrus longianalis",
+    "SpecCode": "5209",
+    "CommonName": "Mpanda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

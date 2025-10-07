@@ -1,0 +1,235 @@
+[
+  {
+    "ScientificName": "Oxyurichthys auchenolepis",
+    "SpecCode": "59250",
+    "CommonName": "Belukor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys chinensis",
+    "SpecCode": "68800",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys cornutus",
+    "SpecCode": "61027",
+    "CommonName": "Horned tentacle goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys guibei",
+    "SpecCode": "9977",
+    "CommonName": "盖氏沟鰕虎鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys heisei",
+    "SpecCode": "51697",
+    "CommonName": "Ribbon goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys keiensis",
+    "SpecCode": "9955",
+    "CommonName": "Kei goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys lemayi",
+    "SpecCode": "8029",
+    "CommonName": "Galon-dikkop",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys limophilus",
+    "SpecCode": "68801",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys lonchotus",
+    "SpecCode": "51700",
+    "CommonName": "Speartail mudgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys microlepis",
+    "SpecCode": "9978",
+    "CommonName": "Beloso",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys mindanensis",
+    "SpecCode": "59780",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys notonema",
+    "SpecCode": "61306",
+    "CommonName": "Mindanao sleeper-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys omanensis",
+    "SpecCode": "70108",
+    "CommonName": "Oman's eyebrow goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys ophthalmonema",
+    "SpecCode": "10298",
+    "CommonName": "Belodok kening",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys papuensis",
+    "SpecCode": "8030",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys paulae",
+    "SpecCode": "51698",
+    "CommonName": "Jester goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys petersii",
+    "SpecCode": "67635",
+    "CommonName": "Peter's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys rapa",
+    "SpecCode": "68802",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys stigmalophius",
+    "SpecCode": "3867",
+    "CommonName": "Gobio aleta manchada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys takagi",
+    "SpecCode": "51699",
+    "CommonName": "高木氏沟鰕虎鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys tentacularis",
+    "SpecCode": "9979",
+    "CommonName": "Cá Bống van mắt",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys uronema",
+    "SpecCode": "59259",
+    "CommonName": "Longtail tentacle goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys viridis",
+    "SpecCode": "59872",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys visayanus",
+    "SpecCode": "8267",
+    "CommonName": "Belodok Filipina",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyurichthys zeta",
+    "SpecCode": "68803",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

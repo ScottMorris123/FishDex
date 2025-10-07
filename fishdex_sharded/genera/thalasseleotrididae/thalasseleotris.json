@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Thalasseleotris adela",
+    "SpecCode": "52435",
+    "CommonName": "Cryptic sea gudgeon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thalasseleotris iota",
+    "SpecCode": "62920",
+    "CommonName": "New Zealand pygmy sleeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

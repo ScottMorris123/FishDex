@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Monostichodus elongatus",
+    "SpecCode": "11220",
+    "CommonName": "Gaboni rääbissalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monostichodus lootensi",
+    "SpecCode": "11221",
+    "CommonName": "Lootensi rääbissalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monostichodus mesmaekersi",
+    "SpecCode": "11222",
+    "CommonName": "Kongo rääbissalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

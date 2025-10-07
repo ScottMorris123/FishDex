@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ambophthalmos angustus",
+    "SpecCode": "47425",
+    "CommonName": "Pale toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambophthalmos eurystigmatephoros",
+    "SpecCode": "58216",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ambophthalmos magnicirrus",
+    "SpecCode": "58288",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

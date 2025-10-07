@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Evermannichthys bicolor",
+    "SpecCode": "59335",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evermannichthys convictor",
+    "SpecCode": "57940",
+    "CommonName": "Tenant goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evermannichthys metzelaari",
+    "SpecCode": "3852",
+    "CommonName": "Góbido de esponja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evermannichthys silus",
+    "SpecCode": "57939",
+    "CommonName": "Pugnose goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evermannichthys spongicola",
+    "SpecCode": "62534",
+    "CommonName": "Gobio esponjero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Hologymnosus annulatus",
+    "SpecCode": "5637",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hologymnosus doliatus",
+    "SpecCode": "5638",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hologymnosus longipes",
+    "SpecCode": "13059",
+    "CommonName": "Pale slender wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hologymnosus rhodonotus",
+    "SpecCode": "7581",
+    "CommonName": "Po'ou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

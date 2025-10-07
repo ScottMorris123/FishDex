@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Arripis georgiana",
+    "SpecCode": "392",
+    "CommonName": "Aripinka",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arripis trutta",
+    "SpecCode": "5048",
+    "CommonName": "Ahuriri",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arripis truttacea",
+    "SpecCode": "14606",
+    "CommonName": "Australian salmon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arripis xylabion",
+    "SpecCode": "58685",
+    "CommonName": "Giant kahawai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

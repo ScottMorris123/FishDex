@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Phyllopteryx dewysea",
+    "SpecCode": "68465",
+    "CommonName": "Ruby seadragon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phyllopteryx taeniolatus",
+    "SpecCode": "14267",
+    "CommonName": "Avstralska algovnica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

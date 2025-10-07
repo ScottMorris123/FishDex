@@ -1,0 +1,22 @@
+{
+  "Family": "Iguanodectidae",
+  "Order": "Characiformes",
+  "Common": "\"Lizard bite tetras\"",
+  "Genera": [
+    {
+      "Genus": "Bryconops",
+      "SpeciesCount": 21,
+      "genus_path": "genera/iguanodectidae/bryconops.json"
+    },
+    {
+      "Genus": "Iguanodectes",
+      "SpeciesCount": 8,
+      "genus_path": "genera/iguanodectidae/iguanodectes.json"
+    },
+    {
+      "Genus": "Piabucus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/iguanodectidae/piabucus.json"
+    }
+  ]
+}

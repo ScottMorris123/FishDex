@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Acreichthys hajam",
+    "SpecCode": "24250",
+    "CommonName": "Pariutet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acreichthys radiatus",
+    "SpecCode": "7974",
+    "CommonName": "Flower-coral filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acreichthys tomentosus",
+    "SpecCode": "7849",
+    "CommonName": "Banded leather-jacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

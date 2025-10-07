@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pezichthys amplispinus",
+    "SpecCode": "65092",
+    "CommonName": "Cockatoo Handfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pezichthys compressus",
+    "SpecCode": "65093",
+    "CommonName": "Narrowbody Handfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pezichthys eltanini",
+    "SpecCode": "65253",
+    "CommonName": "Eltanin handfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pezichthys macropinnis",
+    "SpecCode": "65254",
+    "CommonName": "Longfin handfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pezichthys nigrocilium",
+    "SpecCode": "65255",
+    "CommonName": "Eyelash handfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

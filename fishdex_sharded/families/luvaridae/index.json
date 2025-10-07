@@ -1,0 +1,12 @@
+{
+  "Family": "Luvaridae",
+  "Order": "Acanthuriformes",
+  "Common": "Louvar",
+  "Genera": [
+    {
+      "Genus": "Luvarus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/luvaridae/luvarus.json"
+    }
+  ]
+}

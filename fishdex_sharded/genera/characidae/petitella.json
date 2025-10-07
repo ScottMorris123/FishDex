@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Petitella bleheri",
+    "SpecCode": "12365",
+    "CommonName": "Blehers rødnæse",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petitella georgiae",
+    "SpecCode": "10695",
+    "CommonName": "Czerwonoglówka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petitella rhodostoma",
+    "SpecCode": "12370",
+    "CommonName": "Cara de sangue",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

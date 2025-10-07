@@ -1,0 +1,24 @@
+[
+  {
+    "ScientificName": "Megalops atlanticus",
+    "SpecCode": "1079",
+    "CommonName": "Abalitsa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megalops cyprinoides",
+    "SpecCode": "227",
+    "CommonName": "Abulong",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

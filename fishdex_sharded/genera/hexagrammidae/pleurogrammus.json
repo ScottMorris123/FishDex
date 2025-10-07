@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pleurogrammus azonus",
+    "SpecCode": "510",
+    "CommonName": "Arabesque greenling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurogrammus monopterygius",
+    "SpecCode": "4037",
+    "CommonName": "Atka mackerel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

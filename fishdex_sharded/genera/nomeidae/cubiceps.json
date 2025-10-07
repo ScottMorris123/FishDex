@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Cubiceps baxteri",
+    "SpecCode": "10197",
+    "CommonName": "Black cigarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubiceps caeruleus",
+    "SpecCode": "8397",
+    "CommonName": "Blå tykhovedfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubiceps capensis",
+    "SpecCode": "9888",
+    "CommonName": "Cape cigarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubiceps gracilis",
+    "SpecCode": "1710",
+    "CommonName": "Cap escatós",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubiceps kotlyari",
+    "SpecCode": "15308",
+    "CommonName": "Kotlyar's cigarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubiceps macrolepis",
+    "SpecCode": "51639",
+    "CommonName": "Krupnocheshuynyy kuboglav",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubiceps nanus",
+    "SpecCode": "51638",
+    "CommonName": "Dwarf cigarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubiceps paradoxus",
+    "SpecCode": "3919",
+    "CommonName": "Derivante colón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubiceps pauciradiatus",
+    "SpecCode": "5049",
+    "CommonName": "Bigeye cigarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubiceps whiteleggii",
+    "SpecCode": "8028",
+    "CommonName": "Bouzu-konnyaku",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

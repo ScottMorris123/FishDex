@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pherallodus indicus",
+    "SpecCode": "24146",
+    "CommonName": "Hoso-uba-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pherallodus smithi",
+    "SpecCode": "16847",
+    "CommonName": "Mini-clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

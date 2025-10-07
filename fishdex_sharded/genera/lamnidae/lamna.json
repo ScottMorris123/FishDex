@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lamna ditropis",
+    "SpecCode": "755",
+    "CommonName": "Atlantischer Heringshai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamna nasus",
+    "SpecCode": "88",
+    "CommonName": "Aatlanticheskaya seldevaya akula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

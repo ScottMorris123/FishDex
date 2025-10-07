@@ -1,0 +1,12 @@
+{
+  "Family": "Cryptacanthodidae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "Wrymouths",
+  "Genera": [
+    {
+      "Genus": "Cryptacanthodes",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cryptacanthodidae/cryptacanthodes.json"
+    }
+  ]
+}

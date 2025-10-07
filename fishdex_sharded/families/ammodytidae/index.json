@@ -1,0 +1,42 @@
+{
+  "Family": "Ammodytidae",
+  "Order": "Perciformes/Uranoscopoidei",
+  "Common": "Sand lances",
+  "Genera": [
+    {
+      "Genus": "Ammodytes",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ammodytidae/ammodytes.json"
+    },
+    {
+      "Genus": "Ammodytoides",
+      "SpeciesCount": 10,
+      "genus_path": "genera/ammodytidae/ammodytoides.json"
+    },
+    {
+      "Genus": "Bleekeria",
+      "SpeciesCount": 8,
+      "genus_path": "genera/ammodytidae/bleekeria.json"
+    },
+    {
+      "Genus": "Gymnammodytes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ammodytidae/gymnammodytes.json"
+    },
+    {
+      "Genus": "Hyperoplus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ammodytidae/hyperoplus.json"
+    },
+    {
+      "Genus": "Lepidammodytes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ammodytidae/lepidammodytes.json"
+    },
+    {
+      "Genus": "Protammodytes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ammodytidae/protammodytes.json"
+    }
+  ]
+}

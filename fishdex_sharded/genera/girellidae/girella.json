@@ -1,0 +1,184 @@
+[
+  {
+    "ScientificName": "Girella albostriata",
+    "SpecCode": "55291",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella cyanea",
+    "SpecCode": "12706",
+    "CommonName": "Blue drummer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella elevata",
+    "SpecCode": "51386",
+    "CommonName": "Black bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella fasciata",
+    "SpecCode": "69035",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella feliciana",
+    "SpecCode": "56292",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella fimbriata",
+    "SpecCode": "49303",
+    "CommonName": "Caramel drummer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella freminvillii",
+    "SpecCode": "25439",
+    "CommonName": "Chopa penumbre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella laevifrons",
+    "SpecCode": "57959",
+    "CommonName": "光魢",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella leonina",
+    "SpecCode": "59518",
+    "CommonName": "Kuromejina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella mezina",
+    "SpecCode": "13032",
+    "CommonName": "Okina-mejina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella nebulosa",
+    "SpecCode": "58177",
+    "CommonName": "Māhaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella nigricans",
+    "SpecCode": "3594",
+    "CommonName": "Calicagère bleue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella punctata",
+    "SpecCode": "6537",
+    "CommonName": "Bān jĭ",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella simplex",
+    "SpecCode": "69036",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella simplicidens",
+    "SpecCode": "12229",
+    "CommonName": "Calicagère oeil bleu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella stuebeli",
+    "SpecCode": "22454",
+    "CommonName": "Mouro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella tephraeops",
+    "SpecCode": "59519",
+    "CommonName": "Chad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella tricuspidata",
+    "SpecCode": "8173",
+    "CommonName": "Austraalia girell",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella zebra",
+    "SpecCode": "14604",
+    "CommonName": "Sebragirell",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Girella zonata",
+    "SpecCode": "22456",
+    "CommonName": "Moro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

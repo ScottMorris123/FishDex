@@ -1,0 +1,60 @@
+[
+  {
+    "ScientificName": "Rhabdosargus globiceps",
+    "SpecCode": "449",
+    "CommonName": "capr тупорылый",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdosargus haffara",
+    "SpecCode": "8166",
+    "CommonName": "Gorgofan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdosargus holubi",
+    "SpecCode": "5535",
+    "CommonName": "Cape stumpnose",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdosargus niger",
+    "SpecCode": "67654",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdosargus sarba",
+    "SpecCode": "5368",
+    "CommonName": "Ambatovasena",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdosargus thorpei",
+    "SpecCode": "7936",
+    "CommonName": "Bigeye stumpnose",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

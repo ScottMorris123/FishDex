@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Morwong ephippium",
+    "SpecCode": "12657",
+    "CommonName": "Painted moki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Morwong fuscus",
+    "SpecCode": "47018",
+    "CommonName": "Red morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

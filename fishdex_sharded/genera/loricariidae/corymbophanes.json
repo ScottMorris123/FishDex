@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Corymbophanes ameliae",
+    "SpecCode": "70446",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corymbophanes andersoni",
+    "SpecCode": "48149",
+    "CommonName": "Potaronnivapleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corymbophanes kaiei",
+    "SpecCode": "57850",
+    "CommonName": "Piirtonivapleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

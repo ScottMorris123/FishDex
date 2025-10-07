@@ -1,0 +1,27 @@
+{
+  "Family": "Phallostethidae",
+  "Order": "Atheriniformes",
+  "Common": "Priapiumfishes",
+  "Genera": [
+    {
+      "Genus": "Gulaphallus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/phallostethidae/gulaphallus.json"
+    },
+    {
+      "Genus": "Neostethus",
+      "SpeciesCount": 12,
+      "genus_path": "genera/phallostethidae/neostethus.json"
+    },
+    {
+      "Genus": "Phallostethus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/phallostethidae/phallostethus.json"
+    },
+    {
+      "Genus": "Phenacostethus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/phallostethidae/phenacostethus.json"
+    }
+  ]
+}

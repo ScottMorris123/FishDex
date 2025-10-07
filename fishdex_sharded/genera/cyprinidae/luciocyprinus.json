@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Luciocyprinus langsoni",
+    "SpecCode": "54737",
+    "CommonName": "Langsoni haugkarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciocyprinus striolatus",
+    "SpecCode": "50493",
+    "CommonName": "Parmoun podélnopruhý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

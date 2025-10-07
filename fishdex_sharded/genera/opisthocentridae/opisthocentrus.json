@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Opisthocentrus ocellatus",
+    "SpecCode": "23783",
+    "CommonName": "Gaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthocentrus tenuis",
+    "SpecCode": "23784",
+    "CommonName": "Hanajiro-gaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthocentrus zonope",
+    "SpecCode": "23785",
+    "CommonName": "Okikazunagi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

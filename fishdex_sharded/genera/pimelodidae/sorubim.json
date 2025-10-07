@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Sorubim cuspicaudus",
+    "SpecCode": "58422",
+    "CommonName": "Antioqueno",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sorubim elongatus",
+    "SpecCode": "58423",
+    "CommonName": "Paleta delgada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sorubim lima",
+    "SpecCode": "12144",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sorubim maniradii",
+    "SpecCode": "59981",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sorubim trigonocephalus",
+    "SpecCode": "48578",
+    "CommonName": "Arrowhead shovelnose",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

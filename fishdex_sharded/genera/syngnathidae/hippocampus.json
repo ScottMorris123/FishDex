@@ -1,0 +1,486 @@
+[
+  {
+    "ScientificName": "Hippocampus abdominalis",
+    "SpecCode": "46324",
+    "CommonName": "Big-bellied seahorse",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus algiricus",
+    "SpecCode": "53788",
+    "CommonName": "Fassu guedj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus angustus",
+    "SpecCode": "13100",
+    "CommonName": "Bighead seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus barbouri",
+    "SpecCode": "53789",
+    "CommonName": "Barbour's seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus bargibanti",
+    "SpecCode": "53790",
+    "CommonName": "Bargibant's seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus borboniensis",
+    "SpecCode": "53791",
+    "CommonName": "Réunion seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus breviceps",
+    "SpecCode": "25926",
+    "CommonName": "Knobby seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus camelopardalis",
+    "SpecCode": "7983",
+    "CommonName": "Cheval de mer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus capensis",
+    "SpecCode": "6303",
+    "CommonName": "Cape seahorse",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus casscsio",
+    "SpecCode": "68566",
+    "CommonName": "Beibu Bay seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus colemani",
+    "SpecCode": "61638",
+    "CommonName": "Coleman's pygmy seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus comes",
+    "SpecCode": "53792",
+    "CommonName": "Cá Ngựa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus coronatus",
+    "SpecCode": "23141",
+    "CommonName": "Crowned seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus curvicuspis",
+    "SpecCode": "64769",
+    "CommonName": "Hippocampe épineux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus dahli",
+    "SpecCode": "69948",
+    "CommonName": "Lowcrown seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus debelius",
+    "SpecCode": "64902",
+    "CommonName": "Softcoral seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus denise",
+    "SpecCode": "60329",
+    "CommonName": "Denise's pygmy seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus erectus",
+    "SpecCode": "3283",
+    "CommonName": "Amerikansk jättesjöhäst",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus fisheri",
+    "SpecCode": "53803",
+    "CommonName": "Fisher's seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus fuscus",
+    "SpecCode": "25955",
+    "CommonName": "Chilka seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus guttulatus",
+    "SpecCode": "1802",
+    "CommonName": "Almindelig søhest",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus haema",
+    "SpecCode": "68696",
+    "CommonName": "Haema",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus hippocampus",
+    "SpecCode": "1801",
+    "CommonName": "Beuvetane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus histrix",
+    "SpecCode": "5954",
+    "CommonName": "Cá Ngựa gai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus ingens",
+    "SpecCode": "3284",
+    "CommonName": "Caballito de mar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus japapigu",
+    "SpecCode": "68763",
+    "CommonName": "Hachijo-tatsu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus jayakari",
+    "SpecCode": "53814",
+    "CommonName": "Jayakar's seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus jugumus",
+    "SpecCode": "59700",
+    "CommonName": "Collared seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus kelloggi",
+    "SpecCode": "53815",
+    "CommonName": "Cá ngựa ken lô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus kuda",
+    "SpecCode": "5955",
+    "CommonName": "Buzizi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus lichtensteinii",
+    "SpecCode": "53909",
+    "CommonName": "Lichtenstein's Seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus minotaur",
+    "SpecCode": "53910",
+    "CommonName": "Bullneck seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus mohnikei",
+    "SpecCode": "53911",
+    "CommonName": "Cá ngựa nhật",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus montebelloensis",
+    "SpecCode": "59704",
+    "CommonName": "Monte Bello seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus nalu",
+    "SpecCode": "69401",
+    "CommonName": "African pygmy seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus paradoxus",
+    "SpecCode": "65811",
+    "CommonName": "Paradoxical seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus patagonicus",
+    "SpecCode": "62875",
+    "CommonName": "Patagonian seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus planifrons",
+    "SpecCode": "59701",
+    "CommonName": "False-eye seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus pontohi",
+    "SpecCode": "64800",
+    "CommonName": "Pontoh's pygmy seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus pusillus",
+    "SpecCode": "64770",
+    "CommonName": "Pygmy thorny seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus reidi",
+    "SpecCode": "3285",
+    "CommonName": "Cabailito",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus satomiae",
+    "SpecCode": "64802",
+    "CommonName": "Satomi's pygmy seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus sindonis",
+    "SpecCode": "23138",
+    "CommonName": "Enshûtatsu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus spinosissimus",
+    "SpecCode": "25974",
+    "CommonName": "Cá Ngựa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus subelongatus",
+    "SpecCode": "53914",
+    "CommonName": "Lääneaustraalia merihobuke",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus suezensis",
+    "SpecCode": "66815",
+    "CommonName": "Egyptian seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus trimaculatus",
+    "SpecCode": "22816",
+    "CommonName": "Cá Ngựa chấm",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus tristis",
+    "SpecCode": "70510",
+    "CommonName": "Dull seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus tyro",
+    "SpecCode": "65050",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus waleananus",
+    "SpecCode": "64901",
+    "CommonName": "Walea pygmy seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus whitei",
+    "SpecCode": "22818",
+    "CommonName": "Common sea-horse",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus zebra",
+    "SpecCode": "52379",
+    "CommonName": "Zebra seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippocampus zosterae",
+    "SpecCode": "3286",
+    "CommonName": "Caballito de mar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pseudotylosurus angusticeps",
+    "SpecCode": "51372",
+    "CommonName": "aguja de rio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotylosurus microps",
+    "SpecCode": "51373",
+    "CommonName": "Pez aguja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

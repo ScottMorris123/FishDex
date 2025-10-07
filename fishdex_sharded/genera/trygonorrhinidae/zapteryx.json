@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Zapteryx brevirostris",
+    "SpecCode": "14141",
+    "CommonName": "Guitarra chica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zapteryx exasperata",
+    "SpecCode": "2550",
+    "CommonName": "Banded guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zapteryx xyster",
+    "SpecCode": "52476",
+    "CommonName": "Guitarra bruja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

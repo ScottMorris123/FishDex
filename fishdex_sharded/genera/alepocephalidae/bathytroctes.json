@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Bathytroctes breviceps",
+    "SpecCode": "56583",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes elegans",
+    "SpecCode": "56590",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes inspector",
+    "SpecCode": "56584",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes macrognathus",
+    "SpecCode": "56586",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes macrolepis",
+    "SpecCode": "56587",
+    "CommonName": "Koefoed's smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes michaelsarsi",
+    "SpecCode": "10772",
+    "CommonName": "Michael Sars smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes microlepis",
+    "SpecCode": "10764",
+    "CommonName": "Smallscale smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes oligolepis",
+    "SpecCode": "16457",
+    "CommonName": "寡鱗淵眼魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes pappenheimi",
+    "SpecCode": "56588",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes squamosus",
+    "SpecCode": "15810",
+    "CommonName": "Deepscale slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytroctes zugmayeri",
+    "SpecCode": "56591",
+    "CommonName": "Zugmayer's slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

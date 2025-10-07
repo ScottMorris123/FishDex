@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lepidonectes bimaculatus",
+    "SpecCode": "46616",
+    "CommonName": "Twinspot triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidonectes clarkhubbsi",
+    "SpecCode": "46617",
+    "CommonName": "Signal triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidonectes corallicola",
+    "SpecCode": "25553",
+    "CommonName": "Galapagos triplefin blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

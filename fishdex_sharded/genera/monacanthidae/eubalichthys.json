@@ -1,0 +1,58 @@
+[
+  {
+    "ScientificName": "Eubalichthys bucephalus",
+    "SpecCode": "14535",
+    "CommonName": "Black reef leatherjacket",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eubalichthys caeruleoguttatus",
+    "SpecCode": "10999",
+    "CommonName": "Blue-finned leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eubalichthys cyanoura",
+    "SpecCode": "59665",
+    "CommonName": "Bluetail leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eubalichthys gunnii",
+    "SpecCode": "52447",
+    "CommonName": "Black leatherjacket",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eubalichthys mosaicus",
+    "SpecCode": "14538",
+    "CommonName": "Deep-bodied leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eubalichthys quadrispinis",
+    "SpecCode": "14539",
+    "CommonName": "Fourspine leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

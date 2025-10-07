@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Allocareproctus jordani",
+    "SpecCode": "24122",
+    "CommonName": "Cherry snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allocareproctus kallaion",
+    "SpecCode": "62924",
+    "CommonName": "Combed snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allocareproctus tanix",
+    "SpecCode": "62923",
+    "CommonName": "Peach snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allocareproctus unangas",
+    "SpecCode": "62925",
+    "CommonName": "Goldeneye snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allocareproctus ungak",
+    "SpecCode": "62926",
+    "CommonName": "Whiskered snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

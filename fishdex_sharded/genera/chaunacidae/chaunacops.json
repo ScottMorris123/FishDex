@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Chaunacops coloratus",
+    "SpecCode": "9879",
+    "CommonName": "淵躄魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaunacops melanostomus",
+    "SpecCode": "9875",
+    "CommonName": "Tadpole coffinfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaunacops roseus",
+    "SpecCode": "55702",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaunacops spinosus",
+    "SpecCode": "68872",
+    "CommonName": "Eastern tadpole coffinfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "Family": "Callichthyidae",
+  "Order": "Siluriformes",
+  "Common": "Callichthyid armored catfishes",
+  "Genera": [
+    {
+      "Genus": "Aspidoras",
+      "SpeciesCount": 23,
+      "genus_path": "genera/callichthyidae/aspidoras.json"
+    },
+    {
+      "Genus": "Callichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/callichthyidae/callichthys.json"
+    },
+    {
+      "Genus": "Corydoras",
+      "SpeciesCount": 171,
+      "genus_path": "genera/callichthyidae/corydoras.json"
+    },
+    {
+      "Genus": "Dianema",
+      "SpeciesCount": 2,
+      "genus_path": "genera/callichthyidae/dianema.json"
+    },
+    {
+      "Genus": "Hoplosternum",
+      "SpeciesCount": 3,
+      "genus_path": "genera/callichthyidae/hoplosternum.json"
+    },
+    {
+      "Genus": "Lepthoplosternum",
+      "SpeciesCount": 6,
+      "genus_path": "genera/callichthyidae/lepthoplosternum.json"
+    },
+    {
+      "Genus": "Megalechis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/callichthyidae/megalechis.json"
+    },
+    {
+      "Genus": "Scleromystax",
+      "SpeciesCount": 4,
+      "genus_path": "genera/callichthyidae/scleromystax.json"
+    }
+  ]
+}

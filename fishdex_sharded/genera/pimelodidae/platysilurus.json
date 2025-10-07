@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Platysilurus malarmo",
+    "SpecCode": "48545",
+    "CommonName": "Malarmo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platysilurus mucosus",
+    "SpecCode": "48544",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platysilurus olallae",
+    "SpecCode": "63634",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

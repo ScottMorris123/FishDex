@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Muraenichthys elerae",
+    "SpecCode": "53839",
+    "CommonName": "Elera paelangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenichthys gymnopterus",
+    "SpecCode": "17345",
+    "CommonName": "Hadař batávský",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenichthys philippinensis",
+    "SpecCode": "53844",
+    "CommonName": "Filipiini paelangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenichthys schultzei",
+    "SpecCode": "7290",
+    "CommonName": "Aimed snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenichthys sibogae",
+    "SpecCode": "27350",
+    "CommonName": "Hadař timorský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenichthys thompsoni",
+    "SpecCode": "53836",
+    "CommonName": "Hadař thompsonův",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenichthys velinasalis",
+    "SpecCode": "70515",
+    "CommonName": "Curtain-nose worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Tetrapturus angustirostris",
+    "SpecCode": "3915",
+    "CommonName": "Aguglia imperiale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetrapturus belone",
+    "SpecCode": "1823",
+    "CommonName": "Acura imperiale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetrapturus georgii",
+    "SpecCode": "222",
+    "CommonName": "Espadim-peto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetrapturus pfluegeri",
+    "SpecCode": "220",
+    "CommonName": "Aguja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

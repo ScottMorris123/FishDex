@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Calumia eilperinae",
+    "SpecCode": "65463",
+    "CommonName": "Fartail coraldgudgeon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calumia godeffroyi",
+    "SpecCode": "13765",
+    "CommonName": "Doublespot coralgudgeon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calumia papuensis",
+    "SpecCode": "65464",
+    "CommonName": "Papuan coralgudgeon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calumia profunda",
+    "SpecCode": "27574",
+    "CommonName": "Deepreef coralgudgeon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

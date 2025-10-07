@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ahliesaurus berryi",
+    "SpecCode": "9155",
+    "CommonName": "貝氏阿爾蜥燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ahliesaurus brevis",
+    "SpecCode": "22983",
+    "CommonName": "Fukami-fude-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

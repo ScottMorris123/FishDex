@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Lumpenopsis clitella",
+    "SpecCode": "61639",
+    "CommonName": "Saddled prickleback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lumpenopsis hypochroma",
+    "SpecCode": "3774",
+    "CommonName": "Y-blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lumpenopsis pavlenkoi",
+    "SpecCode": "23786",
+    "CommonName": "Tongariginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lumpenopsis triocellata",
+    "SpecCode": "23787",
+    "CommonName": "Mitsuboshiginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

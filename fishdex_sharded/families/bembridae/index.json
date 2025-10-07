@@ -1,0 +1,32 @@
+{
+  "Family": "Bembridae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Deepwater flatheads",
+  "Genera": [
+    {
+      "Genus": "Bambradon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bembridae/bambradon.json"
+    },
+    {
+      "Genus": "Bembradium",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bembridae/bembradium.json"
+    },
+    {
+      "Genus": "Bembras",
+      "SpeciesCount": 5,
+      "genus_path": "genera/bembridae/bembras.json"
+    },
+    {
+      "Genus": "Brachybembras",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bembridae/brachybembras.json"
+    },
+    {
+      "Genus": "Parabembras",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bembridae/parabembras.json"
+    }
+  ]
+}

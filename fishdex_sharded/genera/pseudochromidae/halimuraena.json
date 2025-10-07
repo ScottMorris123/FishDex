@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Halimuraena hexagonata",
+    "SpecCode": "4423",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halimuraena lepopareia",
+    "SpecCode": "4424",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halimuraena shakai",
+    "SpecCode": "4425",
+    "CommonName": "Zoeloe-slangetjie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "Family": "Citharidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Citharids",
+  "Genera": [
+    {
+      "Genus": "Brachypleura",
+      "SpeciesCount": 1,
+      "genus_path": "genera/citharidae/brachypleura.json"
+    },
+    {
+      "Genus": "Citharoides",
+      "SpeciesCount": 3,
+      "genus_path": "genera/citharidae/citharoides.json"
+    },
+    {
+      "Genus": "Citharus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/citharidae/citharus.json"
+    },
+    {
+      "Genus": "Lepidoblepharon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/citharidae/lepidoblepharon.json"
+    }
+  ]
+}

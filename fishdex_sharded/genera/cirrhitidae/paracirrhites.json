@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Paracirrhites arcatus",
+    "SpecCode": "5835",
+    "CommonName": "Ali-mulial",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracirrhites bicolor",
+    "SpecCode": "60602",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracirrhites forsteri",
+    "SpecCode": "5952",
+    "CommonName": "Basolokiil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracirrhites hemistictus",
+    "SpecCode": "5953",
+    "CommonName": "A'a",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracirrhites nisus",
+    "SpecCode": "56330",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracirrhites xanthus",
+    "SpecCode": "49449",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

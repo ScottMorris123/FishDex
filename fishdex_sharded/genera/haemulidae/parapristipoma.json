@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Parapristipoma humile",
+    "SpecCode": "10196",
+    "CommonName": "Burro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapristipoma macrops",
+    "SpecCode": "60761",
+    "CommonName": "大眼矶鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapristipoma octolineatum",
+    "SpecCode": "8092",
+    "CommonName": "Ajenil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapristipoma trilineatum",
+    "SpecCode": "4584",
+    "CommonName": "Cá Sạo xám",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

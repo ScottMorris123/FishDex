@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pseudotothyris ignota",
+    "SpecCode": "68407",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotothyris janeirensis",
+    "SpecCode": "50475",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotothyris obtusa",
+    "SpecCode": "50477",
+    "CommonName": "Nystyvaajamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Alestopetersius bifasciatus",
+    "SpecCode": "11130",
+    "CommonName": "Juttsaba-möldersalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alestopetersius brichardi",
+    "SpecCode": "11105",
+    "CommonName": "Brichardi möldersalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alestopetersius caudalis",
+    "SpecCode": "11107",
+    "CommonName": "Gelber Kongosalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alestopetersius compressus",
+    "SpecCode": "11108",
+    "CommonName": "Koger-möldersalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alestopetersius conspectus",
+    "SpecCode": "66431",
+    "CommonName": "Kirev möldersalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alestopetersius hilgendorfi",
+    "SpecCode": "11109",
+    "CommonName": "Hilgendorfi möldersalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alestopetersius leopoldianus",
+    "SpecCode": "11110",
+    "CommonName": "Leopoldi möldersalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alestopetersius nigropterus",
+    "SpecCode": "11112",
+    "CommonName": "Mustuim-möldersalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alestopetersius smykalai",
+    "SpecCode": "5244",
+    "CommonName": "Blauer Diamantsalmer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alestopetersius tumbensis",
+    "SpecCode": "11131",
+    "CommonName": "Tumba möldersalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

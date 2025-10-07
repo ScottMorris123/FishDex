@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Spirinchus lanceolatus",
+    "SpecCode": "6557",
+    "CommonName": "Jaapani väikekihvtint",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spirinchus starksi",
+    "SpecCode": "2697",
+    "CommonName": "Amerikanskaya rechnaya koryushka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spirinchus thaleichthys",
+    "SpecCode": "2698",
+    "CommonName": "Éperlan d'hiver",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

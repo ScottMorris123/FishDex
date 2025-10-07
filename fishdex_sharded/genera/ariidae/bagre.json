@@ -1,0 +1,43 @@
+[
+  {
+    "ScientificName": "Bagre bagre",
+    "SpecCode": "958",
+    "CommonName": "Ariaçu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagre marinus",
+    "SpecCode": "959",
+    "CommonName": "Bagre bandeirado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagre panamensis",
+    "SpecCode": "3056",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagre pinnimaculatus",
+    "SpecCode": "13481",
+    "CommonName": "Alguacil",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

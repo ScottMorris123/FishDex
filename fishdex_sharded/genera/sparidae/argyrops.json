@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Argyrops bleekeri",
+    "SpecCode": "8103",
+    "CommonName": "Agu-ot",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrops caeruleops",
+    "SpecCode": "69507",
+    "CommonName": "Bluesnout soldierbream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrops filamentosus",
+    "SpecCode": "4541",
+    "CommonName": "Birbirow",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrops flavops",
+    "SpecCode": "69508",
+    "CommonName": "Yellow-snout soldierbream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrops megalommatus",
+    "SpecCode": "61176",
+    "CommonName": "Red Sea soldierbream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrops notialis",
+    "SpecCode": "69506",
+    "CommonName": "Australian soldierbream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argyrops spinifer",
+    "SpecCode": "442",
+    "CommonName": "Abat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Galeocharax gulo",
+    "SpecCode": "51138",
+    "CommonName": "Cacunda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galeocharax humeralis",
+    "SpecCode": "56692",
+    "CommonName": "Dentudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galeocharax knerii",
+    "SpecCode": "56693",
+    "CommonName": "Dientudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

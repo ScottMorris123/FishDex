@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Atelomycterus baliensis",
+    "SpecCode": "62191",
+    "CommonName": "Bali catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atelomycterus erdmanni",
+    "SpecCode": "67647",
+    "CommonName": "Spotted-belly catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atelomycterus fasciatus",
+    "SpecCode": "54004",
+    "CommonName": "Banded catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atelomycterus macleayi",
+    "SpecCode": "791",
+    "CommonName": "Austraalia nöbihai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atelomycterus marmoratus",
+    "SpecCode": "4305",
+    "CommonName": "Bolad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atelomycterus marnkalha",
+    "SpecCode": "63793",
+    "CommonName": "Eastern banded catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

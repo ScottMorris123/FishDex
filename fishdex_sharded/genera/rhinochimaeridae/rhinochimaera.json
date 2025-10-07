@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Rhinochimaera africana",
+    "SpecCode": "52796",
+    "CommonName": "Luits-nokistont",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinochimaera atlantica",
+    "SpecCode": "9005",
+    "CommonName": "Atlandi nokistont",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinochimaera pacifica",
+    "SpecCode": "22766",
+    "CommonName": "Deep-sea chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

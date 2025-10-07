@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Notoliparis antonbruuni",
+    "SpecCode": "62196",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoliparis kermadecensis",
+    "SpecCode": "56213",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoliparis kurchatovi",
+    "SpecCode": "56207",
+    "CommonName": "Kurchatov's notoliparis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoliparis macquariensis",
+    "SpecCode": "56208",
+    "CommonName": "Macquarie notoliparid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoliparis stewarti",
+    "SpecCode": "70539",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

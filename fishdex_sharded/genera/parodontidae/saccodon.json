@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Saccodon dariensis",
+    "SpecCode": "28263",
+    "CommonName": "Dormilón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccodon terminalis",
+    "SpecCode": "56977",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccodon wagneri",
+    "SpecCode": "27263",
+    "CommonName": "Ratón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

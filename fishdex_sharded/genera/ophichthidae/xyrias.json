@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Xyrias chioui",
+    "SpecCode": "65165",
+    "CommonName": "Taiwani reduangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xyrias guineensis",
+    "SpecCode": "9096",
+    "CommonName": "Guinea reduangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xyrias multiserialis",
+    "SpecCode": "46441",
+    "CommonName": "Adeni reduangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xyrias revulsus",
+    "SpecCode": "22612",
+    "CommonName": "Bô-umihebi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

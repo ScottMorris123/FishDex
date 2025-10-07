@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Balistoides conspicillum",
+    "SpecCode": "2300",
+    "CommonName": "Ampapagot",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Balistoides viridescens",
+    "SpecCode": "6026",
+    "CommonName": "Ampala biasa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Holohalaelurus favus",
+    "SpecCode": "63796",
+    "CommonName": "Kärjekarva kirihai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holohalaelurus grennian",
+    "SpecCode": "63797",
+    "CommonName": "Irvik-kirihai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holohalaelurus melanostigma",
+    "SpecCode": "63824",
+    "CommonName": "Crying Izak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holohalaelurus punctatus",
+    "SpecCode": "828",
+    "CommonName": "African spotted catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holohalaelurus regani",
+    "SpecCode": "829",
+    "CommonName": "Holbiche isard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

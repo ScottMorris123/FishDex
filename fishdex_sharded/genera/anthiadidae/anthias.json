@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Anthias anthias",
+    "SpecCode": "1692",
+    "CommonName": "Almindelig svalehalebars",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anthias asperilinguis",
+    "SpecCode": "56828",
+    "CommonName": "антиас",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anthias cyprinoides",
+    "SpecCode": "26849",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anthias helenensis",
+    "SpecCode": "26852",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anthias menezesi",
+    "SpecCode": "56829",
+    "CommonName": "Mero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anthias nicholsi",
+    "SpecCode": "3313",
+    "CommonName": "Mero aleta amarilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anthias noeli",
+    "SpecCode": "58687",
+    "CommonName": "Rosy Jewelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anthias woodsi",
+    "SpecCode": "56827",
+    "CommonName": "Swallowtail bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Oxyropsis acutirostris",
+    "SpecCode": "50479",
+    "CommonName": "Nokkakiilamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyropsis carinata",
+    "SpecCode": "50482",
+    "CommonName": "Kiel-Harnischwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyropsis wrightiana",
+    "SpecCode": "50507",
+    "CommonName": "賴特下口蜻鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

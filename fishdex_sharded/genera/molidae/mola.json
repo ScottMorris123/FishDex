@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Mola alexandrini",
+    "SpecCode": "26423",
+    "CommonName": "Australisk klumpfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mola mola",
+    "SpecCode": "1732",
+    "CommonName": "Almindelig klumpfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mola tecta",
+    "SpecCode": "68302",
+    "CommonName": "Hoodwinker ocean sunfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

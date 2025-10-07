@@ -1,0 +1,152 @@
+{
+  "Family": "Pomacentridae",
+  "Order": "Ovalentaria/misc",
+  "Common": "Damselfishes",
+  "Genera": [
+    {
+      "Genus": "Abudefduf",
+      "SpeciesCount": 20,
+      "genus_path": "genera/pomacentridae/abudefduf.json"
+    },
+    {
+      "Genus": "Acanthochromis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacentridae/acanthochromis.json"
+    },
+    {
+      "Genus": "Altrichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/pomacentridae/altrichthys.json"
+    },
+    {
+      "Genus": "Amblyglyphidodon",
+      "SpeciesCount": 11,
+      "genus_path": "genera/pomacentridae/amblyglyphidodon.json"
+    },
+    {
+      "Genus": "Amblypomacentrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/pomacentridae/amblypomacentrus.json"
+    },
+    {
+      "Genus": "Amphiprion",
+      "SpeciesCount": 30,
+      "genus_path": "genera/pomacentridae/amphiprion.json"
+    },
+    {
+      "Genus": "Azurina",
+      "SpeciesCount": 10,
+      "genus_path": "genera/pomacentridae/azurina.json"
+    },
+    {
+      "Genus": "Cheiloprion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacentridae/cheiloprion.json"
+    },
+    {
+      "Genus": "Chromis",
+      "SpeciesCount": 79,
+      "genus_path": "genera/pomacentridae/chromis.json"
+    },
+    {
+      "Genus": "Chrysiptera",
+      "SpeciesCount": 36,
+      "genus_path": "genera/pomacentridae/chrysiptera.json"
+    },
+    {
+      "Genus": "Dascyllus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/pomacentridae/dascyllus.json"
+    },
+    {
+      "Genus": "Dischistodus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/pomacentridae/dischistodus.json"
+    },
+    {
+      "Genus": "Hemiglyphidodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacentridae/hemiglyphidodon.json"
+    },
+    {
+      "Genus": "Hypsypops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacentridae/hypsypops.json"
+    },
+    {
+      "Genus": "Lepidozygus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacentridae/lepidozygus.json"
+    },
+    {
+      "Genus": "Mecaenichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacentridae/mecaenichthys.json"
+    },
+    {
+      "Genus": "Microspathodon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pomacentridae/microspathodon.json"
+    },
+    {
+      "Genus": "Neoglyphidodon",
+      "SpeciesCount": 9,
+      "genus_path": "genera/pomacentridae/neoglyphidodon.json"
+    },
+    {
+      "Genus": "Neopomacentrus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/pomacentridae/neopomacentrus.json"
+    },
+    {
+      "Genus": "Nexilosus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacentridae/nexilosus.json"
+    },
+    {
+      "Genus": "Parma",
+      "SpeciesCount": 10,
+      "genus_path": "genera/pomacentridae/parma.json"
+    },
+    {
+      "Genus": "Plectroglyphidodon",
+      "SpeciesCount": 19,
+      "genus_path": "genera/pomacentridae/plectroglyphidodon.json"
+    },
+    {
+      "Genus": "Pomacentrus",
+      "SpeciesCount": 81,
+      "genus_path": "genera/pomacentridae/pomacentrus.json"
+    },
+    {
+      "Genus": "Pomachromis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pomacentridae/pomachromis.json"
+    },
+    {
+      "Genus": "Pristotis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pomacentridae/pristotis.json"
+    },
+    {
+      "Genus": "Pycnochromis",
+      "SpeciesCount": 24,
+      "genus_path": "genera/pomacentridae/pycnochromis.json"
+    },
+    {
+      "Genus": "Similiparma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pomacentridae/similiparma.json"
+    },
+    {
+      "Genus": "Stegastes",
+      "SpeciesCount": 30,
+      "genus_path": "genera/pomacentridae/stegastes.json"
+    },
+    {
+      "Genus": "Teixeirichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacentridae/teixeirichthys.json"
+    }
+  ]
+}

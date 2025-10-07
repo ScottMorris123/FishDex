@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Benthobatis kreffti",
+    "SpecCode": "60939",
+    "CommonName": "Kreffti süvaakurai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthobatis marcida",
+    "SpecCode": "8722",
+    "CommonName": "Bleke blinde stroomrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthobatis moresbyi",
+    "SpecCode": "53942",
+    "CommonName": "Dark blind ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthobatis yangi",
+    "SpecCode": "63814",
+    "CommonName": "Taiwanese blind electric ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

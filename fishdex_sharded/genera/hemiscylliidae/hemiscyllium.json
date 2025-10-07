@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Hemiscyllium freycineti",
+    "SpecCode": "5904",
+    "CommonName": "Bamboa jaspeada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiscyllium galei",
+    "SpecCode": "63706",
+    "CommonName": "Cenderawasihi huulhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiscyllium hallstromi",
+    "SpecCode": "5905",
+    "CommonName": "Bamboa hombrera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiscyllium halmahera",
+    "SpecCode": "67088",
+    "CommonName": "Bamboo shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiscyllium henryi",
+    "SpecCode": "63708",
+    "CommonName": "Triton Epaulette shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiscyllium michaeli",
+    "SpecCode": "65392",
+    "CommonName": "Leopard Epaulette shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiscyllium ocellatum",
+    "SpecCode": "5906",
+    "CommonName": "Almindelig epaulethaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiscyllium strahani",
+    "SpecCode": "5907",
+    "CommonName": "Bamboa capuchona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiscyllium trispeculare",
+    "SpecCode": "5908",
+    "CommonName": "Bamboa moteada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

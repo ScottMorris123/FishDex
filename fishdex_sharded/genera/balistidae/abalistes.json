@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Abalistes filamentosus",
+    "SpecCode": "62612",
+    "CommonName": "Hairfin triggerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abalistes stellatus",
+    "SpecCode": "9",
+    "CommonName": "Ampapagot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

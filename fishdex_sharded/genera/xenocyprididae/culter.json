@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Culter alburnus",
+    "SpecCode": "46708",
+    "CommonName": "Amurinmiekkasärki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Culter flavipinnis",
+    "SpecCode": "54671",
+    "CommonName": "Cá ngão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Culter oxycephaloides",
+    "SpecCode": "54724",
+    "CommonName": "Hiina nugaviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Culter recurviceps",
+    "SpecCode": "56031",
+    "CommonName": "Hainaninmiekkasärki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Macrourus berglax",
+    "SpecCode": "331",
+    "CommonName": "Bulawik siwy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrourus caml",
+    "SpecCode": "66429",
+    "CommonName": "Caml grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrourus carinatus",
+    "SpecCode": "7137",
+    "CommonName": "Bigeye grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrourus holotrachys",
+    "SpecCode": "7138",
+    "CommonName": "Bigeye grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrourus whitsoni",
+    "SpecCode": "7139",
+    "CommonName": "Antarktika pikksaba",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

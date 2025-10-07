@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Barathrodemus manatinus",
+    "SpecCode": "54222",
+    "CommonName": "大西洋淵鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barathrodemus nasutus",
+    "SpecCode": "54229",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

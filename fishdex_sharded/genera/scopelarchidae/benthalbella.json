@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Benthalbella dentata",
+    "SpecCode": "2730",
+    "CommonName": "Nordlig perleøjefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthalbella elongata",
+    "SpecCode": "6974",
+    "CommonName": "Perloeil longue dorsale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthalbella infans",
+    "SpecCode": "16617",
+    "CommonName": "Childish pearleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthalbella linguidens",
+    "SpecCode": "25299",
+    "CommonName": "Deme-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

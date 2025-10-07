@@ -1,0 +1,112 @@
+{
+  "Family": "Cobitidae",
+  "Order": "Cypriniformes",
+  "Common": "Spined loaches",
+  "Genera": [
+    {
+      "Genus": "Acanthopsoides",
+      "SpeciesCount": 7,
+      "genus_path": "genera/cobitidae/acanthopsoides.json"
+    },
+    {
+      "Genus": "Acantopsis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cobitidae/acantopsis.json"
+    },
+    {
+      "Genus": "Bibarba",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cobitidae/bibarba.json"
+    },
+    {
+      "Genus": "Canthophrys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cobitidae/canthophrys.json"
+    },
+    {
+      "Genus": "Cobitis",
+      "SpeciesCount": 107,
+      "genus_path": "genera/cobitidae/cobitis.json"
+    },
+    {
+      "Genus": "Iksookimia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cobitidae/iksookimia.json"
+    },
+    {
+      "Genus": "Kichulchoia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cobitidae/kichulchoia.json"
+    },
+    {
+      "Genus": "Koreocobitis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cobitidae/koreocobitis.json"
+    },
+    {
+      "Genus": "Kottelatlimia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cobitidae/kottelatlimia.json"
+    },
+    {
+      "Genus": "Lepidocephalichthys",
+      "SpeciesCount": 21,
+      "genus_path": "genera/cobitidae/lepidocephalichthys.json"
+    },
+    {
+      "Genus": "Lepidocephalus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cobitidae/lepidocephalus.json"
+    },
+    {
+      "Genus": "Microcobitis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cobitidae/microcobitis.json"
+    },
+    {
+      "Genus": "Misgurnus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cobitidae/misgurnus.json"
+    },
+    {
+      "Genus": "Neoeucirrhichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cobitidae/neoeucirrhichthys.json"
+    },
+    {
+      "Genus": "Niwaella",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cobitidae/niwaella.json"
+    },
+    {
+      "Genus": "Pangio",
+      "SpeciesCount": 35,
+      "genus_path": "genera/cobitidae/pangio.json"
+    },
+    {
+      "Genus": "Paralepidocephalus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cobitidae/paralepidocephalus.json"
+    },
+    {
+      "Genus": "Paramisgurnus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cobitidae/paramisgurnus.json"
+    },
+    {
+      "Genus": "Protocobitis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cobitidae/protocobitis.json"
+    },
+    {
+      "Genus": "Sabanejewia",
+      "SpeciesCount": 10,
+      "genus_path": "genera/cobitidae/sabanejewia.json"
+    },
+    {
+      "Genus": "Theriodes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cobitidae/theriodes.json"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Tetractenos glaber",
+    "SpecCode": "52455",
+    "CommonName": "Kudospallokala",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetractenos hamiltoni",
+    "SpecCode": "55042",
+    "CommonName": "Common toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

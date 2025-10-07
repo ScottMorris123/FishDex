@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Pseudacanthicus fordii",
+    "SpecCode": "48237",
+    "CommonName": "福氏假棘甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudacanthicus histrix",
+    "SpecCode": "50692",
+    "CommonName": "Guacari açu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudacanthicus leopardus",
+    "SpecCode": "48238",
+    "CommonName": "Leopardipiikkipleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudacanthicus pirarara",
+    "SpecCode": "69043",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudacanthicus pitanga",
+    "SpecCode": "68837",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudacanthicus serratus",
+    "SpecCode": "48239",
+    "CommonName": "Baaka wawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudacanthicus spinosus",
+    "SpecCode": "50330",
+    "CommonName": "Acari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

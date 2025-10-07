@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Apsilus dentatus",
+    "SpecCode": "85",
+    "CommonName": "Arnillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apsilus fuscus",
+    "SpecCode": "86",
+    "CommonName": "African forktail snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

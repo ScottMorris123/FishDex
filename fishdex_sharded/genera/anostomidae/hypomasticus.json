@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Hypomasticus copelandii",
+    "SpecCode": "53288",
+    "CommonName": "Piava-vermelha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomasticus despaxi",
+    "SpecCode": "27837",
+    "CommonName": "Gulstribet næselaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomasticus julii",
+    "SpecCode": "60314",
+    "CommonName": "Xingu-næselaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomasticus lineomaculatus",
+    "SpecCode": "67131",
+    "CommonName": "Linieplettet næselaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomasticus megalepis",
+    "SpecCode": "51874",
+    "CommonName": "Großschuppiger Leporinus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomasticus mormyrops",
+    "SpecCode": "53296",
+    "CommonName": "Grå næselaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomasticus pachycheilus",
+    "SpecCode": "52578",
+    "CommonName": "Aripuana-næselaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomasticus steindachneri",
+    "SpecCode": "53302",
+    "CommonName": "Acará pinima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomasticus thayeri",
+    "SpecCode": "61630",
+    "CommonName": "Parahyba-næselaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Oreoleuciscus angusticephalus",
+    "SpecCode": "61913",
+    "CommonName": "Ahaspea-mägiteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreoleuciscus dsapchynensis",
+    "SpecCode": "63332",
+    "CommonName": "Airagi mägiteib",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreoleuciscus humilis",
+    "SpecCode": "47817",
+    "CommonName": "Altaian dwarf osman",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreoleuciscus potanini",
+    "SpecCode": "47818",
+    "CommonName": "Altai osman",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

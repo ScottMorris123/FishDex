@@ -1,0 +1,12 @@
+{
+  "Family": "Geotriidae",
+  "Order": "Petromyzontiformes",
+  "Common": "Southern lampreys",
+  "Genera": [
+    {
+      "Genus": "Geotria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/geotriidae/geotria.json"
+    }
+  ]
+}

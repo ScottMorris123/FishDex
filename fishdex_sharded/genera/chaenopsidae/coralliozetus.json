@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Coralliozetus angelicus",
+    "SpecCode": "46728",
+    "CommonName": "Angel blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coralliozetus boehlkei",
+    "SpecCode": "54348",
+    "CommonName": "Barcheek blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coralliozetus cardonae",
+    "SpecCode": "16499",
+    "CommonName": "Twinhorn blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coralliozetus micropes",
+    "SpecCode": "46729",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coralliozetus rosenblatti",
+    "SpecCode": "46733",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coralliozetus springeri",
+    "SpecCode": "46735",
+    "CommonName": "斯氏双角鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

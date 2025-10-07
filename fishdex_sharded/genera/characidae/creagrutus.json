@@ -1,0 +1,650 @@
+[
+  {
+    "ScientificName": "Creagrutus affinis",
+    "SpecCode": "51283",
+    "CommonName": "哥伦比亚齿脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus amoenus",
+    "SpecCode": "51280",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus anary",
+    "SpecCode": "51279",
+    "CommonName": "Anari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus atratus",
+    "SpecCode": "58434",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus atrisignum",
+    "SpecCode": "51282",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus barrigai",
+    "SpecCode": "58436",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus beni",
+    "SpecCode": "12351",
+    "CommonName": "Goldbandsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus bolivari",
+    "SpecCode": "51277",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus brevipinnis",
+    "SpecCode": "51284",
+    "CommonName": "Doppelstreifentetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus britskii",
+    "SpecCode": "58437",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus calai",
+    "SpecCode": "58438",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus caucanus",
+    "SpecCode": "51286",
+    "CommonName": "多鱗齒脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus cerritulus",
+    "SpecCode": "68645",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus changae",
+    "SpecCode": "58439",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus cochui",
+    "SpecCode": "51134",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus cracentis",
+    "SpecCode": "58440",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus crenatus",
+    "SpecCode": "58441",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus ephippiatus",
+    "SpecCode": "58442",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus figueiredoi",
+    "SpecCode": "58443",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus flavescens",
+    "SpecCode": "58444",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus gephyrus",
+    "SpecCode": "53429",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus gracilis",
+    "SpecCode": "58445",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus guanes",
+    "SpecCode": "62578",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus gyrospilus",
+    "SpecCode": "58446",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus hildebrandi",
+    "SpecCode": "48629",
+    "CommonName": "Golosa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus holmi",
+    "SpecCode": "58447",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus hysginus",
+    "SpecCode": "51853",
+    "CommonName": "鮮紅釣齒脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus ignotus",
+    "SpecCode": "58448",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus kunturus",
+    "SpecCode": "52030",
+    "CommonName": "涩钓齿脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus lassoi",
+    "SpecCode": "58449",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus lepidus",
+    "SpecCode": "51855",
+    "CommonName": "Suomujuovatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus machadoi",
+    "SpecCode": "58450",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus maculosus",
+    "SpecCode": "65460",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus magdalenae",
+    "SpecCode": "51285",
+    "CommonName": "高身齒脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus magoi",
+    "SpecCode": "58451",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus manu",
+    "SpecCode": "58452",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus maracaiboensis",
+    "SpecCode": "51708",
+    "CommonName": "委內瑞拉齒脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus maxillaris",
+    "SpecCode": "51314",
+    "CommonName": "Leukatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus melanzonus",
+    "SpecCode": "28003",
+    "CommonName": "黑带钓齿脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus melasma",
+    "SpecCode": "51887",
+    "CommonName": "黑点钓齿脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus menezesi",
+    "SpecCode": "58453",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus meridionalis",
+    "SpecCode": "58454",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus molinus",
+    "SpecCode": "58455",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus mucipu",
+    "SpecCode": "58456",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus muelleri",
+    "SpecCode": "51278",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus nigrostigmatus",
+    "SpecCode": "51707",
+    "CommonName": "少鱗齒脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus nigrotaeniatus",
+    "SpecCode": "67720",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus occidaneus",
+    "SpecCode": "58457",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus ortegai",
+    "SpecCode": "58458",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus ouranonastes",
+    "SpecCode": "58459",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus paraguayensis",
+    "SpecCode": "53430",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus paralacus",
+    "SpecCode": "48627",
+    "CommonName": "近湖齒脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus pearsoni",
+    "SpecCode": "56458",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus peruanus",
+    "SpecCode": "51135",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus petilus",
+    "SpecCode": "58460",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus phasma",
+    "SpecCode": "51275",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus pila",
+    "SpecCode": "58461",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus planquettei",
+    "SpecCode": "28004",
+    "CommonName": "Yaya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus provenzanoi",
+    "SpecCode": "58462",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus runa",
+    "SpecCode": "58463",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus saxatilis",
+    "SpecCode": "58464",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus seductus",
+    "SpecCode": "58465",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus taphorni",
+    "SpecCode": "58466",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus tuyuka",
+    "SpecCode": "61980",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus ungulus",
+    "SpecCode": "58467",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus varii",
+    "SpecCode": "62335",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus veruina",
+    "SpecCode": "58468",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus vexillapinnus",
+    "SpecCode": "58469",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus xiphos",
+    "SpecCode": "58470",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus yanatili",
+    "SpecCode": "65282",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus yudja",
+    "SpecCode": "69131",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Creagrutus zephyrus",
+    "SpecCode": "58471",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

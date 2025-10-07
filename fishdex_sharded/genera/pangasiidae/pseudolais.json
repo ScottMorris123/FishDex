@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Pseudolais micronemus",
+    "SpecCode": "12001",
+    "CommonName": "Keltahaimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolais pleurotaenia",
+    "SpecCode": "14211",
+    "CommonName": "Cá xác bau",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

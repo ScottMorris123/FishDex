@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Cirrhigaleus asper",
+    "SpecCode": "707",
+    "CommonName": "Aiguillat à peau rugueuse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhigaleus australis",
+    "SpecCode": "63505",
+    "CommonName": "Lõuna-poisurogahai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhigaleus barbifer",
+    "SpecCode": "668",
+    "CommonName": "Higetsunozame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

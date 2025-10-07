@@ -1,0 +1,17 @@
+{
+  "Family": "Acropomatidae",
+  "Order": "Acropomatiformes",
+  "Common": "Lanternbellies, temperate ocean-basses",
+  "Genera": [
+    {
+      "Genus": "Acropoma",
+      "SpeciesCount": 12,
+      "genus_path": "genera/acropomatidae/acropoma.json"
+    },
+    {
+      "Genus": "Doederleinia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/acropomatidae/doederleinia.json"
+    }
+  ]
+}

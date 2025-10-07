@@ -1,0 +1,44 @@
+[
+  {
+    "ScientificName": "Osmerus dentex",
+    "SpecCode": "22635",
+    "CommonName": "Arctic rainbow smelt",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osmerus eperlanus",
+    "SpecCode": "1334",
+    "CommonName": "An smealt",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osmerus mordax",
+    "SpecCode": "253",
+    "CommonName": "American smelt",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osmerus spectrum",
+    "SpecCode": "6198",
+    "CommonName": "Kääbustint",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Rhamdioglanis frenatus",
+    "SpecCode": "57678",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhamdioglanis transfasciatus",
+    "SpecCode": "57679",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "Family": "Caristiidae",
+  "Order": "Scombriformes",
+  "Common": "Manefishes",
+  "Genera": [
+    {
+      "Genus": "Caristius",
+      "SpeciesCount": 8,
+      "genus_path": "genera/caristiidae/caristius.json"
+    },
+    {
+      "Genus": "Neocaristius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/caristiidae/neocaristius.json"
+    },
+    {
+      "Genus": "Paracaristius",
+      "SpeciesCount": 4,
+      "genus_path": "genera/caristiidae/paracaristius.json"
+    },
+    {
+      "Genus": "Platyberyx",
+      "SpeciesCount": 6,
+      "genus_path": "genera/caristiidae/platyberyx.json"
+    }
+  ]
+}

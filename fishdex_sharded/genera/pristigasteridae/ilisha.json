@@ -1,0 +1,164 @@
+[
+  {
+    "ScientificName": "Ilisha africana",
+    "SpecCode": "1625",
+    "CommonName": "Aafrika iliša",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha amazonica",
+    "SpecCode": "1626",
+    "CommonName": "Amazon ilisha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha compressa",
+    "SpecCode": "26706",
+    "CommonName": "Compressed ilisha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha elongata",
+    "SpecCode": "1627",
+    "CommonName": "Alose gracile",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha filigera",
+    "SpecCode": "1628",
+    "CommonName": "Bersia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha fuerthii",
+    "SpecCode": "1629",
+    "CommonName": "Alose lame",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha kampeni",
+    "SpecCode": "1630",
+    "CommonName": "Belalak",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha lunula",
+    "SpecCode": "27617",
+    "CommonName": "Crescent long-tailed ilisha",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha macrogaster",
+    "SpecCode": "1631",
+    "CommonName": "Beliak mata",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha megaloptera",
+    "SpecCode": "1632",
+    "CommonName": "Alose à gros yeux",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha melastoma",
+    "SpecCode": "1633",
+    "CommonName": "Alose indienne",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha novacula",
+    "SpecCode": "1634",
+    "CommonName": "Burmese River ilisha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha obfuscata",
+    "SpecCode": "1635",
+    "CommonName": "Hidden ilisha",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha pristigastroides",
+    "SpecCode": "1636",
+    "CommonName": "Beliak mata",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha sirishae",
+    "SpecCode": "1637",
+    "CommonName": "Cá Bẹ",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ilisha striatula",
+    "SpecCode": "1638",
+    "CommonName": "Banded ilisha",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

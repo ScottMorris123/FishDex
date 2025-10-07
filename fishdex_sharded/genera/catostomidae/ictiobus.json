@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ictiobus bubalus",
+    "SpecCode": "2992",
+    "CommonName": "Bufalo cu gura mica",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictiobus cyprinellus",
+    "SpecCode": "2993",
+    "CommonName": "Bigmouth buffalo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictiobus labiosus",
+    "SpecCode": "60763",
+    "CommonName": "Fleshylip buffalo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictiobus meridionalis",
+    "SpecCode": "12301",
+    "CommonName": "Chopa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ictiobus niger",
+    "SpecCode": "2994",
+    "CommonName": "Black buffalo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

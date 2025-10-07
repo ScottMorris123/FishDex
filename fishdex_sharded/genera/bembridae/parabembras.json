@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Parabembras curta",
+    "SpecCode": "12981",
+    "CommonName": "Ubagochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabembras multisquamata",
+    "SpecCode": "69202",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabembras robinsoni",
+    "SpecCode": "10114",
+    "CommonName": "African deep-water flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

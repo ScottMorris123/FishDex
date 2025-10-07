@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parancistrus aurantiacus",
+    "SpecCode": "49980",
+    "CommonName": "Acari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parancistrus nudiventris",
+    "SpecCode": "62691",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "Family": "Serrasalmidae",
+  "Order": "Characiformes",
+  "Common": "Piranhas and pacus",
+  "Genera": [
+    {
+      "Genus": "Acnodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/serrasalmidae/acnodon.json"
+    },
+    {
+      "Genus": "Catoprion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serrasalmidae/catoprion.json"
+    },
+    {
+      "Genus": "Colossoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serrasalmidae/colossoma.json"
+    },
+    {
+      "Genus": "Metynnis",
+      "SpeciesCount": 14,
+      "genus_path": "genera/serrasalmidae/metynnis.json"
+    },
+    {
+      "Genus": "Mylesinus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/serrasalmidae/mylesinus.json"
+    },
+    {
+      "Genus": "Myleus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/serrasalmidae/myleus.json"
+    },
+    {
+      "Genus": "Myloplus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/serrasalmidae/myloplus.json"
+    },
+    {
+      "Genus": "Mylossoma",
+      "SpeciesCount": 5,
+      "genus_path": "genera/serrasalmidae/mylossoma.json"
+    },
+    {
+      "Genus": "Ossubtus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serrasalmidae/ossubtus.json"
+    },
+    {
+      "Genus": "Piaractus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/serrasalmidae/piaractus.json"
+    },
+    {
+      "Genus": "Pristobrycon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/serrasalmidae/pristobrycon.json"
+    },
+    {
+      "Genus": "Prosomyleus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serrasalmidae/prosomyleus.json"
+    },
+    {
+      "Genus": "Pygocentrus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/serrasalmidae/pygocentrus.json"
+    },
+    {
+      "Genus": "Pygopristis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serrasalmidae/pygopristis.json"
+    },
+    {
+      "Genus": "Serrasalmus",
+      "SpeciesCount": 31,
+      "genus_path": "genera/serrasalmidae/serrasalmus.json"
+    },
+    {
+      "Genus": "Tometes",
+      "SpeciesCount": 7,
+      "genus_path": "genera/serrasalmidae/tometes.json"
+    },
+    {
+      "Genus": "Utiaritichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/serrasalmidae/utiaritichthys.json"
+    }
+  ]
+}

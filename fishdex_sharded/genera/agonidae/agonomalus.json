@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Agonomalus jordani",
+    "SpecCode": "23989",
+    "CommonName": "Jordani ogarüühärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Agonomalus mozinoi",
+    "SpecCode": "4150",
+    "CommonName": "Kelp poacher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Agonomalus proboscidalis",
+    "SpecCode": "13066",
+    "CommonName": "Atsumori-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "ScientificName": "Paralonchurus brasiliensis",
+    "SpecCode": "1187",
+    "CommonName": "Banded croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralonchurus dumerilii",
+    "SpecCode": "14069",
+    "CommonName": "Barcelona",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralonchurus goodei",
+    "SpecCode": "14070",
+    "CommonName": "Angel croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralonchurus peruanus",
+    "SpecCode": "424",
+    "CommonName": "Bourrugue coco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralonchurus petersii",
+    "SpecCode": "14072",
+    "CommonName": "Bourrugue de Peters",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralonchurus rathbuni",
+    "SpecCode": "8223",
+    "CommonName": "Barrugue barbue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

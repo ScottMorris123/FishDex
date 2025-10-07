@@ -1,0 +1,94 @@
+[
+  {
+    "ScientificName": "Sabanejewia aurata",
+    "SpecCode": "22911",
+    "CommonName": "Aral spined loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sabanejewia balcanica",
+    "SpecCode": "49108",
+    "CommonName": "Balcan loach",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sabanejewia baltica",
+    "SpecCode": "65130",
+    "CommonName": "Põhja-kuldhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sabanejewia bulgarica",
+    "SpecCode": "49158",
+    "CommonName": "bolgár csík",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sabanejewia caspia",
+    "SpecCode": "47866",
+    "CommonName": "Caspian spined loach",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sabanejewia caucasica",
+    "SpecCode": "47867",
+    "CommonName": "Caucasian spiny loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sabanejewia kubanica",
+    "SpecCode": "63395",
+    "CommonName": "Kuban golden loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sabanejewia larvata",
+    "SpecCode": "46528",
+    "CommonName": "Bergatino pigsmerling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sabanejewia romanica",
+    "SpecCode": "26620",
+    "CommonName": "Fâsa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sabanejewia vallachica",
+    "SpecCode": "65131",
+    "CommonName": "Eastern Carpathian golden loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

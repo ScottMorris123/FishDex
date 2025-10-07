@@ -1,0 +1,62 @@
+{
+  "Family": "Bathydraconidae",
+  "Order": "Perciformes/Notothenioidei",
+  "Common": "Antarctic dragonfishes",
+  "Genera": [
+    {
+      "Genus": "Acanthodraco",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathydraconidae/acanthodraco.json"
+    },
+    {
+      "Genus": "Akarotaxis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathydraconidae/akarotaxis.json"
+    },
+    {
+      "Genus": "Bathydraco",
+      "SpeciesCount": 5,
+      "genus_path": "genera/bathydraconidae/bathydraco.json"
+    },
+    {
+      "Genus": "Cygnodraco",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathydraconidae/cygnodraco.json"
+    },
+    {
+      "Genus": "Gerlachea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathydraconidae/gerlachea.json"
+    },
+    {
+      "Genus": "Gymnodraco",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathydraconidae/gymnodraco.json"
+    },
+    {
+      "Genus": "Parachaenichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bathydraconidae/parachaenichthys.json"
+    },
+    {
+      "Genus": "Prionodraco",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathydraconidae/prionodraco.json"
+    },
+    {
+      "Genus": "Psilodraco",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathydraconidae/psilodraco.json"
+    },
+    {
+      "Genus": "Racovitzia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bathydraconidae/racovitzia.json"
+    },
+    {
+      "Genus": "Vomeridens",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathydraconidae/vomeridens.json"
+    }
+  ]
+}

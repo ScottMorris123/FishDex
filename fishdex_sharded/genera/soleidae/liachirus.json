@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Liachirus melanospilos",
+    "SpecCode": "8323",
+    "CommonName": "Baji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liachirus whitleyi",
+    "SpecCode": "61358",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

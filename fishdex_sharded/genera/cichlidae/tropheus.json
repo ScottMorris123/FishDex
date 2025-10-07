@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Tropheus annectens",
+    "SpecCode": "8977",
+    "CommonName": "Viirikeisari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tropheus brichardi",
+    "SpecCode": "8979",
+    "CommonName": "Sattelfleck-Moorii",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tropheus duboisi",
+    "SpecCode": "8980",
+    "CommonName": "Brabantcichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tropheus kasabae",
+    "SpecCode": "8981",
+    "CommonName": "卡萨蓝首鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tropheus moorii",
+    "SpecCode": "8982",
+    "CommonName": "Blunthead cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tropheus polli",
+    "SpecCode": "8984",
+    "CommonName": "Gabelschwanz-Brabantbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

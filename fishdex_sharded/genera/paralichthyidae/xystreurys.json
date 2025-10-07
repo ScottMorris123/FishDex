@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Xystreurys liolepis",
+    "SpecCode": "4235",
+    "CommonName": "Fantail flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xystreurys rasilis",
+    "SpecCode": "54749",
+    "CommonName": "Lenguado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "ScientificName": "Albula argentea",
+    "SpecCode": "58326",
+    "CommonName": "Albula Forsterova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula esuncula",
+    "SpecCode": "65525",
+    "CommonName": "Eastern Pacific bonefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula gilberti",
+    "SpecCode": "66312",
+    "CommonName": "Cortez bonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula glossodonta",
+    "SpecCode": "11512",
+    "CommonName": "Albula polynéská",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula goreensis",
+    "SpecCode": "67597",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula koreana",
+    "SpecCode": "66113",
+    "CommonName": "Hwang-jul-ppyam-yeo-eul-myeol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula nemoptera",
+    "SpecCode": "7334",
+    "CommonName": "Albula dlouhoploutvá",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula oligolepis",
+    "SpecCode": "63907",
+    "CommonName": "Peensoom-luiskala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula pacifica",
+    "SpecCode": "67476",
+    "CommonName": "Macabí de hebra del Pacífico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula virgata",
+    "SpecCode": "63908",
+    "CommonName": "Triibuline luiskala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Albula vulpes",
+    "SpecCode": "228",
+    "CommonName": "Albula",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

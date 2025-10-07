@@ -1,0 +1,57 @@
+{
+  "Family": "Trichiuridae",
+  "Order": "Scombriformes",
+  "Common": "Cutlassfishes",
+  "Genera": [
+    {
+      "Genus": "Aphanopus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/trichiuridae/aphanopus.json"
+    },
+    {
+      "Genus": "Assurger",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichiuridae/assurger.json"
+    },
+    {
+      "Genus": "Benthodesmus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/trichiuridae/benthodesmus.json"
+    },
+    {
+      "Genus": "Demissolinea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichiuridae/demissolinea.json"
+    },
+    {
+      "Genus": "Eupleurogrammus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichiuridae/eupleurogrammus.json"
+    },
+    {
+      "Genus": "Evoxymetopon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/trichiuridae/evoxymetopon.json"
+    },
+    {
+      "Genus": "Lepidopus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/trichiuridae/lepidopus.json"
+    },
+    {
+      "Genus": "Lepturacanthus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trichiuridae/lepturacanthus.json"
+    },
+    {
+      "Genus": "Tentoriceps",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichiuridae/tentoriceps.json"
+    },
+    {
+      "Genus": "Trichiurus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/trichiuridae/trichiurus.json"
+    }
+  ]
+}

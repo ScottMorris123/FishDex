@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Lestrolepis intermedia",
+    "SpecCode": "10169",
+    "CommonName": "Barracudina antifaz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestrolepis japonica",
+    "SpecCode": "24646",
+    "CommonName": "Grinner",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestrolepis luxiocula",
+    "SpecCode": "69115",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestrolepis nigroventralis",
+    "SpecCode": "69794",
+    "CommonName": "Black-belly barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestrolepis pofi",
+    "SpecCode": "69795",
+    "CommonName": "劉氏光鱗魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

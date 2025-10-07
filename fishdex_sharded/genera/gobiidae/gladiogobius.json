@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Gladiogobius brevispinis",
+    "SpecCode": "64786",
+    "CommonName": "Kotoge-haze",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gladiogobius ensifer",
+    "SpecCode": "11174",
+    "CommonName": "Bandit goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gladiogobius rex",
+    "SpecCode": "65000",
+    "CommonName": "King goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

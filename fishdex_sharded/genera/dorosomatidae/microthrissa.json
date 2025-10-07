@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Microthrissa congica",
+    "SpecCode": "1541",
+    "CommonName": "Bigscale pellonuline",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microthrissa minuta",
+    "SpecCode": "1543",
+    "CommonName": "Dungu sprat",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microthrissa moeruensis",
+    "SpecCode": "1542",
+    "CommonName": "Kasepa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microthrissa royauxi",
+    "SpecCode": "1544",
+    "CommonName": "Keiser-väiketrissa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microthrissa whiteheadi",
+    "SpecCode": "51548",
+    "CommonName": "Sled'ovka whiteheadova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

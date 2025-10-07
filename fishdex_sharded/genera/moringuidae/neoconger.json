@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Neoconger mucronatus",
+    "SpecCode": "2604",
+    "CommonName": "Anguila fideo aquillada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoconger tuberculatus",
+    "SpecCode": "24274",
+    "CommonName": "Austraalia nuudelangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoconger vermiformis",
+    "SpecCode": "59056",
+    "CommonName": "Anguila fideo macarrón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

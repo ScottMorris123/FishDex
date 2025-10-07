@@ -1,0 +1,221 @@
+[
+  {
+    "ScientificName": "Macrognathus aculeatus",
+    "SpecCode": "5152",
+    "CommonName": "Arelot",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus albus",
+    "SpecCode": "67770",
+    "CommonName": "Spotless spiny eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus aral",
+    "SpecCode": "10545",
+    "CommonName": "Aral",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus aureus",
+    "SpecCode": "65580",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus caudiocellatus",
+    "SpecCode": "25281",
+    "CommonName": "睛尾吻棘鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus circumcinctus",
+    "SpecCode": "55327",
+    "CommonName": "Gürtelstachelaal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus dorsiocellatus",
+    "SpecCode": "65288",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus fasciatus",
+    "SpecCode": "67771",
+    "CommonName": "Yellow banded spiny eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus guentheri",
+    "SpecCode": "13593",
+    "CommonName": "Aaral",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus keithi",
+    "SpecCode": "25156",
+    "CommonName": "基氏吻棘鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus lineatomaculatus",
+    "SpecCode": "65290",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus maculatus",
+    "SpecCode": "25157",
+    "CommonName": "Buff-backed spiny eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus malabaricus",
+    "SpecCode": "60198",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus meklongensis",
+    "SpecCode": "61570",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus morehensis",
+    "SpecCode": "60653",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus obscurus",
+    "SpecCode": "65289",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus pancalus",
+    "SpecCode": "10147",
+    "CommonName": "Aral",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus pavo",
+    "SpecCode": "65287",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus pentophthalmos",
+    "SpecCode": "66123",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus semiocellatus",
+    "SpecCode": "50841",
+    "CommonName": "Pba loht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus siamensis",
+    "SpecCode": "50400",
+    "CommonName": "Chhlong",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus taeniagaster",
+    "SpecCode": "26798",
+    "CommonName": "Cá chach song",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus tapirus",
+    "SpecCode": "62647",
+    "CommonName": "Luda'",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrognathus zebrinus",
+    "SpecCode": "12297",
+    "CommonName": "Bam",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

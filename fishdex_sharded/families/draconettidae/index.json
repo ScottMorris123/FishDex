@@ -1,0 +1,17 @@
+{
+  "Family": "Draconettidae",
+  "Order": "Callionymiformes",
+  "Common": "Slope dragonets",
+  "Genera": [
+    {
+      "Genus": "Centrodraco",
+      "SpeciesCount": 14,
+      "genus_path": "genera/draconettidae/centrodraco.json"
+    },
+    {
+      "Genus": "Draconetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/draconettidae/draconetta.json"
+    }
+  ]
+}

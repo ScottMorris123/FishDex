@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Paracheirodon axelrodi",
+    "SpecCode": "8195",
+    "CommonName": "Cardinal tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracheirodon innesi",
+    "SpecCode": "10691",
+    "CommonName": "Almindelig neonfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracheirodon simulans",
+    "SpecCode": "12394",
+    "CommonName": "Blå neon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

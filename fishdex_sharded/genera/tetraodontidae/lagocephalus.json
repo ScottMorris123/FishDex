@@ -1,0 +1,104 @@
+[
+  {
+    "ScientificName": "Lagocephalus cheesemanii",
+    "SpecCode": "49305",
+    "CommonName": "Cheeseman's puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus gloveri",
+    "SpecCode": "10523",
+    "CommonName": "Buntal-pisang perang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus guentheri",
+    "SpecCode": "28209",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus inermis",
+    "SpecCode": "8068",
+    "CommonName": "Badkonak-mahi-e-saf",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus laevigatus",
+    "SpecCode": "1239",
+    "CommonName": "Adpana",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus lagocephalus",
+    "SpecCode": "4292",
+    "CommonName": "Avamere jänespea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus lunaris",
+    "SpecCode": "8263",
+    "CommonName": "Blowfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus sceleratus",
+    "SpecCode": "4761",
+    "CommonName": "Alnajem",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus spadiceus",
+    "SpecCode": "8180",
+    "CommonName": "Balon balığı",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus suezensis",
+    "SpecCode": "55076",
+    "CommonName": "Balon balığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lagocephalus wheeleri",
+    "SpecCode": "24313",
+    "CommonName": "Buntal-pisang emas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

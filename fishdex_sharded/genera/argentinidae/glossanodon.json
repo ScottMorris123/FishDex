@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Glossanodon australis",
+    "SpecCode": "52834",
+    "CommonName": "Southern herring smelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon danieli",
+    "SpecCode": "60524",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon elongatus",
+    "SpecCode": "52835",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon kotakamaru",
+    "SpecCode": "65441",
+    "CommonName": "Kotaka-nigisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon leioglossus",
+    "SpecCode": "1782",
+    "CommonName": "Argentina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon lineatus",
+    "SpecCode": "24809",
+    "CommonName": "Ichimonji-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon macrocephalus",
+    "SpecCode": "69556",
+    "CommonName": "Kerala argentine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon melanomanus",
+    "SpecCode": "52833",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon mildredae",
+    "SpecCode": "60521",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon nazca",
+    "SpecCode": "60523",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon polli",
+    "SpecCode": "9114",
+    "CommonName": "波氏舌珍魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon pseudolineatus",
+    "SpecCode": "52836",
+    "CommonName": "Saddled herring smelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon pygmaeus",
+    "SpecCode": "2702",
+    "CommonName": "Pygmæ-guldlaks",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon semifasciatus",
+    "SpecCode": "257",
+    "CommonName": "Argentina del Pacífico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossanodon struhsakeri",
+    "SpecCode": "7382",
+    "CommonName": "Struhsaker's deep-sea smelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

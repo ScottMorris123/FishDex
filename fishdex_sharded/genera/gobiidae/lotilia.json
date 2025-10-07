@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lotilia graciliosa",
+    "SpecCode": "7239",
+    "CommonName": "Mustaraputokko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lotilia klausewitzi",
+    "SpecCode": "67248",
+    "CommonName": "Dancer shrimp goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

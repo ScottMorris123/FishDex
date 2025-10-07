@@ -1,0 +1,12 @@
+{
+  "Family": "Scombropidae",
+  "Order": "Acropomatiformes",
+  "Common": "Gnomefishes",
+  "Genera": [
+    {
+      "Genus": "Scombrops",
+      "SpeciesCount": 3,
+      "genus_path": "genera/scombropidae/scombrops.json"
+    }
+  ]
+}

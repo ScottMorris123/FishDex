@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Zoarchias glaber",
+    "SpecCode": "23804",
+    "CommonName": "Tobi-itoginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarchias hosoyai",
+    "SpecCode": "64599",
+    "CommonName": "Noto kazunagi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarchias macrocephalus",
+    "SpecCode": "64600",
+    "CommonName": "Shinju kazunagi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarchias major",
+    "SpecCode": "23805",
+    "CommonName": "Ôkazunagi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarchias microstomus",
+    "SpecCode": "27204",
+    "CommonName": "短頜小綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarchias neglectus",
+    "SpecCode": "25018",
+    "CommonName": "Harilik idaemakala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarchias uchidai",
+    "SpecCode": "61165",
+    "CommonName": "우베도라치",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarchias veneficus",
+    "SpecCode": "23803",
+    "CommonName": "Eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

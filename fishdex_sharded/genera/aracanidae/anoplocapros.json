@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Anoplocapros amygdaloides",
+    "SpecCode": "14558",
+    "CommonName": "Blue boxfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anoplocapros inermis",
+    "SpecCode": "14559",
+    "CommonName": "Blue boxfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anoplocapros lenticularis",
+    "SpecCode": "14560",
+    "CommonName": "High-backed boxfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

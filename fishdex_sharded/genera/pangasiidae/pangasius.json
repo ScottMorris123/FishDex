@@ -1,0 +1,208 @@
+[
+  {
+    "ScientificName": "Pangasius bocourti",
+    "SpecCode": "14112",
+    "CommonName": "Basa catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius conchophilus",
+    "SpecCode": "14126",
+    "CommonName": "Pa gae",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius djambal",
+    "SpecCode": "14145",
+    "CommonName": "Trey pra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius elongatus",
+    "SpecCode": "60295",
+    "CommonName": "Cá dúa",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius humeralis",
+    "SpecCode": "14150",
+    "CommonName": "大肩鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius kinabatanganensis",
+    "SpecCode": "14177",
+    "CommonName": "馬來亞鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius krempfi",
+    "SpecCode": "14181",
+    "CommonName": "Chinese pangasid-catfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius kunyit",
+    "SpecCode": "55541",
+    "CommonName": "Kunyit",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius larnaudii",
+    "SpecCode": "12000",
+    "CommonName": "Beung",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius lithostoma",
+    "SpecCode": "14184",
+    "CommonName": "Lais benguk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius macronema",
+    "SpecCode": "14194",
+    "CommonName": "Cá Tra Xiêm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius mahakamensis",
+    "SpecCode": "60293",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius mekongensis",
+    "SpecCode": "61582",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius myanmar",
+    "SpecCode": "14200",
+    "CommonName": "Burmanhaimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius nasutus",
+    "SpecCode": "14202",
+    "CommonName": "Cá hú",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius nieuwenhuisii",
+    "SpecCode": "14208",
+    "CommonName": "尼氏鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius pangasius",
+    "SpecCode": "292",
+    "CommonName": "Aie",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius polyuranodon",
+    "SpecCode": "14215",
+    "CommonName": "Duara",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius rheophilus",
+    "SpecCode": "58401",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius sabahensis",
+    "SpecCode": "61583",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius sanitwongsei",
+    "SpecCode": "6193",
+    "CommonName": "Cá vô cò",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pangasius silasi",
+    "SpecCode": "68733",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

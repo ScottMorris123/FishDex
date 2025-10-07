@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Thaumatichthys axeli",
+    "SpecCode": "52839",
+    "CommonName": "Helendsuu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thaumatichthys binghami",
+    "SpecCode": "52840",
+    "CommonName": "Binghami rehalõug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thaumatichthys pagidostomus",
+    "SpecCode": "52841",
+    "CommonName": "Harilik rehalõug",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

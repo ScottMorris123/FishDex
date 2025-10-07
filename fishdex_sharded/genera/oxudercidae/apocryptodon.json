@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Apocryptodon madurensis",
+    "SpecCode": "7328",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apocryptodon punctatus",
+    "SpecCode": "55511",
+    "CommonName": "Japaninkitaryömijä",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

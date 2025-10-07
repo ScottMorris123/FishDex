@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Giganthias immaculatus",
+    "SpecCode": "10743",
+    "CommonName": "Mihara-hanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Giganthias serratospinosus",
+    "SpecCode": "66417",
+    "CommonName": "Spinyfin Perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

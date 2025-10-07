@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Brachyglanis frenatus",
+    "SpecCode": "47770",
+    "CommonName": "圭亚那短油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyglanis magoi",
+    "SpecCode": "47771",
+    "CommonName": "Laulao",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyglanis melas",
+    "SpecCode": "47772",
+    "CommonName": "黑短油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyglanis microphthalmus",
+    "SpecCode": "53223",
+    "CommonName": "小眼短油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyglanis nocturnus",
+    "SpecCode": "47773",
+    "CommonName": "Jandiá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyglanis phalacra",
+    "SpecCode": "57664",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

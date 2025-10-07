@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Minyichthys brachyrhinus",
+    "SpecCode": "7740",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Minyichthys inusitatus",
+    "SpecCode": "61279",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Minyichthys myersi",
+    "SpecCode": "5978",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Minyichthys sentus",
+    "SpecCode": "17239",
+    "CommonName": "Aafrika pisinõel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

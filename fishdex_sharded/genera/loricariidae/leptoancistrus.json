@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Leptoancistrus canensis",
+    "SpecCode": "50073",
+    "CommonName": "Vuoristopleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptoancistrus cordobensis",
+    "SpecCode": "61603",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

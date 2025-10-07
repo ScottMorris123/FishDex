@@ -1,0 +1,22 @@
+{
+  "Family": "Rhamphocottidae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Grunt sculpins",
+  "Genera": [
+    {
+      "Genus": "Ereunias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhamphocottidae/ereunias.json"
+    },
+    {
+      "Genus": "Marukawichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/rhamphocottidae/marukawichthys.json"
+    },
+    {
+      "Genus": "Rhamphocottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhamphocottidae/rhamphocottus.json"
+    }
+  ]
+}

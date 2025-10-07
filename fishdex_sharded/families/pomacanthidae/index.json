@@ -1,0 +1,47 @@
+{
+  "Family": "Pomacanthidae",
+  "Order": "Acanthuriformes",
+  "Common": "Angelfishes",
+  "Genera": [
+    {
+      "Genus": "Apolemichthys",
+      "SpeciesCount": 9,
+      "genus_path": "genera/pomacanthidae/apolemichthys.json"
+    },
+    {
+      "Genus": "Centropyge",
+      "SpeciesCount": 35,
+      "genus_path": "genera/pomacanthidae/centropyge.json"
+    },
+    {
+      "Genus": "Chaetodontoplus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/pomacanthidae/chaetodontoplus.json"
+    },
+    {
+      "Genus": "Genicanthus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/pomacanthidae/genicanthus.json"
+    },
+    {
+      "Genus": "Holacanthus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/pomacanthidae/holacanthus.json"
+    },
+    {
+      "Genus": "Paracentropyge",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacanthidae/paracentropyge.json"
+    },
+    {
+      "Genus": "Pomacanthus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/pomacanthidae/pomacanthus.json"
+    },
+    {
+      "Genus": "Pygoplites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomacanthidae/pygoplites.json"
+    }
+  ]
+}

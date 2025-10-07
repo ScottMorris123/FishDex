@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Homodiaetus anisitsi",
+    "SpecCode": "48768",
+    "CommonName": "Chupa-chupa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homodiaetus banguela",
+    "SpecCode": "61831",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homodiaetus graciosa",
+    "SpecCode": "61832",
+    "CommonName": "Cambeba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homodiaetus passarellii",
+    "SpecCode": "48763",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

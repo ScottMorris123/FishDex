@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Ogilbichthys ferocis",
+    "SpecCode": "63363",
+    "CommonName": "Ferocious coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbichthys haitiensis",
+    "SpecCode": "63364",
+    "CommonName": "Haiti coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbichthys kakuki",
+    "SpecCode": "63365",
+    "CommonName": "Kakuk's coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbichthys longimanus",
+    "SpecCode": "63366",
+    "CommonName": "Longfinned coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbichthys microphthalmus",
+    "SpecCode": "63368",
+    "CommonName": "Small-eyed coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbichthys puertoricoensis",
+    "SpecCode": "63369",
+    "CommonName": "Puerto Rico coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ogilbichthys tobagoensis",
+    "SpecCode": "63371",
+    "CommonName": "Tobago coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

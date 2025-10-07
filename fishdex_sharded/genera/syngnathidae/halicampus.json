@@ -1,0 +1,111 @@
+[
+  {
+    "ScientificName": "Halicampus boothae",
+    "SpecCode": "12773",
+    "CommonName": "Booth's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus brocki",
+    "SpecCode": "6009",
+    "CommonName": "Brock's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus dunckeri",
+    "SpecCode": "5974",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus edmondsoni",
+    "SpecCode": "46134",
+    "CommonName": "Edmondson's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus grayi",
+    "SpecCode": "7727",
+    "CommonName": "Cá Chìa vôi gai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus macrorhynchus",
+    "SpecCode": "10225",
+    "CommonName": "Ornate pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus marquesensis",
+    "SpecCode": "46135",
+    "CommonName": "馬貴斯海蠋魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus mataafae",
+    "SpecCode": "5975",
+    "CommonName": "Brown pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus nitidus",
+    "SpecCode": "5976",
+    "CommonName": "Cá Chìa vôi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus punctatus",
+    "SpecCode": "23121",
+    "CommonName": "Hoshiyôji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus spinirostris",
+    "SpecCode": "46136",
+    "CommonName": "Spiny snout pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicampus zavorensis",
+    "SpecCode": "23269",
+    "CommonName": "Zavora pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

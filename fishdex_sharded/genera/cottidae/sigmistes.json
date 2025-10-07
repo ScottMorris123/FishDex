@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Sigmistes caulias",
+    "SpecCode": "4141",
+    "CommonName": "Kelp sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sigmistes smithi",
+    "SpecCode": "4142",
+    "CommonName": "Arched sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

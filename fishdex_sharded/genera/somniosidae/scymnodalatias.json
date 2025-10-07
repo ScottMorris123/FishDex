@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Scymnodalatias albicauda",
+    "SpecCode": "27194",
+    "CommonName": "Valgesaba-hämarhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scymnodalatias garricki",
+    "SpecCode": "53990",
+    "CommonName": "Assoori hämarhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scymnodalatias oligodon",
+    "SpecCode": "53989",
+    "CommonName": "Hõrehamb-hämarhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scymnodalatias sherwoodi",
+    "SpecCode": "698",
+    "CommonName": "Bruja de Canterbury",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

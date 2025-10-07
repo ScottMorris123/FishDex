@@ -1,0 +1,338 @@
+[
+  {
+    "ScientificName": "Squalus acanthias",
+    "SpecCode": "139",
+    "CommonName": "Abou shoka",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus albicaudus",
+    "SpecCode": "67976",
+    "CommonName": "Brazilian whitetail dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus albifrons",
+    "SpecCode": "63578",
+    "CommonName": "Eastern highfin spurdog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus altipinnis",
+    "SpecCode": "63579",
+    "CommonName": "Kõrguim-ogahai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus bahiensis",
+    "SpecCode": "67981",
+    "CommonName": "Cação-bagre-da-Bahia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus bassi",
+    "SpecCode": "68370",
+    "CommonName": "Langneus-penhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus blainville",
+    "SpecCode": "708",
+    "CommonName": "Agullat xato",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus boretzi",
+    "SpecCode": "69935",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus brevirostris",
+    "SpecCode": "63317",
+    "CommonName": "Duǎn wěn jiǎo shā",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus bucephalus",
+    "SpecCode": "63434",
+    "CommonName": "Aiguillat à grosse tête",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus chloroculus",
+    "SpecCode": "63582",
+    "CommonName": "Greeneye spurdog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus clarkae",
+    "SpecCode": "68990",
+    "CommonName": "Genie's dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus crassispinus",
+    "SpecCode": "63433",
+    "CommonName": "Fatspine spurdog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus cubensis",
+    "SpecCode": "709",
+    "CommonName": "Aiguillat cubain",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus edmundsi",
+    "SpecCode": "63588",
+    "CommonName": "Cucut botol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus formosus",
+    "SpecCode": "66267",
+    "CommonName": "Hiretaka-tsunozame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus grahami",
+    "SpecCode": "63589",
+    "CommonName": "Eastern longnose spurdog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus griffini",
+    "SpecCode": "63659",
+    "CommonName": "Green-eyed dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus hawaiiensis",
+    "SpecCode": "69807",
+    "CommonName": "Hawaiian spurdog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus hemipinnis",
+    "SpecCode": "63661",
+    "CommonName": "Cucut botol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus japonicus",
+    "SpecCode": "710",
+    "CommonName": "Aiguillat togari",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus lalannei",
+    "SpecCode": "63813",
+    "CommonName": "Seišelli ogahai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus lobularis",
+    "SpecCode": "67977",
+    "CommonName": "Atlantic lobefin dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus longispinis",
+    "SpecCode": "70407",
+    "CommonName": "La Réunion longspine spurdog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus mahia",
+    "SpecCode": "68371",
+    "CommonName": "Malagasy skinny spurdog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus margaretsmithae",
+    "SpecCode": "68372",
+    "CommonName": "Smith's dogfish shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus megalops",
+    "SpecCode": "711",
+    "CommonName": "Aiguillat à nez court",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus melanurus",
+    "SpecCode": "712",
+    "CommonName": "Aiguillat à queue noire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus mitsukurii",
+    "SpecCode": "713",
+    "CommonName": "Aiguillat épinette",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus montalbani",
+    "SpecCode": "63581",
+    "CommonName": "Hiu botol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus nasutus",
+    "SpecCode": "63590",
+    "CommonName": "Hiu botol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus notocaudatus",
+    "SpecCode": "63580",
+    "CommonName": "Bartail spurdog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus quasimodo",
+    "SpecCode": "67982",
+    "CommonName": "Cação-bagre-corcunda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus rancureli",
+    "SpecCode": "714",
+    "CommonName": "Aiguillat cyrano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus raoulensis",
+    "SpecCode": "63576",
+    "CommonName": "Kermadec spiny dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus shiraii",
+    "SpecCode": "69172",
+    "CommonName": "Hiretaka-tsunozame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalus suckleyi",
+    "SpecCode": "65869",
+    "CommonName": "Abura-tsunozame",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

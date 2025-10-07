@@ -1,0 +1,345 @@
+[
+  {
+    "ScientificName": "Starksia atlantica",
+    "SpecCode": "16468",
+    "CommonName": "Sapito pelón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia brasiliensis",
+    "SpecCode": "48256",
+    "CommonName": "巴西斯氏脂胎鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia cremnobates",
+    "SpecCode": "54360",
+    "CommonName": "Fugitive blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia culebrae",
+    "SpecCode": "48257",
+    "CommonName": "丘尔斯氏脂胎鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia elongata",
+    "SpecCode": "47272",
+    "CommonName": "Elongate blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia fasciata",
+    "SpecCode": "27685",
+    "CommonName": "Blackbar blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia fulva",
+    "SpecCode": "46693",
+    "CommonName": "Yellow blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia galapagensis",
+    "SpecCode": "46695",
+    "CommonName": "Galapagos blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia grammilaga",
+    "SpecCode": "54361",
+    "CommonName": "Pinstriped blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia greenfieldi",
+    "SpecCode": "65914",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia guadalupae",
+    "SpecCode": "62530",
+    "CommonName": "Guadalupe blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia guttata",
+    "SpecCode": "47273",
+    "CommonName": "Spotted blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia hassi",
+    "SpecCode": "23736",
+    "CommonName": "Ringed blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia hoesei",
+    "SpecCode": "54362",
+    "CommonName": "Hose blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia langi",
+    "SpecCode": "65915",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia lepicoelia",
+    "SpecCode": "16466",
+    "CommonName": "Blackcheek blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia lepidogaster",
+    "SpecCode": "54363",
+    "CommonName": "Scalybelly blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia leucovitta",
+    "SpecCode": "61473",
+    "CommonName": "Whitesaddle blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia melasma",
+    "SpecCode": "61474",
+    "CommonName": "Black spot blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia multilepis",
+    "SpecCode": "61475",
+    "CommonName": "Manyscaled blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia nanodes",
+    "SpecCode": "16467",
+    "CommonName": "Dwarf blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia occidentalis",
+    "SpecCode": "47271",
+    "CommonName": "Occidental blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia ocellata",
+    "SpecCode": "3750",
+    "CommonName": "Checkered blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia posthon",
+    "SpecCode": "46697",
+    "CommonName": "Brownspotted blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia rava",
+    "SpecCode": "61476",
+    "CommonName": "Tawny blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia robertsoni",
+    "SpecCode": "65913",
+    "CommonName": "Panama blackcheek shy blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia sangreyae",
+    "SpecCode": "65909",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia sella",
+    "SpecCode": "61477",
+    "CommonName": "Darksaddle blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia sluiteri",
+    "SpecCode": "27236",
+    "CommonName": "Chessboard blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia smithvanizi",
+    "SpecCode": "61479",
+    "CommonName": "Brokenbar blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia spinipenis",
+    "SpecCode": "46699",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia splendens",
+    "SpecCode": "69045",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia springeri",
+    "SpecCode": "65910",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia starcki",
+    "SpecCode": "3751",
+    "CommonName": "Key blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia variabilis",
+    "SpecCode": "48258",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia weigti",
+    "SpecCode": "65911",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia williamsi",
+    "SpecCode": "65912",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Starksia y-lineata",
+    "SpecCode": "57927",
+    "CommonName": "Forked bar blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

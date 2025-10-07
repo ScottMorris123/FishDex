@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Rhinoptera bonasus",
+    "SpecCode": "2584",
+    "CommonName": "Airayu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinoptera brasiliensis",
+    "SpecCode": "14148",
+    "CommonName": "Arraia-ticonha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinoptera javanica",
+    "SpecCode": "7971",
+    "CommonName": "Banugan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinoptera jayakari",
+    "SpecCode": "27176",
+    "CommonName": "Maran indický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinoptera marginata",
+    "SpecCode": "8976",
+    "CommonName": "Afrikaanse koeneusrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinoptera neglecta",
+    "SpecCode": "15421",
+    "CommonName": "Austraalia härjapearai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinoptera steindachneri",
+    "SpecCode": "13271",
+    "CommonName": "Cow-nosed ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

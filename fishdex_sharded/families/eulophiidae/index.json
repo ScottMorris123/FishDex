@@ -1,0 +1,22 @@
+{
+  "Family": "Eulophiidae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "\"Spinous fin eelpouts\"",
+  "Genera": [
+    {
+      "Genus": "Azygopterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/eulophiidae/azygopterus.json"
+    },
+    {
+      "Genus": "Eulophias",
+      "SpeciesCount": 3,
+      "genus_path": "genera/eulophiidae/eulophias.json"
+    },
+    {
+      "Genus": "Leptostichaeus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/eulophiidae/leptostichaeus.json"
+    }
+  ]
+}

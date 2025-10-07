@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Variola albimarginata",
+    "SpecCode": "6478",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Variola louti",
+    "SpecCode": "5354",
+    "CommonName": "Aswetu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

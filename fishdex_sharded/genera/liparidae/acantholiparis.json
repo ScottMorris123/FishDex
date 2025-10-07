@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Acantholiparis caecus",
+    "SpecCode": "51500",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acantholiparis opercularis",
+    "SpecCode": "25262",
+    "CommonName": "Spiny snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

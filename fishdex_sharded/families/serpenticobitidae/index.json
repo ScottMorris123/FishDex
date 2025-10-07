@@ -1,0 +1,12 @@
+{
+  "Family": "Serpenticobitidae",
+  "Order": "Cypriniformes",
+  "Common": "Snake loaches",
+  "Genera": [
+    {
+      "Genus": "Serpenticobitis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/serpenticobitidae/serpenticobitis.json"
+    }
+  ]
+}

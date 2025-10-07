@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Proscyllium habereri",
+    "SpecCode": "5922",
+    "CommonName": "Cá Ngéo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Proscyllium magnificum",
+    "SpecCode": "63353",
+    "CommonName": "Kaunis sirehai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Proscyllium venustum",
+    "SpecCode": "58720",
+    "CommonName": "Hyōzame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

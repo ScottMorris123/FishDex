@@ -1,0 +1,87 @@
+{
+  "Family": "Oneirodidae",
+  "Order": "Lophiiformes",
+  "Common": "Dreamers",
+  "Genera": [
+    {
+      "Genus": "Bertella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oneirodidae/bertella.json"
+    },
+    {
+      "Genus": "Chaenophryne",
+      "SpeciesCount": 5,
+      "genus_path": "genera/oneirodidae/chaenophryne.json"
+    },
+    {
+      "Genus": "Chirophryne",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oneirodidae/chirophryne.json"
+    },
+    {
+      "Genus": "Ctenochirichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oneirodidae/ctenochirichthys.json"
+    },
+    {
+      "Genus": "Danaphryne",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oneirodidae/danaphryne.json"
+    },
+    {
+      "Genus": "Dermatias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oneirodidae/dermatias.json"
+    },
+    {
+      "Genus": "Dolopichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/oneirodidae/dolopichthys.json"
+    },
+    {
+      "Genus": "Leptacanthichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oneirodidae/leptacanthichthys.json"
+    },
+    {
+      "Genus": "Lophodolos",
+      "SpeciesCount": 2,
+      "genus_path": "genera/oneirodidae/lophodolos.json"
+    },
+    {
+      "Genus": "Microlophichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/oneirodidae/microlophichthys.json"
+    },
+    {
+      "Genus": "Oneirodes",
+      "SpeciesCount": 42,
+      "genus_path": "genera/oneirodidae/oneirodes.json"
+    },
+    {
+      "Genus": "Pentherichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oneirodidae/pentherichthys.json"
+    },
+    {
+      "Genus": "Phyllorhinichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/oneirodidae/phyllorhinichthys.json"
+    },
+    {
+      "Genus": "Puck",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oneirodidae/puck.json"
+    },
+    {
+      "Genus": "Spiniphryne",
+      "SpeciesCount": 2,
+      "genus_path": "genera/oneirodidae/spiniphryne.json"
+    },
+    {
+      "Genus": "Tyrannophryne",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oneirodidae/tyrannophryne.json"
+    }
+  ]
+}

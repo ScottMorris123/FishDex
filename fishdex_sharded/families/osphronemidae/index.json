@@ -1,0 +1,77 @@
+{
+  "Family": "Osphronemidae",
+  "Order": "Anabantiformes",
+  "Common": "Gouramies",
+  "Genera": [
+    {
+      "Genus": "Belontia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/osphronemidae/belontia.json"
+    },
+    {
+      "Genus": "Betta",
+      "SpeciesCount": 75,
+      "genus_path": "genera/osphronemidae/betta.json"
+    },
+    {
+      "Genus": "Ctenops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/osphronemidae/ctenops.json"
+    },
+    {
+      "Genus": "Luciocephalus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/osphronemidae/luciocephalus.json"
+    },
+    {
+      "Genus": "Macropodus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/osphronemidae/macropodus.json"
+    },
+    {
+      "Genus": "Malpulutta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/osphronemidae/malpulutta.json"
+    },
+    {
+      "Genus": "Osphronemus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/osphronemidae/osphronemus.json"
+    },
+    {
+      "Genus": "Parasphaerichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/osphronemidae/parasphaerichthys.json"
+    },
+    {
+      "Genus": "Parosphromenus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/osphronemidae/parosphromenus.json"
+    },
+    {
+      "Genus": "Pseudosphromenus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/osphronemidae/pseudosphromenus.json"
+    },
+    {
+      "Genus": "Sphaerichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/osphronemidae/sphaerichthys.json"
+    },
+    {
+      "Genus": "Trichogaster",
+      "SpeciesCount": 4,
+      "genus_path": "genera/osphronemidae/trichogaster.json"
+    },
+    {
+      "Genus": "Trichopodus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/osphronemidae/trichopodus.json"
+    },
+    {
+      "Genus": "Trichopsis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/osphronemidae/trichopsis.json"
+    }
+  ]
+}

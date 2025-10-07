@@ -1,0 +1,222 @@
+{
+  "Family": "Trichomycteridae",
+  "Order": "Siluriformes",
+  "Common": "Pencil or parasitic catfishes",
+  "Genera": [
+    {
+      "Genus": "Acanthopoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/acanthopoma.json"
+    },
+    {
+      "Genus": "Ammoglanis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trichomycteridae/ammoglanis.json"
+    },
+    {
+      "Genus": "Apomatoceros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/apomatoceros.json"
+    },
+    {
+      "Genus": "Bullockia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/bullockia.json"
+    },
+    {
+      "Genus": "Cambeva",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trichomycteridae/cambeva.json"
+    },
+    {
+      "Genus": "Copionodon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/trichomycteridae/copionodon.json"
+    },
+    {
+      "Genus": "Eremophilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/eremophilus.json"
+    },
+    {
+      "Genus": "Glanapteryx",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/glanapteryx.json"
+    },
+    {
+      "Genus": "Glaphyropoma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/glaphyropoma.json"
+    },
+    {
+      "Genus": "Haemomaster",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/haemomaster.json"
+    },
+    {
+      "Genus": "Hatcheria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/hatcheria.json"
+    },
+    {
+      "Genus": "Henonemus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/trichomycteridae/henonemus.json"
+    },
+    {
+      "Genus": "Homodiaetus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/trichomycteridae/homodiaetus.json"
+    },
+    {
+      "Genus": "Ituglanis",
+      "SpeciesCount": 27,
+      "genus_path": "genera/trichomycteridae/ituglanis.json"
+    },
+    {
+      "Genus": "Listrura",
+      "SpeciesCount": 7,
+      "genus_path": "genera/trichomycteridae/listrura.json"
+    },
+    {
+      "Genus": "Malacoglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/malacoglanis.json"
+    },
+    {
+      "Genus": "Megalocentor",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/megalocentor.json"
+    },
+    {
+      "Genus": "Microcambeva",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trichomycteridae/microcambeva.json"
+    },
+    {
+      "Genus": "Miuroglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/miuroglanis.json"
+    },
+    {
+      "Genus": "Ochmacanthus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/trichomycteridae/ochmacanthus.json"
+    },
+    {
+      "Genus": "Paracanthopoma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/paracanthopoma.json"
+    },
+    {
+      "Genus": "Parastegophilus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/parastegophilus.json"
+    },
+    {
+      "Genus": "Paravandellia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/paravandellia.json"
+    },
+    {
+      "Genus": "Pareiodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/pareiodon.json"
+    },
+    {
+      "Genus": "Plectrochilus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trichomycteridae/plectrochilus.json"
+    },
+    {
+      "Genus": "Potamoglanis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/trichomycteridae/potamoglanis.json"
+    },
+    {
+      "Genus": "Pseudostegophilus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/pseudostegophilus.json"
+    },
+    {
+      "Genus": "Pygidianops",
+      "SpeciesCount": 4,
+      "genus_path": "genera/trichomycteridae/pygidianops.json"
+    },
+    {
+      "Genus": "Rhizosomichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/rhizosomichthys.json"
+    },
+    {
+      "Genus": "Sarcoglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/sarcoglanis.json"
+    },
+    {
+      "Genus": "Schultzichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/schultzichthys.json"
+    },
+    {
+      "Genus": "Scleronema",
+      "SpeciesCount": 9,
+      "genus_path": "genera/trichomycteridae/scleronema.json"
+    },
+    {
+      "Genus": "Silvinichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/trichomycteridae/silvinichthys.json"
+    },
+    {
+      "Genus": "Stauroglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/stauroglanis.json"
+    },
+    {
+      "Genus": "Stegophilus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trichomycteridae/stegophilus.json"
+    },
+    {
+      "Genus": "Stenolicmus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/stenolicmus.json"
+    },
+    {
+      "Genus": "Trichogenes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/trichogenes.json"
+    },
+    {
+      "Genus": "Trichomycterus",
+      "SpeciesCount": 172,
+      "genus_path": "genera/trichomycteridae/trichomycterus.json"
+    },
+    {
+      "Genus": "Tridens",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trichomycteridae/tridens.json"
+    },
+    {
+      "Genus": "Tridensimilis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trichomycteridae/tridensimilis.json"
+    },
+    {
+      "Genus": "Tridentopsis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trichomycteridae/tridentopsis.json"
+    },
+    {
+      "Genus": "Typhlobelus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/trichomycteridae/typhlobelus.json"
+    },
+    {
+      "Genus": "Vandellia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/trichomycteridae/vandellia.json"
+    }
+  ]
+}

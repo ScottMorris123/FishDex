@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Lobotes pacifica",
+    "SpecCode": "60984",
+    "CommonName": "Berrugate",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobotes surinamensis",
+    "SpecCode": "1077",
+    "CommonName": "Acará-açu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

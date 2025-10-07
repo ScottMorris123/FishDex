@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Percis japonica",
+    "SpecCode": "23990",
+    "CommonName": "Dragon poacher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percis matsuii",
+    "SpecCode": "23991",
+    "CommonName": "Tonbo-inugochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

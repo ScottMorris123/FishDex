@@ -1,0 +1,22 @@
+{
+  "Family": "Gaidropsaridae",
+  "Order": "Gadiformes",
+  "Common": "Rocklings",
+  "Genera": [
+    {
+      "Genus": "Ciliata",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gaidropsaridae/ciliata.json"
+    },
+    {
+      "Genus": "Enchelyopus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gaidropsaridae/enchelyopus.json"
+    },
+    {
+      "Genus": "Gaidropsarus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/gaidropsaridae/gaidropsarus.json"
+    }
+  ]
+}

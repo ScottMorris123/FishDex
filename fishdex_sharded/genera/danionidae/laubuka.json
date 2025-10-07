@@ -1,0 +1,111 @@
+[
+  {
+    "ScientificName": "Laubuka brahmaputraensis",
+    "SpecCode": "66553",
+    "CommonName": "Brahmaputra laubuk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka caeruleostigmata",
+    "SpecCode": "6102",
+    "CommonName": "Asian hatchetfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka fasciata",
+    "SpecCode": "24213",
+    "CommonName": "Kiiltokölibarbi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka hema",
+    "SpecCode": "69844",
+    "CommonName": "Gal oya blue laubuka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka lankensis",
+    "SpecCode": "64697",
+    "CommonName": "Lanka blue laubuka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka latens",
+    "SpecCode": "68841",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka laubuca",
+    "SpecCode": "12061",
+    "CommonName": "Bankoe",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka parafasciata",
+    "SpecCode": "68840",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka siamensis",
+    "SpecCode": "67464",
+    "CommonName": "Tai laubuk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka tenella",
+    "SpecCode": "68836",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka trevori",
+    "SpecCode": "68842",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laubuka varuna",
+    "SpecCode": "64010",
+    "CommonName": "Läänelaubuk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

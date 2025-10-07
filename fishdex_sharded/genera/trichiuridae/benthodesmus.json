@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Benthodesmus elongatus",
+    "SpecCode": "3909",
+    "CommonName": "Aflang frostfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus macrophthalmus",
+    "SpecCode": "8546",
+    "CommonName": "Bigeye frostfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus neglectus",
+    "SpecCode": "8547",
+    "CommonName": "Cintilla descuido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus oligoradiatus",
+    "SpecCode": "8548",
+    "CommonName": "Cintilla rastrillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus pacificus",
+    "SpecCode": "8550",
+    "CommonName": "Bigeye frostfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus papua",
+    "SpecCode": "8552",
+    "CommonName": "Cintilla papua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus simonyi",
+    "SpecCode": "8553",
+    "CommonName": "Benthodema",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus suluensis",
+    "SpecCode": "8555",
+    "CommonName": "Balila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus tenuis",
+    "SpecCode": "8563",
+    "CommonName": "Balila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus tuckeri",
+    "SpecCode": "8565",
+    "CommonName": "Balila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthodesmus vityazi",
+    "SpecCode": "8566",
+    "CommonName": "Balila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

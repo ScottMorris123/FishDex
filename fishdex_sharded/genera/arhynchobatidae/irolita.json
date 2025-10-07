@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Irolita waitii",
+    "SpecCode": "24062",
+    "CommonName": "Lõunaaustraalia iroliitarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Irolita westraliensis",
+    "SpecCode": "63976",
+    "CommonName": "Lääneaustraalia iroliitarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

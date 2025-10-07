@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hippopotamyrus castor",
+    "SpecCode": "5201",
+    "CommonName": "Piiber-peemotkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippopotamyrus paugyi",
+    "SpecCode": "5203",
+    "CommonName": "Huulinuijakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippopotamyrus pictus",
+    "SpecCode": "5202",
+    "CommonName": "Bakin lali",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

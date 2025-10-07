@@ -1,0 +1,68 @@
+[
+  {
+    "ScientificName": "Aetomylaeus asperrimus",
+    "SpecCode": "13200",
+    "CommonName": "Aguila áspera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetomylaeus bovinus",
+    "SpecCode": "5011",
+    "CommonName": "Afrikanischer Adlerrochen",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetomylaeus caeruleofasciatus",
+    "SpecCode": "67984",
+    "CommonName": "Blue-banded eagle ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetomylaeus maculatus",
+    "SpecCode": "12594",
+    "CommonName": "Bat ray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetomylaeus milvus",
+    "SpecCode": "12597",
+    "CommonName": "Bolad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetomylaeus nichofii",
+    "SpecCode": "10120",
+    "CommonName": "Aosuji tobiei",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aetomylaeus vespertilio",
+    "SpecCode": "12599",
+    "CommonName": "Cá Ó dơi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

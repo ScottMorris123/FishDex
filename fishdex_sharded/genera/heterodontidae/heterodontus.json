@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Heterodontus francisci",
+    "SpecCode": "739",
+    "CommonName": "Californische stierkophaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterodontus galeatus",
+    "SpecCode": "740",
+    "CommonName": "Crested bull shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterodontus japonicus",
+    "SpecCode": "741",
+    "CommonName": "Bull-head shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterodontus marshallae",
+    "SpecCode": "70405",
+    "CommonName": "Painted hornshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterodontus mexicanus",
+    "SpecCode": "742",
+    "CommonName": "Dormilón búfalo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterodontus omanensis",
+    "SpecCode": "62233",
+    "CommonName": "Omaani härghai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterodontus portusjacksoni",
+    "SpecCode": "743",
+    "CommonName": "Australiansarvihai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterodontus quoyi",
+    "SpecCode": "744",
+    "CommonName": "Dormilón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterodontus ramalheira",
+    "SpecCode": "745",
+    "CommonName": "Dormilón boquigrande",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterodontus zebra",
+    "SpecCode": "746",
+    "CommonName": "Barred bull-head shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

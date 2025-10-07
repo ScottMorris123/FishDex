@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Pristolepis fasciata",
+    "SpecCode": "10318",
+    "CommonName": "Cá rô bien",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristolepis grootii",
+    "SpecCode": "12290",
+    "CommonName": "Indonesian leaffish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristolepis malabarica",
+    "SpecCode": "68512",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristolepis marginata",
+    "SpecCode": "10231",
+    "CommonName": "Chuttichi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristolepis pauciradiata",
+    "SpecCode": "68416",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristolepis pentacantha",
+    "SpecCode": "67797",
+    "CommonName": "Wayanad leaffish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristolepis procerus",
+    "SpecCode": "68511",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristolepis rubripinnis",
+    "SpecCode": "66807",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

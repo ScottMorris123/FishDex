@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Platyrhina hyugaensis",
+    "SpecCode": "65931",
+    "CommonName": "Hyuga fanray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platyrhina psomadakisi",
+    "SpecCode": "68225",
+    "CommonName": "Indian fanray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platyrhina sinensis",
+    "SpecCode": "9211",
+    "CommonName": "Amoy fanray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platyrhina tangi",
+    "SpecCode": "65932",
+    "CommonName": "Tangi lameninarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Salminus affinis",
+    "SpecCode": "51187",
+    "CommonName": "Dama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salminus brasiliensis",
+    "SpecCode": "56329",
+    "CommonName": "Dama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salminus franciscanus",
+    "SpecCode": "63897",
+    "CommonName": "Dourado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salminus hilarii",
+    "SpecCode": "51188",
+    "CommonName": "Dama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

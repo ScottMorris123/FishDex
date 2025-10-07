@@ -1,0 +1,27 @@
+{
+  "Family": "Lestidiidae",
+  "Order": "Aulopiformes",
+  "Common": "Naked barracudinas",
+  "Genera": [
+    {
+      "Genus": "Lestidiops",
+      "SpeciesCount": 17,
+      "genus_path": "genera/lestidiidae/lestidiops.json"
+    },
+    {
+      "Genus": "Lestidium",
+      "SpeciesCount": 8,
+      "genus_path": "genera/lestidiidae/lestidium.json"
+    },
+    {
+      "Genus": "Lestrolepis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/lestidiidae/lestrolepis.json"
+    },
+    {
+      "Genus": "Macroparalepis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/lestidiidae/macroparalepis.json"
+    }
+  ]
+}

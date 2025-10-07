@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Benitochromis batesii",
+    "SpecCode": "8156",
+    "CommonName": "Bates Prachtbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benitochromis conjunctus",
+    "SpecCode": "60333",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benitochromis finleyi",
+    "SpecCode": "8158",
+    "CommonName": "Aferec",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benitochromis nigrodorsalis",
+    "SpecCode": "59597",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benitochromis riomuniensis",
+    "SpecCode": "8646",
+    "CommonName": "Täpläpalettikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benitochromis ufermanni",
+    "SpecCode": "60334",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

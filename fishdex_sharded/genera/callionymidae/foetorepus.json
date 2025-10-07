@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Foetorepus agassizii",
+    "SpecCode": "10187",
+    "CommonName": "Beninumeri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foetorepus calauropomus",
+    "SpecCode": "14438",
+    "CommonName": "Common stinkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foetorepus dagmarae",
+    "SpecCode": "60556",
+    "CommonName": "Beni-numeri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foetorepus garthi",
+    "SpecCode": "60562",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foetorepus kamoharai",
+    "SpecCode": "24199",
+    "CommonName": "Amime-nodokusari",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foetorepus masudai",
+    "SpecCode": "13068",
+    "CommonName": "Masuda's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foetorepus paxtoni",
+    "SpecCode": "60544",
+    "CommonName": "Paxton's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foetorepus phasis",
+    "SpecCode": "14439",
+    "CommonName": "Bight stinkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Foetorepus talarae",
+    "SpecCode": "60563",
+    "CommonName": "塔氏连鳍",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

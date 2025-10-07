@@ -1,0 +1,47 @@
+{
+  "Family": "Hemerocoetidae",
+  "Order": "Acropomatiformes",
+  "Common": "Indo-Pacific duckbills",
+  "Genera": [
+    {
+      "Genus": "Acanthaphritis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/hemerocoetidae/acanthaphritis.json"
+    },
+    {
+      "Genus": "Dactylopsaron",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hemerocoetidae/dactylopsaron.json"
+    },
+    {
+      "Genus": "Enigmapercis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/hemerocoetidae/enigmapercis.json"
+    },
+    {
+      "Genus": "Hemerocoetes",
+      "SpeciesCount": 5,
+      "genus_path": "genera/hemerocoetidae/hemerocoetes.json"
+    },
+    {
+      "Genus": "Matsubaraea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hemerocoetidae/matsubaraea.json"
+    },
+    {
+      "Genus": "Osopsaron",
+      "SpeciesCount": 3,
+      "genus_path": "genera/hemerocoetidae/osopsaron.json"
+    },
+    {
+      "Genus": "Pteropsaron",
+      "SpeciesCount": 10,
+      "genus_path": "genera/hemerocoetidae/pteropsaron.json"
+    },
+    {
+      "Genus": "Squamicreedia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hemerocoetidae/squamicreedia.json"
+    }
+  ]
+}

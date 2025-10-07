@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Harengula clupeola",
+    "SpecCode": "1478",
+    "CommonName": "Atlandi sardiinike",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harengula humeralis",
+    "SpecCode": "1479",
+    "CommonName": "Cailleu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harengula jaguana",
+    "SpecCode": "1480",
+    "CommonName": "Cascarua",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harengula thrissina",
+    "SpecCode": "1481",
+    "CommonName": "Anchovia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

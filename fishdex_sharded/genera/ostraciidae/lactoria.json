@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Lactoria cornuta",
+    "SpecCode": "6399",
+    "CommonName": "Baka baka",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lactoria diaphana",
+    "SpecCode": "6554",
+    "CommonName": "Cofre espinoso",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lactoria fornasini",
+    "SpecCode": "7837",
+    "CommonName": "Backspine cowfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lactoria paschae",
+    "SpecCode": "54967",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "ScientificName": "Lycenchelys alba",
+    "SpecCode": "15473",
+    "CommonName": "Dybhavs-porebrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys albeola",
+    "SpecCode": "48092",
+    "CommonName": "白体蛇绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys albomaculata",
+    "SpecCode": "23830",
+    "CommonName": "Shirobuchi-hebigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys alta",
+    "SpecCode": "48390",
+    "CommonName": "高身蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys antarctica",
+    "SpecCode": "7015",
+    "CommonName": "南极蛇绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys aratrirostris",
+    "SpecCode": "7016",
+    "CommonName": "多椎蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys argentina",
+    "SpecCode": "7017",
+    "CommonName": "銀蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys aurantiaca",
+    "SpecCode": "52712",
+    "CommonName": "Daidai-hebigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys bachmanni",
+    "SpecCode": "48094",
+    "CommonName": "Viuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys bellingshauseni",
+    "SpecCode": "7018",
+    "CommonName": "貝氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys bullisi",
+    "SpecCode": "48099",
+    "CommonName": "布氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys callista",
+    "SpecCode": "58976",
+    "CommonName": "美丽蛇绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys camchatica",
+    "SpecCode": "48101",
+    "CommonName": "堪察加蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys chauliodus",
+    "SpecCode": "58977",
+    "CommonName": "突齒蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys cicatrifer",
+    "SpecCode": "48102",
+    "CommonName": "下口蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys crotalinus",
+    "SpecCode": "11658",
+    "CommonName": "Snakehead eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys fedorovi",
+    "SpecCode": "57896",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys folletti",
+    "SpecCode": "58978",
+    "CommonName": "福氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys hadrogeneia",
+    "SpecCode": "58979",
+    "CommonName": "厚頦蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys hippopotamus",
+    "SpecCode": "23825",
+    "CommonName": "Hebigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys hureaui",
+    "SpecCode": "7019",
+    "CommonName": "Lycode de Hureau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys imamurai",
+    "SpecCode": "64611",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys incisa",
+    "SpecCode": "48105",
+    "CommonName": "切口蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys jordani",
+    "SpecCode": "24699",
+    "CommonName": "Shortjaw eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys kolthoffi",
+    "SpecCode": "15471",
+    "CommonName": "Blettaálbrosma",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys lonchoura",
+    "SpecCode": "58980",
+    "CommonName": "矛首蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys maculata",
+    "SpecCode": "48108",
+    "CommonName": "Kurobuchihebigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys makushok",
+    "SpecCode": "48109",
+    "CommonName": "狡蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys maoriensis",
+    "SpecCode": "47020",
+    "CommonName": "新西兰蛇绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys melanostomias",
+    "SpecCode": "23826",
+    "CommonName": "Ohôtsuku-hebigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys micropora",
+    "SpecCode": "48110",
+    "CommonName": "小孔蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys monstrosa",
+    "SpecCode": "48188",
+    "CommonName": "怪蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys muraena",
+    "SpecCode": "15474",
+    "CommonName": "Álakendi úlvfiskur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys nanospinata",
+    "SpecCode": "7020",
+    "CommonName": "小棘蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys nigripalatum",
+    "SpecCode": "7021",
+    "CommonName": "黑腭蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys novaezealandiae",
+    "SpecCode": "64612",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys parini",
+    "SpecCode": "58990",
+    "CommonName": "Parin's wolf eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys paxillus",
+    "SpecCode": "48189",
+    "CommonName": "Common wolf eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys pearcyi",
+    "SpecCode": "58981",
+    "CommonName": "皮氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys pentactina",
+    "SpecCode": "58982",
+    "CommonName": "五条蛇绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys pequenoi",
+    "SpecCode": "58983",
+    "CommonName": "佩氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys peruana",
+    "SpecCode": "58984",
+    "CommonName": "佩魯納蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys platyrhina",
+    "SpecCode": "27736",
+    "CommonName": "Goliy litsenkhel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys plicifera",
+    "SpecCode": "48191",
+    "CommonName": "白令海蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys polyodon",
+    "SpecCode": "64613",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys porifer",
+    "SpecCode": "48192",
+    "CommonName": "野蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys rassi",
+    "SpecCode": "23829",
+    "CommonName": "Rasu-hebigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys ratmanovi",
+    "SpecCode": "48194",
+    "CommonName": "拉氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys remissaria",
+    "SpecCode": "58991",
+    "CommonName": "Shifted wolf eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys rosea",
+    "SpecCode": "48195",
+    "CommonName": "玫瑰蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys ryukyuensis",
+    "SpecCode": "63943",
+    "CommonName": "Ryukyu-hebigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys sarsii",
+    "SpecCode": "15640",
+    "CommonName": "Gweflogyn sars",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys scaurus",
+    "SpecCode": "48196",
+    "CommonName": "踝蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys squamosa",
+    "SpecCode": "23831",
+    "CommonName": "Uroko-hebigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys tohokuensis",
+    "SpecCode": "60032",
+    "CommonName": "Kitagawa-hebigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys tristichodon",
+    "SpecCode": "7022",
+    "CommonName": "叉齒蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys uschakovi",
+    "SpecCode": "48201",
+    "CommonName": "尤氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys verrillii",
+    "SpecCode": "3132",
+    "CommonName": "Lycode à tête longue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys vitiazi",
+    "SpecCode": "48202",
+    "CommonName": "維氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys volki",
+    "SpecCode": "48203",
+    "CommonName": "沃氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys wilkesi",
+    "SpecCode": "7023",
+    "CommonName": "威氏蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycenchelys xanthoptera",
+    "SpecCode": "58994",
+    "CommonName": "黃鰭蛇綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

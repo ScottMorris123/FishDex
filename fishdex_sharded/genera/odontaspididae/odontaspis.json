@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Odontaspis ferox",
+    "SpecCode": "749",
+    "CommonName": "Agriocarcharias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontaspis noronhai",
+    "SpecCode": "750",
+    "CommonName": "Bigeye sand shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

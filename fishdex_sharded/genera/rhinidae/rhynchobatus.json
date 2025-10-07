@@ -1,0 +1,85 @@
+[
+  {
+    "ScientificName": "Rhynchobatus australiae",
+    "SpecCode": "15380",
+    "CommonName": "Australische kegrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchobatus cooki",
+    "SpecCode": "68212",
+    "CommonName": "Clown wedgefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchobatus djiddensis",
+    "SpecCode": "5503",
+    "CommonName": "Anonan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchobatus immaculatus",
+    "SpecCode": "68082",
+    "CommonName": "Taiwanese Wedgefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchobatus laevis",
+    "SpecCode": "57375",
+    "CommonName": "Gladneuskegrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchobatus luebberti",
+    "SpecCode": "5017",
+    "CommonName": "Aafrika haisabarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchobatus mononoke",
+    "SpecCode": "69253",
+    "CommonName": "Japanese wedgefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchobatus palpebratus",
+    "SpecCode": "64134",
+    "CommonName": "Eyebrow wedgefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchobatus springeri",
+    "SpecCode": "65550",
+    "CommonName": "Broadnose wedgefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

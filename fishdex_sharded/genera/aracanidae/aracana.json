@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Aracana aurita",
+    "SpecCode": "14561",
+    "CommonName": "Painted boxfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aracana ornata",
+    "SpecCode": "14562",
+    "CommonName": "Muster-arakaan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

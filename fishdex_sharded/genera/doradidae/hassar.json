@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Hassar affinis",
+    "SpecCode": "47475",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hassar gabiru",
+    "SpecCode": "66281",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hassar orestis",
+    "SpecCode": "47479",
+    "CommonName": "Bagre hueso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hassar shewellkeimi",
+    "SpecCode": "67161",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hassar wilderi",
+    "SpecCode": "47482",
+    "CommonName": "Botinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

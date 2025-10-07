@@ -1,0 +1,17 @@
+{
+  "Family": "Grammatidae",
+  "Order": "Ovalentaria/misc",
+  "Common": "Basslets",
+  "Genera": [
+    {
+      "Genus": "Gramma",
+      "SpeciesCount": 5,
+      "genus_path": "genera/grammatidae/gramma.json"
+    },
+    {
+      "Genus": "Lipogramma",
+      "SpeciesCount": 13,
+      "genus_path": "genera/grammatidae/lipogramma.json"
+    }
+  ]
+}

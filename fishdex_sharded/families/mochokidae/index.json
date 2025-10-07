@@ -1,0 +1,52 @@
+{
+  "Family": "Mochokidae",
+  "Order": "Siluriformes",
+  "Common": "Squeakers or upside-down catfishes",
+  "Genera": [
+    {
+      "Genus": "Acanthocleithron",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mochokidae/acanthocleithron.json"
+    },
+    {
+      "Genus": "Atopochilus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/mochokidae/atopochilus.json"
+    },
+    {
+      "Genus": "Atopodontus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mochokidae/atopodontus.json"
+    },
+    {
+      "Genus": "Chiloglanis",
+      "SpeciesCount": 64,
+      "genus_path": "genera/mochokidae/chiloglanis.json"
+    },
+    {
+      "Genus": "Euchilichthys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/mochokidae/euchilichthys.json"
+    },
+    {
+      "Genus": "Microsynodontis",
+      "SpeciesCount": 12,
+      "genus_path": "genera/mochokidae/microsynodontis.json"
+    },
+    {
+      "Genus": "Mochokiella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mochokidae/mochokiella.json"
+    },
+    {
+      "Genus": "Mochokus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/mochokidae/mochokus.json"
+    },
+    {
+      "Genus": "Synodontis",
+      "SpeciesCount": 133,
+      "genus_path": "genera/mochokidae/synodontis.json"
+    }
+  ]
+}

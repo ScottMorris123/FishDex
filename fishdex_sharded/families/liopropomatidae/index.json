@@ -1,0 +1,37 @@
+{
+  "Family": "Liopropomatidae",
+  "Order": "Perciformes/Serranoidei",
+  "Common": "Painted basslets",
+  "Genera": [
+    {
+      "Genus": "Aulacocephalus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liopropomatidae/aulacocephalus.json"
+    },
+    {
+      "Genus": "Bathyanthias",
+      "SpeciesCount": 3,
+      "genus_path": "genera/liopropomatidae/bathyanthias.json"
+    },
+    {
+      "Genus": "Belonoperca",
+      "SpeciesCount": 2,
+      "genus_path": "genera/liopropomatidae/belonoperca.json"
+    },
+    {
+      "Genus": "Diploprion",
+      "SpeciesCount": 2,
+      "genus_path": "genera/liopropomatidae/diploprion.json"
+    },
+    {
+      "Genus": "Liopropoma",
+      "SpeciesCount": 32,
+      "genus_path": "genera/liopropomatidae/liopropoma.json"
+    },
+    {
+      "Genus": "Rainfordia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/liopropomatidae/rainfordia.json"
+    }
+  ]
+}

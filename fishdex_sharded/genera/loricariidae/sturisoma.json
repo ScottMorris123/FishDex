@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Sturisoma barbatum",
+    "SpecCode": "50520",
+    "CommonName": "Acari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma brevirostre",
+    "SpecCode": "50521",
+    "CommonName": "短吻鱘身鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma caquetae",
+    "SpecCode": "53558",
+    "CommonName": "哥伦比亚鲟甲鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma graffini",
+    "SpecCode": "69989",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma guentheri",
+    "SpecCode": "50526",
+    "CommonName": "Caracha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma lyra",
+    "SpecCode": "50528",
+    "CommonName": "Shitari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma monopelte",
+    "SpecCode": "48318",
+    "CommonName": "单盔鲟身鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma nigrirostrum",
+    "SpecCode": "50529",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma robustum",
+    "SpecCode": "50532",
+    "CommonName": "Acari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma rostratum",
+    "SpecCode": "50533",
+    "CommonName": "Acará pedra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sturisoma tenuirostre",
+    "SpecCode": "50534",
+    "CommonName": "Ruskosampimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

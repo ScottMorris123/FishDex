@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Inimicus brachyrhynchus",
+    "SpecCode": "59063",
+    "CommonName": "Singapore stinger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inimicus caledonicus",
+    "SpecCode": "12031",
+    "CommonName": "Bearded ghoul",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inimicus cuvieri",
+    "SpecCode": "10637",
+    "CommonName": "Depu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inimicus didactylus",
+    "SpecCode": "5826",
+    "CommonName": "Bearded ghoul",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inimicus filamentosus",
+    "SpecCode": "6403",
+    "CommonName": "Barred ghoul",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inimicus gruzovi",
+    "SpecCode": "59060",
+    "CommonName": "格氏鬼鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inimicus japonicus",
+    "SpecCode": "6386",
+    "CommonName": "Depu-kala Jepun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inimicus joubini",
+    "SpecCode": "23892",
+    "CommonName": "Cá Mặt Quỷ",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inimicus sinensis",
+    "SpecCode": "10537",
+    "CommonName": "Chinese stinger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inimicus smirnovi",
+    "SpecCode": "59062",
+    "CommonName": "斯氏鬼鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

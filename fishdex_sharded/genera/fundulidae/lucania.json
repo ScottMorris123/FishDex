@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Lucania goodei",
+    "SpecCode": "3211",
+    "CommonName": "Bluefin killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucania interioris",
+    "SpecCode": "6283",
+    "CommonName": "Cuatro Cienegas killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lucania parva",
+    "SpecCode": "3212",
+    "CommonName": "Rainwater killifish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

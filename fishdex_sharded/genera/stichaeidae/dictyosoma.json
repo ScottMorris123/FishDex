@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Dictyosoma burgeri",
+    "SpecCode": "23793",
+    "CommonName": "Burgeri võrkridakala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dictyosoma rubrimaculatum",
+    "SpecCode": "23794",
+    "CommonName": "Benitsukeginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dictyosoma tongyeongensis",
+    "SpecCode": "67002",
+    "CommonName": "Korean prickleback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

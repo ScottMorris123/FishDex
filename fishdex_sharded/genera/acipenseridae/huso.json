@@ -1,0 +1,24 @@
+[
+  {
+    "ScientificName": "Huso dauricus",
+    "SpecCode": "4633",
+    "CommonName": "Amurinkitasampi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Huso huso",
+    "SpecCode": "2067",
+    "CommonName": "Akipíssios",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Isistius brasiliensis",
+    "SpecCode": "696",
+    "CommonName": "Almindelig cookiecutterhaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isistius plutodus",
+    "SpecCode": "697",
+    "CommonName": "Großzahn-Zigarrenhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

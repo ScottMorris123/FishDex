@@ -1,0 +1,696 @@
+[
+  {
+    "ScientificName": "Lutjanus adetii",
+    "SpecCode": "1395",
+    "CommonName": "Gulbåndet snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus agennes",
+    "SpecCode": "1401",
+    "CommonName": "African cubera snapper",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus alexandrei",
+    "SpecCode": "63308",
+    "CommonName": "Brazilian snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus ambiguus",
+    "SpecCode": "1402",
+    "CommonName": "Ambiguous snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus analis",
+    "SpecCode": "1403",
+    "CommonName": "Ariocó",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus apodus",
+    "SpecCode": "1404",
+    "CommonName": "Baarsje",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus aratus",
+    "SpecCode": "1405",
+    "CommonName": "Mullet snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus argentimaculatus",
+    "SpecCode": "1407",
+    "CommonName": "'A'a",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus argentiventris",
+    "SpecCode": "1408",
+    "CommonName": "Amarillo snapper",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus bengalensis",
+    "SpecCode": "1409",
+    "CommonName": "Aluman",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus biguttatus",
+    "SpecCode": "1410",
+    "CommonName": "Admon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus bitaeniatus",
+    "SpecCode": "1411",
+    "CommonName": "Indonesian seaperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus bohar",
+    "SpecCode": "1417",
+    "CommonName": "Admon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus boutton",
+    "SpecCode": "1418",
+    "CommonName": "Agba-on",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus buccanella",
+    "SpecCode": "1419",
+    "CommonName": "Allnegra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus campechanus",
+    "SpecCode": "1423",
+    "CommonName": "Acara aya",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus carponotatus",
+    "SpecCode": "1424",
+    "CommonName": "Admon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus coeruleolineatus",
+    "SpecCode": "1425",
+    "CommonName": "Blålinjet snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus colorado",
+    "SpecCode": "1426",
+    "CommonName": "Colorado snapper",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus cyanopterus",
+    "SpecCode": "1427",
+    "CommonName": "Canteen snapper",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus decussatus",
+    "SpecCode": "1428",
+    "CommonName": "Alaka mata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus dentatus",
+    "SpecCode": "1429",
+    "CommonName": "African brown snapper",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus dodecacanthoides",
+    "SpecCode": "354",
+    "CommonName": "Kisuji-tarumi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus ehrenbergii",
+    "SpecCode": "793",
+    "CommonName": "Admon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus endecacanthus",
+    "SpecCode": "794",
+    "CommonName": "Engil",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus erythropterus",
+    "SpecCode": "1406",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus fulgens",
+    "SpecCode": "1070",
+    "CommonName": "Afrikansk guldsnapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus fulviflamma",
+    "SpecCode": "261",
+    "CommonName": "Admon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus fulvus",
+    "SpecCode": "262",
+    "CommonName": "Aa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus fuscescens",
+    "SpecCode": "150",
+    "CommonName": "Aluman",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus gibbus",
+    "SpecCode": "265",
+    "CommonName": "Aluman",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus goldiei",
+    "SpecCode": "1441",
+    "CommonName": "Barah-barahan",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus goreensis",
+    "SpecCode": "1439",
+    "CommonName": "Agnato",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus griseus",
+    "SpecCode": "266",
+    "CommonName": "Acará-aia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus guilcheri",
+    "SpecCode": "151",
+    "CommonName": "Pargo rabo amarelo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus guttatus",
+    "SpecCode": "152",
+    "CommonName": "Besugo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus indicus",
+    "SpecCode": "66803",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus inermis",
+    "SpecCode": "153",
+    "CommonName": "Barbirrubia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus jocu",
+    "SpecCode": "154",
+    "CommonName": "Barstebers",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus johnii",
+    "SpecCode": "264",
+    "CommonName": "Adgawon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus jordani",
+    "SpecCode": "155",
+    "CommonName": "Huachinango",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus kasmira",
+    "SpecCode": "156",
+    "CommonName": "Adgawon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus lemniscatus",
+    "SpecCode": "157",
+    "CommonName": "Bambang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus lunulatus",
+    "SpecCode": "158",
+    "CommonName": "Adgawon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus lutjanus",
+    "SpecCode": "159",
+    "CommonName": "Adgawon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus madras",
+    "SpecCode": "160",
+    "CommonName": "Indian snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus mahogoni",
+    "SpecCode": "161",
+    "CommonName": "Colulie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus malabaricus",
+    "SpecCode": "162",
+    "CommonName": "Ahaan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus maxweberi",
+    "SpecCode": "164",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus mizenkoi",
+    "SpecCode": "165",
+    "CommonName": "Golden snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus monostigma",
+    "SpecCode": "166",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus notatus",
+    "SpecCode": "168",
+    "CommonName": "Bloustreep-snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus novemfasciatus",
+    "SpecCode": "169",
+    "CommonName": "Boca fuerte",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus octolineatus",
+    "SpecCode": "68235",
+    "CommonName": "Whitebelly snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus ophuysenii",
+    "SpecCode": "13063",
+    "CommonName": "Spotstripe snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus papuensis",
+    "SpecCode": "66804",
+    "CommonName": "Papuan snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus peru",
+    "SpecCode": "170",
+    "CommonName": "Estrella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus purpureus",
+    "SpecCode": "171",
+    "CommonName": "Acaraaia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus quinquelineatus",
+    "SpecCode": "172",
+    "CommonName": "Admon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus rivulatus",
+    "SpecCode": "173",
+    "CommonName": "Admon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus rufolineatus",
+    "SpecCode": "25063",
+    "CommonName": "Admon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus russellii",
+    "SpecCode": "176",
+    "CommonName": "Aba",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus sanguineus",
+    "SpecCode": "177",
+    "CommonName": "Bambangan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus sapphirolineatus",
+    "SpecCode": "68234",
+    "CommonName": "Arabian blue-striped snapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus sebae",
+    "SpecCode": "178",
+    "CommonName": "Admon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus semicinctus",
+    "SpecCode": "179",
+    "CommonName": "Agahon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus stellatus",
+    "SpecCode": "180",
+    "CommonName": "Ca hong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus synagris",
+    "SpecCode": "181",
+    "CommonName": "Ariocó",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus timoriensis",
+    "SpecCode": "182",
+    "CommonName": "Admon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus viridis",
+    "SpecCode": "183",
+    "CommonName": "Blåstribet guldsnapper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus vitta",
+    "SpecCode": "184",
+    "CommonName": "Agahon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus vivanus",
+    "SpecCode": "185",
+    "CommonName": "Acará-aia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lutjanus xanthopinnis",
+    "SpecCode": "68664",
+    "CommonName": "Agahon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

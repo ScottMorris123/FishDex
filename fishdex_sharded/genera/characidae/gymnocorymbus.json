@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Gymnocorymbus bondi",
+    "SpecCode": "58026",
+    "CommonName": "Bobita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocorymbus flaviolimai",
+    "SpecCode": "67923",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocorymbus ternetzi",
+    "SpecCode": "4682",
+    "CommonName": "Black tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocorymbus thayeri",
+    "SpecCode": "12356",
+    "CommonName": "Black tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

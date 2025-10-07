@@ -1,0 +1,214 @@
+[
+  {
+    "ScientificName": "Diplodus annularis",
+    "SpecCode": "1752",
+    "CommonName": "Alcarraz",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus argenteus",
+    "SpecCode": "3574",
+    "CommonName": "Chinelão",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus ascensionis",
+    "SpecCode": "8065",
+    "CommonName": "Old wife",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus bellottii",
+    "SpecCode": "8062",
+    "CommonName": "Breca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus bermudensis",
+    "SpecCode": "8106",
+    "CommonName": "Bermuda porgy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus cadenati",
+    "SpecCode": "8066",
+    "CommonName": "Moroccan white seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus capensis",
+    "SpecCode": "6004",
+    "CommonName": "Bindenbrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus caudimacula",
+    "SpecCode": "1230",
+    "CommonName": "Roundspot porgy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus cervinus",
+    "SpecCode": "2497",
+    "CommonName": "Asfoura",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus fasciatus",
+    "SpecCode": "8063",
+    "CommonName": "Banded seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus helenae",
+    "SpecCode": "8069",
+    "CommonName": "Old wife",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus holbrookii",
+    "SpecCode": "1231",
+    "CommonName": "Holbrooks havrude",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus hottentotus",
+    "SpecCode": "7932",
+    "CommonName": "Sar à grosses lèvres",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus kotschyi",
+    "SpecCode": "8113",
+    "CommonName": "Emchawah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus levantinus",
+    "SpecCode": "68249",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus lineatus",
+    "SpecCode": "8070",
+    "CommonName": "Bicudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus noct",
+    "SpecCode": "8112",
+    "CommonName": "Arabian pinfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus omanensis",
+    "SpecCode": "46378",
+    "CommonName": "Oman porgy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus prayensis",
+    "SpecCode": "8064",
+    "CommonName": "Common two-banded sb",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus puntazzo",
+    "SpecCode": "1749",
+    "CommonName": "Appezzutu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus sargus",
+    "SpecCode": "1753",
+    "CommonName": "Akkaragöz balığı",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus striatus",
+    "SpecCode": "68250",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplodus vulgaris",
+    "SpecCode": "1754",
+    "CommonName": "Amarel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Narcetes erimelas",
+    "SpecCode": "16461",
+    "CommonName": "极黑黑口鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narcetes kamoharai",
+    "SpecCode": "22695",
+    "CommonName": "Kuromasuku-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narcetes lloydi",
+    "SpecCode": "15811",
+    "CommonName": "Lloyd's slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narcetes shonanmaruae",
+    "SpecCode": "69365",
+    "CommonName": "Yokozuna iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narcetes stomias",
+    "SpecCode": "6963",
+    "CommonName": "Black slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Narcetes wonderi",
+    "SpecCode": "58914",
+    "CommonName": "旺氏黑口魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

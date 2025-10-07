@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Myzopsetta ferruginea",
+    "SpecCode": "521",
+    "CommonName": "Cambula cu coada galbena",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myzopsetta proboscidea",
+    "SpecCode": "4243",
+    "CommonName": "Hanagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myzopsetta punctatissima",
+    "SpecCode": "8882",
+    "CommonName": "Dab",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Family": "Aetobatidae",
+  "Order": "Myliobatiformes",
+  "Common": "Pacific eagle rays",
+  "Genera": [
+    {
+      "Genus": "Aetobatus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/aetobatidae/aetobatus.json"
+    }
+  ]
+}

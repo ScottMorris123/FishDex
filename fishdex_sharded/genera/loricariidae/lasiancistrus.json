@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Lasiancistrus caucanus",
+    "SpecCode": "49817",
+    "CommonName": "Cacucho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiancistrus guacharote",
+    "SpecCode": "49900",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiancistrus heteracanthus",
+    "SpecCode": "49901",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiancistrus saetiger",
+    "SpecCode": "62700",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiancistrus schomburgkii",
+    "SpecCode": "48199",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lasiancistrus tentaculatus",
+    "SpecCode": "62699",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

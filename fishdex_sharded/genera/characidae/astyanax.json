@@ -1,0 +1,1191 @@
+[
+  {
+    "ScientificName": "Astyanax abramis",
+    "SpecCode": "12911",
+    "CommonName": "Acará pixuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax acatlanensis",
+    "SpecCode": "68796",
+    "CommonName": "Acatlán tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax aeneus",
+    "SpecCode": "60706",
+    "CommonName": "Banded tetra",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax altior",
+    "SpecCode": "62344",
+    "CommonName": "Sardinita yucateca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax altiparanae",
+    "SpecCode": "58108",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax anai",
+    "SpecCode": "69971",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax angustifrons",
+    "SpecCode": "51295",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax aramburui",
+    "SpecCode": "62942",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax argentatus",
+    "SpecCode": "69687",
+    "CommonName": "Sardinita tejana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax argyrimarginatus",
+    "SpecCode": "58110",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax asuncionensis",
+    "SpecCode": "58128",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax atratoensis",
+    "SpecCode": "53389",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax aurocaudatus",
+    "SpecCode": "26440",
+    "CommonName": "Gold-tailed tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax bacalarensis",
+    "SpecCode": "68797",
+    "CommonName": "Bacalar tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax bagual",
+    "SpecCode": "67908",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax baileyi",
+    "SpecCode": "53404",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax belizianus",
+    "SpecCode": "69691",
+    "CommonName": "Belizean tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax bimaculatus",
+    "SpecCode": "4475",
+    "CommonName": "Canivete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax biotae",
+    "SpecCode": "62340",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax boliviensis",
+    "SpecCode": "69191",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax bourgeti",
+    "SpecCode": "53390",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax brachypterygium",
+    "SpecCode": "58733",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax bransfordii",
+    "SpecCode": "52969",
+    "CommonName": "Longjaw tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax brevimanus",
+    "SpecCode": "69688",
+    "CommonName": "Quiché tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax brevirhinus",
+    "SpecCode": "51287",
+    "CommonName": "Stumpfmäuliger Tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax brucutu",
+    "SpecCode": "70414",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax caballeroi",
+    "SpecCode": "52987",
+    "CommonName": "Catemaco characin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax caucanus",
+    "SpecCode": "58125",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax chaparae",
+    "SpecCode": "58117",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax clavitaeniatus",
+    "SpecCode": "62343",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax cocibolca",
+    "SpecCode": "65336",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax cordovae",
+    "SpecCode": "51053",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax courensis",
+    "SpecCode": "65583",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax cremnobates",
+    "SpecCode": "58732",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax cubilhuitz",
+    "SpecCode": "68798",
+    "CommonName": "Cubilhuitz tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax depressirostris",
+    "SpecCode": "62789",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax dissimilis",
+    "SpecCode": "65835",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax dnophos",
+    "SpecCode": "62331",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax dorioni",
+    "SpecCode": "58030",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax douradilho",
+    "SpecCode": "67871",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax elachylepis",
+    "SpecCode": "62654",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax embera",
+    "SpecCode": "69190",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax epiagos",
+    "SpecCode": "64692",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax eremus",
+    "SpecCode": "67626",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax fasslii",
+    "SpecCode": "62011",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax filiferus",
+    "SpecCode": "53493",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax finitimus",
+    "SpecCode": "69690",
+    "CommonName": "Sardinita de Veracruz",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax gandhiae",
+    "SpecCode": "69192",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax gisleni",
+    "SpecCode": "58118",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax goyacensis",
+    "SpecCode": "53393",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax goyanensis",
+    "SpecCode": "58038",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax gracilior",
+    "SpecCode": "53394",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax guaricana",
+    "SpecCode": "67156",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax henseli",
+    "SpecCode": "62646",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax integer",
+    "SpecCode": "51050",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax jacobinae",
+    "SpecCode": "64693",
+    "CommonName": "Piaba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax jacuhiensis",
+    "SpecCode": "62094",
+    "CommonName": "Lambari do rabo amarelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax jenynsii",
+    "SpecCode": "58129",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax joaovitori",
+    "SpecCode": "68876",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax jordanensis",
+    "SpecCode": "64967",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax jordani",
+    "SpecCode": "6181",
+    "CommonName": "Blind cave fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax kennedyi",
+    "SpecCode": "51062",
+    "CommonName": "Mojara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax keronolepis",
+    "SpecCode": "68959",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax kompi",
+    "SpecCode": "58121",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax kullanderi",
+    "SpecCode": "52518",
+    "CommonName": "库氏丽脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax lacustris",
+    "SpecCode": "58130",
+    "CommonName": "Tambiú",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax laticeps",
+    "SpecCode": "62486",
+    "CommonName": "侧头大眼脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax leopoldi",
+    "SpecCode": "27937",
+    "CommonName": "Gittertetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax lineatus",
+    "SpecCode": "23417",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax longior",
+    "SpecCode": "51063",
+    "CommonName": "Mojara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax longirhinus",
+    "SpecCode": "65826",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax lorien",
+    "SpecCode": "70343",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax macal",
+    "SpecCode": "68799",
+    "CommonName": "Macal tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax maculisquamis",
+    "SpecCode": "58112",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax magdalenae",
+    "SpecCode": "48621",
+    "CommonName": "Golosa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax maximus",
+    "SpecCode": "51064",
+    "CommonName": "Isokiiltotetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax megaspilura",
+    "SpecCode": "51291",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax mexicanus",
+    "SpecCode": "2740",
+    "CommonName": "Blind cavefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax microlepis",
+    "SpecCode": "51051",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax microschemos",
+    "SpecCode": "62790",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax minor",
+    "SpecCode": "65827",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax moorii",
+    "SpecCode": "52923",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax multidens",
+    "SpecCode": "52924",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax myersi",
+    "SpecCode": "51825",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax nasutus",
+    "SpecCode": "50916",
+    "CommonName": "Colcibolca tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax nicaraguensis",
+    "SpecCode": "53401",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax nobre",
+    "SpecCode": "70123",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax novae",
+    "SpecCode": "67619",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax obscurus",
+    "SpecCode": "58137",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax ocotal",
+    "SpecCode": "68808",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax orbignyanus",
+    "SpecCode": "58132",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax orstedii",
+    "SpecCode": "69693",
+    "CommonName": "Costa Rican tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax orthodus",
+    "SpecCode": "52960",
+    "CommonName": "Largespot tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax panamensis",
+    "SpecCode": "69692",
+    "CommonName": "Panamanian tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax paraguayensis",
+    "SpecCode": "52925",
+    "CommonName": "巴拉圭丽脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax paranahybae",
+    "SpecCode": "53397",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax pardensis",
+    "SpecCode": "69684",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax pedri",
+    "SpecCode": "50931",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax petenensis",
+    "SpecCode": "69689",
+    "CommonName": "Petén tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax pirabitira",
+    "SpecCode": "67200",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax pirapuan",
+    "SpecCode": "65966",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax poetzschkei",
+    "SpecCode": "52965",
+    "CommonName": "Keltakiiltotetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax procerus",
+    "SpecCode": "67203",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax rioverde",
+    "SpecCode": "68812",
+    "CommonName": "Rioverde tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax robustus",
+    "SpecCode": "58122",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax ruberrimus",
+    "SpecCode": "51290",
+    "CommonName": "Ristikiiltotetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax rupestris",
+    "SpecCode": "70344",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax rupununi",
+    "SpecCode": "62341",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax saltor",
+    "SpecCode": "51296",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax salvatoris",
+    "SpecCode": "68813",
+    "CommonName": "Sardinita del Tamazulapan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax scabripinnis",
+    "SpecCode": "12868",
+    "CommonName": "Karhikiiltotetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax scintillans",
+    "SpecCode": "51827",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax serratus",
+    "SpecCode": "65829",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax siapae",
+    "SpecCode": "62342",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax sincora",
+    "SpecCode": "70342",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax stilbe",
+    "SpecCode": "52926",
+    "CommonName": "閃光麗脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax superbus",
+    "SpecCode": "51828",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax symmetricus",
+    "SpecCode": "53402",
+    "CommonName": "Perunkiiltotetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax tamiahua",
+    "SpecCode": "68814",
+    "CommonName": "Sardinita de Tamiahua",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax tehuacanensis",
+    "SpecCode": "68815",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax totae",
+    "SpecCode": "62652",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax trierythropterus",
+    "SpecCode": "53385",
+    "CommonName": "Lambari de nadadeiras vermelhas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax turmalinensis",
+    "SpecCode": "61858",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax unitaeniatus",
+    "SpecCode": "58115",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax utiariti",
+    "SpecCode": "63790",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax validus",
+    "SpecCode": "27940",
+    "CommonName": "壮体丽脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax varii",
+    "SpecCode": "70413",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax varzeae",
+    "SpecCode": "63563",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax venezuelae",
+    "SpecCode": "51293",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax vermilion",
+    "SpecCode": "64955",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax villwocki",
+    "SpecCode": "56501",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astyanax yariguies",
+    "SpecCode": "67065",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

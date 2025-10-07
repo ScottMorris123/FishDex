@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Chapalichthys encaustus",
+    "SpecCode": "11939",
+    "CommonName": "Barred splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chapalichthys pardalis",
+    "SpecCode": "11942",
+    "CommonName": "Jaguaaritoka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chapalichthys peraticus",
+    "SpecCode": "46428",
+    "CommonName": "Alien splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

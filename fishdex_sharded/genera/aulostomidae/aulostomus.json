@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Aulostomus chinensis",
+    "SpecCode": "1309",
+    "CommonName": "Aiguillette du fond",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulostomus maculatus",
+    "SpecCode": "964",
+    "CommonName": "Atlantic trumpetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulostomus strigosus",
+    "SpecCode": "9160",
+    "CommonName": "Agulha buzina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "Family": "Ailiidae",
+  "Order": "Siluriformes",
+  "Common": "Asian schilbeids",
+  "Genera": [
+    {
+      "Genus": "Ailia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ailiidae/ailia.json"
+    },
+    {
+      "Genus": "Ailiichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ailiidae/ailiichthys.json"
+    },
+    {
+      "Genus": "Clupisoma",
+      "SpeciesCount": 10,
+      "genus_path": "genera/ailiidae/clupisoma.json"
+    },
+    {
+      "Genus": "Laides",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ailiidae/laides.json"
+    },
+    {
+      "Genus": "Proeutropiichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ailiidae/proeutropiichthys.json"
+    }
+  ]
+}

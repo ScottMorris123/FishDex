@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gymnammodytes capensis",
+    "SpecCode": "7997",
+    "CommonName": "Barrinaire del Cabo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnammodytes cicerelus",
+    "SpecCode": "1717",
+    "CommonName": "Aluzza",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnammodytes semisquamatus",
+    "SpecCode": "75",
+    "CommonName": "Cicerelle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

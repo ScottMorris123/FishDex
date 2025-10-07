@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Hemitaurichthys multispinosus",
+    "SpecCode": "25435",
+    "CommonName": "Mangepigget fanefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitaurichthys polylepis",
+    "SpecCode": "5586",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitaurichthys thompsoni",
+    "SpecCode": "5587",
+    "CommonName": "Businessman butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitaurichthys zoster",
+    "SpecCode": "7795",
+    "CommonName": "Black pyramid butterflyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

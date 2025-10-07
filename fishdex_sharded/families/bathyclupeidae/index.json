@@ -1,0 +1,17 @@
+{
+  "Family": "Bathyclupeidae",
+  "Order": "Acropomatiformes",
+  "Common": "Deepsea herring",
+  "Genera": [
+    {
+      "Genus": "Bathyclupea",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bathyclupeidae/bathyclupea.json"
+    },
+    {
+      "Genus": "Neobathyclupea",
+      "SpeciesCount": 7,
+      "genus_path": "genera/bathyclupeidae/neobathyclupea.json"
+    }
+  ]
+}

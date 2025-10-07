@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Labracinus atrofasciatus",
+    "SpecCode": "59000",
+    "CommonName": "Blackbarred dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labracinus cyclophthalmus",
+    "SpecCode": "12662",
+    "CommonName": "Darkstriped dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labracinus lineatus",
+    "SpecCode": "14998",
+    "CommonName": "Lined dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

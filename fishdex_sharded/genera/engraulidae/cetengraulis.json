@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Cetengraulis edentulus",
+    "SpecCode": "547",
+    "CommonName": "Alpercata",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetengraulis mysticetus",
+    "SpecCode": "548",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

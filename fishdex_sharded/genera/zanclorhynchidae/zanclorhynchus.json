@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Zanclorhynchus chereshnevi",
+    "SpecCode": "68687",
+    "CommonName": "Chereshnev's horsefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zanclorhynchus spinifer",
+    "SpecCode": "7152",
+    "CommonName": "Antarctic horsefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

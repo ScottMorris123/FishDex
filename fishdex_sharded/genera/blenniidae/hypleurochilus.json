@@ -1,0 +1,103 @@
+[
+  {
+    "ScientificName": "Hypleurochilus aequipinnis",
+    "SpecCode": "3757",
+    "CommonName": "Blenio Ostra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus bananensis",
+    "SpecCode": "16293",
+    "CommonName": "Banaan-tuustkulm",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus bermudensis",
+    "SpecCode": "3758",
+    "CommonName": "Barred blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus brasil",
+    "SpecCode": "67092",
+    "CommonName": "Brazil blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus caudovittatus",
+    "SpecCode": "61240",
+    "CommonName": "Zebratail blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus fissicornis",
+    "SpecCode": "52386",
+    "CommonName": "Blenio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus geminatus",
+    "SpecCode": "3759",
+    "CommonName": "Blenio crestado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus langi",
+    "SpecCode": "9920",
+    "CommonName": "Langs Schleimfisch",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus multifilis",
+    "SpecCode": "59662",
+    "CommonName": "Borracho plumero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus pseudoaequipinnis",
+    "SpecCode": "61241",
+    "CommonName": "Borracho ostionero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypleurochilus springeri",
+    "SpecCode": "3760",
+    "CommonName": "Blénido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Dunckerocampus baldwini",
+    "SpecCode": "12771",
+    "CommonName": "Punajuovaneula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dunckerocampus boylei",
+    "SpecCode": "54745",
+    "CommonName": "Broad-banded pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dunckerocampus chapmani",
+    "SpecCode": "46121",
+    "CommonName": "Glowtail pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dunckerocampus dactyliophorus",
+    "SpecCode": "5972",
+    "CommonName": "Banded pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dunckerocampus multiannulatus",
+    "SpecCode": "14286",
+    "CommonName": "Many-banded pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dunckerocampus naia",
+    "SpecCode": "64209",
+    "CommonName": "Naia pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dunckerocampus pessuliferus",
+    "SpecCode": "7723",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

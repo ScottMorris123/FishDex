@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Lethenteron alaskense",
+    "SpecCode": "59863",
+    "CommonName": "Alaska lättesutt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethenteron appendix",
+    "SpecCode": "2521",
+    "CommonName": "Ameerika lättesutt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethenteron camtschaticum",
+    "SpecCode": "2524",
+    "CommonName": "Arctic lamprey",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethenteron kessleri",
+    "SpecCode": "25874",
+    "CommonName": "Arctic brook lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethenteron mitsukurii",
+    "SpecCode": "60983",
+    "CommonName": "Matsubara lättesutt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethenteron ninae",
+    "SpecCode": "65069",
+    "CommonName": "Lamproie de la Transcaucasie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lethenteron reissneri",
+    "SpecCode": "17205",
+    "CommonName": "Asiatic brook lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

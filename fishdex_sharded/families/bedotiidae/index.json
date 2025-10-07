@@ -1,0 +1,17 @@
+{
+  "Family": "Bedotiidae",
+  "Order": "Atheriniformes",
+  "Common": "Madagascar rainbowfishes",
+  "Genera": [
+    {
+      "Genus": "Bedotia",
+      "SpeciesCount": 9,
+      "genus_path": "genera/bedotiidae/bedotia.json"
+    },
+    {
+      "Genus": "Rheocles",
+      "SpeciesCount": 7,
+      "genus_path": "genera/bedotiidae/rheocles.json"
+    }
+  ]
+}

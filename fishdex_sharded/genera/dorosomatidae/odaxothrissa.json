@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Odaxothrissa ansorgii",
+    "SpecCode": "1531",
+    "CommonName": "Ansorge fangtooth pellonuline",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odaxothrissa losera",
+    "SpecCode": "1534",
+    "CommonName": "Itetembu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odaxothrissa mento",
+    "SpecCode": "5060",
+    "CommonName": "Agadagba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

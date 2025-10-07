@@ -1,0 +1,102 @@
+{
+  "Family": "Moridae",
+  "Order": "Gadiformes",
+  "Common": "Morid cods",
+  "Genera": [
+    {
+      "Genus": "Antimora",
+      "SpeciesCount": 2,
+      "genus_path": "genera/moridae/antimora.json"
+    },
+    {
+      "Genus": "Auchenoceros",
+      "SpeciesCount": 1,
+      "genus_path": "genera/moridae/auchenoceros.json"
+    },
+    {
+      "Genus": "Eeyorius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/moridae/eeyorius.json"
+    },
+    {
+      "Genus": "Eretmophorus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/moridae/eretmophorus.json"
+    },
+    {
+      "Genus": "Gadella",
+      "SpeciesCount": 13,
+      "genus_path": "genera/moridae/gadella.json"
+    },
+    {
+      "Genus": "Guttigadus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/moridae/guttigadus.json"
+    },
+    {
+      "Genus": "Halargyreus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/moridae/halargyreus.json"
+    },
+    {
+      "Genus": "Laemonema",
+      "SpeciesCount": 16,
+      "genus_path": "genera/moridae/laemonema.json"
+    },
+    {
+      "Genus": "Lepidion",
+      "SpeciesCount": 9,
+      "genus_path": "genera/moridae/lepidion.json"
+    },
+    {
+      "Genus": "Lotella",
+      "SpeciesCount": 4,
+      "genus_path": "genera/moridae/lotella.json"
+    },
+    {
+      "Genus": "Mora",
+      "SpeciesCount": 1,
+      "genus_path": "genera/moridae/mora.json"
+    },
+    {
+      "Genus": "Notophycis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/moridae/notophycis.json"
+    },
+    {
+      "Genus": "Physiculus",
+      "SpeciesCount": 43,
+      "genus_path": "genera/moridae/physiculus.json"
+    },
+    {
+      "Genus": "Pseudophycis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/moridae/pseudophycis.json"
+    },
+    {
+      "Genus": "Pterophycis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/moridae/pterophycis.json"
+    },
+    {
+      "Genus": "Rhynchogadus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/moridae/rhynchogadus.json"
+    },
+    {
+      "Genus": "Salilota",
+      "SpeciesCount": 1,
+      "genus_path": "genera/moridae/salilota.json"
+    },
+    {
+      "Genus": "Svetovidovia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/moridae/svetovidovia.json"
+    },
+    {
+      "Genus": "Tripterophycis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/moridae/tripterophycis.json"
+    }
+  ]
+}

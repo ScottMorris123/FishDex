@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Cetichthys indagator",
+    "SpecCode": "15188",
+    "CommonName": "Walfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetichthys parini",
+    "SpecCode": "15195",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

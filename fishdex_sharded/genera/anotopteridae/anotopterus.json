@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Anotopterus nikparini",
+    "SpecCode": "60529",
+    "CommonName": "Daga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anotopterus pharao",
+    "SpecCode": "2729",
+    "CommonName": "Daggertooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anotopterus vorax",
+    "SpecCode": "60528",
+    "CommonName": "Daggertooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

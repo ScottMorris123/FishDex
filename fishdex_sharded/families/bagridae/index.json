@@ -1,0 +1,112 @@
+{
+  "Family": "Bagridae",
+  "Order": "Siluriformes",
+  "Common": "Bagrid catfishes",
+  "Genera": [
+    {
+      "Genus": "Bagrichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/bagridae/bagrichthys.json"
+    },
+    {
+      "Genus": "Bagroides",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bagridae/bagroides.json"
+    },
+    {
+      "Genus": "Bagrus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/bagridae/bagrus.json"
+    },
+    {
+      "Genus": "Batasio",
+      "SpeciesCount": 18,
+      "genus_path": "genera/bagridae/batasio.json"
+    },
+    {
+      "Genus": "Chandramara",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bagridae/chandramara.json"
+    },
+    {
+      "Genus": "Coreobagrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bagridae/coreobagrus.json"
+    },
+    {
+      "Genus": "Hemibagrus",
+      "SpeciesCount": 41,
+      "genus_path": "genera/bagridae/hemibagrus.json"
+    },
+    {
+      "Genus": "Hemileiocassis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bagridae/hemileiocassis.json"
+    },
+    {
+      "Genus": "Hyalobagrus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bagridae/hyalobagrus.json"
+    },
+    {
+      "Genus": "Leiocassis",
+      "SpeciesCount": 14,
+      "genus_path": "genera/bagridae/leiocassis.json"
+    },
+    {
+      "Genus": "Mystus",
+      "SpeciesCount": 49,
+      "genus_path": "genera/bagridae/mystus.json"
+    },
+    {
+      "Genus": "Nanobagrus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/bagridae/nanobagrus.json"
+    },
+    {
+      "Genus": "Olyra",
+      "SpeciesCount": 7,
+      "genus_path": "genera/bagridae/olyra.json"
+    },
+    {
+      "Genus": "Pelteobagrus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/bagridae/pelteobagrus.json"
+    },
+    {
+      "Genus": "Pseudobagrus",
+      "SpeciesCount": 31,
+      "genus_path": "genera/bagridae/pseudobagrus.json"
+    },
+    {
+      "Genus": "Pseudomystus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/bagridae/pseudomystus.json"
+    },
+    {
+      "Genus": "Rama",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bagridae/rama.json"
+    },
+    {
+      "Genus": "Rita",
+      "SpeciesCount": 6,
+      "genus_path": "genera/bagridae/rita.json"
+    },
+    {
+      "Genus": "Sperata",
+      "SpeciesCount": 4,
+      "genus_path": "genera/bagridae/sperata.json"
+    },
+    {
+      "Genus": "Sundolyra",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bagridae/sundolyra.json"
+    },
+    {
+      "Genus": "Tachysurus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/bagridae/tachysurus.json"
+    }
+  ]
+}

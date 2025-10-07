@@ -1,0 +1,197 @@
+{
+  "Family": "Sparidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Porgies",
+  "Genera": [
+    {
+      "Genus": "Acanthopagrus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/sparidae/acanthopagrus.json"
+    },
+    {
+      "Genus": "Amamiichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/amamiichthys.json"
+    },
+    {
+      "Genus": "Archosargus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sparidae/archosargus.json"
+    },
+    {
+      "Genus": "Argyrops",
+      "SpeciesCount": 7,
+      "genus_path": "genera/sparidae/argyrops.json"
+    },
+    {
+      "Genus": "Argyrozona",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/argyrozona.json"
+    },
+    {
+      "Genus": "Boops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sparidae/boops.json"
+    },
+    {
+      "Genus": "Boopsoidea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/boopsoidea.json"
+    },
+    {
+      "Genus": "Calamus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/sparidae/calamus.json"
+    },
+    {
+      "Genus": "Centracanthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/centracanthus.json"
+    },
+    {
+      "Genus": "Cheimerius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/cheimerius.json"
+    },
+    {
+      "Genus": "Chrysoblephus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/sparidae/chrysoblephus.json"
+    },
+    {
+      "Genus": "Crenidens",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sparidae/crenidens.json"
+    },
+    {
+      "Genus": "Cymatoceps",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/cymatoceps.json"
+    },
+    {
+      "Genus": "Dentex",
+      "SpeciesCount": 13,
+      "genus_path": "genera/sparidae/dentex.json"
+    },
+    {
+      "Genus": "Diplodus",
+      "SpeciesCount": 23,
+      "genus_path": "genera/sparidae/diplodus.json"
+    },
+    {
+      "Genus": "Evynnis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/sparidae/evynnis.json"
+    },
+    {
+      "Genus": "Gymnocrotaphus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/gymnocrotaphus.json"
+    },
+    {
+      "Genus": "Lagodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/lagodon.json"
+    },
+    {
+      "Genus": "Lithognathus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/sparidae/lithognathus.json"
+    },
+    {
+      "Genus": "Oblada",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/oblada.json"
+    },
+    {
+      "Genus": "Pachymetopon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sparidae/pachymetopon.json"
+    },
+    {
+      "Genus": "Pagellus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/sparidae/pagellus.json"
+    },
+    {
+      "Genus": "Pagrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/sparidae/pagrus.json"
+    },
+    {
+      "Genus": "Parargyrops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/parargyrops.json"
+    },
+    {
+      "Genus": "Petrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/petrus.json"
+    },
+    {
+      "Genus": "Polyamblyodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sparidae/polyamblyodon.json"
+    },
+    {
+      "Genus": "Polysteganus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/sparidae/polysteganus.json"
+    },
+    {
+      "Genus": "Porcostoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/porcostoma.json"
+    },
+    {
+      "Genus": "Pterogymnus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/pterogymnus.json"
+    },
+    {
+      "Genus": "Rhabdosargus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/sparidae/rhabdosargus.json"
+    },
+    {
+      "Genus": "Sarpa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/sarpa.json"
+    },
+    {
+      "Genus": "Sparidentex",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sparidae/sparidentex.json"
+    },
+    {
+      "Genus": "Sparodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/sparodon.json"
+    },
+    {
+      "Genus": "Sparus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/sparus.json"
+    },
+    {
+      "Genus": "Spicara",
+      "SpeciesCount": 9,
+      "genus_path": "genera/sparidae/spicara.json"
+    },
+    {
+      "Genus": "Spondyliosoma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sparidae/spondyliosoma.json"
+    },
+    {
+      "Genus": "Stenotomus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sparidae/stenotomus.json"
+    },
+    {
+      "Genus": "Virididentex",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sparidae/virididentex.json"
+    }
+  ]
+}

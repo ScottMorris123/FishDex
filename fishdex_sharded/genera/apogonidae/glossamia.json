@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Glossamia abo",
+    "SpecCode": "60360",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia aprion",
+    "SpecCode": "14863",
+    "CommonName": "Blanchard's perchelet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia arguni",
+    "SpecCode": "66195",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia beauforti",
+    "SpecCode": "25767",
+    "CommonName": "Beaufort's mouth almighty",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia gjellerupi",
+    "SpecCode": "25768",
+    "CommonName": "Gjellerup's cardinalfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia heurni",
+    "SpecCode": "60356",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia narindica",
+    "SpecCode": "25771",
+    "CommonName": "Slender mouth almighty",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia sandei",
+    "SpecCode": "25772",
+    "CommonName": "Sande's mouth almighty",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia timika",
+    "SpecCode": "65604",
+    "CommonName": "Timika Mouth Almighty",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia trifasciata",
+    "SpecCode": "26141",
+    "CommonName": "Three-barred mouth almighty",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glossamia wichmanni",
+    "SpecCode": "26142",
+    "CommonName": "Wichmann's cardinalfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Family": "Pomatomidae",
+  "Order": "Scombriformes",
+  "Common": "Bluefishes",
+  "Genera": [
+    {
+      "Genus": "Pomatomus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pomatomidae/pomatomus.json"
+    }
+  ]
+}

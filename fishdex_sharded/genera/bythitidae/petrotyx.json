@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Petrotyx hopkinsi",
+    "SpecCode": "47393",
+    "CommonName": "Brótula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotyx sanguineus",
+    "SpecCode": "3126",
+    "CommonName": "Brótula aletiroja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

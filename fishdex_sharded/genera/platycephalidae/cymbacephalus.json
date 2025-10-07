@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Cymbacephalus beauforti",
+    "SpecCode": "12826",
+    "CommonName": "Baji karang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cymbacephalus bosschei",
+    "SpecCode": "12564",
+    "CommonName": "Baji mata kecil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cymbacephalus nematophthalmus",
+    "SpecCode": "10776",
+    "CommonName": "Baji baji",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cymbacephalus staigeri",
+    "SpecCode": "15206",
+    "CommonName": "Black-freckled flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Belodontichthys dinema",
+    "SpecCode": "23087",
+    "CommonName": "Kölimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Belodontichthys truncatus",
+    "SpecCode": "58072",
+    "CommonName": "Cá trèn rang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

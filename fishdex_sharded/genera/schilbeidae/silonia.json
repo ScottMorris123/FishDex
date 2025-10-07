@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Silonia childreni",
+    "SpecCode": "13352",
+    "CommonName": "Bili-halathi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Silonia silondia",
+    "SpecCode": "12003",
+    "CommonName": "Jättikuultomonni",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

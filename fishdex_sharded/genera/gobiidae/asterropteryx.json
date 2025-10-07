@@ -1,0 +1,84 @@
+[
+  {
+    "ScientificName": "Asterropteryx atripes",
+    "SpecCode": "59956",
+    "CommonName": "Yano uki-hoshihaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterropteryx bipunctata",
+    "SpecCode": "58617",
+    "CommonName": "Orange-spotted goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterropteryx ensifera",
+    "SpecCode": "7247",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterropteryx ovata",
+    "SpecCode": "63660",
+    "CommonName": "Oval-spot goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterropteryx profunda",
+    "SpecCode": "69781",
+    "CommonName": "Deepwater goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterropteryx semipunctata",
+    "SpecCode": "7200",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterropteryx senoui",
+    "SpecCode": "63889",
+    "CommonName": "Nokogiri-hoshihaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterropteryx spinosa",
+    "SpecCode": "25421",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterropteryx striata",
+    "SpecCode": "58618",
+    "CommonName": "Striped goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

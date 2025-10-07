@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ichthyborus besse",
+    "SpecCode": "5251",
+    "CommonName": "Alekagurgur",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyborus congolensis",
+    "SpecCode": "11224",
+    "CommonName": "Kongo nokissalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyborus monodi",
+    "SpecCode": "5253",
+    "CommonName": "Gaviaalitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyborus ornatus",
+    "SpecCode": "11225",
+    "CommonName": "Gezeichneter Flossenfresser",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyborus quadrilineatus",
+    "SpecCode": "5252",
+    "CommonName": "Juovagaviaalitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

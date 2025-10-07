@@ -1,0 +1,152 @@
+{
+  "Family": "Tripterygiidae",
+  "Order": "Blenniiformes",
+  "Common": "Triplefin blennies",
+  "Genera": [
+    {
+      "Genus": "Acanthanectes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/acanthanectes.json"
+    },
+    {
+      "Genus": "Apopterygion",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/apopterygion.json"
+    },
+    {
+      "Genus": "Axoclinus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/tripterygiidae/axoclinus.json"
+    },
+    {
+      "Genus": "Bellapiscis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/bellapiscis.json"
+    },
+    {
+      "Genus": "Blennodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tripterygiidae/blennodon.json"
+    },
+    {
+      "Genus": "Brachynectes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tripterygiidae/brachynectes.json"
+    },
+    {
+      "Genus": "Ceratobregma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/ceratobregma.json"
+    },
+    {
+      "Genus": "Cremnochorites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tripterygiidae/cremnochorites.json"
+    },
+    {
+      "Genus": "Crocodilichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tripterygiidae/crocodilichthys.json"
+    },
+    {
+      "Genus": "Cryptichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tripterygiidae/cryptichthys.json"
+    },
+    {
+      "Genus": "Enneanectes",
+      "SpeciesCount": 15,
+      "genus_path": "genera/tripterygiidae/enneanectes.json"
+    },
+    {
+      "Genus": "Enneapterygius",
+      "SpeciesCount": 64,
+      "genus_path": "genera/tripterygiidae/enneapterygius.json"
+    },
+    {
+      "Genus": "Forsterygion",
+      "SpeciesCount": 8,
+      "genus_path": "genera/tripterygiidae/forsterygion.json"
+    },
+    {
+      "Genus": "Gilloblennius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/gilloblennius.json"
+    },
+    {
+      "Genus": "Helcogramma",
+      "SpeciesCount": 40,
+      "genus_path": "genera/tripterygiidae/helcogramma.json"
+    },
+    {
+      "Genus": "Helcogrammoides",
+      "SpeciesCount": 3,
+      "genus_path": "genera/tripterygiidae/helcogrammoides.json"
+    },
+    {
+      "Genus": "Karalepis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tripterygiidae/karalepis.json"
+    },
+    {
+      "Genus": "Lepidoblennius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/lepidoblennius.json"
+    },
+    {
+      "Genus": "Lepidonectes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/tripterygiidae/lepidonectes.json"
+    },
+    {
+      "Genus": "Matanui",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/matanui.json"
+    },
+    {
+      "Genus": "Norfolkia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/tripterygiidae/norfolkia.json"
+    },
+    {
+      "Genus": "Notoclinops",
+      "SpeciesCount": 3,
+      "genus_path": "genera/tripterygiidae/notoclinops.json"
+    },
+    {
+      "Genus": "Notoclinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/notoclinus.json"
+    },
+    {
+      "Genus": "Ruanoho",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/ruanoho.json"
+    },
+    {
+      "Genus": "Springerichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tripterygiidae/springerichthys.json"
+    },
+    {
+      "Genus": "Trianectes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tripterygiidae/trianectes.json"
+    },
+    {
+      "Genus": "Trinorfolkia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/tripterygiidae/trinorfolkia.json"
+    },
+    {
+      "Genus": "Tripterygion",
+      "SpeciesCount": 4,
+      "genus_path": "genera/tripterygiidae/tripterygion.json"
+    },
+    {
+      "Genus": "Ucla",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tripterygiidae/ucla.json"
+    }
+  ]
+}

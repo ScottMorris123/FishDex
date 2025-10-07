@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Euchilichthys astatodon",
+    "SpecCode": "9512",
+    "CommonName": "Katonde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euchilichthys boulengeri",
+    "SpecCode": "9513",
+    "CommonName": "布氏真吸唇鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euchilichthys dybowskii",
+    "SpecCode": "9514",
+    "CommonName": "戴氏真吸唇鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euchilichthys guentheri",
+    "SpecCode": "9515",
+    "CommonName": "貢氏真吸唇鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euchilichthys royauxi",
+    "SpecCode": "9516",
+    "CommonName": "Kanvaka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

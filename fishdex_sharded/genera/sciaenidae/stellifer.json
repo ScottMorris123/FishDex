@@ -1,0 +1,292 @@
+[
+  {
+    "ScientificName": "Stellifer brasiliensis",
+    "SpecCode": "59494",
+    "CommonName": "Boca-de-rato",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer cervigoni",
+    "SpecCode": "69566",
+    "CommonName": "Black gill stardrum",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer chaoi",
+    "SpecCode": "14666",
+    "CommonName": "赵氏叉鳔石首鱼",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer chrysoleuca",
+    "SpecCode": "14077",
+    "CommonName": "Corvinilla chata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer collettei",
+    "SpecCode": "69567",
+    "CommonName": "Bigmouth stardrum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer colonensis",
+    "SpecCode": "7332",
+    "CommonName": "Croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer ephelis",
+    "SpecCode": "52894",
+    "CommonName": "雀斑叉鰾石首魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer ericymba",
+    "SpecCode": "14079",
+    "CommonName": "Chogorro blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer fuerthii",
+    "SpecCode": "14083",
+    "CommonName": "Chogorro blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer gomezi",
+    "SpecCode": "69571",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer griseus",
+    "SpecCode": "1192",
+    "CommonName": "Corvinilla lucía",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer illecebrosus",
+    "SpecCode": "14084",
+    "CommonName": "Chogorro blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer lanceolatus",
+    "SpecCode": "1193",
+    "CommonName": "American stardrum",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer macallisteri",
+    "SpecCode": "69568",
+    "CommonName": "Caribbean stardrum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer magoi",
+    "SpecCode": "14669",
+    "CommonName": "Burrito",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer mancorensis",
+    "SpecCode": "14085",
+    "CommonName": "Chogorro blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer melanocheir",
+    "SpecCode": "14086",
+    "CommonName": "Black stardrum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer menezesi",
+    "SpecCode": "69569",
+    "CommonName": "Brazilian stardrum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer microps",
+    "SpecCode": "1194",
+    "CommonName": "Burrito",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer minor",
+    "SpecCode": "14087",
+    "CommonName": "Corvinilla chica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer musicki",
+    "SpecCode": "69570",
+    "CommonName": "Bigeye stardrum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer naso",
+    "SpecCode": "14677",
+    "CommonName": "Burrito",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer oscitans",
+    "SpecCode": "14088",
+    "CommonName": "Chogorro blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer pizarroensis",
+    "SpecCode": "14089",
+    "CommonName": "Chogorro blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer punctatissimus",
+    "SpecCode": "1186",
+    "CommonName": "Cabeçudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer rastrifer",
+    "SpecCode": "1196",
+    "CommonName": "Burrito bocón",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer stellifer",
+    "SpecCode": "14681",
+    "CommonName": "Burrito",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer venezuelae",
+    "SpecCode": "14682",
+    "CommonName": "委內瑞拉叉鰾石首魚",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer walkeri",
+    "SpecCode": "61340",
+    "CommonName": "Corvinilla del profesor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer wintersteenorum",
+    "SpecCode": "61339",
+    "CommonName": "Amigo stardrum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stellifer zestocarus",
+    "SpecCode": "14090",
+    "CommonName": "Chogorro blanco",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

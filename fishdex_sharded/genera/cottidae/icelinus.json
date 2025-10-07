@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Icelinus borealis",
+    "SpecCode": "4099",
+    "CommonName": "Comb sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus burchami",
+    "SpecCode": "4100",
+    "CommonName": "Dusky sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus cavifrons",
+    "SpecCode": "4101",
+    "CommonName": "Charrasco cabeza bacha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus filamentosus",
+    "SpecCode": "4102",
+    "CommonName": "Filamented sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus fimbriatus",
+    "SpecCode": "4103",
+    "CommonName": "Fringed sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus japonicus",
+    "SpecCode": "23918",
+    "CommonName": "Futasujikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus limbaughi",
+    "SpecCode": "64748",
+    "CommonName": "Canyon sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus oculatus",
+    "SpecCode": "4104",
+    "CommonName": "Frogmouth sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus pietschi",
+    "SpecCode": "61296",
+    "CommonName": "Hime-futasuji-kajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus quadriseriatus",
+    "SpecCode": "4105",
+    "CommonName": "Charrasco barbiamarilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Icelinus tenuis",
+    "SpecCode": "4106",
+    "CommonName": "Charrasco aletimanchada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

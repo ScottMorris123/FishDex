@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Asterorhombus cocosensis",
+    "SpecCode": "15565",
+    "CommonName": "Angler flatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterorhombus filifer",
+    "SpecCode": "63068",
+    "CommonName": "Longlure flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asterorhombus intermedius",
+    "SpecCode": "8123",
+    "CommonName": "Blotched flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

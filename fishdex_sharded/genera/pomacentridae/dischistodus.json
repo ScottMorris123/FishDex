@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Dischistodus chrysopoecilus",
+    "SpecCode": "6553",
+    "CommonName": "Bombin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dischistodus darwiniensis",
+    "SpecCode": "25219",
+    "CommonName": "Banded damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dischistodus fasciatus",
+    "SpecCode": "9982",
+    "CommonName": "Banded damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dischistodus melanotus",
+    "SpecCode": "5703",
+    "CommonName": "Blackvent damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dischistodus perspicillatus",
+    "SpecCode": "5704",
+    "CommonName": "Baro-baro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dischistodus prosopotaenia",
+    "SpecCode": "6608",
+    "CommonName": "Bombin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dischistodus pseudochrysopoecilus",
+    "SpecCode": "8242",
+    "CommonName": "Bombin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

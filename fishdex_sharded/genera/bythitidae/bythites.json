@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Bythites fuscus",
+    "SpecCode": "56383",
+    "CommonName": "Arctic brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythites gerdae",
+    "SpecCode": "56384",
+    "CommonName": "格氏深蛇鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythites islandicus",
+    "SpecCode": "27737",
+    "CommonName": "Blámævill",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

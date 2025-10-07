@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Histiobranchus australis",
+    "SpecCode": "61398",
+    "CommonName": "Lõuna-paljaspõskangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Histiobranchus bathybius",
+    "SpecCode": "6958",
+    "CommonName": "Ameerika süvaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Histiobranchus bruuni",
+    "SpecCode": "24270",
+    "CommonName": "Bruuni paljaspõskangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

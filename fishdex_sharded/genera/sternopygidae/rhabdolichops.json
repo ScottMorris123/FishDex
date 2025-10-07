@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Rhabdolichops caviceps",
+    "SpecCode": "47994",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdolichops eastwardi",
+    "SpecCode": "47998",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdolichops electrogrammus",
+    "SpecCode": "47995",
+    "CommonName": "琥珀棒电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdolichops jegui",
+    "SpecCode": "57982",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdolichops lundbergi",
+    "SpecCode": "62855",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdolichops navalha",
+    "SpecCode": "62857",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdolichops nigrimans",
+    "SpecCode": "62856",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdolichops stewarti",
+    "SpecCode": "47999",
+    "CommonName": "史氏棒电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdolichops troscheli",
+    "SpecCode": "48000",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdolichops zareti",
+    "SpecCode": "47996",
+    "CommonName": "贊氏棒電鰻",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

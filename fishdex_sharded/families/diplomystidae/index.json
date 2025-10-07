@@ -1,0 +1,17 @@
+{
+  "Family": "Diplomystidae",
+  "Order": "Siluriformes",
+  "Common": "Velvet catfishes",
+  "Genera": [
+    {
+      "Genus": "Diplomystes",
+      "SpeciesCount": 4,
+      "genus_path": "genera/diplomystidae/diplomystes.json"
+    },
+    {
+      "Genus": "Olivaichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/diplomystidae/olivaichthys.json"
+    }
+  ]
+}

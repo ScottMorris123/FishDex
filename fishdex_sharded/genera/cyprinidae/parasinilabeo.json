@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Parasinilabeo assimilis",
+    "SpecCode": "54956",
+    "CommonName": "Labeo čínské",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasinilabeo longibarbus",
+    "SpecCode": "63024",
+    "CommonName": "Poisur-idanarmak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasinilabeo longicorpus",
+    "SpecCode": "58408",
+    "CommonName": "Sale idanarmak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasinilabeo longiventralis",
+    "SpecCode": "63562",
+    "CommonName": "Karsti-idanarmak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasinilabeo maculatus",
+    "SpecCode": "58406",
+    "CommonName": "Tähniline idanarmak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasinilabeo microps",
+    "SpecCode": "58342",
+    "CommonName": "Väikesilm-idanarmak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

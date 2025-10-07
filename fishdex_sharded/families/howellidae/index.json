@@ -1,0 +1,22 @@
+{
+  "Family": "Howellidae",
+  "Order": "Acropomatiformes",
+  "Common": "Oceanic basslets",
+  "Genera": [
+    {
+      "Genus": "Bathysphyraenops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/howellidae/bathysphyraenops.json"
+    },
+    {
+      "Genus": "Howella",
+      "SpeciesCount": 6,
+      "genus_path": "genera/howellidae/howella.json"
+    },
+    {
+      "Genus": "Pseudohowella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/howellidae/pseudohowella.json"
+    }
+  ]
+}

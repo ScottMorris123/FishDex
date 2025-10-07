@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Megalancistrus barrae",
+    "SpecCode": "49947",
+    "CommonName": "巴尔氏大鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Megalancistrus parananus",
+    "SpecCode": "49946",
+    "CommonName": "cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Sufflamen albicaudatum",
+    "SpecCode": "25419",
+    "CommonName": "Blåhalset aftrækkerfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sufflamen bursa",
+    "SpecCode": "6029",
+    "CommonName": "Ampapagot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sufflamen chrysopterum",
+    "SpecCode": "5842",
+    "CommonName": "Ampapagot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sufflamen fraenatum",
+    "SpecCode": "1312",
+    "CommonName": "Ampapagot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sufflamen verres",
+    "SpecCode": "13533",
+    "CommonName": "Baliste calafate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

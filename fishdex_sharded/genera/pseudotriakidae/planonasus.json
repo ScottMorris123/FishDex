@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Planonasus indicus",
+    "SpecCode": "69020",
+    "CommonName": "Eastern dwarf false catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Planonasus parini",
+    "SpecCode": "66761",
+    "CommonName": "Dwarf False Catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

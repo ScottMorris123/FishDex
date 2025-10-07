@@ -1,0 +1,17 @@
+{
+  "Family": "Zanclorhynchidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Horsefishes",
+  "Genera": [
+    {
+      "Genus": "Alertichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zanclorhynchidae/alertichthys.json"
+    },
+    {
+      "Genus": "Zanclorhynchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zanclorhynchidae/zanclorhynchus.json"
+    }
+  ]
+}

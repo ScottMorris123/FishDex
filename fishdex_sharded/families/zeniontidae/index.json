@@ -1,0 +1,22 @@
+{
+  "Family": "Zeniontidae",
+  "Order": "Zeiformes",
+  "Common": "Armoreye dories",
+  "Genera": [
+    {
+      "Genus": "Capromimus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zeniontidae/capromimus.json"
+    },
+    {
+      "Genus": "Cyttomimus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zeniontidae/cyttomimus.json"
+    },
+    {
+      "Genus": "Zenion",
+      "SpeciesCount": 4,
+      "genus_path": "genera/zeniontidae/zenion.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Pelasgus epiroticus",
+    "SpecCode": "26007",
+    "CommonName": "Epiruse pelasgik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelasgus laconicus",
+    "SpecCode": "61993",
+    "CommonName": "Evrotas minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelasgus marathonicus",
+    "SpecCode": "62437",
+    "CommonName": "Marathon minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelasgus minutus",
+    "SpecCode": "26012",
+    "CommonName": "Grunc",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelasgus prespensis",
+    "SpecCode": "48340",
+    "CommonName": "Grunci i Prespës",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelasgus stymphalicus",
+    "SpecCode": "9928",
+    "CommonName": "Dáska",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelasgus thesproticus",
+    "SpecCode": "62438",
+    "CommonName": "Epiros minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

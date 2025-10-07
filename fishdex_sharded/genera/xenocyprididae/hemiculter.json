@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Hemiculter bleekeri",
+    "SpecCode": "22529",
+    "CommonName": "&#27833;&#19543;",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiculter elongatus",
+    "SpecCode": "62810",
+    "CommonName": "Sale nipsviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiculter krempfi",
+    "SpecCode": "54677",
+    "CommonName": "Krempfi nipsviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiculter leucisculus",
+    "SpecCode": "4755",
+    "CommonName": "Beilbauch-Weißfisch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiculter lucidus",
+    "SpecCode": "46726",
+    "CommonName": "Kulter skvělý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiculter songhongensis",
+    "SpecCode": "62809",
+    "CommonName": "Songhongi nipsviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiculter tchangi",
+    "SpecCode": "56026",
+    "CommonName": "Kulter Čangův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiculter varpachovskii",
+    "SpecCode": "63331",
+    "CommonName": "Mongoolia nipsviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

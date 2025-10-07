@@ -1,0 +1,85 @@
+[
+  {
+    "ScientificName": "Leptachirus alleni",
+    "SpecCode": "65648",
+    "CommonName": "Allen's Sole",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptachirus bensbach",
+    "SpecCode": "65649",
+    "CommonName": "Bensbach River Sole",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptachirus darwinensis",
+    "SpecCode": "65650",
+    "CommonName": "Darwin Sole",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptachirus kikori",
+    "SpecCode": "65651",
+    "CommonName": "Kikori River Sole",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptachirus klunzingeri",
+    "SpecCode": "22787",
+    "CommonName": "Kimberley sole",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptachirus lorentz",
+    "SpecCode": "65652",
+    "CommonName": "Lorentz River Sole",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptachirus polylepis",
+    "SpecCode": "65653",
+    "CommonName": "Manyscale Sole",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptachirus robertsi",
+    "SpecCode": "65654",
+    "CommonName": "Robert's Sole",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptachirus triramus",
+    "SpecCode": "65655",
+    "CommonName": "Three-line Sole",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

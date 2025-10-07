@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Gramma brasiliensis",
+    "SpecCode": "50455",
+    "CommonName": "Brasiliansk febars",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gramma dejongi",
+    "SpecCode": "65825",
+    "CommonName": "Golden fairy basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gramma linki",
+    "SpecCode": "12130",
+    "CommonName": "Cabrilleta meijilla amarilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gramma loreto",
+    "SpecCode": "5281",
+    "CommonName": "Fairy basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gramma melacara",
+    "SpecCode": "12131",
+    "CommonName": "Barettgramma",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

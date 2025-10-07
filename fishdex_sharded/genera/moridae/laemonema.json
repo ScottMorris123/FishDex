@@ -1,0 +1,146 @@
+[
+  {
+    "ScientificName": "Laemonema barbatulum",
+    "SpecCode": "28218",
+    "CommonName": "Hige-itohikidara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema compressicauda",
+    "SpecCode": "16769",
+    "CommonName": "窄尾丝鳍鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema filodorsale",
+    "SpecCode": "23165",
+    "CommonName": "Hotei-itohikidara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema goodebeanorum",
+    "SpecCode": "54568",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema gracillipes",
+    "SpecCode": "54569",
+    "CommonName": "細絲鰭鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema laureysi",
+    "SpecCode": "2013",
+    "CommonName": "Abrótea-de-natura",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema longipes",
+    "SpecCode": "2014",
+    "CommonName": "Itohikidara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema macronema",
+    "SpecCode": "54563",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema melanurum",
+    "SpecCode": "54560",
+    "CommonName": "黑体丝鳍鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema modestum",
+    "SpecCode": "23164",
+    "CommonName": "Kurodara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema nana",
+    "SpecCode": "23161",
+    "CommonName": "Himedara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema rhodochir",
+    "SpecCode": "54565",
+    "CommonName": "Palao-itohikidara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema robustum",
+    "SpecCode": "46281",
+    "CommonName": "Robust cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema verecundum",
+    "SpecCode": "13826",
+    "CommonName": "Bighead mora",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema yarrellii",
+    "SpecCode": "5092",
+    "CommonName": "Codling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemonema yuvto",
+    "SpecCode": "54566",
+    "CommonName": "姚氏丝鳍鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

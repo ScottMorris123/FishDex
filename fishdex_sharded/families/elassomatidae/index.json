@@ -1,0 +1,12 @@
+{
+  "Family": "Elassomatidae",
+  "Order": "Centrarchiformes",
+  "Common": "Pygmy sunfishes",
+  "Genera": [
+    {
+      "Genus": "Elassoma",
+      "SpeciesCount": 7,
+      "genus_path": "genera/elassomatidae/elassoma.json"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Tetracamphilius angustifrons",
+    "SpecCode": "9401",
+    "CommonName": "窄体平鳍鮠",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetracamphilius clandestinus",
+    "SpecCode": "61624",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetracamphilius notatus",
+    "SpecCode": "9415",
+    "CommonName": "Laikkuimuevä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetracamphilius pectinatus",
+    "SpecCode": "61625",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

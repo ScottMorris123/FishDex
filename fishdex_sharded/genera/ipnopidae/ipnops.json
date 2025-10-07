@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ipnops agassizii",
+    "SpecCode": "9152",
+    "CommonName": "Agassizi pimekala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ipnops meadi",
+    "SpecCode": "58767",
+    "CommonName": "Meadi pimekala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ipnops murrayi",
+    "SpecCode": "24635",
+    "CommonName": "Harilik pimekala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

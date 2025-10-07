@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Steatocranus bleheri",
+    "SpecCode": "59985",
+    "CommonName": "布氏隆头丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steatocranus casuarius",
+    "SpecCode": "8864",
+    "CommonName": "African blockhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steatocranus gibbiceps",
+    "SpecCode": "8865",
+    "CommonName": "Tylppäkyhmyotsa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steatocranus glaber",
+    "SpecCode": "8866",
+    "CommonName": "Kuparikyhmyotsa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steatocranus mpozoensis",
+    "SpecCode": "8868",
+    "CommonName": "姆普隆头丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steatocranus rouxi",
+    "SpecCode": "8869",
+    "CommonName": "Hoikkakyhmyotsa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steatocranus tinanti",
+    "SpecCode": "8871",
+    "CommonName": "Soukkakyhmyotsa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steatocranus ubanguiensis",
+    "SpecCode": "8872",
+    "CommonName": "Rusokyhmyotsa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

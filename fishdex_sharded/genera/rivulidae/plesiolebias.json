@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Plesiolebias altamira",
+    "SpecCode": "63260",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiolebias aruana",
+    "SpecCode": "49620",
+    "CommonName": "Aruana-Fächerkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiolebias canabravensis",
+    "SpecCode": "63262",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiolebias filamentosus",
+    "SpecCode": "63261",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiolebias fragilis",
+    "SpecCode": "63259",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiolebias glaucopterus",
+    "SpecCode": "49622",
+    "CommonName": "Pantanal-Fächerfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiolebias lacerdai",
+    "SpecCode": "49624",
+    "CommonName": "莱氏近鰕鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiolebias xavantei",
+    "SpecCode": "49625",
+    "CommonName": "贊氏近鰕鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

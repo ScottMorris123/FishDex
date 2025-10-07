@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Tyttocharax cochui",
+    "SpecCode": "51203",
+    "CommonName": "Falsk blå tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyttocharax madeirae",
+    "SpecCode": "12403",
+    "CommonName": "Blackedge tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyttocharax metae",
+    "SpecCode": "66638",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyttocharax tambopatensis",
+    "SpecCode": "51487",
+    "CommonName": "秘魯泰托脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

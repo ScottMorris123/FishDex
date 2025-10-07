@@ -1,0 +1,22 @@
+{
+  "Family": "Nemichthyidae",
+  "Order": "Anguilliformes",
+  "Common": "Snipe eels",
+  "Genera": [
+    {
+      "Genus": "Avocettina",
+      "SpeciesCount": 4,
+      "genus_path": "genera/nemichthyidae/avocettina.json"
+    },
+    {
+      "Genus": "Labichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nemichthyidae/labichthys.json"
+    },
+    {
+      "Genus": "Nemichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/nemichthyidae/nemichthys.json"
+    }
+  ]
+}

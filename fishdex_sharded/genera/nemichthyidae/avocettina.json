@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Avocettina acuticeps",
+    "SpecCode": "9105",
+    "CommonName": "Lõuna-nokkangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Avocettina bowersii",
+    "SpecCode": "55069",
+    "CommonName": "Bowersi nokkangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Avocettina infans",
+    "SpecCode": "5099",
+    "CommonName": "Avocet snipe eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Avocettina paucipora",
+    "SpecCode": "15803",
+    "CommonName": "Hõrepoor-nokkangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Chelidonichthys capensis",
+    "SpecCode": "5504",
+    "CommonName": "Cape gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelidonichthys cuculus",
+    "SpecCode": "44",
+    "CommonName": "Angiulitine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelidonichthys gabonensis",
+    "SpecCode": "4940",
+    "CommonName": "Cabra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelidonichthys ischyrus",
+    "SpecCode": "24013",
+    "CommonName": "Seppari-hôbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelidonichthys kumu",
+    "SpecCode": "507",
+    "CommonName": "Blouvin-knorhaan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelidonichthys lastoviza",
+    "SpecCode": "5081",
+    "CommonName": "African gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelidonichthys lucerna",
+    "SpecCode": "1366",
+    "CommonName": "Alfondiga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelidonichthys obscurus",
+    "SpecCode": "9197",
+    "CommonName": "Antenli kırlangıç balığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelidonichthys queketti",
+    "SpecCode": "7948",
+    "CommonName": "Grondin mineur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelidonichthys spinosus",
+    "SpecCode": "4598",
+    "CommonName": "Bluefin searobin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

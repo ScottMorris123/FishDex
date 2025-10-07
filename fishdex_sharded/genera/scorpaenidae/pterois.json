@@ -1,0 +1,111 @@
+[
+  {
+    "ScientificName": "Pterois andover",
+    "SpecCode": "63727",
+    "CommonName": "Andover lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois antennata",
+    "SpecCode": "4914",
+    "CommonName": "Ampo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois brevipectoralis",
+    "SpecCode": "61174",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois cincta",
+    "SpecCode": "69380",
+    "CommonName": "Red sea lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois lunulata",
+    "SpecCode": "13132",
+    "CommonName": "Dal'nevostochnaya krylatka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois miles",
+    "SpecCode": "7797",
+    "CommonName": "Deesh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois mombasae",
+    "SpecCode": "10288",
+    "CommonName": "African lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois paucispinula",
+    "SpecCode": "68172",
+    "CommonName": "Mizuhiki-minokasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois radiata",
+    "SpecCode": "4913",
+    "CommonName": "Chavarali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois russelii",
+    "SpecCode": "6404",
+    "CommonName": "Cá Mù làn hai mắt lồi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois sphex",
+    "SpecCode": "7782",
+    "CommonName": "Hawaiian lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterois volitans",
+    "SpecCode": "5195",
+    "CommonName": "Almindelig dragefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Trachelyopterichthys anduzei",
+    "SpecCode": "47700",
+    "CommonName": "阿氏喉鰭魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachelyopterichthys taeniatus",
+    "SpecCode": "13281",
+    "CommonName": "Falscher Streifendornwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

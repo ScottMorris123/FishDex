@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Callorhinchus callorynchus",
+    "SpecCode": "8399",
+    "CommonName": "Acagual",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callorhinchus capensis",
+    "SpecCode": "167",
+    "CommonName": "Australisk plognos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callorhinchus milii",
+    "SpecCode": "4722",
+    "CommonName": "Austraalia kõblasnina",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

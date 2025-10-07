@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Kottelatlimia hipporhynchos",
+    "SpecCode": "64813",
+    "CommonName": "Hobu-soohink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kottelatlimia katik",
+    "SpecCode": "52310",
+    "CommonName": "Malai soohink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kottelatlimia pristes",
+    "SpecCode": "23023",
+    "CommonName": "Emplunyu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "Family": "Latridae",
+  "Order": "Centrarchiformes",
+  "Common": "Trumpeters",
+  "Genera": [
+    {
+      "Genus": "Chirodactylus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/latridae/chirodactylus.json"
+    },
+    {
+      "Genus": "Dactylophora",
+      "SpeciesCount": 1,
+      "genus_path": "genera/latridae/dactylophora.json"
+    },
+    {
+      "Genus": "Goniistius",
+      "SpeciesCount": 9,
+      "genus_path": "genera/latridae/goniistius.json"
+    },
+    {
+      "Genus": "Latridopsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/latridae/latridopsis.json"
+    },
+    {
+      "Genus": "Latris",
+      "SpeciesCount": 2,
+      "genus_path": "genera/latridae/latris.json"
+    },
+    {
+      "Genus": "Mendosoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/latridae/mendosoma.json"
+    },
+    {
+      "Genus": "Morwong",
+      "SpeciesCount": 2,
+      "genus_path": "genera/latridae/morwong.json"
+    },
+    {
+      "Genus": "Nemadactylus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/latridae/nemadactylus.json"
+    },
+    {
+      "Genus": "Pseudogoniistius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/latridae/pseudogoniistius.json"
+    }
+  ]
+}

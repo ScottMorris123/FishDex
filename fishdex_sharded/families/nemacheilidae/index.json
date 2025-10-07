@@ -1,0 +1,217 @@
+{
+  "Family": "Nemacheilidae",
+  "Order": "Cypriniformes",
+  "Common": "Brook loaches",
+  "Genera": [
+    {
+      "Genus": "Aborichthys",
+      "SpeciesCount": 13,
+      "genus_path": "genera/nemacheilidae/aborichthys.json"
+    },
+    {
+      "Genus": "Acanthocobitis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/nemacheilidae/acanthocobitis.json"
+    },
+    {
+      "Genus": "Afronemacheilus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nemacheilidae/afronemacheilus.json"
+    },
+    {
+      "Genus": "Barbatula",
+      "SpeciesCount": 22,
+      "genus_path": "genera/nemacheilidae/barbatula.json"
+    },
+    {
+      "Genus": "Claea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/claea.json"
+    },
+    {
+      "Genus": "Draconectes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/draconectes.json"
+    },
+    {
+      "Genus": "Dzihunia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/nemacheilidae/dzihunia.json"
+    },
+    {
+      "Genus": "Eidinemacheilus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nemacheilidae/eidinemacheilus.json"
+    },
+    {
+      "Genus": "Hedinichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/nemacheilidae/hedinichthys.json"
+    },
+    {
+      "Genus": "Heminoemacheilus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nemacheilidae/heminoemacheilus.json"
+    },
+    {
+      "Genus": "Homatula",
+      "SpeciesCount": 21,
+      "genus_path": "genera/nemacheilidae/homatula.json"
+    },
+    {
+      "Genus": "Indoreonectes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/indoreonectes.json"
+    },
+    {
+      "Genus": "Iskandaria",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/iskandaria.json"
+    },
+    {
+      "Genus": "Kapuasia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/kapuasia.json"
+    },
+    {
+      "Genus": "Lefua",
+      "SpeciesCount": 6,
+      "genus_path": "genera/nemacheilidae/lefua.json"
+    },
+    {
+      "Genus": "Malihkaia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/malihkaia.json"
+    },
+    {
+      "Genus": "Mesonoemacheilus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/nemacheilidae/mesonoemacheilus.json"
+    },
+    {
+      "Genus": "Micronemacheilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/micronemacheilus.json"
+    },
+    {
+      "Genus": "Nemacheilus",
+      "SpeciesCount": 52,
+      "genus_path": "genera/nemacheilidae/nemacheilus.json"
+    },
+    {
+      "Genus": "Nemachilichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/nemachilichthys.json"
+    },
+    {
+      "Genus": "Neonoemacheilus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/nemacheilidae/neonoemacheilus.json"
+    },
+    {
+      "Genus": "Oreonectes",
+      "SpeciesCount": 15,
+      "genus_path": "genera/nemacheilidae/oreonectes.json"
+    },
+    {
+      "Genus": "Oxynoemacheilus",
+      "SpeciesCount": 64,
+      "genus_path": "genera/nemacheilidae/oxynoemacheilus.json"
+    },
+    {
+      "Genus": "Paracanthocobitis",
+      "SpeciesCount": 11,
+      "genus_path": "genera/nemacheilidae/paracanthocobitis.json"
+    },
+    {
+      "Genus": "Paracobitis",
+      "SpeciesCount": 17,
+      "genus_path": "genera/nemacheilidae/paracobitis.json"
+    },
+    {
+      "Genus": "Paranemachilus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nemacheilidae/paranemachilus.json"
+    },
+    {
+      "Genus": "Paraschistura",
+      "SpeciesCount": 23,
+      "genus_path": "genera/nemacheilidae/paraschistura.json"
+    },
+    {
+      "Genus": "Physoschistura",
+      "SpeciesCount": 13,
+      "genus_path": "genera/nemacheilidae/physoschistura.json"
+    },
+    {
+      "Genus": "Protonemacheilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/protonemacheilus.json"
+    },
+    {
+      "Genus": "Pteronemacheilus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nemacheilidae/pteronemacheilus.json"
+    },
+    {
+      "Genus": "Schistura",
+      "SpeciesCount": 230,
+      "genus_path": "genera/nemacheilidae/schistura.json"
+    },
+    {
+      "Genus": "Sectoria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nemacheilidae/sectoria.json"
+    },
+    {
+      "Genus": "Seminemacheilus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/nemacheilidae/seminemacheilus.json"
+    },
+    {
+      "Genus": "Speonectes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/speonectes.json"
+    },
+    {
+      "Genus": "Sphaerophysa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/sphaerophysa.json"
+    },
+    {
+      "Genus": "Sundoreonectes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nemacheilidae/sundoreonectes.json"
+    },
+    {
+      "Genus": "Traccatichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/nemacheilidae/traccatichthys.json"
+    },
+    {
+      "Genus": "Triplophysa",
+      "SpeciesCount": 148,
+      "genus_path": "genera/nemacheilidae/triplophysa.json"
+    },
+    {
+      "Genus": "Troglocobitis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nemacheilidae/troglocobitis.json"
+    },
+    {
+      "Genus": "Tuberoschistura",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nemacheilidae/tuberoschistura.json"
+    },
+    {
+      "Genus": "Turcinoemacheilus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/nemacheilidae/turcinoemacheilus.json"
+    },
+    {
+      "Genus": "Yunnanilus",
+      "SpeciesCount": 34,
+      "genus_path": "genera/nemacheilidae/yunnanilus.json"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Echelus myrus",
+    "SpecCode": "1713",
+    "CommonName": "Cirrimirru",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echelus pachyrhynchus",
+    "SpecCode": "9084",
+    "CommonName": "Hadař marocký",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echelus polyspondylus",
+    "SpecCode": "68629",
+    "CommonName": "Many-vertebrae snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echelus uropterus",
+    "SpecCode": "17407",
+    "CommonName": "Finned snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

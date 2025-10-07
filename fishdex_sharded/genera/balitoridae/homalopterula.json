@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Homalopterula amphisquamata",
+    "SpecCode": "68109",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopterula gymnogaster",
+    "SpecCode": "22862",
+    "CommonName": "Balitora sumatránská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopterula heterolepis",
+    "SpecCode": "22864",
+    "CommonName": "Balitora tavarská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopterula modiglianii",
+    "SpecCode": "68108",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopterula ripleyi",
+    "SpecCode": "22878",
+    "CommonName": "Balitora Ripleyova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopterula vanderbilti",
+    "SpecCode": "22964",
+    "CommonName": "Balitora Vanderbiltova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

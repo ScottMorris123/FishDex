@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Vandellia beccarii",
+    "SpecCode": "48118",
+    "CommonName": "Guajaana nugisäga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vandellia cirrhosa",
+    "SpecCode": "8811",
+    "CommonName": "Almindelig snyltemalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vandellia sanguinea",
+    "SpecCode": "48785",
+    "CommonName": "Candiru",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Family": "Pseudotrichonotidae",
+  "Order": "Aulopiformes",
+  "Common": "Sand diving lizardfishes",
+  "Genera": [
+    {
+      "Genus": "Pseudotrichonotus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/pseudotrichonotidae/pseudotrichonotus.json"
+    }
+  ]
+}

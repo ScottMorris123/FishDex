@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Sinobatis andamanensis",
+    "SpecCode": "68651",
+    "CommonName": "Andaman legskate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinobatis borneensis",
+    "SpecCode": "7279",
+    "CommonName": "Borneo koibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinobatis brevicauda",
+    "SpecCode": "67967",
+    "CommonName": "Shorttail legskate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinobatis bulbicauda",
+    "SpecCode": "63737",
+    "CommonName": "Sibulsaba-koibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinobatis caerulea",
+    "SpecCode": "63738",
+    "CommonName": "Blue Legskate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinobatis filicauda",
+    "SpecCode": "63741",
+    "CommonName": "Eastern Australian legskate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinobatis kotlyari",
+    "SpecCode": "68149",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinobatis melanosoma",
+    "SpecCode": "7280",
+    "CommonName": "Blackbodied leg skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinobatis stenosoma",
+    "SpecCode": "54440",
+    "CommonName": "Narrow leg skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

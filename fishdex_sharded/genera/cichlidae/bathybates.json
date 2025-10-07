@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Bathybates fasciatus",
+    "SpecCode": "8140",
+    "CommonName": "Raitapetoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybates ferox",
+    "SpecCode": "8141",
+    "CommonName": "Pilkkupetoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybates graueri",
+    "SpecCode": "8142",
+    "CommonName": "Keltapetoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybates hornii",
+    "SpecCode": "8143",
+    "CommonName": "Seeprapetoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybates leo",
+    "SpecCode": "8144",
+    "CommonName": "Tummapetoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybates minor",
+    "SpecCode": "8145",
+    "CommonName": "Pikkupetoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybates vittatus",
+    "SpecCode": "8146",
+    "CommonName": "Juovapetoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Parapocryptes rictuosus",
+    "SpecCode": "25250",
+    "CommonName": "长尾副平牙鰕虎鱼",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapocryptes serperaster",
+    "SpecCode": "25082",
+    "CommonName": "Belodok tilan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

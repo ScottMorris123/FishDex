@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Dentiraja australis",
+    "SpecCode": "15413",
+    "CommonName": "Common skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentiraja cerva",
+    "SpecCode": "24076",
+    "CommonName": "Hind skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentiraja confusa",
+    "SpecCode": "63963",
+    "CommonName": "Koon-tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentiraja endeavouri",
+    "SpecCode": "63964",
+    "CommonName": "Endeavour skate",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentiraja falloargus",
+    "SpecCode": "63965",
+    "CommonName": "False argus skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentiraja flindersi",
+    "SpecCode": "63970",
+    "CommonName": "Kääbus-tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentiraja healdi",
+    "SpecCode": "63932",
+    "CommonName": "Healdi tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentiraja lemprieri",
+    "SpecCode": "24081",
+    "CommonName": "Australian thornback skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentiraja oculus",
+    "SpecCode": "63967",
+    "CommonName": "Ocellate skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentiraja polyommata",
+    "SpecCode": "15419",
+    "CommonName": "Argus skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

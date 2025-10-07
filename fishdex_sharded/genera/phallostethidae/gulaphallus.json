@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Gulaphallus bikolanus",
+    "SpecCode": "26939",
+    "CommonName": "奇棒真精器魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gulaphallus eximius",
+    "SpecCode": "26918",
+    "CommonName": "真精器魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gulaphallus falcifer",
+    "SpecCode": "26941",
+    "CommonName": "矮精器魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gulaphallus mirabilis",
+    "SpecCode": "26919",
+    "CommonName": "Imeline falloskurk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gulaphallus panayensis",
+    "SpecCode": "26960",
+    "CommonName": "菲律宾喉盘鱼",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

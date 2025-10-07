@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Arenigobius bifrenatus",
+    "SpecCode": "52433",
+    "CommonName": "Bridled goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arenigobius frenatus",
+    "SpecCode": "52434",
+    "CommonName": "Halfbridled goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arenigobius leftwichi",
+    "SpecCode": "61335",
+    "CommonName": "Oyster goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

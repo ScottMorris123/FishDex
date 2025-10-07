@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Lissocampus bannwarthi",
+    "SpecCode": "46165",
+    "CommonName": "紅海無稜海龍",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lissocampus caudalis",
+    "SpecCode": "46166",
+    "CommonName": "Australian smooth pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lissocampus fatiloquus",
+    "SpecCode": "46167",
+    "CommonName": "Prophet's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lissocampus filum",
+    "SpecCode": "46170",
+    "CommonName": "Shortsnout pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lissocampus runa",
+    "SpecCode": "46172",
+    "CommonName": "Javelin pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

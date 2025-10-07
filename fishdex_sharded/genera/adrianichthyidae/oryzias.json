@@ -1,0 +1,316 @@
+[
+  {
+    "ScientificName": "Oryzias asinua",
+    "SpecCode": "67150",
+    "CommonName": "Asinua ricefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias bonneorum",
+    "SpecCode": "64835",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias carnaticus",
+    "SpecCode": "50267",
+    "CommonName": "Mundakanni",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias celebensis",
+    "SpecCode": "12252",
+    "CommonName": "Celebes medaka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias curvinotus",
+    "SpecCode": "49577",
+    "CommonName": "弓背青鮰",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias dancena",
+    "SpecCode": "50265",
+    "CommonName": "Indian blue ricefish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias eversi",
+    "SpecCode": "66685",
+    "CommonName": "Evers' ricefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias hadiatyae",
+    "SpecCode": "65776",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias haugiangensis",
+    "SpecCode": "50271",
+    "CommonName": "湄公河青鮰",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias hubbsi",
+    "SpecCode": "50272",
+    "CommonName": "赫氏青鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias javanicus",
+    "SpecCode": "12254",
+    "CommonName": "Jaavanmedaka",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias kalimpaaensis",
+    "SpecCode": "69786",
+    "CommonName": "Lake Kalimpa'a ricefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias latipes",
+    "SpecCode": "4669",
+    "CommonName": "Jaapani riisikala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias luzonensis",
+    "SpecCode": "5162",
+    "CommonName": "Coscosleng",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias marmoratus",
+    "SpecCode": "6265",
+    "CommonName": "Mamor-Reiskärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias matanensis",
+    "SpecCode": "6266",
+    "CommonName": "Kultamedaka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias mekongensis",
+    "SpecCode": "26794",
+    "CommonName": "曼谷青鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias melastigma",
+    "SpecCode": "64642",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias minutillus",
+    "SpecCode": "26983",
+    "CommonName": "Dværg-risfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias nebulosus",
+    "SpecCode": "62167",
+    "CommonName": "Nebulosus ricefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias nigrimas",
+    "SpecCode": "6267",
+    "CommonName": "Black medaka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias orthognathus",
+    "SpecCode": "6268",
+    "CommonName": "Buntingi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias pectoralis",
+    "SpecCode": "50270",
+    "CommonName": "鰭斑青鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias profundicola",
+    "SpecCode": "6269",
+    "CommonName": "Gelbflossen-Reiskärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias sakaizumii",
+    "SpecCode": "66418",
+    "CommonName": "Kitano-medaka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias sarasinorum",
+    "SpecCode": "6264",
+    "CommonName": "Sarasins minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias setnai",
+    "SpecCode": "4592",
+    "CommonName": "Anu",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias sinensis",
+    "SpecCode": "52632",
+    "CommonName": "대륙송사리",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias soerotoi",
+    "SpecCode": "67765",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias songkhramensis",
+    "SpecCode": "65577",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias timorensis",
+    "SpecCode": "49578",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias uwai",
+    "SpecCode": "50269",
+    "CommonName": "乌氏青鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias wolasi",
+    "SpecCode": "67151",
+    "CommonName": "Wolasi ricefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oryzias woworae",
+    "SpecCode": "65542",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

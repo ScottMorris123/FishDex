@@ -1,0 +1,82 @@
+{
+  "Family": "Scombridae",
+  "Order": "Scombriformes",
+  "Common": "Mackerels, tunas, bonitos",
+  "Genera": [
+    {
+      "Genus": "Acanthocybium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scombridae/acanthocybium.json"
+    },
+    {
+      "Genus": "Allothunnus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scombridae/allothunnus.json"
+    },
+    {
+      "Genus": "Auxis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/scombridae/auxis.json"
+    },
+    {
+      "Genus": "Cybiosarda",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scombridae/cybiosarda.json"
+    },
+    {
+      "Genus": "Euthynnus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/scombridae/euthynnus.json"
+    },
+    {
+      "Genus": "Gasterochisma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scombridae/gasterochisma.json"
+    },
+    {
+      "Genus": "Grammatorcynus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scombridae/grammatorcynus.json"
+    },
+    {
+      "Genus": "Gymnosarda",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scombridae/gymnosarda.json"
+    },
+    {
+      "Genus": "Katsuwonus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scombridae/katsuwonus.json"
+    },
+    {
+      "Genus": "Orcynopsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scombridae/orcynopsis.json"
+    },
+    {
+      "Genus": "Rastrelliger",
+      "SpeciesCount": 3,
+      "genus_path": "genera/scombridae/rastrelliger.json"
+    },
+    {
+      "Genus": "Sarda",
+      "SpeciesCount": 5,
+      "genus_path": "genera/scombridae/sarda.json"
+    },
+    {
+      "Genus": "Scomber",
+      "SpeciesCount": 4,
+      "genus_path": "genera/scombridae/scomber.json"
+    },
+    {
+      "Genus": "Scomberomorus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/scombridae/scomberomorus.json"
+    },
+    {
+      "Genus": "Thunnus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/scombridae/thunnus.json"
+    }
+  ]
+}

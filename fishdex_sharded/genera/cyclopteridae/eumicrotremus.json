@@ -1,0 +1,164 @@
+[
+  {
+    "ScientificName": "Eumicrotremus andriashevi",
+    "SpecCode": "51419",
+    "CommonName": "Bumset stenbider",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus asperrimus",
+    "SpecCode": "60669",
+    "CommonName": "Konpeitô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus awae",
+    "SpecCode": "24106",
+    "CommonName": "Dango-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus barbatus",
+    "SpecCode": "24059",
+    "CommonName": "Hige-dango",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus derjugini",
+    "SpecCode": "4183",
+    "CommonName": "Kruglopyor Deryugina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus fedorovi",
+    "SpecCode": "58804",
+    "CommonName": "費氏刺獅子魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus gyrinops",
+    "SpecCode": "50771",
+    "CommonName": "Alaskan lumpsucker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus jindoensis",
+    "SpecCode": "69186",
+    "CommonName": "Gin-kko-ri-eom-ji-do-chi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus orbis",
+    "SpecCode": "4184",
+    "CommonName": "Amrruq",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus pacificus",
+    "SpecCode": "24057",
+    "CommonName": "Fûsen-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus phrynoides",
+    "SpecCode": "51412",
+    "CommonName": "Toad lumpsucker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus schmidti",
+    "SpecCode": "24055",
+    "CommonName": "Hira-dango",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus spinosus",
+    "SpecCode": "4185",
+    "CommonName": "Atlantic spiny lumpsucker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus taranetzi",
+    "SpecCode": "27595",
+    "CommonName": "Name-dango",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus tartaricus",
+    "SpecCode": "60673",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus terraenovae",
+    "SpecCode": "58831",
+    "CommonName": "Newfoundland spiny lumpsucker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus tokranovi",
+    "SpecCode": "70511",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eumicrotremus uenoi",
+    "SpecCode": "69185",
+    "CommonName": "Eom-ji-do-chi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

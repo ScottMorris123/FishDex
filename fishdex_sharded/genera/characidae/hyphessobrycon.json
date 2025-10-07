@@ -1,0 +1,1344 @@
+[
+  {
+    "ScientificName": "Hyphessobrycon acaciae",
+    "SpecCode": "65843",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon agulha",
+    "SpecCode": "51019",
+    "CommonName": "Timanttijuovatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon albolineatus",
+    "SpecCode": "51944",
+    "CommonName": "Valkojuovatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon amandae",
+    "SpecCode": "12376",
+    "CommonName": "Ember tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon amapaensis",
+    "SpecCode": "56429",
+    "CommonName": "Hehkujuovatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon amaronensis",
+    "SpecCode": "65534",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon arianae",
+    "SpecCode": "57986",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon auca",
+    "SpecCode": "62326",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon axelrodi",
+    "SpecCode": "12397",
+    "CommonName": "Barwieniec poziomkowy",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon balbus",
+    "SpecCode": "50985",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon bentosi",
+    "SpecCode": "12378",
+    "CommonName": "Bystrzyk ozdobny",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon bifasciatus",
+    "SpecCode": "12379",
+    "CommonName": "Bystrzyk dwupregi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon borealis",
+    "SpecCode": "63088",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon boulengeri",
+    "SpecCode": "51112",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon brumado",
+    "SpecCode": "65862",
+    "CommonName": "Piaba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon cachimbensis",
+    "SpecCode": "51025",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon catableptus",
+    "SpecCode": "53436",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon chocoensis",
+    "SpecCode": "66787",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon clavatus",
+    "SpecCode": "67825",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon coelestinus",
+    "SpecCode": "51020",
+    "CommonName": "Taivastetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon columbianus",
+    "SpecCode": "60560",
+    "CommonName": "Safiiritetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon comodoro",
+    "SpecCode": "70047",
+    "CommonName": "Emerald green tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon compressus",
+    "SpecCode": "46296",
+    "CommonName": "Billum",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon condotensis",
+    "SpecCode": "57999",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon copelandi",
+    "SpecCode": "27990",
+    "CommonName": "Bystrzyk kopelanda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon cyanotaenia",
+    "SpecCode": "62969",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon diancistrus",
+    "SpecCode": "52556",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon diastatos",
+    "SpecCode": "67721",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon dorsalis",
+    "SpecCode": "67524",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon duragenys",
+    "SpecCode": "51006",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon ecuadorensis",
+    "SpecCode": "58393",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon ecuadoriensis",
+    "SpecCode": "46308",
+    "CommonName": "危瓜多尔魮脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon eilyos",
+    "SpecCode": "61916",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon elachys",
+    "SpecCode": "52558",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon eos",
+    "SpecCode": "12380",
+    "CommonName": "Aurinkotetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon epicharis",
+    "SpecCode": "46280",
+    "CommonName": "Laikkutetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon eques",
+    "SpecCode": "46294",
+    "CommonName": "Blood characin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon ericae",
+    "SpecCode": "68857",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon erythrostigma",
+    "SpecCode": "10651",
+    "CommonName": "Bleeding heart",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon eschwartzae",
+    "SpecCode": "66954",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon fernandezi",
+    "SpecCode": "51945",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon flammeus",
+    "SpecCode": "10652",
+    "CommonName": "Bystrzyk czerwony a. tetra czerwona",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon frankei",
+    "SpecCode": "57984",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon georgettae",
+    "SpecCode": "46317",
+    "CommonName": "Bystrzyk georgetta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon gracilior",
+    "SpecCode": "50981",
+    "CommonName": "薄魮脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon griemi",
+    "SpecCode": "10653",
+    "CommonName": "Bystrzyk griema",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon hamatus",
+    "SpecCode": "62133",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon haraldschultzi",
+    "SpecCode": "46316",
+    "CommonName": "Schultz Signalsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon hasemani",
+    "SpecCode": "46321",
+    "CommonName": "黑斯曼魮脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon heliacus",
+    "SpecCode": "59746",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon herbertaxelrodi",
+    "SpecCode": "10654",
+    "CommonName": "Black neon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon heteresthes",
+    "SpecCode": "52667",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon heterorhabdus",
+    "SpecCode": "10655",
+    "CommonName": "Bandeira alemã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon hexastichos",
+    "SpecCode": "62653",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon hildae",
+    "SpecCode": "51010",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon igneus",
+    "SpecCode": "53449",
+    "CommonName": "Punapilkkatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon iheringi",
+    "SpecCode": "50998",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon inconstans",
+    "SpecCode": "26459",
+    "CommonName": "Flittersalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon isiri",
+    "SpecCode": "64516",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon itaparicensis",
+    "SpecCode": "61050",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon jackrobertsi",
+    "SpecCode": "67525",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon kayabi",
+    "SpecCode": "67883",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon khardinae",
+    "SpecCode": "63861",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon klausanni",
+    "SpecCode": "69575",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon langeanii",
+    "SpecCode": "61914",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon latus",
+    "SpecCode": "50996",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon loretoensis",
+    "SpecCode": "12381",
+    "CommonName": "Bystrzyk z loreto",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon loweae",
+    "SpecCode": "46320",
+    "CommonName": "Messinkitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon maculicauda",
+    "SpecCode": "53317",
+    "CommonName": "Täpläpyrstötetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon margitae",
+    "SpecCode": "69385",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon mavro",
+    "SpecCode": "65841",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon megalopterus",
+    "SpecCode": "10658",
+    "CommonName": "Barwieniec czarny",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon melanostichos",
+    "SpecCode": "62884",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon melasemeion",
+    "SpecCode": "53318",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon melazonatus",
+    "SpecCode": "51015",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon meridionalis",
+    "SpecCode": "53320",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon metae",
+    "SpecCode": "51017",
+    "CommonName": "Metantetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon micropterus",
+    "SpecCode": "46291",
+    "CommonName": "Lyhytevätetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon milleri",
+    "SpecCode": "46306",
+    "CommonName": "米勒氏魮脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon minimus",
+    "SpecCode": "51002",
+    "CommonName": "Kääpiötetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon minor",
+    "SpecCode": "26463",
+    "CommonName": "Minortetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon moniliger",
+    "SpecCode": "59738",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon montagi",
+    "SpecCode": "67666",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon mutabilis",
+    "SpecCode": "52560",
+    "CommonName": "变魮脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon myrmex",
+    "SpecCode": "70048",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon natagaima",
+    "SpecCode": "68846",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon negodagua",
+    "SpecCode": "58392",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon nicolasi",
+    "SpecCode": "65407",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon niger",
+    "SpecCode": "65842",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon nigricinctus",
+    "SpecCode": "62161",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon notidanos",
+    "SpecCode": "62885",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon ocasoensis",
+    "SpecCode": "64859",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon oritoensis",
+    "SpecCode": "64099",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon otrynus",
+    "SpecCode": "63806",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon paepkei",
+    "SpecCode": "67526",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon panamensis",
+    "SpecCode": "46307",
+    "CommonName": "Panama tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon pando",
+    "SpecCode": "65158",
+    "CommonName": "Pando tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon parvellus",
+    "SpecCode": "51000",
+    "CommonName": "Piabinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon paucilepis",
+    "SpecCode": "64836",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon peruvianus",
+    "SpecCode": "12382",
+    "CommonName": "Blauer Loretosalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon peugeotorum",
+    "SpecCode": "66853",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon piabinhas",
+    "SpecCode": "51001",
+    "CommonName": "Piabinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon pinnistriatus",
+    "SpecCode": "69355",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon piranga",
+    "SpecCode": "68980",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon poecilioides",
+    "SpecCode": "51024",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon procerus",
+    "SpecCode": "52561",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon procyon",
+    "SpecCode": "70046",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon proteus",
+    "SpecCode": "51009",
+    "CommonName": "Galocha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon pulchripinnis",
+    "SpecCode": "10656",
+    "CommonName": "Bystrzyk pieknopletwy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon pyrrhonotus",
+    "SpecCode": "46319",
+    "CommonName": "Punaselkätetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon pytai",
+    "SpecCode": "53321",
+    "CommonName": "派氏魮脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon reticulatus",
+    "SpecCode": "51008",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon rheophilus",
+    "SpecCode": "70182",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon robustulus",
+    "SpecCode": "26461",
+    "CommonName": "Kugelflecksalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon rosaceus",
+    "SpecCode": "12383",
+    "CommonName": "Black-flag tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon roseus",
+    "SpecCode": "28009",
+    "CommonName": "Barwieniec rózowy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon rutiliflavidus",
+    "SpecCode": "63717",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon saizi",
+    "SpecCode": "58001",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon santae",
+    "SpecCode": "51003",
+    "CommonName": "Piabinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon savagei",
+    "SpecCode": "50984",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon schauenseei",
+    "SpecCode": "58002",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon scholzei",
+    "SpecCode": "10657",
+    "CommonName": "Blackband tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon scutulatus",
+    "SpecCode": "62175",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon sebastiani",
+    "SpecCode": "65326",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon simulatus",
+    "SpecCode": "28011",
+    "CommonName": "Falscher Sternflecksalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon socolofi",
+    "SpecCode": "12385",
+    "CommonName": "Bleeding heart tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon sovichthys",
+    "SpecCode": "49017",
+    "CommonName": "Golosa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon stegemanni",
+    "SpecCode": "12386",
+    "CommonName": "Savanna tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon stramineus",
+    "SpecCode": "50986",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon sweglesi",
+    "SpecCode": "10659",
+    "CommonName": "Barwieniec czerwony",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon taguae",
+    "SpecCode": "65535",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon takasei",
+    "SpecCode": "12387",
+    "CommonName": "Coffee-bean tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon taphorni",
+    "SpecCode": "66953",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon taurocephalus",
+    "SpecCode": "51023",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon tenuis",
+    "SpecCode": "51012",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon togoi",
+    "SpecCode": "63127",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon tortuguerae",
+    "SpecCode": "50983",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon tropis",
+    "SpecCode": "51013",
+    "CommonName": "Siniselkätetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon tukunai",
+    "SpecCode": "50999",
+    "CommonName": "Tukuna-Salmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon tuyensis",
+    "SpecCode": "64837",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon uaiso",
+    "SpecCode": "67177",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon vilmae",
+    "SpecCode": "26464",
+    "CommonName": "Goldstaubsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon vinaceus",
+    "SpecCode": "63799",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon wadai",
+    "SpecCode": "68265",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon wajat",
+    "SpecCode": "57985",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon weitzmanorum",
+    "SpecCode": "61917",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon werneri",
+    "SpecCode": "46318",
+    "CommonName": "Kiilatäplätetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon wosiackii",
+    "SpecCode": "68858",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyphessobrycon zoe",
+    "SpecCode": "69557",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "Family": "Psychrolutidae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Fatheads",
+  "Genera": [
+    {
+      "Genus": "Ambophthalmos",
+      "SpeciesCount": 3,
+      "genus_path": "genera/psychrolutidae/ambophthalmos.json"
+    },
+    {
+      "Genus": "Bathylutichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/psychrolutidae/bathylutichthys.json"
+    },
+    {
+      "Genus": "Cottunculus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/psychrolutidae/cottunculus.json"
+    },
+    {
+      "Genus": "Dasycottus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/psychrolutidae/dasycottus.json"
+    },
+    {
+      "Genus": "Ebinania",
+      "SpeciesCount": 7,
+      "genus_path": "genera/psychrolutidae/ebinania.json"
+    },
+    {
+      "Genus": "Eurymen",
+      "SpeciesCount": 2,
+      "genus_path": "genera/psychrolutidae/eurymen.json"
+    },
+    {
+      "Genus": "Gilbertidia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/psychrolutidae/gilbertidia.json"
+    },
+    {
+      "Genus": "Malacocottus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/psychrolutidae/malacocottus.json"
+    },
+    {
+      "Genus": "Neophrynichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/psychrolutidae/neophrynichthys.json"
+    },
+    {
+      "Genus": "Psychrolutes",
+      "SpeciesCount": 11,
+      "genus_path": "genera/psychrolutidae/psychrolutes.json"
+    }
+  ]
+}

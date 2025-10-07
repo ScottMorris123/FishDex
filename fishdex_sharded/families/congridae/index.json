@@ -1,0 +1,152 @@
+{
+  "Family": "Congridae",
+  "Order": "Anguilliformes",
+  "Common": "Conger and garden eels",
+  "Genera": [
+    {
+      "Genus": "Acromycter",
+      "SpeciesCount": 5,
+      "genus_path": "genera/congridae/acromycter.json"
+    },
+    {
+      "Genus": "Ariosoma",
+      "SpeciesCount": 37,
+      "genus_path": "genera/congridae/ariosoma.json"
+    },
+    {
+      "Genus": "Bassanago",
+      "SpeciesCount": 4,
+      "genus_path": "genera/congridae/bassanago.json"
+    },
+    {
+      "Genus": "Bathycongrus",
+      "SpeciesCount": 29,
+      "genus_path": "genera/congridae/bathycongrus.json"
+    },
+    {
+      "Genus": "Bathymyrus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/congridae/bathymyrus.json"
+    },
+    {
+      "Genus": "Bathyuroconger",
+      "SpeciesCount": 2,
+      "genus_path": "genera/congridae/bathyuroconger.json"
+    },
+    {
+      "Genus": "Blachea",
+      "SpeciesCount": 2,
+      "genus_path": "genera/congridae/blachea.json"
+    },
+    {
+      "Genus": "Castleichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/congridae/castleichthys.json"
+    },
+    {
+      "Genus": "Chiloconger",
+      "SpeciesCount": 2,
+      "genus_path": "genera/congridae/chiloconger.json"
+    },
+    {
+      "Genus": "Conger",
+      "SpeciesCount": 17,
+      "genus_path": "genera/congridae/conger.json"
+    },
+    {
+      "Genus": "Congrhynchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/congridae/congrhynchus.json"
+    },
+    {
+      "Genus": "Congriscus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/congridae/congriscus.json"
+    },
+    {
+      "Genus": "Congrosoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/congridae/congrosoma.json"
+    },
+    {
+      "Genus": "Diploconger",
+      "SpeciesCount": 1,
+      "genus_path": "genera/congridae/diploconger.json"
+    },
+    {
+      "Genus": "Gnathophis",
+      "SpeciesCount": 28,
+      "genus_path": "genera/congridae/gnathophis.json"
+    },
+    {
+      "Genus": "Gorgasia",
+      "SpeciesCount": 14,
+      "genus_path": "genera/congridae/gorgasia.json"
+    },
+    {
+      "Genus": "Heteroconger",
+      "SpeciesCount": 23,
+      "genus_path": "genera/congridae/heteroconger.json"
+    },
+    {
+      "Genus": "Japonoconger",
+      "SpeciesCount": 3,
+      "genus_path": "genera/congridae/japonoconger.json"
+    },
+    {
+      "Genus": "Kenyaconger",
+      "SpeciesCount": 1,
+      "genus_path": "genera/congridae/kenyaconger.json"
+    },
+    {
+      "Genus": "Lumiconger",
+      "SpeciesCount": 1,
+      "genus_path": "genera/congridae/lumiconger.json"
+    },
+    {
+      "Genus": "Macrocephenchelys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/congridae/macrocephenchelys.json"
+    },
+    {
+      "Genus": "Parabathymyrus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/congridae/parabathymyrus.json"
+    },
+    {
+      "Genus": "Paraconger",
+      "SpeciesCount": 7,
+      "genus_path": "genera/congridae/paraconger.json"
+    },
+    {
+      "Genus": "Promyllantor",
+      "SpeciesCount": 3,
+      "genus_path": "genera/congridae/promyllantor.json"
+    },
+    {
+      "Genus": "Pseudophichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/congridae/pseudophichthys.json"
+    },
+    {
+      "Genus": "Rhynchoconger",
+      "SpeciesCount": 10,
+      "genus_path": "genera/congridae/rhynchoconger.json"
+    },
+    {
+      "Genus": "Scalanago",
+      "SpeciesCount": 1,
+      "genus_path": "genera/congridae/scalanago.json"
+    },
+    {
+      "Genus": "Uroconger",
+      "SpeciesCount": 4,
+      "genus_path": "genera/congridae/uroconger.json"
+    },
+    {
+      "Genus": "Xenomystax",
+      "SpeciesCount": 5,
+      "genus_path": "genera/congridae/xenomystax.json"
+    }
+  ]
+}

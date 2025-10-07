@@ -1,0 +1,983 @@
+[
+  {
+    "ScientificName": "Aphyosemion abacinum",
+    "SpecCode": "9813",
+    "CommonName": "Hurmeviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion ahli",
+    "SpecCode": "9707",
+    "CommonName": "Afiosemion alya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion alpha",
+    "SpecCode": "58658",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion amoenum",
+    "SpecCode": "55986",
+    "CommonName": "Punaeväviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion aurantiacum",
+    "SpecCode": "69062",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion aureum",
+    "SpecCode": "9710",
+    "CommonName": "Aprikoosiviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion australe",
+    "SpecCode": "8770",
+    "CommonName": "Bunter Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion bamilekorum",
+    "SpecCode": "9711",
+    "CommonName": "Bamileke killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion barakoniense",
+    "SpecCode": "69060",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion batesii",
+    "SpecCode": "9712",
+    "CommonName": "Bates' killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion bitaeniatum",
+    "SpecCode": "9713",
+    "CommonName": "Cauda-de-lira-vermelha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion bitteri",
+    "SpecCode": "68544",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion bivittatum",
+    "SpecCode": "9714",
+    "CommonName": "Afiosemion dvukhpolosyi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion bualanum",
+    "SpecCode": "9716",
+    "CommonName": "Kekem-Pachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion buytaerti",
+    "SpecCode": "9717",
+    "CommonName": "Buytaerts Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion callipteron",
+    "SpecCode": "49552",
+    "CommonName": "Koruvaanija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion calliurum",
+    "SpecCode": "9718",
+    "CommonName": "Banner lyretail",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion cameronense",
+    "SpecCode": "9719",
+    "CommonName": "Cameroon killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion campomaanense",
+    "SpecCode": "64894",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion castaneum",
+    "SpecCode": "66275",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion caudofasciatum",
+    "SpecCode": "9720",
+    "CommonName": "Caudal-stripe killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion celiae",
+    "SpecCode": "9723",
+    "CommonName": "Celia's Aphysemion",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion chauchei",
+    "SpecCode": "9722",
+    "CommonName": "Chauche's Aphysemion",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion christyi",
+    "SpecCode": "9724",
+    "CommonName": "Christy's Lyretail",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion citrineipinnis",
+    "SpecCode": "9726",
+    "CommonName": "Lemon-Finned Killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion coeleste",
+    "SpecCode": "9727",
+    "CommonName": "Himmelblauer Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion cognatum",
+    "SpecCode": "9728",
+    "CommonName": "Punaviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion congicum",
+    "SpecCode": "9729",
+    "CommonName": "Congo killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion cryptum",
+    "SpecCode": "69594",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion cyanoflavum",
+    "SpecCode": "69592",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion cyanostictum",
+    "SpecCode": "9815",
+    "CommonName": "Gabon jewelfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion dargei",
+    "SpecCode": "49475",
+    "CommonName": "Mbam killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion decorsei",
+    "SpecCode": "9730",
+    "CommonName": "Punapilkkuviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion ecucuense",
+    "SpecCode": "64222",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion edeanum",
+    "SpecCode": "49478",
+    "CommonName": "Edea killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion elberti",
+    "SpecCode": "54027",
+    "CommonName": "Red barred killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion elegans",
+    "SpecCode": "9731",
+    "CommonName": "Elegant killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion erythron",
+    "SpecCode": "64224",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion escherichi",
+    "SpecCode": "9760",
+    "CommonName": "Escherich's killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion etsamense",
+    "SpecCode": "62540",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion exigoideum",
+    "SpecCode": "9733",
+    "CommonName": "False jewel killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion exiguum",
+    "SpecCode": "9734",
+    "CommonName": "Gelber Rotstreifen-Prachkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion fellmanni",
+    "SpecCode": "68941",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion ferranti",
+    "SpecCode": "9735",
+    "CommonName": "費氏旗鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion flammulatum",
+    "SpecCode": "69059",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion flavocyaneum",
+    "SpecCode": "69058",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion franzwerneri",
+    "SpecCode": "9737",
+    "CommonName": "Goby killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion fulgens",
+    "SpecCode": "9818",
+    "CommonName": "Oranssiviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion gabunense",
+    "SpecCode": "9738",
+    "CommonName": "Böhms Gabun-Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion georgiae",
+    "SpecCode": "9819",
+    "CommonName": "Georgies Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion grelli",
+    "SpecCode": "67152",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion hanneloreae",
+    "SpecCode": "49479",
+    "CommonName": "Hannelore's killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion heinemanni",
+    "SpecCode": "9744",
+    "CommonName": "Heinemann's killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion hera",
+    "SpecCode": "59248",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion herzogi",
+    "SpecCode": "9745",
+    "CommonName": "Herzog's killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion hofmanni",
+    "SpecCode": "9746",
+    "CommonName": "Hofmann's killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion jeanhuberi",
+    "SpecCode": "68432",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion joergenscheeli",
+    "SpecCode": "9748",
+    "CommonName": "Liekkiviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion kouamense",
+    "SpecCode": "58483",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion koungueense",
+    "SpecCode": "64055",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion labarrei",
+    "SpecCode": "9750",
+    "CommonName": "Neonviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion lambertorum",
+    "SpecCode": "9751",
+    "CommonName": "Kobolttiviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion lefiniense",
+    "SpecCode": "49700",
+    "CommonName": "Keltakärkiviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion lividum",
+    "SpecCode": "64575",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion loennbergii",
+    "SpecCode": "9753",
+    "CommonName": "Kupariviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion louessense",
+    "SpecCode": "9754",
+    "CommonName": "Louesse-Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion lugens",
+    "SpecCode": "49481",
+    "CommonName": "Suruviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion lujae",
+    "SpecCode": "9755",
+    "CommonName": "Kongonviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion maculatum",
+    "SpecCode": "9756",
+    "CommonName": "Gefleckter Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion malumbresi",
+    "SpecCode": "64576",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion mandoroense",
+    "SpecCode": "69593",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion melanogaster",
+    "SpecCode": "62951",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion melinoeides",
+    "SpecCode": "64057",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion mengilai",
+    "SpecCode": "67478",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion mimbon",
+    "SpecCode": "9761",
+    "CommonName": "Voiviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion musafirii",
+    "SpecCode": "66073",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion ocellatum",
+    "SpecCode": "9773",
+    "CommonName": "Luomiviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion ogoense",
+    "SpecCode": "9775",
+    "CommonName": "Gartners Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion omega",
+    "SpecCode": "64056",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion pamaense",
+    "SpecCode": "67086",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion pascheni",
+    "SpecCode": "9776",
+    "CommonName": "Grauer Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion passaroi",
+    "SpecCode": "49701",
+    "CommonName": "Tummaviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion plagitaenium",
+    "SpecCode": "65301",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion poliaki",
+    "SpecCode": "49719",
+    "CommonName": "Lyhtyviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion polli",
+    "SpecCode": "49482",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion primigenium",
+    "SpecCode": "9777",
+    "CommonName": "Punalinjaviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion pseudoelegans",
+    "SpecCode": "66733",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion punctatum",
+    "SpecCode": "9779",
+    "CommonName": "Pilkkuviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion punctulatum",
+    "SpecCode": "62950",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion pusillum",
+    "SpecCode": "69061",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion raddai",
+    "SpecCode": "9782",
+    "CommonName": "Raddas Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion rectogoense",
+    "SpecCode": "9784",
+    "CommonName": "Kardinaaliviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion riggenbachi",
+    "SpecCode": "9785",
+    "CommonName": "Hohkaviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion rubrogaster",
+    "SpecCode": "69063",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion schioetzi",
+    "SpecCode": "9790",
+    "CommonName": "Aurinkoviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion schluppi",
+    "SpecCode": "9791",
+    "CommonName": "Schlupps Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion schoutedeni",
+    "SpecCode": "66489",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion seegersi",
+    "SpecCode": "9820",
+    "CommonName": "西格双鳍鰕鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion splendopleure",
+    "SpecCode": "9793",
+    "CommonName": "Dværgfanekarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion striatum",
+    "SpecCode": "9795",
+    "CommonName": "Gestreifter Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion teugelsi",
+    "SpecCode": "65872",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion thysi",
+    "SpecCode": "9796",
+    "CommonName": "Thys Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion tirbaki",
+    "SpecCode": "60323",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion trilineatus",
+    "SpecCode": "9798",
+    "CommonName": "三線旗鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion volcanum",
+    "SpecCode": "9801",
+    "CommonName": "Nfvong",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion wachtersi",
+    "SpecCode": "9802",
+    "CommonName": "Keltaviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion wildekampi",
+    "SpecCode": "9809",
+    "CommonName": "Kirsikkaviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion wuendschi",
+    "SpecCode": "49828",
+    "CommonName": "Wuendsch's killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyosemion zygaima",
+    "SpecCode": "9812",
+    "CommonName": "Mindouli-Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

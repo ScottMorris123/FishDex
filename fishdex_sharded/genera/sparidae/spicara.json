@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Spicara altum",
+    "SpecCode": "5105",
+    "CommonName": "Bigeye picarel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicara australe",
+    "SpecCode": "26059",
+    "CommonName": "Picarel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicara axillare",
+    "SpecCode": "26061",
+    "CommonName": "Windhaan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicara flexuosum",
+    "SpecCode": "69459",
+    "CommonName": "Gerle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicara maena",
+    "SpecCode": "4887",
+    "CommonName": "Aloga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicara martinicum",
+    "SpecCode": "60567",
+    "CommonName": "馬丁棒鱸",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicara melanurus",
+    "SpecCode": "5079",
+    "CommonName": "Blackspot picarel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicara nigricauda",
+    "SpecCode": "13758",
+    "CommonName": "Blacktail picarel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicara smaris",
+    "SpecCode": "1766",
+    "CommonName": "Alcatraz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

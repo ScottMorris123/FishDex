@@ -1,0 +1,97 @@
+{
+  "Family": "Platycephalidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Flatheads",
+  "Genera": [
+    {
+      "Genus": "Ambiserrula",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platycephalidae/ambiserrula.json"
+    },
+    {
+      "Genus": "Cociella",
+      "SpeciesCount": 5,
+      "genus_path": "genera/platycephalidae/cociella.json"
+    },
+    {
+      "Genus": "Cymbacephalus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/platycephalidae/cymbacephalus.json"
+    },
+    {
+      "Genus": "Elates",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platycephalidae/elates.json"
+    },
+    {
+      "Genus": "Grammoplites",
+      "SpeciesCount": 4,
+      "genus_path": "genera/platycephalidae/grammoplites.json"
+    },
+    {
+      "Genus": "Inegocia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/platycephalidae/inegocia.json"
+    },
+    {
+      "Genus": "Kumococius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platycephalidae/kumococius.json"
+    },
+    {
+      "Genus": "Leviprora",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platycephalidae/leviprora.json"
+    },
+    {
+      "Genus": "Onigocia",
+      "SpeciesCount": 8,
+      "genus_path": "genera/platycephalidae/onigocia.json"
+    },
+    {
+      "Genus": "Papilloculiceps",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platycephalidae/papilloculiceps.json"
+    },
+    {
+      "Genus": "Platycephalus",
+      "SpeciesCount": 18,
+      "genus_path": "genera/platycephalidae/platycephalus.json"
+    },
+    {
+      "Genus": "Ratabulus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/platycephalidae/ratabulus.json"
+    },
+    {
+      "Genus": "Rogadius",
+      "SpeciesCount": 7,
+      "genus_path": "genera/platycephalidae/rogadius.json"
+    },
+    {
+      "Genus": "Solitas",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platycephalidae/solitas.json"
+    },
+    {
+      "Genus": "Sorsogona",
+      "SpeciesCount": 6,
+      "genus_path": "genera/platycephalidae/sorsogona.json"
+    },
+    {
+      "Genus": "Suggrundus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/platycephalidae/suggrundus.json"
+    },
+    {
+      "Genus": "Sunagocia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/platycephalidae/sunagocia.json"
+    },
+    {
+      "Genus": "Thysanophrys",
+      "SpeciesCount": 10,
+      "genus_path": "genera/platycephalidae/thysanophrys.json"
+    }
+  ]
+}

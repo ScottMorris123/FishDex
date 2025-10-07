@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Omegophora armilla",
+    "SpecCode": "14570",
+    "CommonName": "Ringed pufferfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Omegophora cyanopunctata",
+    "SpecCode": "55036",
+    "CommonName": "Blue-spotted puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

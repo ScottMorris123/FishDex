@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Pristiapogon abrogramma",
+    "SpecCode": "25686",
+    "CommonName": "Lateralstripe cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiapogon exostigma",
+    "SpecCode": "5756",
+    "CommonName": "Dangat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiapogon fraenatus",
+    "SpecCode": "5757",
+    "CommonName": "Apogon czarnosmugowy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiapogon kallopterus",
+    "SpecCode": "5758",
+    "CommonName": "Apogon irisé",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pristiapogon taeniopterus",
+    "SpecCode": "5755",
+    "CommonName": "Apogon à nageoires rayées",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

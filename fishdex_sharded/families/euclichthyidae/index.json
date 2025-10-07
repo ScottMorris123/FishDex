@@ -1,0 +1,12 @@
+{
+  "Family": "Euclichthyidae",
+  "Order": "Gadiformes",
+  "Common": "Eucla cods",
+  "Genera": [
+    {
+      "Genus": "Euclichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/euclichthyidae/euclichthys.json"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Family": "Serrivomeridae",
+  "Order": "Anguilliformes",
+  "Common": "Sawtooth eels",
+  "Genera": [
+    {
+      "Genus": "Serrivomer",
+      "SpeciesCount": 9,
+      "genus_path": "genera/serrivomeridae/serrivomer.json"
+    },
+    {
+      "Genus": "Stemonidium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/serrivomeridae/stemonidium.json"
+    }
+  ]
+}

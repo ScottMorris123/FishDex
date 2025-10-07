@@ -1,0 +1,68 @@
+[
+  {
+    "ScientificName": "Nandus andrewi",
+    "SpecCode": "63735",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nandus meni",
+    "SpecCode": "67045",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nandus mercatus",
+    "SpecCode": "64807",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nandus nandus",
+    "SpecCode": "10260",
+    "CommonName": "Almindelig bladfisk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nandus nebulosus",
+    "SpecCode": "12368",
+    "CommonName": "Aasianlehväkala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nandus oxyrhynchus",
+    "SpecCode": "54778",
+    "CommonName": "尖吻南鱸",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nandus prolixus",
+    "SpecCode": "62886",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

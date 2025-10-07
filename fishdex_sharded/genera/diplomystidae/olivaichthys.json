@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Olivaichthys cuyanus",
+    "SpecCode": "53773",
+    "CommonName": "bagre aterciopelado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Olivaichthys mesembrinus",
+    "SpecCode": "53774",
+    "CommonName": "南二须鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Olivaichthys viedmensis",
+    "SpecCode": "11975",
+    "CommonName": "Atún",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

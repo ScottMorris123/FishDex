@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Ratabulus diversidens",
+    "SpecCode": "11691",
+    "CommonName": "Freespine flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ratabulus fulviguttatus",
+    "SpecCode": "65881",
+    "CommonName": "Orange-freckled flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ratabulus megacephalus",
+    "SpecCode": "12997",
+    "CommonName": "Dogtoothed flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ratabulus ventralis",
+    "SpecCode": "65882",
+    "CommonName": "Longfin flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

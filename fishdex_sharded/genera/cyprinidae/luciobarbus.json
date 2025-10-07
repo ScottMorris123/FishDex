@@ -1,0 +1,356 @@
+[
+  {
+    "ScientificName": "Luciobarbus albanicus",
+    "SpecCode": "25791",
+    "CommonName": "Albansk barbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus barbulus",
+    "SpecCode": "61949",
+    "CommonName": "Abu-barattum",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus biscarensis",
+    "SpecCode": "68156",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus bocagei",
+    "SpecCode": "23592",
+    "CommonName": "Barbo común",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus brachycephalus",
+    "SpecCode": "4637",
+    "CommonName": "Araali haugparrak",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus callensis",
+    "SpecCode": "11322",
+    "CommonName": "Algerian barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus capito",
+    "SpecCode": "23005",
+    "CommonName": "Bıyıklı balık",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus caspius",
+    "SpecCode": "48365",
+    "CommonName": "Caspian barbel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus chelifensis",
+    "SpecCode": "69460",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus comizo",
+    "SpecCode": "9585",
+    "CommonName": "Barbo comiza",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus escherichii",
+    "SpecCode": "63103",
+    "CommonName": "Ankara barbell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus esocinus",
+    "SpecCode": "11957",
+    "CommonName": "Anzeh",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus graecus",
+    "SpecCode": "25850",
+    "CommonName": "Kottelati haugparrak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus graellsii",
+    "SpecCode": "46094",
+    "CommonName": "Barbo de Graells",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus guercifensis",
+    "SpecCode": "67927",
+    "CommonName": "Guercif barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus guiraonis",
+    "SpecCode": "9590",
+    "CommonName": "Barbo levante",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus kersin",
+    "SpecCode": "55341",
+    "CommonName": "Berzem",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus lanigarensis",
+    "SpecCode": "69451",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus leptopogon",
+    "SpecCode": "60391",
+    "CommonName": "Parmička severoafrická",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus longiceps",
+    "SpecCode": "26488",
+    "CommonName": "Binit arukat rosh",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus maghrebensis",
+    "SpecCode": "68125",
+    "CommonName": "Maghreb barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus magniatlantis",
+    "SpecCode": "68135",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus mascarensis",
+    "SpecCode": "69462",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus microcephalus",
+    "SpecCode": "9592",
+    "CommonName": "Barbo-de-cabeça-pequena",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus mursa",
+    "SpecCode": "48166",
+    "CommonName": "Mahi Siah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus mystaceus",
+    "SpecCode": "54810",
+    "CommonName": "Euphrates barbell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus nasus",
+    "SpecCode": "11427",
+    "CommonName": "Parmička nosatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus numidiensis",
+    "SpecCode": "69455",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus pallaryi",
+    "SpecCode": "68139",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus pectoralis",
+    "SpecCode": "54714",
+    "CommonName": "Bassan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus rabatensis",
+    "SpecCode": "68131",
+    "CommonName": "Rabat barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus rifensis",
+    "SpecCode": "68128",
+    "CommonName": "Rifian barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus sclateri",
+    "SpecCode": "23605",
+    "CommonName": "Andalusian barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus setivimensis",
+    "SpecCode": "68140",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus steindachneri",
+    "SpecCode": "23606",
+    "CommonName": "Barbo-de-Steindachner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus subquincunciatus",
+    "SpecCode": "54812",
+    "CommonName": "Abou khazzama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus xanthopterus",
+    "SpecCode": "54813",
+    "CommonName": "Gatan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus yahyaouii",
+    "SpecCode": "68137",
+    "CommonName": "Yahyaoui barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luciobarbus zayanensis",
+    "SpecCode": "67928",
+    "CommonName": "Zayan barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

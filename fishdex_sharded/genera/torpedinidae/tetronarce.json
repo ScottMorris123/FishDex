@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Tetronarce californica",
+    "SpecCode": "2552",
+    "CommonName": "Californisk darrocka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce cowleyi",
+    "SpecCode": "68041",
+    "CommonName": "Cowley's torpedo ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce fairchildi",
+    "SpecCode": "48865",
+    "CommonName": "Electric ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce formosa",
+    "SpecCode": "63779",
+    "CommonName": "Taiwan torpedo ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce macneilli",
+    "SpecCode": "24104",
+    "CommonName": "Australian torpedo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce microdiscus",
+    "SpecCode": "54843",
+    "CommonName": "Kleinschijfsidderrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce nobiliana",
+    "SpecCode": "2553",
+    "CommonName": "Anko-shibire-ei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce occidentalis",
+    "SpecCode": "68786",
+    "CommonName": "Western atlantic torpedo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce peruana",
+    "SpecCode": "27061",
+    "CommonName": "Electric ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce puelcha",
+    "SpecCode": "57376",
+    "CommonName": "Argentiina elektrirai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce semipelagica",
+    "SpecCode": "54844",
+    "CommonName": "Avavee elektrirai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce tokionis",
+    "SpecCode": "22539",
+    "CommonName": "Trapets-elektrirai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetronarce tremens",
+    "SpecCode": "13273",
+    "CommonName": "Chilean torpedo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

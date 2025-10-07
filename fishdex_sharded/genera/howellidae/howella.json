@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Howella atlantica",
+    "SpecCode": "67032",
+    "CommonName": "Atlantic pelagic basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Howella brodiei",
+    "SpecCode": "11780",
+    "CommonName": "Naga-kushisumikuiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Howella pammelas",
+    "SpecCode": "63439",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Howella parini",
+    "SpecCode": "23395",
+    "CommonName": "Kushi-sumikui-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Howella sherborni",
+    "SpecCode": "5054",
+    "CommonName": "Glyrna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Howella zina",
+    "SpecCode": "23396",
+    "CommonName": "Togekushi-sumikui-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Taeniopsetta ocellata",
+    "SpecCode": "24219",
+    "CommonName": "Dapang bilog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniopsetta radula",
+    "SpecCode": "57087",
+    "CommonName": "刮線鰭鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

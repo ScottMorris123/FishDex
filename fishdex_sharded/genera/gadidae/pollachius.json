@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pollachius pollachius",
+    "SpecCode": "34",
+    "CommonName": "Abadejo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pollachius virens",
+    "SpecCode": "1343",
+    "CommonName": "American pollack",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Cruriraja andamanica",
+    "SpecCode": "54025",
+    "CommonName": "Andaman leg skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cruriraja atlantis",
+    "SpecCode": "47679",
+    "CommonName": "Atlantic leg skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cruriraja cadenati",
+    "SpecCode": "54099",
+    "CommonName": "Breedvoetpootrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cruriraja durbanensis",
+    "SpecCode": "25554",
+    "CommonName": "Glatsnudet lemmerokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cruriraja hulleyi",
+    "SpecCode": "65819",
+    "CommonName": "Aafrika jäserai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cruriraja parcomaculata",
+    "SpecCode": "10122",
+    "CommonName": "Driehoekige pootrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cruriraja poeyi",
+    "SpecCode": "47558",
+    "CommonName": "Cubaanse pootrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cruriraja rugosa",
+    "SpecCode": "51854",
+    "CommonName": "Karesaba-jäserai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

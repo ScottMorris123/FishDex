@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Brachionichthys australis",
+    "SpecCode": "63608",
+    "CommonName": "Australian spotted handfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachionichthys hirsutus",
+    "SpecCode": "24716",
+    "CommonName": "Plettet håndfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

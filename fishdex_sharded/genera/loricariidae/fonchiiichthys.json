@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Fonchiiichthys rupestris",
+    "SpecCode": "49347",
+    "CommonName": "Paleta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fonchiiichthys uracanthus",
+    "SpecCode": "50605",
+    "CommonName": "Alcalde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

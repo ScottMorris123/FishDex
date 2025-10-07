@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Pegusa cadenati",
+    "SpecCode": "8850",
+    "CommonName": "Cadenat's sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pegusa impar",
+    "SpecCode": "1762",
+    "CommonName": "Aadria merikeel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pegusa lascaris",
+    "SpecCode": "1336",
+    "CommonName": "Acedía de arena",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pegusa nasuta",
+    "SpecCode": "7928",
+    "CommonName": "Blackhand sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pegusa triophthalma",
+    "SpecCode": "8851",
+    "CommonName": "Cyclope sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

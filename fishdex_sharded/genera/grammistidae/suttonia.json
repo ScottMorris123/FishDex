@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Suttonia lineata",
+    "SpecCode": "49436",
+    "CommonName": "Freckleface podge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suttonia suttoni",
+    "SpecCode": "49437",
+    "CommonName": "苏通鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Stlengis distoechus",
+    "SpecCode": "23924",
+    "CommonName": "Kushikajika-modoki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stlengis misakia",
+    "SpecCode": "23925",
+    "CommonName": "Urokokajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stlengis osensis",
+    "SpecCode": "23923",
+    "CommonName": "Kushikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

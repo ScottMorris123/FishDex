@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Auchenipterus ambyiacus",
+    "SpecCode": "57149",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus brachyurus",
+    "SpecCode": "52132",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus brevior",
+    "SpecCode": "57148",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus britskii",
+    "SpecCode": "57151",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus demerarae",
+    "SpecCode": "57147",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus dentatus",
+    "SpecCode": "57146",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus fordicei",
+    "SpecCode": "53668",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus menezesi",
+    "SpecCode": "57152",
+    "CommonName": "Peixe-gato",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus nigripinnis",
+    "SpecCode": "47653",
+    "CommonName": "bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus nuchalis",
+    "SpecCode": "52120",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterus osteomystax",
+    "SpecCode": "57150",
+    "CommonName": "Buzo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

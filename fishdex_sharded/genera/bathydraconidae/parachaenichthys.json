@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parachaenichthys charcoti",
+    "SpecCode": "7102",
+    "CommonName": "扁嘴副带腭鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachaenichthys georgianus",
+    "SpecCode": "7103",
+    "CommonName": "副带腭鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pogonoperca ocellata",
+    "SpecCode": "53220",
+    "CommonName": "India kombitsahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pogonoperca punctata",
+    "SpecCode": "12727",
+    "CommonName": "Agohata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

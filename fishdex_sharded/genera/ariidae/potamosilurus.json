@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Potamosilurus coatesi",
+    "SpecCode": "13121",
+    "CommonName": "Coates' catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamosilurus macrorhynchus",
+    "SpecCode": "25500",
+    "CommonName": "Hohdemerimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamosilurus taylori",
+    "SpecCode": "10400",
+    "CommonName": "Taylor's catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamosilurus velutinus",
+    "SpecCode": "13118",
+    "CommonName": "Hurmemerimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

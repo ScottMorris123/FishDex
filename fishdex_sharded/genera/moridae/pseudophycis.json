@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Pseudophycis bachus",
+    "SpecCode": "2020",
+    "CommonName": "Abrótea-da-novazelândia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudophycis barbata",
+    "SpecCode": "2021",
+    "CommonName": "Bastard cod",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudophycis breviuscula",
+    "SpecCode": "2022",
+    "CommonName": "Bastard red cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Altrichthys alelia",
+    "SpecCode": "69634",
+    "CommonName": "Alelia's damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altrichthys azurelineatus",
+    "SpecCode": "11832",
+    "CommonName": "Azure damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Altrichthys curatus",
+    "SpecCode": "59851",
+    "CommonName": "Guardian damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

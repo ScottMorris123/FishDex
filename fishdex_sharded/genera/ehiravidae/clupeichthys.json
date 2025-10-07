@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Clupeichthys aesarnensis",
+    "SpecCode": "1567",
+    "CommonName": "Bondol ampov",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeichthys bleekeri",
+    "SpecCode": "1568",
+    "CommonName": "Bilis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeichthys goniognathus",
+    "SpecCode": "1569",
+    "CommonName": "Bilis tamban",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeichthys perakensis",
+    "SpecCode": "1570",
+    "CommonName": "Malai jõekilu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

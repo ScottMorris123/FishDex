@@ -1,0 +1,12 @@
+{
+  "Family": "Himantolophidae",
+  "Order": "Lophiiformes",
+  "Common": "Footballfishes",
+  "Genera": [
+    {
+      "Genus": "Himantolophus",
+      "SpeciesCount": 22,
+      "genus_path": "genera/himantolophidae/himantolophus.json"
+    }
+  ]
+}

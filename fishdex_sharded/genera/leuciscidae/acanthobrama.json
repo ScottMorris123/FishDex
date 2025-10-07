@@ -1,0 +1,103 @@
+[
+  {
+    "ScientificName": "Acanthobrama centisquama",
+    "SpecCode": "52601",
+    "CommonName": "Cejnovec syrský",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama hadiyahensis",
+    "SpecCode": "61854",
+    "CommonName": "Arabian Bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama lissneri",
+    "SpecCode": "4515",
+    "CommonName": "Cejn Lissnerův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama marmid",
+    "SpecCode": "52603",
+    "CommonName": "Akçapak balığı",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama microlepis",
+    "SpecCode": "48174",
+    "CommonName": "Blackbrow bleak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama orontis",
+    "SpecCode": "67574",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama persidis",
+    "SpecCode": "55292",
+    "CommonName": "Aroos mahi persis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama telavivensis",
+    "SpecCode": "26480",
+    "CommonName": "Cejn telavivský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama thisbeae",
+    "SpecCode": "67573",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama tricolor",
+    "SpecCode": "55147",
+    "CommonName": "Cejn tříbarvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthobrama urmianus",
+    "SpecCode": "55146",
+    "CommonName": "Aros mahi Oromiye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

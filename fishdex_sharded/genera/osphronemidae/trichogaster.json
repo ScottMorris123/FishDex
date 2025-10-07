@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Trichogaster chuna",
+    "SpecCode": "11201",
+    "CommonName": "Boicha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichogaster fasciata",
+    "SpecCode": "4770",
+    "CommonName": "Banded gourami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichogaster labiosa",
+    "SpecCode": "4772",
+    "CommonName": "Dicklippiger Fadenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichogaster lalius",
+    "SpecCode": "4774",
+    "CommonName": "Almindelig dværggurami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

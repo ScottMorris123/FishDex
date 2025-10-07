@@ -1,0 +1,183 @@
+[
+  {
+    "ScientificName": "Dactyloscopus amnis",
+    "SpecCode": "60681",
+    "CommonName": "Miraestrellas ribereña",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus boehlkei",
+    "SpecCode": "50438",
+    "CommonName": "Shortchin stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus byersorum",
+    "SpecCode": "58232",
+    "CommonName": "Miraestrellas coliranurada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus comptus",
+    "SpecCode": "50471",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus crossotus",
+    "SpecCode": "3698",
+    "CommonName": "Bigeye stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus elongatus",
+    "SpecCode": "66062",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus fallax",
+    "SpecCode": "66063",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus fimbriatus",
+    "SpecCode": "60685",
+    "CommonName": "Fringed stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus foraminosus",
+    "SpecCode": "50467",
+    "CommonName": "Reticulate stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus heraldi",
+    "SpecCode": "66061",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus insulatus",
+    "SpecCode": "66065",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus lacteus",
+    "SpecCode": "56670",
+    "CommonName": "Milky sand stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus lunaticus",
+    "SpecCode": "58233",
+    "CommonName": "Miraestrellas lunática",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus metoecus",
+    "SpecCode": "60683",
+    "CommonName": "Mexican stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus minutus",
+    "SpecCode": "60677",
+    "CommonName": "Miraestrellas chiquita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus moorei",
+    "SpecCode": "12440",
+    "CommonName": "Spættet stjernekiggerslimfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus pectoralis",
+    "SpecCode": "46622",
+    "CommonName": "Hvidsadlet stjernekiggerslimfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus poeyi",
+    "SpecCode": "16448",
+    "CommonName": "Mirón ojicorto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus tridigitatus",
+    "SpecCode": "3699",
+    "CommonName": "Mira-céu-da-areia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactyloscopus zelotes",
+    "SpecCode": "60684",
+    "CommonName": "嫉指鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

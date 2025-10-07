@@ -1,0 +1,454 @@
+[
+  {
+    "ScientificName": "Mystus abbreviatus",
+    "SpecCode": "60722",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus alasensis",
+    "SpecCode": "62249",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus albolineatus",
+    "SpecCode": "16144",
+    "CommonName": "Kayeng",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus ankutta",
+    "SpecCode": "64794",
+    "CommonName": "Sri Lanka dwarf catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus armatus",
+    "SpecCode": "5148",
+    "CommonName": "Antennen-Stachelwels",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus armiger",
+    "SpecCode": "62077",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus atrifasciatus",
+    "SpecCode": "26700",
+    "CommonName": "Pba kahnyeng kang lai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus bimaculatus",
+    "SpecCode": "60071",
+    "CommonName": "Schulterfleck-Stachelwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus bleekeri",
+    "SpecCode": "5495",
+    "CommonName": "Bleeker's Stachelwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus bocourti",
+    "SpecCode": "16151",
+    "CommonName": "Cá chot co",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus canarensis",
+    "SpecCode": "60730",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus carcio",
+    "SpecCode": "66070",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus castaneus",
+    "SpecCode": "60731",
+    "CommonName": "Rik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus catapogon",
+    "SpecCode": "67941",
+    "CommonName": "Mavelikkara Mystus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus cavasius",
+    "SpecCode": "5140",
+    "CommonName": "Barsingarah",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus chinensis",
+    "SpecCode": "50966",
+    "CommonName": "中国鳠",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus cineraceus",
+    "SpecCode": "64992",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus dibrugarensis",
+    "SpecCode": "66481",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus falcarius",
+    "SpecCode": "62625",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus gulio",
+    "SpecCode": "5139",
+    "CommonName": "Anguluwa",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus heoki",
+    "SpecCode": "67567",
+    "CommonName": "Elongated Kerala Mystus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus horai",
+    "SpecCode": "24723",
+    "CommonName": "Indus catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus impluviatus",
+    "SpecCode": "61642",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus indicus",
+    "SpecCode": "67566",
+    "CommonName": "Central Travancore catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus keletius",
+    "SpecCode": "13298",
+    "CommonName": "Kallan koorie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus keralai",
+    "SpecCode": "67565",
+    "CommonName": "Long whiskered Kerala catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus leucophasis",
+    "SpecCode": "13303",
+    "CommonName": "Nokijuovamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus malabaricus",
+    "SpecCode": "13306",
+    "CommonName": "Girlu",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus menoni",
+    "SpecCode": "67211",
+    "CommonName": "Idukki Mystus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus misrai",
+    "SpecCode": "70293",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus montanus",
+    "SpecCode": "13309",
+    "CommonName": "Gagol",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus multiradiatus",
+    "SpecCode": "26711",
+    "CommonName": "Monijuovamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus mysticetus",
+    "SpecCode": "26715",
+    "CommonName": "Kiilajuovamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus nanus",
+    "SpecCode": "68393",
+    "CommonName": "Striped dwarf catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus ngasep",
+    "SpecCode": "66339",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus nigriceps",
+    "SpecCode": "11990",
+    "CommonName": "Jaavanjuovamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus oculatus",
+    "SpecCode": "13310",
+    "CommonName": "Koorie",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus pelusius",
+    "SpecCode": "50971",
+    "CommonName": "Abu-zummair",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus pulcher",
+    "SpecCode": "24727",
+    "CommonName": "Pulcher mystus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus punctifer",
+    "SpecCode": "60732",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus rhegma",
+    "SpecCode": "16165",
+    "CommonName": "Cá chot soc",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus rufescens",
+    "SpecCode": "24730",
+    "CommonName": "Meetan mystus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus seengtee",
+    "SpecCode": "63633",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus singaringan",
+    "SpecCode": "16172",
+    "CommonName": "Landin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus tengara",
+    "SpecCode": "24731",
+    "CommonName": "Bajari-tengra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus velifer",
+    "SpecCode": "66942",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus vittatus",
+    "SpecCode": "5137",
+    "CommonName": "Aupan-keluthi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus wolffii",
+    "SpecCode": "23081",
+    "CommonName": "Cá chot tráng",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystus zeylanicus",
+    "SpecCode": "68395",
+    "CommonName": "Sri Lanka bagrid catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "ScientificName": "Monodactylus argenteus",
+    "SpecCode": "5807",
+    "CommonName": "Akoli",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monodactylus falciformis",
+    "SpecCode": "7858",
+    "CommonName": "Bat hu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monodactylus kottelati",
+    "SpecCode": "59430",
+    "CommonName": "科氏大眼鯧",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monodactylus sebae",
+    "SpecCode": "9915",
+    "CommonName": "African mono",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

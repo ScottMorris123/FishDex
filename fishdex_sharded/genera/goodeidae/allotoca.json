@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Allotoca catarinae",
+    "SpecCode": "46439",
+    "CommonName": "Catarina allotoca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allotoca diazi",
+    "SpecCode": "46442",
+    "CommonName": "Chorumo",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allotoca dugesii",
+    "SpecCode": "11934",
+    "CommonName": "Blå allotoca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allotoca goslinei",
+    "SpecCode": "11935",
+    "CommonName": "Banded allotoca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allotoca maculata",
+    "SpecCode": "6227",
+    "CommonName": "Blackspot allotoca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allotoca meeki",
+    "SpecCode": "46443",
+    "CommonName": "Tiro de Zirahuén",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allotoca regalis",
+    "SpecCode": "46427",
+    "CommonName": "Chorumo del Balsas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allotoca zacapuensis",
+    "SpecCode": "59987",
+    "CommonName": "Korthalet splitfinne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ptychidio jordani",
+    "SpecCode": "14451",
+    "CommonName": "Jordani kurdhuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychidio longibarbus",
+    "SpecCode": "60451",
+    "CommonName": "Labeo dlouhovousé",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychidio macrops",
+    "SpecCode": "60476",
+    "CommonName": "Labeo velkooké",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

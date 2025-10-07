@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lepidorhombus boscii",
+    "SpecCode": "27",
+    "CommonName": "Areeiro-de-quatro-manchas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidorhombus whiffiagonis",
+    "SpecCode": "28",
+    "CommonName": "Aeeiro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

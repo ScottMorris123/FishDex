@@ -1,0 +1,92 @@
+{
+  "Family": "Lutjanidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Snappers",
+  "Genera": [
+    {
+      "Genus": "Aphareus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lutjanidae/aphareus.json"
+    },
+    {
+      "Genus": "Aprion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lutjanidae/aprion.json"
+    },
+    {
+      "Genus": "Apsilus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lutjanidae/apsilus.json"
+    },
+    {
+      "Genus": "Etelis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/lutjanidae/etelis.json"
+    },
+    {
+      "Genus": "Hoplopagrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lutjanidae/hoplopagrus.json"
+    },
+    {
+      "Genus": "Lipocheilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lutjanidae/lipocheilus.json"
+    },
+    {
+      "Genus": "Lutjanus",
+      "SpeciesCount": 73,
+      "genus_path": "genera/lutjanidae/lutjanus.json"
+    },
+    {
+      "Genus": "Macolor",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lutjanidae/macolor.json"
+    },
+    {
+      "Genus": "Ocyurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lutjanidae/ocyurus.json"
+    },
+    {
+      "Genus": "Paracaesio",
+      "SpeciesCount": 8,
+      "genus_path": "genera/lutjanidae/paracaesio.json"
+    },
+    {
+      "Genus": "Parapristipomoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lutjanidae/parapristipomoides.json"
+    },
+    {
+      "Genus": "Pinjalo",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lutjanidae/pinjalo.json"
+    },
+    {
+      "Genus": "Pristipomoides",
+      "SpeciesCount": 11,
+      "genus_path": "genera/lutjanidae/pristipomoides.json"
+    },
+    {
+      "Genus": "Randallichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lutjanidae/randallichthys.json"
+    },
+    {
+      "Genus": "Rhomboplites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lutjanidae/rhomboplites.json"
+    },
+    {
+      "Genus": "Symphorichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lutjanidae/symphorichthys.json"
+    },
+    {
+      "Genus": "Symphorus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lutjanidae/symphorus.json"
+    }
+  ]
+}

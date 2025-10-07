@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Dichistius capensis",
+    "SpecCode": "5997",
+    "CommonName": "Damba",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dichistius multifasciatus",
+    "SpecCode": "5511",
+    "CommonName": "Banded galjoen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

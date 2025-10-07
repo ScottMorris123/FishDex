@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lophodolos acanthognathus",
+    "SpecCode": "16302",
+    "CommonName": "Højpandet mareangler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophodolos indicus",
+    "SpecCode": "16923",
+    "CommonName": "印度冠鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

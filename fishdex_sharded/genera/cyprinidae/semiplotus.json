@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Semiplotus cirrhosus",
+    "SpecCode": "59983",
+    "CommonName": "Poisur-mägikarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semiplotus manipurensis",
+    "SpecCode": "59984",
+    "CommonName": "Manipuri mägikarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semiplotus modestus",
+    "SpecCode": "23212",
+    "CommonName": "Birma mägikarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "ScientificName": "Gobiomorus dormitor",
+    "SpecCode": "3831",
+    "CommonName": "Bigmouth sleeper",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorus maculatus",
+    "SpecCode": "59786",
+    "CommonName": "Cawa",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorus polylepis",
+    "SpecCode": "54423",
+    "CommonName": "Finescale sleeper",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

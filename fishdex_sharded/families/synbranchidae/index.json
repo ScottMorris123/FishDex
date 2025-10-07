@@ -1,0 +1,27 @@
+{
+  "Family": "Synbranchidae",
+  "Order": "Synbranchiformes",
+  "Common": "Swamp-eels",
+  "Genera": [
+    {
+      "Genus": "Macrotrema",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synbranchidae/macrotrema.json"
+    },
+    {
+      "Genus": "Monopterus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/synbranchidae/monopterus.json"
+    },
+    {
+      "Genus": "Ophisternon",
+      "SpeciesCount": 6,
+      "genus_path": "genera/synbranchidae/ophisternon.json"
+    },
+    {
+      "Genus": "Synbranchus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/synbranchidae/synbranchus.json"
+    }
+  ]
+}

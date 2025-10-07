@@ -1,0 +1,107 @@
+{
+  "Family": "Alestidae",
+  "Order": "Characiformes",
+  "Common": "African tetras",
+  "Genera": [
+    {
+      "Genus": "Alestes",
+      "SpeciesCount": 7,
+      "genus_path": "genera/alestidae/alestes.json"
+    },
+    {
+      "Genus": "Alestion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alestidae/alestion.json"
+    },
+    {
+      "Genus": "Alestopetersius",
+      "SpeciesCount": 10,
+      "genus_path": "genera/alestidae/alestopetersius.json"
+    },
+    {
+      "Genus": "Arnoldichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alestidae/arnoldichthys.json"
+    },
+    {
+      "Genus": "Bathyaethiops",
+      "SpeciesCount": 6,
+      "genus_path": "genera/alestidae/bathyaethiops.json"
+    },
+    {
+      "Genus": "Brachypetersius",
+      "SpeciesCount": 6,
+      "genus_path": "genera/alestidae/brachypetersius.json"
+    },
+    {
+      "Genus": "Brycinus",
+      "SpeciesCount": 35,
+      "genus_path": "genera/alestidae/brycinus.json"
+    },
+    {
+      "Genus": "Bryconaethiops",
+      "SpeciesCount": 5,
+      "genus_path": "genera/alestidae/bryconaethiops.json"
+    },
+    {
+      "Genus": "Bryconalestes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alestidae/bryconalestes.json"
+    },
+    {
+      "Genus": "Clupeocharax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alestidae/clupeocharax.json"
+    },
+    {
+      "Genus": "Hemigrammopetersius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/alestidae/hemigrammopetersius.json"
+    },
+    {
+      "Genus": "Hydrocynus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/alestidae/hydrocynus.json"
+    },
+    {
+      "Genus": "Ladigesia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alestidae/ladigesia.json"
+    },
+    {
+      "Genus": "Lepidarchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alestidae/lepidarchus.json"
+    },
+    {
+      "Genus": "Micralestes",
+      "SpeciesCount": 17,
+      "genus_path": "genera/alestidae/micralestes.json"
+    },
+    {
+      "Genus": "Nannopetersius",
+      "SpeciesCount": 3,
+      "genus_path": "genera/alestidae/nannopetersius.json"
+    },
+    {
+      "Genus": "Petersius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alestidae/petersius.json"
+    },
+    {
+      "Genus": "Phenacogrammus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/alestidae/phenacogrammus.json"
+    },
+    {
+      "Genus": "Rhabdalestes",
+      "SpeciesCount": 7,
+      "genus_path": "genera/alestidae/rhabdalestes.json"
+    },
+    {
+      "Genus": "Tricuspidalestes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alestidae/tricuspidalestes.json"
+    }
+  ]
+}

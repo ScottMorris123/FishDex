@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gasteropelecus levis",
+    "SpecCode": "10730",
+    "CommonName": "Borboleta branca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gasteropelecus maculatus",
+    "SpecCode": "11903",
+    "CommonName": "Gefleckter Beilbauchfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gasteropelecus sternicla",
+    "SpecCode": "10725",
+    "CommonName": "Agochibi chiba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

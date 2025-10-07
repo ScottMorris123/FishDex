@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Ichthyomyzon bdellium",
+    "SpecCode": "2514",
+    "CommonName": "Lamproie de l'Ohio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyomyzon castaneus",
+    "SpecCode": "2515",
+    "CommonName": "Chestnut lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyomyzon fossor",
+    "SpecCode": "2516",
+    "CommonName": "Lamproie de ruisseau septentrionale",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyomyzon gagei",
+    "SpecCode": "2517",
+    "CommonName": "Lamproie de ruisseau méridionale",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyomyzon greeleyi",
+    "SpecCode": "2518",
+    "CommonName": "Allegheny brook lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyomyzon unicuspis",
+    "SpecCode": "2519",
+    "CommonName": "Hõbejas ameerikasilm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

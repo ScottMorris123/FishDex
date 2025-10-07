@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Paratrachichthys fernandezianus",
+    "SpecCode": "54107",
+    "CommonName": "Chilean sandpaperfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paratrachichthys macleayi",
+    "SpecCode": "65074",
+    "CommonName": "Australian sandpaperfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paratrachichthys trailli",
+    "SpecCode": "12005",
+    "CommonName": "Common roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

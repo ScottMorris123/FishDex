@@ -1,0 +1,77 @@
+[
+  {
+    "ScientificName": "Thrissina baelama",
+    "SpecCode": "582",
+    "CommonName": "Aida",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thrissina belvedere",
+    "SpecCode": "70012",
+    "CommonName": "Ha Long Thryssa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thrissina chefuensis",
+    "SpecCode": "584",
+    "CommonName": "Cá Lẹp",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thrissina cultella",
+    "SpecCode": "70013",
+    "CommonName": "Cutlass Thryssa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thrissina serena",
+    "SpecCode": "70014",
+    "CommonName": "Arabian Thryssa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thrissina supra",
+    "SpecCode": "70015",
+    "CommonName": "Pakistan Thryssa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thrissina vitrirostris",
+    "SpecCode": "602",
+    "CommonName": "Anchois-moustache cristal",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thrissina whiteheadi",
+    "SpecCode": "603",
+    "CommonName": "Boefchah",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

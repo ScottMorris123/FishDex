@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Etroplus canarensis",
+    "SpecCode": "25222",
+    "CommonName": "Canara pearlspot",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etroplus suratensis",
+    "SpecCode": "4681",
+    "CommonName": "Banded etroplus",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

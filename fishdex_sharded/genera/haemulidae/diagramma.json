@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Diagramma labiosum",
+    "SpecCode": "56923",
+    "CommonName": "Painted sweetlip",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diagramma melanacrum",
+    "SpecCode": "60078",
+    "CommonName": "Blackfin slatey",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diagramma pictum",
+    "SpecCode": "4465",
+    "CommonName": "Alatan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diagramma punctatum",
+    "SpecCode": "10346",
+    "CommonName": "Kaci",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

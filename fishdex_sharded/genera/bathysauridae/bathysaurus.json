@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bathysaurus ferox",
+    "SpecCode": "11841",
+    "CommonName": "Deepsea lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathysaurus mollis",
+    "SpecCode": "11843",
+    "CommonName": "Highfin lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

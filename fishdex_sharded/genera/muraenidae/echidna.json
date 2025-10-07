@@ -1,0 +1,105 @@
+[
+  {
+    "ScientificName": "Echidna amblyodon",
+    "SpecCode": "58577",
+    "CommonName": "Muréna celebeská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna catenata",
+    "SpecCode": "2609",
+    "CommonName": "Ahel-nürisuumureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna delicatula",
+    "SpecCode": "23273",
+    "CommonName": "Arashi-utsubo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna leucotaenia",
+    "SpecCode": "6486",
+    "CommonName": "Huduveng",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna nebulosa",
+    "SpecCode": "5388",
+    "CommonName": "Abu Jineh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna nocturna",
+    "SpecCode": "8287",
+    "CommonName": "Freckled moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna peli",
+    "SpecCode": "9031",
+    "CommonName": "Moreia-salpicada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna polyzona",
+    "SpecCode": "5389",
+    "CommonName": "Anguille raide raide",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna rhodochilus",
+    "SpecCode": "11709",
+    "CommonName": "Muréna růžovopyská",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna unicolor",
+    "SpecCode": "6487",
+    "CommonName": "Kahvatu nürisuumureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echidna xanthospilos",
+    "SpecCode": "27394",
+    "CommonName": "Kollasetäpiline nürisuumureen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Fowleria amblyuroptera",
+    "SpecCode": "70431",
+    "CommonName": "Flame cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowleria aurita",
+    "SpecCode": "8010",
+    "CommonName": "Aurita cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowleria flammea",
+    "SpecCode": "25073",
+    "CommonName": "Flame cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowleria isostigma",
+    "SpecCode": "59779",
+    "CommonName": "Dotted cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowleria marmorata",
+    "SpecCode": "5744",
+    "CommonName": "Bagsang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowleria punctulata",
+    "SpecCode": "5743",
+    "CommonName": "Nahamato-ishimochi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowleria vaiulae",
+    "SpecCode": "8592",
+    "CommonName": "Dangat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowleria variegata",
+    "SpecCode": "5745",
+    "CommonName": "Bagsang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

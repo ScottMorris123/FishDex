@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Rhabdoblennius nigropunctatus",
+    "SpecCode": "64826",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdoblennius nitidus",
+    "SpecCode": "13762",
+    "CommonName": "Barred-chin blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdoblennius papuensis",
+    "SpecCode": "64827",
+    "CommonName": "Papuan blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdoblennius rhabdotrachelus",
+    "SpecCode": "6056",
+    "CommonName": "Barchin blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdoblennius snowi",
+    "SpecCode": "6057",
+    "CommonName": "Jibalan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

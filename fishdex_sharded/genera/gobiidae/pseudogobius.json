@@ -1,0 +1,151 @@
+[
+  {
+    "ScientificName": "Pseudogobius aquilonius",
+    "SpecCode": "69765",
+    "CommonName": "Northern snubnose goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius avicennia",
+    "SpecCode": "27420",
+    "CommonName": "Avicennia snubnose goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius cinctus",
+    "SpecCode": "69766",
+    "CommonName": "Banded snubnose goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius eos",
+    "SpecCode": "69767",
+    "CommonName": "Eastern bluespot goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius fulvicaudus",
+    "SpecCode": "67521",
+    "CommonName": "Yellowfin snubnose goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius hoesei",
+    "SpecCode": "69768",
+    "CommonName": "Bandtail snubnose goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius jeffi",
+    "SpecCode": "69769",
+    "CommonName": "Jeff's snubnose goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius masago",
+    "SpecCode": "23673",
+    "CommonName": "Masago snubnose goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius melanosticta",
+    "SpecCode": "59873",
+    "CommonName": "Black-spotted snubnose goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius minimus",
+    "SpecCode": "25249",
+    "CommonName": "Miniature snubnose goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius olorum",
+    "SpecCode": "22786",
+    "CommonName": "Bluespot goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius poicilosoma",
+    "SpecCode": "25093",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius rhizophora",
+    "SpecCode": "69770",
+    "CommonName": "Racing-stripe snubnose goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius taijiangensis",
+    "SpecCode": "67522",
+    "CommonName": "Taijiang snubnose goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobius verticalis",
+    "SpecCode": "69771",
+    "CommonName": "Blackline snubnose goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

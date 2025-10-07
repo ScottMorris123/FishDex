@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ethadophis akkistikos",
+    "SpecCode": "53828",
+    "CommonName": "Ameerika reduangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ethadophis byrnei",
+    "SpecCode": "13906",
+    "CommonName": "Hadař byrneův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ethadophis merenda",
+    "SpecCode": "13907",
+    "CommonName": "Hadař merenda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

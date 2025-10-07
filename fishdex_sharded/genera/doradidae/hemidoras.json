@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Hemidoras boulengeri",
+    "SpecCode": "47464",
+    "CommonName": "布氏仿陶乐鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemidoras morei",
+    "SpecCode": "47468",
+    "CommonName": "Cuyu cuyu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemidoras morrisi",
+    "SpecCode": "47454",
+    "CommonName": "Bagre hueso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemidoras stenopeltis",
+    "SpecCode": "47455",
+    "CommonName": "Rego rego",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemidoras stuebelii",
+    "SpecCode": "47472",
+    "CommonName": "Bagre hueso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

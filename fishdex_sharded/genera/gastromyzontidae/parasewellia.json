@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Parasewellia monolobata",
+    "SpecCode": "65702",
+    "CommonName": "Tervikmokk-liipuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasewellia polylobata",
+    "SpecCode": "65719",
+    "CommonName": "Sagarmokk-liipuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasewellia tetralobata",
+    "SpecCode": "65730",
+    "CommonName": "Nelimokk-liipuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

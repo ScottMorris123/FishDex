@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Bathylaco macrophthalmus",
+    "SpecCode": "58909",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylaco nielseni",
+    "SpecCode": "16455",
+    "CommonName": "尼氏深鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylaco nigricans",
+    "SpecCode": "10564",
+    "CommonName": "Black warrior",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

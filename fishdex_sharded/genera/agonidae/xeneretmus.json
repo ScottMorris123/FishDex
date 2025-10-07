@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Xeneretmus latifrons",
+    "SpecCode": "4173",
+    "CommonName": "Bandido penacho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xeneretmus leiops",
+    "SpecCode": "4174",
+    "CommonName": "Glatøjet panserulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xeneretmus ritteri",
+    "SpecCode": "4175",
+    "CommonName": "Bandido bandera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xeneretmus triacanthus",
+    "SpecCode": "4176",
+    "CommonName": "Bandido manchas azules",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

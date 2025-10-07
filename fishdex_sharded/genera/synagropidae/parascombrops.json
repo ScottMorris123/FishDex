@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Parascombrops analis",
+    "SpecCode": "23389",
+    "CommonName": "Bake-sumikui-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops argyreus",
+    "SpecCode": "53971",
+    "CommonName": "銀光尖牙鱸",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops glossodon",
+    "SpecCode": "68594",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops madagascariensis",
+    "SpecCode": "68596",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops mochizukii",
+    "SpecCode": "68597",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops nakayamai",
+    "SpecCode": "68598",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops ohei",
+    "SpecCode": "68600",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops parvidens",
+    "SpecCode": "68601",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops pellucidus",
+    "SpecCode": "67930",
+    "CommonName": "Aden splitfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops philippinensis",
+    "SpecCode": "10338",
+    "CommonName": "Fù jí jiān yá lú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops serratospinosus",
+    "SpecCode": "23386",
+    "CommonName": "Roughspine seabass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops spinosus",
+    "SpecCode": "14336",
+    "CommonName": "Farolito cachetiquillada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascombrops yamanouei",
+    "SpecCode": "68604",
+    "CommonName": "Sedaka-himesumikuiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Caracanthus maculatus",
+    "SpecCode": "7873",
+    "CommonName": "Dango-okoze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caracanthus madagascariensis",
+    "SpecCode": "16871",
+    "CommonName": "Gespikkelde koraalskuiler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caracanthus typicus",
+    "SpecCode": "52705",
+    "CommonName": "Hawaiian orbicular velvetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caracanthus unipinna",
+    "SpecCode": "12899",
+    "CommonName": "Coral croucher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

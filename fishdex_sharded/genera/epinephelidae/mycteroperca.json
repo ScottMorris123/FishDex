@@ -1,0 +1,140 @@
+[
+  {
+    "ScientificName": "Mycteroperca acutirostris",
+    "SpecCode": "9386",
+    "CommonName": "Badèche peigne",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca bonaci",
+    "SpecCode": "1209",
+    "CommonName": "Abade bonaci",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca cidi",
+    "SpecCode": "1210",
+    "CommonName": "Abado blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca fusca",
+    "SpecCode": "9391",
+    "CommonName": "Abade",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca interstitialis",
+    "SpecCode": "1211",
+    "CommonName": "Abadejo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca jordani",
+    "SpecCode": "3333",
+    "CommonName": "Baya",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca microlepis",
+    "SpecCode": "1212",
+    "CommonName": "Abadejo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca olfax",
+    "SpecCode": "8204",
+    "CommonName": "Bacalao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca phenax",
+    "SpecCode": "1213",
+    "CommonName": "Abadejo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca prionura",
+    "SpecCode": "9394",
+    "CommonName": "Cabrilla chiruda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca rosacea",
+    "SpecCode": "9398",
+    "CommonName": "Cabrilla calamaria",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca rubra",
+    "SpecCode": "1214",
+    "CommonName": "Abade",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca tigris",
+    "SpecCode": "1215",
+    "CommonName": "Abadejo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca venenosa",
+    "SpecCode": "1216",
+    "CommonName": "Aguaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mycteroperca xenarcha",
+    "SpecCode": "3334",
+    "CommonName": "Abade jaspeado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

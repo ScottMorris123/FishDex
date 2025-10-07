@@ -1,0 +1,104 @@
+[
+  {
+    "ScientificName": "Encrasicholina auster",
+    "SpecCode": "70078",
+    "CommonName": "Fiji anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina devisi",
+    "SpecCode": "555",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina gloria",
+    "SpecCode": "68447",
+    "CommonName": "Red Sea anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina heteroloba",
+    "SpecCode": "556",
+    "CommonName": "Ainama",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina integra",
+    "SpecCode": "69530",
+    "CommonName": "Papuan anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina intermedia",
+    "SpecCode": "68446",
+    "CommonName": "Shiner anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina macrocephala",
+    "SpecCode": "68521",
+    "CommonName": "Largehead anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina oligobranchus",
+    "SpecCode": "557",
+    "CommonName": "Bolinao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina punctifer",
+    "SpecCode": "558",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina purpurea",
+    "SpecCode": "559",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encrasicholina sigma",
+    "SpecCode": "69939",
+    "CommonName": "Makassar anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

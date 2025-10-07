@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Bathydraco antarcticus",
+    "SpecCode": "7094",
+    "CommonName": "Bec de canard antarctique",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathydraco joannae",
+    "SpecCode": "7095",
+    "CommonName": "多耙淵龍鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathydraco macrolepis",
+    "SpecCode": "7096",
+    "CommonName": "大鱗淵龍鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathydraco marri",
+    "SpecCode": "7097",
+    "CommonName": "Deepwater dragon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathydraco scotiae",
+    "SpecCode": "7098",
+    "CommonName": "断线渊龙鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

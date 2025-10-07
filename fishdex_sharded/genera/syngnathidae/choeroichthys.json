@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Choeroichthys brachysoma",
+    "SpecCode": "5958",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choeroichthys cinctus",
+    "SpecCode": "12764",
+    "CommonName": "Barred short-bodied pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choeroichthys hadiatyae",
+    "SpecCode": "69350",
+    "CommonName": "Renny's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choeroichthys latispinosus",
+    "SpecCode": "46114",
+    "CommonName": "Muiron Island pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choeroichthys sculptus",
+    "SpecCode": "5410",
+    "CommonName": "Chigoyôji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choeroichthys smithi",
+    "SpecCode": "16863",
+    "CommonName": "Kortvin-pypvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choeroichthys suillus",
+    "SpecCode": "46124",
+    "CommonName": "Barred short-bodied pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

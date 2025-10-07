@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Xenodermichthys copei",
+    "SpecCode": "5064",
+    "CommonName": "Altantic gymnast",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenodermichthys nodulosus",
+    "SpecCode": "22703",
+    "CommonName": "Mügaraline nahkkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Uncisudis advena",
+    "SpecCode": "58762",
+    "CommonName": "海梭蜥魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Uncisudis longirostra",
+    "SpecCode": "16599",
+    "CommonName": "長吻鴨嘴蜥魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Uncisudis posteropelvis",
+    "SpecCode": "62050",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Uncisudis quadrimaculata",
+    "SpecCode": "16600",
+    "CommonName": "Barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

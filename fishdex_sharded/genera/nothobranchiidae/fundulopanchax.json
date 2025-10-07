@@ -1,0 +1,263 @@
+[
+  {
+    "ScientificName": "Fundulopanchax amieti",
+    "SpecCode": "9708",
+    "CommonName": "Amiets killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax arnoldi",
+    "SpecCode": "9709",
+    "CommonName": "Arnoldinviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax avichang",
+    "SpecCode": "59921",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax cinnamomeus",
+    "SpecCode": "9725",
+    "CommonName": "Cinnamon Killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax clauseni",
+    "SpecCode": "67241",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax deltaensis",
+    "SpecCode": "54029",
+    "CommonName": "Delta killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax fallax",
+    "SpecCode": "54026",
+    "CommonName": "Hehkuviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax filamentosus",
+    "SpecCode": "9736",
+    "CommonName": "Blue killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax gardneri",
+    "SpecCode": "9739",
+    "CommonName": "Blue lyretail",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax gresensi",
+    "SpecCode": "62245",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax gularis",
+    "SpecCode": "9743",
+    "CommonName": "Afiosemion zheltyi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax intermittens",
+    "SpecCode": "63218",
+    "CommonName": "Berg-Wunderkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax kamdemi",
+    "SpecCode": "63491",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax lacustris",
+    "SpecCode": "56565",
+    "CommonName": "Ejagham killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax mamfensis",
+    "SpecCode": "56567",
+    "CommonName": "Mamfe killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax marmoratus",
+    "SpecCode": "9758",
+    "CommonName": "Marbled killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax mirabilis",
+    "SpecCode": "9767",
+    "CommonName": "Lasur-Wunderkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax moensis",
+    "SpecCode": "63216",
+    "CommonName": "Berg-Wunderkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax ndianus",
+    "SpecCode": "9769",
+    "CommonName": "Deba-ogoin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax oeseri",
+    "SpecCode": "9774",
+    "CommonName": "Nfvong",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax powelli",
+    "SpecCode": "49699",
+    "CommonName": "鮑氏底鰕鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax puerzli",
+    "SpecCode": "9778",
+    "CommonName": "Miekkaviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax robertsoni",
+    "SpecCode": "9786",
+    "CommonName": "Purjeviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax rubrolabialis",
+    "SpecCode": "9788",
+    "CommonName": "Punahuuliviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax scheeli",
+    "SpecCode": "9789",
+    "CommonName": "Deba-ogoin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax sjostedti",
+    "SpecCode": "9792",
+    "CommonName": "Afiosemion zolotopolosyi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax spoorenbergi",
+    "SpecCode": "9794",
+    "CommonName": "Deba-ogoin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax traudeae",
+    "SpecCode": "63217",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fundulopanchax walkeri",
+    "SpecCode": "2473",
+    "CommonName": "Ghana Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Pelteobagrus eupogon",
+    "SpecCode": "50760",
+    "CommonName": "長鬚黃顙魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelteobagrus intermedius",
+    "SpecCode": "50924",
+    "CommonName": "中間擬鱨",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelteobagrus tonkinensis",
+    "SpecCode": "65733",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelteobagrus ussuriensis",
+    "SpecCode": "28050",
+    "CommonName": "Kosatka ussuriiskaya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

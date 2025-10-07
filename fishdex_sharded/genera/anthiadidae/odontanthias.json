@@ -1,0 +1,146 @@
+[
+  {
+    "ScientificName": "Odontanthias borbonius",
+    "SpecCode": "23333",
+    "CommonName": "Checked swallowtail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias caudicinctus",
+    "SpecCode": "23336",
+    "CommonName": "Blackblotch swallowtail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias cauoh",
+    "SpecCode": "70540",
+    "CommonName": "Carolina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias chrysostictus",
+    "SpecCode": "25813",
+    "CommonName": "Barahanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias dorsomaculatus",
+    "SpecCode": "56832",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias elizabethae",
+    "SpecCode": "58182",
+    "CommonName": "伊莉萨白牙花鮨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias flagris",
+    "SpecCode": "24848",
+    "CommonName": "Hatatate-hanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias fuscipinnis",
+    "SpecCode": "58183",
+    "CommonName": "Hawaiian deep anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias grahami",
+    "SpecCode": "64592",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias hensleyi",
+    "SpecCode": "66426",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias katayamai",
+    "SpecCode": "64625",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias randalli",
+    "SpecCode": "66271",
+    "CommonName": "Lombok Swallowtail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias rhodopeplus",
+    "SpecCode": "10631",
+    "CommonName": "Boro-sakuradai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias tapui",
+    "SpecCode": "56328",
+    "CommonName": "Holanthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias unimaculatus",
+    "SpecCode": "24847",
+    "CommonName": "Itten-sakuradai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontanthias wassi",
+    "SpecCode": "64593",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

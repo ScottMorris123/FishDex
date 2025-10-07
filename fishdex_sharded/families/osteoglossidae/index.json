@@ -1,0 +1,17 @@
+{
+  "Family": "Osteoglossidae",
+  "Order": "Osteoglossiformes",
+  "Common": "Arowanas",
+  "Genera": [
+    {
+      "Genus": "Osteoglossum",
+      "SpeciesCount": 2,
+      "genus_path": "genera/osteoglossidae/osteoglossum.json"
+    },
+    {
+      "Genus": "Scleropages",
+      "SpeciesCount": 4,
+      "genus_path": "genera/osteoglossidae/scleropages.json"
+    }
+  ]
+}

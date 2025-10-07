@@ -1,0 +1,32 @@
+{
+  "Family": "Sillaginidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Smelt-whitings",
+  "Genera": [
+    {
+      "Genus": "Sillaginodes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sillaginidae/sillaginodes.json"
+    },
+    {
+      "Genus": "Sillaginopodys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sillaginidae/sillaginopodys.json"
+    },
+    {
+      "Genus": "Sillaginops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sillaginidae/sillaginops.json"
+    },
+    {
+      "Genus": "Sillaginopsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sillaginidae/sillaginopsis.json"
+    },
+    {
+      "Genus": "Sillago",
+      "SpeciesCount": 33,
+      "genus_path": "genera/sillaginidae/sillago.json"
+    }
+  ]
+}

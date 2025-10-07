@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Paradiancistrus acutirostris",
+    "SpecCode": "63231",
+    "CommonName": "Sharpnosed coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paradiancistrus christmasensis",
+    "SpecCode": "66398",
+    "CommonName": "Christmas viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paradiancistrus cuyoensis",
+    "SpecCode": "63233",
+    "CommonName": "Cuyo coralbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paradiancistrus lombokensis",
+    "SpecCode": "64510",
+    "CommonName": "Lombok viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

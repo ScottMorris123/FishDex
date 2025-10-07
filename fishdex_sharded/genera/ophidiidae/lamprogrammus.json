@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Lamprogrammus brunswigi",
+    "SpecCode": "8945",
+    "CommonName": "大鰭殘鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamprogrammus exutus",
+    "SpecCode": "5055",
+    "CommonName": "Abadèche sans jambes",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamprogrammus fragilis",
+    "SpecCode": "47210",
+    "CommonName": "破鰭軟鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamprogrammus niger",
+    "SpecCode": "8974",
+    "CommonName": "Konnyaku-itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamprogrammus shcherbachevi",
+    "SpecCode": "54140",
+    "CommonName": "Scaleline cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

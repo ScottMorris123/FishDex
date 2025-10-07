@@ -1,0 +1,102 @@
+[
+  {
+    "ScientificName": "Acanthistius brasilianus",
+    "SpecCode": "351",
+    "CommonName": "Argentine seabass",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius cinctus",
+    "SpecCode": "12690",
+    "CommonName": "Girdled rock cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius fuscus",
+    "SpecCode": "59850",
+    "CommonName": "Capuco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius joanae",
+    "SpecCode": "65330",
+    "CommonName": "Scalyjaw koester",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius ocellatus",
+    "SpecCode": "15036",
+    "CommonName": "Boot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius pardalotus",
+    "SpecCode": "15038",
+    "CommonName": "Leopard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius patachonicus",
+    "SpecCode": "50141",
+    "CommonName": "Mero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius paxtoni",
+    "SpecCode": "15040",
+    "CommonName": "Orangelined wirrah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius pictus",
+    "SpecCode": "57960",
+    "CommonName": "Brick seabass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius sebastoides",
+    "SpecCode": "7920",
+    "CommonName": "Akant natalski",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthistius serratus",
+    "SpecCode": "15042",
+    "CommonName": "Western wirrah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

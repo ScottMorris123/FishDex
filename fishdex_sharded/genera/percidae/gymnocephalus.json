@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Gymnocephalus acerina",
+    "SpecCode": "9393",
+    "CommonName": "Don ersh",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocephalus ambriaelacus",
+    "SpecCode": "65620",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocephalus baloni",
+    "SpecCode": "9400",
+    "CommonName": "Balons hork",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocephalus cernua",
+    "SpecCode": "4474",
+    "CommonName": "Acerina",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocephalus schraetser",
+    "SpecCode": "6499",
+    "CommonName": "balava",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

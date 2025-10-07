@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Phoxinellus alepidotus",
+    "SpecCode": "26005",
+    "CommonName": "Aadria lepamaim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinellus dalmaticus",
+    "SpecCode": "61919",
+    "CommonName": "Čikola minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phoxinellus pseudalepidotus",
+    "SpecCode": "62040",
+    "CommonName": "Mostar minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

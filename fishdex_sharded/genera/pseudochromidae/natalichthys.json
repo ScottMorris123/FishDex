@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Natalichthys leptus",
+    "SpecCode": "4429",
+    "CommonName": "Pencil snakelet",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Natalichthys ori",
+    "SpecCode": "4430",
+    "CommonName": "Natal snakelet",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Natalichthys sam",
+    "SpecCode": "4431",
+    "CommonName": "Nail snakelet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

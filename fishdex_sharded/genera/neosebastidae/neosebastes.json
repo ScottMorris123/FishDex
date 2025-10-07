@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Neosebastes bougainvillii",
+    "SpecCode": "14316",
+    "CommonName": "Gulf perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes capricornis",
+    "SpecCode": "62515",
+    "CommonName": "Capricorn gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes entaxis",
+    "SpecCode": "11663",
+    "CommonName": "Hirenagakasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes incisipinnis",
+    "SpecCode": "52305",
+    "CommonName": "Coral perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes johnsoni",
+    "SpecCode": "62535",
+    "CommonName": "Johnson's gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes longirostris",
+    "SpecCode": "62536",
+    "CommonName": "Longsnout gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes multisquamus",
+    "SpecCode": "62537",
+    "CommonName": "Ogasawara gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes nigropunctatus",
+    "SpecCode": "14313",
+    "CommonName": "Blackspotted gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes occidentalis",
+    "SpecCode": "62538",
+    "CommonName": "Orangebanded gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes pandus",
+    "SpecCode": "14314",
+    "CommonName": "Bighead gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes scorpaenoides",
+    "SpecCode": "14318",
+    "CommonName": "Cobbler perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosebastes thetidis",
+    "SpecCode": "14319",
+    "CommonName": "Coral perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Leptojulis chrysotaenia",
+    "SpecCode": "26276",
+    "CommonName": "Ochreband wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptojulis cyanopleura",
+    "SpecCode": "10576",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptojulis lambdastigma",
+    "SpecCode": "26286",
+    "CommonName": "頸斑尖豬魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptojulis polylepis",
+    "SpecCode": "26289",
+    "CommonName": "Black-spot V-wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptojulis urostigma",
+    "SpecCode": "26288",
+    "CommonName": "Tailmark wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

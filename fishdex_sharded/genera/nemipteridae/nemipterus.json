@@ -1,0 +1,257 @@
+[
+  {
+    "ScientificName": "Nemipterus andamanensis",
+    "SpecCode": "70208",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus aurifilum",
+    "SpecCode": "5845",
+    "CommonName": "Yellowlip",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus aurora",
+    "SpecCode": "15162",
+    "CommonName": "Dawn threadfin bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus balinensis",
+    "SpecCode": "5846",
+    "CommonName": "Balinese threadfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus balinensoides",
+    "SpecCode": "5847",
+    "CommonName": "Dwarf threadfin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus bathybius",
+    "SpecCode": "4564",
+    "CommonName": "Bakay",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus bipunctatus",
+    "SpecCode": "5851",
+    "CommonName": "Andaq",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus celebicus",
+    "SpecCode": "5848",
+    "CommonName": "Bisugo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus flavomandibularis",
+    "SpecCode": "69402",
+    "CommonName": "Yellow-jaw threadfin bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus furcosus",
+    "SpecCode": "5843",
+    "CommonName": "Bisugo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus gracilis",
+    "SpecCode": "5849",
+    "CommonName": "Graceful threadfin bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus hexodon",
+    "SpecCode": "4565",
+    "CommonName": "Baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus isacanthus",
+    "SpecCode": "5850",
+    "CommonName": "Bisugo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus japonicus",
+    "SpecCode": "4559",
+    "CommonName": "Ang koh lee",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus marginatus",
+    "SpecCode": "4566",
+    "CommonName": "Bak-ay",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus mesoprion",
+    "SpecCode": "4567",
+    "CommonName": "Bisugo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus nematophorus",
+    "SpecCode": "4558",
+    "CommonName": "Aji-aji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus nematopus",
+    "SpecCode": "5415",
+    "CommonName": "Bakay",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus nemurus",
+    "SpecCode": "4568",
+    "CommonName": "Akaten-Itoyori",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus peronii",
+    "SpecCode": "4554",
+    "CommonName": "Andaq",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus randalli",
+    "SpecCode": "5852",
+    "CommonName": "Andaq",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus sugillatus",
+    "SpecCode": "69187",
+    "CommonName": "Bluecheek threadfin bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus tambuloides",
+    "SpecCode": "5844",
+    "CommonName": "Bisugo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus theodorei",
+    "SpecCode": "5853",
+    "CommonName": "Theodore's butterfly bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus thosaporni",
+    "SpecCode": "5414",
+    "CommonName": "Cá Lượng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus virgatus",
+    "SpecCode": "396",
+    "CommonName": "Baga dorada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus vitiensis",
+    "SpecCode": "5854",
+    "CommonName": "Fiji threadfin bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemipterus zysron",
+    "SpecCode": "5855",
+    "CommonName": "Andaq",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

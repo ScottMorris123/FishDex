@@ -1,0 +1,27 @@
+{
+  "Family": "Ateleopodidae",
+  "Order": "Ateleopodiformes",
+  "Common": "Jellynose fishes",
+  "Genera": [
+    {
+      "Genus": "Ateleopus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ateleopodidae/ateleopus.json"
+    },
+    {
+      "Genus": "Guentherus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ateleopodidae/guentherus.json"
+    },
+    {
+      "Genus": "Ijimaia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ateleopodidae/ijimaia.json"
+    },
+    {
+      "Genus": "Parateleopus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ateleopodidae/parateleopus.json"
+    }
+  ]
+}

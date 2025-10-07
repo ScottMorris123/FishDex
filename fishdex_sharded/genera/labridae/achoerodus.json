@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Achoerodus gouldii",
+    "SpecCode": "14420",
+    "CommonName": "Blue groper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achoerodus viridis",
+    "SpecCode": "50808",
+    "CommonName": "Blue groper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

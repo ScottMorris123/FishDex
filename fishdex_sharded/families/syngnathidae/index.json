@@ -1,0 +1,302 @@
+{
+  "Family": "Syngnathidae",
+  "Order": "Syngnathiformes",
+  "Common": "Pipefishes and seahorses",
+  "Genera": [
+    {
+      "Genus": "Acentronura",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/acentronura.json"
+    },
+    {
+      "Genus": "Amphelikturus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/amphelikturus.json"
+    },
+    {
+      "Genus": "Anarchopterus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/anarchopterus.json"
+    },
+    {
+      "Genus": "Apterygocampus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/apterygocampus.json"
+    },
+    {
+      "Genus": "Bhanotia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/bhanotia.json"
+    },
+    {
+      "Genus": "Bryx",
+      "SpeciesCount": 4,
+      "genus_path": "genera/syngnathidae/bryx.json"
+    },
+    {
+      "Genus": "Bulbonaricus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/bulbonaricus.json"
+    },
+    {
+      "Genus": "Campichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/syngnathidae/campichthys.json"
+    },
+    {
+      "Genus": "Choeroichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/syngnathidae/choeroichthys.json"
+    },
+    {
+      "Genus": "Corythoichthys",
+      "SpeciesCount": 12,
+      "genus_path": "genera/syngnathidae/corythoichthys.json"
+    },
+    {
+      "Genus": "Cosmocampus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/syngnathidae/cosmocampus.json"
+    },
+    {
+      "Genus": "Cylix",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/cylix.json"
+    },
+    {
+      "Genus": "Doryichthys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/syngnathidae/doryichthys.json"
+    },
+    {
+      "Genus": "Doryrhamphus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/syngnathidae/doryrhamphus.json"
+    },
+    {
+      "Genus": "Dunckerocampus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/syngnathidae/dunckerocampus.json"
+    },
+    {
+      "Genus": "Enneacampus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/enneacampus.json"
+    },
+    {
+      "Genus": "Entelurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/entelurus.json"
+    },
+    {
+      "Genus": "Festucalex",
+      "SpeciesCount": 9,
+      "genus_path": "genera/syngnathidae/festucalex.json"
+    },
+    {
+      "Genus": "Filicampus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/filicampus.json"
+    },
+    {
+      "Genus": "Halicampus",
+      "SpeciesCount": 12,
+      "genus_path": "genera/syngnathidae/halicampus.json"
+    },
+    {
+      "Genus": "Haliichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/haliichthys.json"
+    },
+    {
+      "Genus": "Heraldia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/heraldia.json"
+    },
+    {
+      "Genus": "Hippichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/syngnathidae/hippichthys.json"
+    },
+    {
+      "Genus": "Hippocampus",
+      "SpeciesCount": 53,
+      "genus_path": "genera/syngnathidae/hippocampus.json"
+    },
+    {
+      "Genus": "Histiogamphelus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/histiogamphelus.json"
+    },
+    {
+      "Genus": "Hypselognathus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/hypselognathus.json"
+    },
+    {
+      "Genus": "Ichthyocampus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/ichthyocampus.json"
+    },
+    {
+      "Genus": "Idiotropiscis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/idiotropiscis.json"
+    },
+    {
+      "Genus": "Kaupus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/kaupus.json"
+    },
+    {
+      "Genus": "Kimblaeus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/kimblaeus.json"
+    },
+    {
+      "Genus": "Kyonemichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/kyonemichthys.json"
+    },
+    {
+      "Genus": "Leptoichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/leptoichthys.json"
+    },
+    {
+      "Genus": "Leptonotus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/leptonotus.json"
+    },
+    {
+      "Genus": "Lissocampus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/syngnathidae/lissocampus.json"
+    },
+    {
+      "Genus": "Lophocampus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/lophocampus.json"
+    },
+    {
+      "Genus": "Maroubra",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/maroubra.json"
+    },
+    {
+      "Genus": "Micrognathus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/syngnathidae/micrognathus.json"
+    },
+    {
+      "Genus": "Microphis",
+      "SpeciesCount": 16,
+      "genus_path": "genera/syngnathidae/microphis.json"
+    },
+    {
+      "Genus": "Minyichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/syngnathidae/minyichthys.json"
+    },
+    {
+      "Genus": "Mitotichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/syngnathidae/mitotichthys.json"
+    },
+    {
+      "Genus": "Nannocampus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/syngnathidae/nannocampus.json"
+    },
+    {
+      "Genus": "Nerophis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/nerophis.json"
+    },
+    {
+      "Genus": "Notiocampus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/notiocampus.json"
+    },
+    {
+      "Genus": "Oostethus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/oostethus.json"
+    },
+    {
+      "Genus": "Penetopteryx",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/penetopteryx.json"
+    },
+    {
+      "Genus": "Phoxocampus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/phoxocampus.json"
+    },
+    {
+      "Genus": "Phycodurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/phycodurus.json"
+    },
+    {
+      "Genus": "Phyllopteryx",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/phyllopteryx.json"
+    },
+    {
+      "Genus": "Pseudophallus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/pseudophallus.json"
+    },
+    {
+      "Genus": "Pugnaso",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/pugnaso.json"
+    },
+    {
+      "Genus": "Siokunichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/syngnathidae/siokunichthys.json"
+    },
+    {
+      "Genus": "Solegnathus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/syngnathidae/solegnathus.json"
+    },
+    {
+      "Genus": "Stigmatopora",
+      "SpeciesCount": 5,
+      "genus_path": "genera/syngnathidae/stigmatopora.json"
+    },
+    {
+      "Genus": "Stipecampus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/stipecampus.json"
+    },
+    {
+      "Genus": "Syngnathoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/syngnathidae/syngnathoides.json"
+    },
+    {
+      "Genus": "Syngnathus",
+      "SpeciesCount": 35,
+      "genus_path": "genera/syngnathidae/syngnathus.json"
+    },
+    {
+      "Genus": "Trachyrhamphus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/syngnathidae/trachyrhamphus.json"
+    },
+    {
+      "Genus": "Urocampus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/syngnathidae/urocampus.json"
+    },
+    {
+      "Genus": "Vanacampus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/syngnathidae/vanacampus.json"
+    }
+  ]
+}

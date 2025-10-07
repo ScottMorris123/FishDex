@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Thysanophrys armata",
+    "SpecCode": "53047",
+    "CommonName": "盔繸鯒",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysanophrys celebica",
+    "SpecCode": "15242",
+    "CommonName": "Cá Chai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysanophrys chiltonae",
+    "SpecCode": "12902",
+    "CommonName": "Baji muncung panjang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysanophrys cirronasus",
+    "SpecCode": "52352",
+    "CommonName": "Rock flathead",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysanophrys longirostris",
+    "SpecCode": "12994",
+    "CommonName": "牛尾",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysanophrys papillaris",
+    "SpecCode": "56107",
+    "CommonName": "Smallknob flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysanophrys randalli",
+    "SpecCode": "66773",
+    "CommonName": "Snub-snouted flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysanophrys rarita",
+    "SpecCode": "66774",
+    "CommonName": "Somali flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysanophrys springeri",
+    "SpecCode": "66775",
+    "CommonName": "Red Sea flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thysanophrys tricaudata",
+    "SpecCode": "66776",
+    "CommonName": "Sri Lankan flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

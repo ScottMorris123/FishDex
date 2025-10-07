@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Cepola australis",
+    "SpecCode": "51508",
+    "CommonName": "Australian bandfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cepola haastii",
+    "SpecCode": "49218",
+    "CommonName": "Red bandfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cepola macrophthalma",
+    "SpecCode": "56",
+    "CommonName": "Bandiera rossa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cepola pauciradiata",
+    "SpecCode": "4937",
+    "CommonName": "少輻赤刀魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cepola schlegelii",
+    "SpecCode": "10480",
+    "CommonName": "Jaapani paelkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Macrodon ancylodon",
+    "SpecCode": "417",
+    "CommonName": "Acoupa chasseur",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrodon atricauda",
+    "SpecCode": "66332",
+    "CommonName": "Pescada-Foguete",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrodon mordax",
+    "SpecCode": "14006",
+    "CommonName": "Corvina lona",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

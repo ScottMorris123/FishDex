@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Auchenipterichthys coracoideus",
+    "SpecCode": "53680",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterichthys longimanus",
+    "SpecCode": "47668",
+    "CommonName": "Punktierter Dornwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterichthys punctatus",
+    "SpecCode": "52118",
+    "CommonName": "Carawatouí",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenipterichthys thoracatus",
+    "SpecCode": "13114",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

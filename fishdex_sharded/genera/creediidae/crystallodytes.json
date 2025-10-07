@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Crystallodytes cookei",
+    "SpecCode": "58169",
+    "CommonName": "Cooke's sandburrower",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crystallodytes enderburyensis",
+    "SpecCode": "68168",
+    "CommonName": "South Pacific sandburrower",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crystallodytes pauciradiatus",
+    "SpecCode": "59435",
+    "CommonName": "Rapanui sandburrower",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

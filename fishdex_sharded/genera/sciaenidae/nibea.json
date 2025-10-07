@@ -1,0 +1,99 @@
+[
+  {
+    "ScientificName": "Nibea albiflora",
+    "SpecCode": "13015",
+    "CommonName": "Cá Đù nanh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nibea chui",
+    "SpecCode": "14378",
+    "CommonName": "Chu's croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nibea coibor",
+    "SpecCode": "62944",
+    "CommonName": "浅色黄姑鱼",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nibea leptolepis",
+    "SpecCode": "15453",
+    "CommonName": "Smallscale jewfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nibea maculata",
+    "SpecCode": "11003",
+    "CommonName": "Blotched croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nibea microgenys",
+    "SpecCode": "15456",
+    "CommonName": "Smalljaw croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nibea mitsukurii",
+    "SpecCode": "427",
+    "CommonName": "Corvina honnibe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nibea semifasciata",
+    "SpecCode": "12055",
+    "CommonName": "Minami-nibe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nibea soldado",
+    "SpecCode": "8309",
+    "CommonName": "Abo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nibea squamosa",
+    "SpecCode": "15457",
+    "CommonName": "Scale croaker",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

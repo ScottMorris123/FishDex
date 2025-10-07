@@ -1,0 +1,17 @@
+{
+  "Family": "Argentinidae",
+  "Order": "Argentiniformes",
+  "Common": "Argentines or herring smelts",
+  "Genera": [
+    {
+      "Genus": "Argentina",
+      "SpeciesCount": 13,
+      "genus_path": "genera/argentinidae/argentina.json"
+    },
+    {
+      "Genus": "Glossanodon",
+      "SpeciesCount": 15,
+      "genus_path": "genera/argentinidae/glossanodon.json"
+    }
+  ]
+}

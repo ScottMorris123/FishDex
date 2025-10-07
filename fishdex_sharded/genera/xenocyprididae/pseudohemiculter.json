@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Pseudohemiculter dispar",
+    "SpecCode": "54909",
+    "CommonName": "Harilik ripsviidikas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiculter hainanensis",
+    "SpecCode": "56028",
+    "CommonName": "Hainani ripsviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiculter kweichowensis",
+    "SpecCode": "56029",
+    "CommonName": "Guizhou ripsviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiculter pacboensis",
+    "SpecCode": "62828",
+    "CommonName": "Vietnami ripsviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

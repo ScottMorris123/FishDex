@@ -1,0 +1,43 @@
+[
+  {
+    "ScientificName": "Hemiarius bleekeri",
+    "SpecCode": "58255",
+    "CommonName": "Bleeker's catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiarius harmandi",
+    "SpecCode": "51766",
+    "CommonName": "泰国半海鲶",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiarius stormii",
+    "SpecCode": "23388",
+    "CommonName": "Armoured sea catfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiarius verrucosus",
+    "SpecCode": "63326",
+    "CommonName": "Shovelnose sea catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

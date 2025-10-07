@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Solegnathus dunckeri",
+    "SpecCode": "26104",
+    "CommonName": "Duncker's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solegnathus hardwickii",
+    "SpecCode": "23610",
+    "CommonName": "Bared-tail seahorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solegnathus lettiensis",
+    "SpecCode": "8329",
+    "CommonName": "Gunther's pipehorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solegnathus robustus",
+    "SpecCode": "46204",
+    "CommonName": "Robust pipehorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solegnathus spinosissimus",
+    "SpecCode": "14268",
+    "CommonName": "Australian spiny pipehorse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

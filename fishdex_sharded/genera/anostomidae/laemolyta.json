@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Laemolyta fasciata",
+    "SpecCode": "61628",
+    "CommonName": "Søbundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemolyta fernandezi",
+    "SpecCode": "53278",
+    "CommonName": "Aracu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemolyta garmani",
+    "SpecCode": "53259",
+    "CommonName": "Lisa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemolyta macra",
+    "SpecCode": "56951",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemolyta nitens",
+    "SpecCode": "53279",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemolyta orinocensis",
+    "SpecCode": "53280",
+    "CommonName": "Orinoco-bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemolyta proxima",
+    "SpecCode": "53282",
+    "CommonName": "Aracú-caneta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemolyta taeniata",
+    "SpecCode": "13254",
+    "CommonName": "Anostomus de banda negra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laemolyta varia",
+    "SpecCode": "53283",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

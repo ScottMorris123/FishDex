@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Haemulopsis axillaris",
+    "SpecCode": "13734",
+    "CommonName": "Axil grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haemulopsis corvinaeformis",
+    "SpecCode": "1146",
+    "CommonName": "Abiquara",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haemulopsis elongatus",
+    "SpecCode": "24628",
+    "CommonName": "Boquimorado picudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haemulopsis leuciscus",
+    "SpecCode": "13720",
+    "CommonName": "Boquimorado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haemulopsis nitidus",
+    "SpecCode": "13721",
+    "CommonName": "Gallinazo brillante",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

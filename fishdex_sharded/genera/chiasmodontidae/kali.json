@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Kali colubrina",
+    "SpecCode": "63815",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kali falx",
+    "SpecCode": "63810",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kali indica",
+    "SpecCode": "16919",
+    "CommonName": "ആരമി ഥൊരരെസ",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kali kerberti",
+    "SpecCode": "65579",
+    "CommonName": "Norman's swallower",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kali macrodon",
+    "SpecCode": "16920",
+    "CommonName": "多鰭龍鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kali macrura",
+    "SpecCode": "16924",
+    "CommonName": "Longnose swallower",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kali parri",
+    "SpecCode": "22607",
+    "CommonName": "帕氏蛇牙龍鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

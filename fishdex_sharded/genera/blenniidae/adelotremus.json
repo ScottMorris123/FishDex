@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Adelotremus deloachi",
+    "SpecCode": "68806",
+    "CommonName": "Spotfin fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Adelotremus leptus",
+    "SpecCode": "67382",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

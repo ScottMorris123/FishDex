@@ -1,0 +1,97 @@
+{
+  "Family": "Goodeidae",
+  "Order": "Cyprinodontiformes",
+  "Common": "Splitfins",
+  "Genera": [
+    {
+      "Genus": "Allodontichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/goodeidae/allodontichthys.json"
+    },
+    {
+      "Genus": "Alloophorus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/goodeidae/alloophorus.json"
+    },
+    {
+      "Genus": "Allotoca",
+      "SpeciesCount": 8,
+      "genus_path": "genera/goodeidae/allotoca.json"
+    },
+    {
+      "Genus": "Ameca",
+      "SpeciesCount": 1,
+      "genus_path": "genera/goodeidae/ameca.json"
+    },
+    {
+      "Genus": "Ataeniobius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/goodeidae/ataeniobius.json"
+    },
+    {
+      "Genus": "Chapalichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/goodeidae/chapalichthys.json"
+    },
+    {
+      "Genus": "Characodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/goodeidae/characodon.json"
+    },
+    {
+      "Genus": "Crenichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/goodeidae/crenichthys.json"
+    },
+    {
+      "Genus": "Empetrichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/goodeidae/empetrichthys.json"
+    },
+    {
+      "Genus": "Girardinichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/goodeidae/girardinichthys.json"
+    },
+    {
+      "Genus": "Goodea",
+      "SpeciesCount": 3,
+      "genus_path": "genera/goodeidae/goodea.json"
+    },
+    {
+      "Genus": "Hubbsina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/goodeidae/hubbsina.json"
+    },
+    {
+      "Genus": "Ilyodon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/goodeidae/ilyodon.json"
+    },
+    {
+      "Genus": "Skiffia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/goodeidae/skiffia.json"
+    },
+    {
+      "Genus": "Xenoophorus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/goodeidae/xenoophorus.json"
+    },
+    {
+      "Genus": "Xenotaenia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/goodeidae/xenotaenia.json"
+    },
+    {
+      "Genus": "Xenotoca",
+      "SpeciesCount": 5,
+      "genus_path": "genera/goodeidae/xenotoca.json"
+    },
+    {
+      "Genus": "Zoogoneticus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/goodeidae/zoogoneticus.json"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Tridentiger barbatus",
+    "SpecCode": "23682",
+    "CommonName": "Cá Bống râu",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentiger bifasciatus",
+    "SpecCode": "56294",
+    "CommonName": "Gestreifte Grundel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentiger brevispinis",
+    "SpecCode": "23683",
+    "CommonName": "Numa-chichibu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentiger kuroiwae",
+    "SpecCode": "23687",
+    "CommonName": "Naganogori",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentiger microsquamis",
+    "SpecCode": "59230",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentiger nudicervicus",
+    "SpecCode": "23688",
+    "CommonName": "Shiro-chichibu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentiger obscurus",
+    "SpecCode": "15886",
+    "CommonName": "Cá Bống ba chèo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentiger radiatus",
+    "SpecCode": "67080",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tridentiger trigonocephalus",
+    "SpecCode": "3899",
+    "CommonName": "Cá Bống vân",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

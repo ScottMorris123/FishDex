@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Woodsia meyerwaardeni",
+    "SpecCode": "10237",
+    "CommonName": "Austral lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Woodsia nonsuchae",
+    "SpecCode": "22716",
+    "CommonName": "Bigeye lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

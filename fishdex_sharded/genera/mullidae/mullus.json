@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Mullus argentinae",
+    "SpecCode": "14063",
+    "CommonName": "Akame-himeji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mullus auratus",
+    "SpecCode": "1093",
+    "CommonName": "Barbarin blanc",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mullus barbatus",
+    "SpecCode": "790",
+    "CommonName": "Barbon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mullus ponticus",
+    "SpecCode": "25966",
+    "CommonName": "Barbun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mullus surmuletus",
+    "SpecCode": "1327",
+    "CommonName": "An milléad dearg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

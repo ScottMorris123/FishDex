@@ -1,0 +1,37 @@
+{
+  "Family": "Muraenesocidae",
+  "Order": "Anguilliformes",
+  "Common": "Pike congers",
+  "Genera": [
+    {
+      "Genus": "Congresox",
+      "SpeciesCount": 2,
+      "genus_path": "genera/muraenesocidae/congresox.json"
+    },
+    {
+      "Genus": "Cynoponticus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/muraenesocidae/cynoponticus.json"
+    },
+    {
+      "Genus": "Gavialiceps",
+      "SpeciesCount": 5,
+      "genus_path": "genera/muraenesocidae/gavialiceps.json"
+    },
+    {
+      "Genus": "Muraenesox",
+      "SpeciesCount": 3,
+      "genus_path": "genera/muraenesocidae/muraenesox.json"
+    },
+    {
+      "Genus": "Oxyconger",
+      "SpeciesCount": 1,
+      "genus_path": "genera/muraenesocidae/oxyconger.json"
+    },
+    {
+      "Genus": "Sauromuraenesox",
+      "SpeciesCount": 1,
+      "genus_path": "genera/muraenesocidae/sauromuraenesox.json"
+    }
+  ]
+}

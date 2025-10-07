@@ -1,0 +1,77 @@
+{
+  "Family": "Apteronotidae",
+  "Order": "Gymnotiformes",
+  "Common": "Ghost knifefishes",
+  "Genera": [
+    {
+      "Genus": "Adontosternarchus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/apteronotidae/adontosternarchus.json"
+    },
+    {
+      "Genus": "Apteronotus",
+      "SpeciesCount": 28,
+      "genus_path": "genera/apteronotidae/apteronotus.json"
+    },
+    {
+      "Genus": "Compsaraia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/apteronotidae/compsaraia.json"
+    },
+    {
+      "Genus": "Megadontognathus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/apteronotidae/megadontognathus.json"
+    },
+    {
+      "Genus": "Orthosternarchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apteronotidae/orthosternarchus.json"
+    },
+    {
+      "Genus": "Parapteronotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apteronotidae/parapteronotus.json"
+    },
+    {
+      "Genus": "Pariosternarchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apteronotidae/pariosternarchus.json"
+    },
+    {
+      "Genus": "Platyurosternarchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/apteronotidae/platyurosternarchus.json"
+    },
+    {
+      "Genus": "Porotergus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/apteronotidae/porotergus.json"
+    },
+    {
+      "Genus": "Sternarchella",
+      "SpeciesCount": 9,
+      "genus_path": "genera/apteronotidae/sternarchella.json"
+    },
+    {
+      "Genus": "Sternarchogiton",
+      "SpeciesCount": 5,
+      "genus_path": "genera/apteronotidae/sternarchogiton.json"
+    },
+    {
+      "Genus": "Sternarchorhamphus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apteronotidae/sternarchorhamphus.json"
+    },
+    {
+      "Genus": "Sternarchorhynchus",
+      "SpeciesCount": 32,
+      "genus_path": "genera/apteronotidae/sternarchorhynchus.json"
+    },
+    {
+      "Genus": "Tembeassu",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apteronotidae/tembeassu.json"
+    }
+  ]
+}

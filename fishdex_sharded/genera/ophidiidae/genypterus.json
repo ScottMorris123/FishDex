@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Genypterus blacodes",
+    "SpecCode": "482",
+    "CommonName": "Abadèche rose",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genypterus brasiliensis",
+    "SpecCode": "26204",
+    "CommonName": "Abadejo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genypterus capensis",
+    "SpecCode": "485",
+    "CommonName": "Aafrika kongrio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genypterus chilensis",
+    "SpecCode": "483",
+    "CommonName": "Abadèche rouge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genypterus maculatus",
+    "SpecCode": "484",
+    "CommonName": "Abadèche noir",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genypterus tigerinus",
+    "SpecCode": "24945",
+    "CommonName": "Ling",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

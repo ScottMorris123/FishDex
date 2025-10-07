@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Perissodus eccentricus",
+    "SpecCode": "8800",
+    "CommonName": "Sinisuomunsyöjä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Perissodus microlepis",
+    "SpecCode": "8801",
+    "CommonName": "Rusosuomunsyöjä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Perissodus paradoxus",
+    "SpecCode": "8814",
+    "CommonName": "Juovasuomunsyöjä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Hemilepidotus gilberti",
+    "SpecCode": "23903",
+    "CommonName": "Gilberti poolsoomushärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemilepidotus hemilepidotus",
+    "SpecCode": "4093",
+    "CommonName": "Bullhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemilepidotus jordani",
+    "SpecCode": "4094",
+    "CommonName": "Belobryukhiy polucheshuynik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemilepidotus papilio",
+    "SpecCode": "4115",
+    "CommonName": "Butterfly sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemilepidotus spinosus",
+    "SpecCode": "4095",
+    "CommonName": "Brown Irish lord",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemilepidotus zapus",
+    "SpecCode": "4096",
+    "CommonName": "Longfin Irish lord",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

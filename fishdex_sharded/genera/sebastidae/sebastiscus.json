@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Sebastiscus albofasciatus",
+    "SpecCode": "23868",
+    "CommonName": "Ayame-kasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastiscus marmoratus",
+    "SpecCode": "4597",
+    "CommonName": "Common rockfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastiscus tertius",
+    "SpecCode": "10437",
+    "CommonName": "Pul-gǔn-ssom-baeng-i",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

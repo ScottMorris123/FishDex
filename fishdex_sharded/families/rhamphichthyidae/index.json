@@ -1,0 +1,22 @@
+{
+  "Family": "Rhamphichthyidae",
+  "Order": "Gymnotiformes",
+  "Common": "Sand knifefishes",
+  "Genera": [
+    {
+      "Genus": "Gymnorhamphichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/rhamphichthyidae/gymnorhamphichthys.json"
+    },
+    {
+      "Genus": "Iracema",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhamphichthyidae/iracema.json"
+    },
+    {
+      "Genus": "Rhamphichthys",
+      "SpeciesCount": 10,
+      "genus_path": "genera/rhamphichthyidae/rhamphichthys.json"
+    }
+  ]
+}

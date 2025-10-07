@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Hypsopanchax catenatus",
+    "SpecCode": "9689",
+    "CommonName": "Chain lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsopanchax jobaerti",
+    "SpecCode": "9690",
+    "CommonName": "乔氏花高鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsopanchax jubbi",
+    "SpecCode": "9691",
+    "CommonName": "Southern deepbody",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsopanchax platysternus",
+    "SpecCode": "9693",
+    "CommonName": "Sinitähtisilmä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsopanchax stiassnyae",
+    "SpecCode": "68078",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsopanchax zebra",
+    "SpecCode": "9694",
+    "CommonName": "Seepratähtisilmä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "ScientificName": "Pentapodus aureofasciatus",
+    "SpecCode": "60801",
+    "CommonName": "Yellowstripe threadfin bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus berryae",
+    "SpecCode": "69616",
+    "CommonName": "Deep reef whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus bifasciatus",
+    "SpecCode": "5865",
+    "CommonName": "Abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus caninus",
+    "SpecCode": "5867",
+    "CommonName": "Anjang-anjang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus emeryii",
+    "SpecCode": "5868",
+    "CommonName": "Adngey",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus komodoensis",
+    "SpecCode": "66862",
+    "CommonName": "Komodo whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus nagasakiensis",
+    "SpecCode": "5869",
+    "CommonName": "Anjang-anjang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus numberii",
+    "SpecCode": "64931",
+    "CommonName": "Papuan whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus paradiseus",
+    "SpecCode": "5870",
+    "CommonName": "Bisugong maylawi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus porosus",
+    "SpecCode": "5871",
+    "CommonName": "Anjang-anjang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus setosus",
+    "SpecCode": "5872",
+    "CommonName": "Anjang-anjang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus trivittatus",
+    "SpecCode": "5873",
+    "CommonName": "Anjang-anjang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pentapodus vitta",
+    "SpecCode": "5866",
+    "CommonName": "Black stripe butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

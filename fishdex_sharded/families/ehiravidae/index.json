@@ -1,0 +1,62 @@
+{
+  "Family": "Ehiravidae",
+  "Order": "Clupeiformes",
+  "Common": "River sprats",
+  "Genera": [
+    {
+      "Genus": "Clupeichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ehiravidae/clupeichthys.json"
+    },
+    {
+      "Genus": "Clupeoides",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ehiravidae/clupeoides.json"
+    },
+    {
+      "Genus": "Clupeonella",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ehiravidae/clupeonella.json"
+    },
+    {
+      "Genus": "Corica",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ehiravidae/corica.json"
+    },
+    {
+      "Genus": "Dayella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ehiravidae/dayella.json"
+    },
+    {
+      "Genus": "Ehirava",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ehiravidae/ehirava.json"
+    },
+    {
+      "Genus": "Gilchristella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ehiravidae/gilchristella.json"
+    },
+    {
+      "Genus": "Minyclupeoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ehiravidae/minyclupeoides.json"
+    },
+    {
+      "Genus": "Sauvagella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ehiravidae/sauvagella.json"
+    },
+    {
+      "Genus": "Spratellomorpha",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ehiravidae/spratellomorpha.json"
+    },
+    {
+      "Genus": "Sundasalanx",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ehiravidae/sundasalanx.json"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Alopias pelagicus",
+    "SpecCode": "5891",
+    "CommonName": "Akno",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alopias superciliosus",
+    "SpecCode": "2534",
+    "CommonName": "Alopias megalomatos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alopias vulpinus",
+    "SpecCode": "2535",
+    "CommonName": "Aleposkylos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

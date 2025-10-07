@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Psilogobius mainlandi",
+    "SpecCode": "46535",
+    "CommonName": "Hawaiian shrimp goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilogobius prolatus",
+    "SpecCode": "59399",
+    "CommonName": "Longjaw shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psilogobius randalli",
+    "SpecCode": "59404",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

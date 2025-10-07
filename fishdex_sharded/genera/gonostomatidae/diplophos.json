@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Diplophos australis",
+    "SpecCode": "54857",
+    "CommonName": "澳洲雙光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplophos orientalis",
+    "SpecCode": "22713",
+    "CommonName": "Yumehadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplophos pacificus",
+    "SpecCode": "59112",
+    "CommonName": "太平洋双光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplophos rebainsi",
+    "SpecCode": "16709",
+    "CommonName": "Grand gonostome",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplophos taenia",
+    "SpecCode": "10155",
+    "CommonName": "Nettai-yumehadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplophos vicinia",
+    "SpecCode": "69124",
+    "CommonName": "Neighbor portholefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

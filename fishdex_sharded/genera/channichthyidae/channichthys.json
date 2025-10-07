@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Channichthys aelitae",
+    "SpecCode": "60587",
+    "CommonName": "Aelita icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channichthys bospori",
+    "SpecCode": "60588",
+    "CommonName": "Big-eyed icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channichthys irinae",
+    "SpecCode": "60589",
+    "CommonName": "Pygmy icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channichthys mithridatis",
+    "SpecCode": "64921",
+    "CommonName": "Green icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channichthys panticapaei",
+    "SpecCode": "52686",
+    "CommonName": "Charcoal icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channichthys rhinoceratus",
+    "SpecCode": "477",
+    "CommonName": "Draco rinoceronte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channichthys richardsoni",
+    "SpecCode": "66607",
+    "CommonName": "Robust icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channichthys rugosus",
+    "SpecCode": "61361",
+    "CommonName": "Red icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channichthys velifer",
+    "SpecCode": "60330",
+    "CommonName": "Grande gueule à voile",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

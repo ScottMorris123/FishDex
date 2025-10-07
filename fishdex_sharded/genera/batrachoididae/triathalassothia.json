@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Triathalassothia argentina",
+    "SpecCode": "53571",
+    "CommonName": "Bagre sapo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triathalassothia lambaloti",
+    "SpecCode": "60530",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

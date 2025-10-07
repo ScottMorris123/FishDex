@@ -1,0 +1,12 @@
+{
+  "Family": "Pseudaphritidae",
+  "Order": "Perciformes/Notothenioidei",
+  "Common": "Catadromous icefishes",
+  "Genera": [
+    {
+      "Genus": "Pseudaphritis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pseudaphritidae/pseudaphritis.json"
+    }
+  ]
+}

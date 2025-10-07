@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Diplecogaster bimaculata",
+    "SpecCode": "64",
+    "CommonName": "Ansauger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplecogaster ctenocrypta",
+    "SpecCode": "16740",
+    "CommonName": "梳褶腹喉盘鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplecogaster euxinica",
+    "SpecCode": "67915",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplecogaster megalops",
+    "SpecCode": "16844",
+    "CommonName": "Bigeye clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplecogaster pectoralis",
+    "SpecCode": "16738",
+    "CommonName": "Pegador",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplecogaster roseioculus",
+    "SpecCode": "70138",
+    "CommonName": "Pink-eye clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplecogaster tonstricula",
+    "SpecCode": "67913",
+    "CommonName": "Eastern Atlantic cleaner clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplecogaster umutturali",
+    "SpecCode": "69213",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

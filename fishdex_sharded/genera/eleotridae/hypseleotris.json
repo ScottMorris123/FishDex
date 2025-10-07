@@ -1,0 +1,197 @@
+[
+  {
+    "ScientificName": "Hypseleotris acropinna",
+    "SpecCode": "70081",
+    "CommonName": "Cryptic carp gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris aurea",
+    "SpecCode": "10701",
+    "CommonName": "Golden carp gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris barrawayi",
+    "SpecCode": "64092",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris bucephala",
+    "SpecCode": "70083",
+    "CommonName": "Boofhead carp gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris compressa",
+    "SpecCode": "22755",
+    "CommonName": "Australian carp-gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris compressocephalus",
+    "SpecCode": "55201",
+    "CommonName": "侧扁细齿塘鳢",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris cyprinoides",
+    "SpecCode": "10016",
+    "CommonName": "Cabot",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris ejuncida",
+    "SpecCode": "10702",
+    "CommonName": "Slender carp gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris everetti",
+    "SpecCode": "61714",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris galii",
+    "SpecCode": "22757",
+    "CommonName": "Feuerschwanzschläfergrundel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris guentheri",
+    "SpecCode": "26664",
+    "CommonName": "Kärpflingsgrundel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris gymnocephala",
+    "SpecCode": "70082",
+    "CommonName": "Bald carp gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris hutchinsi",
+    "SpecCode": "10711",
+    "CommonName": "Mitchell gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris kimberleyensis",
+    "SpecCode": "10703",
+    "CommonName": "Barnett River gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris klunzingeri",
+    "SpecCode": "52493",
+    "CommonName": "Klunzingers Schläfergrundel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris leuciscus",
+    "SpecCode": "25054",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris moolooboolaensis",
+    "SpecCode": "70103",
+    "CommonName": "Mary carp gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris notata",
+    "SpecCode": "10712",
+    "CommonName": "Drysdale gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris pangel",
+    "SpecCode": "61715",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris regalis",
+    "SpecCode": "10710",
+    "CommonName": "Prince Regent gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypseleotris tohizonae",
+    "SpecCode": "10017",
+    "CommonName": "托希黃黝魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

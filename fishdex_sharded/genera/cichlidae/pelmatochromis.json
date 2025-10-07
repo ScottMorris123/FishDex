@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pelmatochromis buettikoferi",
+    "SpecCode": "8792",
+    "CommonName": "Punahuulipalettikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelmatochromis nigrofasciatus",
+    "SpecCode": "8794",
+    "CommonName": "Raitapalettikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelmatochromis ocellifer",
+    "SpecCode": "8795",
+    "CommonName": "Täpläpalettikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

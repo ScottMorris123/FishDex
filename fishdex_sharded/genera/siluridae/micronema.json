@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Micronema hexapterus",
+    "SpecCode": "23098",
+    "CommonName": "Lais putih",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micronema moorei",
+    "SpecCode": "26727",
+    "CommonName": "Concealed dorsal-fin catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micronema platypogon",
+    "SpecCode": "61547",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

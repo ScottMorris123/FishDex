@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Forsterygion capito",
+    "SpecCode": "47108",
+    "CommonName": "Kokopili",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Forsterygion flavonigrum",
+    "SpecCode": "47057",
+    "CommonName": "Yellow-and-black triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Forsterygion gymnotum",
+    "SpecCode": "47119",
+    "CommonName": "Kokopili",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Forsterygion lapillum",
+    "SpecCode": "12940",
+    "CommonName": "Common threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Forsterygion malcolmi",
+    "SpecCode": "46361",
+    "CommonName": "Banded triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Forsterygion maryannae",
+    "SpecCode": "47027",
+    "CommonName": "Oblique-swimming triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Forsterygion nigripenne",
+    "SpecCode": "47121",
+    "CommonName": "Cockabully",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Forsterygion varium",
+    "SpecCode": "46992",
+    "CommonName": "Many-rayed threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

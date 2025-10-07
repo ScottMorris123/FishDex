@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Triglops dorothy",
+    "SpecCode": "62749",
+    "CommonName": "Dorothy's sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triglops forficatus",
+    "SpecCode": "4144",
+    "CommonName": "Saksehalet knurulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triglops jordani",
+    "SpecCode": "11886",
+    "CommonName": "Jordans knurulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triglops macellus",
+    "SpecCode": "4145",
+    "CommonName": "Roughspine sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triglops metopias",
+    "SpecCode": "11734",
+    "CommonName": "Alaskan sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triglops murrayi",
+    "SpecCode": "4146",
+    "CommonName": "Atlanticheskiy triglops",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triglops nybelini",
+    "SpecCode": "4147",
+    "CommonName": "Bigeye sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triglops pingelii",
+    "SpecCode": "4148",
+    "CommonName": "Arktisk knurrulke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triglops scepticus",
+    "SpecCode": "4149",
+    "CommonName": "Mogamikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triglops xenostethus",
+    "SpecCode": "11883",
+    "CommonName": "Scaly breasted sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

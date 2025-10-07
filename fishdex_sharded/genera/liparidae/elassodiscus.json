@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Elassodiscus caudatus",
+    "SpecCode": "51443",
+    "CommonName": "Blackbelly snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elassodiscus obscurus",
+    "SpecCode": "58873",
+    "CommonName": "暗色微盘狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Elassodiscus tremebundus",
+    "SpecCode": "51417",
+    "CommonName": "孔副狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

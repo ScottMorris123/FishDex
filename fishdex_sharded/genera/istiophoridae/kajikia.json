@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Kajikia albida",
+    "SpecCode": "219",
+    "CommonName": "Aguja blanca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kajikia audax",
+    "SpecCode": "223",
+    "CommonName": "Agujón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

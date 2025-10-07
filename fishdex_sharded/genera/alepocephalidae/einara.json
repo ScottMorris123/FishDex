@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Einara edentula",
+    "SpecCode": "10813",
+    "CommonName": "Toothless smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Einara macrolepis",
+    "SpecCode": "10873",
+    "CommonName": "Loosescale slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

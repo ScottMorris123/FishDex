@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Monocentris chrysadamas",
+    "SpecCode": "69892",
+    "CommonName": "Golden-diamond pineapple fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monocentris japonica",
+    "SpecCode": "8183",
+    "CommonName": "Cá Nành xe Nhật Bản",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monocentris neozelanicus",
+    "SpecCode": "52688",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monocentris reedi",
+    "SpecCode": "52689",
+    "CommonName": "Pinecone fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

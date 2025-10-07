@@ -1,0 +1,60 @@
+[
+  {
+    "ScientificName": "Oligolepis acutipennis",
+    "SpecCode": "5125",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligolepis cylindriceps",
+    "SpecCode": "25242",
+    "CommonName": "柱头寡鳞鰕虎鱼",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligolepis dasi",
+    "SpecCode": "61062",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligolepis formosanus",
+    "SpecCode": "25243",
+    "CommonName": "台湾沟鰕虎鱼",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligolepis jaarmani",
+    "SpecCode": "27688",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oligolepis stomias",
+    "SpecCode": "27568",
+    "CommonName": "大口寡鱗鰕虎",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

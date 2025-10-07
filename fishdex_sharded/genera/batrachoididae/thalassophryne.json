@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Thalassophryne amazonica",
+    "SpecCode": "53559",
+    "CommonName": "Jokikonnakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thalassophryne maculosa",
+    "SpecCode": "971",
+    "CommonName": "Cano toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thalassophryne megalops",
+    "SpecCode": "53560",
+    "CommonName": "大眼海蟾魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thalassophryne montevidensis",
+    "SpecCode": "53567",
+    "CommonName": "Bagre sapo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thalassophryne nattereri",
+    "SpecCode": "28222",
+    "CommonName": "Aniquim",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thalassophryne punctata",
+    "SpecCode": "53557",
+    "CommonName": "Moreiatim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

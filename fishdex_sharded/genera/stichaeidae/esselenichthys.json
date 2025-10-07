@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Esselenichthys carli",
+    "SpecCode": "61162",
+    "CommonName": "Abrojo tres rayas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esselenichthys laurae",
+    "SpecCode": "61163",
+    "CommonName": "Abrojo dos rayas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

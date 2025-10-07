@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Polyprion americanus",
+    "SpecCode": "349",
+    "CommonName": "Addotto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyprion oxygeneios",
+    "SpecCode": "350",
+    "CommonName": "Bacalao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

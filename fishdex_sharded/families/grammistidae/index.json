@@ -1,0 +1,47 @@
+{
+  "Family": "Grammistidae",
+  "Order": "Perciformes/Serranoidei",
+  "Common": "Soapfishes",
+  "Genera": [
+    {
+      "Genus": "Aporops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/grammistidae/aporops.json"
+    },
+    {
+      "Genus": "Grammistes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/grammistidae/grammistes.json"
+    },
+    {
+      "Genus": "Grammistops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/grammistidae/grammistops.json"
+    },
+    {
+      "Genus": "Jeboehlkia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/grammistidae/jeboehlkia.json"
+    },
+    {
+      "Genus": "Pogonoperca",
+      "SpeciesCount": 2,
+      "genus_path": "genera/grammistidae/pogonoperca.json"
+    },
+    {
+      "Genus": "Pseudogramma",
+      "SpeciesCount": 14,
+      "genus_path": "genera/grammistidae/pseudogramma.json"
+    },
+    {
+      "Genus": "Rypticus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/grammistidae/rypticus.json"
+    },
+    {
+      "Genus": "Suttonia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/grammistidae/suttonia.json"
+    }
+  ]
+}

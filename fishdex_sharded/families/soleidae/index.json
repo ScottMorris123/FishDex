@@ -1,0 +1,162 @@
+{
+  "Family": "Soleidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Soles",
+  "Genera": [
+    {
+      "Genus": "Achiroides",
+      "SpeciesCount": 2,
+      "genus_path": "genera/soleidae/achiroides.json"
+    },
+    {
+      "Genus": "Aesopia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/aesopia.json"
+    },
+    {
+      "Genus": "Aseraggodes",
+      "SpeciesCount": 54,
+      "genus_path": "genera/soleidae/aseraggodes.json"
+    },
+    {
+      "Genus": "Austroglossus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/soleidae/austroglossus.json"
+    },
+    {
+      "Genus": "Barbourichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/barbourichthys.json"
+    },
+    {
+      "Genus": "Barnardichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/barnardichthys.json"
+    },
+    {
+      "Genus": "Bathysolea",
+      "SpeciesCount": 4,
+      "genus_path": "genera/soleidae/bathysolea.json"
+    },
+    {
+      "Genus": "Brachirus",
+      "SpeciesCount": 16,
+      "genus_path": "genera/soleidae/brachirus.json"
+    },
+    {
+      "Genus": "Buglossidium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/buglossidium.json"
+    },
+    {
+      "Genus": "Dagetichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/soleidae/dagetichthys.json"
+    },
+    {
+      "Genus": "Dexillus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/dexillus.json"
+    },
+    {
+      "Genus": "Dicologlossa",
+      "SpeciesCount": 2,
+      "genus_path": "genera/soleidae/dicologlossa.json"
+    },
+    {
+      "Genus": "Heteromycteris",
+      "SpeciesCount": 6,
+      "genus_path": "genera/soleidae/heteromycteris.json"
+    },
+    {
+      "Genus": "Leptachirus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/soleidae/leptachirus.json"
+    },
+    {
+      "Genus": "Liachirus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/soleidae/liachirus.json"
+    },
+    {
+      "Genus": "Microchirus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/soleidae/microchirus.json"
+    },
+    {
+      "Genus": "Monochirus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/soleidae/monochirus.json"
+    },
+    {
+      "Genus": "Paradicula",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/paradicula.json"
+    },
+    {
+      "Genus": "Pardachirus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/soleidae/pardachirus.json"
+    },
+    {
+      "Genus": "Pegusa",
+      "SpeciesCount": 5,
+      "genus_path": "genera/soleidae/pegusa.json"
+    },
+    {
+      "Genus": "Phyllichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/soleidae/phyllichthys.json"
+    },
+    {
+      "Genus": "Rendahlia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/rendahlia.json"
+    },
+    {
+      "Genus": "Rhinosolea",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/rhinosolea.json"
+    },
+    {
+      "Genus": "Solea",
+      "SpeciesCount": 9,
+      "genus_path": "genera/soleidae/solea.json"
+    },
+    {
+      "Genus": "Soleichthys",
+      "SpeciesCount": 10,
+      "genus_path": "genera/soleidae/soleichthys.json"
+    },
+    {
+      "Genus": "Synaptura",
+      "SpeciesCount": 5,
+      "genus_path": "genera/soleidae/synaptura.json"
+    },
+    {
+      "Genus": "Synapturichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/synapturichthys.json"
+    },
+    {
+      "Genus": "Synclidopus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/soleidae/synclidopus.json"
+    },
+    {
+      "Genus": "Typhlachirus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/soleidae/typhlachirus.json"
+    },
+    {
+      "Genus": "Vanstraelenia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/soleidae/vanstraelenia.json"
+    },
+    {
+      "Genus": "Zebrias",
+      "SpeciesCount": 20,
+      "genus_path": "genera/soleidae/zebrias.json"
+    }
+  ]
+}

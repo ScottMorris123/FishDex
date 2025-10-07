@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Zenopsis conchifer",
+    "SpecCode": "336",
+    "CommonName": "American John Dory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenopsis nebulosa",
+    "SpecCode": "3255",
+    "CommonName": "Cá Dây gương",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenopsis oblonga",
+    "SpecCode": "53988",
+    "CommonName": "長圓亞海魴",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zenopsis stabilispinosa",
+    "SpecCode": "64610",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

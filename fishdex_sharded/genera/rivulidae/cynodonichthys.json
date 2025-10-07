@@ -1,0 +1,246 @@
+[
+  {
+    "ScientificName": "Cynodonichthys birkhahni",
+    "SpecCode": "49731",
+    "CommonName": "伯氏溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys boehlkei",
+    "SpecCode": "49736",
+    "CommonName": "貝氏溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys brunneus",
+    "SpecCode": "49737",
+    "CommonName": "Melariippuja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys chucunaque",
+    "SpecCode": "49833",
+    "CommonName": "Taimenriippuja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys elegans",
+    "SpecCode": "49749",
+    "CommonName": "Eleganter Bachling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys frommi",
+    "SpecCode": "49753",
+    "CommonName": "弗氏溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys fuscolineatus",
+    "SpecCode": "49754",
+    "CommonName": "Arenal rivulus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys glaucus",
+    "SpecCode": "49756",
+    "CommonName": "Blue rivulus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys godmani",
+    "SpecCode": "66795",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys hendrichsi",
+    "SpecCode": "66796",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys hildebrandi",
+    "SpecCode": "49758",
+    "CommonName": "Olomina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys isthmensis",
+    "SpecCode": "49764",
+    "CommonName": "Isthmian rivulus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys kuelpmanni",
+    "SpecCode": "49767",
+    "CommonName": "库氏溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys leucurus",
+    "SpecCode": "49769",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys magdalenae",
+    "SpecCode": "11887",
+    "CommonName": "Hohtoriippuja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys monikae",
+    "SpecCode": "49776",
+    "CommonName": "莫尼卡溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys montium",
+    "SpecCode": "49778",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys myersi",
+    "SpecCode": "66797",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys pacificus",
+    "SpecCode": "49783",
+    "CommonName": "太平溪鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys rubripunctatus",
+    "SpecCode": "49790",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys siegfriedi",
+    "SpecCode": "49832",
+    "CommonName": "Olomina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys sucubti",
+    "SpecCode": "66798",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys tenuis",
+    "SpecCode": "49439",
+    "CommonName": "Almirante del Hule",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys uroflammeus",
+    "SpecCode": "49799",
+    "CommonName": "Flame rivulus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys villwocki",
+    "SpecCode": "61598",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys wassmanni",
+    "SpecCode": "61594",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynodonichthys weberi",
+    "SpecCode": "49803",
+    "CommonName": "Laikkuriippuja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

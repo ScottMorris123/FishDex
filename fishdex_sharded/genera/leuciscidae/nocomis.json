@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Nocomis asper",
+    "SpecCode": "2806",
+    "CommonName": "Kare nokoomis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nocomis biguttatus",
+    "SpecCode": "2807",
+    "CommonName": "Horneyhead chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nocomis effusus",
+    "SpecCode": "2808",
+    "CommonName": "Nokomis červenoocasý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nocomis leptocephalus",
+    "SpecCode": "2809",
+    "CommonName": "Bluehead chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nocomis micropogon",
+    "SpecCode": "2810",
+    "CommonName": "Jõenokoomis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nocomis platyrhynchus",
+    "SpecCode": "2811",
+    "CommonName": "Bigmouth chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nocomis raneyi",
+    "SpecCode": "2812",
+    "CommonName": "Bull chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

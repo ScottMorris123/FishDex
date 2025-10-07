@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Notoclinops caerulepunctus",
+    "SpecCode": "46325",
+    "CommonName": "Blue dot triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoclinops segmentatus",
+    "SpecCode": "46326",
+    "CommonName": "Blue-eyed triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoclinops yaldwyni",
+    "SpecCode": "46997",
+    "CommonName": "Yaldwyn's triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

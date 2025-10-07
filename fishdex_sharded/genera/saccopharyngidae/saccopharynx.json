@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Saccopharynx ampullaceus",
+    "SpecCode": "9109",
+    "CommonName": "Ahmattiankerias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccopharynx berteli",
+    "SpecCode": "57817",
+    "CommonName": "Berteli kottneel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccopharynx harrisoni",
+    "SpecCode": "56751",
+    "CommonName": "Harrisoni kottneel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccopharynx hjorti",
+    "SpecCode": "57354",
+    "CommonName": "Hjorti kottneel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccopharynx lavenbergi",
+    "SpecCode": "57197",
+    "CommonName": "Lavenbergi kottneel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccopharynx paucovertebratis",
+    "SpecCode": "57355",
+    "CommonName": "Assoori kottneel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccopharynx ramosus",
+    "SpecCode": "9110",
+    "CommonName": "Oksjas kottneel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccopharynx schmidti",
+    "SpecCode": "24272",
+    "CommonName": "Black gulper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccopharynx thalassa",
+    "SpecCode": "9111",
+    "CommonName": "Thalassa kottneel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccopharynx trilobatus",
+    "SpecCode": "57356",
+    "CommonName": "Sagarsaba-kottneel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

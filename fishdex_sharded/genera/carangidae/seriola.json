@@ -1,0 +1,85 @@
+[
+  {
+    "ScientificName": "Seriola carpenteri",
+    "SpecCode": "1959",
+    "CommonName": "Charuteiro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriola dumerili",
+    "SpecCode": "1005",
+    "CommonName": "Acciola",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriola fasciata",
+    "SpecCode": "1006",
+    "CommonName": "Amberjack",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriola hippos",
+    "SpecCode": "1960",
+    "CommonName": "Abrolhos kingfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriola lalandi",
+    "SpecCode": "382",
+    "CommonName": "Albacore",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriola peruana",
+    "SpecCode": "1961",
+    "CommonName": "Cojinua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriola quinqueradiata",
+    "SpecCode": "381",
+    "CommonName": "Amberjack",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriola rivoliana",
+    "SpecCode": "1007",
+    "CommonName": "Aji-aji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriola zonata",
+    "SpecCode": "1008",
+    "CommonName": "Amberjack",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

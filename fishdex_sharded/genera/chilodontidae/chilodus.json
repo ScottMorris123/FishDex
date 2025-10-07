@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Chilodus fritillus",
+    "SpecCode": "46271",
+    "CommonName": "祕魯突吻脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chilodus gracilis",
+    "SpecCode": "51571",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chilodus punctatus",
+    "SpecCode": "10779",
+    "CommonName": "Bottentittare",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chilodus zunevei",
+    "SpecCode": "27822",
+    "CommonName": "Atiknowaik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

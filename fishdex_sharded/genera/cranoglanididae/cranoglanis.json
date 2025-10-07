@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Cranoglanis bouderius",
+    "SpecCode": "47276",
+    "CommonName": "Cá Ngạnh",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cranoglanis caolangensis",
+    "SpecCode": "65676",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cranoglanis henrici",
+    "SpecCode": "59911",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cranoglanis multiradiata",
+    "SpecCode": "61492",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cranoglanis songhongensis",
+    "SpecCode": "65727",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

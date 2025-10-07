@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bidyanus bidyanus",
+    "SpecCode": "12232",
+    "CommonName": "Australischer Silberbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bidyanus welchi",
+    "SpecCode": "14929",
+    "CommonName": "Black bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

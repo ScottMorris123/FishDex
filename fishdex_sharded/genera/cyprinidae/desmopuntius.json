@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Desmopuntius foerschi",
+    "SpecCode": "17465",
+    "CommonName": "Foerschi trellpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Desmopuntius gemellus",
+    "SpecCode": "58399",
+    "CommonName": "Jambi trellpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Desmopuntius hexazona",
+    "SpecCode": "17466",
+    "CommonName": "Kuuevöödiline trellpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Desmopuntius johorensis",
+    "SpecCode": "10808",
+    "CommonName": "Brzana liniowana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Desmopuntius pentazona",
+    "SpecCode": "12143",
+    "CommonName": "Belted barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Desmopuntius rhomboocellatus",
+    "SpecCode": "17474",
+    "CommonName": "Berbaju",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Desmopuntius trifasciatus",
+    "SpecCode": "58400",
+    "CommonName": "Engkarit",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

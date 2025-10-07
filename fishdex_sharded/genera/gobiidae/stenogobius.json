@@ -1,0 +1,261 @@
+[
+  {
+    "ScientificName": "Stenogobius alleni",
+    "SpecCode": "58657",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius beauforti",
+    "SpecCode": "26585",
+    "CommonName": "Beaufort's goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius blokzeyli",
+    "SpecCode": "25111",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius caudimaculosus",
+    "SpecCode": "58611",
+    "CommonName": "gobie à queue tachetée",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius fehlmanni",
+    "SpecCode": "58613",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius genivittatus",
+    "SpecCode": "9997",
+    "CommonName": "Cá Bống mấu đai",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius gymnopomus",
+    "SpecCode": "9998",
+    "CommonName": "Cá Bống gáy trấn",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius hawaiiensis",
+    "SpecCode": "56268",
+    "CommonName": "O'opu naniha",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius hoesei",
+    "SpecCode": "58614",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius ingeri",
+    "SpecCode": "25113",
+    "CommonName": "英氏狭鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius keletaona",
+    "SpecCode": "64552",
+    "CommonName": "Gobie de Keletaona",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius kenyae",
+    "SpecCode": "9999",
+    "CommonName": "Africa rivergoby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius kyphosus",
+    "SpecCode": "27575",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius lachneri",
+    "SpecCode": "26586",
+    "CommonName": "Bintuni goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius laterisquamatus",
+    "SpecCode": "25246",
+    "CommonName": "侧鳞狭鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius macropterus",
+    "SpecCode": "58606",
+    "CommonName": "大鰭狹鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius marinus",
+    "SpecCode": "58641",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius marqueti",
+    "SpecCode": "58610",
+    "CommonName": "gobie de Marquet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius mekongensis",
+    "SpecCode": "58095",
+    "CommonName": "湄公河狭鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius ophthalmoporus",
+    "SpecCode": "25114",
+    "CommonName": "Belunguran",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius polyzona",
+    "SpecCode": "58653",
+    "CommonName": "Ambisatra",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius psilosinionus",
+    "SpecCode": "58607",
+    "CommonName": "新畿內亞狹鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius randalli",
+    "SpecCode": "58656",
+    "CommonName": "gobie de Randall",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius squamosus",
+    "SpecCode": "58612",
+    "CommonName": "gobie écailleux",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius watsoni",
+    "SpecCode": "64167",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius yateiensis",
+    "SpecCode": "60781",
+    "CommonName": "Gobie de Yaté",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stenogobius zurstrasseni",
+    "SpecCode": "58652",
+    "CommonName": "朱氏狭鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

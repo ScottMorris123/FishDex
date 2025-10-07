@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Letholycus magellanicus",
+    "SpecCode": "48052",
+    "CommonName": "阿根廷大狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Letholycus microphthalmus",
+    "SpecCode": "48053",
+    "CommonName": "小眼大狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

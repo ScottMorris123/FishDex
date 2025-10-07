@@ -1,0 +1,58 @@
+[
+  {
+    "ScientificName": "Seriolella brama",
+    "SpecCode": "12918",
+    "CommonName": "Black trevally",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriolella caerulea",
+    "SpecCode": "12919",
+    "CommonName": "Cojinoba del sur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriolella porosa",
+    "SpecCode": "8390",
+    "CommonName": "Cacinova",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriolella punctata",
+    "SpecCode": "12922",
+    "CommonName": "Blue bass",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriolella tinro",
+    "SpecCode": "62084",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seriolella violacea",
+    "SpecCode": "13020",
+    "CommonName": "Cojinoba",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

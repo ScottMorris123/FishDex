@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Hemichromis angolensis",
+    "SpecCode": "6917",
+    "CommonName": "Angolantimanttiahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemichromis camerounensis",
+    "SpecCode": "69792",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemichromis elongatus",
+    "SpecCode": "59782",
+    "CommonName": "Balk-juweelvis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemichromis fasciatus",
+    "SpecCode": "2390",
+    "CommonName": "Aboryi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

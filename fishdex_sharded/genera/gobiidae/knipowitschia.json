@@ -1,0 +1,163 @@
+[
+  {
+    "ScientificName": "Knipowitschia byblisia",
+    "SpecCode": "66346",
+    "CommonName": "Byblis Goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia cameliae",
+    "SpecCode": "58051",
+    "CommonName": "Danube delta dwarf goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia caucasica",
+    "SpecCode": "14505",
+    "CommonName": "Asovantokko",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia caunosi",
+    "SpecCode": "66347",
+    "CommonName": "Caunos Goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia croatica",
+    "SpecCode": "26441",
+    "CommonName": "Neretva dwarf goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia ephesi",
+    "SpecCode": "46534",
+    "CommonName": "Ephesus goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia goerneri",
+    "SpecCode": "10784",
+    "CommonName": "Corfu dwarf goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia iljini",
+    "SpecCode": "47959",
+    "CommonName": "Gel-ye Mahi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia longecaudata",
+    "SpecCode": "16295",
+    "CommonName": "Dlinnokhvostyi bychok Knipovicha",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia mermere",
+    "SpecCode": "59351",
+    "CommonName": "Marmara goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia milleri",
+    "SpecCode": "10785",
+    "CommonName": "Acheron spring goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia montenegrina",
+    "SpecCode": "64043",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia mrakovcici",
+    "SpecCode": "46536",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia panizzae",
+    "SpecCode": "25978",
+    "CommonName": "Adriatic dwarf goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia punctatissima",
+    "SpecCode": "6341",
+    "CommonName": "Italian spring goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia radovici",
+    "SpecCode": "62436",
+    "CommonName": "Norin goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Knipowitschia thessala",
+    "SpecCode": "6342",
+    "CommonName": "Thessalogovinóe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

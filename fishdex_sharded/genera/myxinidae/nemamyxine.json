@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Nemamyxine elongata",
+    "SpecCode": "49247",
+    "CommonName": "Harilik peenpihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemamyxine kreffti",
+    "SpecCode": "54044",
+    "CommonName": "Kreffti peenpihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

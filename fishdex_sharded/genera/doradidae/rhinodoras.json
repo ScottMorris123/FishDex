@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Rhinodoras armbrusteri",
+    "SpecCode": "63774",
+    "CommonName": "Dirty thicklip thornycat",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinodoras boehlkei",
+    "SpecCode": "57802",
+    "CommonName": "Bagre hueso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinodoras dorbignyi",
+    "SpecCode": "47624",
+    "CommonName": "abotoado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinodoras gallagheri",
+    "SpecCode": "63775",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinodoras thomersoni",
+    "SpecCode": "48680",
+    "CommonName": "Mariano",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

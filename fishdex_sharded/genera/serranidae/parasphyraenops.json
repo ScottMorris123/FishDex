@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parasphyraenops atrimanus",
+    "SpecCode": "61269",
+    "CommonName": "Bank bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasphyraenops incisus",
+    "SpecCode": "57965",
+    "CommonName": "Forktailed bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

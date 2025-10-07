@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Rhinelepis aspera",
+    "SpecCode": "48588",
+    "CommonName": "Acari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinelepis strigosa",
+    "SpecCode": "48833",
+    "CommonName": "Cascudo-preto",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

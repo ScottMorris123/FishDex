@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Semicossyphus darwini",
+    "SpecCode": "12859",
+    "CommonName": "Camote",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semicossyphus pulcher",
+    "SpecCode": "3671",
+    "CommonName": "California sheephead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semicossyphus reticulatus",
+    "SpecCode": "23626",
+    "CommonName": "Kobudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

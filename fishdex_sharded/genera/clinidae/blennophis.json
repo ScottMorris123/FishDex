@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Blennophis anguillaris",
+    "SpecCode": "26227",
+    "CommonName": "Slang-klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blennophis striatus",
+    "SpecCode": "26231",
+    "CommonName": "Striped klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

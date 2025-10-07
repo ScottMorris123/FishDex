@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Spectracanthicus immaculatus",
+    "SpecCode": "67307",
+    "CommonName": "L363",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spectracanthicus murinus",
+    "SpecCode": "50682",
+    "CommonName": "Bicudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spectracanthicus punctatissimus",
+    "SpecCode": "50008",
+    "CommonName": "Tähtipleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spectracanthicus tocantinensis",
+    "SpecCode": "67308",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spectracanthicus zuanoni",
+    "SpecCode": "67309",
+    "CommonName": "Acari bola branca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

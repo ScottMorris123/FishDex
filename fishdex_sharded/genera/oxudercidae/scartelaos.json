@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Scartelaos cantoris",
+    "SpecCode": "55509",
+    "CommonName": "Raitaviiriryömijä",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartelaos gigas",
+    "SpecCode": "55510",
+    "CommonName": "Isoviiriryömijä",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartelaos histophorus",
+    "SpecCode": "7487",
+    "CommonName": "Bearded goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartelaos tenuis",
+    "SpecCode": "46410",
+    "CommonName": "Indian Ocean slender mudskipper",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

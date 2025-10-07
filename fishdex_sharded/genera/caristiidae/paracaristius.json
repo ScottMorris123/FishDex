@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Paracaristius aquilus",
+    "SpecCode": "66298",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracaristius maderensis",
+    "SpecCode": "17386",
+    "CommonName": "短頜長鰭金眼鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracaristius nemorosus",
+    "SpecCode": "66297",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracaristius nudarcus",
+    "SpecCode": "66296",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

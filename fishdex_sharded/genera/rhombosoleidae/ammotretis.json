@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Ammotretis brevipinnis",
+    "SpecCode": "58878",
+    "CommonName": "Shortfin flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammotretis elongatus",
+    "SpecCode": "14523",
+    "CommonName": "Elongate flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammotretis lituratus",
+    "SpecCode": "14524",
+    "CommonName": "Bass flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammotretis macrolepis",
+    "SpecCode": "58881",
+    "CommonName": "Largescale flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammotretis rostratus",
+    "SpecCode": "8837",
+    "CommonName": "Bay flounder",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

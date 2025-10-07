@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Sinocrossocheilus bamaensis",
+    "SpecCode": "56282",
+    "CommonName": "Bama koonalmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocrossocheilus guizhouensis",
+    "SpecCode": "55365",
+    "CommonName": "Chinese-tassel fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocrossocheilus labiatus",
+    "SpecCode": "61496",
+    "CommonName": "Fat fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinocrossocheilus megalophthalmus",
+    "SpecCode": "63101",
+    "CommonName": "Suursilm-pahmasmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

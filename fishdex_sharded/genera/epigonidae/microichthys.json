@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Microichthys coccoi",
+    "SpecCode": "2509",
+    "CommonName": "Derinsu kardinal balığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microichthys sanzoi",
+    "SpecCode": "2510",
+    "CommonName": "Miccroittio del sanzo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Panturichthys fowleri",
+    "SpecCode": "54552",
+    "CommonName": "Anguille à tête courte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panturichthys isognathus",
+    "SpecCode": "9045",
+    "CommonName": "Úhořovník atlantský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panturichthys longus",
+    "SpecCode": "9047",
+    "CommonName": "Sale mölliangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panturichthys mauritanicus",
+    "SpecCode": "9048",
+    "CommonName": "Mauritaania mölliangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

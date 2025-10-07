@@ -1,0 +1,37 @@
+{
+  "Family": "Peristediidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Armored searobins or armored gurnards",
+  "Genera": [
+    {
+      "Genus": "Gargariscus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/peristediidae/gargariscus.json"
+    },
+    {
+      "Genus": "Heminodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/peristediidae/heminodus.json"
+    },
+    {
+      "Genus": "Paraheminodus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/peristediidae/paraheminodus.json"
+    },
+    {
+      "Genus": "Peristedion",
+      "SpeciesCount": 24,
+      "genus_path": "genera/peristediidae/peristedion.json"
+    },
+    {
+      "Genus": "Satyrichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/peristediidae/satyrichthys.json"
+    },
+    {
+      "Genus": "Scalicus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/peristediidae/scalicus.json"
+    }
+  ]
+}

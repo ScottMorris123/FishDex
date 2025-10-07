@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Semotilus atromaculatus",
+    "SpecCode": "2952",
+    "CommonName": "Bachzwergdöbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semotilus corporalis",
+    "SpecCode": "2953",
+    "CommonName": "American chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semotilus lumbee",
+    "SpecCode": "2954",
+    "CommonName": "Lumbee vimpelturb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Semotilus thoreauianus",
+    "SpecCode": "10141",
+    "CommonName": "Dixie chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

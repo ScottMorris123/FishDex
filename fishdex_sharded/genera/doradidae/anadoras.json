@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Anadoras grypus",
+    "SpecCode": "47615",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anadoras insculptus",
+    "SpecCode": "58106",
+    "CommonName": "armado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anadoras regani",
+    "SpecCode": "47617",
+    "CommonName": "quiri-quiri",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anadoras weddellii",
+    "SpecCode": "47618",
+    "CommonName": "Armado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Copionodon elysium",
+    "SpecCode": "70313",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copionodon lianae",
+    "SpecCode": "58388",
+    "CommonName": "Tuhkaluikeromonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copionodon orthiocarinatus",
+    "SpecCode": "53627",
+    "CommonName": "Pikkuluikeromonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copionodon pecten",
+    "SpecCode": "53626",
+    "CommonName": "Kampaluikeromonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

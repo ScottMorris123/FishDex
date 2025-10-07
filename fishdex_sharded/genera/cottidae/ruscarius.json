@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ruscarius creaseri",
+    "SpecCode": "4045",
+    "CommonName": "Charrasco cachetirugoso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ruscarius meanyi",
+    "SpecCode": "4049",
+    "CommonName": "Puget Sound sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

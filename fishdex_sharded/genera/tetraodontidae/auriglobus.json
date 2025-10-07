@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Auriglobus amabilis",
+    "SpecCode": "25170",
+    "CommonName": "Borneonpallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auriglobus modestus",
+    "SpecCode": "25171",
+    "CommonName": "Cá nóc vàng",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auriglobus nefastus",
+    "SpecCode": "25172",
+    "CommonName": "Buntal lemas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auriglobus remotus",
+    "SpecCode": "25173",
+    "CommonName": "Kiiltopallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auriglobus silus",
+    "SpecCode": "25174",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

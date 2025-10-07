@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Scopelengys clarkei",
+    "SpecCode": "52724",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelengys tristis",
+    "SpecCode": "5119",
+    "CommonName": "Blackchin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "Family": "Balitoridae",
+  "Order": "Cypriniformes",
+  "Common": "River loaches",
+  "Genera": [
+    {
+      "Genus": "Balitora",
+      "SpeciesCount": 21,
+      "genus_path": "genera/balitoridae/balitora.json"
+    },
+    {
+      "Genus": "Balitoropsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/balitoridae/balitoropsis.json"
+    },
+    {
+      "Genus": "Bhavania",
+      "SpeciesCount": 2,
+      "genus_path": "genera/balitoridae/bhavania.json"
+    },
+    {
+      "Genus": "Cryptotora",
+      "SpeciesCount": 1,
+      "genus_path": "genera/balitoridae/cryptotora.json"
+    },
+    {
+      "Genus": "Dienbienia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/balitoridae/dienbienia.json"
+    },
+    {
+      "Genus": "Ghatsa",
+      "SpeciesCount": 5,
+      "genus_path": "genera/balitoridae/ghatsa.json"
+    },
+    {
+      "Genus": "Hemimyzon",
+      "SpeciesCount": 15,
+      "genus_path": "genera/balitoridae/hemimyzon.json"
+    },
+    {
+      "Genus": "Homaloptera",
+      "SpeciesCount": 6,
+      "genus_path": "genera/balitoridae/homaloptera.json"
+    },
+    {
+      "Genus": "Homalopteroides",
+      "SpeciesCount": 12,
+      "genus_path": "genera/balitoridae/homalopteroides.json"
+    },
+    {
+      "Genus": "Homalopterula",
+      "SpeciesCount": 6,
+      "genus_path": "genera/balitoridae/homalopterula.json"
+    },
+    {
+      "Genus": "Jinshaia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/balitoridae/jinshaia.json"
+    },
+    {
+      "Genus": "Lepturichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/balitoridae/lepturichthys.json"
+    },
+    {
+      "Genus": "Metahomaloptera",
+      "SpeciesCount": 2,
+      "genus_path": "genera/balitoridae/metahomaloptera.json"
+    },
+    {
+      "Genus": "Neohomaloptera",
+      "SpeciesCount": 1,
+      "genus_path": "genera/balitoridae/neohomaloptera.json"
+    },
+    {
+      "Genus": "Pseudohomaloptera",
+      "SpeciesCount": 6,
+      "genus_path": "genera/balitoridae/pseudohomaloptera.json"
+    },
+    {
+      "Genus": "Sinogastromyzon",
+      "SpeciesCount": 22,
+      "genus_path": "genera/balitoridae/sinogastromyzon.json"
+    },
+    {
+      "Genus": "Travancoria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/balitoridae/travancoria.json"
+    }
+  ]
+}

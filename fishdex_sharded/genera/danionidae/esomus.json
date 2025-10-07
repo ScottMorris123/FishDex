@@ -1,0 +1,113 @@
+[
+  {
+    "ScientificName": "Esomus ahli",
+    "SpecCode": "24397",
+    "CommonName": "Ahli lenddaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus altus",
+    "SpecCode": "24398",
+    "CommonName": "Kõrge lenddaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus barbatus",
+    "SpecCode": "24399",
+    "CommonName": "Letounek vousatý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus caudiocellatus",
+    "SpecCode": "54676",
+    "CommonName": "Laiksaba-lenddaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus danrica",
+    "SpecCode": "5150",
+    "CommonName": "Astapakke",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus lineatus",
+    "SpecCode": "12070",
+    "CommonName": "Juovalentobarbi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus longimanus",
+    "SpecCode": "27062",
+    "CommonName": "Cá lòng tong bay",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus malabaricus",
+    "SpecCode": "61953",
+    "CommonName": "Malabari lenddaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus malayensis",
+    "SpecCode": "12071",
+    "CommonName": "Almindelig flyvebarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus manipurensis",
+    "SpecCode": "61884",
+    "CommonName": "Manipuri lenddaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus metallicus",
+    "SpecCode": "16176",
+    "CommonName": "Hõbejas lenddaanio",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esomus thermoicos",
+    "SpecCode": "13626",
+    "CommonName": "Flying barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

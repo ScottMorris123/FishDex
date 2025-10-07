@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Acromycter alcocki",
+    "SpecCode": "58525",
+    "CommonName": "Alcocki Kiirdangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acromycter atlanticus",
+    "SpecCode": "58526",
+    "CommonName": "Atlandi Kiirdangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acromycter longipectoralis",
+    "SpecCode": "63064",
+    "CommonName": "Pikkuim-Kiirdangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acromycter nezumi",
+    "SpecCode": "23291",
+    "CommonName": "Hallikas Kiirdangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acromycter perturbator",
+    "SpecCode": "58562",
+    "CommonName": "Ameerika Kiirdangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

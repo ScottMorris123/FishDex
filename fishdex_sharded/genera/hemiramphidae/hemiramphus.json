@@ -1,0 +1,105 @@
+[
+  {
+    "ScientificName": "Hemiramphus archipelagicus",
+    "SpecCode": "14303",
+    "CommonName": "Agujeta saltona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus balao",
+    "SpecCode": "1057",
+    "CommonName": "Abu-minkar",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus bermudensis",
+    "SpecCode": "1058",
+    "CommonName": "Agujeta bermuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus brasiliensis",
+    "SpecCode": "1059",
+    "CommonName": "Agujeta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus convexus",
+    "SpecCode": "16884",
+    "CommonName": "Buging",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus depauperatus",
+    "SpecCode": "7507",
+    "CommonName": "Ihe ihe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus far",
+    "SpecCode": "5404",
+    "CommonName": "Abo-meshfa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus lutkei",
+    "SpecCode": "7709",
+    "CommonName": "Agujeta de Lutke",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus marginatus",
+    "SpecCode": "9963",
+    "CommonName": "Abu-minkar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus robustus",
+    "SpecCode": "16811",
+    "CommonName": "Anukai kete",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiramphus saltator",
+    "SpecCode": "3157",
+    "CommonName": "Aguja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

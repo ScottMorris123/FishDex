@@ -1,0 +1,87 @@
+{
+  "Family": "Gempylidae",
+  "Order": "Scombriformes",
+  "Common": "Snake mackerels",
+  "Genera": [
+    {
+      "Genus": "Diplospinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/diplospinus.json"
+    },
+    {
+      "Genus": "Epinnula",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gempylidae/epinnula.json"
+    },
+    {
+      "Genus": "Gempylus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/gempylus.json"
+    },
+    {
+      "Genus": "Lepidocybium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/lepidocybium.json"
+    },
+    {
+      "Genus": "Nealotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/nealotus.json"
+    },
+    {
+      "Genus": "Neoepinnula",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gempylidae/neoepinnula.json"
+    },
+    {
+      "Genus": "Nesiarchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/nesiarchus.json"
+    },
+    {
+      "Genus": "Paradiplospinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gempylidae/paradiplospinus.json"
+    },
+    {
+      "Genus": "Promethichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/promethichthys.json"
+    },
+    {
+      "Genus": "Rexea",
+      "SpeciesCount": 7,
+      "genus_path": "genera/gempylidae/rexea.json"
+    },
+    {
+      "Genus": "Rexichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/rexichthys.json"
+    },
+    {
+      "Genus": "Ruvettus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/ruvettus.json"
+    },
+    {
+      "Genus": "Thyrsites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/thyrsites.json"
+    },
+    {
+      "Genus": "Thyrsitoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/thyrsitoides.json"
+    },
+    {
+      "Genus": "Thyrsitops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/thyrsitops.json"
+    },
+    {
+      "Genus": "Tongaichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gempylidae/tongaichthys.json"
+    }
+  ]
+}

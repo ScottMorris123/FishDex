@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Synaptura albomaculata",
+    "SpecCode": "25291",
+    "CommonName": "Karup's sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaptura cadenati",
+    "SpecCode": "8853",
+    "CommonName": "Guinean sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaptura commersonnii",
+    "SpecCode": "14395",
+    "CommonName": "Commerson's sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaptura megalepidoura",
+    "SpecCode": "17368",
+    "CommonName": "大鱗箬鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaptura salinarum",
+    "SpecCode": "22788",
+    "CommonName": "Australische Süßwasserseezunge",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

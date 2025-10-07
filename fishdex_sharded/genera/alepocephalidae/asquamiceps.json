@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Asquamiceps caeruleus",
+    "SpecCode": "9174",
+    "CommonName": "淡黑裸头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asquamiceps hjorti",
+    "SpecCode": "16451",
+    "CommonName": "Barethroat slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asquamiceps longmani",
+    "SpecCode": "24553",
+    "CommonName": "朗氏裸头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asquamiceps velaris",
+    "SpecCode": "10002",
+    "CommonName": "Fanfin smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

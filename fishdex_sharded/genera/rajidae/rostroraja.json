@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Rostroraja ackleyi",
+    "SpecCode": "2554",
+    "CommonName": "Ocellate skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rostroraja alba",
+    "SpecCode": "7613",
+    "CommonName": "Ak vatoz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rostroraja bahamensis",
+    "SpecCode": "54119",
+    "CommonName": "Bahama rai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rostroraja cervigoni",
+    "SpecCode": "7606",
+    "CommonName": "Finspot ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rostroraja eglanteria",
+    "SpecCode": "1252",
+    "CommonName": "Blanknasen-Rochen",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rostroraja equatorialis",
+    "SpecCode": "8217",
+    "CommonName": "Ecuatorial ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rostroraja texana",
+    "SpecCode": "1254",
+    "CommonName": "Medaillonrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rostroraja velezi",
+    "SpecCode": "13215",
+    "CommonName": "Raie de Vélez",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

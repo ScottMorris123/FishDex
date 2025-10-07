@@ -1,0 +1,27 @@
+{
+  "Family": "Kneriidae",
+  "Order": "Gonorynchiformes",
+  "Common": "Shellears",
+  "Genera": [
+    {
+      "Genus": "Cromeria",
+      "SpeciesCount": 2,
+      "genus_path": "genera/kneriidae/cromeria.json"
+    },
+    {
+      "Genus": "Grasseichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/kneriidae/grasseichthys.json"
+    },
+    {
+      "Genus": "Kneria",
+      "SpeciesCount": 13,
+      "genus_path": "genera/kneriidae/kneria.json"
+    },
+    {
+      "Genus": "Parakneria",
+      "SpeciesCount": 15,
+      "genus_path": "genera/kneriidae/parakneria.json"
+    }
+  ]
+}

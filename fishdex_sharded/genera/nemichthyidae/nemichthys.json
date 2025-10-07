@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Nemichthys curvirostris",
+    "SpecCode": "9107",
+    "CommonName": "Boxer snipe eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemichthys larseni",
+    "SpecCode": "59502",
+    "CommonName": "Larseni niitangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemichthys scolopaceus",
+    "SpecCode": "2660",
+    "CommonName": "Álsnípa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

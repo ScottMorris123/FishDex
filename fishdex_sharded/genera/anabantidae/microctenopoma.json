@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Microctenopoma ansorgii",
+    "SpecCode": "10030",
+    "CommonName": "Loistokiipijäkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma congicum",
+    "SpecCode": "10034",
+    "CommonName": "Congo climbing perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma damasi",
+    "SpecCode": "10036",
+    "CommonName": "Helmikiipijäkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma fasciolatum",
+    "SpecCode": "10038",
+    "CommonName": "Banded climbing perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma intermedium",
+    "SpecCode": "10040",
+    "CommonName": "Blackspot climbing perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma lineatum",
+    "SpecCode": "12912",
+    "CommonName": "Karawa kawi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma milleri",
+    "SpecCode": "52094",
+    "CommonName": "密氏細梳攀鱸",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma nanum",
+    "SpecCode": "10045",
+    "CommonName": "Agnene",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma nigricans",
+    "SpecCode": "52066",
+    "CommonName": "黑細梳攀鱸",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma ocellifer",
+    "SpecCode": "10044",
+    "CommonName": "小眼穆氏非洲攀鱸",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma pekkolai",
+    "SpecCode": "10048",
+    "CommonName": "皮氏非洲攀鱸",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microctenopoma uelense",
+    "SpecCode": "52042",
+    "CommonName": "非洲細梳攀鱸",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Abantennarius analis",
+    "SpecCode": "11144",
+    "CommonName": "Dwarf frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abantennarius bermudensis",
+    "SpecCode": "16680",
+    "CommonName": "Island frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abantennarius coccineus",
+    "SpecCode": "5402",
+    "CommonName": "Anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abantennarius dorehensis",
+    "SpecCode": "7294",
+    "CommonName": "Balkstert-hengelaar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abantennarius drombus",
+    "SpecCode": "69666",
+    "CommonName": "Freckled frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abantennarius duescus",
+    "SpecCode": "27298",
+    "CommonName": "Side-jet frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abantennarius nummifer",
+    "SpecCode": "5403",
+    "CommonName": "Antennaire tacheté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abantennarius rosaceus",
+    "SpecCode": "7296",
+    "CommonName": "La'otale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Abantennarius sanguineus",
+    "SpecCode": "13451",
+    "CommonName": "Bloody frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

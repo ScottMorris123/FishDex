@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Enchelyurus ater",
+    "SpecCode": "13753",
+    "CommonName": "Black blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enchelyurus brunneolus",
+    "SpecCode": "59664",
+    "CommonName": "深棕连鳍鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enchelyurus flavipes",
+    "SpecCode": "59604",
+    "CommonName": "Yellowfin blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enchelyurus kraussii",
+    "SpecCode": "6062",
+    "CommonName": "Krauss' blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enchelyurus petersi",
+    "SpecCode": "58173",
+    "CommonName": "彼氏跳岩鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

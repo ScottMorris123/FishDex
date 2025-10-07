@@ -1,0 +1,42 @@
+{
+  "Family": "Histiophrynidae",
+  "Order": "Lophiiformes",
+  "Common": "Starfingered frogfishes",
+  "Genera": [
+    {
+      "Genus": "Allenichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/histiophrynidae/allenichthys.json"
+    },
+    {
+      "Genus": "Echinophryne",
+      "SpeciesCount": 3,
+      "genus_path": "genera/histiophrynidae/echinophryne.json"
+    },
+    {
+      "Genus": "Histiophryne",
+      "SpeciesCount": 5,
+      "genus_path": "genera/histiophrynidae/histiophryne.json"
+    },
+    {
+      "Genus": "Kuiterichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/histiophrynidae/kuiterichthys.json"
+    },
+    {
+      "Genus": "Lophiocharon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/histiophrynidae/lophiocharon.json"
+    },
+    {
+      "Genus": "Phyllophryne",
+      "SpeciesCount": 1,
+      "genus_path": "genera/histiophrynidae/phyllophryne.json"
+    },
+    {
+      "Genus": "Porophryne",
+      "SpeciesCount": 1,
+      "genus_path": "genera/histiophrynidae/porophryne.json"
+    }
+  ]
+}

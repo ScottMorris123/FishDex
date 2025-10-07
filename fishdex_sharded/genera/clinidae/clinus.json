@@ -1,0 +1,186 @@
+[
+  {
+    "ScientificName": "Clinus acuminatus",
+    "SpecCode": "26243",
+    "CommonName": "Sad klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus agilis",
+    "SpecCode": "26245",
+    "CommonName": "Agile klipfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus arborescens",
+    "SpecCode": "65459",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus berrisfordi",
+    "SpecCode": "16996",
+    "CommonName": "Onrust klipfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus brevicristatus",
+    "SpecCode": "26247",
+    "CommonName": "Cape klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus cottoides",
+    "SpecCode": "26249",
+    "CommonName": "Bluntnose klipfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus exasperatus",
+    "SpecCode": "66666",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus helenae",
+    "SpecCode": "26250",
+    "CommonName": "Helen se klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus heterodon",
+    "SpecCode": "16999",
+    "CommonName": "Weskus-klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus latipennis",
+    "SpecCode": "17002",
+    "CommonName": "False Bay klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus musaicus",
+    "SpecCode": "66667",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus nematopterus",
+    "SpecCode": "17003",
+    "CommonName": "Chinese klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus ornatus",
+    "SpecCode": "69231",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus robustus",
+    "SpecCode": "26251",
+    "CommonName": "Hiid-klinuskala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus rotundifrons",
+    "SpecCode": "17004",
+    "CommonName": "Bamboes-klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus spatulatus",
+    "SpecCode": "10684",
+    "CommonName": "Bot river klipfish",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus superciliosus",
+    "SpecCode": "26254",
+    "CommonName": "Super klipfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus taurus",
+    "SpecCode": "26255",
+    "CommonName": "Bul-klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus venustris",
+    "SpecCode": "26256",
+    "CommonName": "Gespikkelde klipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clinus woodi",
+    "SpecCode": "26257",
+    "CommonName": "Oldman klipfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

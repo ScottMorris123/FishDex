@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Phyllichthys punctatus",
+    "SpecCode": "10989",
+    "CommonName": "Brown-blotched sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phyllichthys sclerolepis",
+    "SpecCode": "61354",
+    "CommonName": "Hard scaled sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phyllichthys sejunctus",
+    "SpecCode": "61351",
+    "CommonName": "Checker sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

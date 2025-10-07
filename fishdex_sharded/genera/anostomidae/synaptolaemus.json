@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Synaptolaemus cingulatus",
+    "SpecCode": "51381",
+    "CommonName": "Smalbåndet rød bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synaptolaemus latofasciatus",
+    "SpecCode": "53293",
+    "CommonName": "Bredbåndet rød bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

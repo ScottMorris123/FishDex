@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Opsanus beta",
+    "SpecCode": "3067",
+    "CommonName": "Gulf toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsanus dichrostomus",
+    "SpecCode": "58624",
+    "CommonName": "Bicolor toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsanus pardus",
+    "SpecCode": "3068",
+    "CommonName": "Leopard Toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsanus phobetron",
+    "SpecCode": "16679",
+    "CommonName": "Sapo de boca negra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsanus tau",
+    "SpecCode": "3069",
+    "CommonName": "Austernfisch",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

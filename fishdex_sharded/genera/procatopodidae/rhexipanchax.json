@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rhexipanchax kabae",
+    "SpecCode": "9658",
+    "CommonName": "卞巴灯鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhexipanchax lamberti",
+    "SpecCode": "9662",
+    "CommonName": "Lambert's lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhexipanchax nimbaensis",
+    "SpecCode": "2460",
+    "CommonName": "Mt. Nimba lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhexipanchax schiotzi",
+    "SpecCode": "2466",
+    "CommonName": "Schioetz Leuchtaugenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

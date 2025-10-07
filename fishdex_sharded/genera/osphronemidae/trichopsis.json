@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Trichopsis pumila",
+    "SpecCode": "12082",
+    "CommonName": "Dwarf gourami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichopsis schalleri",
+    "SpecCode": "12083",
+    "CommonName": "False pygmy gourami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichopsis vittata",
+    "SpecCode": "4728",
+    "CommonName": "Cá bai tràu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

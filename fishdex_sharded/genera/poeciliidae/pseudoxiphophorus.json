@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Pseudoxiphophorus anzuetoi",
+    "SpecCode": "53784",
+    "CommonName": "Blåpletttet Guatamala-tandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoxiphophorus bimaculatus",
+    "SpecCode": "46667",
+    "CommonName": "Guatopote manchado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoxiphophorus cataractae",
+    "SpecCode": "46669",
+    "CommonName": "Cobán toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoxiphophorus diremptus",
+    "SpecCode": "46671",
+    "CommonName": "Sebol toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoxiphophorus jonesii",
+    "SpecCode": "46715",
+    "CommonName": "Båndet tandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoxiphophorus litoperas",
+    "SpecCode": "46718",
+    "CommonName": "Cahabón toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoxiphophorus obliquus",
+    "SpecCode": "46720",
+    "CommonName": "Usumacinta toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

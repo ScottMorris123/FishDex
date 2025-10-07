@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Hemibarbus brevipennus",
+    "SpecCode": "55968",
+    "CommonName": "Hrouz východoasijský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus labeo",
+    "SpecCode": "17301",
+    "CommonName": "Amur barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus lehoai",
+    "SpecCode": "62821",
+    "CommonName": "Hoa hobupardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus longirostris",
+    "SpecCode": "22907",
+    "CommonName": "Hrouz dlouhorypý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus macracanthus",
+    "SpecCode": "14402",
+    "CommonName": "Hrouz čínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus maculatus",
+    "SpecCode": "4752",
+    "CommonName": "&#33457;&#19579;",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus medius",
+    "SpecCode": "55967",
+    "CommonName": "Hrouz prostřední",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus mylodon",
+    "SpecCode": "25573",
+    "CommonName": "Korea hobupardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus qianjiangensis",
+    "SpecCode": "55969",
+    "CommonName": "Hrouz tonglunský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus songloensis",
+    "SpecCode": "62822",
+    "CommonName": "Lô hobupardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus thacmoensis",
+    "SpecCode": "62811",
+    "CommonName": "Gâmi hobupardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibarbus umbrifer",
+    "SpecCode": "54966",
+    "CommonName": "Hrouz kvantungský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

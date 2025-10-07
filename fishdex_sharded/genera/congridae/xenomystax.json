@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Xenomystax atrarius",
+    "SpecCode": "11478",
+    "CommonName": "Congre du large",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenomystax austrinus",
+    "SpecCode": "58527",
+    "CommonName": "Panama irvangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenomystax bidentatus",
+    "SpecCode": "5292",
+    "CommonName": "Ameerika irvangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenomystax congroides",
+    "SpecCode": "58529",
+    "CommonName": "Bristletooth conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenomystax trucidans",
+    "SpecCode": "54484",
+    "CommonName": "Kihv-irvangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

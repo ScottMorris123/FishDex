@@ -1,0 +1,17 @@
+{
+  "Family": "Zaniolepididae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Combfishes",
+  "Genera": [
+    {
+      "Genus": "Oxylebius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zaniolepididae/oxylebius.json"
+    },
+    {
+      "Genus": "Zaniolepis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/zaniolepididae/zaniolepis.json"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Family": "Batrachoididae",
+  "Order": "Batrachoidiformes",
+  "Common": "Toadfishes",
+  "Genera": [
+    {
+      "Genus": "Allenbatrachus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/batrachoididae/allenbatrachus.json"
+    },
+    {
+      "Genus": "Amphichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/batrachoididae/amphichthys.json"
+    },
+    {
+      "Genus": "Aphos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/batrachoididae/aphos.json"
+    },
+    {
+      "Genus": "Austrobatrachus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/batrachoididae/austrobatrachus.json"
+    },
+    {
+      "Genus": "Barchatus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/batrachoididae/barchatus.json"
+    },
+    {
+      "Genus": "Batrachoides",
+      "SpeciesCount": 9,
+      "genus_path": "genera/batrachoididae/batrachoides.json"
+    },
+    {
+      "Genus": "Batrachomoeus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/batrachoididae/batrachomoeus.json"
+    },
+    {
+      "Genus": "Batrichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/batrachoididae/batrichthys.json"
+    },
+    {
+      "Genus": "Bifax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/batrachoididae/bifax.json"
+    },
+    {
+      "Genus": "Chatrabus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/batrachoididae/chatrabus.json"
+    },
+    {
+      "Genus": "Colletteichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/batrachoididae/colletteichthys.json"
+    },
+    {
+      "Genus": "Daector",
+      "SpeciesCount": 5,
+      "genus_path": "genera/batrachoididae/daector.json"
+    },
+    {
+      "Genus": "Halobatrachus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/batrachoididae/halobatrachus.json"
+    },
+    {
+      "Genus": "Halophryne",
+      "SpeciesCount": 4,
+      "genus_path": "genera/batrachoididae/halophryne.json"
+    },
+    {
+      "Genus": "Opsanus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/batrachoididae/opsanus.json"
+    },
+    {
+      "Genus": "Perulibatrachus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/batrachoididae/perulibatrachus.json"
+    },
+    {
+      "Genus": "Porichthys",
+      "SpeciesCount": 14,
+      "genus_path": "genera/batrachoididae/porichthys.json"
+    },
+    {
+      "Genus": "Potamobatrachus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/batrachoididae/potamobatrachus.json"
+    },
+    {
+      "Genus": "Riekertia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/batrachoididae/riekertia.json"
+    },
+    {
+      "Genus": "Sanopus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/batrachoididae/sanopus.json"
+    },
+    {
+      "Genus": "Thalassophryne",
+      "SpeciesCount": 6,
+      "genus_path": "genera/batrachoididae/thalassophryne.json"
+    },
+    {
+      "Genus": "Triathalassothia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/batrachoididae/triathalassothia.json"
+    },
+    {
+      "Genus": "Vladichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/batrachoididae/vladichthys.json"
+    }
+  ]
+}

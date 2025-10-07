@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Crossostomus chilensis",
+    "SpecCode": "47984",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crossostomus fasciatus",
+    "SpecCode": "47985",
+    "CommonName": "Chigo-genge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

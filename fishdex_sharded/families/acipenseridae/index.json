@@ -1,0 +1,27 @@
+{
+  "Family": "Acipenseridae",
+  "Order": "Acipenseriformes",
+  "Common": "Sturgeons",
+  "Genera": [
+    {
+      "Genus": "Acipenser",
+      "SpeciesCount": 17,
+      "genus_path": "genera/acipenseridae/acipenser.json"
+    },
+    {
+      "Genus": "Huso",
+      "SpeciesCount": 2,
+      "genus_path": "genera/acipenseridae/huso.json"
+    },
+    {
+      "Genus": "Pseudoscaphirhynchus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/acipenseridae/pseudoscaphirhynchus.json"
+    },
+    {
+      "Genus": "Scaphirhynchus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/acipenseridae/scaphirhynchus.json"
+    }
+  ]
+}

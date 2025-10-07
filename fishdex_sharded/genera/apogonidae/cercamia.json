@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Cercamia cladara",
+    "SpecCode": "58339",
+    "CommonName": "Frail cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cercamia eremia",
+    "SpecCode": "14876",
+    "CommonName": "Glassy cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cercamia laamu",
+    "SpecCode": "70375",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cercamia mascarene",
+    "SpecCode": "70376",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cercamia melanogaster",
+    "SpecCode": "68762",
+    "CommonName": "Blackbelly cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cercamia spio",
+    "SpecCode": "70377",
+    "CommonName": "Red Sea nymph cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "ScientificName": "Chondrostoma angorense",
+    "SpecCode": "51789",
+    "CommonName": "Anatoolia kõhrsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma beysehirense",
+    "SpecCode": "50336",
+    "CommonName": "Beysehir nase",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma ceyhanense",
+    "SpecCode": "68498",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma colchicum",
+    "SpecCode": "47774",
+    "CommonName": "Colchian undermouth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma cyri",
+    "SpecCode": "48363",
+    "CommonName": "Kura kõhrsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma esmaeilii",
+    "SpecCode": "68493",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma fahirae",
+    "SpecCode": "52661",
+    "CommonName": "Incilevrek baligi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma holmwoodii",
+    "SpecCode": "25869",
+    "CommonName": "Izmir nase",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma kinzelbachi",
+    "SpecCode": "51794",
+    "CommonName": "Orontes nase",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma knerii",
+    "SpecCode": "26615",
+    "CommonName": "Dalmaatsia kõhrsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma kubanicum",
+    "SpecCode": "48351",
+    "CommonName": "Kubani kõhrsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma meandrense",
+    "SpecCode": "51795",
+    "CommonName": "Menderes nase",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma nasus",
+    "SpecCode": "4878",
+    "CommonName": "Alonge",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma orientale",
+    "SpecCode": "51796",
+    "CommonName": "Iraani kõhrsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma oxyrhynchum",
+    "SpecCode": "47782",
+    "CommonName": "Alazani kõhrsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma phoxinus",
+    "SpecCode": "25870",
+    "CommonName": "Elritsenæsling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma prespense",
+    "SpecCode": "25871",
+    "CommonName": "Njila e Prespës",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma regium",
+    "SpecCode": "51797",
+    "CommonName": "Baloot muluki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma scodrense",
+    "SpecCode": "46391",
+    "CommonName": "Ostroretka albánská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma soetta",
+    "SpecCode": "26616",
+    "CommonName": "Itaalia kõhrsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma toros",
+    "SpecCode": "68497",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma vardarense",
+    "SpecCode": "46393",
+    "CommonName": "Gourounomytis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chondrostoma variabile",
+    "SpecCode": "47785",
+    "CommonName": "Ostroretka volžská",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

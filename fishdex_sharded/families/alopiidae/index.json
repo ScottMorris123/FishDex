@@ -1,0 +1,12 @@
+{
+  "Family": "Alopiidae",
+  "Order": "Lamniformes",
+  "Common": "Thresher sharks",
+  "Genera": [
+    {
+      "Genus": "Alopias",
+      "SpeciesCount": 3,
+      "genus_path": "genera/alopiidae/alopias.json"
+    }
+  ]
+}

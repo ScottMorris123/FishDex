@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Anampses caeruleopunctatus",
+    "SpecCode": "4888",
+    "CommonName": "Alle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses chrysocephalus",
+    "SpecCode": "4919",
+    "CommonName": "Hvidplettet gylte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses cuvier",
+    "SpecCode": "4916",
+    "CommonName": "Cuvier's tamarin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses elegans",
+    "SpecCode": "4918",
+    "CommonName": "Elegant wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses femininus",
+    "SpecCode": "4892",
+    "CommonName": "Blue-striped orange tamarin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses geographicus",
+    "SpecCode": "4891",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses lennardi",
+    "SpecCode": "4917",
+    "CommonName": "Blue and yellow wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses lineatus",
+    "SpecCode": "7800",
+    "CommonName": "Deep-sea wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses melanurus",
+    "SpecCode": "5622",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses meleagrides",
+    "SpecCode": "4889",
+    "CommonName": "Bagondon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses neoguinaicus",
+    "SpecCode": "4890",
+    "CommonName": "Blackback wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anampses twistii",
+    "SpecCode": "4893",
+    "CommonName": "Donzella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

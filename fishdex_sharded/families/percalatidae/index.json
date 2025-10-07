@@ -1,0 +1,12 @@
+{
+  "Family": "Percalatidae",
+  "Order": "Centrarchiformes",
+  "Common": "Australian basses",
+  "Genera": [
+    {
+      "Genus": "Percalates",
+      "SpeciesCount": 2,
+      "genus_path": "genera/percalatidae/percalates.json"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Rhinosardinia amazonica",
+    "SpecCode": "1526",
+    "CommonName": "Amazon spinejaw sprat",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinosardinia bahiensis",
+    "SpecCode": "1527",
+    "CommonName": "Bahia ogasardiin",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ctenosciaena gracilicirrhus",
+    "SpecCode": "1168",
+    "CommonName": "Barbel drum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenosciaena peruviana",
+    "SpecCode": "14105",
+    "CommonName": "Breche con barbo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

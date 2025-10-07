@@ -1,0 +1,22 @@
+{
+  "Family": "Latidae",
+  "Order": "Carangaria/misc",
+  "Common": "Lates perches",
+  "Genera": [
+    {
+      "Genus": "Hypopterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/latidae/hypopterus.json"
+    },
+    {
+      "Genus": "Lates",
+      "SpeciesCount": 11,
+      "genus_path": "genera/latidae/lates.json"
+    },
+    {
+      "Genus": "Psammoperca",
+      "SpeciesCount": 2,
+      "genus_path": "genera/latidae/psammoperca.json"
+    }
+  ]
+}

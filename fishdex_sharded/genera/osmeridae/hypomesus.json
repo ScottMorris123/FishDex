@@ -1,0 +1,55 @@
+[
+  {
+    "ScientificName": "Hypomesus japonicus",
+    "SpecCode": "23752",
+    "CommonName": "Chika",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomesus nipponensis",
+    "SpecCode": "2695",
+    "CommonName": "Chishima wakasagi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomesus olidus",
+    "SpecCode": "254",
+    "CommonName": "cigarfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomesus pretiosus",
+    "SpecCode": "255",
+    "CommonName": "Brændingssmelt",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypomesus transpacificus",
+    "SpecCode": "2696",
+    "CommonName": "Delta Smelt",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

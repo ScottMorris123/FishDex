@@ -1,0 +1,22 @@
+{
+  "Family": "Grammicolepididae",
+  "Order": "Zeiformes",
+  "Common": "Grammicolepidids",
+  "Genera": [
+    {
+      "Genus": "Grammicolepis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/grammicolepididae/grammicolepis.json"
+    },
+    {
+      "Genus": "Macrurocyttus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/grammicolepididae/macrurocyttus.json"
+    },
+    {
+      "Genus": "Xenolepidichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/grammicolepididae/xenolepidichthys.json"
+    }
+  ]
+}

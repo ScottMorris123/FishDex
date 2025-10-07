@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Enneacampus ansorgii",
+    "SpecCode": "9889",
+    "CommonName": "Kleine Süßwassernadel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enneacampus kaupi",
+    "SpecCode": "2480",
+    "CommonName": "Syngnathe",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

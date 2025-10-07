@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pseudopoecilia austrocolumbiana",
+    "SpecCode": "47316",
+    "CommonName": "Narino toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopoecilia festae",
+    "SpecCode": "47320",
+    "CommonName": "Festa toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopoecilia fria",
+    "SpecCode": "53657",
+    "CommonName": "Camotillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

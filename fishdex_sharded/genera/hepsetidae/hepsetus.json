@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Hepsetus cuvieri",
+    "SpecCode": "67377",
+    "CommonName": "African pike",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hepsetus kingsleyae",
+    "SpecCode": "66928",
+    "CommonName": "Brochet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hepsetus lineatus",
+    "SpecCode": "67048",
+    "CommonName": "Brochet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hepsetus microlepis",
+    "SpecCode": "68198",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hepsetus occidentalis",
+    "SpecCode": "66316",
+    "CommonName": "K-thin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hepsetus odoe",
+    "SpecCode": "4530",
+    "CommonName": "African pike",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

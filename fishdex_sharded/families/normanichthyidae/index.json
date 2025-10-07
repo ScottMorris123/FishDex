@@ -1,0 +1,12 @@
+{
+  "Family": "Normanichthyidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Barehead scorpionfishes",
+  "Genera": [
+    {
+      "Genus": "Normanichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/normanichthyidae/normanichthys.json"
+    }
+  ]
+}

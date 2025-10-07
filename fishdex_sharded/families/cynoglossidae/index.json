@@ -1,0 +1,22 @@
+{
+  "Family": "Cynoglossidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Tonguefishes",
+  "Genera": [
+    {
+      "Genus": "Cynoglossus",
+      "SpeciesCount": 67,
+      "genus_path": "genera/cynoglossidae/cynoglossus.json"
+    },
+    {
+      "Genus": "Paraplagusia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cynoglossidae/paraplagusia.json"
+    },
+    {
+      "Genus": "Symphurus",
+      "SpeciesCount": 88,
+      "genus_path": "genera/cynoglossidae/symphurus.json"
+    }
+  ]
+}

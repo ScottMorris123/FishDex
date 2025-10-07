@@ -1,0 +1,17 @@
+{
+  "Family": "Merlucciidae",
+  "Order": "Gadiformes",
+  "Common": "Merluccid hakes",
+  "Genera": [
+    {
+      "Genus": "Lyconodes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/merlucciidae/lyconodes.json"
+    },
+    {
+      "Genus": "Merluccius",
+      "SpeciesCount": 16,
+      "genus_path": "genera/merlucciidae/merluccius.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Acanthopsoides delphax",
+    "SpecCode": "26858",
+    "CommonName": "Sekavec řadoskvrnný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopsoides gracilentus",
+    "SpecCode": "26859",
+    "CommonName": "Kiitsak-koonhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopsoides gracilis",
+    "SpecCode": "26913",
+    "CommonName": "Pikkukärsänuoliainen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopsoides hapalias",
+    "SpecCode": "26860",
+    "CommonName": "Põrsik-koonhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopsoides molobrion",
+    "SpecCode": "23006",
+    "CommonName": "Sekavec makahamský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopsoides namromensis",
+    "SpecCode": "65707",
+    "CommonName": "Põhjavietnami koonhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthopsoides robertsi",
+    "SpecCode": "23008",
+    "CommonName": "Robertsi koonhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

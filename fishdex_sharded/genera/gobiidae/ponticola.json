@@ -1,0 +1,135 @@
+[
+  {
+    "ScientificName": "Ponticola bathybius",
+    "SpecCode": "47962",
+    "CommonName": "Deepwater goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola cephalargoides",
+    "SpecCode": "57322",
+    "CommonName": "Бичок Пінчука",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola constructor",
+    "SpecCode": "48261",
+    "CommonName": "Blackbelly river goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola cyrius",
+    "SpecCode": "54777",
+    "CommonName": "Gel-ye Mahi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola eurycephalus",
+    "SpecCode": "48343",
+    "CommonName": "Kayabalığı",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola gorlap",
+    "SpecCode": "49693",
+    "CommonName": "Caspian bighead goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola iranicus",
+    "SpecCode": "67809",
+    "CommonName": "Gavmahi-e-Irani",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola kessleri",
+    "SpecCode": "25977",
+    "CommonName": "Bighead goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola platyrostris",
+    "SpecCode": "25979",
+    "CommonName": "Bychok-guban",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola ratan",
+    "SpecCode": "25980",
+    "CommonName": "Bychok-ratan",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola rhodioni",
+    "SpecCode": "47965",
+    "CommonName": "Riverine goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola rizensis",
+    "SpecCode": "63858",
+    "CommonName": "Iyidere goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola syrman",
+    "SpecCode": "25982",
+    "CommonName": "Bychok-sirman",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ponticola turani",
+    "SpecCode": "63859",
+    "CommonName": "Aksu goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

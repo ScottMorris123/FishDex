@@ -1,0 +1,563 @@
+[
+  {
+    "ScientificName": "Clarias abbreviatus",
+    "SpecCode": "51047",
+    "CommonName": "短胡鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias agboyiensis",
+    "SpecCode": "2098",
+    "CommonName": "Abugu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias albopunctatus",
+    "SpecCode": "2097",
+    "CommonName": "Abugu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias alluaudi",
+    "SpecCode": "2103",
+    "CommonName": "Alluaud's catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias anfractus",
+    "SpecCode": "58346",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias angolensis",
+    "SpecCode": "2092",
+    "CommonName": "Angolanankeriasmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias anguillaris",
+    "SpecCode": "376",
+    "CommonName": "Abu shanab",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias batrachus",
+    "SpecCode": "3054",
+    "CommonName": "Aasia angersäga",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias batu",
+    "SpecCode": "55098",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias brachysoma",
+    "SpecCode": "13394",
+    "CommonName": "Magura",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias buettikoferi",
+    "SpecCode": "2096",
+    "CommonName": "比氏胡鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias buthupogon",
+    "SpecCode": "2095",
+    "CommonName": "Abugu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias camerunensis",
+    "SpecCode": "2111",
+    "CommonName": "Abugu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias cataractus",
+    "SpecCode": "26982",
+    "CommonName": "泰国巨噬胡鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias cavernicola",
+    "SpecCode": "2106",
+    "CommonName": "Blinder Höhlenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias dayi",
+    "SpecCode": "24958",
+    "CommonName": "Malabar clariid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias dhonti",
+    "SpecCode": "2315",
+    "CommonName": "德氏胡鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias dumerilii",
+    "SpecCode": "2110",
+    "CommonName": "Ruskoankeriasmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias dussumieri",
+    "SpecCode": "13396",
+    "CommonName": "Anae-meenu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias ebriensis",
+    "SpecCode": "2105",
+    "CommonName": "Abugu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias engelseni",
+    "SpecCode": "2316",
+    "CommonName": "恩氏胡鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias fuscus",
+    "SpecCode": "293",
+    "CommonName": "Cá Trê đen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias gabonensis",
+    "SpecCode": "2094",
+    "CommonName": "Gaboninkonnamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias gariepinus",
+    "SpecCode": "1934",
+    "CommonName": "Aalbüschelwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias gracilentus",
+    "SpecCode": "66040",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias hilli",
+    "SpecCode": "2317",
+    "CommonName": "希氏胡鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias insolitus",
+    "SpecCode": "61617",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias intermedius",
+    "SpecCode": "60779",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias jaensis",
+    "SpecCode": "237",
+    "CommonName": "Oluma",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias kapuasensis",
+    "SpecCode": "61437",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias laeviceps",
+    "SpecCode": "2108",
+    "CommonName": "Catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias lamottei",
+    "SpecCode": "1932",
+    "CommonName": "拉氏胡鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias leiacanthus",
+    "SpecCode": "23323",
+    "CommonName": "Kelih",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias liocephalus",
+    "SpecCode": "2313",
+    "CommonName": "Emale",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias longior",
+    "SpecCode": "2314",
+    "CommonName": "長鬍鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias maclareni",
+    "SpecCode": "2091",
+    "CommonName": "麥氏鬍鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias macrocephalus",
+    "SpecCode": "4805",
+    "CommonName": "Alimudan",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias macromystax",
+    "SpecCode": "2093",
+    "CommonName": "Oluma",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias magur",
+    "SpecCode": "66088",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias meladerma",
+    "SpecCode": "23341",
+    "CommonName": "Blackskin catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias microspilus",
+    "SpecCode": "65995",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias microstomus",
+    "SpecCode": "58345",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias monsembulai",
+    "SpecCode": "69831",
+    "CommonName": "Monsembula catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias nebulosus",
+    "SpecCode": "51048",
+    "CommonName": "云纹胡鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias ngamensis",
+    "SpecCode": "2089",
+    "CommonName": "Akabukula",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias nieuhofii",
+    "SpecCode": "23346",
+    "CommonName": "Itu-itu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias nigricans",
+    "SpecCode": "62258",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias nigromarmoratus",
+    "SpecCode": "2107",
+    "CommonName": "Kabofo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias olivaceus",
+    "SpecCode": "55096",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias pachynema",
+    "SpecCode": "2102",
+    "CommonName": "Abugu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias planiceps",
+    "SpecCode": "55097",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias platycephalus",
+    "SpecCode": "990",
+    "CommonName": "Kambangaji",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias pseudoleiacanthus",
+    "SpecCode": "61436",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias pseudonieuhofii",
+    "SpecCode": "62007",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias salae",
+    "SpecCode": "2099",
+    "CommonName": "Ruostekonnamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias serniosus",
+    "SpecCode": "67766",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias stappersii",
+    "SpecCode": "2090",
+    "CommonName": "Blotched catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias submarginatus",
+    "SpecCode": "2100",
+    "CommonName": "Blotched catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias sulcatus",
+    "SpecCode": "62223",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias teijsmanni",
+    "SpecCode": "23377",
+    "CommonName": "Itu-itu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias theodorae",
+    "SpecCode": "2101",
+    "CommonName": "Kambangaji",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clarias werneri",
+    "SpecCode": "2104",
+    "CommonName": "Abu shanab",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

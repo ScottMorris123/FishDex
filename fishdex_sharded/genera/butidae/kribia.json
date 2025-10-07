@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Kribia kribensis",
+    "SpecCode": "10018",
+    "CommonName": "Kongontorkkuja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kribia leonensis",
+    "SpecCode": "10020",
+    "CommonName": "莱昂克列比塘鳢",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kribia nana",
+    "SpecCode": "10021",
+    "CommonName": "Kääpiötorkkuja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kribia uellensis",
+    "SpecCode": "10022",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

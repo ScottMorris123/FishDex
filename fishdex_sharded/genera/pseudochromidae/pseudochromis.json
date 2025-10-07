@@ -1,0 +1,650 @@
+[
+  {
+    "ScientificName": "Pseudochromis aldabraensis",
+    "SpecCode": "26181",
+    "CommonName": "Aldabra tilluahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis alticaudex",
+    "SpecCode": "65049",
+    "CommonName": "Spotbreast dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis ammeri",
+    "SpecCode": "66427",
+    "CommonName": "Raja Ampat Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis andamanensis",
+    "SpecCode": "46484",
+    "CommonName": "Andaman dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis aureolineatus",
+    "SpecCode": "65051",
+    "CommonName": "Gold-lined dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis aurulentus",
+    "SpecCode": "59001",
+    "CommonName": "Yellowlip dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis bitaeniatus",
+    "SpecCode": "12654",
+    "CommonName": "Double-stripe dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis caudalis",
+    "SpecCode": "26186",
+    "CommonName": "Bandtail dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis chrysospilus",
+    "SpecCode": "66336",
+    "CommonName": "Gold-spotted dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis coccinicauda",
+    "SpecCode": "25685",
+    "CommonName": "Yellow-breasted dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis colei",
+    "SpecCode": "59002",
+    "CommonName": "False Bandit Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis cometes",
+    "SpecCode": "59003",
+    "CommonName": "Commet dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis cyanotaenia",
+    "SpecCode": "14279",
+    "CommonName": "Bluebarred dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis dilectus",
+    "SpecCode": "61085",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis dixurus",
+    "SpecCode": "24442",
+    "CommonName": "Forktail dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis dutoiti",
+    "SpecCode": "8003",
+    "CommonName": "Dutoiti",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis eichleri",
+    "SpecCode": "66428",
+    "CommonName": "Eichler's Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis elongatus",
+    "SpecCode": "46486",
+    "CommonName": "Elongate dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis erdmanni",
+    "SpecCode": "66151",
+    "CommonName": "Erdmann's Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis flammicauda",
+    "SpecCode": "15001",
+    "CommonName": "Firetail dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis flavivertex",
+    "SpecCode": "12738",
+    "CommonName": "Blågul koralsmutte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis flavopunctatus",
+    "SpecCode": "59004",
+    "CommonName": "Yellow-spotted dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis fowleri",
+    "SpecCode": "59005",
+    "CommonName": "Philippines dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis fridmani",
+    "SpecCode": "12741",
+    "CommonName": "Fridmani tilluahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis fuligifinis",
+    "SpecCode": "66393",
+    "CommonName": "Soot-tail Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis fuscus",
+    "SpecCode": "6627",
+    "CommonName": "Brown dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis howsoni",
+    "SpecCode": "59006",
+    "CommonName": "Howson's dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis jace",
+    "SpecCode": "63705",
+    "CommonName": "Zippered dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis jamesi",
+    "SpecCode": "15003",
+    "CommonName": "Spot-tail dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis kolythrus",
+    "SpecCode": "26769",
+    "CommonName": "新喀里多尼亚拟雀鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis kristinae",
+    "SpecCode": "65052",
+    "CommonName": "Lipstick dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis leucorhynchus",
+    "SpecCode": "26799",
+    "CommonName": "White-nosed dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis linda",
+    "SpecCode": "26804",
+    "CommonName": "False Olive dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis litus",
+    "SpecCode": "59007",
+    "CommonName": "Plain dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis lugubris",
+    "SpecCode": "65040",
+    "CommonName": "Mournful dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis luteus",
+    "SpecCode": "59008",
+    "CommonName": "Orange dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis madagascariensis",
+    "SpecCode": "65053",
+    "CommonName": "Madagascan dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis magnificus",
+    "SpecCode": "61086",
+    "CommonName": "Magnificent dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis marshallensis",
+    "SpecCode": "7323",
+    "CommonName": "Marshall dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis matahari",
+    "SpecCode": "64903",
+    "CommonName": "Sunburst Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis melanurus",
+    "SpecCode": "65054",
+    "CommonName": "Blacktail dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis melas",
+    "SpecCode": "23601",
+    "CommonName": "Bicoloured dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis mooii",
+    "SpecCode": "65055",
+    "CommonName": "Mooi's dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis moorei",
+    "SpecCode": "57898",
+    "CommonName": "Jaguar dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis natalensis",
+    "SpecCode": "7973",
+    "CommonName": "Natal dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis nigrovittatus",
+    "SpecCode": "26810",
+    "CommonName": "Blackstripe dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis oligochrysus",
+    "SpecCode": "66415",
+    "CommonName": "Gold-ring Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis olivaceus",
+    "SpecCode": "24440",
+    "CommonName": "Olive dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis omanensis",
+    "SpecCode": "26817",
+    "CommonName": "阿曼拟雀鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis persicus",
+    "SpecCode": "24446",
+    "CommonName": "Bluespotted dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis perspicillatus",
+    "SpecCode": "24444",
+    "CommonName": "Blackstripe dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis pesi",
+    "SpecCode": "12653",
+    "CommonName": "Kaame tilluahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis pictus",
+    "SpecCode": "59009",
+    "CommonName": "Painted dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis punctatus",
+    "SpecCode": "58290",
+    "CommonName": "Blackback dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis pylei",
+    "SpecCode": "24445",
+    "CommonName": "Pyle's dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis quinquedentatus",
+    "SpecCode": "10541",
+    "CommonName": "Spiny dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis ransonneti",
+    "SpecCode": "57899",
+    "CommonName": "Buklak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis reticulatus",
+    "SpecCode": "26840",
+    "CommonName": "Reticulate dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis rutilus",
+    "SpecCode": "66416",
+    "CommonName": "Red-gold Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis sankeyi",
+    "SpecCode": "24443",
+    "CommonName": "Schooling dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis socotraensis",
+    "SpecCode": "66337",
+    "CommonName": "Socotra Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis springeri",
+    "SpecCode": "24441",
+    "CommonName": "Blue-striped dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis steenei",
+    "SpecCode": "14478",
+    "CommonName": "Lyretail dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis stellatus",
+    "SpecCode": "69249",
+    "CommonName": "Greenhead dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis striatus",
+    "SpecCode": "26785",
+    "CommonName": "Striated dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis tapeinosoma",
+    "SpecCode": "14274",
+    "CommonName": "Black-banded dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis tauberae",
+    "SpecCode": "23639",
+    "CommonName": "Lightheaded dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis tigrinus",
+    "SpecCode": "66860",
+    "CommonName": "Tiger dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis tonozukai",
+    "SpecCode": "65041",
+    "CommonName": "Spot-stripe dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis viridis",
+    "SpecCode": "26828",
+    "CommonName": "Green dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis wilsoni",
+    "SpecCode": "15017",
+    "CommonName": "Yellowfin dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochromis yamasakii",
+    "SpecCode": "69260",
+    "CommonName": "Dottybelly dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

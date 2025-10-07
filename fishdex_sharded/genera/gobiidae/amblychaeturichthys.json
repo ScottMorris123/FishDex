@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Amblychaeturichthys hexanema",
+    "SpecCode": "15855",
+    "CommonName": "Akahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblychaeturichthys sciistius",
+    "SpecCode": "15856",
+    "CommonName": "Komochijako",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

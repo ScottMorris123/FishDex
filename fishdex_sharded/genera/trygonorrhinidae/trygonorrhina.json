@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Trygonorrhina dumerilii",
+    "SpecCode": "67698",
+    "CommonName": "Black and white fiddler ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trygonorrhina fasciata",
+    "SpecCode": "8733",
+    "CommonName": "Banjo shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

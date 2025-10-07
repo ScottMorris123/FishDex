@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Makaira mazara",
+    "SpecCode": "218",
+    "CommonName": "Aburakajiki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Makaira nigricans",
+    "SpecCode": "216",
+    "CommonName": "Abanico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

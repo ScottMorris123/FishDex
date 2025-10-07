@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lepidophanes gaussi",
+    "SpecCode": "619",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidophanes guentheri",
+    "SpecCode": "6591",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

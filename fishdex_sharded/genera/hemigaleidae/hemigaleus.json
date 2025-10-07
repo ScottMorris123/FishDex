@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Hemigaleus australiensis",
+    "SpecCode": "62544",
+    "CommonName": "Austraalia nirkhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigaleus microstoma",
+    "SpecCode": "5897",
+    "CommonName": "Cá Nhám miệng hẹp",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

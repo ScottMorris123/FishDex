@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lopholatilus chamaeleonticeps",
+    "SpecCode": "362",
+    "CommonName": "Blanquillo camello",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lopholatilus villarii",
+    "SpecCode": "15383",
+    "CommonName": "Batata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

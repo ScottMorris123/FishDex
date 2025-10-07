@@ -1,0 +1,57 @@
+{
+  "Family": "Leiognathidae",
+  "Order": "Acanthuriformes",
+  "Common": "Slimys, slipmouths, or ponyfishes",
+  "Genera": [
+    {
+      "Genus": "Aurigequula",
+      "SpeciesCount": 3,
+      "genus_path": "genera/leiognathidae/aurigequula.json"
+    },
+    {
+      "Genus": "Deveximentum",
+      "SpeciesCount": 8,
+      "genus_path": "genera/leiognathidae/deveximentum.json"
+    },
+    {
+      "Genus": "Equulites",
+      "SpeciesCount": 12,
+      "genus_path": "genera/leiognathidae/equulites.json"
+    },
+    {
+      "Genus": "Eubleekeria",
+      "SpeciesCount": 4,
+      "genus_path": "genera/leiognathidae/eubleekeria.json"
+    },
+    {
+      "Genus": "Gazza",
+      "SpeciesCount": 5,
+      "genus_path": "genera/leiognathidae/gazza.json"
+    },
+    {
+      "Genus": "Karalla",
+      "SpeciesCount": 2,
+      "genus_path": "genera/leiognathidae/karalla.json"
+    },
+    {
+      "Genus": "Leiognathus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/leiognathidae/leiognathus.json"
+    },
+    {
+      "Genus": "Nuchequula",
+      "SpeciesCount": 7,
+      "genus_path": "genera/leiognathidae/nuchequula.json"
+    },
+    {
+      "Genus": "Photolateralis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/leiognathidae/photolateralis.json"
+    },
+    {
+      "Genus": "Photopectoralis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/leiognathidae/photopectoralis.json"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Family": "Pinguipedidae",
+  "Order": "Perciformes/Uranoscopoidei",
+  "Common": "Sandperches",
+  "Genera": [
+    {
+      "Genus": "Kochichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pinguipedidae/kochichthys.json"
+    },
+    {
+      "Genus": "Parapercis",
+      "SpeciesCount": 87,
+      "genus_path": "genera/pinguipedidae/parapercis.json"
+    },
+    {
+      "Genus": "Pinguipes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pinguipedidae/pinguipes.json"
+    },
+    {
+      "Genus": "Prolatilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pinguipedidae/prolatilus.json"
+    },
+    {
+      "Genus": "Pseudopercis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pinguipedidae/pseudopercis.json"
+    },
+    {
+      "Genus": "Ryukyupercis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pinguipedidae/ryukyupercis.json"
+    },
+    {
+      "Genus": "Simipercis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pinguipedidae/simipercis.json"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Campostoma anomalum",
+    "SpecCode": "2743",
+    "CommonName": "Central stoneroller",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campostoma oligolepis",
+    "SpecCode": "2744",
+    "CommonName": "Jelec velkošupinatý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campostoma ornatum",
+    "SpecCode": "2745",
+    "CommonName": "Jelec mexický",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campostoma pauciradii",
+    "SpecCode": "10149",
+    "CommonName": "Bluefin stoneroller",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campostoma pullum",
+    "SpecCode": "56222",
+    "CommonName": "Central stoneroller",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campostoma spadiceum",
+    "SpecCode": "67386",
+    "CommonName": "Highland stoneroller",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Fowlerichthys avalonis",
+    "SpecCode": "3083",
+    "CommonName": "Grenouille ocellée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowlerichthys ocellatus",
+    "SpecCode": "3085",
+    "CommonName": "Ocellated frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowlerichthys radiosus",
+    "SpecCode": "3087",
+    "CommonName": "Antennaire à gros yeux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowlerichthys scriptissimus",
+    "SpecCode": "60321",
+    "CommonName": "Calico frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fowlerichthys senegalensis",
+    "SpecCode": "12804",
+    "CommonName": "Antennaire du Sénégal",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

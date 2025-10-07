@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Puzanovia rubra",
+    "SpecCode": "23822",
+    "CommonName": "Akagenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Puzanovia virgata",
+    "SpecCode": "47909",
+    "CommonName": "多纹红绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

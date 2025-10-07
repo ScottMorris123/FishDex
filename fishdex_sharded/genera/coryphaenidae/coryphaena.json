@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Coryphaena equiselis",
+    "SpecCode": "7",
+    "CommonName": "Agama",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaena hippurus",
+    "SpecCode": "6",
+    "CommonName": "Abanoos",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

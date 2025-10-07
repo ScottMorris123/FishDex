@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Brachaluteres fahaqa",
+    "SpecCode": "66818",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachaluteres jacksonianus",
+    "SpecCode": "14534",
+    "CommonName": "Pigmy leatherjacket",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachaluteres taylori",
+    "SpecCode": "22547",
+    "CommonName": "Pigmy leatherjacket",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachaluteres ulvarum",
+    "SpecCode": "24253",
+    "CommonName": "Aosahagi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

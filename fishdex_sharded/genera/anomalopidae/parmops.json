@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parmops coruscans",
+    "SpecCode": "54002",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parmops echinatus",
+    "SpecCode": "60310",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

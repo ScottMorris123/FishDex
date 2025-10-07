@@ -1,0 +1,713 @@
+[
+  {
+    "ScientificName": "Chromis abyssicola",
+    "SpecCode": "11850",
+    "CommonName": "Deepsea chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis abyssus",
+    "SpecCode": "63552",
+    "CommonName": "Deep blue Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis albicauda",
+    "SpecCode": "65211",
+    "CommonName": "White-caudal chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis albomaculata",
+    "SpecCode": "11851",
+    "CommonName": "Shiroboshi-suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis alpha",
+    "SpecCode": "5670",
+    "CommonName": "Alpha chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis alta",
+    "SpecCode": "11853",
+    "CommonName": "Castañeta alta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis anadema",
+    "SpecCode": "70468",
+    "CommonName": "Kanzashi-suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis analis",
+    "SpecCode": "6551",
+    "CommonName": "Brown puller",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis athena",
+    "SpecCode": "64762",
+    "CommonName": "Athena chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis atripectoralis",
+    "SpecCode": "5450",
+    "CommonName": "Aoba-suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis axillaris",
+    "SpecCode": "11854",
+    "CommonName": "Grey chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis bowesi",
+    "SpecCode": "69007",
+    "CommonName": "Rhomboid Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis cadenati",
+    "SpecCode": "11857",
+    "CommonName": "Cadenat's chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis chromis",
+    "SpecCode": "1706",
+    "CommonName": "Caligher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis chrysura",
+    "SpecCode": "6656",
+    "CommonName": "Amami suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis cinerascens",
+    "SpecCode": "11858",
+    "CommonName": "Gombing",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis circumaurea",
+    "SpecCode": "63554",
+    "CommonName": "Gold-rim Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis crusma",
+    "SpecCode": "11859",
+    "CommonName": "Castañeta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis dasygenys",
+    "SpecCode": "11860",
+    "CommonName": "Blouspikkel-chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis degruyi",
+    "SpecCode": "63555",
+    "CommonName": "DeGruy's Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis dispila",
+    "SpecCode": "56865",
+    "CommonName": "Demoiselle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis durvillei",
+    "SpecCode": "65986",
+    "CommonName": "Bourbon Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis earina",
+    "SpecCode": "63556",
+    "CommonName": "Spring Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis enchrysurus",
+    "SpecCode": "3643",
+    "CommonName": "Caribbean chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis flavapicis",
+    "SpecCode": "58948",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis flavaxilla",
+    "SpecCode": "26638",
+    "CommonName": "Arabian chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis flavicauda",
+    "SpecCode": "11862",
+    "CommonName": "Cobalt chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis flavomaculata",
+    "SpecCode": "12418",
+    "CommonName": "Kihoshi-suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis fumea",
+    "SpecCode": "10842",
+    "CommonName": "Damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis gunting",
+    "SpecCode": "69005",
+    "CommonName": "Scissors Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis hangganan",
+    "SpecCode": "69006",
+    "CommonName": "Dark-margin Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis hypsilepis",
+    "SpecCode": "9218",
+    "CommonName": "Brown puller",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis insolata",
+    "SpecCode": "3644",
+    "CommonName": "Castañeta sol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis jubauna",
+    "SpecCode": "50101",
+    "CommonName": "巴西光鰓魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis kennensis",
+    "SpecCode": "67999",
+    "CommonName": "肯礁光鰓魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis klunzingeri",
+    "SpecCode": "11866",
+    "CommonName": "Blackhead puller",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis limbata",
+    "SpecCode": "11868",
+    "CommonName": "Azores chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis limbaughi",
+    "SpecCode": "11869",
+    "CommonName": "Blue-and-yellow chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis lubbocki",
+    "SpecCode": "12419",
+    "CommonName": "Lubbock's chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis mamatapara",
+    "SpecCode": "69351",
+    "CommonName": "Castañeta de Michel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis mirationis",
+    "SpecCode": "12422",
+    "CommonName": "Bigeye chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis monochroma",
+    "SpecCode": "64210",
+    "CommonName": "Monochrome chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis nigroanalis",
+    "SpecCode": "12423",
+    "CommonName": "Kenyan chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis nitida",
+    "SpecCode": "9225",
+    "CommonName": "Barrier reef chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis norfolkensis",
+    "SpecCode": "69577",
+    "CommonName": "Norfolk Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis notata",
+    "SpecCode": "12425",
+    "CommonName": "Bān qí guāng sāi yú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis okamurai",
+    "SpecCode": "12426",
+    "CommonName": "Okinawa chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis onumai",
+    "SpecCode": "63941",
+    "CommonName": "Ryusei-suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis opercularis",
+    "SpecCode": "12427",
+    "CommonName": "'Atoti",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis ovalis",
+    "SpecCode": "7818",
+    "CommonName": "Blue damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis pamae",
+    "SpecCode": "26693",
+    "CommonName": "南太平洋光鰓魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis pelloura",
+    "SpecCode": "12428",
+    "CommonName": "Duskytail chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis pembae",
+    "SpecCode": "12429",
+    "CommonName": "Pemba chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis planesi",
+    "SpecCode": "62017",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis punctipinnis",
+    "SpecCode": "3646",
+    "CommonName": "Blacksmith",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis pura",
+    "SpecCode": "64212",
+    "CommonName": "Pura chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis randalli",
+    "SpecCode": "9226",
+    "CommonName": "Māmata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis sahulensis",
+    "SpecCode": "69578",
+    "CommonName": "Sahul Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis sanctaehelenae",
+    "SpecCode": "12430",
+    "CommonName": "Bastard Cavalley Pilot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis scotochiloptera",
+    "SpecCode": "12431",
+    "CommonName": "Philippines chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis scotti",
+    "SpecCode": "3647",
+    "CommonName": "Azulejo de canto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis struhsakeri",
+    "SpecCode": "9227",
+    "CommonName": "Struhsaker's chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis ternatensis",
+    "SpecCode": "5677",
+    "CommonName": "Apiapi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis tingting",
+    "SpecCode": "69028",
+    "CommonName": "Gekko-suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis torquata",
+    "SpecCode": "69611",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis trialpha",
+    "SpecCode": "12432",
+    "CommonName": "Leuchtpunkt-Chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis unipa",
+    "SpecCode": "65214",
+    "CommonName": "Unipa chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis vanbebberae",
+    "SpecCode": "69363",
+    "CommonName": "Castañeta coliblanca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis verater",
+    "SpecCode": "7819",
+    "CommonName": "Threespot chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis viridis",
+    "SpecCode": "5679",
+    "CommonName": "'Atoti",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis weberi",
+    "SpecCode": "5680",
+    "CommonName": "Damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis westaustralis",
+    "SpecCode": "12433",
+    "CommonName": "West Australian chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis woodsi",
+    "SpecCode": "12434",
+    "CommonName": "Spiny chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis xanthochira",
+    "SpecCode": "5681",
+    "CommonName": "Gombing",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis xanthopterygia",
+    "SpecCode": "12436",
+    "CommonName": "Arabian chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis xanthura",
+    "SpecCode": "5682",
+    "CommonName": "Black chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis xouthos",
+    "SpecCode": "63874",
+    "CommonName": "Yellow-brown chromis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis xutha",
+    "SpecCode": "12437",
+    "CommonName": "Bêju-suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chromis yamakawai",
+    "SpecCode": "67940",
+    "CommonName": "Kihoshi-suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rhinolekos britskii",
+    "SpecCode": "66002",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinolekos capetinga",
+    "SpecCode": "68113",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinolekos garavelloi",
+    "SpecCode": "66003",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinolekos schaeferi",
+    "SpecCode": "66007",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

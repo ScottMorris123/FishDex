@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Gadopsis bispinosus",
+    "SpecCode": "22752",
+    "CommonName": "Twospine blackfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadopsis marmoratus",
+    "SpecCode": "4342",
+    "CommonName": "Aalrute",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

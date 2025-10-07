@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lipophrys pholis",
+    "SpecCode": "9200",
+    "CommonName": "Almindelig tangkvabbe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lipophrys trigloides",
+    "SpecCode": "16301",
+    "CommonName": "Babica batoglava",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

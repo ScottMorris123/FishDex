@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Pseudohomaloptera batek",
+    "SpecCode": "65033",
+    "CommonName": "Batik-lameuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohomaloptera leonardi",
+    "SpecCode": "26825",
+    "CommonName": "Balitora leonardova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohomaloptera sexmaculata",
+    "SpecCode": "26876",
+    "CommonName": "Balitora šestiskrvrnná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohomaloptera tatereganii",
+    "SpecCode": "22883",
+    "CommonName": "Balitora Tatereganova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohomaloptera vulgaris",
+    "SpecCode": "56802",
+    "CommonName": "Balitora obecná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohomaloptera yunnanensis",
+    "SpecCode": "50810",
+    "CommonName": "Balitora junanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

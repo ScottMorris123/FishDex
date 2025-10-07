@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Bathymyrus echinorhynchus",
+    "SpecCode": "63164",
+    "CommonName": "Kare riivikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathymyrus simus",
+    "SpecCode": "58552",
+    "CommonName": "Tömp riivikangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathymyrus smithi",
+    "SpecCode": "7673",
+    "CommonName": "Cá Chình",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

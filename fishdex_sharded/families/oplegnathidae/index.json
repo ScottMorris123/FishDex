@@ -1,0 +1,12 @@
+{
+  "Family": "Oplegnathidae",
+  "Order": "Centrarchiformes",
+  "Common": "Knifejaws",
+  "Genera": [
+    {
+      "Genus": "Oplegnathus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/oplegnathidae/oplegnathus.json"
+    }
+  ]
+}

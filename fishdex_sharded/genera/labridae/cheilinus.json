@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Cheilinus abudjubbe",
+    "SpecCode": "60813",
+    "CommonName": "Abudjubbe´i hiidhuulkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilinus chlorourus",
+    "SpecCode": "5598",
+    "CommonName": "Akaten-mochino-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilinus fasciatus",
+    "SpecCode": "5600",
+    "CommonName": "Angol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilinus lunulatus",
+    "SpecCode": "12780",
+    "CommonName": "Besenschwanz Lippfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilinus oxycephalus",
+    "SpecCode": "5602",
+    "CommonName": "Bo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilinus quinquecinctus",
+    "SpecCode": "69146",
+    "CommonName": "Whitebarred wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilinus trilobatus",
+    "SpecCode": "5603",
+    "CommonName": "Adeyaoch",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilinus undulatus",
+    "SpecCode": "5604",
+    "CommonName": "Afaafa tai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

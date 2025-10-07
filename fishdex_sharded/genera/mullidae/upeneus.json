@@ -1,0 +1,466 @@
+[
+  {
+    "ScientificName": "Upeneus andamanensis",
+    "SpecCode": "70603",
+    "CommonName": "Andaman goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus asymmetricus",
+    "SpecCode": "10815",
+    "CommonName": "Assymetrical goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus aurorae",
+    "SpecCode": "70600",
+    "CommonName": "Aurora goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus australiae",
+    "SpecCode": "59750",
+    "CommonName": "Australian goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus brevignathus",
+    "SpecCode": "70602",
+    "CommonName": "Shortjaw Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus caudofasciatus",
+    "SpecCode": "69276",
+    "CommonName": "Tailbar goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus davidaromi",
+    "SpecCode": "60913",
+    "CommonName": "Arom's Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus dimipavlov",
+    "SpecCode": "69406",
+    "CommonName": "Pavlov's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus doriae",
+    "SpecCode": "28129",
+    "CommonName": "Gilded goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus elongatus",
+    "SpecCode": "69407",
+    "CommonName": "Elongate goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus farnis",
+    "SpecCode": "69107",
+    "CommonName": "Farnis' goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus filifer",
+    "SpecCode": "60915",
+    "CommonName": "Pennant goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus floros",
+    "SpecCode": "69275",
+    "CommonName": "Floros goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus francisi",
+    "SpecCode": "12820",
+    "CommonName": "Francis' goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus gubal",
+    "SpecCode": "69277",
+    "CommonName": "Gubal goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus guttatus",
+    "SpecCode": "62425",
+    "CommonName": "Adrakh",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus heemstra",
+    "SpecCode": "67293",
+    "CommonName": "Heemstra goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus heterospinus",
+    "SpecCode": "69278",
+    "CommonName": "Variedspine Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus huan",
+    "SpecCode": "70601",
+    "CommonName": "Huan's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus indicus",
+    "SpecCode": "65408",
+    "CommonName": "Cochin Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus itoui",
+    "SpecCode": "66338",
+    "CommonName": "Itou's Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus japonicus",
+    "SpecCode": "7879",
+    "CommonName": "Amarilis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus lombok",
+    "SpecCode": "67738",
+    "CommonName": "Lombok goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus luzonius",
+    "SpecCode": "10546",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus madras",
+    "SpecCode": "69618",
+    "CommonName": "Madras goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus margarethae",
+    "SpecCode": "65409",
+    "CommonName": "Margaretha's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus mascareinsis",
+    "SpecCode": "60910",
+    "CommonName": "Mascarene goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus moluccensis",
+    "SpecCode": "4444",
+    "CommonName": "Afulu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus mouthami",
+    "SpecCode": "64572",
+    "CommonName": "Moutham's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus niebuhri",
+    "SpecCode": "67294",
+    "CommonName": "Niebuhr's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus nigromarginatus",
+    "SpecCode": "67528",
+    "CommonName": "Black-margined goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus oligospilus",
+    "SpecCode": "65413",
+    "CommonName": "Shortfin Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus parvus",
+    "SpecCode": "1095",
+    "CommonName": "Biji nangka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus pori",
+    "SpecCode": "46375",
+    "CommonName": "Barbet à queue rayée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus quadrilineatus",
+    "SpecCode": "10471",
+    "CommonName": "Fourstripe Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus randalli",
+    "SpecCode": "66361",
+    "CommonName": "Randall's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus saiab",
+    "SpecCode": "67739",
+    "CommonName": "SAIAB goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus seychellensis",
+    "SpecCode": "66274",
+    "CommonName": "Tailstripe goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus spottocaudalis",
+    "SpecCode": "69109",
+    "CommonName": "Tailspot goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus stenopsis",
+    "SpecCode": "66655",
+    "CommonName": "Narrowtail Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus suahelicus",
+    "SpecCode": "65410",
+    "CommonName": "Swahili goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus subvittatus",
+    "SpecCode": "13019",
+    "CommonName": "Brownband goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus sulphureus",
+    "SpecCode": "4445",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus sundaicus",
+    "SpecCode": "6643",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus supravittatus",
+    "SpecCode": "65411",
+    "CommonName": "Longfin Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus taeniopterus",
+    "SpecCode": "5995",
+    "CommonName": "Bandtail goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus torres",
+    "SpecCode": "67969",
+    "CommonName": "Torres goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus tragula",
+    "SpecCode": "5443",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus vanuatu",
+    "SpecCode": "66999",
+    "CommonName": "Vanuatu goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus vittatus",
+    "SpecCode": "4821",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneus willwhite",
+    "SpecCode": "69408",
+    "CommonName": "White's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

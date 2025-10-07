@@ -1,0 +1,186 @@
+[
+  {
+    "ScientificName": "Rhinobatos albomaculatus",
+    "SpecCode": "8825",
+    "CommonName": "Guitarra pecosa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos annandalei",
+    "SpecCode": "23163",
+    "CommonName": "Annandale's guitarfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos austini",
+    "SpecCode": "68366",
+    "CommonName": "Austin's guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos borneensis",
+    "SpecCode": "68221",
+    "CommonName": "Borneo guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos formosensis",
+    "SpecCode": "15396",
+    "CommonName": "Pari-kemejan Formosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos holcorhynchus",
+    "SpecCode": "10126",
+    "CommonName": "Sale logardrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos hynnicephalus",
+    "SpecCode": "10135",
+    "CommonName": "Angel fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos irvinei",
+    "SpecCode": "8880",
+    "CommonName": "Ogaselg-logardrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos jimbaranensis",
+    "SpecCode": "63601",
+    "CommonName": "Jimbaran shovelnose ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos lionotus",
+    "SpecCode": "13147",
+    "CommonName": "Gladruggitaarrog",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos manai",
+    "SpecCode": "68649",
+    "CommonName": "Papuan guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos nudidorsalis",
+    "SpecCode": "63344",
+    "CommonName": "Paljasselg-logardrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos penggali",
+    "SpecCode": "63602",
+    "CommonName": "Indoneesia logardrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos punctifer",
+    "SpecCode": "25239",
+    "CommonName": "Gestippelde gitaarrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos ranongensis",
+    "SpecCode": "69404",
+    "CommonName": "Ranong guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos rhinobatos",
+    "SpecCode": "5016",
+    "CommonName": "Almindelig guitarfisk",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos sainsburyi",
+    "SpecCode": "63347",
+    "CommonName": "Goldeneye shovelnose",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos schlegelii",
+    "SpecCode": "7969",
+    "CommonName": "Beaked guitar fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos thouiniana",
+    "SpecCode": "62788",
+    "CommonName": "Shaw logardrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinobatos whitei",
+    "SpecCode": "67531",
+    "CommonName": "Philippine guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

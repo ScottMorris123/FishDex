@@ -1,0 +1,218 @@
+[
+  {
+    "ScientificName": "Sphoeroides andersonianus",
+    "SpecCode": "50097",
+    "CommonName": "安德孙圆鲀",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides angusticeps",
+    "SpecCode": "12916",
+    "CommonName": "Botete",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides annulatus",
+    "SpecCode": "4293",
+    "CommonName": "Botete diana",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides camila",
+    "SpecCode": "70606",
+    "CommonName": "Baiacu-pinima",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides dorsalis",
+    "SpecCode": "4294",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides georgemilleri",
+    "SpecCode": "61200",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides greeleyi",
+    "SpecCode": "5423",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides kendalli",
+    "SpecCode": "8227",
+    "CommonName": "Compère luisant",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides lispus",
+    "SpecCode": "27212",
+    "CommonName": "Botete liso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides lobatus",
+    "SpecCode": "4295",
+    "CommonName": "Bola",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides maculatus",
+    "SpecCode": "1181",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides marmoratus",
+    "SpecCode": "13810",
+    "CommonName": "Compère de Guinée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides nephelus",
+    "SpecCode": "1240",
+    "CommonName": "Botete fruta",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides nitidus",
+    "SpecCode": "61199",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides pachygaster",
+    "SpecCode": "4296",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides parvus",
+    "SpecCode": "4297",
+    "CommonName": "Botete xpú",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides rosenblatti",
+    "SpecCode": "27213",
+    "CommonName": "路氏圆鲀",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides sechurae",
+    "SpecCode": "14173",
+    "CommonName": "Botete peruano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides spengleri",
+    "SpecCode": "1241",
+    "CommonName": "Amerikanpallokala",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides testudineus",
+    "SpecCode": "1242",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides trichocephalus",
+    "SpecCode": "14178",
+    "CommonName": "Botete enano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides tyleri",
+    "SpecCode": "57943",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sphoeroides yergeri",
+    "SpecCode": "57942",
+    "CommonName": "Speckled puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

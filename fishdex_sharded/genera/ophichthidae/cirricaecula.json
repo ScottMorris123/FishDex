@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Cirricaecula johnsoni",
+    "SpecCode": "17393",
+    "CommonName": "Fringelip snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirricaecula macdowelli",
+    "SpecCode": "53827",
+    "CommonName": "Hadař MacDowellův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

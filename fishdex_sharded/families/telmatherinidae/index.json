@@ -1,0 +1,32 @@
+{
+  "Family": "Telmatherinidae",
+  "Order": "Atheriniformes",
+  "Common": "Sailfin silversides",
+  "Genera": [
+    {
+      "Genus": "Kalyptatherina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/telmatherinidae/kalyptatherina.json"
+    },
+    {
+      "Genus": "Marosatherina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/telmatherinidae/marosatherina.json"
+    },
+    {
+      "Genus": "Paratherina",
+      "SpeciesCount": 4,
+      "genus_path": "genera/telmatherinidae/paratherina.json"
+    },
+    {
+      "Genus": "Telmatherina",
+      "SpeciesCount": 10,
+      "genus_path": "genera/telmatherinidae/telmatherina.json"
+    },
+    {
+      "Genus": "Tominanga",
+      "SpeciesCount": 2,
+      "genus_path": "genera/telmatherinidae/tominanga.json"
+    }
+  ]
+}

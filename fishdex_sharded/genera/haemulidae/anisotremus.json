@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Anisotremus caesius",
+    "SpecCode": "13701",
+    "CommonName": "Burro mojarro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anisotremus davidsonii",
+    "SpecCode": "3568",
+    "CommonName": "Burro piedrero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anisotremus espinozai",
+    "SpecCode": "70333",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anisotremus interruptus",
+    "SpecCode": "8253",
+    "CommonName": "Burrito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anisotremus perezponcedeleoni",
+    "SpecCode": "70334",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anisotremus scapularis",
+    "SpecCode": "8255",
+    "CommonName": "Chita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anisotremus surinamensis",
+    "SpecCode": "1123",
+    "CommonName": "Atsukuchi-isaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anisotremus taeniatus",
+    "SpecCode": "13703",
+    "CommonName": "Burro bandera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anisotremus virginicus",
+    "SpecCode": "1124",
+    "CommonName": "Arroz con coco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

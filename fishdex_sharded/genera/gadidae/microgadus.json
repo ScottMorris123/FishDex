@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Microgadus proximus",
+    "SpecCode": "1879",
+    "CommonName": "Eyethithen",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microgadus tomcod",
+    "SpecCode": "316",
+    "CommonName": "Atlandi pisitursk",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

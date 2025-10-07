@@ -1,0 +1,197 @@
+{
+  "Family": "Bythitidae",
+  "Order": "Ophidiiformes",
+  "Common": "Livebearing brotulas",
+  "Genera": [
+    {
+      "Genus": "Acarobythites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/acarobythites.json"
+    },
+    {
+      "Genus": "Anacanthobythites",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bythitidae/anacanthobythites.json"
+    },
+    {
+      "Genus": "Aphyonus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/aphyonus.json"
+    },
+    {
+      "Genus": "Barathronus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/bythitidae/barathronus.json"
+    },
+    {
+      "Genus": "Bellottia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/bythitidae/bellottia.json"
+    },
+    {
+      "Genus": "Bidenichthys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/bythitidae/bidenichthys.json"
+    },
+    {
+      "Genus": "Brosmodorsalis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/brosmodorsalis.json"
+    },
+    {
+      "Genus": "Brosmophyciops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/brosmophyciops.json"
+    },
+    {
+      "Genus": "Brosmophycis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/brosmophycis.json"
+    },
+    {
+      "Genus": "Bythites",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bythitidae/bythites.json"
+    },
+    {
+      "Genus": "Calamopteryx",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bythitidae/calamopteryx.json"
+    },
+    {
+      "Genus": "Cataetyx",
+      "SpeciesCount": 11,
+      "genus_path": "genera/bythitidae/cataetyx.json"
+    },
+    {
+      "Genus": "Diplacanthopoma",
+      "SpeciesCount": 9,
+      "genus_path": "genera/bythitidae/diplacanthopoma.json"
+    },
+    {
+      "Genus": "Ematops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/ematops.json"
+    },
+    {
+      "Genus": "Grammonus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/bythitidae/grammonus.json"
+    },
+    {
+      "Genus": "Hastatobythites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/hastatobythites.json"
+    },
+    {
+      "Genus": "Hephthocara",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bythitidae/hephthocara.json"
+    },
+    {
+      "Genus": "Leucobrotula",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/leucobrotula.json"
+    },
+    {
+      "Genus": "Lucifuga",
+      "SpeciesCount": 8,
+      "genus_path": "genera/bythitidae/lucifuga.json"
+    },
+    {
+      "Genus": "Majungaichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bythitidae/majungaichthys.json"
+    },
+    {
+      "Genus": "Megacataetyx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/megacataetyx.json"
+    },
+    {
+      "Genus": "Melodichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/melodichthys.json"
+    },
+    {
+      "Genus": "Meteoria",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bythitidae/meteoria.json"
+    },
+    {
+      "Genus": "Microbrotula",
+      "SpeciesCount": 8,
+      "genus_path": "genera/bythitidae/microbrotula.json"
+    },
+    {
+      "Genus": "Nybelinella",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bythitidae/nybelinella.json"
+    },
+    {
+      "Genus": "Parabrotula",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bythitidae/parabrotula.json"
+    },
+    {
+      "Genus": "Paraphyonus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/bythitidae/paraphyonus.json"
+    },
+    {
+      "Genus": "Parasaccogaster",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bythitidae/parasaccogaster.json"
+    },
+    {
+      "Genus": "Parasciadonus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/parasciadonus.json"
+    },
+    {
+      "Genus": "Petrotyx",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bythitidae/petrotyx.json"
+    },
+    {
+      "Genus": "Pseudonus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bythitidae/pseudonus.json"
+    },
+    {
+      "Genus": "Saccogaster",
+      "SpeciesCount": 8,
+      "genus_path": "genera/bythitidae/saccogaster.json"
+    },
+    {
+      "Genus": "Sciadonus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/bythitidae/sciadonus.json"
+    },
+    {
+      "Genus": "Stygnobrotula",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/stygnobrotula.json"
+    },
+    {
+      "Genus": "Thalassobathia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bythitidae/thalassobathia.json"
+    },
+    {
+      "Genus": "Thermichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bythitidae/thermichthys.json"
+    },
+    {
+      "Genus": "Timorichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/bythitidae/timorichthys.json"
+    },
+    {
+      "Genus": "Tuamotuichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bythitidae/tuamotuichthys.json"
+    }
+  ]
+}

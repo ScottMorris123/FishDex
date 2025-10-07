@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Zapogon evermanni",
+    "SpecCode": "5750",
+    "CommonName": "Cardenal coralero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zapogon isus",
+    "SpecCode": "50886",
+    "CommonName": "紅海天竺鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

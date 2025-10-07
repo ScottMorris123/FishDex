@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Genicanthus bellus",
+    "SpecCode": "5667",
+    "CommonName": "Bellus lyretail angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genicanthus caudovittatus",
+    "SpecCode": "11132",
+    "CommonName": "Lyretail angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genicanthus lamarck",
+    "SpecCode": "6612",
+    "CommonName": "Adlo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genicanthus melanospilos",
+    "SpecCode": "8710",
+    "CommonName": "Angel ekor panjang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genicanthus personatus",
+    "SpecCode": "7847",
+    "CommonName": "Masked angel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genicanthus semicinctus",
+    "SpecCode": "10896",
+    "CommonName": "Angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genicanthus semifasciatus",
+    "SpecCode": "11153",
+    "CommonName": "Japanese swallow",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genicanthus spinus",
+    "SpecCode": "11158",
+    "CommonName": "Pitcairn angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genicanthus takeuchii",
+    "SpecCode": "60079",
+    "CommonName": "Mizutama-yakko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genicanthus watanabei",
+    "SpecCode": "8711",
+    "CommonName": "Blackedged angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

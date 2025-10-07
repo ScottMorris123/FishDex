@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ijimaia antillarum",
+    "SpecCode": "54014",
+    "CommonName": "Jellynose",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ijimaia dofleini",
+    "SpecCode": "23356",
+    "CommonName": "Ô-shachiburi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ijimaia fowleri",
+    "SpecCode": "60527",
+    "CommonName": "福氏大辫鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ijimaia loppei",
+    "SpecCode": "8088",
+    "CommonName": "Atéléopode de Loppe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ijimaia plicatellus",
+    "SpecCode": "7443",
+    "CommonName": "Deep water ateleopid fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

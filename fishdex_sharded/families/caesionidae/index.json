@@ -1,0 +1,27 @@
+{
+  "Family": "Caesionidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Fusiliers",
+  "Genera": [
+    {
+      "Genus": "Caesio",
+      "SpeciesCount": 10,
+      "genus_path": "genera/caesionidae/caesio.json"
+    },
+    {
+      "Genus": "Dipterygonotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/caesionidae/dipterygonotus.json"
+    },
+    {
+      "Genus": "Gymnocaesio",
+      "SpeciesCount": 1,
+      "genus_path": "genera/caesionidae/gymnocaesio.json"
+    },
+    {
+      "Genus": "Pterocaesio",
+      "SpeciesCount": 12,
+      "genus_path": "genera/caesionidae/pterocaesio.json"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Family": "Chlamydoselachidae",
+  "Order": "Hexanchiformes",
+  "Common": "Frilled sharks",
+  "Genera": [
+    {
+      "Genus": "Chlamydoselachus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/chlamydoselachidae/chlamydoselachus.json"
+    }
+  ]
+}

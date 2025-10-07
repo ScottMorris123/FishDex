@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Sorsogona humerosa",
+    "SpecCode": "66089",
+    "CommonName": "White-margined flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sorsogona melanoptera",
+    "SpecCode": "46369",
+    "CommonName": "Obscure flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sorsogona nigripinna",
+    "SpecCode": "46371",
+    "CommonName": "Baji sirip hitam",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sorsogona portuguesa",
+    "SpecCode": "10700",
+    "CommonName": "Doring-platkop",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sorsogona prionota",
+    "SpecCode": "7897",
+    "CommonName": "Blackblotch flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sorsogona tuberculata",
+    "SpecCode": "10310",
+    "CommonName": "Baji cangkuk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

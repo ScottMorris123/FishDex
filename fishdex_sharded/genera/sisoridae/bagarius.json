@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Bagarius bagarius",
+    "SpecCode": "12006",
+    "CommonName": "Bag mach",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagarius lica",
+    "SpecCode": "23314",
+    "CommonName": "Cá Chiên",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagarius rutilus",
+    "SpecCode": "57784",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagarius suchus",
+    "SpecCode": "26751",
+    "CommonName": "Crocodile catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagarius vegrandis",
+    "SpecCode": "69874",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

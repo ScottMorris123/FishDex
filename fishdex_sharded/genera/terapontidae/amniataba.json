@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Amniataba affinis",
+    "SpecCode": "25711",
+    "CommonName": "Tiger grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amniataba caudavittata",
+    "SpecCode": "14923",
+    "CommonName": "English wyandotte",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amniataba percoides",
+    "SpecCode": "14925",
+    "CommonName": "Banded grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

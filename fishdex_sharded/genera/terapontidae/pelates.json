@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Pelates octolineatus",
+    "SpecCode": "12852",
+    "CommonName": "Eight-lined trumpeter",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelates qinglanensis",
+    "SpecCode": "60670",
+    "CommonName": "清澜叉牙鯻",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelates quadrilineatus",
+    "SpecCode": "7945",
+    "CommonName": "Agaak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

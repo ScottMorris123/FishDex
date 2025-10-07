@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Mitotichthys meraculus",
+    "SpecCode": "46177",
+    "CommonName": "Western crested pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mitotichthys mollisoni",
+    "SpecCode": "46225",
+    "CommonName": "Mollison's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mitotichthys semistriatus",
+    "SpecCode": "46179",
+    "CommonName": "Halfbanded pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mitotichthys tuckeri",
+    "SpecCode": "46193",
+    "CommonName": "Tucker's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "Family": "Uranoscopidae",
+  "Order": "Perciformes/Uranoscopoidei",
+  "Common": "Stargazers",
+  "Genera": [
+    {
+      "Genus": "Astroscopus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/uranoscopidae/astroscopus.json"
+    },
+    {
+      "Genus": "Genyagnus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/uranoscopidae/genyagnus.json"
+    },
+    {
+      "Genus": "Ichthyscopus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/uranoscopidae/ichthyscopus.json"
+    },
+    {
+      "Genus": "Kathetostoma",
+      "SpeciesCount": 9,
+      "genus_path": "genera/uranoscopidae/kathetostoma.json"
+    },
+    {
+      "Genus": "Pleuroscopus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/uranoscopidae/pleuroscopus.json"
+    },
+    {
+      "Genus": "Uranoscopus",
+      "SpeciesCount": 28,
+      "genus_path": "genera/uranoscopidae/uranoscopus.json"
+    },
+    {
+      "Genus": "Xenocephalus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/uranoscopidae/xenocephalus.json"
+    }
+  ]
+}

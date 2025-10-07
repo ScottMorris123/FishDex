@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Heteronarce bentuviai",
+    "SpecCode": "53919",
+    "CommonName": "Eilat sleeper ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteronarce garmani",
+    "SpecCode": "10118",
+    "CommonName": "Natal sleeper ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteronarce mollis",
+    "SpecCode": "47128",
+    "CommonName": "Blød elrokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteronarce prabhui",
+    "SpecCode": "53920",
+    "CommonName": "Kollami erinark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Nannopetersius ansorgii",
+    "SpecCode": "11152",
+    "CommonName": "Ansorge`i pikkuimsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nannopetersius lamberti",
+    "SpecCode": "11154",
+    "CommonName": "Lamberti tukktetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nannopetersius mutambuei",
+    "SpecCode": "64809",
+    "CommonName": "Inkisi tukktetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

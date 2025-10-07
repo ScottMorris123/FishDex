@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Neozoarces pulcher",
+    "SpecCode": "50407",
+    "CommonName": "Tape blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neozoarces steindachneri",
+    "SpecCode": "23802",
+    "CommonName": "Hanaitoginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

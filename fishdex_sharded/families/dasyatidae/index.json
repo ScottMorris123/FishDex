@@ -1,0 +1,102 @@
+{
+  "Family": "Dasyatidae",
+  "Order": "Myliobatiformes",
+  "Common": "Stingrays",
+  "Genera": [
+    {
+      "Genus": "Bathytoshia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dasyatidae/bathytoshia.json"
+    },
+    {
+      "Genus": "Brevitrygon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/dasyatidae/brevitrygon.json"
+    },
+    {
+      "Genus": "Dasyatis",
+      "SpeciesCount": 9,
+      "genus_path": "genera/dasyatidae/dasyatis.json"
+    },
+    {
+      "Genus": "Fluvitrygon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/dasyatidae/fluvitrygon.json"
+    },
+    {
+      "Genus": "Fontitrygon",
+      "SpeciesCount": 6,
+      "genus_path": "genera/dasyatidae/fontitrygon.json"
+    },
+    {
+      "Genus": "Hemitrygon",
+      "SpeciesCount": 11,
+      "genus_path": "genera/dasyatidae/hemitrygon.json"
+    },
+    {
+      "Genus": "Himantura",
+      "SpeciesCount": 12,
+      "genus_path": "genera/dasyatidae/himantura.json"
+    },
+    {
+      "Genus": "Hypanus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/dasyatidae/hypanus.json"
+    },
+    {
+      "Genus": "Maculabatis",
+      "SpeciesCount": 9,
+      "genus_path": "genera/dasyatidae/maculabatis.json"
+    },
+    {
+      "Genus": "Makararaja",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dasyatidae/makararaja.json"
+    },
+    {
+      "Genus": "Megatrygon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dasyatidae/megatrygon.json"
+    },
+    {
+      "Genus": "Neotrygon",
+      "SpeciesCount": 14,
+      "genus_path": "genera/dasyatidae/neotrygon.json"
+    },
+    {
+      "Genus": "Pastinachus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/dasyatidae/pastinachus.json"
+    },
+    {
+      "Genus": "Pateobatis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/dasyatidae/pateobatis.json"
+    },
+    {
+      "Genus": "Pteroplatytrygon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dasyatidae/pteroplatytrygon.json"
+    },
+    {
+      "Genus": "Taeniura",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dasyatidae/taeniura.json"
+    },
+    {
+      "Genus": "Taeniurops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dasyatidae/taeniurops.json"
+    },
+    {
+      "Genus": "Telatrygon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/dasyatidae/telatrygon.json"
+    },
+    {
+      "Genus": "Urogymnus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/dasyatidae/urogymnus.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bassogigas gillii",
+    "SpecCode": "22808",
+    "CommonName": "Gilli jämenirk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bassogigas walkeri",
+    "SpecCode": "65974",
+    "CommonName": "Walkeri jämenirk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

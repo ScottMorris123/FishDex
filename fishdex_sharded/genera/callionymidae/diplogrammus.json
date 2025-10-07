@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Diplogrammus goramensis",
+    "SpecCode": "13764",
+    "CommonName": "Cá đàn lia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplogrammus gruveli",
+    "SpecCode": "56508",
+    "CommonName": "Gruvel's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplogrammus infulatus",
+    "SpecCode": "17029",
+    "CommonName": "Indian Ocean fold dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplogrammus pauciradiatus",
+    "SpecCode": "3825",
+    "CommonName": "Dragoncillo moteado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplogrammus paucispinis",
+    "SpecCode": "68612",
+    "CommonName": "Saudi Arabian dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplogrammus pygmaeus",
+    "SpecCode": "46388",
+    "CommonName": "Pygmy dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplogrammus randalli",
+    "SpecCode": "49452",
+    "CommonName": "Randall's fold dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplogrammus xenicus",
+    "SpecCode": "25837",
+    "CommonName": "Japanese fold dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lumpenus fabricii",
+    "SpecCode": "3786",
+    "CommonName": "Arktisk langebarn",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lumpenus lampretaeformis",
+    "SpecCode": "1380",
+    "CommonName": "Bandfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lumpenus sagitta",
+    "SpecCode": "3790",
+    "CommonName": "Eel-blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

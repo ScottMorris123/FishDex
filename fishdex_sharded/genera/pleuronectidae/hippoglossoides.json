@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Hippoglossoides dubius",
+    "SpecCode": "8845",
+    "CommonName": "Akagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossoides elassodon",
+    "SpecCode": "519",
+    "CommonName": "Alaska-håising",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossoides platessoides",
+    "SpecCode": "4239",
+    "CommonName": "Ameriška morska plošča",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossoides robustus",
+    "SpecCode": "4240",
+    "CommonName": "Bering flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

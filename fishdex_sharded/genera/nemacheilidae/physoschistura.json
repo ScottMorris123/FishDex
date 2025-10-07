@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Physoschistura absumbra",
+    "SpecCode": "68611",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura brunneana",
+    "SpecCode": "24543",
+    "CommonName": "Inlé sälktrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura chindwinensis",
+    "SpecCode": "66941",
+    "CommonName": "Chindwini sälktrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura chulabhornae",
+    "SpecCode": "69427",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura dikrongensis",
+    "SpecCode": "66940",
+    "CommonName": "Dikrongi sälktrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura elongata",
+    "SpecCode": "24552",
+    "CommonName": "Mřenka protáhlá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura pseudobrunneana",
+    "SpecCode": "55888",
+    "CommonName": "Mekongi sälktrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura raoi",
+    "SpecCode": "55554",
+    "CommonName": "Mřenka Raova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura rivulicola",
+    "SpecCode": "24595",
+    "CommonName": "Mřenka salvínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura shanensis",
+    "SpecCode": "24620",
+    "CommonName": "Mřenka šanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura tigrinum",
+    "SpecCode": "66932",
+    "CommonName": "Tiiger-sälktrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura tuivaiensis",
+    "SpecCode": "66578",
+    "CommonName": "Tuivai sälktrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Physoschistura yunnaniloides",
+    "SpecCode": "66145",
+    "CommonName": "Sagaingi sälktrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Opisthonema berlangai",
+    "SpecCode": "1482",
+    "CommonName": "Chardin des Galapagos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthonema bulleri",
+    "SpecCode": "1483",
+    "CommonName": "Arenque",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthonema libertate",
+    "SpecCode": "1484",
+    "CommonName": "Arenca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthonema medirastre",
+    "SpecCode": "1485",
+    "CommonName": "Arenque",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opisthonema oglinum",
+    "SpecCode": "1486",
+    "CommonName": "Arenca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

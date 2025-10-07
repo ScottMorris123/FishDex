@@ -1,0 +1,321 @@
+[
+  {
+    "ScientificName": "Parupeneus angulatus",
+    "SpecCode": "65201",
+    "CommonName": "Wedgejaw goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus barberinoides",
+    "SpecCode": "5986",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus barberinus",
+    "SpecCode": "5987",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus biaculeatus",
+    "SpecCode": "60419",
+    "CommonName": "Pointed goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus chrysonemus",
+    "SpecCode": "12603",
+    "CommonName": "Gold-thread goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus chrysopleuron",
+    "SpecCode": "10470",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus ciliatus",
+    "SpecCode": "5989",
+    "CommonName": "Ahuru paa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus crassilabris",
+    "SpecCode": "60947",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus cyclostomus",
+    "SpecCode": "5990",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus diagonalis",
+    "SpecCode": "64626",
+    "CommonName": "Capucin de Guezé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus forsskali",
+    "SpecCode": "10994",
+    "CommonName": "Biji nangka",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus fraserorum",
+    "SpecCode": "65204",
+    "CommonName": "Fraser's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus heptacanthus",
+    "SpecCode": "5991",
+    "CommonName": "Barbet à point rouge",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus inayatae",
+    "SpecCode": "69274",
+    "CommonName": "Inayat's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus indicus",
+    "SpecCode": "5992",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus insularis",
+    "SpecCode": "60849",
+    "CommonName": "'Ati'ati'a",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus jansenii",
+    "SpecCode": "52931",
+    "CommonName": "Jansen's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus louise",
+    "SpecCode": "62329",
+    "CommonName": "Louise's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus macronemus",
+    "SpecCode": "7878",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus margaritatus",
+    "SpecCode": "46374",
+    "CommonName": "Pearly goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus minys",
+    "SpecCode": "65202",
+    "CommonName": "Minute goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus moffitti",
+    "SpecCode": "26964",
+    "CommonName": "Moffit's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus multifasciatus",
+    "SpecCode": "5993",
+    "CommonName": "Agingoy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus nansen",
+    "SpecCode": "65203",
+    "CommonName": "Nansen goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus orientalis",
+    "SpecCode": "57855",
+    "CommonName": "Ahúru",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus pleurostigma",
+    "SpecCode": "5994",
+    "CommonName": "Ali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus porphyreus",
+    "SpecCode": "12604",
+    "CommonName": "Ahuru pa'a",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus posteli",
+    "SpecCode": "60909",
+    "CommonName": "Postel's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus procerigena",
+    "SpecCode": "60911",
+    "CommonName": "Deepcheek goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus rubescens",
+    "SpecCode": "6373",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus seychellensis",
+    "SpecCode": "65205",
+    "CommonName": "Seychelles goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus sinai",
+    "SpecCode": "69379",
+    "CommonName": "Sinai goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus spilurus",
+    "SpecCode": "6626",
+    "CommonName": "Balaki",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus trifasciatus",
+    "SpecCode": "5988",
+    "CommonName": "Afulu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parupeneus williamsi",
+    "SpecCode": "69279",
+    "CommonName": "William's Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

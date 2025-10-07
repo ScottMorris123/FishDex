@@ -1,0 +1,17 @@
+{
+  "Family": "Moringuidae",
+  "Order": "Anguilliformes",
+  "Common": "Worm or spaghetti eels",
+  "Genera": [
+    {
+      "Genus": "Moringua",
+      "SpeciesCount": 12,
+      "genus_path": "genera/moringuidae/moringua.json"
+    },
+    {
+      "Genus": "Neoconger",
+      "SpeciesCount": 3,
+      "genus_path": "genera/moringuidae/neoconger.json"
+    }
+  ]
+}

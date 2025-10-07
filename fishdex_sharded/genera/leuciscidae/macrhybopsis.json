@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Macrhybopsis aestivalis",
+    "SpecCode": "2778",
+    "CommonName": "Carpa pecosa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis australis",
+    "SpecCode": "61885",
+    "CommonName": "Prairie chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis boschungi",
+    "SpecCode": "68517",
+    "CommonName": "Mobile chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis etnieri",
+    "SpecCode": "68518",
+    "CommonName": "Coosa chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis gelida",
+    "SpecCode": "2783",
+    "CommonName": "Sturgeon Chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis hyostoma",
+    "SpecCode": "61906",
+    "CommonName": "Orik-saleturbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis marconis",
+    "SpecCode": "61897",
+    "CommonName": "Burrhead chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis meeki",
+    "SpecCode": "2789",
+    "CommonName": "Seglfinnedøbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis pallida",
+    "SpecCode": "68519",
+    "CommonName": "Pallid chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis storeriana",
+    "SpecCode": "2792",
+    "CommonName": "Hõbedane saleturbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis tetranema",
+    "SpecCode": "61896",
+    "CommonName": "Peppered chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrhybopsis tomellerii",
+    "SpecCode": "68520",
+    "CommonName": "Gulf chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

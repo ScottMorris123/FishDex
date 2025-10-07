@@ -1,0 +1,27 @@
+{
+  "Family": "Setarchidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Deep-sea bristly scorpionfishes",
+  "Genera": [
+    {
+      "Genus": "Ectreposebastes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/setarchidae/ectreposebastes.json"
+    },
+    {
+      "Genus": "Lioscorpius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/setarchidae/lioscorpius.json"
+    },
+    {
+      "Genus": "Lythrichthys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/setarchidae/lythrichthys.json"
+    },
+    {
+      "Genus": "Setarches",
+      "SpeciesCount": 2,
+      "genus_path": "genera/setarchidae/setarches.json"
+    }
+  ]
+}

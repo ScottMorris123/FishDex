@@ -1,0 +1,1957 @@
+[
+  {
+    "ScientificName": "Enteromius ablabes",
+    "SpecCode": "2410",
+    "CommonName": "Bedempuure",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius aboinensis",
+    "SpecCode": "5322",
+    "CommonName": "Aboina pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius afrohamiltoni",
+    "SpecCode": "11276",
+    "CommonName": "Dik-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius afrovernayi",
+    "SpecCode": "11277",
+    "CommonName": "Kolstert-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius akakianus",
+    "SpecCode": "69090",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius alberti",
+    "SpecCode": "69872",
+    "CommonName": "Ikinanga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius aliciae",
+    "SpecCode": "57968",
+    "CommonName": "Mani pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius aloyi",
+    "SpecCode": "11281",
+    "CommonName": "Bolo pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius amanpoae",
+    "SpecCode": "11289",
+    "CommonName": "Amanpoa pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius amatolicus",
+    "SpecCode": "11830",
+    "CommonName": "Amatola barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius anema",
+    "SpecCode": "5308",
+    "CommonName": "Djaraï",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius annectens",
+    "SpecCode": "11292",
+    "CommonName": "Breëstreep-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius anniae",
+    "SpecCode": "5314",
+    "CommonName": "Koumba pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius anoplus",
+    "SpecCode": "8600",
+    "CommonName": "Chubbyhead barb",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius ansorgii",
+    "SpecCode": "11293",
+    "CommonName": "Ansorge`i pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius apleurogramma",
+    "SpecCode": "11294",
+    "CommonName": "Adel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius arambourgi",
+    "SpecCode": "11295",
+    "CommonName": "Arambourgi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius arcislongae",
+    "SpecCode": "8387",
+    "CommonName": "Malawi pardkala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius argenteus",
+    "SpecCode": "11296",
+    "CommonName": "Hõbejas pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius aspilus",
+    "SpecCode": "11297",
+    "CommonName": "Kameruni pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius atakorensis",
+    "SpecCode": "5331",
+    "CommonName": "Atakora pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius atkinsoni",
+    "SpecCode": "11299",
+    "CommonName": "Atkinsoni pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius atromaculatus",
+    "SpecCode": "11301",
+    "CommonName": "Mustlaik-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius bagbwensis",
+    "SpecCode": "5323",
+    "CommonName": "Bagbwe pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius baleensis",
+    "SpecCode": "69705",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius barnardi",
+    "SpecCode": "11302",
+    "CommonName": "Barnardi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius barotseensis",
+    "SpecCode": "11303",
+    "CommonName": "Barbus barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius baudoni",
+    "SpecCode": "2411",
+    "CommonName": "Baudoni pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius bawkuensis",
+    "SpecCode": "5328",
+    "CommonName": "Bawku pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius bifrenatus",
+    "SpecCode": "11867",
+    "CommonName": "Hyphen barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius bigornei",
+    "SpecCode": "2412",
+    "CommonName": "Bigorne pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius boboi",
+    "SpecCode": "5317",
+    "CommonName": "Bobo pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius bourdariei",
+    "SpecCode": "11310",
+    "CommonName": "Parmička sanaganská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius brachygramma",
+    "SpecCode": "11311",
+    "CommonName": "Linespotted ufipa barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius brazzai",
+    "SpecCode": "11313",
+    "CommonName": "Brazza pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius breviceps",
+    "SpecCode": "11314",
+    "CommonName": "Lühipea-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius brevidorsalis",
+    "SpecCode": "11315",
+    "CommonName": "Dwarf barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius brevilateralis",
+    "SpecCode": "11317",
+    "CommonName": "Cuanza pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius brevipinnis",
+    "SpecCode": "9539",
+    "CommonName": "Kortvin-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius brichardi",
+    "SpecCode": "11319",
+    "CommonName": "Brichardi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius cadenati",
+    "SpecCode": "5301",
+    "CommonName": "Konkouré pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius callipterus",
+    "SpecCode": "2413",
+    "CommonName": "Clipper barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius camptacanthus",
+    "SpecCode": "5316",
+    "CommonName": "African redfinned barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius candens",
+    "SpecCode": "11324",
+    "CommonName": "Kolmlaik-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius carcharhinoides",
+    "SpecCode": "59767",
+    "CommonName": "Haijas pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius carens",
+    "SpecCode": "11326",
+    "CommonName": "Joonetu pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius castrasibutum",
+    "SpecCode": "11327",
+    "CommonName": "Parmička sibutská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius catenarius",
+    "SpecCode": "11329",
+    "CommonName": "Niari pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius caudosignatus",
+    "SpecCode": "11330",
+    "CommonName": "Kwilu pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius chicapaensis",
+    "SpecCode": "11334",
+    "CommonName": "Chicapa pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius chiumbeensis",
+    "SpecCode": "11335",
+    "CommonName": "Chiumbé pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius chlorotaenia",
+    "SpecCode": "5332",
+    "CommonName": "Krokiri-ikpokpo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius choloensis",
+    "SpecCode": "11336",
+    "CommonName": "Cholo pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius citrinus",
+    "SpecCode": "11337",
+    "CommonName": "Parmička citronová",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius clauseni",
+    "SpecCode": "5309",
+    "CommonName": "Clauseni pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius collarti",
+    "SpecCode": "11340",
+    "CommonName": "Collarti pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius condei",
+    "SpecCode": "11342",
+    "CommonName": "Barbus nain",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius deguidei",
+    "SpecCode": "11345",
+    "CommonName": "Ikela pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius deserti",
+    "SpecCode": "11346",
+    "CommonName": "Kõrbe-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius devosi",
+    "SpecCode": "66742",
+    "CommonName": "Malagarazi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius dialonensis",
+    "SpecCode": "5303",
+    "CommonName": "Djaloni pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius diamouanganai",
+    "SpecCode": "55213",
+    "CommonName": "Alamguinea pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius ditinensis",
+    "SpecCode": "5335",
+    "CommonName": "Ditinni pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius dorsolineatus",
+    "SpecCode": "11347",
+    "CommonName": "Bostreep-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius eburneensis",
+    "SpecCode": "2414",
+    "CommonName": "Laikkubarbi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius erythrozonus",
+    "SpecCode": "11350",
+    "CommonName": "Parmička červenopruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius eutaenia",
+    "SpecCode": "11351",
+    "CommonName": "Kasenga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius evansi",
+    "SpecCode": "11352",
+    "CommonName": "Evansi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius fasciolatus",
+    "SpecCode": "10802",
+    "CommonName": "African banded barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius foutensis",
+    "SpecCode": "5325",
+    "CommonName": "Fouta pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius greenwoodi",
+    "SpecCode": "11359",
+    "CommonName": "Greenwoodi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius guildi",
+    "SpecCode": "5326",
+    "CommonName": "Guildi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius guineensis",
+    "SpecCode": "5302",
+    "CommonName": "Guinea pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius guirali",
+    "SpecCode": "11360",
+    "CommonName": "Barbus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius gurneyi",
+    "SpecCode": "11362",
+    "CommonName": "Parmička Gurneyova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius haasianus",
+    "SpecCode": "11363",
+    "CommonName": "Matemba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius holotaenia",
+    "SpecCode": "11365",
+    "CommonName": "African longstripe barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius huguenyi",
+    "SpecCode": "57969",
+    "CommonName": "Hugueny pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius hulstaerti",
+    "SpecCode": "11367",
+    "CommonName": "Afrikansk sommerfuglebarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius humeralis",
+    "SpecCode": "11368",
+    "CommonName": "Keskaafrika pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius humilis",
+    "SpecCode": "11369",
+    "CommonName": "Parmička tsanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius inaequalis",
+    "SpecCode": "2416",
+    "CommonName": "Parmička různovousá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius innocens",
+    "SpecCode": "8364",
+    "CommonName": "Inconspicious barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius jacksoni",
+    "SpecCode": "11374",
+    "CommonName": "Dreipunkbarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius jae",
+    "SpecCode": "11375",
+    "CommonName": "Dja barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius janssensi",
+    "SpecCode": "11376",
+    "CommonName": "Janssens Barbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius kamolondoensis",
+    "SpecCode": "11378",
+    "CommonName": "Kamolondo pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius kerstenii",
+    "SpecCode": "11379",
+    "CommonName": "Agahuza",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius kessleri",
+    "SpecCode": "11381",
+    "CommonName": "Gillbar barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius kissiensis",
+    "SpecCode": "11382",
+    "CommonName": "Kissi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius kuiluensis",
+    "SpecCode": "11383",
+    "CommonName": "Kouilou pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius lamani",
+    "SpecCode": "11384",
+    "CommonName": "Lamani pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius laticeps",
+    "SpecCode": "11385",
+    "CommonName": "Parmička tanzanijská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius lauzannei",
+    "SpecCode": "5320",
+    "CommonName": "Krokiri-ikpokpo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius leonensis",
+    "SpecCode": "2417",
+    "CommonName": "Dale-madaga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius liberiensis",
+    "SpecCode": "5313",
+    "CommonName": "Libeeria pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius lineomaculatus",
+    "SpecCode": "11386",
+    "CommonName": "Ijembe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius litamba",
+    "SpecCode": "5412",
+    "CommonName": "Malawi mokkparrak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius lornae",
+    "SpecCode": "60641",
+    "CommonName": "Sambia pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius loveridgii",
+    "SpecCode": "11388",
+    "CommonName": "Amala pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius lufukiensis",
+    "SpecCode": "11391",
+    "CommonName": "Lufuko pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius luikae",
+    "SpecCode": "11392",
+    "CommonName": "Luika barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius lujae",
+    "SpecCode": "11393",
+    "CommonName": "Luja pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius lukindae",
+    "SpecCode": "11394",
+    "CommonName": "Lukinda pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius lukusiensis",
+    "SpecCode": "11395",
+    "CommonName": "Lukusi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius luluae",
+    "SpecCode": "11396",
+    "CommonName": "Lulua pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius machadoi",
+    "SpecCode": "11397",
+    "CommonName": "Dundo pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius macinensis",
+    "SpecCode": "2418",
+    "CommonName": "Krokiri-ikpokpo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius macrops",
+    "SpecCode": "2419",
+    "CommonName": "Afrikanische Längsstreifenbarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius macrotaenia",
+    "SpecCode": "8365",
+    "CommonName": "Breëband-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius magdalenae",
+    "SpecCode": "11400",
+    "CommonName": "Bunjako barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius manicensis",
+    "SpecCode": "11402",
+    "CommonName": "Geel-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius marmoratus",
+    "SpecCode": "11405",
+    "CommonName": "Marmor-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius martorelli",
+    "SpecCode": "11406",
+    "CommonName": "Martorelli pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius mattozi",
+    "SpecCode": "11408",
+    "CommonName": "Bushveld papermouth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius mediosquamatus",
+    "SpecCode": "11412",
+    "CommonName": "Angoola pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius melanotaenia",
+    "SpecCode": "59768",
+    "CommonName": "Parmička černopásá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius mimus",
+    "SpecCode": "11416",
+    "CommonName": "Ewaso Nyiro barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius miolepis",
+    "SpecCode": "11417",
+    "CommonName": "Lumbungo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius mocoensis",
+    "SpecCode": "11420",
+    "CommonName": "Cuvo pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius motebensis",
+    "SpecCode": "9593",
+    "CommonName": "Marico barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius multilineatus",
+    "SpecCode": "11422",
+    "CommonName": "Copperstripe barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius musumbi",
+    "SpecCode": "11424",
+    "CommonName": "Angola-Barbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius neefi",
+    "SpecCode": "11428",
+    "CommonName": "Parmička Neefova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius neglectus",
+    "SpecCode": "11429",
+    "CommonName": "Nuubia pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius neumayeri",
+    "SpecCode": "11430",
+    "CommonName": "Agahuzi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius nigeriensis",
+    "SpecCode": "5334",
+    "CommonName": "Krokiri-ikpokpo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius nigrifilis",
+    "SpecCode": "11431",
+    "CommonName": "Ankoro pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius nigroluteus",
+    "SpecCode": "11433",
+    "CommonName": "Alamguinea pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius niokoloensis",
+    "SpecCode": "5330",
+    "CommonName": "Niokolo pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius nounensis",
+    "SpecCode": "50314",
+    "CommonName": "Nouni pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius nyanzae",
+    "SpecCode": "11435",
+    "CommonName": "Adel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius okae",
+    "SpecCode": "11436",
+    "CommonName": "Oka pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius oligogrammus",
+    "SpecCode": "11437",
+    "CommonName": "Burundi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius olivaceus",
+    "SpecCode": "53130",
+    "CommonName": "Oliivrohekas pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius owenae",
+    "SpecCode": "11438",
+    "CommonName": "Oweni pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius pallidus",
+    "SpecCode": "12345",
+    "CommonName": "Goldie barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius paludinosus",
+    "SpecCode": "7571",
+    "CommonName": "Dagaa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius papilio",
+    "SpecCode": "11442",
+    "CommonName": "Liblik-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius parablabes",
+    "SpecCode": "5327",
+    "CommonName": "Parmička atakoranská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius parajae",
+    "SpecCode": "50316",
+    "CommonName": "Parmička kimská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius pellegrini",
+    "SpecCode": "11444",
+    "CommonName": "Agahuza",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius perince",
+    "SpecCode": "5318",
+    "CommonName": "Benué pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius petchkovskyi",
+    "SpecCode": "11445",
+    "CommonName": "Parmička Pečkovského",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius pinnimaculatus",
+    "SpecCode": "70034",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius pleurogramma",
+    "SpecCode": "11447",
+    "CommonName": "Mustviirg-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius pobeguini",
+    "SpecCode": "2422",
+    "CommonName": "Parmička Pobeguinova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius poechii",
+    "SpecCode": "11448",
+    "CommonName": "Dashtail barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius potamogalis",
+    "SpecCode": "68107",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius prionacanthus",
+    "SpecCode": "11450",
+    "CommonName": "Ogowe pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius profundus",
+    "SpecCode": "11460",
+    "CommonName": "Süva-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius pseudotoppini",
+    "SpecCode": "53133",
+    "CommonName": "Parmička pitinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius pumilus",
+    "SpecCode": "5307",
+    "CommonName": "Parmička trpasličí",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius punctitaeniatus",
+    "SpecCode": "2423",
+    "CommonName": "Krokiri-ikpokpo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius pygmaeus",
+    "SpecCode": "11457",
+    "CommonName": "Kääbus-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius quadrilineatus",
+    "SpecCode": "62907",
+    "CommonName": "Nelitriip-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius quadripunctatus",
+    "SpecCode": "11458",
+    "CommonName": "Fourspotted barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius radari",
+    "SpecCode": "70039",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius radiatus",
+    "SpecCode": "8363",
+    "CommonName": "Beira barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius raimbaulti",
+    "SpecCode": "5324",
+    "CommonName": "Parmička Raimbaultova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius rohani",
+    "SpecCode": "11465",
+    "CommonName": "Parmička Rohanova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius roussellei",
+    "SpecCode": "11467",
+    "CommonName": "Parmička Roussellova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius rouxi",
+    "SpecCode": "11468",
+    "CommonName": "Parmička Rouxova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius rubrostigma",
+    "SpecCode": "11418",
+    "CommonName": "Punaplekk-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius salessei",
+    "SpecCode": "5306",
+    "CommonName": "Parmička oranžoploutvá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius sensitivus",
+    "SpecCode": "65886",
+    "CommonName": "Tundlik pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius serengetiensis",
+    "SpecCode": "57884",
+    "CommonName": "Serengeti pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius sexradiatus",
+    "SpecCode": "11473",
+    "CommonName": "Kavirondo barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius seymouri",
+    "SpecCode": "63695",
+    "CommonName": "Seymouri pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius stanleyi",
+    "SpecCode": "11475",
+    "CommonName": "Parmička Stanleyova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius stauchi",
+    "SpecCode": "11477",
+    "CommonName": "Parmička Stauchova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius stigmasemion",
+    "SpecCode": "11479",
+    "CommonName": "Batangafo pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius stigmatopygus",
+    "SpecCode": "2425",
+    "CommonName": "Krokiri-ikpokpo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius subinensis",
+    "SpecCode": "2426",
+    "CommonName": "Parmička subinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius sublineatus",
+    "SpecCode": "2427",
+    "CommonName": "Bonsié konlé",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius sylvaticus",
+    "SpecCode": "5310",
+    "CommonName": "Iguidi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius syntrechalepis",
+    "SpecCode": "11481",
+    "CommonName": "Lembesse pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius taeniopleura",
+    "SpecCode": "11482",
+    "CommonName": "Kasarala pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius taeniurus",
+    "SpecCode": "11484",
+    "CommonName": "Juttsaba-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius tanapelagius",
+    "SpecCode": "60394",
+    "CommonName": "Avavee-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius tegulifer",
+    "SpecCode": "11488",
+    "CommonName": "Kribi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius tetraspilus",
+    "SpecCode": "11489",
+    "CommonName": "Bukoba pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius tetrastigma",
+    "SpecCode": "11490",
+    "CommonName": "Nelilaik-pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius teugelsi",
+    "SpecCode": "66239",
+    "CommonName": "Teugelsi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius thamalakanensis",
+    "SpecCode": "11491",
+    "CommonName": "Ngonga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius thespesios",
+    "SpecCode": "69153",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius thysi",
+    "SpecCode": "11492",
+    "CommonName": "Parmička kakenská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius tiekoroi",
+    "SpecCode": "5315",
+    "CommonName": "Parmička kolenténská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius tomiensis",
+    "SpecCode": "11493",
+    "CommonName": "Parmička tominská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius tongaensis",
+    "SpecCode": "11494",
+    "CommonName": "Parmička tonganská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius toppini",
+    "SpecCode": "8388",
+    "CommonName": "East Coast barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius traorei",
+    "SpecCode": "2428",
+    "CommonName": "Parmička sahiblinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius treurensis",
+    "SpecCode": "6098",
+    "CommonName": "Parmička treurská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius trimaculatus",
+    "SpecCode": "5417",
+    "CommonName": "Driekol-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius trinotatus",
+    "SpecCode": "11496",
+    "CommonName": "Parmička sajdinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius trispiloides",
+    "SpecCode": "5312",
+    "CommonName": "Mano pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius trispilomimus",
+    "SpecCode": "11497",
+    "CommonName": "Chiloango pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius trispilopleura",
+    "SpecCode": "11498",
+    "CommonName": "Bahirdari pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius trispilos",
+    "SpecCode": "2429",
+    "CommonName": "Dreipunkbarbe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius turkanae",
+    "SpecCode": "62081",
+    "CommonName": "Lake Turkana barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius unitaeniatus",
+    "SpecCode": "11500",
+    "CommonName": "Langbaard-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius urostigma",
+    "SpecCode": "11501",
+    "CommonName": "Mazonde pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius usambarae",
+    "SpecCode": "11503",
+    "CommonName": "Parmička tanganská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius validus",
+    "SpecCode": "67899",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius vanderysti",
+    "SpecCode": "11504",
+    "CommonName": "Parmička Vanderystova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius vandewallei",
+    "SpecCode": "68134",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius venustus",
+    "SpecCode": "60746",
+    "CommonName": "Kaunis pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius viktorianus",
+    "SpecCode": "11505",
+    "CommonName": "Parmička viktorijská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius viviparus",
+    "SpecCode": "11506",
+    "CommonName": "Boogstreep-ghieliemientjie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius walkeri",
+    "SpecCode": "2431",
+    "CommonName": "Parmička Walkerova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius walshae",
+    "SpecCode": "69066",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius wellmani",
+    "SpecCode": "11507",
+    "CommonName": "Parmička Wellmanova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius yardiensis",
+    "SpecCode": "69089",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius yeiensis",
+    "SpecCode": "11508",
+    "CommonName": "Parmička ramadalská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius yongei",
+    "SpecCode": "11509",
+    "CommonName": "Adel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius zalbiensis",
+    "SpecCode": "5329",
+    "CommonName": "Parmička logonská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enteromius zanzibaricus",
+    "SpecCode": "11510",
+    "CommonName": "Kihalahala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

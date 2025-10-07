@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Buenia affinis",
+    "SpecCode": "1797",
+    "CommonName": "De Buen's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Buenia jeffreysii",
+    "SpecCode": "52",
+    "CommonName": "Buènia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Buenia lombartei",
+    "SpecCode": "68663",
+    "CommonName": "Lombarte's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Buenia massutii",
+    "SpecCode": "68189",
+    "CommonName": "Massuti's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Paralithoxus boujardi",
+    "SpecCode": "53595",
+    "CommonName": "Yanian wili",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralithoxus bovallii",
+    "SpecCode": "48296",
+    "CommonName": "博氏石鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralithoxus jariensis",
+    "SpecCode": "68768",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralithoxus pallidimaculatus",
+    "SpecCode": "48298",
+    "CommonName": "Pilkkalatuskapleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralithoxus planquettei",
+    "SpecCode": "48302",
+    "CommonName": "Yanian wili",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralithoxus raso",
+    "SpecCode": "68769",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralithoxus stocki",
+    "SpecCode": "53596",
+    "CommonName": "Otalatuskapleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralithoxus surinamensis",
+    "SpecCode": "48300",
+    "CommonName": "Vyölatuskapleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

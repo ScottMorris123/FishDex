@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Sticharium clarkae",
+    "SpecCode": "52482",
+    "CommonName": "Clark's snake blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sticharium dorsale",
+    "SpecCode": "52478",
+    "CommonName": "Multicolor snake blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

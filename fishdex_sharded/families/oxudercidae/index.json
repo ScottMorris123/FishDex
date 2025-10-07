@@ -1,0 +1,57 @@
+{
+  "Family": "Oxudercidae",
+  "Order": "Gobiiformes",
+  "Common": "Mudskippers",
+  "Genera": [
+    {
+      "Genus": "Apocryptes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oxudercidae/apocryptes.json"
+    },
+    {
+      "Genus": "Apocryptodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/oxudercidae/apocryptodon.json"
+    },
+    {
+      "Genus": "Boleophthalmus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/oxudercidae/boleophthalmus.json"
+    },
+    {
+      "Genus": "Oxuderces",
+      "SpeciesCount": 2,
+      "genus_path": "genera/oxudercidae/oxuderces.json"
+    },
+    {
+      "Genus": "Parapocryptes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/oxudercidae/parapocryptes.json"
+    },
+    {
+      "Genus": "Periophthalmodon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/oxudercidae/periophthalmodon.json"
+    },
+    {
+      "Genus": "Periophthalmus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/oxudercidae/periophthalmus.json"
+    },
+    {
+      "Genus": "Pseudapocryptes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/oxudercidae/pseudapocryptes.json"
+    },
+    {
+      "Genus": "Scartelaos",
+      "SpeciesCount": 4,
+      "genus_path": "genera/oxudercidae/scartelaos.json"
+    },
+    {
+      "Genus": "Zappa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/oxudercidae/zappa.json"
+    }
+  ]
+}

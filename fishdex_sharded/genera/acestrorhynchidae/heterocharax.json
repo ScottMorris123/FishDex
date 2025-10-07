@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Heterocharax leptogrammus",
+    "SpecCode": "57972",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterocharax macrolepis",
+    "SpecCode": "51942",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heterocharax virgulatus",
+    "SpecCode": "57973",
+    "CommonName": "Matapiri",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

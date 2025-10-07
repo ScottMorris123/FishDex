@@ -1,0 +1,47 @@
+{
+  "Family": "Chlopsidae",
+  "Order": "Anguilliformes",
+  "Common": "False morays",
+  "Genera": [
+    {
+      "Genus": "Boehlkenchelys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chlopsidae/boehlkenchelys.json"
+    },
+    {
+      "Genus": "Catesbya",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chlopsidae/catesbya.json"
+    },
+    {
+      "Genus": "Chilorhinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/chlopsidae/chilorhinus.json"
+    },
+    {
+      "Genus": "Chlopsis",
+      "SpeciesCount": 12,
+      "genus_path": "genera/chlopsidae/chlopsis.json"
+    },
+    {
+      "Genus": "Kaupichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/chlopsidae/kaupichthys.json"
+    },
+    {
+      "Genus": "Powellichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chlopsidae/powellichthys.json"
+    },
+    {
+      "Genus": "Robinsia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chlopsidae/robinsia.json"
+    },
+    {
+      "Genus": "Xenoconger",
+      "SpeciesCount": 1,
+      "genus_path": "genera/chlopsidae/xenoconger.json"
+    }
+  ]
+}

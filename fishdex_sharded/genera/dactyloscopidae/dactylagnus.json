@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Dactylagnus mundus",
+    "SpecCode": "51434",
+    "CommonName": "Giant sand stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactylagnus parvus",
+    "SpecCode": "58231",
+    "CommonName": "Miraestrellas panámica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactylagnus peratikos",
+    "SpecCode": "50491",
+    "CommonName": "哥斯达黎加粗指鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

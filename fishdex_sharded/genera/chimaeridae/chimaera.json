@@ -1,0 +1,200 @@
+[
+  {
+    "ScientificName": "Chimaera argiloba",
+    "SpecCode": "64140",
+    "CommonName": "Valgeuim-meritont",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera bahamaensis",
+    "SpecCode": "65588",
+    "CommonName": "Bahama meritont",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera buccanigella",
+    "SpecCode": "68386",
+    "CommonName": "Chimère bouche-foncée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera carophila",
+    "SpecCode": "68246",
+    "CommonName": "Brown chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera compacta",
+    "SpecCode": "69403",
+    "CommonName": "Chimère trapue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera cubana",
+    "SpecCode": "47560",
+    "CommonName": "Chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera didierae",
+    "SpecCode": "68388",
+    "CommonName": "The Falkor chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera fulva",
+    "SpecCode": "64158",
+    "CommonName": "Pruun meritont",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera jordani",
+    "SpecCode": "8993",
+    "CommonName": "Jordan-ginzame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera lignaria",
+    "SpecCode": "60029",
+    "CommonName": "Carpenter's chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera macrospina",
+    "SpecCode": "64159",
+    "CommonName": "Longspine chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera monstrosa",
+    "SpecCode": "2503",
+    "CommonName": "Arnab",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera notafricana",
+    "SpecCode": "65611",
+    "CommonName": "Cape chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera obscura",
+    "SpecCode": "64160",
+    "CommonName": "Shortspine chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera ogilbyi",
+    "SpecCode": "24259",
+    "CommonName": "Bight ghostshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera opalescens",
+    "SpecCode": "66212",
+    "CommonName": "Chimère opale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera orientalis",
+    "SpecCode": "67911",
+    "CommonName": "Eastern Pacific black chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera owstoni",
+    "SpecCode": "22760",
+    "CommonName": "Jaapani meritont",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera panthera",
+    "SpecCode": "50893",
+    "CommonName": "Leopard-meritont",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera phantasma",
+    "SpecCode": "7588",
+    "CommonName": "Cá chime",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera supapae",
+    "SpecCode": "70553",
+    "CommonName": "Andaman shortnose chimaera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chimaera willwatchi",
+    "SpecCode": "68387",
+    "CommonName": "Seafarer's ghost shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

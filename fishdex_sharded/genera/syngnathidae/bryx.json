@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Bryx analicarens",
+    "SpecCode": "46105",
+    "CommonName": "Pink pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryx dunckeri",
+    "SpecCode": "3296",
+    "CommonName": "Cornetica enana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryx randalli",
+    "SpecCode": "57907",
+    "CommonName": "Ocellated pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryx veleronis",
+    "SpecCode": "46107",
+    "CommonName": "Offshore pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

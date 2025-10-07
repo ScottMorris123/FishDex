@@ -1,0 +1,37 @@
+{
+  "Family": "Odacidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Cales and weed-whitings",
+  "Genera": [
+    {
+      "Genus": "Haletta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/odacidae/haletta.json"
+    },
+    {
+      "Genus": "Heteroscarus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/odacidae/heteroscarus.json"
+    },
+    {
+      "Genus": "Neoodax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/odacidae/neoodax.json"
+    },
+    {
+      "Genus": "Odax",
+      "SpeciesCount": 2,
+      "genus_path": "genera/odacidae/odax.json"
+    },
+    {
+      "Genus": "Olisthops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/odacidae/olisthops.json"
+    },
+    {
+      "Genus": "Siphonognathus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/odacidae/siphonognathus.json"
+    }
+  ]
+}

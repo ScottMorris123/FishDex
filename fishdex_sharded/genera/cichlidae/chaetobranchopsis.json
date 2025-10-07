@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Chaetobranchopsis australis",
+    "SpecCode": "46745",
+    "CommonName": "Acara prata",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaetobranchopsis orbicularis",
+    "SpecCode": "25777",
+    "CommonName": "Acará cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

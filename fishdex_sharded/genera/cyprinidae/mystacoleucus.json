@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Mystacoleucus argenteus",
+    "SpecCode": "24042",
+    "CommonName": "Hõbedane helepardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystacoleucus atridorsalis",
+    "SpecCode": "27109",
+    "CommonName": "Mustuim-helepardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystacoleucus chilopterus",
+    "SpecCode": "54690",
+    "CommonName": "Malai helepardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystacoleucus ectypus",
+    "SpecCode": "57694",
+    "CommonName": "Kühmselg-helepardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystacoleucus greenwayi",
+    "SpecCode": "50496",
+    "CommonName": "Greenway helepardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystacoleucus lepturus",
+    "SpecCode": "58035",
+    "CommonName": "Palang junanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystacoleucus marginatus",
+    "SpecCode": "16116",
+    "CommonName": "Cá Vảy xước",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mystacoleucus padangensis",
+    "SpecCode": "17425",
+    "CommonName": "Padangi helepardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

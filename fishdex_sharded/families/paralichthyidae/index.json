@@ -1,0 +1,57 @@
+{
+  "Family": "Paralichthyidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Large-tooth flounders",
+  "Genera": [
+    {
+      "Genus": "Ancylopsetta",
+      "SpeciesCount": 7,
+      "genus_path": "genera/paralichthyidae/ancylopsetta.json"
+    },
+    {
+      "Genus": "Cephalopsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/paralichthyidae/cephalopsetta.json"
+    },
+    {
+      "Genus": "Gastropsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/paralichthyidae/gastropsetta.json"
+    },
+    {
+      "Genus": "Hippoglossina",
+      "SpeciesCount": 7,
+      "genus_path": "genera/paralichthyidae/hippoglossina.json"
+    },
+    {
+      "Genus": "Paralichthys",
+      "SpeciesCount": 18,
+      "genus_path": "genera/paralichthyidae/paralichthys.json"
+    },
+    {
+      "Genus": "Pseudorhombus",
+      "SpeciesCount": 25,
+      "genus_path": "genera/paralichthyidae/pseudorhombus.json"
+    },
+    {
+      "Genus": "Tarphops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/paralichthyidae/tarphops.json"
+    },
+    {
+      "Genus": "Tephrinectes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/paralichthyidae/tephrinectes.json"
+    },
+    {
+      "Genus": "Thysanopsetta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/paralichthyidae/thysanopsetta.json"
+    },
+    {
+      "Genus": "Xystreurys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/paralichthyidae/xystreurys.json"
+    }
+  ]
+}

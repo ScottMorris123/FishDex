@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Aspredinichthys filamentosus",
+    "SpecCode": "7519",
+    "CommonName": "Bagre roncador sietebarbas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aspredinichthys tibicen",
+    "SpecCode": "7520",
+    "CommonName": "Bagre roncador diez barbas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pomachromis exilis",
+    "SpecCode": "5731",
+    "CommonName": "Slender reef-damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomachromis fuscidorsalis",
+    "SpecCode": "10282",
+    "CommonName": "Tahiti damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomachromis guamensis",
+    "SpecCode": "5732",
+    "CommonName": "Guam damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomachromis richardsoni",
+    "SpecCode": "6923",
+    "CommonName": "Okinawa-suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

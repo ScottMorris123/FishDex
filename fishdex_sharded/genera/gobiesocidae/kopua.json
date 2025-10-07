@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Kopua japonica",
+    "SpecCode": "66615",
+    "CommonName": "Japanese deepwater clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kopua kuiteri",
+    "SpecCode": "60715",
+    "CommonName": "Deepwater clignfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kopua nuimata",
+    "SpecCode": "47431",
+    "CommonName": "新西兰科普喉盘鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kopua vermiculata",
+    "SpecCode": "69267",
+    "CommonName": "Misaki-yozakura-ubauo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

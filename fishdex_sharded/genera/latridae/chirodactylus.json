@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Chirodactylus brachydactylus",
+    "SpecCode": "7654",
+    "CommonName": "Bottervis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirodactylus grandis",
+    "SpecCode": "12142",
+    "CommonName": "Bank steenbras",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirodactylus jessicalenorum",
+    "SpecCode": "7655",
+    "CommonName": "Natal fingerfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirodactylus spectabilis",
+    "SpecCode": "11997",
+    "CommonName": "Banded morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chirodactylus variegatus",
+    "SpecCode": "461",
+    "CommonName": "Bilagay",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Neoglyphidodon bonang",
+    "SpecCode": "10229",
+    "CommonName": "Bedun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoglyphidodon carlsoni",
+    "SpecCode": "10230",
+    "CommonName": "Carlson's damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoglyphidodon crossi",
+    "SpecCode": "12457",
+    "CommonName": "Cross' damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoglyphidodon melas",
+    "SpecCode": "5707",
+    "CommonName": "Betok laut hitam",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoglyphidodon mitratus",
+    "SpecCode": "66866",
+    "CommonName": "Eastern barhead damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoglyphidodon nigroris",
+    "SpecCode": "5708",
+    "CommonName": "Behn's damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoglyphidodon oxyodon",
+    "SpecCode": "11988",
+    "CommonName": "Bluebanded damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoglyphidodon polyacanthus",
+    "SpecCode": "10235",
+    "CommonName": "Multispine damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoglyphidodon thoracotaeniatus",
+    "SpecCode": "6922",
+    "CommonName": "Bar-cheek damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

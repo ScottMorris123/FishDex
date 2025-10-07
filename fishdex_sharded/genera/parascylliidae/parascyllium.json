@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Parascyllium collare",
+    "SpecCode": "5914",
+    "CommonName": "Alfombrera collareja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascyllium elongatum",
+    "SpecCode": "64116",
+    "CommonName": "Elongate carpet shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascyllium ferrugineum",
+    "SpecCode": "5915",
+    "CommonName": "Alfombrera mohosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascyllium sparsimaculatum",
+    "SpecCode": "59418",
+    "CommonName": "Ginger carpetshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascyllium variolatum",
+    "SpecCode": "5917",
+    "CommonName": "Alfombrera colarina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

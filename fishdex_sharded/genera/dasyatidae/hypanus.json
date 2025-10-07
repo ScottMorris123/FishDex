@@ -1,0 +1,88 @@
+[
+  {
+    "ScientificName": "Hypanus americanus",
+    "SpecCode": "1247",
+    "CommonName": "Ameerika astelrai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypanus berthalutzae",
+    "SpecCode": "69726",
+    "CommonName": "Raia de Pedra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypanus dipterurus",
+    "SpecCode": "2573",
+    "CommonName": "Batana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypanus guttatus",
+    "SpecCode": "1248",
+    "CommonName": "Arraia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypanus longus",
+    "SpecCode": "13178",
+    "CommonName": "Langhalet pigrokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypanus marianae",
+    "SpecCode": "57696",
+    "CommonName": "Arraia-do-oião",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypanus rudis",
+    "SpecCode": "8967",
+    "CommonName": "Kleintandpijlstaartrog",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypanus sabinus",
+    "SpecCode": "2574",
+    "CommonName": "Atlandi astelrai",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypanus say",
+    "SpecCode": "2575",
+    "CommonName": "Arraia-amarela",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

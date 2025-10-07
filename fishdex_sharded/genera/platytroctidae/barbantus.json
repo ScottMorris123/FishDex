@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Barbantus curvifrons",
+    "SpecCode": "11300",
+    "CommonName": "Palebelly searsid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbantus elongatus",
+    "SpecCode": "11305",
+    "CommonName": "長體鬚光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

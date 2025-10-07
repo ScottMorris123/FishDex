@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Chelmonops curiosus",
+    "SpecCode": "25434",
+    "CommonName": "Coral fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelmonops truncatus",
+    "SpecCode": "10286",
+    "CommonName": "Coralfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

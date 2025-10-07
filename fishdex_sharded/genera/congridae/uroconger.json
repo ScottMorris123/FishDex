@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Uroconger drachi",
+    "SpecCode": "9064",
+    "CommonName": "Kongo vibalangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Uroconger erythraeus",
+    "SpecCode": "15590",
+    "CommonName": "Punase mere vibalangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Uroconger lepturus",
+    "SpecCode": "7590",
+    "CommonName": "Ai-anago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Uroconger syringinus",
+    "SpecCode": "2632",
+    "CommonName": "Atlandi vibalangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

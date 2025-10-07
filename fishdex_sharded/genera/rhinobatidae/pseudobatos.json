@@ -1,0 +1,84 @@
+[
+  {
+    "ScientificName": "Pseudobatos buthi",
+    "SpecCode": "69624",
+    "CommonName": "Guitarra Pala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobatos glaucostigma",
+    "SpecCode": "13229",
+    "CommonName": "Grijsgevlekte gitaarrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobatos horkelii",
+    "SpecCode": "8732",
+    "CommonName": "Brasiilia logardrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobatos lentiginosus",
+    "SpecCode": "2548",
+    "CommonName": "Atlantic guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobatos leucorhynchus",
+    "SpecCode": "13234",
+    "CommonName": "Guitarra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobatos percellens",
+    "SpecCode": "140",
+    "CommonName": "Arraia-viola",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobatos planiceps",
+    "SpecCode": "149",
+    "CommonName": "Flathead guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobatos prahli",
+    "SpecCode": "54454",
+    "CommonName": "Gorgona guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobatos productus",
+    "SpecCode": "2549",
+    "CommonName": "Amerikankitararausku",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

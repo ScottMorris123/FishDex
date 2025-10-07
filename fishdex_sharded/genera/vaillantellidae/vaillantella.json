@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Vaillantella cinnamomea",
+    "SpecCode": "27383",
+    "CommonName": "Helepruun vigelhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vaillantella euepiptera",
+    "SpecCode": "22999",
+    "CommonName": "Kirjonauhanuoliainen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vaillantella maassi",
+    "SpecCode": "23000",
+    "CommonName": "Maassi vigelhink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

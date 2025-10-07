@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Rhodichthys melanocephalus",
+    "SpecCode": "67465",
+    "CommonName": "Blackhead strainer snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodichthys regina",
+    "SpecCode": "27747",
+    "CommonName": "Kongeringbuk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

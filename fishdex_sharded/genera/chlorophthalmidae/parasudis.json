@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Parasudis fraserbrunneri",
+    "SpecCode": "5481",
+    "CommonName": "Olho-verde",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parasudis truculenta",
+    "SpecCode": "2726",
+    "CommonName": "Harilik parasudis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

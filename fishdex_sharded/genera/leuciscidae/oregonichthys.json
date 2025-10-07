@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Oregonichthys crameri",
+    "SpecCode": "6135",
+    "CommonName": "Jelčík Cramerův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oregonichthys kalawatseti",
+    "SpecCode": "26004",
+    "CommonName": "Jelčík oregonský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

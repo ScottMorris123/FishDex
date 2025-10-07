@@ -1,0 +1,138 @@
+[
+  {
+    "ScientificName": "Kyphosus azureus",
+    "SpecCode": "3595",
+    "CommonName": "Calicagère mignonne",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus bigibbus",
+    "SpecCode": "5804",
+    "CommonName": "Achlat karang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus cinerascens",
+    "SpecCode": "5805",
+    "CommonName": "Achlat karang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus cornelii",
+    "SpecCode": "13024",
+    "CommonName": "Cornel's drummer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus elegans",
+    "SpecCode": "12230",
+    "CommonName": "Boca chitu pinta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus gladius",
+    "SpecCode": "66719",
+    "CommonName": "Gladius drummer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus hawaiiensis",
+    "SpecCode": "62423",
+    "CommonName": "Hawaiian chub",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus incisor",
+    "SpecCode": "1064",
+    "CommonName": "Calicagère jaune",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus lutescens",
+    "SpecCode": "54425",
+    "CommonName": "Chopa de Revillagigedo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus ocyurus",
+    "SpecCode": "3598",
+    "CommonName": "Bluestriped chub",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus pacificus",
+    "SpecCode": "62424",
+    "CommonName": "Pacific drummer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus sandwicensis",
+    "SpecCode": "66546",
+    "CommonName": "Nānue",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus sectatrix",
+    "SpecCode": "2498",
+    "CommonName": "Bermuda chub",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus sydneyanus",
+    "SpecCode": "12723",
+    "CommonName": "Buff bream",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyphosus vaigiensis",
+    "SpecCode": "5806",
+    "CommonName": "Acha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

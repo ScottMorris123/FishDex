@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lactophrys bicaudalis",
+    "SpecCode": "4286",
+    "CommonName": "Baiacu caixão",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lactophrys trigonus",
+    "SpecCode": "1107",
+    "CommonName": "Baiacú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lactophrys triqueter",
+    "SpecCode": "1109",
+    "CommonName": "Baiacu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Malacoraja kreffti",
+    "SpecCode": "9261",
+    "CommonName": "Bleikskata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoraja obscura",
+    "SpecCode": "63591",
+    "CommonName": "Brasiilia sumerai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoraja senta",
+    "SpecCode": "2568",
+    "CommonName": "Gladde rog",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoraja spinacidermis",
+    "SpecCode": "8904",
+    "CommonName": "Kareselg-sumerai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

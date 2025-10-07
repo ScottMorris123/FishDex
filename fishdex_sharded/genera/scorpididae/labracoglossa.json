@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Labracoglossa argenteiventris",
+    "SpecCode": "6623",
+    "CommonName": "Harilik takaba",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Labracoglossa nitida",
+    "SpecCode": "12683",
+    "CommonName": "Blue knifefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

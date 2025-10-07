@@ -1,0 +1,92 @@
+{
+  "Family": "Tetrarogidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Wasp fishes",
+  "Genera": [
+    {
+      "Genus": "Ablabys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/tetrarogidae/ablabys.json"
+    },
+    {
+      "Genus": "Centropogon",
+      "SpeciesCount": 3,
+      "genus_path": "genera/tetrarogidae/centropogon.json"
+    },
+    {
+      "Genus": "Coccotropsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetrarogidae/coccotropsis.json"
+    },
+    {
+      "Genus": "Cottapistus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetrarogidae/cottapistus.json"
+    },
+    {
+      "Genus": "Glyptauchen",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetrarogidae/glyptauchen.json"
+    },
+    {
+      "Genus": "Gymnapistes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetrarogidae/gymnapistes.json"
+    },
+    {
+      "Genus": "Liocranium",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tetrarogidae/liocranium.json"
+    },
+    {
+      "Genus": "Neocentropogon",
+      "SpeciesCount": 6,
+      "genus_path": "genera/tetrarogidae/neocentropogon.json"
+    },
+    {
+      "Genus": "Neovespicula",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetrarogidae/neovespicula.json"
+    },
+    {
+      "Genus": "Notesthes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetrarogidae/notesthes.json"
+    },
+    {
+      "Genus": "Ocosia",
+      "SpeciesCount": 9,
+      "genus_path": "genera/tetrarogidae/ocosia.json"
+    },
+    {
+      "Genus": "Paracentropogon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/tetrarogidae/paracentropogon.json"
+    },
+    {
+      "Genus": "Pseudovespicula",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetrarogidae/pseudovespicula.json"
+    },
+    {
+      "Genus": "Richardsonichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tetrarogidae/richardsonichthys.json"
+    },
+    {
+      "Genus": "Snyderina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tetrarogidae/snyderina.json"
+    },
+    {
+      "Genus": "Tetraroge",
+      "SpeciesCount": 2,
+      "genus_path": "genera/tetrarogidae/tetraroge.json"
+    },
+    {
+      "Genus": "Vespicula",
+      "SpeciesCount": 3,
+      "genus_path": "genera/tetrarogidae/vespicula.json"
+    }
+  ]
+}

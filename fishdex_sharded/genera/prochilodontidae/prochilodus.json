@@ -1,0 +1,120 @@
+[
+  {
+    "ScientificName": "Prochilodus argenteus",
+    "SpecCode": "51249",
+    "CommonName": "Corumbatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus brevis",
+    "SpecCode": "51245",
+    "CommonName": "Brazilian bocachico",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus britskii",
+    "SpecCode": "50339",
+    "CommonName": "布氏鯪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus costatus",
+    "SpecCode": "53128",
+    "CommonName": "Corumbatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus harttii",
+    "SpecCode": "51248",
+    "CommonName": "Curimatã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus lacustris",
+    "SpecCode": "57804",
+    "CommonName": "Curimatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus lineatus",
+    "SpecCode": "13056",
+    "CommonName": "Carimbatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus magdalenae",
+    "SpecCode": "26150",
+    "CommonName": "Bocachico",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus mariae",
+    "SpecCode": "51243",
+    "CommonName": "Coporo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus nigricans",
+    "SpecCode": "11894",
+    "CommonName": "Black prochilodus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus reticulatus",
+    "SpecCode": "5491",
+    "CommonName": "Bocachico",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus rubrotaeniatus",
+    "SpecCode": "25670",
+    "CommonName": "Alumassee",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prochilodus vimboides",
+    "SpecCode": "51246",
+    "CommonName": "Corimbatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

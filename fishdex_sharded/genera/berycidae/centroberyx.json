@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Centroberyx affinis",
+    "SpecCode": "14129",
+    "CommonName": "Béryx australien",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroberyx australis",
+    "SpecCode": "56146",
+    "CommonName": "Australsk beryx",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroberyx druzhinini",
+    "SpecCode": "15306",
+    "CommonName": "Kinmedamashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroberyx gerrardi",
+    "SpecCode": "14131",
+    "CommonName": "Bight red fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroberyx lineatus",
+    "SpecCode": "14133",
+    "CommonName": "Cá Tráp gai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroberyx rubricaudus",
+    "SpecCode": "52691",
+    "CommonName": "Alfonsino",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centroberyx spinosus",
+    "SpecCode": "10667",
+    "CommonName": "Kort alfonsino",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

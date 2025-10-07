@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Microlipophrys adriaticus",
+    "SpecCode": "25969",
+    "CommonName": "Adria-Schleimfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microlipophrys bauchotae",
+    "SpecCode": "22627",
+    "CommonName": "Bauchots Schleimfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microlipophrys caboverdensis",
+    "SpecCode": "51645",
+    "CommonName": "Caboz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microlipophrys canevae",
+    "SpecCode": "16297",
+    "CommonName": "Babica maločica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microlipophrys dalmatinus",
+    "SpecCode": "48613",
+    "CommonName": "Babica pirgašica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microlipophrys nigriceps",
+    "SpecCode": "16299",
+    "CommonName": "Babica crnoglava",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microlipophrys velifer",
+    "SpecCode": "22631",
+    "CommonName": "Sailfin blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

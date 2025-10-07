@@ -1,0 +1,22 @@
+{
+  "Family": "Rhinochimaeridae",
+  "Order": "Chimaeriformes",
+  "Common": "Longnose chimaeras",
+  "Genera": [
+    {
+      "Genus": "Harriotta",
+      "SpeciesCount": 2,
+      "genus_path": "genera/rhinochimaeridae/harriotta.json"
+    },
+    {
+      "Genus": "Neoharriotta",
+      "SpeciesCount": 3,
+      "genus_path": "genera/rhinochimaeridae/neoharriotta.json"
+    },
+    {
+      "Genus": "Rhinochimaera",
+      "SpeciesCount": 3,
+      "genus_path": "genera/rhinochimaeridae/rhinochimaera.json"
+    }
+  ]
+}

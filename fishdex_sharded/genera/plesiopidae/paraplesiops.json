@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Paraplesiops alisonae",
+    "SpecCode": "14975",
+    "CommonName": "Alison's blue devil",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplesiops bleekeri",
+    "SpecCode": "14977",
+    "CommonName": "Bleeker's devilfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplesiops meleagris",
+    "SpecCode": "14591",
+    "CommonName": "Blue devil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplesiops poweri",
+    "SpecCode": "14979",
+    "CommonName": "Blue-tip longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraplesiops sinclairi",
+    "SpecCode": "59018",
+    "CommonName": "Western blue devil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

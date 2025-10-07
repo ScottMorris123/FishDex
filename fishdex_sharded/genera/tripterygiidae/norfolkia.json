@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Norfolkia brachylepis",
+    "SpecCode": "14209",
+    "CommonName": "Mano'o-taoto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Norfolkia leeuwin",
+    "SpecCode": "47188",
+    "CommonName": "Leeuwin threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Norfolkia squamiceps",
+    "SpecCode": "27519",
+    "CommonName": "Lord Howe scaly-headed triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Norfolkia thomasi",
+    "SpecCode": "47191",
+    "CommonName": "Thomas' threefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

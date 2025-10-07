@@ -1,0 +1,22 @@
+{
+  "Family": "Pseudomugilidae",
+  "Order": "Atheriniformes",
+  "Common": "Blue eyes",
+  "Genera": [
+    {
+      "Genus": "Kiunga",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pseudomugilidae/kiunga.json"
+    },
+    {
+      "Genus": "Pseudomugil",
+      "SpeciesCount": 16,
+      "genus_path": "genera/pseudomugilidae/pseudomugil.json"
+    },
+    {
+      "Genus": "Scaturiginichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pseudomugilidae/scaturiginichthys.json"
+    }
+  ]
+}

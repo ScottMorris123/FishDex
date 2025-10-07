@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Pictichromis aurifrons",
+    "SpecCode": "27475",
+    "CommonName": "Gold-browed dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pictichromis caitlinae",
+    "SpecCode": "63709",
+    "CommonName": "Cenderawasih dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pictichromis coralensis",
+    "SpecCode": "63725",
+    "CommonName": "Bicoloured dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pictichromis diadema",
+    "SpecCode": "24439",
+    "CommonName": "Diadeem-palettkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pictichromis dinar",
+    "SpecCode": "65167",
+    "CommonName": "Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pictichromis ephippiata",
+    "SpecCode": "26791",
+    "CommonName": "Saddled dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pictichromis paccagnellorum",
+    "SpecCode": "12647",
+    "CommonName": "Bicolor cichlops",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pictichromis porphyrea",
+    "SpecCode": "7461",
+    "CommonName": "Kurenai-nise-suzume",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,127 @@
+{
+  "Family": "Agonidae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Poachers",
+  "Genera": [
+    {
+      "Genus": "Agonomalus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/agonidae/agonomalus.json"
+    },
+    {
+      "Genus": "Agonopsis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/agonidae/agonopsis.json"
+    },
+    {
+      "Genus": "Agonus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/agonidae/agonus.json"
+    },
+    {
+      "Genus": "Anoplagonus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/agonidae/anoplagonus.json"
+    },
+    {
+      "Genus": "Aspidophoroides",
+      "SpeciesCount": 2,
+      "genus_path": "genera/agonidae/aspidophoroides.json"
+    },
+    {
+      "Genus": "Bathyagonus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/agonidae/bathyagonus.json"
+    },
+    {
+      "Genus": "Blepsias",
+      "SpeciesCount": 2,
+      "genus_path": "genera/agonidae/blepsias.json"
+    },
+    {
+      "Genus": "Bothragonus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/agonidae/bothragonus.json"
+    },
+    {
+      "Genus": "Brachyopsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/agonidae/brachyopsis.json"
+    },
+    {
+      "Genus": "Chesnonia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/agonidae/chesnonia.json"
+    },
+    {
+      "Genus": "Freemanichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/agonidae/freemanichthys.json"
+    },
+    {
+      "Genus": "Hemitripterus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/agonidae/hemitripterus.json"
+    },
+    {
+      "Genus": "Hypsagonus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/agonidae/hypsagonus.json"
+    },
+    {
+      "Genus": "Leptagonus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/agonidae/leptagonus.json"
+    },
+    {
+      "Genus": "Nautichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/agonidae/nautichthys.json"
+    },
+    {
+      "Genus": "Occella",
+      "SpeciesCount": 4,
+      "genus_path": "genera/agonidae/occella.json"
+    },
+    {
+      "Genus": "Odontopyxis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/agonidae/odontopyxis.json"
+    },
+    {
+      "Genus": "Pallasina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/agonidae/pallasina.json"
+    },
+    {
+      "Genus": "Percis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/agonidae/percis.json"
+    },
+    {
+      "Genus": "Podothecus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/agonidae/podothecus.json"
+    },
+    {
+      "Genus": "Sarritor",
+      "SpeciesCount": 3,
+      "genus_path": "genera/agonidae/sarritor.json"
+    },
+    {
+      "Genus": "Stellerina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/agonidae/stellerina.json"
+    },
+    {
+      "Genus": "Tilesina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/agonidae/tilesina.json"
+    },
+    {
+      "Genus": "Xeneretmus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/agonidae/xeneretmus.json"
+    }
+  ]
+}

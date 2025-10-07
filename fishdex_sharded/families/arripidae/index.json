@@ -1,0 +1,12 @@
+{
+  "Family": "Arripidae",
+  "Order": "Scombriformes",
+  "Common": "Australian salmon",
+  "Genera": [
+    {
+      "Genus": "Arripis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/arripidae/arripis.json"
+    }
+  ]
+}

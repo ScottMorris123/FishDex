@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Thymichthys politus",
+    "SpecCode": "24718",
+    "CommonName": "Red handfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thymichthys verrucosus",
+    "SpecCode": "24724",
+    "CommonName": "Warty anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

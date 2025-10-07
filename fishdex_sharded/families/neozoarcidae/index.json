@@ -1,0 +1,17 @@
+{
+  "Family": "Neozoarcidae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "\"Largemouth kissing eelpouts\"",
+  "Genera": [
+    {
+      "Genus": "Neozoarces",
+      "SpeciesCount": 2,
+      "genus_path": "genera/neozoarcidae/neozoarces.json"
+    },
+    {
+      "Genus": "Zoarchias",
+      "SpeciesCount": 8,
+      "genus_path": "genera/neozoarcidae/zoarchias.json"
+    }
+  ]
+}

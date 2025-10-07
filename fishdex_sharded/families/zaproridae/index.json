@@ -1,0 +1,12 @@
+{
+  "Family": "Zaproridae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "Prowfish",
+  "Genera": [
+    {
+      "Genus": "Zaprora",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zaproridae/zaprora.json"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Leptobarbus hoevenii",
+    "SpecCode": "4797",
+    "CommonName": "Amuřice Hoevenova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptobarbus hosii",
+    "SpecCode": "17413",
+    "CommonName": "Borneo saleparrak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptobarbus melanopterus",
+    "SpecCode": "17415",
+    "CommonName": "Amuřice černoploutvá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptobarbus melanotaenia",
+    "SpecCode": "5438",
+    "CommonName": "Amuřice tmavopruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptobarbus rubripinna",
+    "SpecCode": "65235",
+    "CommonName": "Punauim-saleparrak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

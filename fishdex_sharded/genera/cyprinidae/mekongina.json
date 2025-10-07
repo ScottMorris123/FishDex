@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Mekongina bibarba",
+    "SpecCode": "62812",
+    "CommonName": "Sesani mekongiin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mekongina erythrospila",
+    "SpecCode": "16215",
+    "CommonName": "Mekongina bezvousá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mekongina lancangensis",
+    "SpecCode": "64785",
+    "CommonName": "Lancangi mekongiin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

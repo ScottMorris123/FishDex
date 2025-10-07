@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Saurenchelys cancrivora",
+    "SpecCode": "1755",
+    "CommonName": "Sale sisalangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys cognita",
+    "SpecCode": "58722",
+    "CommonName": "Klaar sisalangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys elongata",
+    "SpecCode": "70485",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys fierasfer",
+    "SpecCode": "8292",
+    "CommonName": "Belut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys finitima",
+    "SpecCode": "24276",
+    "CommonName": "Austraalia sisalangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys gigas",
+    "SpecCode": "70527",
+    "CommonName": "Giant duckbill eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys halimyon",
+    "SpecCode": "70483",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys lateromaculata",
+    "SpecCode": "58723",
+    "CommonName": "Štíhlohlavec skvrnoboký",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys meteori",
+    "SpecCode": "58724",
+    "CommonName": "Meteori sisalangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys stylura",
+    "SpecCode": "24278",
+    "CommonName": "Pillar wire eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurenchelys taiwanensis",
+    "SpecCode": "63066",
+    "CommonName": "Filipiini sisalangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

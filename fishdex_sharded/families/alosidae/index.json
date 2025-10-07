@@ -1,0 +1,27 @@
+{
+  "Family": "Alosidae",
+  "Order": "Clupeiformes",
+  "Common": "Shads and Sardines",
+  "Genera": [
+    {
+      "Genus": "Alosa",
+      "SpeciesCount": 24,
+      "genus_path": "genera/alosidae/alosa.json"
+    },
+    {
+      "Genus": "Brevoortia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/alosidae/brevoortia.json"
+    },
+    {
+      "Genus": "Sardina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alosidae/sardina.json"
+    },
+    {
+      "Genus": "Sardinops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/alosidae/sardinops.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Typhlonarke aysoni",
+    "SpecCode": "47413",
+    "CommonName": "Blind electric ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Typhlonarke tarakea",
+    "SpecCode": "47409",
+    "CommonName": "Numbfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

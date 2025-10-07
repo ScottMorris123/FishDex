@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Ammodytoides gilli",
+    "SpecCode": "46802",
+    "CommonName": "Gill's sand lance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytoides idai",
+    "SpecCode": "65358",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytoides kanazawai",
+    "SpecCode": "66971",
+    "CommonName": "Gomahire-minami-ikanago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytoides kimurai",
+    "SpecCode": "58287",
+    "CommonName": "Minami-ikanago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytoides leptus",
+    "SpecCode": "58285",
+    "CommonName": "Pitcairn Sandlance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytoides praematura",
+    "SpecCode": "65359",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytoides pylei",
+    "SpecCode": "57467",
+    "CommonName": "Pyle's sand lance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytoides renniei",
+    "SpecCode": "15953",
+    "CommonName": "Scaly sandlance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytoides vagus",
+    "SpecCode": "58286",
+    "CommonName": "Sand Lance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ammodytoides xanthops",
+    "SpecCode": "65331",
+    "CommonName": "Yellow face sandlance",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Amblyopsis hoosieri",
+    "SpecCode": "67580",
+    "CommonName": "Hoosier cavefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyopsis rosae",
+    "SpecCode": "3058",
+    "CommonName": "Ozark Cavefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyopsis spelaea",
+    "SpecCode": "3059",
+    "CommonName": "Koopa-pimesilm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

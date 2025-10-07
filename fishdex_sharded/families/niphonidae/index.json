@@ -1,0 +1,12 @@
+{
+  "Family": "Niphonidae",
+  "Order": "Perciformes/Percoidei",
+  "Common": "Ara groupers",
+  "Genera": [
+    {
+      "Genus": "Niphon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/niphonidae/niphon.json"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+[
+  {
+    "ScientificName": "Sinogastromyzon chapaensis",
+    "SpecCode": "58559",
+    "CommonName": "Přísavník chapaenský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon daduheensis",
+    "SpecCode": "67209",
+    "CommonName": "Dadu hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon daon",
+    "SpecCode": "65678",
+    "CommonName": "Đà hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon dezeensis",
+    "SpecCode": "66435",
+    "CommonName": "Deze hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon hagiangensis",
+    "SpecCode": "65686",
+    "CommonName": "Hàgiangi hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon hexaocellum",
+    "SpecCode": "65687",
+    "CommonName": "Kuuslaik-hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon hsiashiensis",
+    "SpecCode": "60426",
+    "CommonName": "Guizhou hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon hypercorpus",
+    "SpecCode": "65690",
+    "CommonName": "Kõrge hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon lixianjiangensis",
+    "SpecCode": "65193",
+    "CommonName": "Lixiani hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon macrostoma",
+    "SpecCode": "65194",
+    "CommonName": "Suursuu-hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon maon",
+    "SpecCode": "65697",
+    "CommonName": "Mã hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon minutus",
+    "SpecCode": "58563",
+    "CommonName": "Přísavník drobný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon multiocellum",
+    "SpecCode": "65742",
+    "CommonName": "Hulklaik-hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon namnaensis",
+    "SpecCode": "65706",
+    "CommonName": "Nâmna hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon nanpanjiangensis",
+    "SpecCode": "59939",
+    "CommonName": "Nanpani hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon nantaiensis",
+    "SpecCode": "60386",
+    "CommonName": "Nantai hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon puliensis",
+    "SpecCode": "17242",
+    "CommonName": "Přísavník tajvanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon rugocauda",
+    "SpecCode": "58565",
+    "CommonName": "Kurdsaba-hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon sichangensis",
+    "SpecCode": "56084",
+    "CommonName": "Anningi hiinahink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon szechuanensis",
+    "SpecCode": "60436",
+    "CommonName": "Přísavník sečuánský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon tonkinensis",
+    "SpecCode": "58571",
+    "CommonName": "Přísavník tonkinský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinogastromyzon wui",
+    "SpecCode": "55002",
+    "CommonName": "Naamioimunuoliainen",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

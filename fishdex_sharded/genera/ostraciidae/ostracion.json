@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Ostracion cubicum",
+    "SpecCode": "6555",
+    "CommonName": "Baka baka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostracion cyanurus",
+    "SpecCode": "12743",
+    "CommonName": "Arabischer Kofferfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostracion immaculatum",
+    "SpecCode": "12825",
+    "CommonName": "Baka baka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostracion meleagris",
+    "SpecCode": "6556",
+    "CommonName": "Blå kuffertfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostracion rhinorhynchos",
+    "SpecCode": "8288",
+    "CommonName": "Baka baka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostracion solorense",
+    "SpecCode": "6577",
+    "CommonName": "Buntel koper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostracion trachys",
+    "SpecCode": "25415",
+    "CommonName": "Roughskin trunkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostracion whitleyi",
+    "SpecCode": "7862",
+    "CommonName": "Moa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "ScientificName": "Patagonotothen brevicauda",
+    "SpecCode": "7052",
+    "CommonName": "Bocasse de Patagonie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen canina",
+    "SpecCode": "65898",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen cornucola",
+    "SpecCode": "59312",
+    "CommonName": "仙南极鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen elegans",
+    "SpecCode": "55274",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen guntheri",
+    "SpecCode": "54742",
+    "CommonName": "Günthers isfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen jordani",
+    "SpecCode": "55272",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen kreffti",
+    "SpecCode": "59313",
+    "CommonName": "克氏南美南极鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen longipes",
+    "SpecCode": "54648",
+    "CommonName": "Ashinaga-notosenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen ramsayi",
+    "SpecCode": "10308",
+    "CommonName": "Cod icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen shagensis",
+    "SpecCode": "54743",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen sima",
+    "SpecCode": "55271",
+    "CommonName": "扁鼻南美南极鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen squamiceps",
+    "SpecCode": "55268",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen tessellata",
+    "SpecCode": "5134",
+    "CommonName": "Black southern cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen thompsoni",
+    "SpecCode": "59314",
+    "CommonName": "汤氏南美南极鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen trigramma",
+    "SpecCode": "60950",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Patagonotothen wiltoni",
+    "SpecCode": "54744",
+    "CommonName": "Uiruton-notosenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

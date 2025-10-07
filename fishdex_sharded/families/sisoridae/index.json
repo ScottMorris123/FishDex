@@ -1,0 +1,132 @@
+{
+  "Family": "Sisoridae",
+  "Order": "Siluriformes",
+  "Common": "Sisorid catfishes",
+  "Genera": [
+    {
+      "Genus": "Ayarnangra",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sisoridae/ayarnangra.json"
+    },
+    {
+      "Genus": "Bagarius",
+      "SpeciesCount": 5,
+      "genus_path": "genera/sisoridae/bagarius.json"
+    },
+    {
+      "Genus": "Caelatoglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sisoridae/caelatoglanis.json"
+    },
+    {
+      "Genus": "Chimarrichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sisoridae/chimarrichthys.json"
+    },
+    {
+      "Genus": "Conta",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sisoridae/conta.json"
+    },
+    {
+      "Genus": "Creteuchiloglanis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/sisoridae/creteuchiloglanis.json"
+    },
+    {
+      "Genus": "Erethistes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sisoridae/erethistes.json"
+    },
+    {
+      "Genus": "Erethistoides",
+      "SpeciesCount": 10,
+      "genus_path": "genera/sisoridae/erethistoides.json"
+    },
+    {
+      "Genus": "Euchiloglanis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/sisoridae/euchiloglanis.json"
+    },
+    {
+      "Genus": "Exostoma",
+      "SpeciesCount": 10,
+      "genus_path": "genera/sisoridae/exostoma.json"
+    },
+    {
+      "Genus": "Gagata",
+      "SpeciesCount": 8,
+      "genus_path": "genera/sisoridae/gagata.json"
+    },
+    {
+      "Genus": "Glaridoglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sisoridae/glaridoglanis.json"
+    },
+    {
+      "Genus": "Glyptosternon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/sisoridae/glyptosternon.json"
+    },
+    {
+      "Genus": "Glyptothorax",
+      "SpeciesCount": 115,
+      "genus_path": "genera/sisoridae/glyptothorax.json"
+    },
+    {
+      "Genus": "Gogangra",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sisoridae/gogangra.json"
+    },
+    {
+      "Genus": "Hara",
+      "SpeciesCount": 9,
+      "genus_path": "genera/sisoridae/hara.json"
+    },
+    {
+      "Genus": "Myersglanis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sisoridae/myersglanis.json"
+    },
+    {
+      "Genus": "Nangra",
+      "SpeciesCount": 5,
+      "genus_path": "genera/sisoridae/nangra.json"
+    },
+    {
+      "Genus": "Oreoglanis",
+      "SpeciesCount": 22,
+      "genus_path": "genera/sisoridae/oreoglanis.json"
+    },
+    {
+      "Genus": "Parachiloglanis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sisoridae/parachiloglanis.json"
+    },
+    {
+      "Genus": "Pareuchiloglanis",
+      "SpeciesCount": 20,
+      "genus_path": "genera/sisoridae/pareuchiloglanis.json"
+    },
+    {
+      "Genus": "Pseudecheneis",
+      "SpeciesCount": 19,
+      "genus_path": "genera/sisoridae/pseudecheneis.json"
+    },
+    {
+      "Genus": "Pseudexostoma",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sisoridae/pseudexostoma.json"
+    },
+    {
+      "Genus": "Pseudolaguvia",
+      "SpeciesCount": 22,
+      "genus_path": "genera/sisoridae/pseudolaguvia.json"
+    },
+    {
+      "Genus": "Sisor",
+      "SpeciesCount": 6,
+      "genus_path": "genera/sisoridae/sisor.json"
+    }
+  ]
+}

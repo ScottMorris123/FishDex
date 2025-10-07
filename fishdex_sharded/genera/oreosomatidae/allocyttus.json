@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Allocyttus folletti",
+    "SpecCode": "11685",
+    "CommonName": "Okseøje-oreo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allocyttus guineensis",
+    "SpecCode": "9140",
+    "CommonName": "Guinea oreo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allocyttus niger",
+    "SpecCode": "12962",
+    "CommonName": "Arrose noir",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allocyttus verrucosus",
+    "SpecCode": "9144",
+    "CommonName": "Black oreo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

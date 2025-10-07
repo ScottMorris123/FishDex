@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Tilapia baloni",
+    "SpecCode": "8896",
+    "CommonName": "巴劳氏非鲫",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tilapia brevimanus",
+    "SpecCode": "2483",
+    "CommonName": "Kaksijuovatilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tilapia busumana",
+    "SpecCode": "2484",
+    "CommonName": "Silla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tilapia guinasana",
+    "SpecCode": "6332",
+    "CommonName": "Guinas-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tilapia pra",
+    "SpecCode": "65621",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tilapia ruweti",
+    "SpecCode": "8930",
+    "CommonName": "Kakeya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tilapia sparrmanii",
+    "SpecCode": "4719",
+    "CommonName": "Banded bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Stelgistrum beringianum",
+    "SpecCode": "51872",
+    "CommonName": "Smallplate sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stelgistrum concinnum",
+    "SpecCode": "61287",
+    "CommonName": "Largeplate sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stelgistrum stejnegeri",
+    "SpecCode": "23914",
+    "CommonName": "Ottoseikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

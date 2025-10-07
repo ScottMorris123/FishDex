@@ -1,0 +1,27 @@
+{
+  "Family": "Priacanthidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Bigeyes or catalufas",
+  "Genera": [
+    {
+      "Genus": "Cookeolus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/priacanthidae/cookeolus.json"
+    },
+    {
+      "Genus": "Heteropriacanthus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/priacanthidae/heteropriacanthus.json"
+    },
+    {
+      "Genus": "Priacanthus",
+      "SpeciesCount": 12,
+      "genus_path": "genera/priacanthidae/priacanthus.json"
+    },
+    {
+      "Genus": "Pristigenys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/priacanthidae/pristigenys.json"
+    }
+  ]
+}

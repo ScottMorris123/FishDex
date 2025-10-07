@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Leucos albus",
+    "SpecCode": "66286",
+    "CommonName": "Valge särg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucos aula",
+    "SpecCode": "26082",
+    "CommonName": "Dalmaatsia särg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucos basak",
+    "SpecCode": "48461",
+    "CommonName": "Albaania särg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucos panosi",
+    "SpecCode": "62588",
+    "CommonName": "Acheloos roach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leucos ylikiensis",
+    "SpecCode": "49062",
+    "CommonName": "Chirokova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

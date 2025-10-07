@@ -1,0 +1,12 @@
+{
+  "Family": "Ariommatidae",
+  "Order": "Scombriformes",
+  "Common": "Ariommatids",
+  "Genera": [
+    {
+      "Genus": "Ariomma",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ariommatidae/ariomma.json"
+    }
+  ]
+}

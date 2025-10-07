@@ -1,0 +1,47 @@
+{
+  "Family": "Holocentridae",
+  "Order": "Holocentriformes",
+  "Common": "Squirrelfishes, soldierfishes",
+  "Genera": [
+    {
+      "Genus": "Corniger",
+      "SpeciesCount": 1,
+      "genus_path": "genera/holocentridae/corniger.json"
+    },
+    {
+      "Genus": "Holocentrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/holocentridae/holocentrus.json"
+    },
+    {
+      "Genus": "Myripristis",
+      "SpeciesCount": 28,
+      "genus_path": "genera/holocentridae/myripristis.json"
+    },
+    {
+      "Genus": "Neoniphon",
+      "SpeciesCount": 7,
+      "genus_path": "genera/holocentridae/neoniphon.json"
+    },
+    {
+      "Genus": "Ostichthys",
+      "SpeciesCount": 16,
+      "genus_path": "genera/holocentridae/ostichthys.json"
+    },
+    {
+      "Genus": "Plectrypops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/holocentridae/plectrypops.json"
+    },
+    {
+      "Genus": "Pristilepis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/holocentridae/pristilepis.json"
+    },
+    {
+      "Genus": "Sargocentron",
+      "SpeciesCount": 33,
+      "genus_path": "genera/holocentridae/sargocentron.json"
+    }
+  ]
+}

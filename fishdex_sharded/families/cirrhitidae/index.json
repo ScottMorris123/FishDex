@@ -1,0 +1,67 @@
+{
+  "Family": "Cirrhitidae",
+  "Order": "Centrarchiformes",
+  "Common": "Hawkfishes",
+  "Genera": [
+    {
+      "Genus": "Amblycirrhitus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/cirrhitidae/amblycirrhitus.json"
+    },
+    {
+      "Genus": "Cirrhitichthys",
+      "SpeciesCount": 8,
+      "genus_path": "genera/cirrhitidae/cirrhitichthys.json"
+    },
+    {
+      "Genus": "Cirrhitops",
+      "SpeciesCount": 3,
+      "genus_path": "genera/cirrhitidae/cirrhitops.json"
+    },
+    {
+      "Genus": "Cirrhitus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/cirrhitidae/cirrhitus.json"
+    },
+    {
+      "Genus": "Cristacirrhitus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cirrhitidae/cristacirrhitus.json"
+    },
+    {
+      "Genus": "Cyprinocirrhites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cirrhitidae/cyprinocirrhites.json"
+    },
+    {
+      "Genus": "Isocirrhitus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cirrhitidae/isocirrhitus.json"
+    },
+    {
+      "Genus": "Itycirrhitus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cirrhitidae/itycirrhitus.json"
+    },
+    {
+      "Genus": "Neocirrhites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cirrhitidae/neocirrhites.json"
+    },
+    {
+      "Genus": "Notocirrhitus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cirrhitidae/notocirrhitus.json"
+    },
+    {
+      "Genus": "Oxycirrhites",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cirrhitidae/oxycirrhites.json"
+    },
+    {
+      "Genus": "Paracirrhites",
+      "SpeciesCount": 6,
+      "genus_path": "genera/cirrhitidae/paracirrhites.json"
+    }
+  ]
+}

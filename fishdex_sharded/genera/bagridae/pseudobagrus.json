@@ -1,0 +1,281 @@
+[
+  {
+    "ScientificName": "Pseudobagrus albomarginatus",
+    "SpecCode": "50918",
+    "CommonName": "白边拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus analis",
+    "SpecCode": "50919",
+    "CommonName": "長臀擬鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus aurantiacus",
+    "SpecCode": "22948",
+    "CommonName": "Ariake-gibachi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus brachyrhabdion",
+    "SpecCode": "63862",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus brevianalis",
+    "SpecCode": "50920",
+    "CommonName": "短臀拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus brevicaudatus",
+    "SpecCode": "50921",
+    "CommonName": "短尾拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus crassilabris",
+    "SpecCode": "55077",
+    "CommonName": "Varjokimalaismonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus eupogoides",
+    "SpecCode": "50937",
+    "CommonName": "似長鬚黃顙魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus fui",
+    "SpecCode": "50940",
+    "CommonName": "富氏黃顙魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus gracilis",
+    "SpecCode": "62640",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus hwanghoensis",
+    "SpecCode": "50923",
+    "CommonName": "黃河擬鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus kaifenensis",
+    "SpecCode": "50925",
+    "CommonName": "开封拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus koreanus",
+    "SpecCode": "57439",
+    "CommonName": "눈동자개",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus kyphus",
+    "SpecCode": "60033",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus medianalis",
+    "SpecCode": "10396",
+    "CommonName": "Dianchi bullhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus microps",
+    "SpecCode": "50942",
+    "CommonName": "小眼黃顙魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus nubilosus",
+    "SpecCode": "63297",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus omeihensis",
+    "SpecCode": "50926",
+    "CommonName": "峨嵋拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus ondon",
+    "SpecCode": "50927",
+    "CommonName": "盎堂拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus pratti",
+    "SpecCode": "50761",
+    "CommonName": "凹尾拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus rendahli",
+    "SpecCode": "50928",
+    "CommonName": "伦氏拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus sinyanensis",
+    "SpecCode": "60432",
+    "CommonName": "信阳拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus taeniatus",
+    "SpecCode": "50929",
+    "CommonName": "条纹拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus taiwanensis",
+    "SpecCode": "50930",
+    "CommonName": "台湾拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus tenuifurcatus",
+    "SpecCode": "50947",
+    "CommonName": "叉尾鮠",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus tenuis",
+    "SpecCode": "50762",
+    "CommonName": "圆尾拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus tokiensis",
+    "SpecCode": "56248",
+    "CommonName": "Gibachi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus trilineatus",
+    "SpecCode": "55078",
+    "CommonName": "三線擬鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus truncatus",
+    "SpecCode": "50932",
+    "CommonName": "切尾拟鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus vachellii",
+    "SpecCode": "50950",
+    "CommonName": "]",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagrus wangi",
+    "SpecCode": "50959",
+    "CommonName": "王氏黃顙魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

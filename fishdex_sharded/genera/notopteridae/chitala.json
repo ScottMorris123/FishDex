@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Chitala blanci",
+    "SpecCode": "6086",
+    "CommonName": "Dtong gai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chitala borneensis",
+    "SpecCode": "62903",
+    "CommonName": "Borneo väitskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chitala chitala",
+    "SpecCode": "2078",
+    "CommonName": "Ambattankathi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chitala hypselonotus",
+    "SpecCode": "62904",
+    "CommonName": "Belida",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chitala lopis",
+    "SpecCode": "8765",
+    "CommonName": "Chital",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chitala ornata",
+    "SpecCode": "27034",
+    "CommonName": "Clown featherback",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

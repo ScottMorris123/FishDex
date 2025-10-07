@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Echinomacrurus mollis",
+    "SpecCode": "56997",
+    "CommonName": "軟棘蝟鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Echinomacrurus occidentalis",
+    "SpecCode": "54413",
+    "CommonName": "西方猬鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

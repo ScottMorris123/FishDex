@@ -1,0 +1,27 @@
+{
+  "Family": "Etmopteridae",
+  "Order": "Squaliformes",
+  "Common": "Lantern sharks",
+  "Genera": [
+    {
+      "Genus": "Aculeola",
+      "SpeciesCount": 1,
+      "genus_path": "genera/etmopteridae/aculeola.json"
+    },
+    {
+      "Genus": "Centroscyllium",
+      "SpeciesCount": 7,
+      "genus_path": "genera/etmopteridae/centroscyllium.json"
+    },
+    {
+      "Genus": "Etmopterus",
+      "SpeciesCount": 44,
+      "genus_path": "genera/etmopteridae/etmopterus.json"
+    },
+    {
+      "Genus": "Trigonognathus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/etmopteridae/trigonognathus.json"
+    }
+  ]
+}

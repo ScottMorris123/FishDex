@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Chrysobrycon eliasi",
+    "SpecCode": "66382",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysobrycon guahibo",
+    "SpecCode": "68962",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysobrycon hesperus",
+    "SpecCode": "51146",
+    "CommonName": "Mojara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysobrycon myersi",
+    "SpecCode": "51147",
+    "CommonName": "Mojara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysobrycon yoliae",
+    "SpecCode": "67627",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

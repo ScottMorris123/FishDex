@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Botia almorhae",
+    "SpecCode": "24687",
+    "CommonName": "Almorha bootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Botia birdi",
+    "SpecCode": "24689",
+    "CommonName": "Birdi bootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Botia dario",
+    "SpecCode": "12248",
+    "CommonName": "Bengal loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Botia histrionica",
+    "SpecCode": "24691",
+    "CommonName": "Arlekiinbootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Botia kubotai",
+    "SpecCode": "61508",
+    "CommonName": "Kubota bootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Botia lohachata",
+    "SpecCode": "12253",
+    "CommonName": "Bagha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Botia rostrata",
+    "SpecCode": "24692",
+    "CommonName": "Bengal loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Botia striata",
+    "SpecCode": "12255",
+    "CommonName": "Handi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Botia udomritthiruji",
+    "SpecCode": "63558",
+    "CommonName": "Keiserbootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

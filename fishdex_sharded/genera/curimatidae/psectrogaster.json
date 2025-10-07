@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Psectrogaster amazonica",
+    "SpecCode": "25651",
+    "CommonName": "Boquiche",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psectrogaster ciliata",
+    "SpecCode": "56443",
+    "CommonName": "Beiru",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psectrogaster curviventris",
+    "SpecCode": "53109",
+    "CommonName": "Blanquillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psectrogaster essequibensis",
+    "SpecCode": "51317",
+    "CommonName": "圭亚那刀腹脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psectrogaster falcata",
+    "SpecCode": "53106",
+    "CommonName": "鐮刀腹脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psectrogaster rhomboides",
+    "SpecCode": "53107",
+    "CommonName": "Beru",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psectrogaster rutiloides",
+    "SpecCode": "25652",
+    "CommonName": "Boquiche",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psectrogaster saguiru",
+    "SpecCode": "53111",
+    "CommonName": "巴西刀腹脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

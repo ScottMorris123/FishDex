@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Gobioclinus bucciferus",
+    "SpecCode": "3729",
+    "CommonName": "Puffcheek blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioclinus dendriticus",
+    "SpecCode": "25531",
+    "CommonName": "Bravo clinid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioclinus filamentosus",
+    "SpecCode": "23735",
+    "CommonName": "Quillfin Blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioclinus gobio",
+    "SpecCode": "3730",
+    "CommonName": "Goggle eye blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioclinus guppyi",
+    "SpecCode": "3731",
+    "CommonName": "Mimic blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioclinus haitiensis",
+    "SpecCode": "3732",
+    "CommonName": "Longfin Blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioclinus kalisherae",
+    "SpecCode": "3733",
+    "CommonName": "Blénido colorao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

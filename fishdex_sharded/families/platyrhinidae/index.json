@@ -1,0 +1,17 @@
+{
+  "Family": "Platyrhinidae",
+  "Order": "Torpediniformes",
+  "Common": "Fanrays",
+  "Genera": [
+    {
+      "Genus": "Platyrhina",
+      "SpeciesCount": 4,
+      "genus_path": "genera/platyrhinidae/platyrhina.json"
+    },
+    {
+      "Genus": "Platyrhinoidis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/platyrhinidae/platyrhinoidis.json"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Gobitrichinotus arnoulti",
+    "SpecCode": "62106",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobitrichinotus radiocularis",
+    "SpecCode": "25035",
+    "CommonName": "Naminokohaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

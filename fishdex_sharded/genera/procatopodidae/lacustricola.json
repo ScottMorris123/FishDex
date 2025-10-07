@@ -1,0 +1,227 @@
+[
+  {
+    "ScientificName": "Lacustricola atripinna",
+    "SpecCode": "9654",
+    "CommonName": "黑鰭燈鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola bukobanus",
+    "SpecCode": "9687",
+    "CommonName": "Bukoba lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola centralis",
+    "SpecCode": "53144",
+    "CommonName": "Cental east african lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola chobensis",
+    "SpecCode": "69820",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola hutereaui",
+    "SpecCode": "8383",
+    "CommonName": "Hutereau's lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola jeanneli",
+    "SpecCode": "9657",
+    "CommonName": "Omo lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola kassenjiensis",
+    "SpecCode": "68070",
+    "CommonName": "Albertsee-Leuchtaugenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola katangae",
+    "SpecCode": "8384",
+    "CommonName": "Blackstripe lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola kongoranensis",
+    "SpecCode": "9661",
+    "CommonName": "Kongoro lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola lacustris",
+    "SpecCode": "49841",
+    "CommonName": "Kibiti Lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola lualabaensis",
+    "SpecCode": "9663",
+    "CommonName": "Lualaba lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola macrurus",
+    "SpecCode": "9666",
+    "CommonName": "Big tailed lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola maculatus",
+    "SpecCode": "9667",
+    "CommonName": "Gelber Leuchtaugenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola matthesi",
+    "SpecCode": "53145",
+    "CommonName": "Matthes' Lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola mediolateralis",
+    "SpecCode": "9669",
+    "CommonName": "Kakenga matako",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola moeruensis",
+    "SpecCode": "9671",
+    "CommonName": "Moero lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola myaposae",
+    "SpecCode": "9672",
+    "CommonName": "Kakenga matako",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola nigrolateralis",
+    "SpecCode": "9673",
+    "CommonName": "Lumbungo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola nitida",
+    "SpecCode": "69818",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola omoculatus",
+    "SpecCode": "9674",
+    "CommonName": "Ruaha lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola petnehazyi",
+    "SpecCode": "69080",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola pumilus",
+    "SpecCode": "9676",
+    "CommonName": "Kleiner Tanganjika-Leuchtaugenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola pygmaeus",
+    "SpecCode": "69821",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola usanguensis",
+    "SpecCode": "9681",
+    "CommonName": "Usangu lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lacustricola vitschumbaensis",
+    "SpecCode": "2086",
+    "CommonName": "Bitschumbi lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Family": "Zanclidae",
+  "Order": "Acanthuriformes",
+  "Common": "Moorish idol",
+  "Genera": [
+    {
+      "Genus": "Zanclus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/zanclidae/zanclus.json"
+    }
+  ]
+}

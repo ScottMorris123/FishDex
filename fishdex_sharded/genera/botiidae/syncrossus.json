@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Syncrossus beauforti",
+    "SpecCode": "12242",
+    "CommonName": "Barred loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncrossus berdmorei",
+    "SpecCode": "24688",
+    "CommonName": "Blyth's loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncrossus helodes",
+    "SpecCode": "26856",
+    "CommonName": "Cá Heo sọc",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncrossus hymenophysa",
+    "SpecCode": "10892",
+    "CommonName": "Avematjan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syncrossus reversus",
+    "SpecCode": "23018",
+    "CommonName": "Küüt-narmasbootsia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Synclidopus hogani",
+    "SpecCode": "66025",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synclidopus macleayanus",
+    "SpecCode": "8953",
+    "CommonName": "Narrowbanded sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

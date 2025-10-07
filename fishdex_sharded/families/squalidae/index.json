@@ -1,0 +1,17 @@
+{
+  "Family": "Squalidae",
+  "Order": "Squaliformes",
+  "Common": "Dogfish sharks",
+  "Genera": [
+    {
+      "Genus": "Cirrhigaleus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/squalidae/cirrhigaleus.json"
+    },
+    {
+      "Genus": "Squalus",
+      "SpeciesCount": 37,
+      "genus_path": "genera/squalidae/squalus.json"
+    }
+  ]
+}

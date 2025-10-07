@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Phallostethus cuulong",
+    "SpecCode": "66850",
+    "CommonName": "Cá bụng đầu",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallostethus dunckeri",
+    "SpecCode": "6292",
+    "CommonName": "精器魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phallostethus lehi",
+    "SpecCode": "26962",
+    "CommonName": "馬來亞精器魚",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

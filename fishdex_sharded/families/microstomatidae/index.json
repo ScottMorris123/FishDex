@@ -1,0 +1,22 @@
+{
+  "Family": "Microstomatidae",
+  "Order": "Argentiniformes",
+  "Common": "Pencil smelts",
+  "Genera": [
+    {
+      "Genus": "Microstoma",
+      "SpeciesCount": 2,
+      "genus_path": "genera/microstomatidae/microstoma.json"
+    },
+    {
+      "Genus": "Nansenia",
+      "SpeciesCount": 18,
+      "genus_path": "genera/microstomatidae/nansenia.json"
+    },
+    {
+      "Genus": "Xenophthalmichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/microstomatidae/xenophthalmichthys.json"
+    }
+  ]
+}

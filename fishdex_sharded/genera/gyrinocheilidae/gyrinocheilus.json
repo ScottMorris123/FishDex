@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gyrinocheilus aymonieri",
+    "SpecCode": "12298",
+    "CommonName": "Algae eater",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gyrinocheilus pennocki",
+    "SpecCode": "27179",
+    "CommonName": "Chungchuk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gyrinocheilus pustulosus",
+    "SpecCode": "12299",
+    "CommonName": "Borneo algae-eater",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

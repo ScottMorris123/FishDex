@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Dasyscopelus asper",
+    "SpecCode": "4488",
+    "CommonName": "Ara-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyscopelus obtusirostris",
+    "SpecCode": "7416",
+    "CommonName": "Bluntsnout lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyscopelus selenops",
+    "SpecCode": "7425",
+    "CommonName": "Hishi-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dasyscopelus spinosus",
+    "SpecCode": "4491",
+    "CommonName": "Cuvier's lantern-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

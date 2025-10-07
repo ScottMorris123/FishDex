@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Porotergus duende",
+    "SpecCode": "65364",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porotergus gimbeli",
+    "SpecCode": "48024",
+    "CommonName": "金氏背孔电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porotergus gymnotus",
+    "SpecCode": "28043",
+    "CommonName": "Atoukoubala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

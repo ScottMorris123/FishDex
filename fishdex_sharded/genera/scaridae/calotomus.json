@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Calotomus carolinus",
+    "SpecCode": "4355",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calotomus japonicus",
+    "SpecCode": "4356",
+    "CommonName": "Budai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calotomus spinidens",
+    "SpecCode": "4357",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calotomus viridescens",
+    "SpecCode": "4358",
+    "CommonName": "Blattgrüner Papageifisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calotomus zonarchus",
+    "SpecCode": "4359",
+    "CommonName": "Gulbåndet papegøjefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

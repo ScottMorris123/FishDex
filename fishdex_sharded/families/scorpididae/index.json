@@ -1,0 +1,27 @@
+{
+  "Family": "Scorpididae",
+  "Order": "Centrarchiformes",
+  "Common": "Halfmoons",
+  "Genera": [
+    {
+      "Genus": "Bathystethus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scorpididae/bathystethus.json"
+    },
+    {
+      "Genus": "Labracoglossa",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scorpididae/labracoglossa.json"
+    },
+    {
+      "Genus": "Medialuna",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scorpididae/medialuna.json"
+    },
+    {
+      "Genus": "Scorpis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/scorpididae/scorpis.json"
+    }
+  ]
+}

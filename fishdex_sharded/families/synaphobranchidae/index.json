@@ -1,0 +1,67 @@
+{
+  "Family": "Synaphobranchidae",
+  "Order": "Anguilliformes",
+  "Common": "Cutthroat eels",
+  "Genera": [
+    {
+      "Genus": "Atractodenchelys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/synaphobranchidae/atractodenchelys.json"
+    },
+    {
+      "Genus": "Diastobranchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synaphobranchidae/diastobranchus.json"
+    },
+    {
+      "Genus": "Dysomma",
+      "SpeciesCount": 17,
+      "genus_path": "genera/synaphobranchidae/dysomma.json"
+    },
+    {
+      "Genus": "Dysommina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/synaphobranchidae/dysommina.json"
+    },
+    {
+      "Genus": "Haptenchelys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/synaphobranchidae/haptenchelys.json"
+    },
+    {
+      "Genus": "Histiobranchus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/synaphobranchidae/histiobranchus.json"
+    },
+    {
+      "Genus": "Ilyophis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/synaphobranchidae/ilyophis.json"
+    },
+    {
+      "Genus": "Linkenchelys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synaphobranchidae/linkenchelys.json"
+    },
+    {
+      "Genus": "Meadia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/synaphobranchidae/meadia.json"
+    },
+    {
+      "Genus": "Simenchelys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synaphobranchidae/simenchelys.json"
+    },
+    {
+      "Genus": "Synaphobranchus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/synaphobranchidae/synaphobranchus.json"
+    },
+    {
+      "Genus": "Thermobiotes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/synaphobranchidae/thermobiotes.json"
+    }
+  ]
+}

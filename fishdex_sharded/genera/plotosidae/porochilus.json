@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Porochilus argenteus",
+    "SpecCode": "12093",
+    "CommonName": "Central Australian catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porochilus meraukensis",
+    "SpecCode": "25567",
+    "CommonName": "Keltatandani",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porochilus obbesi",
+    "SpecCode": "22654",
+    "CommonName": "Obbes' catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Porochilus rendahli",
+    "SpecCode": "22656",
+    "CommonName": "Junggali",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

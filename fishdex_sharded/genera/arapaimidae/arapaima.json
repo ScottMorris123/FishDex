@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Arapaima agassizii",
+    "SpecCode": "67125",
+    "CommonName": "Agassizi arapaima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arapaima gigas",
+    "SpecCode": "2076",
+    "CommonName": "Arapaima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arapaima leptosoma",
+    "SpecCode": "67123",
+    "CommonName": "Sale arapaima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arapaima mapae",
+    "SpecCode": "67124",
+    "CommonName": "Amapá arapaima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

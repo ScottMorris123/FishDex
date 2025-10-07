@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Sueviota aprica",
+    "SpecCode": "59923",
+    "CommonName": "Sunny dwarfgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sueviota atrinasa",
+    "SpecCode": "59924",
+    "CommonName": "Blacknose dwarfgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sueviota bryozophila",
+    "SpecCode": "68072",
+    "CommonName": "Bryozoan goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sueviota lachneri",
+    "SpecCode": "25538",
+    "CommonName": "Ernie's sueviota",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sueviota larsonae",
+    "SpecCode": "59349",
+    "CommonName": "Larson's sueviota",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sueviota minersorum",
+    "SpecCode": "69070",
+    "CommonName": "Miner's dwarfgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sueviota pyrios",
+    "SpecCode": "68188",
+    "CommonName": "Fiery dwarfgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sueviota tubicola",
+    "SpecCode": "68352",
+    "CommonName": "Tubeworm dwarfgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

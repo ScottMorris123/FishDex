@@ -1,0 +1,17 @@
+{
+  "Family": "Neosebastidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Gurnard scorpionfishes",
+  "Genera": [
+    {
+      "Genus": "Maxillicosta",
+      "SpeciesCount": 6,
+      "genus_path": "genera/neosebastidae/maxillicosta.json"
+    },
+    {
+      "Genus": "Neosebastes",
+      "SpeciesCount": 12,
+      "genus_path": "genera/neosebastidae/neosebastes.json"
+    }
+  ]
+}

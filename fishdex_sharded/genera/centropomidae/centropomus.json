@@ -1,0 +1,139 @@
+[
+  {
+    "ScientificName": "Centropomus armatus",
+    "SpecCode": "10975",
+    "CommonName": "Armed snook",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus ensiferus",
+    "SpecCode": "1013",
+    "CommonName": "Binnensnoek",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus irae",
+    "SpecCode": "69394",
+    "CommonName": "Camorim Irá",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus medius",
+    "SpecCode": "6429",
+    "CommonName": "Blackfin snook",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus mexicanus",
+    "SpecCode": "7531",
+    "CommonName": "Constantino snook",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus nigrescens",
+    "SpecCode": "6428",
+    "CommonName": "Black robalo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus parallelus",
+    "SpecCode": "1014",
+    "CommonName": "Camorim-corcunda",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus pectinatus",
+    "SpecCode": "1015",
+    "CommonName": "Baileta",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus poeyi",
+    "SpecCode": "1016",
+    "CommonName": "Crossie mexicaine",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus robalito",
+    "SpecCode": "10978",
+    "CommonName": "Conguito blanco",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus undecimalis",
+    "SpecCode": "345",
+    "CommonName": "Almindelig robalo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus unionensis",
+    "SpecCode": "10981",
+    "CommonName": "Crossie serran",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centropomus viridis",
+    "SpecCode": "6430",
+    "CommonName": "Crossie argenté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

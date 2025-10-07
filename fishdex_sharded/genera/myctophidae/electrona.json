@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Electrona antarctica",
+    "SpecCode": "6984",
+    "CommonName": "Antarctic lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Electrona carlsbergi",
+    "SpecCode": "6985",
+    "CommonName": "Carlsberg's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Electrona paucirastra",
+    "SpecCode": "6986",
+    "CommonName": "Belted lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Electrona risso",
+    "SpecCode": "1714",
+    "CommonName": "Chispa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Electrona subaspera",
+    "SpecCode": "6987",
+    "CommonName": "Big-eye lantern-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

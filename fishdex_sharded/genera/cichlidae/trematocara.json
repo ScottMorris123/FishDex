@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Trematocara caparti",
+    "SpecCode": "8955",
+    "CommonName": "Planktonkara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocara kufferathi",
+    "SpecCode": "8957",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocara macrostoma",
+    "SpecCode": "8891",
+    "CommonName": "大口远孔丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocara marginatum",
+    "SpecCode": "8959",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocara nigrifrons",
+    "SpecCode": "8960",
+    "CommonName": "Syvännekara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocara stigmaticum",
+    "SpecCode": "8962",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocara unimaculatum",
+    "SpecCode": "8963",
+    "CommonName": "Täpläkara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocara variabile",
+    "SpecCode": "8965",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocara zebra",
+    "SpecCode": "51602",
+    "CommonName": "Seeprakara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,713 @@
+[
+  {
+    "ScientificName": "Diaphus adenomus",
+    "SpecCode": "7432",
+    "CommonName": "Gilbert's large lantern fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus agassizii",
+    "SpecCode": "70490",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus aliciae",
+    "SpecCode": "16729",
+    "CommonName": "Nirami-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus anderseni",
+    "SpecCode": "7433",
+    "CommonName": "Andersen's lantern fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus antonbruuni",
+    "SpecCode": "16730",
+    "CommonName": "大口眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus arabicus",
+    "SpecCode": "60936",
+    "CommonName": "阿拉伯眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus balanovi",
+    "SpecCode": "69619",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus basileusi",
+    "SpecCode": "59940",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus bertelseni",
+    "SpecCode": "11880",
+    "CommonName": "Bertelsen's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus brachycephalus",
+    "SpecCode": "7434",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus burtoni",
+    "SpecCode": "59758",
+    "CommonName": "波腾眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus chrysorhynchus",
+    "SpecCode": "7435",
+    "CommonName": "Golden-nosed lantern fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus coeruleus",
+    "SpecCode": "10329",
+    "CommonName": "Blue lantern fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus confusus",
+    "SpecCode": "60920",
+    "CommonName": "惑眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus dahlgreni",
+    "SpecCode": "59136",
+    "CommonName": "达尔格伦氏眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus danae",
+    "SpecCode": "24665",
+    "CommonName": "Blue lantern-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus dehaveni",
+    "SpecCode": "59137",
+    "CommonName": "迪氏眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus diadematus",
+    "SpecCode": "16650",
+    "CommonName": "Crown lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus diademophilus",
+    "SpecCode": "59150",
+    "CommonName": "冠冕眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus drachmanni",
+    "SpecCode": "24676",
+    "CommonName": "Drachmann's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus dumerilii",
+    "SpecCode": "6590",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus effulgens",
+    "SpecCode": "10264",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus ehrhorni",
+    "SpecCode": "59138",
+    "CommonName": "伊氏眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus faustinoi",
+    "SpecCode": "59139",
+    "CommonName": "福氏眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus fragilis",
+    "SpecCode": "7437",
+    "CommonName": "Fragile lantern fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus fulgens",
+    "SpecCode": "16732",
+    "CommonName": "Kobito-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus garmani",
+    "SpecCode": "10265",
+    "CommonName": "Garman's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus gigas",
+    "SpecCode": "27477",
+    "CommonName": "Suitô-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus handi",
+    "SpecCode": "59140",
+    "CommonName": "汉德氏眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus holti",
+    "SpecCode": "1711",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus hudsoni",
+    "SpecCode": "6982",
+    "CommonName": "Hudson's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus impostor",
+    "SpecCode": "59144",
+    "CommonName": "Imposter lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus jenseni",
+    "SpecCode": "16735",
+    "CommonName": "Chibi-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus kapalae",
+    "SpecCode": "60922",
+    "CommonName": "Kapala lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus knappi",
+    "SpecCode": "16736",
+    "CommonName": "Namida-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus kora",
+    "SpecCode": "60923",
+    "CommonName": "科拉眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus kuroshio",
+    "SpecCode": "23009",
+    "CommonName": "Kuroshio-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus lobatus",
+    "SpecCode": "60935",
+    "CommonName": "叶眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus lucidus",
+    "SpecCode": "10266",
+    "CommonName": "Spotlight lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus lucifrons",
+    "SpecCode": "59759",
+    "CommonName": "吕宋眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus luetkeni",
+    "SpecCode": "16651",
+    "CommonName": "Ganten-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus malayanus",
+    "SpecCode": "16748",
+    "CommonName": "Hanare-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus mascarensis",
+    "SpecCode": "59699",
+    "CommonName": "印度洋眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus meadi",
+    "SpecCode": "16654",
+    "CommonName": "Lanternules de Mead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus megalops",
+    "SpecCode": "59147",
+    "CommonName": "大鱗眶燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus metopoclampus",
+    "SpecCode": "7438",
+    "CommonName": "Bluntnose lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus minax",
+    "SpecCode": "47619",
+    "CommonName": "突吻眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus mollis",
+    "SpecCode": "12413",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus nielseni",
+    "SpecCode": "16749",
+    "CommonName": "Tsukushi-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus ostenfeldi",
+    "SpecCode": "6983",
+    "CommonName": "Ostenfeld's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus pacificus",
+    "SpecCode": "46966",
+    "CommonName": "Linternilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus pallidus",
+    "SpecCode": "60934",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus parini",
+    "SpecCode": "60921",
+    "CommonName": "帕氏眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus parri",
+    "SpecCode": "16752",
+    "CommonName": "Chikame-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus perspicillatus",
+    "SpecCode": "7436",
+    "CommonName": "Flatface lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus phillipsi",
+    "SpecCode": "7439",
+    "CommonName": "Bolin's lantern fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus problematicus",
+    "SpecCode": "16656",
+    "CommonName": "Lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus rafinesquii",
+    "SpecCode": "1712",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus regani",
+    "SpecCode": "23011",
+    "CommonName": "Agari-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus richardsoni",
+    "SpecCode": "16753",
+    "CommonName": "Miho-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus rivatoni",
+    "SpecCode": "63187",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus roei",
+    "SpecCode": "60933",
+    "CommonName": "罗氏眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus sagamiensis",
+    "SpecCode": "61403",
+    "CommonName": "Sagami-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus schmidti",
+    "SpecCode": "7408",
+    "CommonName": "Taka-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus signatus",
+    "SpecCode": "10267",
+    "CommonName": "Bô-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus similis",
+    "SpecCode": "54407",
+    "CommonName": "高位眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus splendidus",
+    "SpecCode": "10174",
+    "CommonName": "Horned lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus suborbitalis",
+    "SpecCode": "10420",
+    "CommonName": "Sen-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus subtilis",
+    "SpecCode": "9030",
+    "CommonName": "細眶燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus taaningi",
+    "SpecCode": "10175",
+    "CommonName": "Rikudana-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus termophilus",
+    "SpecCode": "7440",
+    "CommonName": "Taaning's lantern fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus theta",
+    "SpecCode": "2732",
+    "CommonName": "California headlightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus thiollierei",
+    "SpecCode": "16754",
+    "CommonName": "Thiolliere's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus trachops",
+    "SpecCode": "60292",
+    "CommonName": "管眼眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus umbroculus",
+    "SpecCode": "59141",
+    "CommonName": "纖眶燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus vanhoeffeni",
+    "SpecCode": "16659",
+    "CommonName": "範氏眶燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus watasei",
+    "SpecCode": "10268",
+    "CommonName": "Hadaka-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus whitleyi",
+    "SpecCode": "59142",
+    "CommonName": "惠特利氏眶灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diaphus wisneri",
+    "SpecCode": "59143",
+    "CommonName": "威斯納氏眶燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

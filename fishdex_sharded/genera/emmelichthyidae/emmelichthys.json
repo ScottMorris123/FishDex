@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Emmelichthys cyanescens",
+    "SpecCode": "51667",
+    "CommonName": "Hunboruto-hachibiki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emmelichthys elongatus",
+    "SpecCode": "55128",
+    "CommonName": "長身諧魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emmelichthys karnellai",
+    "SpecCode": "51668",
+    "CommonName": "Ature ure",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emmelichthys marisrubri",
+    "SpecCode": "67648",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emmelichthys nitidus",
+    "SpecCode": "395",
+    "CommonName": "Andorrero del Cabo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emmelichthys papillatus",
+    "SpecCode": "70571",
+    "CommonName": "Papillated redbait.",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emmelichthys ruber",
+    "SpecCode": "10194",
+    "CommonName": "Andorrero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Emmelichthys struhsakeri",
+    "SpecCode": "8213",
+    "CommonName": "Anak riok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

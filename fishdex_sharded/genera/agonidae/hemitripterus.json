@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hemitripterus americanus",
+    "SpecCode": "4097",
+    "CommonName": "Atlandi juushärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitripterus bolini",
+    "SpecCode": "4098",
+    "CommonName": "Bigmouth sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitripterus villosus",
+    "SpecCode": "11725",
+    "CommonName": "Harilik juushärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

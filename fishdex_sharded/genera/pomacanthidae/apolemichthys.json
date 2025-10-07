@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Apolemichthys arcuatus",
+    "SpecCode": "7811",
+    "CommonName": "Banded angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apolemichthys armitagei",
+    "SpecCode": "25411",
+    "CommonName": "Armitage angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apolemichthys griffisi",
+    "SpecCode": "8772",
+    "CommonName": "Griffis angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apolemichthys guezei",
+    "SpecCode": "10934",
+    "CommonName": "Reunion angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apolemichthys kingi",
+    "SpecCode": "25426",
+    "CommonName": "Poisson-ange tigré",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apolemichthys trimaculatus",
+    "SpecCode": "6525",
+    "CommonName": "Adlo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apolemichthys xanthopunctatus",
+    "SpecCode": "10938",
+    "CommonName": "Golden spotted angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apolemichthys xanthotis",
+    "SpecCode": "10940",
+    "CommonName": "Moscht",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apolemichthys xanthurus",
+    "SpecCode": "10943",
+    "CommonName": "Gulhalet kejserfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

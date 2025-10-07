@@ -1,0 +1,202 @@
+{
+  "Family": "Carangidae",
+  "Order": "Carangiformes",
+  "Common": "Jacks and pompanos",
+  "Genera": [
+    {
+      "Genus": "Alectis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/alectis.json"
+    },
+    {
+      "Genus": "Alepes",
+      "SpeciesCount": 5,
+      "genus_path": "genera/carangidae/alepes.json"
+    },
+    {
+      "Genus": "Atropus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/carangidae/atropus.json"
+    },
+    {
+      "Genus": "Atule",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/atule.json"
+    },
+    {
+      "Genus": "Campogramma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/campogramma.json"
+    },
+    {
+      "Genus": "Carangichthys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/carangidae/carangichthys.json"
+    },
+    {
+      "Genus": "Carangoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/carangoides.json"
+    },
+    {
+      "Genus": "Caranx",
+      "SpeciesCount": 19,
+      "genus_path": "genera/carangidae/caranx.json"
+    },
+    {
+      "Genus": "Chloroscombrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/carangidae/chloroscombrus.json"
+    },
+    {
+      "Genus": "Craterognathus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/craterognathus.json"
+    },
+    {
+      "Genus": "Decapterus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/carangidae/decapterus.json"
+    },
+    {
+      "Genus": "Elagatis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/elagatis.json"
+    },
+    {
+      "Genus": "Euprepocaranx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/euprepocaranx.json"
+    },
+    {
+      "Genus": "Ferdauia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/carangidae/ferdauia.json"
+    },
+    {
+      "Genus": "Flavocaranx",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/flavocaranx.json"
+    },
+    {
+      "Genus": "Gnathanodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/gnathanodon.json"
+    },
+    {
+      "Genus": "Hemicaranx",
+      "SpeciesCount": 4,
+      "genus_path": "genera/carangidae/hemicaranx.json"
+    },
+    {
+      "Genus": "Kaiwarinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/kaiwarinus.json"
+    },
+    {
+      "Genus": "Lichia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/lichia.json"
+    },
+    {
+      "Genus": "Megalaspis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/megalaspis.json"
+    },
+    {
+      "Genus": "Naucrates",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/naucrates.json"
+    },
+    {
+      "Genus": "Oligoplites",
+      "SpeciesCount": 5,
+      "genus_path": "genera/carangidae/oligoplites.json"
+    },
+    {
+      "Genus": "Pantolabus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/pantolabus.json"
+    },
+    {
+      "Genus": "Paraselene",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/paraselene.json"
+    },
+    {
+      "Genus": "Parastromateus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/parastromateus.json"
+    },
+    {
+      "Genus": "Parona",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/parona.json"
+    },
+    {
+      "Genus": "Platycaranx",
+      "SpeciesCount": 3,
+      "genus_path": "genera/carangidae/platycaranx.json"
+    },
+    {
+      "Genus": "Pseudocaranx",
+      "SpeciesCount": 4,
+      "genus_path": "genera/carangidae/pseudocaranx.json"
+    },
+    {
+      "Genus": "Scomberoides",
+      "SpeciesCount": 4,
+      "genus_path": "genera/carangidae/scomberoides.json"
+    },
+    {
+      "Genus": "Scyris",
+      "SpeciesCount": 2,
+      "genus_path": "genera/carangidae/scyris.json"
+    },
+    {
+      "Genus": "Selar",
+      "SpeciesCount": 2,
+      "genus_path": "genera/carangidae/selar.json"
+    },
+    {
+      "Genus": "Selaroides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/selaroides.json"
+    },
+    {
+      "Genus": "Selene",
+      "SpeciesCount": 7,
+      "genus_path": "genera/carangidae/selene.json"
+    },
+    {
+      "Genus": "Seriola",
+      "SpeciesCount": 9,
+      "genus_path": "genera/carangidae/seriola.json"
+    },
+    {
+      "Genus": "Seriolina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/carangidae/seriolina.json"
+    },
+    {
+      "Genus": "Trachinotus",
+      "SpeciesCount": 21,
+      "genus_path": "genera/carangidae/trachinotus.json"
+    },
+    {
+      "Genus": "Trachurus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/carangidae/trachurus.json"
+    },
+    {
+      "Genus": "Turrum",
+      "SpeciesCount": 3,
+      "genus_path": "genera/carangidae/turrum.json"
+    },
+    {
+      "Genus": "Uraspis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/carangidae/uraspis.json"
+    }
+  ]
+}

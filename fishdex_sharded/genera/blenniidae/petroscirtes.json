@@ -1,0 +1,103 @@
+[
+  {
+    "ScientificName": "Petroscirtes ancylodon",
+    "SpecCode": "46423",
+    "CommonName": "Arabischer Säbelzahn-Schleimfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes breviceps",
+    "SpecCode": "6073",
+    "CommonName": "Black-banded blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes fallax",
+    "SpecCode": "13748",
+    "CommonName": "Deceiver fangbelly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes lupus",
+    "SpecCode": "13750",
+    "CommonName": "Brown sabertooth blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes marginatus",
+    "SpecCode": "46542",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes mitratus",
+    "SpecCode": "6074",
+    "CommonName": "Blennechis à dorsale élevée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes pylei",
+    "SpecCode": "63847",
+    "CommonName": "Twilight Fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes springeri",
+    "SpecCode": "23760",
+    "CommonName": "Futahoshi-nijiginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes thepassii",
+    "SpecCode": "6075",
+    "CommonName": "Bulbsnout fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes variabilis",
+    "SpecCode": "6076",
+    "CommonName": "Inuginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petroscirtes xestus",
+    "SpecCode": "6077",
+    "CommonName": "Bearded sabretooth blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

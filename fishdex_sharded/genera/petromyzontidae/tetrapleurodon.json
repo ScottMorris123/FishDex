@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Tetrapleurodon geminis",
+    "SpecCode": "25920",
+    "CommonName": "Jacona lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetrapleurodon spadiceus",
+    "SpecCode": "25922",
+    "CommonName": "Chapala lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

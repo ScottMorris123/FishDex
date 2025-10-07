@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Springerichthys bapturus",
+    "SpecCode": "47087",
+    "CommonName": "Himeginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Springerichthys kulbickii",
+    "SpecCode": "47088",
+    "CommonName": "Japanese blacktail triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Orbiraja jensenae",
+    "SpecCode": "65552",
+    "CommonName": "Sulu nöbirai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Orbiraja powelli",
+    "SpecCode": "47129",
+    "CommonName": "India nöbirai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

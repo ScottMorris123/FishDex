@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Dermatopsis greenfieldi",
+    "SpecCode": "63234",
+    "CommonName": "Greenfield's mudbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermatopsis hoesei",
+    "SpecCode": "63235",
+    "CommonName": "Hoese's mudbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermatopsis joergennielseni",
+    "SpecCode": "63236",
+    "CommonName": "Nielsen's mudbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermatopsis macrodon",
+    "SpecCode": "24957",
+    "CommonName": "Eastern yellow blindfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dermatopsis multiradiatus",
+    "SpecCode": "24960",
+    "CommonName": "Blindfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

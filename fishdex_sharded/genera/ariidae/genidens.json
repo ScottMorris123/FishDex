@@ -1,0 +1,43 @@
+[
+  {
+    "ScientificName": "Genidens barbus",
+    "SpecCode": "13992",
+    "CommonName": "Bacupua",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genidens genidens",
+    "SpecCode": "13982",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genidens machadoi",
+    "SpecCode": "58411",
+    "CommonName": "Bagre do Corso",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genidens planifrons",
+    "SpecCode": "54302",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

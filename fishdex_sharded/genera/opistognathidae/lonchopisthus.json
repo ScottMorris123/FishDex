@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Lonchopisthus ancistrus",
+    "SpecCode": "68565",
+    "CommonName": "Hook jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lonchopisthus higmani",
+    "SpecCode": "27893",
+    "CommonName": "Montsuki-agoamadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lonchopisthus lemur",
+    "SpecCode": "27894",
+    "CommonName": "鬼形剑尾后颌鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lonchopisthus micrognathus",
+    "SpecCode": "3683",
+    "CommonName": "Bocón rayado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lonchopisthus sinuscalifornicus",
+    "SpecCode": "46575",
+    "CommonName": "Bocagrande",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

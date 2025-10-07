@@ -1,0 +1,17 @@
+{
+  "Family": "Diceratiidae",
+  "Order": "Lophiiformes",
+  "Common": "Double anglers (Ref. 07463) or Doublespine Seadevils (Ref. 86949)",
+  "Genera": [
+    {
+      "Genus": "Bufoceratias",
+      "SpeciesCount": 4,
+      "genus_path": "genera/diceratiidae/bufoceratias.json"
+    },
+    {
+      "Genus": "Diceratias",
+      "SpeciesCount": 3,
+      "genus_path": "genera/diceratiidae/diceratias.json"
+    }
+  ]
+}

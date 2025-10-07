@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Congriscus maldivensis",
+    "SpecCode": "47150",
+    "CommonName": "Maldiivi viukangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congriscus marquesaensis",
+    "SpecCode": "63061",
+    "CommonName": "Markiisaarte viukangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congriscus megastoma",
+    "SpecCode": "25824",
+    "CommonName": "Coheni ulguangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Chalaroderma capito",
+    "SpecCode": "16942",
+    "CommonName": "Looseskin blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chalaroderma ocellata",
+    "SpecCode": "16943",
+    "CommonName": "Tweeoog-blennie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

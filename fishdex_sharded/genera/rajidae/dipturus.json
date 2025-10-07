@@ -1,0 +1,381 @@
+[
+  {
+    "ScientificName": "Dipturus acrobelus",
+    "SpecCode": "63930",
+    "CommonName": "Deepwater skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus amphispinus",
+    "SpecCode": "67530",
+    "CommonName": "Ridgeback skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus apricus",
+    "SpecCode": "63931",
+    "CommonName": "Pale tropical skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus argentinensis",
+    "SpecCode": "64715",
+    "CommonName": "Argentiina tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus batis",
+    "SpecCode": "2058",
+    "CommonName": "An sciata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus bullisi",
+    "SpecCode": "7604",
+    "CommonName": "Bullis skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus campbelli",
+    "SpecCode": "25569",
+    "CommonName": "Blackspot skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus canutus",
+    "SpecCode": "63962",
+    "CommonName": "Grey skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus chinensis",
+    "SpecCode": "63316",
+    "CommonName": "Hiina rai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus crosnieri",
+    "SpecCode": "54103",
+    "CommonName": "Madagascar skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus diehli",
+    "SpecCode": "61090",
+    "CommonName": "Ogasaba-tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus doutrei",
+    "SpecCode": "5012",
+    "CommonName": "Javalin skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus ecuadoriensis",
+    "SpecCode": "54442",
+    "CommonName": "Ecuador skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus flavirostris",
+    "SpecCode": "54601",
+    "CommonName": "Kollakoon-tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus garricki",
+    "SpecCode": "51859",
+    "CommonName": "Garricki tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus gigas",
+    "SpecCode": "15414",
+    "CommonName": "Giant skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus grahamorum",
+    "SpecCode": "63966",
+    "CommonName": "Grahami tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus gudgeri",
+    "SpecCode": "24079",
+    "CommonName": "Baairog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus innominatus",
+    "SpecCode": "13145",
+    "CommonName": "New Zealand smooth skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus intermedius",
+    "SpecCode": "68885",
+    "CommonName": "Intermediate skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus johannisdavisi",
+    "SpecCode": "47130",
+    "CommonName": "Travancore skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus kwangtungensis",
+    "SpecCode": "54036",
+    "CommonName": "Bān yáo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus laevis",
+    "SpecCode": "2561",
+    "CommonName": "Barndoor skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus lamillai",
+    "SpecCode": "69294",
+    "CommonName": "Raya guará",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus lanceorostratus",
+    "SpecCode": "7961",
+    "CommonName": "Raia ratazana",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus leptocauda",
+    "SpecCode": "54117",
+    "CommonName": "Dunstaartrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus macrocauda",
+    "SpecCode": "22551",
+    "CommonName": "Bigtail skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus melanospilus",
+    "SpecCode": "63934",
+    "CommonName": "Blacktip skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus mennii",
+    "SpecCode": "59787",
+    "CommonName": "Menni tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus nidarosiensis",
+    "SpecCode": "8900",
+    "CommonName": "Mustavatsarausku",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus olseni",
+    "SpecCode": "2563",
+    "CommonName": "Laiuim-tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus oregoni",
+    "SpecCode": "51860",
+    "CommonName": "Haakstaartrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus oxyrinchus",
+    "SpecCode": "7616",
+    "CommonName": "Alène",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus pullopunctatus",
+    "SpecCode": "7960",
+    "CommonName": "Libe tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus queenslandicus",
+    "SpecCode": "63935",
+    "CommonName": "Queensland deepwater skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus springeri",
+    "SpecCode": "7962",
+    "CommonName": "Korekõht-tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus stenorhynchus",
+    "SpecCode": "7963",
+    "CommonName": "Boegrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus teevani",
+    "SpecCode": "7607",
+    "CommonName": "Caribbean skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus tengu",
+    "SpecCode": "15415",
+    "CommonName": "Acutenose skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus trachyderma",
+    "SpecCode": "50858",
+    "CommonName": "Kare tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus wengi",
+    "SpecCode": "63969",
+    "CommonName": "Wengi tiibrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dipturus wuhanlingi",
+    "SpecCode": "63867",
+    "CommonName": "China skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

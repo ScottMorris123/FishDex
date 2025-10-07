@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Mochokus brevis",
+    "SpecCode": "9527",
+    "CommonName": "Lühike sulghabesäga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mochokus niloticus",
+    "SpecCode": "9526",
+    "CommonName": "Dwarf Nile catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Carapus acus",
+    "SpecCode": "1785",
+    "CommonName": "Ancidduzzu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carapus bermudensis",
+    "SpecCode": "3128",
+    "CommonName": "Atlantic pearlfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carapus dubius",
+    "SpecCode": "46087",
+    "CommonName": "Culebrilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carapus mourlani",
+    "SpecCode": "16791",
+    "CommonName": "Cushion star pearlfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carapus sluiteri",
+    "SpecCode": "52454",
+    "CommonName": "Sluiter's pearlfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

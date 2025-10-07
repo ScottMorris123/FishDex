@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Matanui bathytaton",
+    "SpecCode": "47054",
+    "CommonName": "Chatham deepwater triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Matanui profundum",
+    "SpecCode": "47061",
+    "CommonName": "Deepwater triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

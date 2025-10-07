@@ -1,0 +1,84 @@
+[
+  {
+    "ScientificName": "Macropodus baviensis",
+    "SpecCode": "65668",
+    "CommonName": "Hai-paradisfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropodus erythropterus",
+    "SpecCode": "59720",
+    "CommonName": "Rødfinnet paradisfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropodus hongkongensis",
+    "SpecCode": "59719",
+    "CommonName": "Hongkong-paradisfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropodus lineatus",
+    "SpecCode": "65693",
+    "CommonName": "Stribet paradisfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropodus ocellatus",
+    "SpecCode": "4795",
+    "CommonName": "Chinese fighting fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropodus oligolepis",
+    "SpecCode": "65711",
+    "CommonName": "Bjergparadisfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropodus opercularis",
+    "SpecCode": "4777",
+    "CommonName": "Almindelig makropode",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropodus phongnhaensis",
+    "SpecCode": "65717",
+    "CommonName": "Vietnamesisk paradisfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macropodus spechti",
+    "SpecCode": "59368",
+    "CommonName": "Black paradise fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rosenblattichthys alatus",
+    "SpecCode": "24630",
+    "CommonName": "Hirenaga-deme-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rosenblattichthys hubbsi",
+    "SpecCode": "16624",
+    "CommonName": "Hubb's pearleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rosenblattichthys nemotoi",
+    "SpecCode": "56836",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rosenblattichthys volucris",
+    "SpecCode": "55099",
+    "CommonName": "Chubby pearleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

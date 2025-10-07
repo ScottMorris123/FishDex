@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Corematodus shiranus",
+    "SpecCode": "2268",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corematodus taeniatus",
+    "SpecCode": "2269",
+    "CommonName": "Blauer Corematodus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

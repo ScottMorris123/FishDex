@@ -1,0 +1,68 @@
+[
+  {
+    "ScientificName": "Selene brevoortii",
+    "SpecCode": "1956",
+    "CommonName": "Adolfito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selene brownii",
+    "SpecCode": "1955",
+    "CommonName": "Cara'caballo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selene dorsalis",
+    "SpecCode": "379",
+    "CommonName": "Aafrika hõbeküür",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selene peruviana",
+    "SpecCode": "1958",
+    "CommonName": "Caballito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selene setapinnis",
+    "SpecCode": "378",
+    "CommonName": "Ama",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selene spixii",
+    "SpecCode": "61368",
+    "CommonName": "Full moonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selene vomer",
+    "SpecCode": "1004",
+    "CommonName": "Abatucaia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

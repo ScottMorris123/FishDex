@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Paraletharchus opercularis",
+    "SpecCode": "53949",
+    "CommonName": "Hadař baltranský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraletharchus pacificus",
+    "SpecCode": "13918",
+    "CommonName": "Hadař tichooceánský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Notoscopelus bolini",
+    "SpecCode": "16314",
+    "CommonName": "Bolina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoscopelus caudispinosus",
+    "SpecCode": "7417",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoscopelus elongatus",
+    "SpecCode": "841",
+    "CommonName": "Alice 'e funnale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoscopelus japonicus",
+    "SpecCode": "23016",
+    "CommonName": "Japanese lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoscopelus kroyeri",
+    "SpecCode": "27753",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoscopelus resplendens",
+    "SpecCode": "2735",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

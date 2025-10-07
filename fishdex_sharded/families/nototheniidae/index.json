@@ -1,0 +1,72 @@
+{
+  "Family": "Nototheniidae",
+  "Order": "Perciformes/Notothenioidei",
+  "Common": "Cod icefishes",
+  "Genera": [
+    {
+      "Genus": "Aethotaxis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nototheniidae/aethotaxis.json"
+    },
+    {
+      "Genus": "Dissostichus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nototheniidae/dissostichus.json"
+    },
+    {
+      "Genus": "Gobionotothen",
+      "SpeciesCount": 5,
+      "genus_path": "genera/nototheniidae/gobionotothen.json"
+    },
+    {
+      "Genus": "Gvozdarus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nototheniidae/gvozdarus.json"
+    },
+    {
+      "Genus": "Indonotothenia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nototheniidae/indonotothenia.json"
+    },
+    {
+      "Genus": "Lepidonotothen",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nototheniidae/lepidonotothen.json"
+    },
+    {
+      "Genus": "Notothenia",
+      "SpeciesCount": 5,
+      "genus_path": "genera/nototheniidae/notothenia.json"
+    },
+    {
+      "Genus": "Nototheniops",
+      "SpeciesCount": 5,
+      "genus_path": "genera/nototheniidae/nototheniops.json"
+    },
+    {
+      "Genus": "Pagothenia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nototheniidae/pagothenia.json"
+    },
+    {
+      "Genus": "Paranotothenia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/nototheniidae/paranotothenia.json"
+    },
+    {
+      "Genus": "Patagonotothen",
+      "SpeciesCount": 16,
+      "genus_path": "genera/nototheniidae/patagonotothen.json"
+    },
+    {
+      "Genus": "Pleuragramma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nototheniidae/pleuragramma.json"
+    },
+    {
+      "Genus": "Trematomus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/nototheniidae/trematomus.json"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+[
+  {
+    "ScientificName": "Gobiodon acicularis",
+    "SpecCode": "28055",
+    "CommonName": "Needlespine coral goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon albofasciatus",
+    "SpecCode": "22460",
+    "CommonName": "Ichimonji-kobanhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon aoyagii",
+    "SpecCode": "67195",
+    "CommonName": "Akaten-koban-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon ater",
+    "SpecCode": "67096",
+    "CommonName": "Black coralgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon atrangulatus",
+    "SpecCode": "23657",
+    "CommonName": "Seaka-kobanhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon axillaris",
+    "SpecCode": "59385",
+    "CommonName": "Red-striped coral goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon bilineatus",
+    "SpecCode": "67094",
+    "CommonName": "Two-lined coralgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon brochus",
+    "SpecCode": "58214",
+    "CommonName": "Rasp coral goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon ceramensis",
+    "SpecCode": "61404",
+    "CommonName": "Ceram coral goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon citrinus",
+    "SpecCode": "7789",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon erythrospilus",
+    "SpecCode": "67178",
+    "CommonName": "Shuobi-koban-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon fulvus",
+    "SpecCode": "59258",
+    "CommonName": "棕褐叶鰕虎鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon fuscoruber",
+    "SpecCode": "67097",
+    "CommonName": "Brown-red coralgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon heterospilos",
+    "SpecCode": "27562",
+    "CommonName": "Head and tailspotted coralgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon histrio",
+    "SpecCode": "7216",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon howsoni",
+    "SpecCode": "69585",
+    "CommonName": "Howson's coralgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon irregularis",
+    "SpecCode": "67095",
+    "CommonName": "Rufous coralgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon micropus",
+    "SpecCode": "13768",
+    "CommonName": "Ai-kobanhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon multilineatus",
+    "SpecCode": "23658",
+    "CommonName": "Tasuji-kobanhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon oculolineatus",
+    "SpecCode": "23659",
+    "CommonName": "Eyeline coral goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon okinawae",
+    "SpecCode": "7217",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon prolixus",
+    "SpecCode": "62645",
+    "CommonName": "Elongate coralgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon quinquestrigatus",
+    "SpecCode": "22462",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon reticulatus",
+    "SpecCode": "46399",
+    "CommonName": "Reticulate goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon rivulatus",
+    "SpecCode": "9952",
+    "CommonName": "Akaten-kobanhaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon spilophthalmus",
+    "SpecCode": "56814",
+    "CommonName": "White lined coral goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon unicolor",
+    "SpecCode": "59869",
+    "CommonName": "Muji-kobanhaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiodon winterbottomi",
+    "SpecCode": "67792",
+    "CommonName": "Ohire-kobanhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

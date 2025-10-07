@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Kronichthys heylandi",
+    "SpecCode": "48860",
+    "CommonName": "Cascudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kronichthys lacerta",
+    "SpecCode": "48920",
+    "CommonName": "Liskosoukkapleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kronichthys subteres",
+    "SpecCode": "48861",
+    "CommonName": "Anhã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

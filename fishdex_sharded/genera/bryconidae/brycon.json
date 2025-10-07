@@ -1,0 +1,389 @@
+[
+  {
+    "ScientificName": "Brycon alburnus",
+    "SpecCode": "14158",
+    "CommonName": "Dama montanea",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon amazonicus",
+    "SpecCode": "52992",
+    "CommonName": "Bocón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon argenteus",
+    "SpecCode": "28251",
+    "CommonName": "Sábalo pipon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon atrocaudatus",
+    "SpecCode": "14157",
+    "CommonName": "Cascafe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon behreae",
+    "SpecCode": "53011",
+    "CommonName": "Machaca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon bicolor",
+    "SpecCode": "51833",
+    "CommonName": "Bocón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon cephalus",
+    "SpecCode": "25516",
+    "CommonName": "Jatuarana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon chagrensis",
+    "SpecCode": "52995",
+    "CommonName": "Sábalo pipon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon coquenani",
+    "SpecCode": "51834",
+    "CommonName": "Aruma",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon costaricensis",
+    "SpecCode": "67329",
+    "CommonName": "Machaca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon coxeyi",
+    "SpecCode": "53012",
+    "CommonName": "Sábalo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon dentex",
+    "SpecCode": "51117",
+    "CommonName": "Dama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon devillei",
+    "SpecCode": "48570",
+    "CommonName": "Piabanha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon falcatus",
+    "SpecCode": "14171",
+    "CommonName": "Jatuarana miri",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon ferox",
+    "SpecCode": "6182",
+    "CommonName": "Piabanha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon fowleri",
+    "SpecCode": "53417",
+    "CommonName": "Sabaleta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon gouldingi",
+    "SpecCode": "62240",
+    "CommonName": "Matrinchã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon guatemalensis",
+    "SpecCode": "8699",
+    "CommonName": "Macabi tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon henni",
+    "SpecCode": "12342",
+    "CommonName": "Sabaleta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon hilarii",
+    "SpecCode": "52994",
+    "CommonName": "Camapuã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon insignis",
+    "SpecCode": "58081",
+    "CommonName": "Piabanha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon labiatus",
+    "SpecCode": "53002",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon medemi",
+    "SpecCode": "53041",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon meeki",
+    "SpecCode": "53009",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon melanopterus",
+    "SpecCode": "27668",
+    "CommonName": "Jatuarana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon moorei",
+    "SpecCode": "5453",
+    "CommonName": "Dorada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon nattereri",
+    "SpecCode": "48572",
+    "CommonName": "Matrinchã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon obscurus",
+    "SpecCode": "53010",
+    "CommonName": "Sábalo pipon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon oligolepis",
+    "SpecCode": "53005",
+    "CommonName": "Sábalo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon opalinus",
+    "SpecCode": "52991",
+    "CommonName": "Piabanha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon orbignyanus",
+    "SpecCode": "48557",
+    "CommonName": "Bracanjuva",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon orthotaenia",
+    "SpecCode": "52998",
+    "CommonName": "Matrinchã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon pesu",
+    "SpecCode": "12373",
+    "CommonName": "Abongoni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon petrosus",
+    "SpecCode": "53006",
+    "CommonName": "Sábalo pipon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon polylepis",
+    "SpecCode": "51836",
+    "CommonName": "Diénton",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon posadae",
+    "SpecCode": "53013",
+    "CommonName": "波萨石脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon rubricauda",
+    "SpecCode": "53001",
+    "CommonName": "Paloma",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon sinuensis",
+    "SpecCode": "58082",
+    "CommonName": "Charúa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon stolzmanni",
+    "SpecCode": "51095",
+    "CommonName": "Sábalo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon striatulus",
+    "SpecCode": "52996",
+    "CommonName": "Sábalo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon unicolor",
+    "SpecCode": "51837",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon vermelha",
+    "SpecCode": "58083",
+    "CommonName": "Vermelha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brycon whitei",
+    "SpecCode": "51838",
+    "CommonName": "Bocón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

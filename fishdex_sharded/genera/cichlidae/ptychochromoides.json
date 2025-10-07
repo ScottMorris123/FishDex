@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ptychochromoides betsileanus",
+    "SpecCode": "8822",
+    "CommonName": "Trondo mainty",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromoides itasy",
+    "SpecCode": "62066",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromoides vondrozo",
+    "SpecCode": "58344",
+    "CommonName": "Fiandahy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

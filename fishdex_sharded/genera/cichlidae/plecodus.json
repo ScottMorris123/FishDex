@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Plecodus elaviae",
+    "SpecCode": "8812",
+    "CommonName": "Isosuomunsyöjä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plecodus multidentatus",
+    "SpecCode": "8813",
+    "CommonName": "Naskalisuomunsyöjä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plecodus straeleni",
+    "SpecCode": "8815",
+    "CommonName": "Raitasuomunsyöjä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

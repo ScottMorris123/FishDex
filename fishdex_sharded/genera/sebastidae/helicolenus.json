@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Helicolenus avius",
+    "SpecCode": "23870",
+    "CommonName": "Okikasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicolenus barathri",
+    "SpecCode": "47428",
+    "CommonName": "Bigeye ocean perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicolenus dactylopterus",
+    "SpecCode": "76",
+    "CommonName": "Acantarilho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicolenus fedorovi",
+    "SpecCode": "23871",
+    "CommonName": "Nise-okikasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicolenus hilgendorfii",
+    "SpecCode": "13062",
+    "CommonName": "Hè shì wú biào yóu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicolenus lahillei",
+    "SpecCode": "55189",
+    "CommonName": "Rapurata-yumekasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicolenus lengerichi",
+    "SpecCode": "51205",
+    "CommonName": "Cabrilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicolenus mouchezi",
+    "SpecCode": "61362",
+    "CommonName": "Rosefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicolenus percoides",
+    "SpecCode": "14309",
+    "CommonName": "Coral cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

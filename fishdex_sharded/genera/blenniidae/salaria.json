@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Salaria basilisca",
+    "SpecCode": "46339",
+    "CommonName": "Babica zebrica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salaria pavo",
+    "SpecCode": "1701",
+    "CommonName": "Babica kukmašica",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

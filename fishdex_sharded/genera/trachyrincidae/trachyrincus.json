@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Trachyrincus aphyodes",
+    "SpecCode": "58891",
+    "CommonName": "矶颞孔鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyrincus helolepis",
+    "SpecCode": "8184",
+    "CommonName": "Armourhead grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyrincus longirostris",
+    "SpecCode": "49205",
+    "CommonName": "Slender unicorn rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyrincus murrayi",
+    "SpecCode": "27730",
+    "CommonName": "Grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyrincus scabrus",
+    "SpecCode": "4556",
+    "CommonName": "Dugorepac rilaš",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyrincus villegai",
+    "SpecCode": "8185",
+    "CommonName": "Cola de rata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

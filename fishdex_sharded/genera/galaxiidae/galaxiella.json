@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Galaxiella munda",
+    "SpecCode": "9464",
+    "CommonName": "Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxiella nigrostriata",
+    "SpecCode": "9476",
+    "CommonName": "Black-stripe minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxiella pusilla",
+    "SpecCode": "9481",
+    "CommonName": "Dwarf galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxiella toourtkoourt",
+    "SpecCode": "68142",
+    "CommonName": "Little galaxias",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

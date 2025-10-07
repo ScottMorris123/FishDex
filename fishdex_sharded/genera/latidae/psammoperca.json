@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Psammoperca datnioides",
+    "SpecCode": "69613",
+    "CommonName": "Waigieu sea perch",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammoperca waigiensis",
+    "SpecCode": "8212",
+    "CommonName": "Akame-modoki",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

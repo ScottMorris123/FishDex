@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Bathyaethiops atercrinis",
+    "SpecCode": "66692",
+    "CommonName": "Black fin moon tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyaethiops baka",
+    "SpecCode": "68076",
+    "CommonName": "Dwarf moon tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyaethiops breuseghemi",
+    "SpecCode": "11114",
+    "CommonName": "Afrikanischer Mondsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyaethiops caudomaculatus",
+    "SpecCode": "11115",
+    "CommonName": "African moon tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyaethiops flammeus",
+    "SpecCode": "68077",
+    "CommonName": "Red-back moon tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyaethiops greeni",
+    "SpecCode": "11117",
+    "CommonName": "Greeni kuutetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

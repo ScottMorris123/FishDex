@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Epalzeorhynchos bicolor",
+    "SpecCode": "10835",
+    "CommonName": "Eldstjärt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epalzeorhynchos frenatum",
+    "SpecCode": "12069",
+    "CommonName": "Green fringelip labeo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epalzeorhynchos kalopterum",
+    "SpecCode": "10832",
+    "CommonName": "Flying fox",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epalzeorhynchos munense",
+    "SpecCode": "27163",
+    "CommonName": "Brun labeo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

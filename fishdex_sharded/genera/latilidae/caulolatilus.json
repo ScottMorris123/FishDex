@@ -1,0 +1,102 @@
+[
+  {
+    "ScientificName": "Caulolatilus affinis",
+    "SpecCode": "8276",
+    "CommonName": "Bacalao",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus bermudensis",
+    "SpecCode": "15707",
+    "CommonName": "Bermuda tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus chrysops",
+    "SpecCode": "983",
+    "CommonName": "Atlantic goldeneye tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus cyanops",
+    "SpecCode": "984",
+    "CommonName": "Blackline Tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus dooleyi",
+    "SpecCode": "15706",
+    "CommonName": "Bankslope tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus guppyi",
+    "SpecCode": "985",
+    "CommonName": "Blanquillo vermiculado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus hubbsi",
+    "SpecCode": "11800",
+    "CommonName": "Blanquillo de Hubbs",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus intermedius",
+    "SpecCode": "986",
+    "CommonName": "Anchor Tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus microps",
+    "SpecCode": "987",
+    "CommonName": "Blanquillo lucio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus princeps",
+    "SpecCode": "3539",
+    "CommonName": "Blanquillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caulolatilus williamsi",
+    "SpecCode": "15376",
+    "CommonName": "Yellowbar tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

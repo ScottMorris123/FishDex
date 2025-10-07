@@ -1,0 +1,47 @@
+{
+  "Family": "Polynemidae",
+  "Order": "Carangaria/misc",
+  "Common": "Threadfins",
+  "Genera": [
+    {
+      "Genus": "Eleutheronema",
+      "SpeciesCount": 3,
+      "genus_path": "genera/polynemidae/eleutheronema.json"
+    },
+    {
+      "Genus": "Filimanus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/polynemidae/filimanus.json"
+    },
+    {
+      "Genus": "Galeoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/polynemidae/galeoides.json"
+    },
+    {
+      "Genus": "Leptomelanosoma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/polynemidae/leptomelanosoma.json"
+    },
+    {
+      "Genus": "Parapolynemus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/polynemidae/parapolynemus.json"
+    },
+    {
+      "Genus": "Pentanemus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/polynemidae/pentanemus.json"
+    },
+    {
+      "Genus": "Polydactylus",
+      "SpeciesCount": 21,
+      "genus_path": "genera/polynemidae/polydactylus.json"
+    },
+    {
+      "Genus": "Polynemus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/polynemidae/polynemus.json"
+    }
+  ]
+}

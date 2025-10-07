@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Anableps anableps",
+    "SpecCode": "7379",
+    "CommonName": "Almindelig firøje",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anableps dowii",
+    "SpecCode": "12295",
+    "CommonName": "Chetyrekhglazka",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anableps microlepis",
+    "SpecCode": "7380",
+    "CommonName": "Cipotero",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

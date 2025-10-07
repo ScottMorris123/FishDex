@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Fodiator acutus",
+    "SpecCode": "1033",
+    "CommonName": "Exocet bécune",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Fodiator rostratus",
+    "SpecCode": "13727",
+    "CommonName": "Pez volador hocicón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

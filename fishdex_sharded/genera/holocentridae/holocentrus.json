@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Holocentrus adscensionis",
+    "SpecCode": "1061",
+    "CommonName": "Atlantisk egernfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holocentrus rufus",
+    "SpecCode": "1062",
+    "CommonName": "Candil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Xyliphius anachoretes",
+    "SpecCode": "65402",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xyliphius barbatus",
+    "SpecCode": "48645",
+    "CommonName": "guitarrita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xyliphius kryptos",
+    "SpecCode": "58093",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xyliphius lepturus",
+    "SpecCode": "57509",
+    "CommonName": "Carachita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xyliphius magdalenae",
+    "SpecCode": "48646",
+    "CommonName": "喜泳鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xyliphius melanopterus",
+    "SpecCode": "53757",
+    "CommonName": "Carachita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xyliphius sofiae",
+    "SpecCode": "68554",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

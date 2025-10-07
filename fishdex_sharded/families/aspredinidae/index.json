@@ -1,0 +1,72 @@
+{
+  "Family": "Aspredinidae",
+  "Order": "Siluriformes",
+  "Common": "Banjo catfishes",
+  "Genera": [
+    {
+      "Genus": "Acanthobunocephalus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/aspredinidae/acanthobunocephalus.json"
+    },
+    {
+      "Genus": "Amaralia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/aspredinidae/amaralia.json"
+    },
+    {
+      "Genus": "Aspredinichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/aspredinidae/aspredinichthys.json"
+    },
+    {
+      "Genus": "Aspredo",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aspredinidae/aspredo.json"
+    },
+    {
+      "Genus": "Bunocephalus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/aspredinidae/bunocephalus.json"
+    },
+    {
+      "Genus": "Dupouyichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aspredinidae/dupouyichthys.json"
+    },
+    {
+      "Genus": "Ernstichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/aspredinidae/ernstichthys.json"
+    },
+    {
+      "Genus": "Hoplomyzon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/aspredinidae/hoplomyzon.json"
+    },
+    {
+      "Genus": "Micromyzon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aspredinidae/micromyzon.json"
+    },
+    {
+      "Genus": "Platystacus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/aspredinidae/platystacus.json"
+    },
+    {
+      "Genus": "Pseudobunocephalus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/aspredinidae/pseudobunocephalus.json"
+    },
+    {
+      "Genus": "Pterobunocephalus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/aspredinidae/pterobunocephalus.json"
+    },
+    {
+      "Genus": "Xyliphius",
+      "SpeciesCount": 7,
+      "genus_path": "genera/aspredinidae/xyliphius.json"
+    }
+  ]
+}

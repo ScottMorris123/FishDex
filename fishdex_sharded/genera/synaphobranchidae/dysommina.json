@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Dysommina proboscideus",
+    "SpecCode": "61181",
+    "CommonName": "Kärss-nõlvaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dysommina rugosa",
+    "SpecCode": "27787",
+    "CommonName": "Kurdnina-nõlvaangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

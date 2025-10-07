@@ -1,0 +1,17 @@
+{
+  "Family": "Caulophrynidae",
+  "Order": "Lophiiformes",
+  "Common": "Fanfins",
+  "Genera": [
+    {
+      "Genus": "Caulophryne",
+      "SpeciesCount": 4,
+      "genus_path": "genera/caulophrynidae/caulophryne.json"
+    },
+    {
+      "Genus": "Robia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/caulophrynidae/robia.json"
+    }
+  ]
+}

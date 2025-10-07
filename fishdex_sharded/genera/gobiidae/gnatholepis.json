@@ -1,0 +1,94 @@
+[
+  {
+    "ScientificName": "Gnatholepis anjerensis",
+    "SpecCode": "23595",
+    "CommonName": "Ade-ômonhaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnatholepis argus",
+    "SpecCode": "64696",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnatholepis caudimaculata",
+    "SpecCode": "66650",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnatholepis cauerensis",
+    "SpecCode": "9950",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnatholepis gymnocara",
+    "SpecCode": "59876",
+    "CommonName": "Nakedcheek sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnatholepis knighti",
+    "SpecCode": "66652",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnatholepis ophthalmotaenia",
+    "SpecCode": "66651",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnatholepis pascuensis",
+    "SpecCode": "59878",
+    "CommonName": "Rapanui goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnatholepis thompsoni",
+    "SpecCode": "3855",
+    "CommonName": "Góbido cararrayada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnatholepis yoshinoi",
+    "SpecCode": "65197",
+    "CommonName": "Hishihire-oomonhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

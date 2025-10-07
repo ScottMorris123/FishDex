@@ -1,0 +1,22 @@
+{
+  "Family": "Apistidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Wasp scorpionfishes",
+  "Genera": [
+    {
+      "Genus": "Apistops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apistidae/apistops.json"
+    },
+    {
+      "Genus": "Apistus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apistidae/apistus.json"
+    },
+    {
+      "Genus": "Cheroscorpaena",
+      "SpeciesCount": 1,
+      "genus_path": "genera/apistidae/cheroscorpaena.json"
+    }
+  ]
+}

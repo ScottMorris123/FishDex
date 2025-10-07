@@ -1,0 +1,272 @@
+[
+  {
+    "ScientificName": "Hoplostethus abramovi",
+    "SpecCode": "15681",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus atlanticus",
+    "SpecCode": "334",
+    "CommonName": "Atlantic slimehead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus cadenati",
+    "SpecCode": "5471",
+    "CommonName": "Black slimehead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus confinis",
+    "SpecCode": "15648",
+    "CommonName": "准胸棘鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus crassispinus",
+    "SpecCode": "15678",
+    "CommonName": "Maru-hiuchidai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus druzhinini",
+    "SpecCode": "15668",
+    "CommonName": "德氏胸棘鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus fedorovi",
+    "SpecCode": "15680",
+    "CommonName": "費氏胸棘鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus fragilis",
+    "SpecCode": "15688",
+    "CommonName": "Chilean roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus gigas",
+    "SpecCode": "15635",
+    "CommonName": "Giant sawbelly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus grandperrini",
+    "SpecCode": "66718",
+    "CommonName": "Grandperrin's giant sawbelly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus japonicus",
+    "SpecCode": "15674",
+    "CommonName": "Flintperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus latus",
+    "SpecCode": "14720",
+    "CommonName": "Giant sawbelly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus marisrubri",
+    "SpecCode": "15676",
+    "CommonName": "Red Sea roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus mediterraneus",
+    "SpecCode": "4964",
+    "CommonName": "Alfonsim-de-natura",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus melanopeza",
+    "SpecCode": "66717",
+    "CommonName": "New Zealand giant sawbelly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus melanopterus",
+    "SpecCode": "15693",
+    "CommonName": "Blackfin roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus melanopus",
+    "SpecCode": "10668",
+    "CommonName": "Hoplostète scutelle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus mento",
+    "SpecCode": "15696",
+    "CommonName": "Degenfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus metallicus",
+    "SpecCode": "15699",
+    "CommonName": "Metallic roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus mikhailini",
+    "SpecCode": "15666",
+    "CommonName": "迈氏胸棘鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus occidentalis",
+    "SpecCode": "15670",
+    "CommonName": "Atlantic Roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus pacificus",
+    "SpecCode": "15683",
+    "CommonName": "Degenfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus ravurictus",
+    "SpecCode": "65347",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus rifti",
+    "SpecCode": "15673",
+    "CommonName": "里氏胸棘鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus robustispinus",
+    "SpecCode": "65512",
+    "CommonName": "Thickspine roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus roseus",
+    "SpecCode": "70259",
+    "CommonName": "Rosy roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus rubellopterus",
+    "SpecCode": "15645",
+    "CommonName": "浅红鳍胸棘鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus shubnikovi",
+    "SpecCode": "15641",
+    "CommonName": "Metavay sawbelly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus tenebricus",
+    "SpecCode": "15644",
+    "CommonName": "暗胸棘鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplostethus vniro",
+    "SpecCode": "54098",
+    "CommonName": "野胸棘鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

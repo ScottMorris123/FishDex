@@ -1,0 +1,257 @@
+[
+  {
+    "ScientificName": "Catostomus ardens",
+    "SpecCode": "2960",
+    "CommonName": "Pakaprovec wyomingský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus bernardini",
+    "SpecCode": "2961",
+    "CommonName": "Matalote yaqui",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus bondi",
+    "SpecCode": "67568",
+    "CommonName": "Bondi imikarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus cahita",
+    "SpecCode": "6168",
+    "CommonName": "Cahita sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus catostomus",
+    "SpecCode": "2962",
+    "CommonName": "Alaska-Saugdöbel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus clarkii",
+    "SpecCode": "2963",
+    "CommonName": "Desert sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus columbianus",
+    "SpecCode": "2964",
+    "CommonName": "Bridgelip sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus commersonii",
+    "SpecCode": "2965",
+    "CommonName": "Black mullet",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus conchos",
+    "SpecCode": "6171",
+    "CommonName": "Matalote conchos",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus discobolus",
+    "SpecCode": "2966",
+    "CommonName": "Blåhovedet sugekarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus fumeiventris",
+    "SpecCode": "2968",
+    "CommonName": "Owens sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus insignis",
+    "SpecCode": "2969",
+    "CommonName": "Matalote de Sonora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus latipinnis",
+    "SpecCode": "2970",
+    "CommonName": "Flannelmouth sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus leopoldi",
+    "SpecCode": "6173",
+    "CommonName": "Bavispe imikarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus macrocheilus",
+    "SpecCode": "2972",
+    "CommonName": "Coarsescale sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus microps",
+    "SpecCode": "2973",
+    "CommonName": "Modoc Sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus nebuliferus",
+    "SpecCode": "61848",
+    "CommonName": "Matalote del Nazas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus occidentalis",
+    "SpecCode": "2974",
+    "CommonName": "Goose Lake sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus platyrhynchus",
+    "SpecCode": "2975",
+    "CommonName": "Bjergsugekarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus plebeius",
+    "SpecCode": "2976",
+    "CommonName": "Matalote del Bravo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus rimiculus",
+    "SpecCode": "2977",
+    "CommonName": "Jenny Creek sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus santaanae",
+    "SpecCode": "2978",
+    "CommonName": "California imikarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus snyderi",
+    "SpecCode": "2979",
+    "CommonName": "Klamath Largescale Sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus tahoensis",
+    "SpecCode": "2980",
+    "CommonName": "Pakaprovec tahojský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus tsiltcoosensis",
+    "SpecCode": "66156",
+    "CommonName": "Oregoni imikarp",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus utawana",
+    "SpecCode": "65066",
+    "CommonName": "Summer sucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus warnerensis",
+    "SpecCode": "2981",
+    "CommonName": "Pakaprovec warnerský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catostomus wigginsi",
+    "SpecCode": "6176",
+    "CommonName": "Matalote opata",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

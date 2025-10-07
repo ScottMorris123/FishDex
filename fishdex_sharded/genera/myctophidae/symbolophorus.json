@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Symbolophorus barnardi",
+    "SpecCode": "16720",
+    "CommonName": "Barnard's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symbolophorus boops",
+    "SpecCode": "7298",
+    "CommonName": "Bogue lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symbolophorus californiensis",
+    "SpecCode": "5351",
+    "CommonName": "Bigfin lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symbolophorus evermanni",
+    "SpecCode": "4468",
+    "CommonName": "Cá Phát sáng ê - ve",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symbolophorus kreffti",
+    "SpecCode": "16724",
+    "CommonName": "克氏标灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symbolophorus reversus",
+    "SpecCode": "62089",
+    "CommonName": "Reverse gland lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symbolophorus rufinus",
+    "SpecCode": "16726",
+    "CommonName": "紅標燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Symbolophorus veranyi",
+    "SpecCode": "1737",
+    "CommonName": "Anxova lluminosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

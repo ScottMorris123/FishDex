@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pterogobius elapoides",
+    "SpecCode": "23701",
+    "CommonName": "Kinubari",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterogobius virgo",
+    "SpecCode": "23702",
+    "CommonName": "Jaapani tiibmudil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterogobius zacalles",
+    "SpecCode": "15885",
+    "CommonName": "Ryugûhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pterogobius zonoleucus",
+    "SpecCode": "23704",
+    "CommonName": "Chagara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

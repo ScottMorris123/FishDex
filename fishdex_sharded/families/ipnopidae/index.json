@@ -1,0 +1,32 @@
+{
+  "Family": "Ipnopidae",
+  "Order": "Aulopiformes",
+  "Common": "Deep-sea tripod fishes",
+  "Genera": [
+    {
+      "Genus": "Bathymicrops",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ipnopidae/bathymicrops.json"
+    },
+    {
+      "Genus": "Bathypterois",
+      "SpeciesCount": 20,
+      "genus_path": "genera/ipnopidae/bathypterois.json"
+    },
+    {
+      "Genus": "Bathysauropsis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ipnopidae/bathysauropsis.json"
+    },
+    {
+      "Genus": "Bathytyphlops",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ipnopidae/bathytyphlops.json"
+    },
+    {
+      "Genus": "Ipnops",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ipnopidae/ipnops.json"
+    }
+  ]
+}

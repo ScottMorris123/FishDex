@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Pamphorichthys araguaiensis",
+    "SpecCode": "49036",
+    "CommonName": "Aruana toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pamphorichthys hasemani",
+    "SpecCode": "47221",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pamphorichthys hollandi",
+    "SpecCode": "47223",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pamphorichthys minor",
+    "SpecCode": "47225",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pamphorichthys pertapeh",
+    "SpecCode": "64752",
+    "CommonName": "Jungle toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pamphorichthys scalpridens",
+    "SpecCode": "47227",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

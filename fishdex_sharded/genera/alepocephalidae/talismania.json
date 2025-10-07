@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Talismania antillarum",
+    "SpecCode": "11248",
+    "CommonName": "Antillean slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania aphos",
+    "SpecCode": "55083",
+    "CommonName": "Harilik kiilaspeakala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania bifurcata",
+    "SpecCode": "24576",
+    "CommonName": "Brillante",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania brachycephala",
+    "SpecCode": "58896",
+    "CommonName": "短头塔氏鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania bussingi",
+    "SpecCode": "54854",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania filamentosa",
+    "SpecCode": "22697",
+    "CommonName": "Mizuhiki-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania homoptera",
+    "SpecCode": "10150",
+    "CommonName": "Hairfin smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania kotlyari",
+    "SpecCode": "16694",
+    "CommonName": "柯脫塔氏魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania longifilis",
+    "SpecCode": "5061",
+    "CommonName": "Longtail slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania mekistonema",
+    "SpecCode": "11263",
+    "CommonName": "Threadfin slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Talismania okinawensis",
+    "SpecCode": "22698",
+    "CommonName": "Ito-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

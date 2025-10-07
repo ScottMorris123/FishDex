@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Platysmacheilus exiguus",
+    "SpecCode": "54979",
+    "CommonName": "Plošťák čínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platysmacheilus longibarbatus",
+    "SpecCode": "55400",
+    "CommonName": "Plošťák dlouhovousý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platysmacheilus nudiventris",
+    "SpecCode": "55906",
+    "CommonName": "Paljaskõht-mokkrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platysmacheilus zhenjiangensis",
+    "SpecCode": "63033",
+    "CommonName": "Zhenjiangi mokkrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

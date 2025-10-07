@@ -1,0 +1,357 @@
+{
+  "Family": "Labridae",
+  "Order": "Eupercaria/misc",
+  "Common": "Wrasses",
+  "Genera": [
+    {
+      "Genus": "Acantholabrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/acantholabrus.json"
+    },
+    {
+      "Genus": "Achoerodus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labridae/achoerodus.json"
+    },
+    {
+      "Genus": "Ammolabrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/ammolabrus.json"
+    },
+    {
+      "Genus": "Anampses",
+      "SpeciesCount": 12,
+      "genus_path": "genera/labridae/anampses.json"
+    },
+    {
+      "Genus": "Anchichoerops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/anchichoerops.json"
+    },
+    {
+      "Genus": "Austrolabrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/austrolabrus.json"
+    },
+    {
+      "Genus": "Bodianus",
+      "SpeciesCount": 45,
+      "genus_path": "genera/labridae/bodianus.json"
+    },
+    {
+      "Genus": "Centrolabrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labridae/centrolabrus.json"
+    },
+    {
+      "Genus": "Cheilinus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/labridae/cheilinus.json"
+    },
+    {
+      "Genus": "Cheilio",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/cheilio.json"
+    },
+    {
+      "Genus": "Choerodon",
+      "SpeciesCount": 28,
+      "genus_path": "genera/labridae/choerodon.json"
+    },
+    {
+      "Genus": "Cirrhilabrus",
+      "SpeciesCount": 62,
+      "genus_path": "genera/labridae/cirrhilabrus.json"
+    },
+    {
+      "Genus": "Clepticus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labridae/clepticus.json"
+    },
+    {
+      "Genus": "Conniella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/conniella.json"
+    },
+    {
+      "Genus": "Coris",
+      "SpeciesCount": 27,
+      "genus_path": "genera/labridae/coris.json"
+    },
+    {
+      "Genus": "Ctenolabrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/ctenolabrus.json"
+    },
+    {
+      "Genus": "Cymolutes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labridae/cymolutes.json"
+    },
+    {
+      "Genus": "Decodon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/labridae/decodon.json"
+    },
+    {
+      "Genus": "Diproctacanthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/diproctacanthus.json"
+    },
+    {
+      "Genus": "Doratonotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/doratonotus.json"
+    },
+    {
+      "Genus": "Dotalabrus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labridae/dotalabrus.json"
+    },
+    {
+      "Genus": "Epibulus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labridae/epibulus.json"
+    },
+    {
+      "Genus": "Eupetrichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/eupetrichthys.json"
+    },
+    {
+      "Genus": "Frontilabrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/frontilabrus.json"
+    },
+    {
+      "Genus": "Gomphosus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labridae/gomphosus.json"
+    },
+    {
+      "Genus": "Halichoeres",
+      "SpeciesCount": 82,
+      "genus_path": "genera/labridae/halichoeres.json"
+    },
+    {
+      "Genus": "Hemigymnus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labridae/hemigymnus.json"
+    },
+    {
+      "Genus": "Hologymnosus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/labridae/hologymnosus.json"
+    },
+    {
+      "Genus": "Iniistius",
+      "SpeciesCount": 23,
+      "genus_path": "genera/labridae/iniistius.json"
+    },
+    {
+      "Genus": "Labrichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/labrichthys.json"
+    },
+    {
+      "Genus": "Labroides",
+      "SpeciesCount": 5,
+      "genus_path": "genera/labridae/labroides.json"
+    },
+    {
+      "Genus": "Labropsis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/labridae/labropsis.json"
+    },
+    {
+      "Genus": "Labrus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/labridae/labrus.json"
+    },
+    {
+      "Genus": "Lachnolaimus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/lachnolaimus.json"
+    },
+    {
+      "Genus": "Lappanella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/labridae/lappanella.json"
+    },
+    {
+      "Genus": "Larabicus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/larabicus.json"
+    },
+    {
+      "Genus": "Leptojulis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/labridae/leptojulis.json"
+    },
+    {
+      "Genus": "Macropharyngodon",
+      "SpeciesCount": 12,
+      "genus_path": "genera/labridae/macropharyngodon.json"
+    },
+    {
+      "Genus": "Malapterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/malapterus.json"
+    },
+    {
+      "Genus": "Minilabrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/minilabrus.json"
+    },
+    {
+      "Genus": "Notolabrus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/labridae/notolabrus.json"
+    },
+    {
+      "Genus": "Novaculichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/novaculichthys.json"
+    },
+    {
+      "Genus": "Novaculoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/novaculoides.json"
+    },
+    {
+      "Genus": "Novaculops",
+      "SpeciesCount": 7,
+      "genus_path": "genera/labridae/novaculops.json"
+    },
+    {
+      "Genus": "Ophthalmolepis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/ophthalmolepis.json"
+    },
+    {
+      "Genus": "Oxycheilinus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/labridae/oxycheilinus.json"
+    },
+    {
+      "Genus": "Oxyjulis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/oxyjulis.json"
+    },
+    {
+      "Genus": "Paracheilinus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/labridae/paracheilinus.json"
+    },
+    {
+      "Genus": "Parajulis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/parajulis.json"
+    },
+    {
+      "Genus": "Pictilabrus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labridae/pictilabrus.json"
+    },
+    {
+      "Genus": "Polylepion",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labridae/polylepion.json"
+    },
+    {
+      "Genus": "Pseudocheilinops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/pseudocheilinops.json"
+    },
+    {
+      "Genus": "Pseudocheilinus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/labridae/pseudocheilinus.json"
+    },
+    {
+      "Genus": "Pseudocoris",
+      "SpeciesCount": 9,
+      "genus_path": "genera/labridae/pseudocoris.json"
+    },
+    {
+      "Genus": "Pseudodax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/pseudodax.json"
+    },
+    {
+      "Genus": "Pseudojuloides",
+      "SpeciesCount": 20,
+      "genus_path": "genera/labridae/pseudojuloides.json"
+    },
+    {
+      "Genus": "Pseudolabrus",
+      "SpeciesCount": 12,
+      "genus_path": "genera/labridae/pseudolabrus.json"
+    },
+    {
+      "Genus": "Pteragogus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/labridae/pteragogus.json"
+    },
+    {
+      "Genus": "Semicossyphus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labridae/semicossyphus.json"
+    },
+    {
+      "Genus": "Stethojulis",
+      "SpeciesCount": 10,
+      "genus_path": "genera/labridae/stethojulis.json"
+    },
+    {
+      "Genus": "Suezichthys",
+      "SpeciesCount": 12,
+      "genus_path": "genera/labridae/suezichthys.json"
+    },
+    {
+      "Genus": "Symphodus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/labridae/symphodus.json"
+    },
+    {
+      "Genus": "Tautoga",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/tautoga.json"
+    },
+    {
+      "Genus": "Tautogolabrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/tautogolabrus.json"
+    },
+    {
+      "Genus": "Terelabrus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labridae/terelabrus.json"
+    },
+    {
+      "Genus": "Thalassoma",
+      "SpeciesCount": 28,
+      "genus_path": "genera/labridae/thalassoma.json"
+    },
+    {
+      "Genus": "Wetmorella",
+      "SpeciesCount": 3,
+      "genus_path": "genera/labridae/wetmorella.json"
+    },
+    {
+      "Genus": "Xenojulis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/xenojulis.json"
+    },
+    {
+      "Genus": "Xiphocheilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/labridae/xiphocheilus.json"
+    },
+    {
+      "Genus": "Xyrichtys",
+      "SpeciesCount": 11,
+      "genus_path": "genera/labridae/xyrichtys.json"
+    }
+  ]
+}

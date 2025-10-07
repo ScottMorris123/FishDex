@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Anoplarchus insignis",
+    "SpecCode": "3775",
+    "CommonName": "Kirju harilimusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anoplarchus purpurescens",
+    "SpecCode": "3776",
+    "CommonName": "Cockscomb prickleback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

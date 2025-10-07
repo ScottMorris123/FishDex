@@ -1,0 +1,102 @@
+[
+  {
+    "ScientificName": "Pholis clemensi",
+    "SpecCode": "3800",
+    "CommonName": "Langfinnet tangspræl",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis crassispina",
+    "SpecCode": "23800",
+    "CommonName": "Spotted gunnel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis fangi",
+    "SpecCode": "60656",
+    "CommonName": "흰베도라치",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis fasciata",
+    "SpecCode": "3802",
+    "CommonName": "Banded gunnel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis gunnellus",
+    "SpecCode": "3804",
+    "CommonName": "Almindelig tangspræl",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis laeta",
+    "SpecCode": "3805",
+    "CommonName": "Bracketed blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis nea",
+    "SpecCode": "61172",
+    "CommonName": "Aya-ginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis nebulosa",
+    "SpecCode": "10388",
+    "CommonName": "Ginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis ornata",
+    "SpecCode": "3806",
+    "CommonName": "Ayaginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis picta",
+    "SpecCode": "23799",
+    "CommonName": "Kirju võikala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholis schultzi",
+    "SpecCode": "3807",
+    "CommonName": "Lêlethen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

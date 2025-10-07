@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Cristatogobius albius",
+    "SpecCode": "63320",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cristatogobius aurimaculatus",
+    "SpecCode": "59386",
+    "CommonName": "Hime-tosakahaze",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cristatogobius lophius",
+    "SpecCode": "59257",
+    "CommonName": "Tosakahaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cristatogobius nonatoae",
+    "SpecCode": "23604",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cristatogobius rubripectoralis",
+    "SpecCode": "61447",
+    "CommonName": "Redfin crestedgoby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

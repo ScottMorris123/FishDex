@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Oxydoras kneri",
+    "SpecCode": "47639",
+    "CommonName": "abotoado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxydoras niger",
+    "SpecCode": "12108",
+    "CommonName": "Abotoado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxydoras sifontesi",
+    "SpecCode": "47602",
+    "CommonName": "Guitarrilla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

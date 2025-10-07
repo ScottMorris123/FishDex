@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Cirrhitus albopunctatus",
+    "SpecCode": "60601",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitus atlanticus",
+    "SpecCode": "22480",
+    "CommonName": "Vestafrikansk falkefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitus pinnulatus",
+    "SpecCode": "5831",
+    "CommonName": "Åluda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitus rivulatus",
+    "SpecCode": "6408",
+    "CommonName": "Carabali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

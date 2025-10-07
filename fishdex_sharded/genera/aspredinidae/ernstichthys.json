@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Ernstichthys anduzei",
+    "SpecCode": "48653",
+    "CommonName": "蕾蝌蚪鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ernstichthys intonsus",
+    "SpecCode": "48656",
+    "CommonName": "Carachita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ernstichthys megistus",
+    "SpecCode": "48657",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ernstichthys taquari",
+    "SpecCode": "70049",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

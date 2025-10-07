@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Acanthanectes hystrix",
+    "SpecCode": "56310",
+    "CommonName": "棘泳鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthanectes rufus",
+    "SpecCode": "56311",
+    "CommonName": "紅棘泳鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

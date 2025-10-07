@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Geotria australis",
+    "SpecCode": "6947",
+    "CommonName": "Anguila blanca",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Geotria macrostoma",
+    "SpecCode": "69313",
+    "CommonName": "Bandera argentina",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

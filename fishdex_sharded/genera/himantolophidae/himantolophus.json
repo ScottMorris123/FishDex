@@ -1,0 +1,200 @@
+[
+  {
+    "ScientificName": "Himantolophus albinares",
+    "SpecCode": "16888",
+    "CommonName": "Shirohoshi-chouchin-ankou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus appelii",
+    "SpecCode": "24762",
+    "CommonName": "Prickly anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus azurlucens",
+    "SpecCode": "58782",
+    "CommonName": "蓝光鞭冠鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus borealis",
+    "SpecCode": "58779",
+    "CommonName": "宝莲鞭冠鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus brevirostris",
+    "SpecCode": "58778",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus compressus",
+    "SpecCode": "57287",
+    "CommonName": "窄鞭冠鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus cornifer",
+    "SpecCode": "58776",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus crinitus",
+    "SpecCode": "60771",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus danae",
+    "SpecCode": "58775",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus groenlandicus",
+    "SpecCode": "3099",
+    "CommonName": "Atlantic footballfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus litoceras",
+    "SpecCode": "65815",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus macroceras",
+    "SpecCode": "60772",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus macroceratoides",
+    "SpecCode": "60774",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus mauli",
+    "SpecCode": "27745",
+    "CommonName": "Litli lúsífer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus melanolophus",
+    "SpecCode": "58780",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus multifurcatus",
+    "SpecCode": "60776",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus nigricornis",
+    "SpecCode": "58774",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus paucifilosus",
+    "SpecCode": "60777",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus pseudalbinares",
+    "SpecCode": "58781",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus rostratus",
+    "SpecCode": "68042",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus sagamius",
+    "SpecCode": "58777",
+    "CommonName": "Pacific footballfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Himantolophus stewarti",
+    "SpecCode": "66395",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

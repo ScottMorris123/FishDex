@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Trematocranus labifer",
+    "SpecCode": "2218",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocranus microstoma",
+    "SpecCode": "2216",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocranus pachychilus",
+    "SpecCode": "69013",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematocranus placodon",
+    "SpecCode": "2217",
+    "CommonName": "Chigong' o chandembera",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

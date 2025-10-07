@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Schedophilus griseolineatus",
+    "SpecCode": "60572",
+    "CommonName": "灰線高體鯧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schedophilus haedrichi",
+    "SpecCode": "57957",
+    "CommonName": "Cojinoba del Norte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schedophilus huttoni",
+    "SpecCode": "10189",
+    "CommonName": "Cojinoba traposa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schedophilus maculatus",
+    "SpecCode": "5056",
+    "CommonName": "Pelagic butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schedophilus medusophagus",
+    "SpecCode": "1721",
+    "CommonName": "Bretahveðnir",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schedophilus ovalis",
+    "SpecCode": "250",
+    "CommonName": "Centrolofo viola",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schedophilus pemarco",
+    "SpecCode": "10190",
+    "CommonName": "Liro-raiado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schedophilus velaini",
+    "SpecCode": "26371",
+    "CommonName": "African barrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

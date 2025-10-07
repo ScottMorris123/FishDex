@@ -1,0 +1,209 @@
+[
+  {
+    "ScientificName": "Lobocheilos bo",
+    "SpecCode": "17416",
+    "CommonName": "Bö sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos cornutus",
+    "SpecCode": "54685",
+    "CommonName": "Mujuk bandonský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos cryptopogon",
+    "SpecCode": "27153",
+    "CommonName": "Pasoj vouskatý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos davisi",
+    "SpecCode": "27154",
+    "CommonName": "Davise sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos delacouri",
+    "SpecCode": "27155",
+    "CommonName": "Delacouri sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos erinaceus",
+    "SpecCode": "63829",
+    "CommonName": "Karenina-sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos falcifer",
+    "SpecCode": "22806",
+    "CommonName": "Ahan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos fowleri",
+    "SpecCode": "54686",
+    "CommonName": "Fowleri sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos gracilis",
+    "SpecCode": "27156",
+    "CommonName": "Mujuk štíhlý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos ixocheilos",
+    "SpecCode": "63830",
+    "CommonName": "Sumatra sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos kajanensis",
+    "SpecCode": "17418",
+    "CommonName": "Kayani sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos lehat",
+    "SpecCode": "17419",
+    "CommonName": "Jaava sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos melanotaenia",
+    "SpecCode": "27157",
+    "CommonName": "Mujuk černopruhý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos nigrovittatus",
+    "SpecCode": "54687",
+    "CommonName": "Mujuk thajský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos ovalis",
+    "SpecCode": "63831",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos quadrilineatus",
+    "SpecCode": "27158",
+    "CommonName": "Lappen-Lipper",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos rhabdoura",
+    "SpecCode": "27159",
+    "CommonName": "Juttsaba-sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos schwanenfeldii",
+    "SpecCode": "22807",
+    "CommonName": "Mujuk Schwanenfeldův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos tenura",
+    "SpecCode": "63832",
+    "CommonName": "Salesaba-sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos terminalis",
+    "SpecCode": "63833",
+    "CommonName": "Sabahi sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos thavili",
+    "SpecCode": "54688",
+    "CommonName": "Mujuk rajaburský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos trangensis",
+    "SpecCode": "54689",
+    "CommonName": "Mujuk trangenský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lobocheilos unicornis",
+    "SpecCode": "63834",
+    "CommonName": "Narval-sagarlõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

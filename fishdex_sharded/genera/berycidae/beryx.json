@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Beryx decadactylus",
+    "SpecCode": "1319",
+    "CommonName": "Alfaquim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Beryx mollis",
+    "SpecCode": "59582",
+    "CommonName": "Fūsen-kinme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Beryx splendens",
+    "SpecCode": "1320",
+    "CommonName": "Alfonsim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

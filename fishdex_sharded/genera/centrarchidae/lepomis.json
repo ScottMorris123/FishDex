@@ -1,0 +1,120 @@
+[
+  {
+    "ScientificName": "Lepomis auritus",
+    "SpecCode": "3370",
+    "CommonName": "Chopa de abdomen colorado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis cyanellus",
+    "SpecCode": "3371",
+    "CommonName": "Grasbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis gibbosus",
+    "SpecCode": "3372",
+    "CommonName": "Achigan à petite bouche",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis gulosus",
+    "SpecCode": "3373",
+    "CommonName": "Chope prieta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis humilis",
+    "SpecCode": "3374",
+    "CommonName": "Orangeflecken-Sonnenbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis macrochirus",
+    "SpecCode": "3375",
+    "CommonName": "Blouwang-sonvis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis marginatus",
+    "SpecCode": "3376",
+    "CommonName": "Dollar sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis megalotis",
+    "SpecCode": "3377",
+    "CommonName": "Crapet à longues oreilles",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis microlophus",
+    "SpecCode": "3378",
+    "CommonName": "Chopa caracojera",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis miniatus",
+    "SpecCode": "60775",
+    "CommonName": "Redspotted sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis peltastes",
+    "SpecCode": "66682",
+    "CommonName": "Northern sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis punctatus",
+    "SpecCode": "3379",
+    "CommonName": "Plettet solaborre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepomis symmetricus",
+    "SpecCode": "3380",
+    "CommonName": "Bantam sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Bembras adenensis",
+    "SpecCode": "27960",
+    "CommonName": "亚丁湾红鲬",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bembras japonica",
+    "SpecCode": "10445",
+    "CommonName": "Akagochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bembras longipinnis",
+    "SpecCode": "51040",
+    "CommonName": "Longfin flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bembras macrolepis",
+    "SpecCode": "51039",
+    "CommonName": "Bigscale flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bembras megacephala",
+    "SpecCode": "51114",
+    "CommonName": "Greenspotted flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

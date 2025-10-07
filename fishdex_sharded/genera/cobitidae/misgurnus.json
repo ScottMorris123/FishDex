@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Misgurnus anguillicaudatus",
+    "SpecCode": "3016",
+    "CommonName": "Aasia vingerjas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Misgurnus buphoensis",
+    "SpecCode": "60796",
+    "CommonName": "Korea vingerjas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Misgurnus fossilis",
+    "SpecCode": "4790",
+    "CommonName": "Beitzger",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Misgurnus mizolepis",
+    "SpecCode": "14483",
+    "CommonName": "Chinese muddy loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Misgurnus mohoity",
+    "SpecCode": "60999",
+    "CommonName": "Marmorimutakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Misgurnus multimaculatus",
+    "SpecCode": "67467",
+    "CommonName": "Kirju vingerjas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Misgurnus nikolskyi",
+    "SpecCode": "60797",
+    "CommonName": "Nikolski vingerjas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Misgurnus tonkinensis",
+    "SpecCode": "61374",
+    "CommonName": "Piskoř tonkinský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

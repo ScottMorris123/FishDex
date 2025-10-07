@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Trisopterus capelanus",
+    "SpecCode": "66573",
+    "CommonName": "Capelin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trisopterus esmarkii",
+    "SpecCode": "1023",
+    "CommonName": "Augnepål",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trisopterus luscus",
+    "SpecCode": "1367",
+    "CommonName": "Bakaliaros",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trisopterus minutus",
+    "SpecCode": "481",
+    "CommonName": "Arface",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

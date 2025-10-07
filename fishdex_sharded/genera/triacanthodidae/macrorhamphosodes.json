@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Macrorhamphosodes platycheilus",
+    "SpecCode": "10572",
+    "CommonName": "Largegill trumpetsnout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrorhamphosodes uradoi",
+    "SpecCode": "10798",
+    "CommonName": "Common trumpetsnout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

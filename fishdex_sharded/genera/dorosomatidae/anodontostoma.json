@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Anodontostoma chacunda",
+    "SpecCode": "1619",
+    "CommonName": "Alose chaconde",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anodontostoma selangkat",
+    "SpecCode": "1620",
+    "CommonName": "Dorosoma batávská",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anodontostoma thailandiae",
+    "SpecCode": "1621",
+    "CommonName": "Bok kog",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

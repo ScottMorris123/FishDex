@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Glyptosternon akhtari",
+    "SpecCode": "51037",
+    "CommonName": "连鳍原鮡",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptosternon maculatum",
+    "SpecCode": "24838",
+    "CommonName": "黑斑原鮡",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptosternon malaisei",
+    "SpecCode": "24839",
+    "CommonName": "馬氏原鮡",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glyptosternon reticulatum",
+    "SpecCode": "13367",
+    "CommonName": "Nayid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

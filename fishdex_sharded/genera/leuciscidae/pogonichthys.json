@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Pogonichthys ciscoides",
+    "SpecCode": "2936",
+    "CommonName": "Clear Lake Splittail",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pogonichthys macrolepidotus",
+    "SpecCode": "2937",
+    "CommonName": "Jelčík velkošupinný",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

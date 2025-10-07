@@ -1,0 +1,54 @@
+[
+  {
+    "ScientificName": "Atherina boyeri",
+    "SpecCode": "1696",
+    "CommonName": "Acquadela",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherina breviceps",
+    "SpecCode": "1301",
+    "CommonName": "Athérine du Cap",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherina hepsetus",
+    "SpecCode": "1697",
+    "CommonName": "Abichon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherina lopeziana",
+    "SpecCode": "9028",
+    "CommonName": "大口真銀漢魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherina presbyter",
+    "SpecCode": "45",
+    "CommonName": "Abichon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

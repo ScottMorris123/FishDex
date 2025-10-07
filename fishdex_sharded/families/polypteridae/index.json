@@ -1,0 +1,17 @@
+{
+  "Family": "Polypteridae",
+  "Order": "Polypteriformes",
+  "Common": "Bichirs",
+  "Genera": [
+    {
+      "Genus": "Erpetoichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/polypteridae/erpetoichthys.json"
+    },
+    {
+      "Genus": "Polypterus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/polypteridae/polypterus.json"
+    }
+  ]
+}

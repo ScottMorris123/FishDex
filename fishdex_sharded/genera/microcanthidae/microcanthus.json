@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Microcanthus joyceae",
+    "SpecCode": "69425",
+    "CommonName": "East-Australian stripey",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microcanthus strigatus",
+    "SpecCode": "7804",
+    "CommonName": "Buttefly fish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

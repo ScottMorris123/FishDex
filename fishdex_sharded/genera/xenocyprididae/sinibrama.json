@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Sinibrama affinis",
+    "SpecCode": "61338",
+    "CommonName": "Cejnovec podobný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibrama longianalis",
+    "SpecCode": "62372",
+    "CommonName": "Pikkuim-hiinalatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibrama macrops",
+    "SpecCode": "17289",
+    "CommonName": "Cejnovec velkooký",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibrama melrosei",
+    "SpecCode": "54910",
+    "CommonName": "Cejnovec nodoanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibrama taeniatus",
+    "SpecCode": "56098",
+    "CommonName": "Küüt-hiinalatikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinibrama wui",
+    "SpecCode": "56021",
+    "CommonName": "Cejnovec kiatingský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

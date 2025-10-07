@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Oloplotosus luteus",
+    "SpecCode": "25549",
+    "CommonName": "Pale yellow tandan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oloplotosus mariae",
+    "SpecCode": "25566",
+    "CommonName": "Maria's tandan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oloplotosus torobo",
+    "SpecCode": "10403",
+    "CommonName": "Kutubu tandan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

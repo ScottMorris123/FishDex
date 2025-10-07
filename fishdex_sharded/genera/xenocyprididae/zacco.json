@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Zacco acutipinnis",
+    "SpecCode": "67554",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zacco chengtui",
+    "SpecCode": "55818",
+    "CommonName": "Chengdu chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zacco platypus",
+    "SpecCode": "7762",
+    "CommonName": "Drachenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zacco taliensis",
+    "SpecCode": "55359",
+    "CommonName": "Dali schizothoracin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

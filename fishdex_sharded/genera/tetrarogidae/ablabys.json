@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ablabys binotatus",
+    "SpecCode": "8049",
+    "CommonName": "Depu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ablabys gymnothorax",
+    "SpecCode": "69366",
+    "CommonName": "Kasasa-haokoze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ablabys macracanthus",
+    "SpecCode": "25701",
+    "CommonName": "Spiny leaf-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ablabys pauciporus",
+    "SpecCode": "69367",
+    "CommonName": "Lesser-scaled cockatoo waspfsh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ablabys taenianotus",
+    "SpecCode": "10232",
+    "CommonName": "Cockatoo fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

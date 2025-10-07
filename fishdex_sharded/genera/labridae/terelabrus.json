@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Terelabrus dewapyle",
+    "SpecCode": "67902",
+    "CommonName": "Kisuge-miyabi-bera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Terelabrus flavocephalus",
+    "SpecCode": "70517",
+    "CommonName": "Red-lined hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Terelabrus rubrovittatus",
+    "SpecCode": "59475",
+    "CommonName": "Red-striped wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

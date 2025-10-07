@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Floridichthys carpio",
+    "SpecCode": "3184",
+    "CommonName": "Goldspotted killifish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Floridichthys polyommus",
+    "SpecCode": "49556",
+    "CommonName": "Bolín yucateco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

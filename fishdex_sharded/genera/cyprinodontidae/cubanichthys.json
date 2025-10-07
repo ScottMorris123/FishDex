@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Cubanichthys cubensis",
+    "SpecCode": "11889",
+    "CommonName": "Cuban Killifish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cubanichthys pengelleyi",
+    "SpecCode": "27735",
+    "CommonName": "Jamaican killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

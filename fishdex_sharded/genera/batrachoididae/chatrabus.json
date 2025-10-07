@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Chatrabus felinus",
+    "SpecCode": "23162",
+    "CommonName": "Geplooide platannavis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chatrabus hendersoni",
+    "SpecCode": "17065",
+    "CommonName": "Chocolate toadfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chatrabus melanurus",
+    "SpecCode": "10255",
+    "CommonName": "Boggel-platannavis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

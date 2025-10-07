@@ -1,0 +1,22 @@
+{
+  "Family": "Halosauridae",
+  "Order": "Notacanthiformes",
+  "Common": "Halosaurs",
+  "Genera": [
+    {
+      "Genus": "Aldrovandia",
+      "SpeciesCount": 6,
+      "genus_path": "genera/halosauridae/aldrovandia.json"
+    },
+    {
+      "Genus": "Halosauropsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/halosauridae/halosauropsis.json"
+    },
+    {
+      "Genus": "Halosaurus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/halosauridae/halosaurus.json"
+    }
+  ]
+}

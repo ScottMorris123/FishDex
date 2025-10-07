@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Occella dodecaedron",
+    "SpecCode": "4165",
+    "CommonName": "Bering poacher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Occella iburia",
+    "SpecCode": "23992",
+    "CommonName": "Saburô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Occella kasawae",
+    "SpecCode": "23994",
+    "CommonName": "Yase-saburô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Occella kuronumai",
+    "SpecCode": "23993",
+    "CommonName": "Shirô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

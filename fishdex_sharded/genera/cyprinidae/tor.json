@@ -1,0 +1,146 @@
+[
+  {
+    "ScientificName": "Tor ater",
+    "SpecCode": "57967",
+    "CommonName": "Mahsír černý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor barakae",
+    "SpecCode": "63105",
+    "CommonName": "Barak mahseer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor dongnaiensis",
+    "SpecCode": "68500",
+    "CommonName": "Cá ngựa xám Đồng Nai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor douronensis",
+    "SpecCode": "5436",
+    "CommonName": "Barbo indico",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor khudree",
+    "SpecCode": "13216",
+    "CommonName": "Arrayam",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor kulkarnii",
+    "SpecCode": "60191",
+    "CommonName": "Dwarf mahseer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor laterivittatus",
+    "SpecCode": "28267",
+    "CommonName": "Mahsír širokopruhý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor malabaricus",
+    "SpecCode": "63448",
+    "CommonName": "Malabar mahseer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor polylepis",
+    "SpecCode": "28265",
+    "CommonName": "Mahsír nanlanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor putitora",
+    "SpecCode": "9194",
+    "CommonName": "Assam mahseer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor remadeviae",
+    "SpecCode": "66322",
+    "CommonName": "Devi mahsir",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor sinensis",
+    "SpecCode": "28270",
+    "CommonName": "Hiina mahsir",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor tambra",
+    "SpecCode": "22692",
+    "CommonName": "Barbi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor tambroides",
+    "SpecCode": "12231",
+    "CommonName": "Barbo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor tor",
+    "SpecCode": "4644",
+    "CommonName": "Almindelig mahseer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tor yingjiangensis",
+    "SpecCode": "62479",
+    "CommonName": "Yingjiangi mahsir",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

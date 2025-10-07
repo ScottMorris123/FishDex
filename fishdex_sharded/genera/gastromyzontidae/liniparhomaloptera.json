@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Liniparhomaloptera disparis",
+    "SpecCode": "55009",
+    "CommonName": "Kirjolattaevä",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liniparhomaloptera monoloba",
+    "SpecCode": "61369",
+    "CommonName": "Balitora jednolaločná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liniparhomaloptera obtusirostris",
+    "SpecCode": "55013",
+    "CommonName": "Mřenka tuponosá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liniparhomaloptera qiongzhongensis",
+    "SpecCode": "55011",
+    "CommonName": "Hainani linihink",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

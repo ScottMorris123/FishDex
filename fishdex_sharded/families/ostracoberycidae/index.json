@@ -1,0 +1,12 @@
+{
+  "Family": "Ostracoberycidae",
+  "Order": "Acropomatiformes",
+  "Common": "Shellskin alfonsinos",
+  "Genera": [
+    {
+      "Genus": "Ostracoberyx",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ostracoberycidae/ostracoberyx.json"
+    }
+  ]
+}

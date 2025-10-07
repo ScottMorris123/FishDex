@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Atrobucca adusta",
+    "SpecCode": "15217",
+    "CommonName": "Scorched croaker",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrobucca alcocki",
+    "SpecCode": "15955",
+    "CommonName": "大眼黑姑魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrobucca antonbruun",
+    "SpecCode": "16012",
+    "CommonName": "安东黑姑鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrobucca bengalensis",
+    "SpecCode": "16024",
+    "CommonName": "孟加拉国黑姑鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrobucca brevis",
+    "SpecCode": "12946",
+    "CommonName": "Orange croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrobucca geniae",
+    "SpecCode": "15959",
+    "CommonName": "狭眼黑姑鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrobucca kyushini",
+    "SpecCode": "15219",
+    "CommonName": "Black-spot croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrobucca marleyi",
+    "SpecCode": "15927",
+    "CommonName": "African blackmouth croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrobucca nibe",
+    "SpecCode": "941",
+    "CommonName": "Alakak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atrobucca trewavasae",
+    "SpecCode": "15956",
+    "CommonName": "Trewavas croaker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

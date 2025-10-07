@@ -1,0 +1,86 @@
+[
+  {
+    "ScientificName": "Engraulis anchoita",
+    "SpecCode": "1659",
+    "CommonName": "Alice atlantica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulis australis",
+    "SpecCode": "1660",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulis capensis",
+    "SpecCode": "64907",
+    "CommonName": "Anchoa de Africa austral",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulis encrasicolus",
+    "SpecCode": "66",
+    "CommonName": "Abobi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulis eurystole",
+    "SpecCode": "1662",
+    "CommonName": "Anchois argenté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulis japonicus",
+    "SpecCode": "1663",
+    "CommonName": "Abaabi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulis maeoticus",
+    "SpecCode": "64732",
+    "CommonName": "Valge anšoovis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulis mordax",
+    "SpecCode": "1664",
+    "CommonName": "Acciuga del nord pacifico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Engraulis ringens",
+    "SpecCode": "4",
+    "CommonName": "Acciuga del Cile",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

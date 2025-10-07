@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gymnodiptychus dybowskii",
+    "SpecCode": "22936",
+    "CommonName": "Dybowski paljasosman",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnodiptychus integrigymnatus",
+    "SpecCode": "56079",
+    "CommonName": "Osman junanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnodiptychus pachycheilus",
+    "SpecCode": "55402",
+    "CommonName": "Paksmokk-paljasosman",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

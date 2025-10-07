@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Deania calceus",
+    "SpecCode": "670",
+    "CommonName": "Almindelig næbhaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deania hystricosa",
+    "SpecCode": "671",
+    "CommonName": "Hrapavi dolgonosi morski pes",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deania profundorum",
+    "SpecCode": "672",
+    "CommonName": "Arrowhead dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Deania quadrispinosa",
+    "SpecCode": "673",
+    "CommonName": "Koonuk-nokkhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

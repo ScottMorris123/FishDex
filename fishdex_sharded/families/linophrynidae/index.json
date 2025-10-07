@@ -1,0 +1,32 @@
+{
+  "Family": "Linophrynidae",
+  "Order": "Lophiiformes",
+  "Common": "Leftvents",
+  "Genera": [
+    {
+      "Genus": "Acentrophryne",
+      "SpeciesCount": 2,
+      "genus_path": "genera/linophrynidae/acentrophryne.json"
+    },
+    {
+      "Genus": "Borophryne",
+      "SpeciesCount": 1,
+      "genus_path": "genera/linophrynidae/borophryne.json"
+    },
+    {
+      "Genus": "Haplophryne",
+      "SpeciesCount": 1,
+      "genus_path": "genera/linophrynidae/haplophryne.json"
+    },
+    {
+      "Genus": "Linophryne",
+      "SpeciesCount": 22,
+      "genus_path": "genera/linophrynidae/linophryne.json"
+    },
+    {
+      "Genus": "Photocorynus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/linophrynidae/photocorynus.json"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Family": "Mastacembelidae",
+  "Order": "Synbranchiformes",
+  "Common": "Spiny eels",
+  "Genera": [
+    {
+      "Genus": "Macrognathus",
+      "SpeciesCount": 24,
+      "genus_path": "genera/mastacembelidae/macrognathus.json"
+    },
+    {
+      "Genus": "Mastacembelus",
+      "SpeciesCount": 63,
+      "genus_path": "genera/mastacembelidae/mastacembelus.json"
+    },
+    {
+      "Genus": "Sinobdella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/mastacembelidae/sinobdella.json"
+    }
+  ]
+}

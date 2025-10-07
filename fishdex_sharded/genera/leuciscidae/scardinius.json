@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Scardinius acarnanicus",
+    "SpecCode": "49064",
+    "CommonName": "Acheleoos-rudskalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scardinius dergle",
+    "SpecCode": "65321",
+    "CommonName": "Dalmaatsia roosärg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scardinius elmaliensis",
+    "SpecCode": "63670",
+    "CommonName": "Antalya rudd",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scardinius erythrophthalmus",
+    "SpecCode": "2951",
+    "CommonName": "About",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scardinius graecus",
+    "SpecCode": "26097",
+    "CommonName": "Græsk rudskalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scardinius hesperidicus",
+    "SpecCode": "65320",
+    "CommonName": "Itaalia roosärg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scardinius knezevici",
+    "SpecCode": "62450",
+    "CommonName": "Albaania roosärg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scardinius plotizza",
+    "SpecCode": "65246",
+    "CommonName": "Neretva roosärg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scardinius racovitzai",
+    "SpecCode": "62463",
+    "CommonName": "Petzea roosärg",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scardinius scardafa",
+    "SpecCode": "49068",
+    "CommonName": "Perlín italský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

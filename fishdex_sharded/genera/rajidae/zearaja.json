@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Zearaja brevicaudata",
+    "SpecCode": "70463",
+    "CommonName": "Raya hocicuda de cola corta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zearaja chilensis",
+    "SpecCode": "51636",
+    "CommonName": "Barn-door skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zearaja maugeana",
+    "SpecCode": "63418",
+    "CommonName": "Maugeaen skate",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zearaja nasuta",
+    "SpecCode": "13144",
+    "CommonName": "Brown rough skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

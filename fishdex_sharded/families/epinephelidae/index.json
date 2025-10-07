@@ -1,0 +1,87 @@
+{
+  "Family": "Epinephelidae",
+  "Order": "Perciformes/Serranoidei",
+  "Common": "Groupers",
+  "Genera": [
+    {
+      "Genus": "Aethaloperca",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epinephelidae/aethaloperca.json"
+    },
+    {
+      "Genus": "Alphestes",
+      "SpeciesCount": 3,
+      "genus_path": "genera/epinephelidae/alphestes.json"
+    },
+    {
+      "Genus": "Anyperodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epinephelidae/anyperodon.json"
+    },
+    {
+      "Genus": "Cephalopholis",
+      "SpeciesCount": 25,
+      "genus_path": "genera/epinephelidae/cephalopholis.json"
+    },
+    {
+      "Genus": "Chromileptes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epinephelidae/chromileptes.json"
+    },
+    {
+      "Genus": "Dermatolepis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/epinephelidae/dermatolepis.json"
+    },
+    {
+      "Genus": "Epinephelus",
+      "SpeciesCount": 90,
+      "genus_path": "genera/epinephelidae/epinephelus.json"
+    },
+    {
+      "Genus": "Gonioplectrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epinephelidae/gonioplectrus.json"
+    },
+    {
+      "Genus": "Gracila",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epinephelidae/gracila.json"
+    },
+    {
+      "Genus": "Hyporthodus",
+      "SpeciesCount": 16,
+      "genus_path": "genera/epinephelidae/hyporthodus.json"
+    },
+    {
+      "Genus": "Mycteroperca",
+      "SpeciesCount": 15,
+      "genus_path": "genera/epinephelidae/mycteroperca.json"
+    },
+    {
+      "Genus": "Paranthias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epinephelidae/paranthias.json"
+    },
+    {
+      "Genus": "Plectropomus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/epinephelidae/plectropomus.json"
+    },
+    {
+      "Genus": "Saloptia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epinephelidae/saloptia.json"
+    },
+    {
+      "Genus": "Triso",
+      "SpeciesCount": 1,
+      "genus_path": "genera/epinephelidae/triso.json"
+    },
+    {
+      "Genus": "Variola",
+      "SpeciesCount": 2,
+      "genus_path": "genera/epinephelidae/variola.json"
+    }
+  ]
+}

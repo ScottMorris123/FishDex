@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Anodus elongatus",
+    "SpecCode": "51222",
+    "CommonName": "Charuto",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anodus orinocensis",
+    "SpecCode": "57979",
+    "CommonName": "Ubarana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Family": "Macruronidae",
+  "Order": "Gadiformes",
+  "Common": "Blue grenadiers",
+  "Genera": [
+    {
+      "Genus": "Macruronus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/macruronidae/macruronus.json"
+    }
+  ]
+}

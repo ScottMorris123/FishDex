@@ -1,0 +1,87 @@
+[
+  {
+    "ScientificName": "Hemirhamphodon byssus",
+    "SpecCode": "67144",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemirhamphodon chrysopunctatus",
+    "SpecCode": "23409",
+    "CommonName": "Hohtopainijakala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemirhamphodon kapuasensis",
+    "SpecCode": "23410",
+    "CommonName": "Punajuovapainijakala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemirhamphodon kecil",
+    "SpecCode": "67145",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemirhamphodon kuekenthali",
+    "SpecCode": "24747",
+    "CommonName": "Halfbeak",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemirhamphodon phaiosoma",
+    "SpecCode": "15913",
+    "CommonName": "Purjepainijakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemirhamphodon pogonognathus",
+    "SpecCode": "15900",
+    "CommonName": "Julung-julung",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemirhamphodon sesamum",
+    "SpecCode": "67143",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemirhamphodon tengah",
+    "SpecCode": "15914",
+    "CommonName": "Tikkupainijakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

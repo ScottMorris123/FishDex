@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Cynotilapia afra",
+    "SpecCode": "2323",
+    "CommonName": "Blue 14",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynotilapia aurifrons",
+    "SpecCode": "66364",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynotilapia axelrodi",
+    "SpecCode": "2324",
+    "CommonName": "Koiratilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynotilapia chilundu",
+    "SpecCode": "68970",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynotilapia zebroides",
+    "SpecCode": "8355",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

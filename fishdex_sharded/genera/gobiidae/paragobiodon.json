@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Paragobiodon echinocephalus",
+    "SpecCode": "7219",
+    "CommonName": "Belodok kepala merah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragobiodon kasaii",
+    "SpecCode": "67475",
+    "CommonName": "Kasai-darumahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragobiodon lacunicolus",
+    "SpecCode": "22476",
+    "CommonName": "Blackfin coral goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragobiodon melanosoma",
+    "SpecCode": "22489",
+    "CommonName": "Black coral goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragobiodon modestus",
+    "SpecCode": "22477",
+    "CommonName": "Redhead goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paragobiodon xanthosoma",
+    "SpecCode": "7220",
+    "CommonName": "Akane-darumahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

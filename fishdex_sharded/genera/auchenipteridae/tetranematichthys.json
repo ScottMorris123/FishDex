@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Tetranematichthys barthemi",
+    "SpecCode": "65404",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetranematichthys quadrifilis",
+    "SpecCode": "48587",
+    "CommonName": "Bagri",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetranematichthys wallacei",
+    "SpecCode": "62963",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

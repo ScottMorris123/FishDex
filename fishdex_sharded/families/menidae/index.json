@@ -1,0 +1,12 @@
+{
+  "Family": "Menidae",
+  "Order": "Carangaria/misc",
+  "Common": "Moonfish",
+  "Genera": [
+    {
+      "Genus": "Mene",
+      "SpeciesCount": 1,
+      "genus_path": "genera/menidae/mene.json"
+    }
+  ]
+}

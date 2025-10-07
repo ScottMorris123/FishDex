@@ -1,0 +1,57 @@
+{
+  "Family": "Ogcocephalidae",
+  "Order": "Lophiiformes",
+  "Common": "Batfishes",
+  "Genera": [
+    {
+      "Genus": "Coelophrys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ogcocephalidae/coelophrys.json"
+    },
+    {
+      "Genus": "Dibranchus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/ogcocephalidae/dibranchus.json"
+    },
+    {
+      "Genus": "Halicmetus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ogcocephalidae/halicmetus.json"
+    },
+    {
+      "Genus": "Halieutaea",
+      "SpeciesCount": 9,
+      "genus_path": "genera/ogcocephalidae/halieutaea.json"
+    },
+    {
+      "Genus": "Halieutichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ogcocephalidae/halieutichthys.json"
+    },
+    {
+      "Genus": "Halieutopsis",
+      "SpeciesCount": 10,
+      "genus_path": "genera/ogcocephalidae/halieutopsis.json"
+    },
+    {
+      "Genus": "Malthopsis",
+      "SpeciesCount": 22,
+      "genus_path": "genera/ogcocephalidae/malthopsis.json"
+    },
+    {
+      "Genus": "Ogcocephalus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/ogcocephalidae/ogcocephalus.json"
+    },
+    {
+      "Genus": "Solocisquama",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ogcocephalidae/solocisquama.json"
+    },
+    {
+      "Genus": "Zalieutes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ogcocephalidae/zalieutes.json"
+    }
+  ]
+}

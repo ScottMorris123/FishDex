@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Trypauchen pelaeos",
+    "SpecCode": "63584",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trypauchen vagina",
+    "SpecCode": "4897",
+    "CommonName": "Burrowing goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

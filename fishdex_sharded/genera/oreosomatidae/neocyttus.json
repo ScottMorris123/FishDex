@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Neocyttus acanthorhynchus",
+    "SpecCode": "52557",
+    "CommonName": "棘吻新海魴",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neocyttus helgae",
+    "SpecCode": "27759",
+    "CommonName": "False boarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neocyttus psilorhynchus",
+    "SpecCode": "52554",
+    "CommonName": "Rough oreodory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neocyttus rhomboidalis",
+    "SpecCode": "9146",
+    "CommonName": "Deepwater dory",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

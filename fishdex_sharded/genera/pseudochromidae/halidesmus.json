@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Halidesmus coccus",
+    "SpecCode": "26823",
+    "CommonName": "Rooster snakelet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halidesmus polytretus",
+    "SpecCode": "4420",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halidesmus scapularis",
+    "SpecCode": "4421",
+    "CommonName": "Slangetjie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halidesmus socotraensis",
+    "SpecCode": "61432",
+    "CommonName": "Socotran snakelet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halidesmus thomaseni",
+    "SpecCode": "4422",
+    "CommonName": "Thomasen's snakelet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

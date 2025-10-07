@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Haludaria afasciata",
+    "SpecCode": "66777",
+    "CommonName": "Klaar haludaaria",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haludaria fasciata",
+    "SpecCode": "24700",
+    "CommonName": "Gid-pakke",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haludaria kannikattiensis",
+    "SpecCode": "61928",
+    "CommonName": "Kannikatti haludaaria",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haludaria melanampyx",
+    "SpecCode": "66778",
+    "CommonName": "Mägihaludaaria",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

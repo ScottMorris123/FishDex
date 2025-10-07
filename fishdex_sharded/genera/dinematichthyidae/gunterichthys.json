@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Gunterichthys bussingi",
+    "SpecCode": "63359",
+    "CommonName": "Bussing's mudbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gunterichthys coheni",
+    "SpecCode": "63360",
+    "CommonName": "Cohen's mudbrotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gunterichthys longipenis",
+    "SpecCode": "3122",
+    "CommonName": "Gold brotula",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

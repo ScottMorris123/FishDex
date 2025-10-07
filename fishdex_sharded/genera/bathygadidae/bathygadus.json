@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Bathygadus antrodes",
+    "SpecCode": "23173",
+    "CommonName": "Anadara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus bowersi",
+    "SpecCode": "52357",
+    "CommonName": "豪氏底尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus cottoides",
+    "SpecCode": "24990",
+    "CommonName": "Codhead rat tail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus dubiosus",
+    "SpecCode": "58888",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus entomelas",
+    "SpecCode": "58889",
+    "CommonName": "虫纹底尾鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus favosus",
+    "SpecCode": "8433",
+    "CommonName": "蜂巢底尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus furvescens",
+    "SpecCode": "47156",
+    "CommonName": "Blackfin rat tail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus garretti",
+    "SpecCode": "53753",
+    "CommonName": "Hige-anadara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus macrops",
+    "SpecCode": "5479",
+    "CommonName": "Bullseye grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus melanobranchus",
+    "SpecCode": "5045",
+    "CommonName": "Bulawik teczowy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus nipponicus",
+    "SpecCode": "23175",
+    "CommonName": "Tsukaidara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus spongiceps",
+    "SpecCode": "47157",
+    "CommonName": "Spongy rat tail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathygadus sulcatus",
+    "SpecCode": "52368",
+    "CommonName": "沟底尾鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

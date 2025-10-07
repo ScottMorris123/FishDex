@@ -1,0 +1,12 @@
+{
+  "Family": "Tincidae",
+  "Order": "Cypriniformes",
+  "Common": "Tenches",
+  "Genera": [
+    {
+      "Genus": "Tinca",
+      "SpeciesCount": 1,
+      "genus_path": "genera/tincidae/tinca.json"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Agonostomus catalai",
+    "SpecCode": "61407",
+    "CommonName": "Comoro mullet",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Agonostomus telfairii",
+    "SpecCode": "7860",
+    "CommonName": "Chitte",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

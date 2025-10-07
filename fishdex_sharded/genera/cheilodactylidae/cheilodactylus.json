@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Cheilodactylus fasciatus",
+    "SpecCode": "14284",
+    "CommonName": "Castanette léopard",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilodactylus pixi",
+    "SpecCode": "25446",
+    "CommonName": "Balk-vingervin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "Family": "Pholidae",
+  "Order": "Perciformes/Zoarcoidei",
+  "Common": "Gunnels",
+  "Genera": [
+    {
+      "Genus": "Apodichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/pholidae/apodichthys.json"
+    },
+    {
+      "Genus": "Pholis",
+      "SpeciesCount": 11,
+      "genus_path": "genera/pholidae/pholis.json"
+    },
+    {
+      "Genus": "Rhodymenichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pholidae/rhodymenichthys.json"
+    },
+    {
+      "Genus": "Ulvicola",
+      "SpeciesCount": 1,
+      "genus_path": "genera/pholidae/ulvicola.json"
+    }
+  ]
+}

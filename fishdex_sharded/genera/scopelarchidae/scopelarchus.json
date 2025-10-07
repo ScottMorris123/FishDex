@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Scopelarchus analis",
+    "SpecCode": "16630",
+    "CommonName": "Blackbelly pearleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelarchus guentheri",
+    "SpecCode": "16633",
+    "CommonName": "Staring pearleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelarchus michaelsarsi",
+    "SpecCode": "16636",
+    "CommonName": "Bigfin pearleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelarchus stephensi",
+    "SpecCode": "59942",
+    "CommonName": "胸斑珠目魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

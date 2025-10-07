@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Kyataphisa caelata",
+    "SpecCode": "1277",
+    "CommonName": "Anguluva",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kyataphisa nenga",
+    "SpecCode": "25385",
+    "CommonName": "Catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

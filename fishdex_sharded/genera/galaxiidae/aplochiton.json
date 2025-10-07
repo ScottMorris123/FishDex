@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Aplochiton marinus",
+    "SpecCode": "68230",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplochiton taeniatus",
+    "SpecCode": "12870",
+    "CommonName": "Lintjas ebaharjus",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplochiton zebra",
+    "SpecCode": "12871",
+    "CommonName": "Aplochiton",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

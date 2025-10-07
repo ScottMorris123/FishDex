@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Comephorus baikalensis",
+    "SpecCode": "26382",
+    "CommonName": "Baikalgroppe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Comephorus dybowskii",
+    "SpecCode": "26384",
+    "CommonName": "Kleiner Ölfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

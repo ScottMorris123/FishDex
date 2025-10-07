@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Tetracentrum apogonoides",
+    "SpecCode": "25707",
+    "CommonName": "Firepigget glasfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetracentrum caudovittatus",
+    "SpecCode": "10554",
+    "CommonName": "Kiiltolasiahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetracentrum honessi",
+    "SpecCode": "25710",
+    "CommonName": "Honess' glass perchlet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

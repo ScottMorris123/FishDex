@@ -1,0 +1,22 @@
+{
+  "Family": "Trachipteridae",
+  "Order": "Lampriformes",
+  "Common": "Ribbonfishes",
+  "Genera": [
+    {
+      "Genus": "Desmodema",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trachipteridae/desmodema.json"
+    },
+    {
+      "Genus": "Trachipterus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/trachipteridae/trachipterus.json"
+    },
+    {
+      "Genus": "Zu",
+      "SpeciesCount": 2,
+      "genus_path": "genera/trachipteridae/zu.json"
+    }
+  ]
+}

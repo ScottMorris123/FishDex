@@ -1,0 +1,42 @@
+{
+  "Family": "Dalatiidae",
+  "Order": "Squaliformes",
+  "Common": "Sleeper sharks",
+  "Genera": [
+    {
+      "Genus": "Dalatias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dalatiidae/dalatias.json"
+    },
+    {
+      "Genus": "Euprotomicroides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dalatiidae/euprotomicroides.json"
+    },
+    {
+      "Genus": "Euprotomicrus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dalatiidae/euprotomicrus.json"
+    },
+    {
+      "Genus": "Heteroscymnoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dalatiidae/heteroscymnoides.json"
+    },
+    {
+      "Genus": "Isistius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dalatiidae/isistius.json"
+    },
+    {
+      "Genus": "Mollisquama",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dalatiidae/mollisquama.json"
+    },
+    {
+      "Genus": "Squaliolus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/dalatiidae/squaliolus.json"
+    }
+  ]
+}

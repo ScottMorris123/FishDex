@@ -1,0 +1,17 @@
+{
+  "Family": "Myliobatidae",
+  "Order": "Myliobatiformes",
+  "Common": "Eagle and manta rays",
+  "Genera": [
+    {
+      "Genus": "Aetomylaeus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/myliobatidae/aetomylaeus.json"
+    },
+    {
+      "Genus": "Myliobatis",
+      "SpeciesCount": 12,
+      "genus_path": "genera/myliobatidae/myliobatis.json"
+    }
+  ]
+}

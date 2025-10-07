@@ -1,0 +1,76 @@
+[
+  {
+    "ScientificName": "Hypoplectrodes annulatus",
+    "SpecCode": "15090",
+    "CommonName": "Blackbanded seaperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoplectrodes cardinalis",
+    "SpecCode": "61249",
+    "CommonName": "Kurapu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoplectrodes huntii",
+    "SpecCode": "47008",
+    "CommonName": "Redbanded perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoplectrodes jamesoni",
+    "SpecCode": "15093",
+    "CommonName": "Jameson's seaperch",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoplectrodes maccullochi",
+    "SpecCode": "15095",
+    "CommonName": "Halfbanded seaperch",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoplectrodes nigroruber",
+    "SpecCode": "14628",
+    "CommonName": "Banded seaperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoplectrodes semicinctum",
+    "SpecCode": "59849",
+    "CommonName": "半带织鮨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypoplectrodes wilsoni",
+    "SpecCode": "15099",
+    "CommonName": "Spotty seaperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Taaningichthys bathyphilus",
+    "SpecCode": "7013",
+    "CommonName": "Deepwater lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taaningichthys minimus",
+    "SpecCode": "7419",
+    "CommonName": "Kurohadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taaningichthys paurolychnus",
+    "SpecCode": "7420",
+    "CommonName": "Chihiro-kuro-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

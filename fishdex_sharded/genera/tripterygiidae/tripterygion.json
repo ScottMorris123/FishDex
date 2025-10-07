@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Tripterygion delaisi",
+    "SpecCode": "7640",
+    "CommonName": "Black-faced blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tripterygion melanurus",
+    "SpecCode": "54567",
+    "CommonName": "Bżaru sekond",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tripterygion tartessicum",
+    "SpecCode": "63378",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tripterygion tripteronotum",
+    "SpecCode": "1778",
+    "CommonName": "Bacca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

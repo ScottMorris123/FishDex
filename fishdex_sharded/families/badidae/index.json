@@ -1,0 +1,17 @@
+{
+  "Family": "Badidae",
+  "Order": "Anabantiformes",
+  "Common": "Chameleonfishes",
+  "Genera": [
+    {
+      "Genus": "Badis",
+      "SpeciesCount": 28,
+      "genus_path": "genera/badidae/badis.json"
+    },
+    {
+      "Genus": "Dario",
+      "SpeciesCount": 7,
+      "genus_path": "genera/badidae/dario.json"
+    }
+  ]
+}

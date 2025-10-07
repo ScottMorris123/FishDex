@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Sundasalanx malleti",
+    "SpecCode": "27949",
+    "CommonName": "Malleti sundanuudlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sundasalanx megalops",
+    "SpecCode": "27955",
+    "CommonName": "Suursilm-sundanuudlik",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sundasalanx mekongensis",
+    "SpecCode": "58056",
+    "CommonName": "Mekongi sundanuudlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sundasalanx mesops",
+    "SpecCode": "27954",
+    "CommonName": "Barito sundanuudlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sundasalanx microps",
+    "SpecCode": "23397",
+    "CommonName": "Väikesilm-sundanuudlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sundasalanx platyrhynchus",
+    "SpecCode": "27956",
+    "CommonName": "Linut",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sundasalanx praecox",
+    "SpecCode": "26775",
+    "CommonName": "Dwarf noodlefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

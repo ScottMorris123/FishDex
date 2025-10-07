@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Gnathonemus barbatus",
+    "SpecCode": "10859",
+    "CommonName": "Poisur-elevantkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathonemus echidnorhynchus",
+    "SpecCode": "10860",
+    "CommonName": "Rypoun příšerný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathonemus longibarbis",
+    "SpecCode": "10861",
+    "CommonName": "Cyumbi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gnathonemus petersii",
+    "SpecCode": "2085",
+    "CommonName": "Almindelig elefantfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

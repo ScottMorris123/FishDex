@@ -1,0 +1,146 @@
+[
+  {
+    "ScientificName": "Hyporthodus acanthistius",
+    "SpecCode": "9205",
+    "CommonName": "Baqueta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus chabaudi",
+    "SpecCode": "7336",
+    "CommonName": "Garoupa bigotuda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus cifuentesi",
+    "SpecCode": "9219",
+    "CommonName": "Cabrilla gallina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus darwinensis",
+    "SpecCode": "7339",
+    "CommonName": "Darwin grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus ergastularius",
+    "SpecCode": "7342",
+    "CommonName": "Banded rockcod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus exsul",
+    "SpecCode": "9228",
+    "CommonName": "10-spine grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus flavolimbatus",
+    "SpecCode": "1205",
+    "CommonName": "Cherna blanca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus haifensis",
+    "SpecCode": "9262",
+    "CommonName": "Cherne sahariano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus mystacinus",
+    "SpecCode": "1206",
+    "CommonName": "Bigeyed grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus nigritus",
+    "SpecCode": "1207",
+    "CommonName": "Black gouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus niphobles",
+    "SpecCode": "9594",
+    "CommonName": "Baqueta ploma",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus niveatus",
+    "SpecCode": "1208",
+    "CommonName": "Badejo branco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus octofasciatus",
+    "SpecCode": "7355",
+    "CommonName": "Bandiet-klipkabeljou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus perplexus",
+    "SpecCode": "7356",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus quernus",
+    "SpecCode": "6371",
+    "CommonName": "Grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyporthodus septemfasciatus",
+    "SpecCode": "6574",
+    "CommonName": "Bar rockcod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

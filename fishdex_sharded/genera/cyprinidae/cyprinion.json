@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Cyprinion acinaces",
+    "SpecCode": "27870",
+    "CommonName": "Arabian lotak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinion kais",
+    "SpecCode": "54827",
+    "CommonName": "Butak Dehan Kuchek",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinion macrostomus",
+    "SpecCode": "54828",
+    "CommonName": "Beni balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinion mhalense",
+    "SpecCode": "27872",
+    "CommonName": "Dawasir lotak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinion microphthalmum",
+    "SpecCode": "23202",
+    "CommonName": "Parmoušice malooká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinion milesi",
+    "SpecCode": "23209",
+    "CommonName": "Milesi karbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinion muscatense",
+    "SpecCode": "70269",
+    "CommonName": "Hajar Lotak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinion semiplotum",
+    "SpecCode": "13162",
+    "CommonName": "Assamese kingfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinion tenuiradius",
+    "SpecCode": "54721",
+    "CommonName": "Iraani karbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyprinion watsoni",
+    "SpecCode": "23213",
+    "CommonName": "Parmoušice watsonova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

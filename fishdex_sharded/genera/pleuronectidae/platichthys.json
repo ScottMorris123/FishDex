@@ -1,0 +1,44 @@
+[
+  {
+    "ScientificName": "Platichthys bicoloratus",
+    "SpecCode": "8557",
+    "CommonName": "Ishigarei",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platichthys flesus",
+    "SpecCode": "1341",
+    "CommonName": "Baltic flounder",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platichthys solemdali",
+    "SpecCode": "69158",
+    "CommonName": "Baltic flounder",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platichthys stellatus",
+    "SpecCode": "4249",
+    "CommonName": "Emerywheel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

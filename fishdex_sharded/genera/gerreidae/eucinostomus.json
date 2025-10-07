@@ -1,0 +1,106 @@
+[
+  {
+    "ScientificName": "Eucinostomus argenteus",
+    "SpecCode": "1049",
+    "CommonName": "Acarapicu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucinostomus currani",
+    "SpecCode": "13728",
+    "CommonName": "Blanche drapeau du Pacifique",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucinostomus dowii",
+    "SpecCode": "46591",
+    "CommonName": "Dow's mojarra",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucinostomus entomelas",
+    "SpecCode": "13729",
+    "CommonName": "Blanche à taches sombres",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucinostomus gracilis",
+    "SpecCode": "3565",
+    "CommonName": "Blanche gracile",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucinostomus gula",
+    "SpecCode": "1050",
+    "CommonName": "Acarapicu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucinostomus harengulus",
+    "SpecCode": "55039",
+    "CommonName": "Carapicu-açu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucinostomus havana",
+    "SpecCode": "1051",
+    "CommonName": "Bigeye mojarra",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucinostomus jonesii",
+    "SpecCode": "3567",
+    "CommonName": "Carapicu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eucinostomus melanopterus",
+    "SpecCode": "1052",
+    "CommonName": "Apapabora",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

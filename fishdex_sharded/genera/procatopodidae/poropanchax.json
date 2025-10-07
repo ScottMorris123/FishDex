@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Poropanchax luxophthalmus",
+    "SpecCode": "65890",
+    "CommonName": "Blyskotek wielkooki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropanchax normani",
+    "SpecCode": "2462",
+    "CommonName": "Blauer Leuchtaugenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropanchax pepo",
+    "SpecCode": "69075",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropanchax rancureli",
+    "SpecCode": "2464",
+    "CommonName": "Blyskotek wielkooki",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropanchax scheeli",
+    "SpecCode": "9679",
+    "CommonName": "Scheel's lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poropanchax stigmatopygus",
+    "SpecCode": "62026",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

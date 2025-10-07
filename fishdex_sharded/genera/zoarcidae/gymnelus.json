@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Gymnelus andersoni",
+    "SpecCode": "56548",
+    "CommonName": "Andersonålebrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus diporus",
+    "SpecCode": "57827",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus gracilis",
+    "SpecCode": "57914",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus hemifasciatus",
+    "SpecCode": "47878",
+    "CommonName": "Bigeye unernak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus obscurus",
+    "SpecCode": "57919",
+    "CommonName": "Tyomniy gimnel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus pauciporus",
+    "SpecCode": "47881",
+    "CommonName": "少孔裸鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus popovi",
+    "SpecCode": "47883",
+    "CommonName": "Aleutian pout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus retrodorsalis",
+    "SpecCode": "15637",
+    "CommonName": "Aurora pout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus soldatovi",
+    "SpecCode": "57826",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus taeniatus",
+    "SpecCode": "58998",
+    "CommonName": "Lentoteliy gimnel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnelus viridis",
+    "SpecCode": "3131",
+    "CommonName": "Anguille de mer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

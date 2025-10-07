@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Antipodocottus elegans",
+    "SpecCode": "15148",
+    "CommonName": "Dwarf sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antipodocottus galatheae",
+    "SpecCode": "15150",
+    "CommonName": "Galathea lõunahärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antipodocottus megalops",
+    "SpecCode": "46979",
+    "CommonName": "大眼反足杜父魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antipodocottus mesembrinus",
+    "SpecCode": "56755",
+    "CommonName": "印尼反足杜父魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

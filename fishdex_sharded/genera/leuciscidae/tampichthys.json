@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Tampichthys catostomops",
+    "SpecCode": "56253",
+    "CommonName": "Carpa de Tamasopo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tampichthys dichroma",
+    "SpecCode": "6112",
+    "CommonName": "Bikoloor-tampikoteibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tampichthys erimyzonops",
+    "SpecCode": "56252",
+    "CommonName": "Carpa del Mante",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tampichthys ipni",
+    "SpecCode": "56251",
+    "CommonName": "Carpa veracruzana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tampichthys mandibularis",
+    "SpecCode": "6113",
+    "CommonName": "Carpa quijarona",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tampichthys rasconis",
+    "SpecCode": "56250",
+    "CommonName": "Blackstripe minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

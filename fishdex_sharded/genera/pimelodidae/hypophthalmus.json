@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Hypophthalmus edentatus",
+    "SpecCode": "4533",
+    "CommonName": "Bagre paisano",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypophthalmus fimbriatus",
+    "SpecCode": "25735",
+    "CommonName": "Mapará bico de pena",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypophthalmus marginatus",
+    "SpecCode": "25736",
+    "CommonName": "Bagre paisano",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypophthalmus oremaculatus",
+    "SpecCode": "51777",
+    "CommonName": "bagre rosado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

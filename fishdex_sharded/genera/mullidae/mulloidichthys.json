@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Mulloidichthys ayliffe",
+    "SpecCode": "66085",
+    "CommonName": "Ayliffe's Goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mulloidichthys dentatus",
+    "SpecCode": "3591",
+    "CommonName": "Capucin mexicain",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mulloidichthys flavolineatus",
+    "SpecCode": "5983",
+    "CommonName": "'A'avere",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mulloidichthys martinicus",
+    "SpecCode": "1092",
+    "CommonName": "Barbaray jaune et gris",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mulloidichthys mimicus",
+    "SpecCode": "25437",
+    "CommonName": "Capucin mimique",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mulloidichthys pfluegeri",
+    "SpecCode": "5985",
+    "CommonName": "Aka weke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mulloidichthys vanicolensis",
+    "SpecCode": "5984",
+    "CommonName": "'A'avere",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Psenopsis anomala",
+    "SpecCode": "497",
+    "CommonName": "Butter fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psenopsis cyanea",
+    "SpecCode": "14280",
+    "CommonName": "Cojinoba del Océano Indico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psenopsis humerosa",
+    "SpecCode": "60570",
+    "CommonName": "Blackspot butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psenopsis intermedia",
+    "SpecCode": "51592",
+    "CommonName": "中間刺鯧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psenopsis obscura",
+    "SpecCode": "7653",
+    "CommonName": "Duister dryfvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psenopsis shojimai",
+    "SpecCode": "8281",
+    "CommonName": "Ikan jepun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rubicundus eos",
+    "SpecCode": "48876",
+    "CommonName": "Tasmani punapihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubicundus lakeside",
+    "SpecCode": "62595",
+    "CommonName": "Galápagose punapihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubicundus lopheliae",
+    "SpecCode": "63756",
+    "CommonName": "Koralli-punapihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubicundus rubicundus",
+    "SpecCode": "65978",
+    "CommonName": "Taiwani punapihklane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

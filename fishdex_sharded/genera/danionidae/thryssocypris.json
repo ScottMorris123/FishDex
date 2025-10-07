@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Thryssocypris ornithostoma",
+    "SpecCode": "22680",
+    "CommonName": "Dánio ptakoústé",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssocypris smaragdinus",
+    "SpecCode": "22681",
+    "CommonName": "Seluang panjang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssocypris tonlesapensis",
+    "SpecCode": "27082",
+    "CommonName": "Dánio kambodžské",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thryssocypris wongrati",
+    "SpecCode": "66912",
+    "CommonName": "Tai trüssakarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

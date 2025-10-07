@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Selenotoca multifasciata",
+    "SpecCode": "12257",
+    "CommonName": "Banded scat",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selenotoca papuensis",
+    "SpecCode": "24852",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lophiocharon hutchinsi",
+    "SpecCode": "63521",
+    "CommonName": "Hutchins' anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophiocharon lithinostomus",
+    "SpecCode": "47502",
+    "CommonName": "Marble-mouthed frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophiocharon trisignatus",
+    "SpecCode": "10330",
+    "CommonName": "Rough angler fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Catathyridium garmani",
+    "SpecCode": "57933",
+    "CommonName": "Lenguado",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catathyridium grandirivi",
+    "SpecCode": "60325",
+    "CommonName": "甲鰨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catathyridium jenynsii",
+    "SpecCode": "23473",
+    "CommonName": "Arraia-sem-ferrão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Catathyridium lorentzii",
+    "SpecCode": "57583",
+    "CommonName": "Lenguado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

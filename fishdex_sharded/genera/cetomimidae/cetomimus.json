@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Cetomimus compunctus",
+    "SpecCode": "23354",
+    "CommonName": "Irezumi-kujira-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetomimus craneae",
+    "SpecCode": "59444",
+    "CommonName": "Harilik vaalkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetomimus gillii",
+    "SpecCode": "9036",
+    "CommonName": "吉氏仿鲸鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetomimus hempeli",
+    "SpecCode": "9039",
+    "CommonName": "Whalefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetomimus kerdops",
+    "SpecCode": "59521",
+    "CommonName": "巴哈馬群島倣鯨魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetomimus picklei",
+    "SpecCode": "16861",
+    "CommonName": "毕氏仿鲸鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetomimus teevani",
+    "SpecCode": "59522",
+    "CommonName": "蒂氏仿鲸鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

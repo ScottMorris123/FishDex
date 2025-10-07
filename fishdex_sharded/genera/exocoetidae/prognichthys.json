@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Prognichthys brevipinnis",
+    "SpecCode": "15382",
+    "CommonName": "Aliponghok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prognichthys gibbifrons",
+    "SpecCode": "1038",
+    "CommonName": "Bluntnose flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prognichthys glaphyrae",
+    "SpecCode": "60690",
+    "CommonName": "Gyre flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prognichthys occidentalis",
+    "SpecCode": "60691",
+    "CommonName": "Bluntnose Flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prognichthys sealei",
+    "SpecCode": "5124",
+    "CommonName": "Daruma-tobi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prognichthys tringa",
+    "SpecCode": "13692",
+    "CommonName": "Exocet tringa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

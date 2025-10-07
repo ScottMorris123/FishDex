@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Osopsaron formosensis",
+    "SpecCode": "59413",
+    "CommonName": "台湾棘鲈鲬",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osopsaron karlik",
+    "SpecCode": "55114",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osopsaron verecundum",
+    "SpecCode": "25023",
+    "CommonName": "Himetoragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

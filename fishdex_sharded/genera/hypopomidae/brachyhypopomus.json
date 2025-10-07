@@ -1,0 +1,264 @@
+[
+  {
+    "ScientificName": "Brachyhypopomus alberti",
+    "SpecCode": "68547",
+    "CommonName": "Cuchillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus arrayae",
+    "SpecCode": "68548",
+    "CommonName": "Cuchillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus batesi",
+    "SpecCode": "68550",
+    "CommonName": "Sarapó",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus beebei",
+    "SpecCode": "28038",
+    "CommonName": "Alapo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus belindae",
+    "SpecCode": "68570",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus benjamini",
+    "SpecCode": "68571",
+    "CommonName": "Macana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus bennetti",
+    "SpecCode": "67217",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus bombilla",
+    "SpecCode": "64003",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus brevirostris",
+    "SpecCode": "12222",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus bullocki",
+    "SpecCode": "64937",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus cunia",
+    "SpecCode": "68573",
+    "CommonName": "Sarapó",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus degy",
+    "SpecCode": "70231",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus diazae",
+    "SpecCode": "48081",
+    "CommonName": "戴氏短身电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus draco",
+    "SpecCode": "64062",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus flavipomus",
+    "SpecCode": "68575",
+    "CommonName": "Macana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus gauderio",
+    "SpecCode": "64917",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus hamiltoni",
+    "SpecCode": "68577",
+    "CommonName": "Cuchillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus hendersoni",
+    "SpecCode": "68579",
+    "CommonName": "Knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus janeiroensis",
+    "SpecCode": "48082",
+    "CommonName": "巴西短身电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus jureiae",
+    "SpecCode": "62264",
+    "CommonName": "Sarapó",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus menezesi",
+    "SpecCode": "68580",
+    "CommonName": "Tuvira",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus occidentalis",
+    "SpecCode": "48080",
+    "CommonName": "Cuchillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus palenque",
+    "SpecCode": "68581",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus pinnicaudatus",
+    "SpecCode": "28039",
+    "CommonName": "Asapalipi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus provenzanoi",
+    "SpecCode": "68583",
+    "CommonName": "Cuchillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus regani",
+    "SpecCode": "68584",
+    "CommonName": "Cuchillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus sullivani",
+    "SpecCode": "68586",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus verdii",
+    "SpecCode": "68587",
+    "CommonName": "Macana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyhypopomus walteri",
+    "SpecCode": "67216",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

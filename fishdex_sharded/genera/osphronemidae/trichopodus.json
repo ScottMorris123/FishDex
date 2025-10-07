@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Trichopodus cantoris",
+    "SpecCode": "66131",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichopodus leerii",
+    "SpecCode": "4674",
+    "CommonName": "Diamond gourami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichopodus microlepis",
+    "SpecCode": "4729",
+    "CommonName": "Cá sac diep",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichopodus pectoralis",
+    "SpecCode": "499",
+    "CommonName": "Belar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichopodus poptae",
+    "SpecCode": "67816",
+    "CommonName": "Øjepletgurami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichopodus trichopterus",
+    "SpecCode": "4675",
+    "CommonName": "Blå gurami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

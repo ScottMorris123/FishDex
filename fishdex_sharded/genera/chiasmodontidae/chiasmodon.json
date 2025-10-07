@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Chiasmodon asper",
+    "SpecCode": "65618",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiasmodon braueri",
+    "SpecCode": "22587",
+    "CommonName": "布氏叉齒龍鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiasmodon harteli",
+    "SpecCode": "65619",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiasmodon microcephalus",
+    "SpecCode": "65671",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiasmodon niger",
+    "SpecCode": "10192",
+    "CommonName": "Black swallower",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiasmodon pluriradiatus",
+    "SpecCode": "64184",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiasmodon subniger",
+    "SpecCode": "22593",
+    "CommonName": "暗灰叉齒龍鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

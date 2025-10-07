@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Taeniura lessoni",
+    "SpecCode": "68038",
+    "CommonName": "Oceania fantail ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniura lymma",
+    "SpecCode": "5399",
+    "CommonName": "Ali maduva",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Parataeniophorus bertelseni",
+    "SpecCode": "52726",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parataeniophorus brevis",
+    "SpecCode": "16852",
+    "CommonName": "Short tapetail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parataeniophorus gulosus",
+    "SpecCode": "9044",
+    "CommonName": "大鰭副鰻口魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

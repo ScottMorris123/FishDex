@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Placocheilus bibarbatus",
+    "SpecCode": "62823",
+    "CommonName": "Duongi napplõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Placocheilus caudofasciatus",
+    "SpecCode": "56279",
+    "CommonName": "Gara potoční",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Placocheilus cryptonemus",
+    "SpecCode": "56280",
+    "CommonName": "Barbless disc-barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Placocheilus dulongensis",
+    "SpecCode": "66892",
+    "CommonName": "Dulongi kupphuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Placocheilus robustus",
+    "SpecCode": "62368",
+    "CommonName": "Jäme kupphuul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

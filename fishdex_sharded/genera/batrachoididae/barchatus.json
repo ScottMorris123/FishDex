@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Barchatus cirrhosus",
+    "SpecCode": "6390",
+    "CommonName": "Toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barchatus indicus",
+    "SpecCode": "67560",
+    "CommonName": "Somalian toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

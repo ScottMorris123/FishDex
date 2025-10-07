@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Macroparalepis affinis",
+    "SpecCode": "16558",
+    "CommonName": "Barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macroparalepis brevis",
+    "SpecCode": "16564",
+    "CommonName": "短身大魣蜥魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macroparalepis danae",
+    "SpecCode": "58758",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macroparalepis johnfitchi",
+    "SpecCode": "63595",
+    "CommonName": "Black barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macroparalepis longilateralis",
+    "SpecCode": "63599",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macroparalepis macrogeneion",
+    "SpecCode": "16722",
+    "CommonName": "Barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macroparalepis nigra",
+    "SpecCode": "16569",
+    "CommonName": "Black barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

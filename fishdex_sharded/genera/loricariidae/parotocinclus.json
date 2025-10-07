@@ -1,0 +1,272 @@
+[
+  {
+    "ScientificName": "Parotocinclus amazonensis",
+    "SpecCode": "50333",
+    "CommonName": "Amazoninvasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus arandai",
+    "SpecCode": "64968",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus aripuanensis",
+    "SpecCode": "53572",
+    "CommonName": "Satulavasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus bahiensis",
+    "SpecCode": "50334",
+    "CommonName": "Bahia-dværgsugemalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus bidentatus",
+    "SpecCode": "62696",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus britskii",
+    "SpecCode": "48305",
+    "CommonName": "Alligator Ohrgitter-Harnischwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus cearensis",
+    "SpecCode": "50335",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus cesarpintoi",
+    "SpecCode": "53534",
+    "CommonName": "Laikkuvasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus collinsae",
+    "SpecCode": "48308",
+    "CommonName": "Vyövasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus cristatus",
+    "SpecCode": "50422",
+    "CommonName": "Gelbpunkt-Otocinclus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus doceanus",
+    "SpecCode": "50423",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus eppleyi",
+    "SpecCode": "53541",
+    "CommonName": "Nokkavasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus fluminense",
+    "SpecCode": "69982",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus halbothi",
+    "SpecCode": "67310",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus haroldoi",
+    "SpecCode": "53539",
+    "CommonName": "Tähtivasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus jacksoni",
+    "SpecCode": "69520",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus jequi",
+    "SpecCode": "67122",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus jimi",
+    "SpecCode": "50424",
+    "CommonName": "Pälvivasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus jumbo",
+    "SpecCode": "60393",
+    "CommonName": "Katinkultamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus longirostris",
+    "SpecCode": "53574",
+    "CommonName": "Kuonovasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus maculicauda",
+    "SpecCode": "50425",
+    "CommonName": "Kirjovasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus minutus",
+    "SpecCode": "50426",
+    "CommonName": "Pikkuvasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus muriaensis",
+    "SpecCode": "62697",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus planicauda",
+    "SpecCode": "63140",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus polyochrus",
+    "SpecCode": "50427",
+    "CommonName": "Vannevasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus prata",
+    "SpecCode": "60385",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus robustus",
+    "SpecCode": "66929",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus seridoensis",
+    "SpecCode": "67228",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus spilosoma",
+    "SpecCode": "50428",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parotocinclus spilurus",
+    "SpecCode": "50429",
+    "CommonName": "尾斑耳孔鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "ScientificName": "Petrocephalus ansorgii",
+    "SpecCode": "5214",
+    "CommonName": "Ansorge`i kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus arnegardi",
+    "SpecCode": "67424",
+    "CommonName": "Arnegardi kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus balayi",
+    "SpecCode": "10985",
+    "CommonName": "Mustlaik-kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus bane",
+    "SpecCode": "2398",
+    "CommonName": "Aben",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus binotatus",
+    "SpecCode": "10993",
+    "CommonName": "Kakslaik-kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus boboto",
+    "SpecCode": "67423",
+    "CommonName": "Boboto-kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus bovei",
+    "SpecCode": "2399",
+    "CommonName": "Aben",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus catostoma",
+    "SpecCode": "8380",
+    "CommonName": "Abobo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus christyi",
+    "SpecCode": "11007",
+    "CommonName": "Christy kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus congicus",
+    "SpecCode": "11004",
+    "CommonName": "Kongo kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus cunganus",
+    "SpecCode": "11008",
+    "CommonName": "Angola kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus degeni",
+    "SpecCode": "66668",
+    "CommonName": "Degeni kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus frieli",
+    "SpecCode": "67001",
+    "CommonName": "Frieli kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus gliroides",
+    "SpecCode": "11009",
+    "CommonName": "Kunel-kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus grandoculis",
+    "SpecCode": "11010",
+    "CommonName": "Rypoun obrooký",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus haullevillii",
+    "SpecCode": "11005",
+    "CommonName": "Haulleville`i kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus hutereaui",
+    "SpecCode": "11012",
+    "CommonName": "Hutereau`i kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus keatingii",
+    "SpecCode": "11013",
+    "CommonName": "Keatinge`i kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus leo",
+    "SpecCode": "68102",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus levequei",
+    "SpecCode": "5217",
+    "CommonName": "Guinea kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus longianalis",
+    "SpecCode": "66669",
+    "CommonName": "Pikkuim-kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus longicapitis",
+    "SpecCode": "66670",
+    "CommonName": "Zambezi kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus magnitrunci",
+    "SpecCode": "66671",
+    "CommonName": "Munajas kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus magnoculis",
+    "SpecCode": "66672",
+    "CommonName": "Laisilm-kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus mbossou",
+    "SpecCode": "66168",
+    "CommonName": "Mbossou-kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus microphthalmus",
+    "SpecCode": "11014",
+    "CommonName": "Ndembe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus odzalaensis",
+    "SpecCode": "66166",
+    "CommonName": "Odzala kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus okavangensis",
+    "SpecCode": "66673",
+    "CommonName": "Okavango kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus pallidomaculatus",
+    "SpecCode": "5215",
+    "CommonName": "Ähmlaik-kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus pellegrini",
+    "SpecCode": "2400",
+    "CommonName": "Pellegrini kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus petersi",
+    "SpecCode": "66675",
+    "CommonName": "Petersi kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus pulsivertens",
+    "SpecCode": "66167",
+    "CommonName": "Pöördpulss-kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus sauvagii",
+    "SpecCode": "5212",
+    "CommonName": "Rypoun sauvageův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus schoutedeni",
+    "SpecCode": "11017",
+    "CommonName": "Rypoun schoutedenův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus similis",
+    "SpecCode": "66179",
+    "CommonName": "Djeremi kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus simus",
+    "SpecCode": "11018",
+    "CommonName": "Adoua",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus soudanensis",
+    "SpecCode": "5213",
+    "CommonName": "Raitanuijakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus squalostoma",
+    "SpecCode": "11019",
+    "CommonName": "Mweru kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus steindachneri",
+    "SpecCode": "66676",
+    "CommonName": "Steindachneri kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus stuhlmanni",
+    "SpecCode": "66677",
+    "CommonName": "Stuhlmanni kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus sullivani",
+    "SpecCode": "61935",
+    "CommonName": "Sullivani kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus tanensis",
+    "SpecCode": "11006",
+    "CommonName": "Kiawara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus tenuicauda",
+    "SpecCode": "5216",
+    "CommonName": "Rypoun útloocasý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus valentini",
+    "SpecCode": "66164",
+    "CommonName": "Valentini kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus wesselsi",
+    "SpecCode": "58263",
+    "CommonName": "Churchill",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrocephalus zakoni",
+    "SpecCode": "66163",
+    "CommonName": "Zakoni kivipeakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

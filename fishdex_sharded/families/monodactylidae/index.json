@@ -1,0 +1,17 @@
+{
+  "Family": "Monodactylidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Moonyfishes or fingerfishes",
+  "Genera": [
+    {
+      "Genus": "Monodactylus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/monodactylidae/monodactylus.json"
+    },
+    {
+      "Genus": "Schuettea",
+      "SpeciesCount": 2,
+      "genus_path": "genera/monodactylidae/schuettea.json"
+    }
+  ]
+}

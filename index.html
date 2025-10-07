@@ -1,153 +1,110 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>FishDex</title>
-
-<!-- PWA -->
-<link rel="manifest" href="manifest.webmanifest" />
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-title" content="FishDex" />
-<link rel="apple-touch-icon" href="icon-192.png" />
-
-<style>
-  :root{
-    --bg:#0b0d10; --card:#13171c; --elev:#161b22; --text:#e7edf4; --muted:#9aa8b5;
-    --accent:#2cd4a6; --border:#202732; --chip:#1b212b; --focus:#2cd4a633;
-    --radius:16px;
-  }
-  *{ box-sizing:border-box }
-  html,body{ height:100% }
-  body{
-    margin:0; background:var(--bg); color:var(--text);
-    font: 15px/1.45 system-ui, -apple-system, Segoe UI, Roboto, Inter, Helvetica, Arial, sans-serif;
-  }
-  a{ color:inherit; text-decoration:none }
-
-  /* Top app bar */
-  header{
-    position: sticky; top:0; z-index:10;
-    backdrop-filter: saturate(180%) blur(10px);
-    background: color-mix(in srgb, var(--bg) 88%, transparent);
-    border-bottom:1px solid var(--border);
-    padding: 14px 18px; display:flex; align-items:center; gap:12px;
-  }
-  .brand{ font-weight:700; letter-spacing:.2px }
-  .crumbs{ color:var(--muted); font-size:12px }
-  .spacer{ flex:1 }
-  .btn{
-    padding:10px 12px; border:1px solid var(--border); background:var(--chip);
-    border-radius:12px; color:var(--text); cursor:pointer;
-  }
-  .btn.primary{ background:var(--accent); color:#0b0d10; border:none }
-  .btn.ghost{ background:transparent }
-  .btn:focus-visible{ outline:2px solid var(--focus); outline-offset:2px }
-
-  /* Layout */
-  .app{ max-width: 960px; margin: 0 auto; padding-bottom: 96px }
-  .wrap{ padding:18px; display:grid; gap:14px }
-  .grid{ display:grid; gap:14px; grid-template-columns: repeat(auto-fill, minmax(220px,1fr)) }
-  .card{
-    background: linear-gradient(180deg, var(--card), var(--elev));
-    border:1px solid var(--border);
-    border-radius: var(--radius);
-    padding:16px; transition: transform .15s ease, border-color .15s ease;
-  }
-  .card:hover{ transform: translateY(-2px); border-color:#2a3240 }
-  .title{ font-weight:600; margin:0 0 6px }
-  .muted{ color:var(--muted) }
-
-  /* Pills & inputs */
-  .pill{
-    display:inline-flex; align-items:center; gap:8px;
-    background:var(--chip); border:1px solid var(--border);
-    padding:6px 10px; border-radius:999px; font-size:12px; color:var(--text);
-  }
-  .input{
-    width:100%; border-radius:12px; border:1px solid var(--border); background:var(--chip);
-    padding:10px 12px; color:var(--text)
-  }
-  .filters{
-    display:grid; gap:10px; grid-template-columns: repeat(4, minmax(140px,1fr));
-    padding:12px 18px; border-bottom:1px solid var(--border);
-    background: color-mix(in srgb, var(--bg) 92%, transparent);
-  }
-
-  /* Species list */
-  .item{
-    display:flex; align-items:center; gap:12px; padding:12px;
-    border:1px solid var(--border); border-radius:14px; background:var(--card)
-  }
-  .item .sp{ flex:1 }
-  .sub{ font-size:12px; color:var(--muted) }
-  .check{ width:20px; height:20px }
-
-  /* Footer stats */
-  .footer{
-    position: fixed; left:0; right:0; bottom:0; z-index:10;
-    background: color-mix(in srgb, var(--bg) 90%, transparent);
-    border-top:1px solid var(--border); padding:10px 16px;
-    display:flex; gap:8px; align-items:center; justify-content:center; flex-wrap:wrap;
-  }
-  .fade{ animation: fade .15s ease }
-  @keyframes fade { from {opacity:0; transform: translateY(4px)} to {opacity:1; transform:none} }
-</style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b0f14" />
+  <title>FishDex</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <style>
+    :root{
+      --bg:#0b0f14; --bg2:#0e1116; --text:#e6edf3; --muted:#a1abb5;
+      --accent:#3aa675; --accent-2:#2f7e59; --card:#121821; --border:#1e2633;
+      --pill:#1a222e; --btn:#16202c; --danger:#c64545;
+    }
+    *{box-sizing:border-box} html,body{height:100%}
+    body{margin:0;color:var(--text);background:linear-gradient(180deg,#0b0f14,#0a121a);
+      font:14px/1.35 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial}
+    a{color:inherit}
+    header{position:sticky;top:0;z-index:5;background:rgba(10,16,23,.9);backdrop-filter:blur(6px);border-bottom:1px solid var(--border)}
+    .bar{display:flex;align-items:center;gap:10px;padding:10px 16px}
+    .title{font-weight:700;letter-spacing:.2px}
+    .spacer{flex:1}
+    .btn{background:var(--btn);color:var(--text);border:1px solid var(--border);padding:8px 10px;border-radius:10px;cursor:pointer}
+    .btn:hover{filter:brightness(1.08)} .btn.ghost{background:transparent}
+    .pill{display:inline-block;padding:4px 8px;border-radius:999px;background:var(--pill);border:1px solid var(--border);color:var(--muted);font-size:12px;margin-left:6px}
+    .muted{color:var(--muted)} .wrap{max-width:1100px;margin:0 auto}
+    .toolbar{display:flex;flex-wrap:wrap;gap:10px;padding:10px 16px;border-top:1px solid var(--border);background:var(--bg2)}
+    select,input[type="text"]{background:var(--card);color:var(--text);border:1px solid var(--border);padding:8px 10px;border-radius:10px;outline:none;min-width:150px}
+    input[type="text"]{min-width:120px} main{padding:16px}
+    #crumbs{color:var(--muted);padding:8px 16px} #counts{padding:0 16px 12px;color:var(--muted)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;padding:6px 8px}
+    .card{display:block;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px;text-decoration:none}
+    .card:hover{border-color:#2a3547;box-shadow:0 0 0 1px #2a3547}
+    .card .title{font-size:16px;margin:0 0 6px}
+    .item{display:flex;align-items:center;gap:10px;border:1px solid var(--border);border-radius:14px;padding:10px;margin:8px 16px;background:var(--card)}
+    .item .check{scale:1.2} .item .sp{flex:1}
+    .item .sp .title{font-size:15px;margin-bottom:4px} .item .sp .sub{color:var(--muted);font-size:12px}
+    footer{padding:24px;color:var(--muted);text-align:center} .danger{color:var(--danger)}
+    @media (max-width:720px){.bar{flex-wrap:wrap}.toolbar{gap:8px}}
+  </style>
 </head>
 <body>
   <header>
-    <div class="brand">FishDex</div>
-    <div class="crumbs" id="crumbs"></div>
-    <div class="spacer"></div>
-    <button class="btn ghost" id="exportBtn" title="Export">Export</button>
-    <button class="btn ghost" id="importBtn" title="Import">Import</button>
-    <button class="btn ghost" id="resetBtn" title="Reset">Reset</button>
+    <div class="bar wrap">
+      <div class="title">🐟 FishDex</div>
+      <span class="pill">Sharded mode</span>
+      <div class="spacer"></div>
+      <button id="exportBtn" class="btn">Export</button>
+      <button id="importBtn" class="btn">Import</button>
+      <button id="resetBtn" class="btn">Reset</button>
+    </div>
+    <div class="toolbar wrap">
+      <label>Env
+        <select id="f-env">
+          <option value="">Any</option>
+          <option value="freshwater">Freshwater</option>
+          <option value="brackish">Brackish</option>
+          <option value="salt">Salt</option>
+        </select>
+      </label>
+      <label>Continent
+        <select id="f-continent">
+          <option value="">Any</option>
+          <option value="AF">Africa</option><option value="AN">Antarctica</option>
+          <option value="AS">Asia</option><option value="EU">Europe</option>
+          <option value="NA">North America</option><option value="OC">Oceania</option>
+          <option value="SA">South America</option>
+        </select>
+      </label>
+      <input id="f-country" type="text" placeholder="Country code (e.g., US)" />
+      <input id="f-state"   type="text" placeholder="State/region code" />
+      <div class="spacer"></div>
+      <div id="counts" class="muted">0 caught / 0 total</div>
+    </div>
   </header>
 
-  <!-- Filters (persist in URL query & propagate between views) -->
-  <section class="filters">
-    <select id="f-env" class="input">
-      <option value="">All habitats</option>
-      <option value="freshwater">Freshwater</option>
-      <option value="saltwater">Saltwater</option>
-    </select>
-    <select id="f-continent" class="input">
-      <option value="">All continents</option>
-      <option value="NA">North America</option>
-      <option value="SA">South America</option>
-      <option value="EU">Europe</option>
-      <option value="AF">Africa</option>
-      <option value="AS">Asia</option>
-      <option value="OC">Oceania</option>
-    </select>
-    <input id="f-country" class="input" placeholder="Country (ISO-2, e.g. US)" />
-    <input id="f-state" class="input" placeholder="State/Prov (ISO-3166-2, e.g. US-FL)" />
-  </section>
-
-  <main class="app">
-    <div id="view" class="wrap fade"></div>
+  <div id="crumbs" class="wrap">Families</div>
+  <main class="wrap">
+    <div id="view">Loading…</div>
   </main>
+  <footer class="wrap muted">Data loads from <code>fishdex_sharded/</code> (families → genera → species). Works offline after first visit.</footer>
 
-  <div class="footer">
-    <span class="muted" id="counts">0 caught / 0 total</span>
-  </div>
-
-  <!-- Your taxonomy & images map go here -->
-  <script src="data.js"></script>
   <script>
-/* ================= Core App ================= */
-
+/* ================= FishDex (Sharded) ================= */
 const $ = s => document.querySelector(s);
 const view = $('#view'), crumbsEl = $('#crumbs'), countsEl = $('#counts');
 
-const KEY='fishdex.v4';
-const save = s => localStorage.setItem(KEY, JSON.stringify(s));
-const load = () => JSON.parse(localStorage.getItem(KEY) || 'null');
+const KEY='fishdex.v5';
+const ROOT='fishdex_sharded/';
 
-// state stores only user progress; taxonomy comes from DATA (data.js)
 let STATE = load() || { species: [] };
+const cache = new Map();
 
-/* ---------- URL filter helpers ---------- */
+function save(s){ localStorage.setItem(KEY, JSON.stringify(s)); }
+function load(){ try{ return JSON.parse(localStorage.getItem(KEY)||''); }catch{ return null } }
+
+async function jget(path){
+  const url = ROOT + path.replace(/^\//,'');
+  if (cache.has(url)) return cache.get(url);
+  const res = await fetch(url);
+  if(!res.ok) throw new Error('Fetch failed: '+url);
+  const data = await res.json();
+  cache.set(url, data);
+  return data;
+}
+
+/* ---------- filters in URL ---------- */
 function parseQuery(qs){
   const p = new URLSearchParams(qs || '');
   return {
@@ -171,11 +128,8 @@ function buildQuery(obj){
 function readFiltersFromURL(){
   const [_, query=''] = (location.hash.split('?'));
   const f = parseQuery(query);
-  // reflect into inputs
-  const envSel = $('#f-env');
-  const contSel = $('#f-continent');
-  const cInp = $('#f-country');
-  const sInp = $('#f-state');
+  const envSel = $('#f-env'), contSel = $('#f-continent'),
+        cInp = $('#f-country'), sInp = $('#f-state');
   if (envSel) envSel.value = f.env;
   if (contSel) contSel.value = f.cont;
   if (cInp) cInp.value = f.country;
@@ -194,7 +148,7 @@ function getFiltersFromInputs(){
   document.addEventListener('change', (e)=>{
     if (e.target && e.target.id === id) {
       const f = getFiltersFromInputs();
-      const [path] = (location.hash || '#/groups').split('?');
+      const [path] = (location.hash || '#/families').split('?');
       location.hash = `${path}${buildQuery(f)}`;
     }
   });
@@ -203,13 +157,13 @@ function getFiltersFromInputs(){
   document.getElementById(id)?.addEventListener('keyup', (e)=>{
     if (e.key === 'Enter') {
       const f = getFiltersFromInputs();
-      const [path] = (location.hash || '#/groups').split('?');
+      const [path] = (location.hash || '#/families').split('?');
       location.hash = `${path}${buildQuery(f)}`;
     }
   });
 });
 
-/* ---------- Data binding ---------- */
+/* ---------- owned state ---------- */
 function ensureOwned(sp){
   if (!STATE.species) STATE.species = [];
   let o = STATE.species.find(x=>x.id===sp.id);
@@ -221,36 +175,51 @@ function ensureOwned(sp){
 }
 function bindOwned(sp){ return { ...ensureOwned(sp), meta: sp }; }
 
-/* ---------- Matching & counts ---------- */
+/* ---------- filtering + counts ---------- */
 function speciesMatchesFilters(sp, f){
-  if (f.env && !(sp.habitats||[]).includes(f.env)) return false;
-  if (f.cont && !(sp.continents||[]).includes(f.cont)) return false;
-  if (f.country && !(sp.countries||[]).map(x=>x.toUpperCase()).includes(f.country)) return false;
-  if (f.state && !(sp.states||[]).map(x=>x.toUpperCase()).includes(f.state)) return false;
+  const envs = (sp.Environments||[]).map(s=>s.toLowerCase());
+  if (f.env && !envs.includes(f.env.toLowerCase())) return false;
+
+  const conts = (sp.Continents||sp.continents||[]);
+  const countries = (sp.Countries||sp.countries||[]).map(x=>x.toUpperCase());
+  const states = (sp.States||sp.states||[]).map(x=>x.toUpperCase());
+  if (f.cont && !conts.includes(f.cont)) return false;
+  if (f.country && !countries.includes(f.country)) return false;
+  if (f.state && !states.includes(f.state)) return false;
+
+  if (f.q){
+    const hay = [
+      sp.ScientificName||'',
+      sp.CommonName||'',
+      (sp.Subspecies||[]).map(s=>s.ScientificName||'').join(' ')
+    ].join(' ').toLowerCase();
+    if (!hay.includes(f.q.toLowerCase())) return false;
+  }
   return true;
 }
-function setCrumbs(parts){ crumbsEl.textContent = parts.join(' / '); }
+function setCrumbs(parts){ crumbsEl.innerHTML = parts.join(' / '); }
 function setCountsFromList(list){
   const total = list.length;
   const caught = list.filter(o=>o.caught).length;
-  countsEl.textContent = `${caught} caught / ${total} total${location.hash.includes('?')?' (filtered)':''}`;
+  const filteredTag = location.hash.includes('?') ? ' (filtered)' : '';
+  countsEl.textContent = `${caught} caught / ${total} total${filteredTag}`;
 }
 
-/* ---------- UI components ---------- */
+/* ---------- UI helpers ---------- */
+function pill(txt){ return `<span class="pill">${txt}</span>`; }
 function speciesRow(own){
   const sp = own.meta;
   const metrics = [own.weight && own.weight, own.length && own.length].filter(Boolean).join(', ');
   const meta = `${own.caught ? 'Caught' : 'Not caught'}${metrics ? ' • ' + metrics : ''}`;
-  const img = sp.img ? `<img src="${sp.img}" alt="${sp.name}" style="width:52px;height:52px;object-fit:contain;border-radius:10px;border:1px solid var(--border);background:#0e1116;padding:6px" />` : '';
-  const habitatPills = sp.habitats?.length
-    ? sp.habitats.map(h=>`<span class="pill">${h}</span>`).join(' ')
-    : '';
+  const envPills = (sp.Environments||[]).map(pill).join(' ');
+  const img = sp.img ? `<img src="${sp.img}" alt="${sp.ScientificName||sp.CommonName||''}" style="width:52px;height:52px;object-fit:contain;border-radius:10px;border:1px solid var(--border);background:#0e1116;padding:6px" />` : '';
+  const title = sp.CommonName ? `${sp.CommonName} — <i>${sp.ScientificName}</i>` : `<i>${sp.ScientificName}</i>`;
   return `
     <div class="item">
       <input class="check" type="checkbox" ${own.caught?'checked':''} data-id="${own.id}" />
       ${img}
       <div class="sp">
-        <div class="title">${sp.name} ${habitatPills}</div>
+        <div class="title">${title} ${envPills}</div>
         <div class="sub">${meta}</div>
       </div>
       <button class="btn" data-edit="${own.id}">Details</button>
@@ -263,75 +232,116 @@ function hookSpeciesEvents(list){
     const ed = document.querySelector(`button[data-edit="${own.id}"]`);
     cb?.addEventListener('change', ()=>{ own.caught = cb.checked; save(STATE); setCountsFromList(list); });
     ed?.addEventListener('click', ()=>{
-      const w = prompt(`Weight for ${own.meta.name} (e.g., "4.2 lb")`, own.weight || '');
-      if (w !== null) own.weight = w.trim();
-      const l = prompt(`Length for ${own.meta.name} (e.g., "19 in")`, own.length || '');
-      if (l !== null) own.length = l.trim();
+      const w = prompt(`Weight for ${(own.meta.CommonName||own.meta.ScientificName)} (e.g., "4.2 lb")`, own.weight || '');
+      if (w !== null) own.weight = (w||'').trim();
+      const l = prompt(`Length for ${(own.meta.CommonName||own.meta.ScientificName)} (e.g., "19 in")`, own.length || '');
+      if (l !== null) own.length = (l||'').trim();
       save(STATE);
-      route(); // re-render to show updates
+      route();
     });
   });
 }
 
-/* ---------- Views ---------- */
-function renderGroups(){
+/* ---------- views ---------- */
+async function renderFamilies(){
   const f = readFiltersFromURL();
-  setCrumbs(['Groups']);
+  setCrumbs(['Families']);
 
-  // Filter species first
-  const matched = DATA.species.filter(sp => speciesMatchesFilters(sp, f));
-
-  // Only show groups that have ≥1 matching species
-  const countsByGroup = new Map(); // groupId -> {total, caught}
-  const ownedById = new Map(STATE.species.map(o=>[o.id,o]));
-  matched.forEach(sp=>{
-    (sp.groups||[]).forEach(gid=>{
-      const curr = countsByGroup.get(gid) || {total:0, caught:0};
-      curr.total += 1;
-      if (ownedById.get(sp.id)?.caught) curr.caught += 1;
-      countsByGroup.set(gid, curr);
-    });
-  });
-
+  let fams = [];
+  try{
+    fams = await jget('index/families.json');
+  }catch(e){
+    view.innerHTML = `
+      <div class="wrap">
+        <p class="danger">Couldn't load <code>fishdex_sharded/index/families.json</code>.</p>
+        <p class="muted">${e.message}</p>
+      </div>`;
+    countsEl.textContent = '0 caught / 0 total';
+    return;
+  }
   view.innerHTML = `
     <div class="grid">
-      ${DATA.groups
-        .filter(g => countsByGroup.has(g.id))
-        .map(g=>{
-          const c = countsByGroup.get(g.id);
-          return `
-            <a class="card" href="#/group/${g.id}${buildQuery(f)}">
-              <h3 class="title">${g.name}</h3>
-              <div class="muted">${c.caught} / ${c.total} caught</div>
-            </a>
-          `;
-        }).join('')}
+      ${fams.map(F => `
+        <a class="card" href="#/family/${slug(F.Family)}${buildQuery(f)}">
+          <h3 class="title">${F.Family}${F.Common?` — ${F.Common}`:''}</h3>
+          <div class="muted">
+            ${pill(`Order: ${F.Order}`)}
+            ${pill(`${F.GeneraCount ?? '—'} genera`)}
+            ${pill(`${F.SpeciesCount ?? '—'} species`)}
+          </div>
+        </a>
+      `).join('')}
     </div>
   `;
-
-  // Overall (filtered) counts across all matched species
-  const owned = matched.map(sp => bindOwned(sp));
-  setCountsFromList(owned);
+  countsEl.textContent = '0 caught / 0 total';
 }
 
-function renderGroup(groupId){
+async function renderFamily(famSlug){
   const f = readFiltersFromURL();
-  const group = DATA.groups.find(g=>g.id===groupId);
-  if(!group) return renderGroups();
-
-  setCrumbs(['Groups', group.name]);
-
-  const list = DATA.species
-    .filter(sp => (sp.groups||[]).includes(groupId))
-    .filter(sp => speciesMatchesFilters(sp, f))
-    .sort((a,b)=>a.name.localeCompare(b.name))
-    .map(sp => bindOwned(sp));
+  let fam;
+  try{
+    fam = await jget(`families/${famSlug}/index.json`);
+  }catch(e){
+    view.innerHTML = `<p class="danger">Missing family file: <code>fishdex_sharded/families/${famSlug}/index.json</code></p>`;
+    return;
+  }
+  setCrumbs(['Families', fam.Family]);
 
   view.innerHTML = `
     <div class="wrap" style="padding-top:10px">
       <div style="display:flex;gap:10px;align-items:center;margin:0 18px 6px">
-        <a class="btn ghost" href="#/groups${buildQuery(f)}">← Back</a>
-        <span class="pill">${group.name}</span>
+        <a class="btn ghost" href="#/families${buildQuery(f)}">← Back</a>
+        <span class="pill">${fam.Family}</span>
+        ${fam.Common ? `<span class="pill">${fam.Common}</span>` : ''}
+        ${fam.Order ? `<span class="pill">Order: ${fam.Order}</span>` : ''}
+      </div>
+      <div class="grid">
+        ${(fam.Genera||[]).map(G => `
+          <a class="card" href="#/genus/${slug(fam.Family)}/${slug(G.Genus)}${buildQuery(f)}">
+            <h3 class="title"><i>${G.Genus}</i></h3>
+            <div class="muted">${G.SpeciesCount ?? '—'} species</div>
+          </a>
+        `).join('')}
+      </div>
+    </div>
+  `;
+  countsEl.textContent = '0 caught / 0 total';
+}
+
+async function renderGenus(famSlug, genusSlug){
+  const f = readFiltersFromURL();
+  let species = [];
+  try{
+    species = await jget(`genera/${famSlug}/${genusSlug}.json`);
+  }catch(e){
+    view.innerHTML = `<p class="danger">Missing genus file: <code>fishdex_sharded/genera/${famSlug}/${genusSlug}.json</code></p>`;
+    countsEl.textContent = '0 caught / 0 total';
+    return;
+  }
+
+  const list = species
+    .map(sp => ({
+      id: sp.SpecCode ? `spec:${sp.SpecCode}` : `name:${(sp.ScientificName||'').toLowerCase()}`,
+      ScientificName: sp.ScientificName,
+      CommonName: sp.CommonName || '',
+      Environments: sp.Environments || [],
+      Countries: sp.Countries || sp.countries || [],
+      States: sp.States || sp.states || [],
+      Continents: sp.Continents || sp.continents || [],
+      Subspecies: sp.Subspecies || [],
+      img: sp.img || null
+    }))
+    .filter(sp => speciesMatchesFilters(sp, f))
+    .sort((a,b)=> (a.ScientificName||'').localeCompare(b.ScientificName||''))
+    .map(sp => bindOwned(sp));
+
+  setCrumbs(['Families', unslug(famSlug), `<i>${unslug(genusSlug)}</i>`]);
+
+  view.innerHTML = `
+    <div class="wrap" style="padding-top:10px">
+      <div style="display:flex;gap:10px;align-items:center;margin:0 18px 6px">
+        <a class="btn ghost" href="#/family/${famSlug}${buildQuery(f)}">← Back</a>
+        <span class="pill"><i>${unslug(genusSlug)}</i></span>
       </div>
       <div id="list" class="wrap">
         ${list.map(speciesRow).join('')}
@@ -342,20 +352,24 @@ function renderGroup(groupId){
   hookSpeciesEvents(list);
 }
 
-/* ---------- Router ---------- */
+/* ---------- router ---------- */
+function slug(s){ return String(s).toLowerCase().replace(/\s+/g,'-').replace(/[^\w-]/g,''); }
+function unslug(s){ return String(s).replace(/-/g,' '); }
+
 function route(){
-  const hash = location.hash || '#/groups';
+  const hash = location.hash || '#/families';
   const [path] = hash.split('?');
   const parts = path.slice(2).split('/');
 
-  if (parts[0]==='' || parts[0]==='groups') return renderGroups();
-  if (parts[0]==='group' && parts[1]) return renderGroup(parts[1]);
-  return renderGroups();
+  if (parts[0]==='' || parts[0]==='families') return renderFamilies();
+  if (parts[0]==='family' && parts[1]) return renderFamily(parts[1]);
+  if (parts[0]==='genus' && parts[1] && parts[2]) return renderGenus(parts[1], parts[2]);
+  return renderFamilies();
 }
 window.addEventListener('hashchange', route);
 window.addEventListener('load', ()=>{ route(); });
 
-/* ---------- Export / Import / Reset ---------- */
+/* ---------- export/import/reset ---------- */
 $('#exportBtn').addEventListener('click', ()=>{
   const blob = new Blob([JSON.stringify(STATE,null,2)], {type:'application/json'});
   const url = URL.createObjectURL(blob); const a = document.createElement('a');
@@ -368,9 +382,6 @@ $('#importBtn').addEventListener('click', ()=>{
     try{
       const parsed = JSON.parse(await f.text());
       if(!parsed || !Array.isArray(parsed.species)) return alert('Invalid file');
-      // keep only species ids that exist in current DATA
-      const allowed = new Set(DATA.species.map(s=>s.id));
-      parsed.species = parsed.species.filter(s => allowed.has(s.id));
       STATE = parsed; save(STATE); route();
     }catch{ alert('Could not read file'); }
   };
@@ -380,8 +391,9 @@ $('#resetBtn').addEventListener('click', ()=>{
   if(confirm('Reset your progress?')){ STATE = { species: [] }; save(STATE); route(); }
 });
 
-/* ---------- Service worker ---------- */
+/* ---------- service worker ---------- */
 if('serviceWorker' in navigator){ window.addEventListener('load', ()=> navigator.serviceWorker.register('./sw.js')); }
   </script>
 </body>
 </html>
+

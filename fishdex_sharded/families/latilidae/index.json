@@ -1,0 +1,22 @@
+{
+  "Family": "Latilidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Deepwater tilefishes",
+  "Genera": [
+    {
+      "Genus": "Branchiostegus",
+      "SpeciesCount": 16,
+      "genus_path": "genera/latilidae/branchiostegus.json"
+    },
+    {
+      "Genus": "Caulolatilus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/latilidae/caulolatilus.json"
+    },
+    {
+      "Genus": "Lopholatilus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/latilidae/lopholatilus.json"
+    }
+  ]
+}

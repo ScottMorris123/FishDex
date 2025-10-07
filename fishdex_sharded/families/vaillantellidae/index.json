@@ -1,0 +1,12 @@
+{
+  "Family": "Vaillantellidae",
+  "Order": "Cypriniformes",
+  "Common": "Longfin loaches",
+  "Genera": [
+    {
+      "Genus": "Vaillantella",
+      "SpeciesCount": 3,
+      "genus_path": "genera/vaillantellidae/vaillantella.json"
+    }
+  ]
+}

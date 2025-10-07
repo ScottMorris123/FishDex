@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Mobula alfredi",
+    "SpecCode": "65179",
+    "CommonName": "Alfred manta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula birostris",
+    "SpecCode": "2061",
+    "CommonName": "Almindelig djævlerokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula eregoodootenkee",
+    "SpecCode": "25622",
+    "CommonName": "Buntok-talibatab",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula hypostoma",
+    "SpecCode": "2586",
+    "CommonName": "Atlandi merisarvik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula japanica",
+    "SpecCode": "2587",
+    "CommonName": "Astelsaba-merisarvik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula kuhlii",
+    "SpecCode": "27177",
+    "CommonName": "Gaangish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula mobular",
+    "SpecCode": "7618",
+    "CommonName": "Atlantischer Teufelsrochen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula munkiana",
+    "SpecCode": "13191",
+    "CommonName": "Diabolo manta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula rochebrunei",
+    "SpecCode": "8989",
+    "CommonName": "Afrikaanse duivelsrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula tarapacana",
+    "SpecCode": "13194",
+    "CommonName": "Chilean devil ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mobula thurstoni",
+    "SpecCode": "2588",
+    "CommonName": "Bentfin devil ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Selenanthias analis",
+    "SpecCode": "10769",
+    "CommonName": "Pearlspot fairy basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selenanthias barroi",
+    "SpecCode": "55645",
+    "CommonName": "巴氏棘花鮨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Selenanthias myersi",
+    "SpecCode": "13506",
+    "CommonName": "梅氏月花鮨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

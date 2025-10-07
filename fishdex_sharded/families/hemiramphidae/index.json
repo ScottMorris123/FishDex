@@ -1,0 +1,47 @@
+{
+  "Family": "Hemiramphidae",
+  "Order": "Beloniformes",
+  "Common": "Halfbeaks",
+  "Genera": [
+    {
+      "Genus": "Arrhamphus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/hemiramphidae/arrhamphus.json"
+    },
+    {
+      "Genus": "Chriodorus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hemiramphidae/chriodorus.json"
+    },
+    {
+      "Genus": "Euleptorhamphus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/hemiramphidae/euleptorhamphus.json"
+    },
+    {
+      "Genus": "Hemiramphus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/hemiramphidae/hemiramphus.json"
+    },
+    {
+      "Genus": "Hyporhamphus",
+      "SpeciesCount": 38,
+      "genus_path": "genera/hemiramphidae/hyporhamphus.json"
+    },
+    {
+      "Genus": "Melapedalion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hemiramphidae/melapedalion.json"
+    },
+    {
+      "Genus": "Oxyporhamphus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/hemiramphidae/oxyporhamphus.json"
+    },
+    {
+      "Genus": "Rhynchorhamphus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/hemiramphidae/rhynchorhamphus.json"
+    }
+  ]
+}

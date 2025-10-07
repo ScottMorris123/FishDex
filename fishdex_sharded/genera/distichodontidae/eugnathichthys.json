@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Eugnathichthys eetveldii",
+    "SpecCode": "11205",
+    "CommonName": "Bokukuso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathichthys macroterolepis",
+    "SpecCode": "11206",
+    "CommonName": "Bokukuso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathichthys virgatus",
+    "SpecCode": "67154",
+    "CommonName": "Ristvööt-lõugsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

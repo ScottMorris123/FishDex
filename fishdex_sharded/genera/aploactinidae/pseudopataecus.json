@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pseudopataecus carnatobarbatus",
+    "SpecCode": "67028",
+    "CommonName": "Goatee velvetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudopataecus taenianotus",
+    "SpecCode": "63512",
+    "CommonName": "Longfin velvetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

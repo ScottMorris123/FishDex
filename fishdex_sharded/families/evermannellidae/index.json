@@ -1,0 +1,22 @@
+{
+  "Family": "Evermannellidae",
+  "Order": "Aulopiformes",
+  "Common": "Sabertooth fishes",
+  "Genera": [
+    {
+      "Genus": "Coccorella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/evermannellidae/coccorella.json"
+    },
+    {
+      "Genus": "Evermannella",
+      "SpeciesCount": 5,
+      "genus_path": "genera/evermannellidae/evermannella.json"
+    },
+    {
+      "Genus": "Odontostomops",
+      "SpeciesCount": 1,
+      "genus_path": "genera/evermannellidae/odontostomops.json"
+    }
+  ]
+}

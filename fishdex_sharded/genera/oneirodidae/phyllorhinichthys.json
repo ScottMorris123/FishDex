@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Phyllorhinichthys balushkini",
+    "SpecCode": "62075",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phyllorhinichthys micractis",
+    "SpecCode": "57352",
+    "CommonName": "Bladsnudet mareangler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

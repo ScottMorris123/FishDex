@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Sauvagella madagascariensis",
+    "SpecCode": "1557",
+    "CommonName": "Espadin de Madagascar",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sauvagella robusta",
+    "SpecCode": "58936",
+    "CommonName": "Amboaboa round herring",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

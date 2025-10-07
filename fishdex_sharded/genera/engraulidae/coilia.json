@@ -1,0 +1,138 @@
+[
+  {
+    "ScientificName": "Coilia borneensis",
+    "SpecCode": "614",
+    "CommonName": "Bilis bulu ayam",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia brachygnathus",
+    "SpecCode": "615",
+    "CommonName": "Fung mei ue",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia coomansi",
+    "SpecCode": "624",
+    "CommonName": "Bilis bulu ayam",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia dussumieri",
+    "SpecCode": "625",
+    "CommonName": "Alice taches d'or",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia grayii",
+    "SpecCode": "626",
+    "CommonName": "ÆßË¿öÝ",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia lindmani",
+    "SpecCode": "627",
+    "CommonName": "Bilis bulu ayam",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia macrognathos",
+    "SpecCode": "628",
+    "CommonName": "Bilis bulu ayam",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia mystus",
+    "SpecCode": "629",
+    "CommonName": "Alice",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia nasus",
+    "SpecCode": "630",
+    "CommonName": "Anchovies",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia neglecta",
+    "SpecCode": "631",
+    "CommonName": "Alice franche",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia ramcarati",
+    "SpecCode": "632",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia rebentischii",
+    "SpecCode": "633",
+    "CommonName": "Bulu ayam",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coilia reynaldi",
+    "SpecCode": "634",
+    "CommonName": "Amadi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Rhabdalestes aeratis",
+    "SpecCode": "62454",
+    "CommonName": "Pronksjas tintsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdalestes brevidorsalis",
+    "SpecCode": "5245",
+    "CommonName": "Kawara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdalestes maunensis",
+    "SpecCode": "11165",
+    "CommonName": "Mbala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdalestes rhodesiensis",
+    "SpecCode": "11166",
+    "CommonName": "Mungumba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdalestes septentrionalis",
+    "SpecCode": "5246",
+    "CommonName": "Kuldjoon-tintsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdalestes tangensis",
+    "SpecCode": "11167",
+    "CommonName": "Dagaa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhabdalestes yokai",
+    "SpecCode": "64810",
+    "CommonName": "Yoka tintsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

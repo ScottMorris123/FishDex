@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Kuronezumia bubonis",
+    "SpecCode": "27120",
+    "CommonName": "Bulbous rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuronezumia dara",
+    "SpecCode": "23197",
+    "CommonName": "Suruga-nezumidara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuronezumia endoi",
+    "SpecCode": "69349",
+    "CommonName": "Kuro-nezumi-dara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuronezumia leonis",
+    "SpecCode": "10241",
+    "CommonName": "Snubnose whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuronezumia macronema",
+    "SpecCode": "16273",
+    "CommonName": "大線庫隆長尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuronezumia paepkei",
+    "SpecCode": "58933",
+    "CommonName": "佩氏库隆长尾鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuronezumia pallida",
+    "SpecCode": "52272",
+    "CommonName": "Pallid whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

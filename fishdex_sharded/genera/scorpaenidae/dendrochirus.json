@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Dendrochirus barberi",
+    "SpecCode": "7781",
+    "CommonName": "Green lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dendrochirus bellus",
+    "SpecCode": "8241",
+    "CommonName": "Bricked firefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dendrochirus biocellatus",
+    "SpecCode": "5827",
+    "CommonName": "Bantol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dendrochirus brachypterus",
+    "SpecCode": "4912",
+    "CommonName": "Abu al-Laban",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dendrochirus hemprichi",
+    "SpecCode": "68567",
+    "CommonName": "Red Sea dwarf lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dendrochirus koyo",
+    "SpecCode": "69528",
+    "CommonName": "Ogasawara dwarf-lionfsh",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dendrochirus tuamotuensis",
+    "SpecCode": "68417",
+    "CommonName": "Tuamotu's dwarf lionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dendrochirus zebra",
+    "SpecCode": "5828",
+    "CommonName": "Butterfly scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

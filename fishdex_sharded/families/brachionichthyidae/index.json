@@ -1,0 +1,32 @@
+{
+  "Family": "Brachionichthyidae",
+  "Order": "Lophiiformes",
+  "Common": "Handfishes",
+  "Genera": [
+    {
+      "Genus": "Brachionichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/brachionichthyidae/brachionichthys.json"
+    },
+    {
+      "Genus": "Brachiopsilus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/brachionichthyidae/brachiopsilus.json"
+    },
+    {
+      "Genus": "Pezichthys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/brachionichthyidae/pezichthys.json"
+    },
+    {
+      "Genus": "Sympterichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/brachionichthyidae/sympterichthys.json"
+    },
+    {
+      "Genus": "Thymichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/brachionichthyidae/thymichthys.json"
+    }
+  ]
+}

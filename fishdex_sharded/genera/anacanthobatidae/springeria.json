@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Springeria folirostris",
+    "SpecCode": "51848",
+    "CommonName": "Bladsnudet lemmerokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Springeria longirostris",
+    "SpecCode": "51851",
+    "CommonName": "Langsnuitpootrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

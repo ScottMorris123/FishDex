@@ -1,0 +1,22 @@
+{
+  "Family": "Malakichthyidae",
+  "Order": "Acropomatiformes",
+  "Common": "Temperate ocean-basses",
+  "Genera": [
+    {
+      "Genus": "Hemilutjanus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/malakichthyidae/hemilutjanus.json"
+    },
+    {
+      "Genus": "Malakichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/malakichthyidae/malakichthys.json"
+    },
+    {
+      "Genus": "Verilus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/malakichthyidae/verilus.json"
+    }
+  ]
+}

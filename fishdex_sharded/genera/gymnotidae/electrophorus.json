@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Electrophorus electricus",
+    "SpecCode": "4535",
+    "CommonName": "Alimina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Electrophorus varii",
+    "SpecCode": "69038",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Electrophorus voltai",
+    "SpecCode": "69039",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

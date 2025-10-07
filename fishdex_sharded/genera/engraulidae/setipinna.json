@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Setipinna breviceps",
+    "SpecCode": "8809",
+    "CommonName": "Anšovka vlasoploutvá",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Setipinna brevifilis",
+    "SpecCode": "607",
+    "CommonName": "Bengali harjasuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Setipinna melanochir",
+    "SpecCode": "608",
+    "CommonName": "Bersia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Setipinna paxtoni",
+    "SpecCode": "609",
+    "CommonName": "Humpback hairfin anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Setipinna phasa",
+    "SpecCode": "610",
+    "CommonName": "Bindi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Setipinna taty",
+    "SpecCode": "611",
+    "CommonName": "௭லப்ப பொருவா",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Setipinna tenuifilis",
+    "SpecCode": "612",
+    "CommonName": "Báo kǒu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Setipinna wheeleri",
+    "SpecCode": "613",
+    "CommonName": "Birma harjasuim",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

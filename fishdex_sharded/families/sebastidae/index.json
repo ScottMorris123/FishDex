@@ -1,0 +1,42 @@
+{
+  "Family": "Sebastidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Rockfishes, rockcods and thornyheads",
+  "Genera": [
+    {
+      "Genus": "Adelosebastes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/sebastidae/adelosebastes.json"
+    },
+    {
+      "Genus": "Helicolenus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/sebastidae/helicolenus.json"
+    },
+    {
+      "Genus": "Hozukius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/sebastidae/hozukius.json"
+    },
+    {
+      "Genus": "Sebastes",
+      "SpeciesCount": 108,
+      "genus_path": "genera/sebastidae/sebastes.json"
+    },
+    {
+      "Genus": "Sebastiscus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sebastidae/sebastiscus.json"
+    },
+    {
+      "Genus": "Sebastolobus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/sebastidae/sebastolobus.json"
+    },
+    {
+      "Genus": "Trachyscorpia",
+      "SpeciesCount": 7,
+      "genus_path": "genera/sebastidae/trachyscorpia.json"
+    }
+  ]
+}

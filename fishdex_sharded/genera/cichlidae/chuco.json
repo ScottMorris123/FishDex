@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Chuco godmanni",
+    "SpecCode": "26796",
+    "CommonName": "Godman-Cichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chuco intermedium",
+    "SpecCode": "26797",
+    "CommonName": "Mojarra del Petén",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chuco microphthalmus",
+    "SpecCode": "28205",
+    "CommonName": "Maschenbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

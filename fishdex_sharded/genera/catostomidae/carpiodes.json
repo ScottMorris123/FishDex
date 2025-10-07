@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Carpiodes carpio",
+    "SpecCode": "2957",
+    "CommonName": "Flodsugekarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carpiodes cyprinus",
+    "SpecCode": "4775",
+    "CommonName": "Couette",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carpiodes velifer",
+    "SpecCode": "2959",
+    "CommonName": "Highfin carpsucker",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Family": "Gymnuridae",
+  "Order": "Myliobatiformes",
+  "Common": "Butterfly rays",
+  "Genera": [
+    {
+      "Genus": "Gymnura",
+      "SpeciesCount": 16,
+      "genus_path": "genera/gymnuridae/gymnura.json"
+    }
+  ]
+}

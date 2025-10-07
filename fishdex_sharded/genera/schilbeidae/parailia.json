@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Parailia congica",
+    "SpecCode": "9369",
+    "CommonName": "Afrikanischer Glaswels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parailia occidentalis",
+    "SpecCode": "9371",
+    "CommonName": "Gaboninkuultomonni",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parailia pellucida",
+    "SpecCode": "9372",
+    "CommonName": "Afrikanischer Glaswels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parailia somalensis",
+    "SpecCode": "9373",
+    "CommonName": "Mpawa Rukanga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parailia spiniserrata",
+    "SpecCode": "9370",
+    "CommonName": "Gambiankuultomonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

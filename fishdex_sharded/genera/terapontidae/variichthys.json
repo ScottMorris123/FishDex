@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Variichthys jamoerensis",
+    "SpecCode": "10627",
+    "CommonName": "Jamur Lake grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Variichthys lacustris",
+    "SpecCode": "25761",
+    "CommonName": "Lake grunter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

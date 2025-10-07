@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Paracentropogon longispinis",
+    "SpecCode": "12043",
+    "CommonName": "Long-spined waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracentropogon rubripinnis",
+    "SpecCode": "4590",
+    "CommonName": "Ha-okoze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracentropogon vespa",
+    "SpecCode": "52304",
+    "CommonName": "Wasp roguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracentropogon zonatus",
+    "SpecCode": "59071",
+    "CommonName": "Bandtail waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

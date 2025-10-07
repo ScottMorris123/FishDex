@@ -1,0 +1,12 @@
+{
+  "Family": "Galeocerdonidae",
+  "Order": "Carcharhiniformes",
+  "Common": "Tiger sharks",
+  "Genera": [
+    {
+      "Genus": "Galeocerdo",
+      "SpeciesCount": 1,
+      "genus_path": "genera/galeocerdonidae/galeocerdo.json"
+    }
+  ]
+}

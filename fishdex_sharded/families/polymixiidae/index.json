@@ -1,0 +1,12 @@
+{
+  "Family": "Polymixiidae",
+  "Order": "Polymixiiformes",
+  "Common": "Beardfishes",
+  "Genera": [
+    {
+      "Genus": "Polymixia",
+      "SpeciesCount": 11,
+      "genus_path": "genera/polymixiidae/polymixia.json"
+    }
+  ]
+}

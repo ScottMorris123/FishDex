@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Muraenesox bagio",
+    "SpecCode": "5514",
+    "CommonName": "Almindelig geddemuræne",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenesox cinereus",
+    "SpecCode": "298",
+    "CommonName": "Arabian pike eel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenesox yamaguchiensis",
+    "SpecCode": "67027",
+    "CommonName": "Yamaguchi haugangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

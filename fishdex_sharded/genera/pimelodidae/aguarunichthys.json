@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Aguarunichthys inpai",
+    "SpecCode": "52328",
+    "CommonName": "Nokka-antennimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aguarunichthys tocantinsensis",
+    "SpecCode": "52326",
+    "CommonName": "Jundiá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aguarunichthys torosus",
+    "SpecCode": "48583",
+    "CommonName": "Härkäantennimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

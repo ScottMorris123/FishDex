@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Cotylopus acutipinnis",
+    "SpecCode": "9942",
+    "CommonName": "Bichique",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cotylopus rubripinnis",
+    "SpecCode": "62745",
+    "CommonName": "Cotylope à nageoires rouges",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

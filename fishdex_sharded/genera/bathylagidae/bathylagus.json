@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Bathylagus andriashevi",
+    "SpecCode": "58737",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagus antarcticus",
+    "SpecCode": "6960",
+    "CommonName": "Antarctic big-eye smelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagus euryops",
+    "SpecCode": "11833",
+    "CommonName": "Almindelig sortsmelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagus gracilis",
+    "SpecCode": "6961",
+    "CommonName": "細深海鮭",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagus niger",
+    "SpecCode": "63080",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagus pacificus",
+    "SpecCode": "22679",
+    "CommonName": "Glebik pacyficzny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylagus tenuis",
+    "SpecCode": "6962",
+    "CommonName": "Garcette sombre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

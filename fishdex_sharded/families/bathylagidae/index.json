@@ -1,0 +1,47 @@
+{
+  "Family": "Bathylagidae",
+  "Order": "Argentiniformes",
+  "Common": "Deep-sea smelts",
+  "Genera": [
+    {
+      "Genus": "Bathylagichthys",
+      "SpeciesCount": 6,
+      "genus_path": "genera/bathylagidae/bathylagichthys.json"
+    },
+    {
+      "Genus": "Bathylagoides",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bathylagidae/bathylagoides.json"
+    },
+    {
+      "Genus": "Bathylagus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/bathylagidae/bathylagus.json"
+    },
+    {
+      "Genus": "Dolicholagus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathylagidae/dolicholagus.json"
+    },
+    {
+      "Genus": "Leuroglossus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/bathylagidae/leuroglossus.json"
+    },
+    {
+      "Genus": "Lipolagus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathylagidae/lipolagus.json"
+    },
+    {
+      "Genus": "Melanolagus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathylagidae/melanolagus.json"
+    },
+    {
+      "Genus": "Pseudobathylagus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bathylagidae/pseudobathylagus.json"
+    }
+  ]
+}

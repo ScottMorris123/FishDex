@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Curimatopsis cryptica",
+    "SpecCode": "27825",
+    "CommonName": "Keltabarbitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Curimatopsis evelynae",
+    "SpecCode": "11890",
+    "CommonName": "Punabarbitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Curimatopsis macrolepis",
+    "SpecCode": "11891",
+    "CommonName": "Boquilla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Curimatopsis microlepis",
+    "SpecCode": "51879",
+    "CommonName": "小鱗短線脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Curimatopsis myersi",
+    "SpecCode": "51880",
+    "CommonName": "Myers Barbensalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

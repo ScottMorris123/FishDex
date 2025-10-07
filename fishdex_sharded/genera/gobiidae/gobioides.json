@@ -1,0 +1,55 @@
+[
+  {
+    "ScientificName": "Gobioides africanus",
+    "SpecCode": "9953",
+    "CommonName": "非洲似鰕虎魚",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioides broussonnetii",
+    "SpecCode": "3856",
+    "CommonName": "Aimoré",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioides grahamae",
+    "SpecCode": "51162",
+    "CommonName": "格氏似鰕虎魚",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioides peruanus",
+    "SpecCode": "46872",
+    "CommonName": "Blaue Aalgrundel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobioides sagitta",
+    "SpecCode": "9954",
+    "CommonName": "Caboz-da-Guiné",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

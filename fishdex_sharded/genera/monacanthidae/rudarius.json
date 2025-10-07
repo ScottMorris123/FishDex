@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Rudarius ercodes",
+    "SpecCode": "4575",
+    "CommonName": "Amimehagi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rudarius excelsus",
+    "SpecCode": "7988",
+    "CommonName": "Diamond filefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rudarius minutus",
+    "SpecCode": "7989",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

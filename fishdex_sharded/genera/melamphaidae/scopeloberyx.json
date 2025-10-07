@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Scopeloberyx bannikovi",
+    "SpecCode": "65061",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopeloberyx malayanus",
+    "SpecCode": "65060",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopeloberyx maxillaris",
+    "SpecCode": "65059",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopeloberyx microlepis",
+    "SpecCode": "23266",
+    "CommonName": "Lõuna-soomustumekala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopeloberyx opisthopterus",
+    "SpecCode": "16859",
+    "CommonName": "Bigscale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopeloberyx pequenoi",
+    "SpecCode": "65062",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopeloberyx robustus",
+    "SpecCode": "16860",
+    "CommonName": "Longjaw bigscale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopeloberyx rossicus",
+    "SpecCode": "65063",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopeloberyx rubriventer",
+    "SpecCode": "54126",
+    "CommonName": "Ridgehead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

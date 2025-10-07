@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hemiculterella macrolepis",
+    "SpecCode": "50437",
+    "CommonName": "Kiilkõht-vibalviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiculterella sauvagei",
+    "SpecCode": "54924",
+    "CommonName": "Jõe-vibalviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemiculterella wui",
+    "SpecCode": "56027",
+    "CommonName": "Hiina vibalviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

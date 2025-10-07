@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Pomacanthus annularis",
+    "SpecCode": "7902",
+    "CommonName": "Alibang-bang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus arcuatus",
+    "SpecCode": "1117",
+    "CommonName": "Angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus asfur",
+    "SpecCode": "11194",
+    "CommonName": "Arabischer Kaiserfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus chrysurus",
+    "SpecCode": "11209",
+    "CommonName": "Aafrika ingelkala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus imperator",
+    "SpecCode": "6504",
+    "CommonName": "Adlo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus maculosus",
+    "SpecCode": "7903",
+    "CommonName": "Anfooz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus navarchus",
+    "SpecCode": "5661",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus paru",
+    "SpecCode": "1118",
+    "CommonName": "Angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus rhomboides",
+    "SpecCode": "25430",
+    "CommonName": "Kone-kejserfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus semicirculatus",
+    "SpecCode": "5663",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus sexstriatus",
+    "SpecCode": "6564",
+    "CommonName": "Alibangbang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus xanthometopon",
+    "SpecCode": "5662",
+    "CommonName": "Adeyakko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomacanthus zonipectus",
+    "SpecCode": "8328",
+    "CommonName": "Angel de Cortés",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

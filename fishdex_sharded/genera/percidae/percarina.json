@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Percarina demidoffii",
+    "SpecCode": "9402",
+    "CommonName": "Harilik perkariin",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percarina maeotica",
+    "SpecCode": "62905",
+    "CommonName": "Aasovi perkariin",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

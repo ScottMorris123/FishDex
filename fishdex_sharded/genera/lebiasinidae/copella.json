@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Copella arnoldi",
+    "SpecCode": "10741",
+    "CommonName": "Arnoldi kopella",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copella carsevennensis",
+    "SpecCode": "27854",
+    "CommonName": "Milé montangn",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copella compta",
+    "SpecCode": "51369",
+    "CommonName": "Pikkuroiskuttajatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copella eigenmanni",
+    "SpecCode": "27262",
+    "CommonName": "Juovasukkulatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copella meinkeni",
+    "SpecCode": "64165",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copella metae",
+    "SpecCode": "26521",
+    "CommonName": "Metasalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copella nattereri",
+    "SpecCode": "11911",
+    "CommonName": "Beautiful scaled characin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copella nigrofasciata",
+    "SpecCode": "26523",
+    "CommonName": "Kauristetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Copella vilmae",
+    "SpecCode": "11912",
+    "CommonName": "Juovasukkulatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

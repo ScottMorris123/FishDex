@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Cyclocheilichthys apogon",
+    "SpecCode": "10313",
+    "CommonName": "Barbel-less chemperas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclocheilichthys armatus",
+    "SpecCode": "16120",
+    "CommonName": "Buin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclocheilichthys enoplos",
+    "SpecCode": "14495",
+    "CommonName": "Badjang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclocheilichthys furcatus",
+    "SpecCode": "27103",
+    "CommonName": "Mekongi ümarmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclocheilichthys heteronema",
+    "SpecCode": "16126",
+    "CommonName": "Narmik-ümarmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclocheilichthys janthochir",
+    "SpecCode": "17382",
+    "CommonName": "Borneo ümarmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclocheilichthys lagleri",
+    "SpecCode": "27106",
+    "CommonName": "Lagleri ümarmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclocheilichthys schoppeae",
+    "SpecCode": "63296",
+    "CommonName": "Palawani ümarmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cyclocheilichthys sinensis",
+    "SpecCode": "55333",
+    "CommonName": "Hiina ümarmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

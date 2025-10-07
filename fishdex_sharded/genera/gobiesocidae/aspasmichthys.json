@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Aspasmichthys alorensis",
+    "SpecCode": "66876",
+    "CommonName": "Alor clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aspasmichthys ciconiae",
+    "SpecCode": "24184",
+    "CommonName": "Tsuru-uba-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

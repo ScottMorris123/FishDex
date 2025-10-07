@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Odontognathus compressus",
+    "SpecCode": "1654",
+    "CommonName": "Arenquillo machete",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontognathus mucronatus",
+    "SpecCode": "1655",
+    "CommonName": "Arenque-branco",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontognathus panamensis",
+    "SpecCode": "1656",
+    "CommonName": "Arenquilla panameña",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

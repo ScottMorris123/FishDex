@@ -1,0 +1,32 @@
+[
+  {
+    "ScientificName": "Allenbatrachus grunniens",
+    "SpecCode": "6391",
+    "CommonName": "Edun",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allenbatrachus meridionalis",
+    "SpecCode": "63432",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Allenbatrachus reticulatus",
+    "SpecCode": "50449",
+    "CommonName": "Reticulated toadfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Ostracoberyx dorygenys",
+    "SpecCode": "23398",
+    "CommonName": "Tsunogashira",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostracoberyx fowleri",
+    "SpecCode": "23399",
+    "CommonName": "Onigashira",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ostracoberyx paxtoni",
+    "SpecCode": "59087",
+    "CommonName": "Spinycheek seabass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

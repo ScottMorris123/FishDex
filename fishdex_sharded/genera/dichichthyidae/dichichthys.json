@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Dichichthys albimarginatus",
+    "SpecCode": "63653",
+    "CommonName": "holbiche à pointes blanches",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dichichthys bigus",
+    "SpecCode": "63657",
+    "CommonName": "Beež kilbikhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dichichthys melanobranchus",
+    "SpecCode": "831",
+    "CommonName": "Blackgill cat shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

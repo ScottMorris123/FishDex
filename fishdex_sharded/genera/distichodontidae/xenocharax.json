@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Xenocharax crassus",
+    "SpecCode": "68191",
+    "CommonName": "Yelele",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenocharax spilurus",
+    "SpecCode": "11262",
+    "CommonName": "Efouegne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

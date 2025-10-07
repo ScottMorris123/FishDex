@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Lycodonus flagellicauda",
+    "SpecCode": "16303",
+    "CommonName": "Aurláki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodonus malvinensis",
+    "SpecCode": "48267",
+    "CommonName": "馬島狼牙綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodonus mirabilis",
+    "SpecCode": "48269",
+    "CommonName": "Chervonniy likodon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodonus vermiformis",
+    "SpecCode": "16780",
+    "CommonName": "虫状狼牙绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

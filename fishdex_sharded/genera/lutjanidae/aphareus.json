@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Aphareus furca",
+    "SpecCode": "81",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphareus rutilans",
+    "SpecCode": "83",
+    "CommonName": "Aha-an",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

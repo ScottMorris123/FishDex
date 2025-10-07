@@ -1,0 +1,138 @@
+[
+  {
+    "ScientificName": "Artediellus aporosus",
+    "SpecCode": "61292",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus atlanticus",
+    "SpecCode": "4041",
+    "CommonName": "Atlantic hookear",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus camchaticus",
+    "SpecCode": "23953",
+    "CommonName": "Kamuchakkakajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus dydymovi",
+    "SpecCode": "23948",
+    "CommonName": "Kobu-okikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus fuscimentus",
+    "SpecCode": "60028",
+    "CommonName": "Nodoguro-okikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus gomojunovi",
+    "SpecCode": "51388",
+    "CommonName": "Spinyhook sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus ingens",
+    "SpecCode": "61285",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus miacanthus",
+    "SpecCode": "51389",
+    "CommonName": "小刺杜父魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus minor",
+    "SpecCode": "60027",
+    "CommonName": "Himekajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus neyelovi",
+    "SpecCode": "60026",
+    "CommonName": "Oshima-okikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus ochotensis",
+    "SpecCode": "23952",
+    "CommonName": "Ohotsukukajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus pacificus",
+    "SpecCode": "11708",
+    "CommonName": "Hookhorn sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus scaber",
+    "SpecCode": "4042",
+    "CommonName": "Hamecon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus schmidti",
+    "SpecCode": "23950",
+    "CommonName": "Toge-okikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artediellus uncinatus",
+    "SpecCode": "4043",
+    "CommonName": "Arctic hookear sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

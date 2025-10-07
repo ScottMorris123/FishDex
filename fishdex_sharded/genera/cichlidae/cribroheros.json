@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Cribroheros alfari",
+    "SpecCode": "12294",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cribroheros altifrons",
+    "SpecCode": "26742",
+    "CommonName": "Kuutamokirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cribroheros bussingi",
+    "SpecCode": "57877",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cribroheros diquis",
+    "SpecCode": "26745",
+    "CommonName": "Boruca-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cribroheros longimanus",
+    "SpecCode": "26748",
+    "CommonName": "Carataca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cribroheros rhytisma",
+    "SpecCode": "26753",
+    "CommonName": "Katkokirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cribroheros robertsoni",
+    "SpecCode": "26756",
+    "CommonName": "Emerald cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cribroheros rostratus",
+    "SpecCode": "26759",
+    "CommonName": "Carate",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

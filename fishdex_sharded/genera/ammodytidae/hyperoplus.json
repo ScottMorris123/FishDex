@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Hyperoplus immaculatus",
+    "SpecCode": "1373",
+    "CommonName": "Corbin's sandeel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyperoplus lanceolatus",
+    "SpecCode": "1374",
+    "CommonName": "Aminodytes",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

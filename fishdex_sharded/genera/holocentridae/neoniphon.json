@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Neoniphon argenteus",
+    "SpecCode": "7310",
+    "CommonName": "Baga-baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoniphon aurolineatus",
+    "SpecCode": "12896",
+    "CommonName": "Aalaihi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoniphon marianus",
+    "SpecCode": "3249",
+    "CommonName": "Candil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoniphon opercularis",
+    "SpecCode": "6582",
+    "CommonName": "Anaoho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoniphon pencei",
+    "SpecCode": "69041",
+    "CommonName": "Pence's squirrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoniphon sammara",
+    "SpecCode": "4911",
+    "CommonName": "\"Ala'ihi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoniphon vexillarium",
+    "SpecCode": "3251",
+    "CommonName": "Black-barred squirrel fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

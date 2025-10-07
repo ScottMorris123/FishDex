@@ -1,0 +1,120 @@
+[
+  {
+    "ScientificName": "Argentina aliceae",
+    "SpecCode": "13469",
+    "CommonName": "Alice argentina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina australiae",
+    "SpecCode": "14007",
+    "CommonName": "Deepsea smelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina brasiliensis",
+    "SpecCode": "65064",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina brucei",
+    "SpecCode": "7518",
+    "CommonName": "Argentina de Bruce",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina elongata",
+    "SpecCode": "13142",
+    "CommonName": "Angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina euchus",
+    "SpecCode": "15808",
+    "CommonName": "肯尼亚水珍鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina georgei",
+    "SpecCode": "60519",
+    "CommonName": "Blackbelly Argentine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina kagoshimae",
+    "SpecCode": "22675",
+    "CommonName": "Kagoshima-nigisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina sialis",
+    "SpecCode": "2699",
+    "CommonName": "Argentina",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina silus",
+    "SpecCode": "2700",
+    "CommonName": "Almindelig guldlaks",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina sphyraena",
+    "SpecCode": "20",
+    "CommonName": "Abishoya",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina stewarti",
+    "SpecCode": "60520",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argentina striata",
+    "SpecCode": "2701",
+    "CommonName": "Argentina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

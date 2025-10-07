@@ -1,0 +1,52 @@
+{
+  "Family": "Triakidae",
+  "Order": "Carcharhiniformes",
+  "Common": "Houndsharks",
+  "Genera": [
+    {
+      "Genus": "Furgaleus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triakidae/furgaleus.json"
+    },
+    {
+      "Genus": "Galeorhinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triakidae/galeorhinus.json"
+    },
+    {
+      "Genus": "Gogolia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triakidae/gogolia.json"
+    },
+    {
+      "Genus": "Hemitriakis",
+      "SpeciesCount": 6,
+      "genus_path": "genera/triakidae/hemitriakis.json"
+    },
+    {
+      "Genus": "Hypogaleus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triakidae/hypogaleus.json"
+    },
+    {
+      "Genus": "Iago",
+      "SpeciesCount": 3,
+      "genus_path": "genera/triakidae/iago.json"
+    },
+    {
+      "Genus": "Mustelus",
+      "SpeciesCount": 27,
+      "genus_path": "genera/triakidae/mustelus.json"
+    },
+    {
+      "Genus": "Scylliogaleus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triakidae/scylliogaleus.json"
+    },
+    {
+      "Genus": "Triakis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/triakidae/triakis.json"
+    }
+  ]
+}

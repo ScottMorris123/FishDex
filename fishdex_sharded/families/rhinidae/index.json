@@ -1,0 +1,22 @@
+{
+  "Family": "Rhinidae",
+  "Order": "Rhinopristiformes",
+  "Common": "Wedgefishes",
+  "Genera": [
+    {
+      "Genus": "Rhina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhinidae/rhina.json"
+    },
+    {
+      "Genus": "Rhynchobatus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/rhinidae/rhynchobatus.json"
+    },
+    {
+      "Genus": "Rhynchorhina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhinidae/rhynchorhina.json"
+    }
+  ]
+}

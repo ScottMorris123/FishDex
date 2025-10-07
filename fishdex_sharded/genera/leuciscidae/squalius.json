@@ -1,0 +1,454 @@
+[
+  {
+    "ScientificName": "Squalius adanaensis",
+    "SpecCode": "67082",
+    "CommonName": "Adana chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius agdamicus",
+    "SpecCode": "65249",
+    "CommonName": "Agdami turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius alburnoides",
+    "SpecCode": "8415",
+    "CommonName": "Bordalo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius albus",
+    "SpecCode": "65247",
+    "CommonName": "Trasimeno chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius anatolicus",
+    "SpecCode": "63672",
+    "CommonName": "Anatoolia turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius aphipsi",
+    "SpecCode": "47815",
+    "CommonName": "Aphips chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius aradensis",
+    "SpecCode": "55446",
+    "CommonName": "Arade chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius aristotelis",
+    "SpecCode": "66140",
+    "CommonName": "Aristotelese turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius berak",
+    "SpecCode": "67448",
+    "CommonName": "Mesopotamian chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius cappadocicus",
+    "SpecCode": "66142",
+    "CommonName": "Cappadocian chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius carinus",
+    "SpecCode": "66141",
+    "CommonName": "Chocolate chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius carolitertii",
+    "SpecCode": "9811",
+    "CommonName": "Bordallo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius castellanus",
+    "SpecCode": "64533",
+    "CommonName": "Kastiilia turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius cephaloides",
+    "SpecCode": "66472",
+    "CommonName": "Armutlu turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius cephalus",
+    "SpecCode": "4482",
+    "CommonName": "Aitel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius cii",
+    "SpecCode": "63478",
+    "CommonName": "European chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius fellowesii",
+    "SpecCode": "67421",
+    "CommonName": "Aegean chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius ghigii",
+    "SpecCode": "9808",
+    "CommonName": "Ghizáni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius illyricus",
+    "SpecCode": "26623",
+    "CommonName": "Illüüria turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius janae",
+    "SpecCode": "65612",
+    "CommonName": "Istria turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius keadicus",
+    "SpecCode": "26270",
+    "CommonName": "Evrotas chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius kosswigi",
+    "SpecCode": "67038",
+    "CommonName": "Kosswigi turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius kottelati",
+    "SpecCode": "65213",
+    "CommonName": "Kottelati turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius laietanus",
+    "SpecCode": "64211",
+    "CommonName": "Catalan chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius lepidus",
+    "SpecCode": "27510",
+    "CommonName": "Akbalik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius lucumonis",
+    "SpecCode": "25986",
+    "CommonName": "Cavedano dell'Ombrone",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius malacitanus",
+    "SpecCode": "63612",
+    "CommonName": "Malaga chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius microlepis",
+    "SpecCode": "48336",
+    "CommonName": "Imotski masnica",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius moreoticus",
+    "SpecCode": "65132",
+    "CommonName": "Morea turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius orientalis",
+    "SpecCode": "66119",
+    "CommonName": "Idaturb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius orpheus",
+    "SpecCode": "62761",
+    "CommonName": "Orpheus dace",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius pamvoticus",
+    "SpecCode": "65133",
+    "CommonName": "Pamvotis chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius peloponensis",
+    "SpecCode": "63605",
+    "CommonName": "Peloponnese chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius platyceps",
+    "SpecCode": "65750",
+    "CommonName": "Laipea-turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius prespensis",
+    "SpecCode": "63597",
+    "CommonName": "Mëlyshi i Prespës",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius pursakensis",
+    "SpecCode": "67422",
+    "CommonName": "Sakarya chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius pyrenaicus",
+    "SpecCode": "23607",
+    "CommonName": "Bordallo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius recurvirostris",
+    "SpecCode": "66143",
+    "CommonName": "Akşehir chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius seyhanensis",
+    "SpecCode": "67083",
+    "CommonName": "Seyhan dace",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius spurius",
+    "SpecCode": "52626",
+    "CommonName": "Jelec syrský",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius squaliusculus",
+    "SpecCode": "22838",
+    "CommonName": "Jelec syrdarjanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius squalus",
+    "SpecCode": "65134",
+    "CommonName": "Itaalia turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius svallize",
+    "SpecCode": "26624",
+    "CommonName": "Aadria turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius tenellus",
+    "SpecCode": "65318",
+    "CommonName": "Bosnia turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius torgalensis",
+    "SpecCode": "55445",
+    "CommonName": "Escalo-do-Mira",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius turcicus",
+    "SpecCode": "65216",
+    "CommonName": "Transcaucasian chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius ulanus",
+    "SpecCode": "55294",
+    "CommonName": "Iraani turb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius valentinus",
+    "SpecCode": "63613",
+    "CommonName": "Levantine bagra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius vardarensis",
+    "SpecCode": "65248",
+    "CommonName": "Vardar chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Squalius zrmanjae",
+    "SpecCode": "48338",
+    "CommonName": "Jelec zrmanjanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

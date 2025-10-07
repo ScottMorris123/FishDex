@@ -1,0 +1,12 @@
+{
+  "Family": "Astroblepidae",
+  "Order": "Siluriformes",
+  "Common": "Naked sucker-mouth catfishes",
+  "Genera": [
+    {
+      "Genus": "Astroblepus",
+      "SpeciesCount": 81,
+      "genus_path": "genera/astroblepidae/astroblepus.json"
+    }
+  ]
+}

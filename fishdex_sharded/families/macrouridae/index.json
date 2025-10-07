@@ -1,0 +1,152 @@
+{
+  "Family": "Macrouridae",
+  "Order": "Gadiformes",
+  "Common": "Grenadiers or rattails",
+  "Genera": [
+    {
+      "Genus": "Albatrossia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/macrouridae/albatrossia.json"
+    },
+    {
+      "Genus": "Asthenomacrurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/macrouridae/asthenomacrurus.json"
+    },
+    {
+      "Genus": "Cetonurichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/macrouridae/cetonurichthys.json"
+    },
+    {
+      "Genus": "Cetonurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/macrouridae/cetonurus.json"
+    },
+    {
+      "Genus": "Coelorinchus",
+      "SpeciesCount": 126,
+      "genus_path": "genera/macrouridae/coelorinchus.json"
+    },
+    {
+      "Genus": "Coryphaenoides",
+      "SpeciesCount": 66,
+      "genus_path": "genera/macrouridae/coryphaenoides.json"
+    },
+    {
+      "Genus": "Cynomacrurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/macrouridae/cynomacrurus.json"
+    },
+    {
+      "Genus": "Echinomacrurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/macrouridae/echinomacrurus.json"
+    },
+    {
+      "Genus": "Haplomacrourus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/macrouridae/haplomacrourus.json"
+    },
+    {
+      "Genus": "Hymenocephalus",
+      "SpeciesCount": 28,
+      "genus_path": "genera/macrouridae/hymenocephalus.json"
+    },
+    {
+      "Genus": "Hymenogadus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/macrouridae/hymenogadus.json"
+    },
+    {
+      "Genus": "Kumba",
+      "SpeciesCount": 8,
+      "genus_path": "genera/macrouridae/kumba.json"
+    },
+    {
+      "Genus": "Kuronezumia",
+      "SpeciesCount": 7,
+      "genus_path": "genera/macrouridae/kuronezumia.json"
+    },
+    {
+      "Genus": "Lepidorhynchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/macrouridae/lepidorhynchus.json"
+    },
+    {
+      "Genus": "Lucigadus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/macrouridae/lucigadus.json"
+    },
+    {
+      "Genus": "Macrosmia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/macrouridae/macrosmia.json"
+    },
+    {
+      "Genus": "Macrourus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/macrouridae/macrourus.json"
+    },
+    {
+      "Genus": "Malacocephalus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/macrouridae/malacocephalus.json"
+    },
+    {
+      "Genus": "Mataeocephalus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/macrouridae/mataeocephalus.json"
+    },
+    {
+      "Genus": "Mesovagus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/macrouridae/mesovagus.json"
+    },
+    {
+      "Genus": "Nezumia",
+      "SpeciesCount": 53,
+      "genus_path": "genera/macrouridae/nezumia.json"
+    },
+    {
+      "Genus": "Odontomacrurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/macrouridae/odontomacrurus.json"
+    },
+    {
+      "Genus": "Paracetonurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/macrouridae/paracetonurus.json"
+    },
+    {
+      "Genus": "Pseudocetonurus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/macrouridae/pseudocetonurus.json"
+    },
+    {
+      "Genus": "Pseudonezumia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/macrouridae/pseudonezumia.json"
+    },
+    {
+      "Genus": "Sphagemacrurus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/macrouridae/sphagemacrurus.json"
+    },
+    {
+      "Genus": "Spicomacrurus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/macrouridae/spicomacrurus.json"
+    },
+    {
+      "Genus": "Trachonurus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/macrouridae/trachonurus.json"
+    },
+    {
+      "Genus": "Ventrifossa",
+      "SpeciesCount": 24,
+      "genus_path": "genera/macrouridae/ventrifossa.json"
+    }
+  ]
+}

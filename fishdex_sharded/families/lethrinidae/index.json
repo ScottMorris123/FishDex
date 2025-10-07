@@ -1,0 +1,32 @@
+{
+  "Family": "Lethrinidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Emperors or scavengers",
+  "Genera": [
+    {
+      "Genus": "Gnathodentex",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lethrinidae/gnathodentex.json"
+    },
+    {
+      "Genus": "Gymnocranius",
+      "SpeciesCount": 10,
+      "genus_path": "genera/lethrinidae/gymnocranius.json"
+    },
+    {
+      "Genus": "Lethrinus",
+      "SpeciesCount": 28,
+      "genus_path": "genera/lethrinidae/lethrinus.json"
+    },
+    {
+      "Genus": "Monotaxis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/lethrinidae/monotaxis.json"
+    },
+    {
+      "Genus": "Wattsia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/lethrinidae/wattsia.json"
+    }
+  ]
+}

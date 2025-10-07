@@ -1,0 +1,257 @@
+{
+  "Family": "Ophidiidae",
+  "Order": "Ophidiiformes",
+  "Common": "Cusk-eels",
+  "Genera": [
+    {
+      "Genus": "Abyssobrotula",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophidiidae/abyssobrotula.json"
+    },
+    {
+      "Genus": "Acanthonus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/acanthonus.json"
+    },
+    {
+      "Genus": "Alcockia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/alcockia.json"
+    },
+    {
+      "Genus": "Apagesoma",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ophidiidae/apagesoma.json"
+    },
+    {
+      "Genus": "Barathrites",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophidiidae/barathrites.json"
+    },
+    {
+      "Genus": "Barathrodemus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophidiidae/barathrodemus.json"
+    },
+    {
+      "Genus": "Bassogigas",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophidiidae/bassogigas.json"
+    },
+    {
+      "Genus": "Bassozetus",
+      "SpeciesCount": 15,
+      "genus_path": "genera/ophidiidae/bassozetus.json"
+    },
+    {
+      "Genus": "Bathyonus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ophidiidae/bathyonus.json"
+    },
+    {
+      "Genus": "Benthocometes",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophidiidae/benthocometes.json"
+    },
+    {
+      "Genus": "Brotula",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ophidiidae/brotula.json"
+    },
+    {
+      "Genus": "Brotulotaenia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ophidiidae/brotulotaenia.json"
+    },
+    {
+      "Genus": "Cherublemma",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/cherublemma.json"
+    },
+    {
+      "Genus": "Chilara",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/chilara.json"
+    },
+    {
+      "Genus": "Dannevigia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/dannevigia.json"
+    },
+    {
+      "Genus": "Dicrolene",
+      "SpeciesCount": 15,
+      "genus_path": "genera/ophidiidae/dicrolene.json"
+    },
+    {
+      "Genus": "Enchelybrotula",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophidiidae/enchelybrotula.json"
+    },
+    {
+      "Genus": "Epetriodus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/epetriodus.json"
+    },
+    {
+      "Genus": "Eretmichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/eretmichthys.json"
+    },
+    {
+      "Genus": "Genypterus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/ophidiidae/genypterus.json"
+    },
+    {
+      "Genus": "Glyptophidium",
+      "SpeciesCount": 6,
+      "genus_path": "genera/ophidiidae/glyptophidium.json"
+    },
+    {
+      "Genus": "Holcomycteronus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/ophidiidae/holcomycteronus.json"
+    },
+    {
+      "Genus": "Homostolus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/homostolus.json"
+    },
+    {
+      "Genus": "Hoplobrotula",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ophidiidae/hoplobrotula.json"
+    },
+    {
+      "Genus": "Hypopleuron",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/hypopleuron.json"
+    },
+    {
+      "Genus": "Lamprogrammus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ophidiidae/lamprogrammus.json"
+    },
+    {
+      "Genus": "Lepophidium",
+      "SpeciesCount": 23,
+      "genus_path": "genera/ophidiidae/lepophidium.json"
+    },
+    {
+      "Genus": "Leptobrotula",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/leptobrotula.json"
+    },
+    {
+      "Genus": "Leucicorus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ophidiidae/leucicorus.json"
+    },
+    {
+      "Genus": "Luciobrotula",
+      "SpeciesCount": 6,
+      "genus_path": "genera/ophidiidae/luciobrotula.json"
+    },
+    {
+      "Genus": "Mastigopterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/mastigopterus.json"
+    },
+    {
+      "Genus": "Monomitopus",
+      "SpeciesCount": 14,
+      "genus_path": "genera/ophidiidae/monomitopus.json"
+    },
+    {
+      "Genus": "Neobythites",
+      "SpeciesCount": 54,
+      "genus_path": "genera/ophidiidae/neobythites.json"
+    },
+    {
+      "Genus": "Neobythitoides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/neobythitoides.json"
+    },
+    {
+      "Genus": "Ophidion",
+      "SpeciesCount": 27,
+      "genus_path": "genera/ophidiidae/ophidion.json"
+    },
+    {
+      "Genus": "Otophidium",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ophidiidae/otophidium.json"
+    },
+    {
+      "Genus": "Parophidion",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophidiidae/parophidion.json"
+    },
+    {
+      "Genus": "Penopus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophidiidae/penopus.json"
+    },
+    {
+      "Genus": "Porogadus",
+      "SpeciesCount": 17,
+      "genus_path": "genera/ophidiidae/porogadus.json"
+    },
+    {
+      "Genus": "Pycnocraspedum",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ophidiidae/pycnocraspedum.json"
+    },
+    {
+      "Genus": "Raneya",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/raneya.json"
+    },
+    {
+      "Genus": "Selachophidium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/selachophidium.json"
+    },
+    {
+      "Genus": "Sirembo",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ophidiidae/sirembo.json"
+    },
+    {
+      "Genus": "Spectrunculus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophidiidae/spectrunculus.json"
+    },
+    {
+      "Genus": "Spottobrotula",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ophidiidae/spottobrotula.json"
+    },
+    {
+      "Genus": "Tauredophidium",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/tauredophidium.json"
+    },
+    {
+      "Genus": "Tenuicephalus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ophidiidae/tenuicephalus.json"
+    },
+    {
+      "Genus": "Typhlonus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/typhlonus.json"
+    },
+    {
+      "Genus": "Ventichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/ventichthys.json"
+    },
+    {
+      "Genus": "Xyelacyba",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophidiidae/xyelacyba.json"
+    }
+  ]
+}

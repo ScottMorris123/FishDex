@@ -1,0 +1,17 @@
+{
+  "Family": "Malacanthidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Tilefishes",
+  "Genera": [
+    {
+      "Genus": "Hoplolatilus",
+      "SpeciesCount": 13,
+      "genus_path": "genera/malacanthidae/hoplolatilus.json"
+    },
+    {
+      "Genus": "Malacanthus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/malacanthidae/malacanthus.json"
+    }
+  ]
+}

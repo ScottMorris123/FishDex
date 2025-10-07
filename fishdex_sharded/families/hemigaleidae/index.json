@@ -1,0 +1,27 @@
+{
+  "Family": "Hemigaleidae",
+  "Order": "Carcharhiniformes",
+  "Common": "Weasel sharks",
+  "Genera": [
+    {
+      "Genus": "Chaenogaleus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hemigaleidae/chaenogaleus.json"
+    },
+    {
+      "Genus": "Hemigaleus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/hemigaleidae/hemigaleus.json"
+    },
+    {
+      "Genus": "Hemipristis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hemigaleidae/hemipristis.json"
+    },
+    {
+      "Genus": "Paragaleus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/hemigaleidae/paragaleus.json"
+    }
+  ]
+}

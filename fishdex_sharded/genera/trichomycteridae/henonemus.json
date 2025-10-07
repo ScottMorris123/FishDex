@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Henonemus intermedius",
+    "SpecCode": "48760",
+    "CommonName": "泽丝鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Henonemus macrops",
+    "SpecCode": "48761",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Henonemus punctatus",
+    "SpecCode": "48764",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Henonemus taxistigmus",
+    "SpecCode": "48116",
+    "CommonName": "岩生喜盖鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Henonemus triacanthopomus",
+    "SpecCode": "63018",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

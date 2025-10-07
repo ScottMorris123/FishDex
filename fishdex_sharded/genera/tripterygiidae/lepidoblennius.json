@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lepidoblennius haplodactylus",
+    "SpecCode": "47183",
+    "CommonName": "Eastern jumping blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoblennius marmoratus",
+    "SpecCode": "47184",
+    "CommonName": "Jumping blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

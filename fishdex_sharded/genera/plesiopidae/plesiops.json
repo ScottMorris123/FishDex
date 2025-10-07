@@ -1,0 +1,155 @@
+[
+  {
+    "ScientificName": "Plesiops auritus",
+    "SpecCode": "50705",
+    "CommonName": "Earspot longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops cephalotaenia",
+    "SpecCode": "14981",
+    "CommonName": "Headstripe longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops coeruleolineatus",
+    "SpecCode": "8005",
+    "CommonName": "Banded devilfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops corallicola",
+    "SpecCode": "14983",
+    "CommonName": "Bluegill longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops facicavus",
+    "SpecCode": "50729",
+    "CommonName": "Poreface longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops genaricus",
+    "SpecCode": "50730",
+    "CommonName": "Cheekveil longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops gracilis",
+    "SpecCode": "50732",
+    "CommonName": "Threadfin longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops insularis",
+    "SpecCode": "27503",
+    "CommonName": "Island longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops malalaxus",
+    "SpecCode": "50738",
+    "CommonName": "馬達加斯加鮗",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops multisquamata",
+    "SpecCode": "22823",
+    "CommonName": "Gespikkelde langvin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops mystaxus",
+    "SpecCode": "27000",
+    "CommonName": "Moustache longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops nakaharae",
+    "SpecCode": "23437",
+    "CommonName": "Nakahara-tanabata-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops nigricans",
+    "SpecCode": "24438",
+    "CommonName": "Ikomen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops oxycephalus",
+    "SpecCode": "23438",
+    "CommonName": "Cá Đông",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops polydactylus",
+    "SpecCode": "50746",
+    "CommonName": "多指鮗",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops thysanopterus",
+    "SpecCode": "50747",
+    "CommonName": "Tasselfin longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plesiops verecundus",
+    "SpecCode": "50748",
+    "CommonName": "Redtip longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

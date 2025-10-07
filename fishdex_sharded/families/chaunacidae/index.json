@@ -1,0 +1,17 @@
+{
+  "Family": "Chaunacidae",
+  "Order": "Lophiiformes",
+  "Common": "Sea toads o coffinfishes",
+  "Genera": [
+    {
+      "Genus": "Chaunacops",
+      "SpeciesCount": 4,
+      "genus_path": "genera/chaunacidae/chaunacops.json"
+    },
+    {
+      "Genus": "Chaunax",
+      "SpeciesCount": 29,
+      "genus_path": "genera/chaunacidae/chaunax.json"
+    }
+  ]
+}

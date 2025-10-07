@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Microphilypnus acangaquara",
+    "SpecCode": "66280",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphilypnus amazonicus",
+    "SpecCode": "51968",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphilypnus macrostoma",
+    "SpecCode": "51969",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphilypnus ternetzi",
+    "SpecCode": "51970",
+    "CommonName": "小細齒塘鱧",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

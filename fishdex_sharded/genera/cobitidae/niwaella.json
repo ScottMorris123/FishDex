@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Niwaella delicata",
+    "SpecCode": "22941",
+    "CommonName": "Ajime-dojô",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Niwaella laterimaculata",
+    "SpecCode": "60155",
+    "CommonName": "Laiguline nivaell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Niwaella longibarba",
+    "SpecCode": "62954",
+    "CommonName": "Poisurnivaell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Niwaella multifasciata",
+    "SpecCode": "25589",
+    "CommonName": "Sekavec mnohopruhý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Niwaella xinjiangensis",
+    "SpecCode": "62955",
+    "CommonName": "Xinjiangi nivaell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Chaenogobius annularis",
+    "SpecCode": "54794",
+    "CommonName": "Agohaze",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenogobius gulosus",
+    "SpecCode": "15788",
+    "CommonName": "byeol-mang-dug",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

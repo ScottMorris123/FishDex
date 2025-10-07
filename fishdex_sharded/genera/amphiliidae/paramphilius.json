@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Paramphilius baudoni",
+    "SpecCode": "9403",
+    "CommonName": "鮑氏平鰭鮠",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paramphilius firestonei",
+    "SpecCode": "9428",
+    "CommonName": "Makkaraimuevä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paramphilius teugelsi",
+    "SpecCode": "12812",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paramphilius trichomycteroides",
+    "SpecCode": "9427",
+    "CommonName": "Nuoliaisimuevä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

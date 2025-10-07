@@ -1,0 +1,112 @@
+{
+  "Family": "Eleotridae",
+  "Order": "Gobiiformes",
+  "Common": "Bully sleepers",
+  "Genera": [
+    {
+      "Genus": "Allomogurnda",
+      "SpeciesCount": 9,
+      "genus_path": "genera/eleotridae/allomogurnda.json"
+    },
+    {
+      "Genus": "Belobranchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/eleotridae/belobranchus.json"
+    },
+    {
+      "Genus": "Bunaka",
+      "SpeciesCount": 1,
+      "genus_path": "genera/eleotridae/bunaka.json"
+    },
+    {
+      "Genus": "Caecieleotris",
+      "SpeciesCount": 1,
+      "genus_path": "genera/eleotridae/caecieleotris.json"
+    },
+    {
+      "Genus": "Calumia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/eleotridae/calumia.json"
+    },
+    {
+      "Genus": "Dormitator",
+      "SpeciesCount": 5,
+      "genus_path": "genera/eleotridae/dormitator.json"
+    },
+    {
+      "Genus": "Eleotris",
+      "SpeciesCount": 35,
+      "genus_path": "genera/eleotridae/eleotris.json"
+    },
+    {
+      "Genus": "Erotelis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/eleotridae/erotelis.json"
+    },
+    {
+      "Genus": "Giuris",
+      "SpeciesCount": 1,
+      "genus_path": "genera/eleotridae/giuris.json"
+    },
+    {
+      "Genus": "Gobiomorphus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/eleotridae/gobiomorphus.json"
+    },
+    {
+      "Genus": "Gobiomorus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/eleotridae/gobiomorus.json"
+    },
+    {
+      "Genus": "Guavina",
+      "SpeciesCount": 2,
+      "genus_path": "genera/eleotridae/guavina.json"
+    },
+    {
+      "Genus": "Hemieleotris",
+      "SpeciesCount": 2,
+      "genus_path": "genera/eleotridae/hemieleotris.json"
+    },
+    {
+      "Genus": "Hypseleotris",
+      "SpeciesCount": 21,
+      "genus_path": "genera/eleotridae/hypseleotris.json"
+    },
+    {
+      "Genus": "Leptophilypnion",
+      "SpeciesCount": 2,
+      "genus_path": "genera/eleotridae/leptophilypnion.json"
+    },
+    {
+      "Genus": "Leptophilypnus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/eleotridae/leptophilypnus.json"
+    },
+    {
+      "Genus": "Microphilypnus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/eleotridae/microphilypnus.json"
+    },
+    {
+      "Genus": "Mogurnda",
+      "SpeciesCount": 27,
+      "genus_path": "genera/eleotridae/mogurnda.json"
+    },
+    {
+      "Genus": "Philypnodon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/eleotridae/philypnodon.json"
+    },
+    {
+      "Genus": "Ratsirakia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/eleotridae/ratsirakia.json"
+    },
+    {
+      "Genus": "Tateurndina",
+      "SpeciesCount": 1,
+      "genus_path": "genera/eleotridae/tateurndina.json"
+    }
+  ]
+}

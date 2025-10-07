@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Luzonichthys earlei",
+    "SpecCode": "12598",
+    "CommonName": "Earle's splitfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luzonichthys kiomeamea",
+    "SpecCode": "69016",
+    "CommonName": "Rapa Nui splitfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luzonichthys microlepis",
+    "SpecCode": "12872",
+    "CommonName": "Slank spleetvin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luzonichthys seaver",
+    "SpecCode": "69040",
+    "CommonName": "Seaver splitfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luzonichthys taeniatus",
+    "SpecCode": "12873",
+    "CommonName": "Orange-striped pygmy basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luzonichthys waitei",
+    "SpecCode": "7453",
+    "CommonName": "Magenta slender basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luzonichthys whitleyi",
+    "SpecCode": "12874",
+    "CommonName": "Whitley's splitfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Luzonichthys williamsi",
+    "SpecCode": "12875",
+    "CommonName": "威氏吕宋花鮨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

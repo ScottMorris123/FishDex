@@ -1,0 +1,62 @@
+[
+  {
+    "ScientificName": "Pseudotolithus elongatus",
+    "SpecCode": "433",
+    "CommonName": "Bobo croaker",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotolithus epipercus",
+    "SpecCode": "10200",
+    "CommonName": "Bar",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotolithus moorii",
+    "SpecCode": "5010",
+    "CommonName": "Bougouni",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotolithus senegalensis",
+    "SpecCode": "432",
+    "CommonName": "Bar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotolithus senegallus",
+    "SpecCode": "5009",
+    "CommonName": "Capitaine",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotolithus typus",
+    "SpecCode": "4550",
+    "CommonName": "Bar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

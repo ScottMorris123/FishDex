@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Cryptarius daugueti",
+    "SpecCode": "26766",
+    "CommonName": "Trey kanchok kandor",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptarius truncatus",
+    "SpecCode": "23385",
+    "CommonName": "Bedukang",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

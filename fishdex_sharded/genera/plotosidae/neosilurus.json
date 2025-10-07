@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Neosilurus ater",
+    "SpecCode": "12094",
+    "CommonName": "Black catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus brevidorsalis",
+    "SpecCode": "12095",
+    "CommonName": "Pähkinätandani",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus coatesi",
+    "SpecCode": "63636",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus equinus",
+    "SpecCode": "25536",
+    "CommonName": "Gjellerup's tandan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus gjellerupi",
+    "SpecCode": "25537",
+    "CommonName": "Coates' tandan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus gloveri",
+    "SpecCode": "52050",
+    "CommonName": "Dalhousie catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus hyrtlii",
+    "SpecCode": "22641",
+    "CommonName": "Common eel-tail catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus idenburgi",
+    "SpecCode": "25540",
+    "CommonName": "Idenburg River tandan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus mollespiculum",
+    "SpecCode": "52384",
+    "CommonName": "Softspine catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus novaeguineae",
+    "SpecCode": "25548",
+    "CommonName": "Mahonkitandani",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neosilurus pseudospinosus",
+    "SpecCode": "52383",
+    "CommonName": "Falsespine catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

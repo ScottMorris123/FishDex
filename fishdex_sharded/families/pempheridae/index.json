@@ -1,0 +1,17 @@
+{
+  "Family": "Pempheridae",
+  "Order": "Acropomatiformes",
+  "Common": "Sweepers",
+  "Genera": [
+    {
+      "Genus": "Parapriacanthus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/pempheridae/parapriacanthus.json"
+    },
+    {
+      "Genus": "Pempheris",
+      "SpeciesCount": 69,
+      "genus_path": "genera/pempheridae/pempheris.json"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Ariomma bondi",
+    "SpecCode": "961",
+    "CommonName": "Arioma lucia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariomma brevimanus",
+    "SpecCode": "10513",
+    "CommonName": "Driftfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariomma indica",
+    "SpecCode": "1300",
+    "CommonName": "Amag",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariomma lurida",
+    "SpecCode": "8233",
+    "CommonName": "Ariommid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariomma melana",
+    "SpecCode": "3916",
+    "CommonName": "Arioma parda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariomma parini",
+    "SpecCode": "51599",
+    "CommonName": "Parin's ariomma",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ariomma regulus",
+    "SpecCode": "962",
+    "CommonName": "Arioma pintada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Anostomus anostomus",
+    "SpecCode": "10766",
+    "CommonName": "Anostomo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anostomus brevior",
+    "SpecCode": "27835",
+    "CommonName": "Anostomo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anostomus longus",
+    "SpecCode": "53726",
+    "CommonName": "Maranon-bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anostomus ternetzi",
+    "SpecCode": "26386",
+    "CommonName": "Anostomo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anostomus ucayalensis",
+    "SpecCode": "53276",
+    "CommonName": "Ucayali-bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

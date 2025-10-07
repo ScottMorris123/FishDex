@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Dussumieria acuta",
+    "SpecCode": "1453",
+    "CommonName": "Adins",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dussumieria albulina",
+    "SpecCode": "69849",
+    "CommonName": "Alabaybay",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dussumieria elopsoides",
+    "SpecCode": "1454",
+    "CommonName": "Balatiyong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dussumieria hasseltii",
+    "SpecCode": "69847",
+    "CommonName": "Hasselt's rainbow sardine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dussumieria modakandai",
+    "SpecCode": "69846",
+    "CommonName": "Soft rainbow sardine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dussumieria productissima",
+    "SpecCode": "69848",
+    "CommonName": "Javelin rainbow sardine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dussumieria torpedo",
+    "SpecCode": "69850",
+    "CommonName": "African rainbow sardine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

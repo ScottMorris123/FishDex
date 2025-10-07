@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Lycodapus antarcticus",
+    "SpecCode": "7024",
+    "CommonName": "Loquette antarctique",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus australis",
+    "SpecCode": "48056",
+    "CommonName": "澳洲无足狼鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus derjugini",
+    "SpecCode": "48057",
+    "CommonName": "迪氏无足狼鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus dermatinus",
+    "SpecCode": "48204",
+    "CommonName": "Looseskin eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus endemoscotus",
+    "SpecCode": "25269",
+    "CommonName": "Deepwater slipskin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus fierasfer",
+    "SpecCode": "3133",
+    "CommonName": "Bigtooth eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus leptus",
+    "SpecCode": "48206",
+    "CommonName": "Slender eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus mandibularis",
+    "SpecCode": "3134",
+    "CommonName": "Pale eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus microchir",
+    "SpecCode": "24985",
+    "CommonName": "Ashinashigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus pachysoma",
+    "SpecCode": "7025",
+    "CommonName": "Stout slipskin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus parviceps",
+    "SpecCode": "3135",
+    "CommonName": "Smallhead eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus poecilus",
+    "SpecCode": "48207",
+    "CommonName": "杂色无足狼鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodapus psarostomatus",
+    "SpecCode": "48208",
+    "CommonName": "Specklemouth eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

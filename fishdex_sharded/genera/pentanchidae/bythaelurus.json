@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Bythaelurus alcockii",
+    "SpecCode": "814",
+    "CommonName": "Arabische kathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus bachi",
+    "SpecCode": "68150",
+    "CommonName": "Bach's catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus canescens",
+    "SpecCode": "817",
+    "CommonName": "Cat shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus clevai",
+    "SpecCode": "54001",
+    "CommonName": "Breedkopkathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus dawsoni",
+    "SpecCode": "818",
+    "CommonName": "Dawson's catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus giddingsi",
+    "SpecCode": "66473",
+    "CommonName": "Galápagos catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus hispidus",
+    "SpecCode": "819",
+    "CommonName": "Borstelkathaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus immaculatus",
+    "SpecCode": "820",
+    "CommonName": "Holbiche glabre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus incanus",
+    "SpecCode": "64121",
+    "CommonName": "Dusky catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus lutarius",
+    "SpecCode": "822",
+    "CommonName": "Brown catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus naylori",
+    "SpecCode": "68383",
+    "CommonName": "Dusky snout catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus stewarti",
+    "SpecCode": "69053",
+    "CommonName": "Error Seamount Catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus tenuicephalus",
+    "SpecCode": "67931",
+    "CommonName": "Narrowhead catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bythaelurus vivaldii",
+    "SpecCode": "68215",
+    "CommonName": "Vivaldi's catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

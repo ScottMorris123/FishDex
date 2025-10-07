@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Adrianichthys kruyti",
+    "SpecCode": "6261",
+    "CommonName": "Duck-bill Poso minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Adrianichthys oophorus",
+    "SpecCode": "6262",
+    "CommonName": "Egg carrying Poso minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Adrianichthys poptae",
+    "SpecCode": "6263",
+    "CommonName": "Elongate Poso minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Adrianichthys roseni",
+    "SpecCode": "62166",
+    "CommonName": "Rosen's buntingi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Mirolabrichthys evansi",
+    "SpecCode": "7799",
+    "CommonName": "Anthias bicolore",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mirolabrichthys pascalus",
+    "SpecCode": "6934",
+    "CommonName": "Amethyst anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mirolabrichthys tuka",
+    "SpecCode": "6502",
+    "CommonName": "Bibir merah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

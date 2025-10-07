@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Wetmorella albofasciata",
+    "SpecCode": "4869",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Wetmorella nigropinnata",
+    "SpecCode": "4870",
+    "CommonName": "Blackspot pigmy wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Wetmorella tanakai",
+    "SpecCode": "64216",
+    "CommonName": "Tanaka's wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pteraclis aesticola",
+    "SpecCode": "3557",
+    "CommonName": "Abanico del Pacífico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteraclis carolinus",
+    "SpecCode": "16335",
+    "CommonName": "Fächerfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteraclis velifera",
+    "SpecCode": "12275",
+    "CommonName": "Fanfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

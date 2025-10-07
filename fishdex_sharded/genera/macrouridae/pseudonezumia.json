@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pseudonezumia cetonuropsis",
+    "SpecCode": "23204",
+    "CommonName": "Chidori-hige",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudonezumia japonica",
+    "SpecCode": "23198",
+    "CommonName": "Nihon-sokodara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudonezumia parvipes",
+    "SpecCode": "58928",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudonezumia pusilla",
+    "SpecCode": "58793",
+    "CommonName": "Tiny whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

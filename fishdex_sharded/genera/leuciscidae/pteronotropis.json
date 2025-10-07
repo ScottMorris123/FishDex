@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Pteronotropis euryzonus",
+    "SpecCode": "2856",
+    "CommonName": "Broadstripe shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteronotropis grandipinnis",
+    "SpecCode": "58939",
+    "CommonName": "Apalachee shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteronotropis hubbsi",
+    "SpecCode": "2866",
+    "CommonName": "Bluehead Shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteronotropis hypselopterus",
+    "SpecCode": "2868",
+    "CommonName": "Harilik puriteibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteronotropis merlini",
+    "SpecCode": "58938",
+    "CommonName": "Merlini puriteibik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteronotropis metallicus",
+    "SpecCode": "61908",
+    "CommonName": "Metallic shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteronotropis signipinnis",
+    "SpecCode": "2900",
+    "CommonName": "Flagfin shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteronotropis stonei",
+    "SpecCode": "61909",
+    "CommonName": "Lowland shiner",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteronotropis welaka",
+    "SpecCode": "2914",
+    "CommonName": "Blaunasenorfe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

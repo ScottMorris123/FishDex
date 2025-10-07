@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pseudamiops diaphanes",
+    "SpecCode": "51826",
+    "CommonName": "Transparent cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamiops gracilicauda",
+    "SpecCode": "5788",
+    "CommonName": "Dangat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamiops pellucidus",
+    "SpecCode": "16891",
+    "CommonName": "Helder kardinaal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamiops phasma",
+    "SpecCode": "59455",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamiops springeri",
+    "SpecCode": "67099",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

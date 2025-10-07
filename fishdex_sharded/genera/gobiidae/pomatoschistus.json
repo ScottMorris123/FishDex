@@ -1,0 +1,138 @@
+[
+  {
+    "ScientificName": "Pomatoschistus anatoliae",
+    "SpecCode": "68670",
+    "CommonName": "Anatolian goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus bathi",
+    "SpecCode": "9187",
+    "CommonName": "Bath-Grundel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus flavescens",
+    "SpecCode": "74",
+    "CommonName": "Babka czarnoplamka",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus knerii",
+    "SpecCode": "9189",
+    "CommonName": "Ghiozzetto del giglio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus lozanoi",
+    "SpecCode": "9190",
+    "CommonName": "Gobie de Lozano",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus marmoratus",
+    "SpecCode": "9191",
+    "CommonName": "Ghiozzetto marmarizzato",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus microps",
+    "SpecCode": "1344",
+    "CommonName": "An mac siobháin lubhir",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus minutus",
+    "SpecCode": "1345",
+    "CommonName": "Babka mala",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus montenegrensis",
+    "SpecCode": "63745",
+    "CommonName": "Burdullaku i Shkodrës",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus nanus",
+    "SpecCode": "68671",
+    "CommonName": "Pygmaean goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus norvegicus",
+    "SpecCode": "1346",
+    "CommonName": "Dystubb",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus pictus",
+    "SpecCode": "1347",
+    "CommonName": "Babka pisana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus quagga",
+    "SpecCode": "9192",
+    "CommonName": "Ghiozzetto quagga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pomatoschistus tortonesei",
+    "SpecCode": "9193",
+    "CommonName": "Ghiozzetto di faro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

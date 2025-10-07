@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Anoplagonus inermis",
+    "SpecCode": "4155",
+    "CommonName": "Glat krokodilleulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anoplagonus occidentalis",
+    "SpecCode": "24010",
+    "CommonName": "Nise-nametokubire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

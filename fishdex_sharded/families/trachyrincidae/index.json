@@ -1,0 +1,27 @@
+{
+  "Family": "Trachyrincidae",
+  "Order": "Gadiformes",
+  "Common": "Armoured grenadiers",
+  "Genera": [
+    {
+      "Genus": "Idiolophorhynchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trachyrincidae/idiolophorhynchus.json"
+    },
+    {
+      "Genus": "Macrouroides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trachyrincidae/macrouroides.json"
+    },
+    {
+      "Genus": "Squalogadus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/trachyrincidae/squalogadus.json"
+    },
+    {
+      "Genus": "Trachyrincus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/trachyrincidae/trachyrincus.json"
+    }
+  ]
+}

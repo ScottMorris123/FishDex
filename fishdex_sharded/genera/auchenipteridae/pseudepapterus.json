@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pseudepapterus cucuhyensis",
+    "SpecCode": "47655",
+    "CommonName": "巴西拟翼项鳍鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudepapterus gracilis",
+    "SpecCode": "58199",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudepapterus hasemani",
+    "SpecCode": "47656",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

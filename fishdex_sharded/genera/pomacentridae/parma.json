@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Parma alboscapularis",
+    "SpecCode": "12465",
+    "CommonName": "Black angelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parma bicolor",
+    "SpecCode": "12467",
+    "CommonName": "Bicolor parma",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parma kermadecensis",
+    "SpecCode": "12468",
+    "CommonName": "Kermadec scalyfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parma mccullochi",
+    "SpecCode": "12469",
+    "CommonName": "Common scalyfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parma microlepis",
+    "SpecCode": "12470",
+    "CommonName": "White-ear",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parma occidentalis",
+    "SpecCode": "12471",
+    "CommonName": "Western scalyfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parma oligolepis",
+    "SpecCode": "10239",
+    "CommonName": "Big-scale parma",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parma polylepis",
+    "SpecCode": "6619",
+    "CommonName": "Banded parma",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parma unifasciata",
+    "SpecCode": "12473",
+    "CommonName": "Girdled parma",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parma victoriae",
+    "SpecCode": "12474",
+    "CommonName": "Common scalyfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Chaudhuria caudata",
+    "SpecCode": "12025",
+    "CommonName": "Birma tšaudhuuria",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaudhuria fusipinnis",
+    "SpecCode": "57780",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaudhuria ritvae",
+    "SpecCode": "65748",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

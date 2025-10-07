@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Satanoperca acuticeps",
+    "SpecCode": "12313",
+    "CommonName": "Acará bicudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satanoperca daemon",
+    "SpecCode": "12319",
+    "CommonName": "Acarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satanoperca jurupari",
+    "SpecCode": "11168",
+    "CommonName": "Acará bicudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satanoperca leucosticta",
+    "SpecCode": "47522",
+    "CommonName": "Timanttitonkija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satanoperca lilith",
+    "SpecCode": "52203",
+    "CommonName": "Noitatonkija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satanoperca mapiritensis",
+    "SpecCode": "57779",
+    "CommonName": "Helmipäätonkija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satanoperca pappaterra",
+    "SpecCode": "57778",
+    "CommonName": "Acará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satanoperca rhynchitis",
+    "SpecCode": "66554",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

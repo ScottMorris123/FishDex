@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Skiffia bilineata",
+    "SpecCode": "11950",
+    "CommonName": "Blackfin goodeid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Skiffia francesae",
+    "SpecCode": "6242",
+    "CommonName": "Frances Hochlandkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Skiffia lermae",
+    "SpecCode": "46444",
+    "CommonName": "Oliivitoka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Skiffia multipunctata",
+    "SpecCode": "11951",
+    "CommonName": "Laikkutoka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

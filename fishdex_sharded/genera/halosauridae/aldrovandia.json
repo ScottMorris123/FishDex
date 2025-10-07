@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Aldrovandia affinis",
+    "SpecCode": "7502",
+    "CommonName": "Aldrovandie obecná",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aldrovandia gracilis",
+    "SpecCode": "9009",
+    "CommonName": "Aldrovandie olejnatá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aldrovandia mediorostris",
+    "SpecCode": "59483",
+    "CommonName": "Keskmine aldrovandia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aldrovandia oleosa",
+    "SpecCode": "9011",
+    "CommonName": "Abura-tokagegisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aldrovandia phalacra",
+    "SpecCode": "9012",
+    "CommonName": "Aldrovandie azorská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aldrovandia rostrata",
+    "SpecCode": "9013",
+    "CommonName": "Aldrovandie nosatá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

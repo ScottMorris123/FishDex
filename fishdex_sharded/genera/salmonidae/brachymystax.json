@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Brachymystax lenok",
+    "SpecCode": "2079",
+    "CommonName": "Byit",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachymystax savinovi",
+    "SpecCode": "46541",
+    "CommonName": "Sortplettet lenok",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachymystax tumensis",
+    "SpecCode": "63398",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

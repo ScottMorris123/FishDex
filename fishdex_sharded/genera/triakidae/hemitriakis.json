@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Hemitriakis abdita",
+    "SpecCode": "53941",
+    "CommonName": "Darksnout houndshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitriakis complicofasciata",
+    "SpecCode": "63785",
+    "CommonName": "Kiri-lahitshai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitriakis falcata",
+    "SpecCode": "53943",
+    "CommonName": "Sicklefin hound shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitriakis indroyonoi",
+    "SpecCode": "64928",
+    "CommonName": "Indoneesia lahitshai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitriakis japanica",
+    "SpecCode": "5926",
+    "CommonName": "Cazón japonés",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemitriakis leucoperiptera",
+    "SpecCode": "5927",
+    "CommonName": "Cazón de aleta blanca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

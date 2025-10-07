@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Cociella crocodilus",
+    "SpecCode": "7895",
+    "CommonName": "Baji buaya",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cociella heemstrai",
+    "SpecCode": "52914",
+    "CommonName": "希氏鰐鯒",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cociella hutchinsi",
+    "SpecCode": "15171",
+    "CommonName": "Brownmargin flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cociella punctata",
+    "SpecCode": "15197",
+    "CommonName": "Baji tanda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cociella somaliensis",
+    "SpecCode": "52913",
+    "CommonName": "索馬里鰐鯒",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

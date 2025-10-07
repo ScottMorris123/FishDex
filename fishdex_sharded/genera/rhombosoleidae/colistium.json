@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Colistium guentheri",
+    "SpecCode": "12955",
+    "CommonName": "Brill",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Colistium nudipinnis",
+    "SpecCode": "12958",
+    "CommonName": "Neuseeländischer Steinbutt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

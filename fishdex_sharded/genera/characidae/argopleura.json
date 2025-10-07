@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Argopleura chocoensis",
+    "SpecCode": "53407",
+    "CommonName": "Galocha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argopleura conventus",
+    "SpecCode": "53408",
+    "CommonName": "Galocha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argopleura diquensis",
+    "SpecCode": "53409",
+    "CommonName": "Galocha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Argopleura magdalenensis",
+    "SpecCode": "53410",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

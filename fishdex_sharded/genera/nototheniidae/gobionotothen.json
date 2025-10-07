@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Gobionotothen acuta",
+    "SpecCode": "7040",
+    "CommonName": "Bocasse triangulaire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionotothen angustifrons",
+    "SpecCode": "59655",
+    "CommonName": "Bocasse obtuse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionotothen barsukovi",
+    "SpecCode": "59310",
+    "CommonName": "巴氏鮈南极鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionotothen gibberifrons",
+    "SpecCode": "7041",
+    "CommonName": "Antarktichesky bychok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionotothen marionensis",
+    "SpecCode": "7042",
+    "CommonName": "Bocassette de Marion",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

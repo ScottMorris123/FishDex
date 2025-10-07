@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Prionurus biafraensis",
+    "SpecCode": "4944",
+    "CommonName": "Asno cota",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionurus chrysurus",
+    "SpecCode": "59451",
+    "CommonName": "Indonesian sawtail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionurus laticlavius",
+    "SpecCode": "13417",
+    "CommonName": "Barberbladskirurgfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionurus maculatus",
+    "SpecCode": "12625",
+    "CommonName": "Gulplettet savkirurgfisk",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionurus microlepidotus",
+    "SpecCode": "12626",
+    "CommonName": "Australian sawtail",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionurus punctatus",
+    "SpecCode": "13419",
+    "CommonName": "Barbero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionurus scalprum",
+    "SpecCode": "9231",
+    "CommonName": "Nizadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

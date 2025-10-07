@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Apionichthys dumerili",
+    "SpecCode": "8150",
+    "CommonName": "Alumaïa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apionichthys finis",
+    "SpecCode": "57102",
+    "CommonName": "Flounder",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apionichthys menezesi",
+    "SpecCode": "62028",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apionichthys nattereri",
+    "SpecCode": "57091",
+    "CommonName": "Aramaçá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apionichthys rosai",
+    "SpecCode": "62027",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apionichthys sauli",
+    "SpecCode": "62030",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apionichthys seripierriae",
+    "SpecCode": "62029",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

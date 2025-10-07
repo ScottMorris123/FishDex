@@ -1,0 +1,22 @@
+{
+  "Family": "Fundulidae",
+  "Order": "Cyprinodontiformes",
+  "Common": "Topminnows and killifishes",
+  "Genera": [
+    {
+      "Genus": "Fundulus",
+      "SpeciesCount": 40,
+      "genus_path": "genera/fundulidae/fundulus.json"
+    },
+    {
+      "Genus": "Leptolucania",
+      "SpeciesCount": 1,
+      "genus_path": "genera/fundulidae/leptolucania.json"
+    },
+    {
+      "Genus": "Lucania",
+      "SpeciesCount": 3,
+      "genus_path": "genera/fundulidae/lucania.json"
+    }
+  ]
+}

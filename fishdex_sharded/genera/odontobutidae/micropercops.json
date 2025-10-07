@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Micropercops borealis",
+    "SpecCode": "60438",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropercops cinctus",
+    "SpecCode": "4695",
+    "CommonName": "Mustapäätorkkuja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropercops dabryi",
+    "SpecCode": "61795",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropercops hotayensis",
+    "SpecCode": "66051",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropercops swinhonis",
+    "SpecCode": "68232",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

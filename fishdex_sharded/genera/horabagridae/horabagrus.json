@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Horabagrus brachysoma",
+    "SpecCode": "13296",
+    "CommonName": "Günther's catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Horabagrus melanosoma",
+    "SpecCode": "67210",
+    "CommonName": "Black Horabagrus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Horabagrus nigricollaris",
+    "SpecCode": "54297",
+    "CommonName": "Kauluskeisarimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

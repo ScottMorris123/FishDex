@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Sinilabeo binhluensis",
+    "SpecCode": "62830",
+    "CommonName": "Vietnami idanarmak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinilabeo cirrhinoides",
+    "SpecCode": "56298",
+    "CommonName": "Labeo třásnité",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinilabeo hummeli",
+    "SpecCode": "62849",
+    "CommonName": "Hummeli idanarmak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sinilabeo longibarbatus",
+    "SpecCode": "59927",
+    "CommonName": "Guizhou idanarmak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

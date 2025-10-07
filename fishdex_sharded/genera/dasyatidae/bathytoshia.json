@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Bathytoshia brevicaudata",
+    "SpecCode": "6381",
+    "CommonName": "Cow stingray",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytoshia centroura",
+    "SpecCode": "2572",
+    "CommonName": "Akanthotrygona",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathytoshia lata",
+    "SpecCode": "27065",
+    "CommonName": "Black skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

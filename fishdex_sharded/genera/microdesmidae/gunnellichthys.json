@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Gunnellichthys copleyi",
+    "SpecCode": "59623",
+    "CommonName": "Copley's wormfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gunnellichthys curiosus",
+    "SpecCode": "12677",
+    "CommonName": "Curious wormfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gunnellichthys grandoculis",
+    "SpecCode": "60861",
+    "CommonName": "副拟鰕虎鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gunnellichthys irideus",
+    "SpecCode": "60865",
+    "CommonName": "長腹鳚鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gunnellichthys monostigma",
+    "SpecCode": "12678",
+    "CommonName": "Black-spot worm goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gunnellichthys pleurotaenia",
+    "SpecCode": "7587",
+    "CommonName": "Black-lined worm goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gunnellichthys viridescens",
+    "SpecCode": "13769",
+    "CommonName": "Orange-line worm goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

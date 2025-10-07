@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Chiloconger dentatus",
+    "SpecCode": "13605",
+    "CommonName": "Congrio de labio grueso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloconger philippinensis",
+    "SpecCode": "61515",
+    "CommonName": "Filipiini juppangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "ScientificName": "Serranus accraensis",
+    "SpecCode": "5028",
+    "CommonName": "Ghanean comber",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus aequidens",
+    "SpecCode": "50095",
+    "CommonName": "Deepwater serrano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus aliceae",
+    "SpecCode": "67805",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus annularis",
+    "SpecCode": "3342",
+    "CommonName": "Orangeback bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus atricauda",
+    "SpecCode": "14418",
+    "CommonName": "Blacktail comber",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus atrobranchus",
+    "SpecCode": "3343",
+    "CommonName": "Blackear bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus baldwini",
+    "SpecCode": "3344",
+    "CommonName": "Baldwini kiviahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus cabrilla",
+    "SpecCode": "1353",
+    "CommonName": "Abborrkilling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus chionaraia",
+    "SpecCode": "3345",
+    "CommonName": "Serrano Nevado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus drewesi",
+    "SpecCode": "68804",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus flaviventris",
+    "SpecCode": "12339",
+    "CommonName": "Jacundá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus hepatus",
+    "SpecCode": "14419",
+    "CommonName": "Afanecada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus heterurus",
+    "SpecCode": "61273",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus huascarii",
+    "SpecCode": "50096",
+    "CommonName": "Camotillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus inexpectatus",
+    "SpecCode": "68805",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus luciopercanus",
+    "SpecCode": "57917",
+    "CommonName": "Crosshatch Bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus maytagi",
+    "SpecCode": "57920",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus notospilus",
+    "SpecCode": "3346",
+    "CommonName": "Saddle bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus novemcinctus",
+    "SpecCode": "16881",
+    "CommonName": "Balk-klipkabeljou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus phoebe",
+    "SpecCode": "3347",
+    "CommonName": "Diana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus psittacinus",
+    "SpecCode": "14298",
+    "CommonName": "Barred serrano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus pulcher",
+    "SpecCode": "68148",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus sanctaehelenae",
+    "SpecCode": "13807",
+    "CommonName": "Deepwater Brown Mullet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus scriba",
+    "SpecCode": "1761",
+    "CommonName": "Alecrim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus socorroensis",
+    "SpecCode": "46537",
+    "CommonName": "Serrano de Socorro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus stilbostigma",
+    "SpecCode": "58757",
+    "CommonName": "Camotillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus subligarius",
+    "SpecCode": "3348",
+    "CommonName": "Belted Sandfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus tabacarius",
+    "SpecCode": "3349",
+    "CommonName": "Bout de tabac",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus tico",
+    "SpecCode": "65899",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus tigrinus",
+    "SpecCode": "3350",
+    "CommonName": "Guatacare rayao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Serranus tortugarum",
+    "SpecCode": "3351",
+    "CommonName": "Chalk bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

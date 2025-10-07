@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Brachaelurus colcloughi",
+    "SpecCode": "5893",
+    "CommonName": "Blågrå tæppehaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachaelurus waddi",
+    "SpecCode": "5892",
+    "CommonName": "Blind haj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

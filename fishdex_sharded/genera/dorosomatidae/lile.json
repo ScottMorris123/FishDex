@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Lile gracilis",
+    "SpecCode": "13794",
+    "CommonName": "Graceful herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lile nigrofasciata",
+    "SpecCode": "61357",
+    "CommonName": "Blackstripe herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lile piquitinga",
+    "SpecCode": "1528",
+    "CommonName": "Atlandi troopikaheeringas",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lile stolifera",
+    "SpecCode": "1529",
+    "CommonName": "Harengule piquitinga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Rectoris longibarbus",
+    "SpecCode": "67470",
+    "CommonName": "Poisur-sirgsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rectoris longifinus",
+    "SpecCode": "62461",
+    "CommonName": "Pikkuim-sirgsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rectoris luxiensis",
+    "SpecCode": "55398",
+    "CommonName": "Gara sečuánská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rectoris mutabilis",
+    "SpecCode": "55346",
+    "CommonName": "Muutlik sirgsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rectoris posehensis",
+    "SpecCode": "14452",
+    "CommonName": "Gara posehenská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

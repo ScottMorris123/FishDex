@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Meganthias carpenteri",
+    "SpecCode": "64591",
+    "CommonName": "Yellowtop Jewelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meganthias filiferus",
+    "SpecCode": "65656",
+    "CommonName": "Filamentous anthiine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meganthias kingyo",
+    "SpecCode": "57812",
+    "CommonName": "Itoman-okingyo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meganthias natalensis",
+    "SpecCode": "7923",
+    "CommonName": "Garoupa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

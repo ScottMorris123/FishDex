@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Parachondrostoma arrigonis",
+    "SpecCode": "46385",
+    "CommonName": "Júcari kraapsuu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachondrostoma miegii",
+    "SpecCode": "62725",
+    "CommonName": "Ebro nase",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachondrostoma toxostoma",
+    "SpecCode": "4477",
+    "CommonName": "Ancon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parachondrostoma turiense",
+    "SpecCode": "51798",
+    "CommonName": "Madrija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

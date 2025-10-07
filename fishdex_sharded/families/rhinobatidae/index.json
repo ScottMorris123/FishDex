@@ -1,0 +1,27 @@
+{
+  "Family": "Rhinobatidae",
+  "Order": "Rhinopristiformes",
+  "Common": "Guitarfishes",
+  "Genera": [
+    {
+      "Genus": "Acroteriobatus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/rhinobatidae/acroteriobatus.json"
+    },
+    {
+      "Genus": "Pseudobatos",
+      "SpeciesCount": 9,
+      "genus_path": "genera/rhinobatidae/pseudobatos.json"
+    },
+    {
+      "Genus": "Rhinobatos",
+      "SpeciesCount": 20,
+      "genus_path": "genera/rhinobatidae/rhinobatos.json"
+    },
+    {
+      "Genus": "Tarsistes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/rhinobatidae/tarsistes.json"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Family": "Artedidraconidae",
+  "Order": "Perciformes/Notothenioidei",
+  "Common": "Barbled plunderfishes",
+  "Genera": [
+    {
+      "Genus": "Artedidraco",
+      "SpeciesCount": 5,
+      "genus_path": "genera/artedidraconidae/artedidraco.json"
+    },
+    {
+      "Genus": "Dolloidraco",
+      "SpeciesCount": 1,
+      "genus_path": "genera/artedidraconidae/dolloidraco.json"
+    },
+    {
+      "Genus": "Histiodraco",
+      "SpeciesCount": 1,
+      "genus_path": "genera/artedidraconidae/histiodraco.json"
+    },
+    {
+      "Genus": "Neodraco",
+      "SpeciesCount": 2,
+      "genus_path": "genera/artedidraconidae/neodraco.json"
+    },
+    {
+      "Genus": "Pogonophryne",
+      "SpeciesCount": 27,
+      "genus_path": "genera/artedidraconidae/pogonophryne.json"
+    }
+  ]
+}

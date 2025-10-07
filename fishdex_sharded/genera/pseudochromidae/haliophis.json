@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Haliophis aethiopus",
+    "SpecCode": "4427",
+    "CommonName": "Bali eelblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haliophis diademus",
+    "SpecCode": "26999",
+    "CommonName": "Stars-and-stripes snakelet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Haliophis guttatus",
+    "SpecCode": "4428",
+    "CommonName": "African eel blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

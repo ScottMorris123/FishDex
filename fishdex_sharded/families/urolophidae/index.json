@@ -1,0 +1,22 @@
+{
+  "Family": "Urolophidae",
+  "Order": "Myliobatiformes",
+  "Common": "Round rays",
+  "Genera": [
+    {
+      "Genus": "Spinilophus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/urolophidae/spinilophus.json"
+    },
+    {
+      "Genus": "Trygonoptera",
+      "SpeciesCount": 6,
+      "genus_path": "genera/urolophidae/trygonoptera.json"
+    },
+    {
+      "Genus": "Urolophus",
+      "SpeciesCount": 21,
+      "genus_path": "genera/urolophidae/urolophus.json"
+    }
+  ]
+}

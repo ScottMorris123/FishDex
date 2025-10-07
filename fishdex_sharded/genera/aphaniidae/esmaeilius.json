@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Esmaeilius darabensis",
+    "SpecCode": "67327",
+    "CommonName": "Kapour-e-dandandare-e-Kol",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esmaeilius isfahanensis",
+    "SpecCode": "63021",
+    "CommonName": "Kapourdandan-e Isfahan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esmaeilius persicus",
+    "SpecCode": "55335",
+    "CommonName": "Farsi tooth-carp",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esmaeilius shirini",
+    "SpecCode": "67393",
+    "CommonName": "Gormahi Shirin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esmaeilius sophiae",
+    "SpecCode": "49469",
+    "CommonName": "Arak tooth-carp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Esmaeilius vladykovi",
+    "SpecCode": "49470",
+    "CommonName": "Gormahi Veladykov",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

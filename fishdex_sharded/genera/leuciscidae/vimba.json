@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Vimba elongata",
+    "SpecCode": "63044",
+    "CommonName": "Doonau vimb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vimba melanops",
+    "SpecCode": "9951",
+    "CommonName": "Macedonian vimba",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vimba mirabilis",
+    "SpecCode": "55439",
+    "CommonName": "Anatoolia oralatik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Vimba vimba",
+    "SpecCode": "6375",
+    "CommonName": "Almindelig vimme",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

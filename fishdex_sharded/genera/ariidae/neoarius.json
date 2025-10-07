@@ -1,0 +1,52 @@
+[
+  {
+    "ScientificName": "Neoarius berneyi",
+    "SpecCode": "22589",
+    "CommonName": "Berney's catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoarius graeffei",
+    "SpecCode": "22590",
+    "CommonName": "Barooloo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoarius hainesi",
+    "SpecCode": "60007",
+    "CommonName": "Ridged catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoarius midgleyi",
+    "SpecCode": "22597",
+    "CommonName": "Lake Argyle catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoarius pectoralis",
+    "SpecCode": "60005",
+    "CommonName": "Sawspine catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

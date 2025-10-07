@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Rhinoraja kujiensis",
+    "SpecCode": "22571",
+    "CommonName": "Appelbuikrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinoraja longicauda",
+    "SpecCode": "22574",
+    "CommonName": "Onagakasube",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhinoraja odai",
+    "SpecCode": "22576",
+    "CommonName": "Oda ninarai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

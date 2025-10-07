@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Xenotoca doadrioi",
+    "SpecCode": "68708",
+    "CommonName": "Orangehalet splitfinne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenotoca eiseni",
+    "SpecCode": "11953",
+    "CommonName": "Eisens-Kärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenotoca lyonsi",
+    "SpecCode": "68709",
+    "CommonName": "Rødhalet splitfinne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenotoca melanosoma",
+    "SpecCode": "11954",
+    "CommonName": "Black splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenotoca variata",
+    "SpecCode": "11955",
+    "CommonName": "Jeweled splitfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

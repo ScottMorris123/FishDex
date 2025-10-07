@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Pegasus lancifer",
+    "SpecCode": "4610",
+    "CommonName": "Dragonfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pegasus laternarius",
+    "SpecCode": "4608",
+    "CommonName": "Belalang karang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pegasus tetrabelos",
+    "SpecCode": "68652",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pegasus volitans",
+    "SpecCode": "4609",
+    "CommonName": "Belalang karang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

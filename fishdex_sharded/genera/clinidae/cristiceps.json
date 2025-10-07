@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Cristiceps argyropleura",
+    "SpecCode": "51516",
+    "CommonName": "Crested weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cristiceps aurantiacus",
+    "SpecCode": "46998",
+    "CommonName": "Crested weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cristiceps australis",
+    "SpecCode": "51515",
+    "CommonName": "Crested weedfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

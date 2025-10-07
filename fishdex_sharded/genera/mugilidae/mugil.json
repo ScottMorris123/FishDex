@@ -1,0 +1,168 @@
+[
+  {
+    "ScientificName": "Mugil bananensis",
+    "SpecCode": "4995",
+    "CommonName": "Banana mullet",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil brevirostris",
+    "SpecCode": "67996",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil broussonnetii",
+    "SpecCode": "15782",
+    "CommonName": "Broussonnet's mullet",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil capurrii",
+    "SpecCode": "13017",
+    "CommonName": "Afrikansk multe",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil cephalus",
+    "SpecCode": "785",
+    "CommonName": "Aalder",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil curema",
+    "SpecCode": "1086",
+    "CommonName": "Aaldu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil curvidens",
+    "SpecCode": "1087",
+    "CommonName": "Dværgmulte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil galapagensis",
+    "SpecCode": "46584",
+    "CommonName": "Galapagos mullet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil hospes",
+    "SpecCode": "1088",
+    "CommonName": "Hospe Mullet",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil incilis",
+    "SpecCode": "1089",
+    "CommonName": "Aarder",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil liza",
+    "SpecCode": "1090",
+    "CommonName": "Blueback mullet",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil longicauda",
+    "SpecCode": "67669",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil margaritae",
+    "SpecCode": "67995",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil rubrioculus",
+    "SpecCode": "63515",
+    "CommonName": "Lisa Conejo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil setosus",
+    "SpecCode": "13832",
+    "CommonName": "Lisa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil thoburni",
+    "SpecCode": "13830",
+    "CommonName": "Lisa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mugil trichodon",
+    "SpecCode": "14701",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

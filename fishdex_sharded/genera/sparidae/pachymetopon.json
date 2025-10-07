@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pachymetopon aeneum",
+    "SpecCode": "5999",
+    "CommonName": "Blou hottentot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachymetopon blochii",
+    "SpecCode": "5505",
+    "CommonName": "Hotentote",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachymetopon grande",
+    "SpecCode": "5532",
+    "CommonName": "Blå hottentot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

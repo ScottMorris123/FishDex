@@ -1,0 +1,47 @@
+{
+  "Family": "Triglidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Searobins",
+  "Genera": [
+    {
+      "Genus": "Bellator",
+      "SpeciesCount": 8,
+      "genus_path": "genera/triglidae/bellator.json"
+    },
+    {
+      "Genus": "Bovitrigla",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triglidae/bovitrigla.json"
+    },
+    {
+      "Genus": "Chelidonichthys",
+      "SpeciesCount": 10,
+      "genus_path": "genera/triglidae/chelidonichthys.json"
+    },
+    {
+      "Genus": "Eutrigla",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triglidae/eutrigla.json"
+    },
+    {
+      "Genus": "Lepidotrigla",
+      "SpeciesCount": 57,
+      "genus_path": "genera/triglidae/lepidotrigla.json"
+    },
+    {
+      "Genus": "Prionotus",
+      "SpeciesCount": 23,
+      "genus_path": "genera/triglidae/prionotus.json"
+    },
+    {
+      "Genus": "Pterygotrigla",
+      "SpeciesCount": 28,
+      "genus_path": "genera/triglidae/pterygotrigla.json"
+    },
+    {
+      "Genus": "Trigla",
+      "SpeciesCount": 1,
+      "genus_path": "genera/triglidae/trigla.json"
+    }
+  ]
+}

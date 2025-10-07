@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Synagrops bellus",
+    "SpecCode": "3311",
+    "CommonName": "Blackmouth Bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synagrops japonicus",
+    "SpecCode": "357",
+    "CommonName": "Blackmouth splitfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Sebastapistes ballieui",
+    "SpecCode": "7779",
+    "CommonName": "Poopa'a",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes coniorta",
+    "SpecCode": "7776",
+    "CommonName": "Humpback nohu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes cyanostigma",
+    "SpecCode": "5811",
+    "CommonName": "Coral scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes fowleri",
+    "SpecCode": "5821",
+    "CommonName": "Dwarf scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes galactacma",
+    "SpecCode": "5812",
+    "CommonName": "Galactacma scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes mauritiana",
+    "SpecCode": "5813",
+    "CommonName": "Mauritius scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes nuchalis",
+    "SpecCode": "52966",
+    "CommonName": "Skorpios Souez",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes perplexa",
+    "SpecCode": "69303",
+    "CommonName": "Akamadara-fusakasago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes strongia",
+    "SpecCode": "5814",
+    "CommonName": "Balkken-skerpioenvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes taeniophrys",
+    "SpecCode": "64891",
+    "CommonName": "Eyebrow scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sebastapistes tinkhami",
+    "SpecCode": "16869",
+    "CommonName": "Darkspotted scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

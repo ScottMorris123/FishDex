@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Phaeoptyx conklini",
+    "SpecCode": "3536",
+    "CommonName": "Cardenal pecoso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phaeoptyx pigmentaria",
+    "SpecCode": "3537",
+    "CommonName": "Cardeal-pintado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phaeoptyx xenus",
+    "SpecCode": "3538",
+    "CommonName": "Cardenal esponjero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

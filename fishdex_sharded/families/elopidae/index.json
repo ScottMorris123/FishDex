@@ -1,0 +1,12 @@
+{
+  "Family": "Elopidae",
+  "Order": "Elopiformes",
+  "Common": "Tenpounders",
+  "Genera": [
+    {
+      "Genus": "Elops",
+      "SpeciesCount": 7,
+      "genus_path": "genera/elopidae/elops.json"
+    }
+  ]
+}

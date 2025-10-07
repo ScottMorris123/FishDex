@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Gouania adriatica",
+    "SpecCode": "69435",
+    "CommonName": "Adriatic blunt-snouted clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gouania hofrichteri",
+    "SpecCode": "69438",
+    "CommonName": "Hofrichter's clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gouania orientalis",
+    "SpecCode": "69436",
+    "CommonName": "Oriental blunt-snouted clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gouania pigra",
+    "SpecCode": "69439",
+    "CommonName": "Piglet sucker",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gouania willdenowi",
+    "SpecCode": "50846",
+    "CommonName": "Blunt-snouted clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

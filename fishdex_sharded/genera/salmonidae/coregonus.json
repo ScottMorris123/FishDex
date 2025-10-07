@@ -1,0 +1,734 @@
+[
+  {
+    "ScientificName": "Coregonus albellus",
+    "SpecCode": "49197",
+    "CommonName": "Brienzlig",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus albula",
+    "SpecCode": "231",
+    "CommonName": "Albuli",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus alpenae",
+    "SpecCode": "60806",
+    "CommonName": "Chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus alpinus",
+    "SpecCode": "49199",
+    "CommonName": "Kropfer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus anaulorum",
+    "SpecCode": "63072",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus arenicolus",
+    "SpecCode": "49208",
+    "CommonName": "Bodensee Sandfelchen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus artedi",
+    "SpecCode": "235",
+    "CommonName": "Agone americano",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus atterensis",
+    "SpecCode": "49217",
+    "CommonName": "Reinanke",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus austriacus",
+    "SpecCode": "65594",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus autumnalis",
+    "SpecCode": "2669",
+    "CommonName": "Anma",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus baerii",
+    "SpecCode": "65313",
+    "CommonName": "Volkhov whitefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus baicalensis",
+    "SpecCode": "48350",
+    "CommonName": "Baikal whitefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus baunti",
+    "SpecCode": "62750",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus bavaricus",
+    "SpecCode": "49219",
+    "CommonName": "Ammersee kilch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus bezola",
+    "SpecCode": "49191",
+    "CommonName": "Bezoule",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus candidus",
+    "SpecCode": "49193",
+    "CommonName": "Bondelle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus chadary",
+    "SpecCode": "12549",
+    "CommonName": "Chadary whitefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus clupeaformis",
+    "SpecCode": "234",
+    "CommonName": "Ameerika siig",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus clupeoides",
+    "SpecCode": "49276",
+    "CommonName": "Powan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus confusus",
+    "SpecCode": "49194",
+    "CommonName": "Pfärrig",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus danneri",
+    "SpecCode": "49235",
+    "CommonName": "Riedling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus duplex",
+    "SpecCode": "65592",
+    "CommonName": "Grundler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus fatioi",
+    "SpecCode": "49200",
+    "CommonName": "Albock",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus fera",
+    "SpecCode": "5475",
+    "CommonName": "Adelfelchen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus fontanae",
+    "SpecCode": "62042",
+    "CommonName": "Stechlin cisco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus gutturosus",
+    "SpecCode": "49211",
+    "CommonName": "Kilch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus heglingus",
+    "SpecCode": "49206",
+    "CommonName": "Albeli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus hiemalis",
+    "SpecCode": "49192",
+    "CommonName": "Geneve-sik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus hoferi",
+    "SpecCode": "49236",
+    "CommonName": "Schwebrenke",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus holsatus",
+    "SpecCode": "65595",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus hoyi",
+    "SpecCode": "2670",
+    "CommonName": "Bloater",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus huntsmani",
+    "SpecCode": "6207",
+    "CommonName": "Acadian whitefish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus johannae",
+    "SpecCode": "2671",
+    "CommonName": "Deepwater cisco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus kiletz",
+    "SpecCode": "65381",
+    "CommonName": "Kiletz",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus kiyi",
+    "SpecCode": "2672",
+    "CommonName": "Kiyi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus ladogae",
+    "SpecCode": "65113",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus laurettae",
+    "SpecCode": "46941",
+    "CommonName": "Anmaglak",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus lavaretus",
+    "SpecCode": "232",
+    "CommonName": "(обыкновенный) сиг",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus lucinensis",
+    "SpecCode": "49271",
+    "CommonName": "Kleine Maräne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus lutokka",
+    "SpecCode": "64639",
+    "CommonName": "Лудога май канаты",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus macrophthalmus",
+    "SpecCode": "28065",
+    "CommonName": "Albuli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus maraena",
+    "SpecCode": "48236",
+    "CommonName": "Älvsik",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus maraenoides",
+    "SpecCode": "65602",
+    "CommonName": "Peipsi whitefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus maxillaris",
+    "SpecCode": "49240",
+    "CommonName": "Storsik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus megalops",
+    "SpecCode": "48234",
+    "CommonName": "Blåsik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus migratorius",
+    "SpecCode": "4788",
+    "CommonName": "Arctic cisco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus muksun",
+    "SpecCode": "12547",
+    "CommonName": "Kolezen",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus nasus",
+    "SpecCode": "2674",
+    "CommonName": "aanaakliq",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus nelsonii",
+    "SpecCode": "10113",
+    "CommonName": "Alaska whitefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus nigripinnis",
+    "SpecCode": "2675",
+    "CommonName": "Blackfin Cisco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus nilssoni",
+    "SpecCode": "48246",
+    "CommonName": "Edelmaräne",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus nipigon",
+    "SpecCode": "66107",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus nobilis",
+    "SpecCode": "49201",
+    "CommonName": "Edelfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus oxyrinchus",
+    "SpecCode": "233",
+    "CommonName": "Älvsik",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus palaea",
+    "SpecCode": "49195",
+    "CommonName": "Palée",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus pallasii",
+    "SpecCode": "48240",
+    "CommonName": "Aspsik",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus peled",
+    "SpecCode": "4687",
+    "CommonName": "Coregono",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus pennantii",
+    "SpecCode": "49284",
+    "CommonName": "Gwyniad",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus pidschian",
+    "SpecCode": "2676",
+    "CommonName": "Bottom Whitefish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus pollan",
+    "SpecCode": "4646",
+    "CommonName": "Coregono-das-ilhas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus pravdinellus",
+    "SpecCode": "63071",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus reighardi",
+    "SpecCode": "2677",
+    "CommonName": "Chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus renke",
+    "SpecCode": "49238",
+    "CommonName": "Starnberger Renke",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus restrictus",
+    "SpecCode": "49196",
+    "CommonName": "Férit",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus sardinella",
+    "SpecCode": "2678",
+    "CommonName": "Amagiak",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus stigmaticus",
+    "SpecCode": "49288",
+    "CommonName": "Schelly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus subautumnalis",
+    "SpecCode": "48215",
+    "CommonName": "Penzhina omul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus suidteri",
+    "SpecCode": "49203",
+    "CommonName": "Balchen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus trybomi",
+    "SpecCode": "49269",
+    "CommonName": "Spring spawning cisco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus tugun",
+    "SpecCode": "12540",
+    "CommonName": "Lena tugun",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus ussuriensis",
+    "SpecCode": "12548",
+    "CommonName": "Amur whitefish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus vandesius",
+    "SpecCode": "49290",
+    "CommonName": "Vendace",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus vessicus",
+    "SpecCode": "65614",
+    "CommonName": "Beloye cisco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus wartmanni",
+    "SpecCode": "49212",
+    "CommonName": "Balchen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus widegreni",
+    "SpecCode": "48137",
+    "CommonName": "Kryazhevoi sig",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus zenithicus",
+    "SpecCode": "2679",
+    "CommonName": "Cisco à mâchoires égales",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus zuerichensis",
+    "SpecCode": "49207",
+    "CommonName": "Albeli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coregonus zugensis",
+    "SpecCode": "49204",
+    "CommonName": "Albeli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

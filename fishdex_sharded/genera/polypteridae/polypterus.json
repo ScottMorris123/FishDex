@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Polypterus ansorgii",
+    "SpecCode": "5005",
+    "CommonName": "Adagba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus bichir",
+    "SpecCode": "5020",
+    "CommonName": "Abshire",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus congicus",
+    "SpecCode": "10818",
+    "CommonName": "Djokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus delhezi",
+    "SpecCode": "8116",
+    "CommonName": "Barred bichir",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus endlicherii",
+    "SpecCode": "2385",
+    "CommonName": "Abshire",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus mokelembembe",
+    "SpecCode": "62584",
+    "CommonName": "Saurus-hulkuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus ornatipinnis",
+    "SpecCode": "8115",
+    "CommonName": "Bichir pruhoploutvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus palmas",
+    "SpecCode": "2386",
+    "CommonName": "Bichir šedý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus polli",
+    "SpecCode": "51589",
+    "CommonName": "Boonga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus retropinnis",
+    "SpecCode": "2387",
+    "CommonName": "Bichir alimský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus senegalus",
+    "SpecCode": "5024",
+    "CommonName": "Abshir",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus teugelsi",
+    "SpecCode": "61725",
+    "CommonName": "Akwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polypterus weeksii",
+    "SpecCode": "8114",
+    "CommonName": "Bichir weeksův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

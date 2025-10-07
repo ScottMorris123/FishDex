@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Amphistichus argenteus",
+    "SpecCode": "3622",
+    "CommonName": "Barred surfperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphistichus koelzi",
+    "SpecCode": "3623",
+    "CommonName": "Calico surfperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphistichus rhodoterus",
+    "SpecCode": "3624",
+    "CommonName": "Perca",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

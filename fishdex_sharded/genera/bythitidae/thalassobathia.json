@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Thalassobathia nelsoni",
+    "SpecCode": "55190",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thalassobathia pelagica",
+    "SpecCode": "9004",
+    "CommonName": "Drumbur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

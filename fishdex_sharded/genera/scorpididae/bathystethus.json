@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bathystethus cultratus",
+    "SpecCode": "12676",
+    "CommonName": "Grey knifefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathystethus orientale",
+    "SpecCode": "55307",
+    "CommonName": "Matiro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

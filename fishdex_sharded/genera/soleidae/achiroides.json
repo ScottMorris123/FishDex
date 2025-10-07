@@ -1,0 +1,24 @@
+[
+  {
+    "ScientificName": "Achiroides leucorhynchos",
+    "SpecCode": "25162",
+    "CommonName": "Lidah cerah",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Achiroides melanorhynchus",
+    "SpecCode": "25164",
+    "CommonName": "Ikan lidah",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

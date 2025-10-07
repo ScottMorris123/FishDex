@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Typhleotris madagascariensis",
+    "SpecCode": "10026",
+    "CommonName": "馬達加斯加盲塘鱧",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Typhleotris mararybe",
+    "SpecCode": "67079",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Typhleotris pauliani",
+    "SpecCode": "10027",
+    "CommonName": "波氏盲塘鱧",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ancherythroculter daovantieni",
+    "SpecCode": "61170",
+    "CommonName": "Lammi-helmessilm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancherythroculter kurematsui",
+    "SpecCode": "54739",
+    "CommonName": "Kulter Kurematsův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancherythroculter lini",
+    "SpecCode": "56024",
+    "CommonName": "Kulter Linův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancherythroculter nigrocauda",
+    "SpecCode": "56023",
+    "CommonName": "Kulter černoocasý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancherythroculter wangi",
+    "SpecCode": "56022",
+    "CommonName": "Kulter Wangův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Triakis acutipinna",
+    "SpecCode": "5946",
+    "CommonName": "Scherpvinluipaardhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triakis maculata",
+    "SpecCode": "5947",
+    "CommonName": "Cazón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triakis megalopterus",
+    "SpecCode": "5948",
+    "CommonName": "Gevlekte luipaardhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triakis scyllium",
+    "SpecCode": "5949",
+    "CommonName": "Banded houndshark",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triakis semifasciata",
+    "SpecCode": "2543",
+    "CommonName": "Leopard shark",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

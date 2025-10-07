@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Neoepinnula americana",
+    "SpecCode": "8479",
+    "CommonName": "American sackfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoepinnula minetomai",
+    "SpecCode": "69332",
+    "CommonName": "Erabu-sumiyaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoepinnula orientalis",
+    "SpecCode": "3906",
+    "CommonName": "Dómine chico",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

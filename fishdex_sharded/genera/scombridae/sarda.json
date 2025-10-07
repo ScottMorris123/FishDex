@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Sarda australis",
+    "SpecCode": "112",
+    "CommonName": "Austraalia pelamiid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarda chiliensis",
+    "SpecCode": "113",
+    "CommonName": "Aguadito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarda lineolata",
+    "SpecCode": "4796",
+    "CommonName": "Alaska-bonito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarda orientalis",
+    "SpecCode": "114",
+    "CommonName": "Agtun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarda sarda",
+    "SpecCode": "115",
+    "CommonName": "Al rsela",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

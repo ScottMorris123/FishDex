@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Proeutropiichthys buchanani",
+    "SpecCode": "60626",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Proeutropiichthys macropthalmos",
+    "SpecCode": "24783",
+    "CommonName": "Burmese taakree",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Proeutropiichthys taakree",
+    "SpecCode": "13350",
+    "CommonName": "Halathi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

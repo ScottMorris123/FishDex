@@ -1,0 +1,206 @@
+[
+  {
+    "ScientificName": "Polydactylus approximans",
+    "SpecCode": "3680",
+    "CommonName": "Aguapuro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus bifurcus",
+    "SpecCode": "58605",
+    "CommonName": "Barbure svelte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus longipes",
+    "SpecCode": "58741",
+    "CommonName": "Barbudo de dedos largos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus luparensis",
+    "SpecCode": "65390",
+    "CommonName": "Gemian",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus macrochir",
+    "SpecCode": "6427",
+    "CommonName": "Barbudo de manos grandes",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus macrophthalmus",
+    "SpecCode": "14526",
+    "CommonName": "Barbudo de rio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus malagasyensis",
+    "SpecCode": "58568",
+    "CommonName": "African blackspot threadfin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus microstoma",
+    "SpecCode": "10355",
+    "CommonName": "Akin-akin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus mullani",
+    "SpecCode": "58582",
+    "CommonName": "Arabian blackspot threadfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus multiradiatus",
+    "SpecCode": "4492",
+    "CommonName": "Australian threadfin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus nigripinnis",
+    "SpecCode": "10839",
+    "CommonName": "Barbudo de aletas negras",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus octonemus",
+    "SpecCode": "1110",
+    "CommonName": "Atlantic threadfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus oligodon",
+    "SpecCode": "1111",
+    "CommonName": "Barbado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus opercularis",
+    "SpecCode": "3681",
+    "CommonName": "Barbeta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus persicus",
+    "SpecCode": "58576",
+    "CommonName": "Barbudo de mancha negra persa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus plebeius",
+    "SpecCode": "7901",
+    "CommonName": "Ambanivava,",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus quadrifilis",
+    "SpecCode": "5002",
+    "CommonName": "Asan",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus sexfilis",
+    "SpecCode": "6416",
+    "CommonName": "Atkaru",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus sextarius",
+    "SpecCode": "4470",
+    "CommonName": "Andraigogo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus siamensis",
+    "SpecCode": "58335",
+    "CommonName": "Barbudo rayado de boca grande",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polydactylus virginicus",
+    "SpecCode": "1112",
+    "CommonName": "Barbado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

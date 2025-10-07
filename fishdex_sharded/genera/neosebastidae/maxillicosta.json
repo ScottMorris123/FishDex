@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Maxillicosta lopholepis",
+    "SpecCode": "52307",
+    "CommonName": "Bigeye gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maxillicosta meridianus",
+    "SpecCode": "62984",
+    "CommonName": "Southern gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maxillicosta raoulensis",
+    "SpecCode": "28230",
+    "CommonName": "Red little gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maxillicosta reticulata",
+    "SpecCode": "56290",
+    "CommonName": "網紋大頜新鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maxillicosta scabriceps",
+    "SpecCode": "14310",
+    "CommonName": "Little gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maxillicosta whitleyi",
+    "SpecCode": "14311",
+    "CommonName": "Whitley's gurnard perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

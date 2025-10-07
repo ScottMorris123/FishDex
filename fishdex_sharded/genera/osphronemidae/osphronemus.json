@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Osphronemus exodon",
+    "SpecCode": "26871",
+    "CommonName": "Elefantøregurami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osphronemus goramy",
+    "SpecCode": "498",
+    "CommonName": "Giant gourami",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osphronemus laticlavius",
+    "SpecCode": "16572",
+    "CommonName": "Giant red tail gourami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Osphronemus septemfasciatus",
+    "SpecCode": "25130",
+    "CommonName": "Borneo-kæmpegurami",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

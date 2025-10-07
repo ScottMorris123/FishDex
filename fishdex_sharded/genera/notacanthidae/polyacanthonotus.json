@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Polyacanthonotus africanus",
+    "SpecCode": "9024",
+    "CommonName": "Aafrika kammselg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyacanthonotus challengeri",
+    "SpecCode": "6956",
+    "CommonName": "Longnose tapirfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyacanthonotus merretti",
+    "SpecCode": "52719",
+    "CommonName": "Merretti kammselg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyacanthonotus rissoanus",
+    "SpecCode": "15804",
+    "CommonName": "Fjölbroddabakur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

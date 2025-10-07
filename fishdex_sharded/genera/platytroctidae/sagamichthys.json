@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Sagamichthys abei",
+    "SpecCode": "5198",
+    "CommonName": "Haname-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sagamichthys gracilis",
+    "SpecCode": "59110",
+    "CommonName": "細相模肩燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sagamichthys schnakenbecki",
+    "SpecCode": "11461",
+    "CommonName": "Bryndla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

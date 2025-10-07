@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Opostomias micripnus",
+    "SpecCode": "16704",
+    "CommonName": "Obese dragonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opostomias mitsuii",
+    "SpecCode": "22848",
+    "CommonName": "Mitsui-hoshi-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

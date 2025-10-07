@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Facciolella castlei",
+    "SpecCode": "55064",
+    "CommonName": "Štíhlohlavec castleův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Facciolella equatorialis",
+    "SpecCode": "58721",
+    "CommonName": "Anguila bruja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Facciolella gilbertii",
+    "SpecCode": "2620",
+    "CommonName": "Anguila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Facciolella karrerae",
+    "SpecCode": "58715",
+    "CommonName": "Karreri haniangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Facciolella oxyrhynchus",
+    "SpecCode": "9071",
+    "CommonName": "Čarobni patkokljunić",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Facciolella saurencheloides",
+    "SpecCode": "15596",
+    "CommonName": "Sisal-haniangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

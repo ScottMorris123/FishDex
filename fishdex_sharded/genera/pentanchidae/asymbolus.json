@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Asymbolus analis",
+    "SpecCode": "788",
+    "CommonName": "Austraalia täpikhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asymbolus funebris",
+    "SpecCode": "57511",
+    "CommonName": "Blotched catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asymbolus galacticus",
+    "SpecCode": "64155",
+    "CommonName": "Chien étoilé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asymbolus occiduus",
+    "SpecCode": "57514",
+    "CommonName": "Lääneaustraalia täpikhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asymbolus pallidus",
+    "SpecCode": "57515",
+    "CommonName": "Kahvatu täpikhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asymbolus parvus",
+    "SpecCode": "57513",
+    "CommonName": "Dwarf catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asymbolus rubiginosus",
+    "SpecCode": "57547",
+    "CommonName": "Máčka oranžovoskvrnitá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asymbolus submaculatus",
+    "SpecCode": "57512",
+    "CommonName": "Kirev täpikhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asymbolus vincenti",
+    "SpecCode": "789",
+    "CommonName": "Chien tasmanien",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

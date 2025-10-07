@@ -1,0 +1,70 @@
+[
+  {
+    "ScientificName": "Aplocheilus blockii",
+    "SpecCode": "55289",
+    "CommonName": "Green panchax",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplocheilus dayi",
+    "SpecCode": "10939",
+    "CommonName": "Ceylon killifish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplocheilus kirchmayeri",
+    "SpecCode": "49483",
+    "CommonName": "基氏鰕鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplocheilus lineatus",
+    "SpecCode": "4690",
+    "CommonName": "Choottan",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplocheilus panchax",
+    "SpecCode": "4756",
+    "CommonName": "Bale ulu timah",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplocheilus parvus",
+    "SpecCode": "11287",
+    "CommonName": "Dwarf panchax",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aplocheilus werneri",
+    "SpecCode": "25301",
+    "CommonName": "Iri handeya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

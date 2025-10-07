@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Neochanna apoda",
+    "SpecCode": "12250",
+    "CommonName": "Brauner Hechtling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neochanna burrowsius",
+    "SpecCode": "5378",
+    "CommonName": "Canterbury mudfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neochanna cleaveri",
+    "SpecCode": "7576",
+    "CommonName": "Cleaver's mud-trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neochanna diversus",
+    "SpecCode": "6206",
+    "CommonName": "Black mudfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neochanna heleios",
+    "SpecCode": "59938",
+    "CommonName": "Northland mudfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neochanna rekohua",
+    "SpecCode": "53171",
+    "CommonName": "Chathams Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

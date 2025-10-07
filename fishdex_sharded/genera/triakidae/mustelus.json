@@ -1,0 +1,247 @@
+[
+  {
+    "ScientificName": "Mustelus albipinnis",
+    "SpecCode": "63798",
+    "CommonName": "Cazón hacat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus andamanensis",
+    "SpecCode": "69482",
+    "CommonName": "Andaman smoothhound",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus antarcticus",
+    "SpecCode": "5943",
+    "CommonName": "Antarktisk glathaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus asterias",
+    "SpecCode": "5938",
+    "CommonName": "An scoirneach ballach",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus californicus",
+    "SpecCode": "2538",
+    "CommonName": "Californisk hundhaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus canis",
+    "SpecCode": "2539",
+    "CommonName": "Agbloloe",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus dorsalis",
+    "SpecCode": "5940",
+    "CommonName": "Cazón blanco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus fasciatus",
+    "SpecCode": "5944",
+    "CommonName": "Cação-estriado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus griseus",
+    "SpecCode": "5931",
+    "CommonName": "Cá Nhám tro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus henlei",
+    "SpecCode": "2540",
+    "CommonName": "Brown smooth hound",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus higmani",
+    "SpecCode": "5932",
+    "CommonName": "Cação",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus lenticulatus",
+    "SpecCode": "5933",
+    "CommonName": "Brakwatertoonhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus lunulatus",
+    "SpecCode": "2541",
+    "CommonName": "Cazón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus manazo",
+    "SpecCode": "5941",
+    "CommonName": "Bái bān xī shā",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus mento",
+    "SpecCode": "5934",
+    "CommonName": "Emissole fine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus minicanis",
+    "SpecCode": "50772",
+    "CommonName": "Dwergtoonhaai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus mosis",
+    "SpecCode": "5942",
+    "CommonName": "Arabian smooth hound",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus mustelus",
+    "SpecCode": "4996",
+    "CommonName": "Adi köpekbalığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus norrisi",
+    "SpecCode": "2542",
+    "CommonName": "Ahasuim-kärphai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus palumbes",
+    "SpecCode": "5935",
+    "CommonName": "Emissole palombe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus punctulatus",
+    "SpecCode": "5936",
+    "CommonName": "Benekli köpekbalığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus ravidus",
+    "SpecCode": "63600",
+    "CommonName": "Australian grey smooth-hound",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus schmitti",
+    "SpecCode": "5937",
+    "CommonName": "Argentinsk hundhaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus sinusmexicanus",
+    "SpecCode": "50773",
+    "CommonName": "Cazón del Golfo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus stevensi",
+    "SpecCode": "64108",
+    "CommonName": "Stevensi kärphai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus whitneyi",
+    "SpecCode": "5939",
+    "CommonName": "Emissole piruche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mustelus widodoi",
+    "SpecCode": "63788",
+    "CommonName": "White-fin smooth-hound",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

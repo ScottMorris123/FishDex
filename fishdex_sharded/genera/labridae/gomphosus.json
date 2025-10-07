@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Gomphosus caeruleus",
+    "SpecCode": "7744",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gomphosus varius",
+    "SpecCode": "5626",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Mascarenichthys heemstrai",
+    "SpecCode": "64484",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mascarenichthys microphthalmus",
+    "SpecCode": "64485",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mascarenichthys remotus",
+    "SpecCode": "66401",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

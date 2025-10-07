@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Iheringichthys labrosus",
+    "SpecCode": "48470",
+    "CommonName": "bagre trompudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iheringichthys megalops",
+    "SpecCode": "48471",
+    "CommonName": "大眼伊林油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iheringichthys syi",
+    "SpecCode": "66497",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

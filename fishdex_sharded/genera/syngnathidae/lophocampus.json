@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lophocampus brevidorsalis",
+    "SpecCode": "22468",
+    "CommonName": "Shortfin pipefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophocampus ocellatus",
+    "SpecCode": "11845",
+    "CommonName": "Ocellated pipefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lophocampus retzii",
+    "SpecCode": "7737",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

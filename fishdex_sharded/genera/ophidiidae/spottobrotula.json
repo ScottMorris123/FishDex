@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Spottobrotula mahodadi",
+    "SpecCode": "56381",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spottobrotula mossambica",
+    "SpecCode": "69112",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spottobrotula persica",
+    "SpecCode": "69113",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

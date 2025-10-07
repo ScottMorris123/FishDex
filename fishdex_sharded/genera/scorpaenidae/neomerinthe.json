@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Neomerinthe amplisquamiceps",
+    "SpecCode": "11662",
+    "CommonName": "Depu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe bauchotae",
+    "SpecCode": "57970",
+    "CommonName": "鮑氏新棘鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe beanorum",
+    "SpecCode": "48366",
+    "CommonName": "波多黎各新棘鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe erostris",
+    "SpecCode": "67257",
+    "CommonName": "Round scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe folgori",
+    "SpecCode": "10183",
+    "CommonName": "Folger's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe hemingwayi",
+    "SpecCode": "3930",
+    "CommonName": "Rascacio mejilla espinosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe kaufmani",
+    "SpecCode": "68344",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe megalepis",
+    "SpecCode": "10636",
+    "CommonName": "大鱗新棘鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe naevosa",
+    "SpecCode": "66750",
+    "CommonName": "Blotched Polynesian scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe pallidimacula",
+    "SpecCode": "59577",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe procurva",
+    "SpecCode": "10635",
+    "CommonName": "Curvedspine scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neomerinthe rufescens",
+    "SpecCode": "61173",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

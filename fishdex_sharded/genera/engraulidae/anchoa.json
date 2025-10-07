@@ -1,0 +1,341 @@
+[
+  {
+    "ScientificName": "Anchoa analis",
+    "SpecCode": "1666",
+    "CommonName": "Anchoa aletona",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa argentivittata",
+    "SpecCode": "1680",
+    "CommonName": "Anchoa de Reagan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa belizensis",
+    "SpecCode": "1681",
+    "CommonName": "Anchoa beliceña",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa cayorum",
+    "SpecCode": "1682",
+    "CommonName": "Anchoa de cayo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa chamensis",
+    "SpecCode": "1683",
+    "CommonName": "Anchoa de Punta Chame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa choerostoma",
+    "SpecCode": "1684",
+    "CommonName": "Bermuda anchovy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa colonensis",
+    "SpecCode": "1685",
+    "CommonName": "Anchoa banda estrecha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa compressa",
+    "SpecCode": "1686",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa cubana",
+    "SpecCode": "1687",
+    "CommonName": "Anchoa cubana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa curta",
+    "SpecCode": "279",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa delicatissima",
+    "SpecCode": "278",
+    "CommonName": "Anchoa delicada",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa eigenmannia",
+    "SpecCode": "280",
+    "CommonName": "Anchoa de Eigenmann",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa exigua",
+    "SpecCode": "1137",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa filifera",
+    "SpecCode": "926",
+    "CommonName": "Anchoa de hebra",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa helleri",
+    "SpecCode": "1689",
+    "CommonName": "Anchoa de Heller",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa hepsetus",
+    "SpecCode": "1133",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa ischana",
+    "SpecCode": "1127",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa januaria",
+    "SpecCode": "435",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa lamprotaenia",
+    "SpecCode": "1688",
+    "CommonName": "Anchoa ojona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa lucida",
+    "SpecCode": "931",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa lyolepis",
+    "SpecCode": "1132",
+    "CommonName": "Anchoa mulata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa marinii",
+    "SpecCode": "925",
+    "CommonName": "Aliche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa mitchilli",
+    "SpecCode": "545",
+    "CommonName": "Amerikansk ansjovis",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa mundeola",
+    "SpecCode": "730",
+    "CommonName": "Anchoa falsa de Panamá",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa mundeoloides",
+    "SpecCode": "570",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa nasus",
+    "SpecCode": "1163",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa panamensis",
+    "SpecCode": "534",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa parva",
+    "SpecCode": "535",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa pectoralis",
+    "SpecCode": "536",
+    "CommonName": "Bigfin anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa scofieldi",
+    "SpecCode": "537",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa spinifer",
+    "SpecCode": "538",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa starksi",
+    "SpecCode": "539",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa tricolor",
+    "SpecCode": "540",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa trinitatis",
+    "SpecCode": "541",
+    "CommonName": "Anchovy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoa walkeri",
+    "SpecCode": "542",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "ScientificName": "Morone americana",
+    "SpecCode": "355",
+    "CommonName": "Ameriški brancin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Morone chrysops",
+    "SpecCode": "3308",
+    "CommonName": "Bar blanc",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Morone mississippiensis",
+    "SpecCode": "3309",
+    "CommonName": "Barfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Morone saxatilis",
+    "SpecCode": "353",
+    "CommonName": "Bar d'Amérique",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

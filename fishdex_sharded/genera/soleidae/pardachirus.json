@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Pardachirus balius",
+    "SpecCode": "24429",
+    "CommonName": "Algen-Seezunge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pardachirus hedleyi",
+    "SpecCode": "52443",
+    "CommonName": "Southern peacock sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pardachirus marmoratus",
+    "SpecCode": "8917",
+    "CommonName": "Finless sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pardachirus morrowi",
+    "SpecCode": "7927",
+    "CommonName": "Língua carpete",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pardachirus pavoninus",
+    "SpecCode": "8271",
+    "CommonName": "Chondong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pardachirus poropterus",
+    "SpecCode": "11827",
+    "CommonName": "Estuary sole",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pardachirus rautheri",
+    "SpecCode": "69667",
+    "CommonName": "Mottled Sole",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

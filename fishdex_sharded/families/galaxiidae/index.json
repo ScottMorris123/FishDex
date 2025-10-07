@@ -1,0 +1,42 @@
+{
+  "Family": "Galaxiidae",
+  "Order": "Galaxiiformes",
+  "Common": "Galaxiids",
+  "Genera": [
+    {
+      "Genus": "Aplochiton",
+      "SpeciesCount": 3,
+      "genus_path": "genera/galaxiidae/aplochiton.json"
+    },
+    {
+      "Genus": "Brachygalaxias",
+      "SpeciesCount": 2,
+      "genus_path": "genera/galaxiidae/brachygalaxias.json"
+    },
+    {
+      "Genus": "Galaxias",
+      "SpeciesCount": 46,
+      "genus_path": "genera/galaxiidae/galaxias.json"
+    },
+    {
+      "Genus": "Galaxiella",
+      "SpeciesCount": 4,
+      "genus_path": "genera/galaxiidae/galaxiella.json"
+    },
+    {
+      "Genus": "Lovettia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/galaxiidae/lovettia.json"
+    },
+    {
+      "Genus": "Neochanna",
+      "SpeciesCount": 6,
+      "genus_path": "genera/galaxiidae/neochanna.json"
+    },
+    {
+      "Genus": "Paragalaxias",
+      "SpeciesCount": 4,
+      "genus_path": "genera/galaxiidae/paragalaxias.json"
+    }
+  ]
+}

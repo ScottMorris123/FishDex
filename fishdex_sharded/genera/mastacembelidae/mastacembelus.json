@@ -1,0 +1,570 @@
+[
+  {
+    "ScientificName": "Mastacembelus alboguttatus",
+    "SpecCode": "25282",
+    "CommonName": "白点刺鳅",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus albomaculatus",
+    "SpecCode": "10055",
+    "CommonName": "白斑非洲盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus ansorgii",
+    "SpecCode": "10073",
+    "CommonName": "安氏盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus apectoralis",
+    "SpecCode": "66038",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus armatus",
+    "SpecCode": "10140",
+    "CommonName": "Aasia kärsskala",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus aviceps",
+    "SpecCode": "10074",
+    "CommonName": "鳥首盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus brachyrhinus",
+    "SpecCode": "10076",
+    "CommonName": "短吻盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus brichardi",
+    "SpecCode": "10078",
+    "CommonName": "Blind snabelål",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus catchpolei",
+    "SpecCode": "10079",
+    "CommonName": "卡氏盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus congicus",
+    "SpecCode": "10056",
+    "CommonName": "Kongonpuikkokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus crassus",
+    "SpecCode": "10080",
+    "CommonName": "厚身盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus cryptacanthus",
+    "SpecCode": "10081",
+    "CommonName": "Nwong",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus cunningtoni",
+    "SpecCode": "10057",
+    "CommonName": "Gamba nioka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus dayi",
+    "SpecCode": "25283",
+    "CommonName": "戴氏刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus decorsei",
+    "SpecCode": "10082",
+    "CommonName": "Snake fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus dienbienensis",
+    "SpecCode": "65679",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus ellipsifer",
+    "SpecCode": "10058",
+    "CommonName": "不育非洲盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus erythrotaenia",
+    "SpecCode": "12026",
+    "CommonName": "Cá chachlua",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus favus",
+    "SpecCode": "26813",
+    "CommonName": "Dækmønstret snabelål",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus flavidus",
+    "SpecCode": "10059",
+    "CommonName": "Täpläpuikkokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus frenatus",
+    "SpecCode": "10060",
+    "CommonName": "East african spiny eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus greshoffi",
+    "SpecCode": "10085",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus kadeiensis",
+    "SpecCode": "69755",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus kakrimensis",
+    "SpecCode": "62305",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus latens",
+    "SpecCode": "10086",
+    "CommonName": "潛盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus liberiensis",
+    "SpecCode": "10087",
+    "CommonName": "利比里埃塞刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus loennbergii",
+    "SpecCode": "10088",
+    "CommonName": "Käärmepuikkokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus marchei",
+    "SpecCode": "10090",
+    "CommonName": "Ngwong",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus mastacembelus",
+    "SpecCode": "54832",
+    "CommonName": "Dikenli yılanbalığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus micropectus",
+    "SpecCode": "10061",
+    "CommonName": "細胸非洲盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus moorii",
+    "SpecCode": "10063",
+    "CommonName": "Kennopuikkokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus niger",
+    "SpecCode": "10092",
+    "CommonName": "Mukongo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus nigromarginatus",
+    "SpecCode": "10093",
+    "CommonName": "Djuéwô",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus notophthalmus",
+    "SpecCode": "25158",
+    "CommonName": "Harmaapuikkokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus oatesii",
+    "SpecCode": "25285",
+    "CommonName": "因莱湖刺鳅",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus ophidium",
+    "SpecCode": "10064",
+    "CommonName": "Käärmepuikkokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus pantherinus",
+    "SpecCode": "64218",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus paucispinis",
+    "SpecCode": "10094",
+    "CommonName": "少棘刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus plagiostomus",
+    "SpecCode": "10065",
+    "CommonName": "Satulapuikkokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus platysoma",
+    "SpecCode": "10066",
+    "CommonName": "扁体非洲盲刺鳅",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus polli",
+    "SpecCode": "62557",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus praensis",
+    "SpecCode": "12800",
+    "CommonName": "Ketjupuikkokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus reygeli",
+    "SpecCode": "65626",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus robertsi",
+    "SpecCode": "51576",
+    "CommonName": "劳氏埃塞刺鳅",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus sanagali",
+    "SpecCode": "10096",
+    "CommonName": "萨氏盲刺鳅",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus seiteri",
+    "SpecCode": "10098",
+    "CommonName": "塞氏盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus sexdecimspinus",
+    "SpecCode": "26648",
+    "CommonName": "六十棘埃塞刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus shiloangoensis",
+    "SpecCode": "61986",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus shiranus",
+    "SpecCode": "8378",
+    "CommonName": "Kopokopo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus simbi",
+    "SpecCode": "65624",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus strigiventus",
+    "SpecCode": "66086",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus taiaensis",
+    "SpecCode": "12769",
+    "CommonName": "太安盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus tanganicae",
+    "SpecCode": "10069",
+    "CommonName": "Tanganika-Stachelaal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus thacbaensis",
+    "SpecCode": "65731",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus tinwini",
+    "SpecCode": "64217",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus traversi",
+    "SpecCode": "46273",
+    "CommonName": "特氏埃塞刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus triolobus",
+    "SpecCode": "66087",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus trispinosus",
+    "SpecCode": "10070",
+    "CommonName": "三棘非洲盲刺鰍",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus ubangipaucispinis",
+    "SpecCode": "69754",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus undulatus",
+    "SpecCode": "65831",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus unicolor",
+    "SpecCode": "25160",
+    "CommonName": "Tilan kelokoi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus vanderwaali",
+    "SpecCode": "10071",
+    "CommonName": "Bont stekelpaling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mastacembelus zebratus",
+    "SpecCode": "10072",
+    "CommonName": "条纹非洲盲刺鳅",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

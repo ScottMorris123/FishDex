@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Enophrys bison",
+    "SpecCode": "4086",
+    "CommonName": "Bisonulk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enophrys diceraus",
+    "SpecCode": "4087",
+    "CommonName": "Antlered sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enophrys lucasi",
+    "SpecCode": "4088",
+    "CommonName": "Ahing-sarvnolgus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enophrys taurina",
+    "SpecCode": "4089",
+    "CommonName": "Bull sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

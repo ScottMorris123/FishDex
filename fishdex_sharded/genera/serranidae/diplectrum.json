@@ -1,0 +1,111 @@
+[
+  {
+    "ScientificName": "Diplectrum bivittatum",
+    "SpecCode": "3318",
+    "CommonName": "Aguavina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum conceptione",
+    "SpecCode": "50016",
+    "CommonName": "Cagua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum eumelum",
+    "SpecCode": "14230",
+    "CommonName": "Cagua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum euryplectrum",
+    "SpecCode": "14231",
+    "CommonName": "Bighead sand perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum formosum",
+    "SpecCode": "1203",
+    "CommonName": "Arenero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum labarum",
+    "SpecCode": "14232",
+    "CommonName": "Highfin sand perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum macropoma",
+    "SpecCode": "14244",
+    "CommonName": "Camatillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum maximum",
+    "SpecCode": "14233",
+    "CommonName": "Camotillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum pacificum",
+    "SpecCode": "14248",
+    "CommonName": "Guabina de piedra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum radiale",
+    "SpecCode": "7330",
+    "CommonName": "Aguavina",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum rostrum",
+    "SpecCode": "14234",
+    "CommonName": "Bridled sand perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplectrum sciurus",
+    "SpecCode": "14250",
+    "CommonName": "Gulf squirrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

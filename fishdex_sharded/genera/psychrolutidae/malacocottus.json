@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Malacocottus aleuticus",
+    "SpecCode": "50813",
+    "CommonName": "Aleuudi pehmehärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacocottus gibber",
+    "SpecCode": "23982",
+    "CommonName": "Sepparikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacocottus kincaidi",
+    "SpecCode": "4113",
+    "CommonName": "Blackfin sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacocottus zonurus",
+    "SpecCode": "11730",
+    "CommonName": "Bartail sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

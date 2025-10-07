@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Centrobranchus andreae",
+    "SpecCode": "7428",
+    "CommonName": "Andrea's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrobranchus brevirostris",
+    "SpecCode": "59760",
+    "CommonName": "Buta-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrobranchus choerocephalus",
+    "SpecCode": "59762",
+    "CommonName": "Nagahana-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrobranchus nigroocellatus",
+    "SpecCode": "11879",
+    "CommonName": "Lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

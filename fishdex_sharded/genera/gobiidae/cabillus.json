@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Cabillus atripelvicus",
+    "SpecCode": "63380",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabillus caudimacula",
+    "SpecCode": "63430",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabillus lacertops",
+    "SpecCode": "23692",
+    "CommonName": "Lizard cabillus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabillus macrophthalmus",
+    "SpecCode": "61334",
+    "CommonName": "Bigeye cabillus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabillus nigromarginatus",
+    "SpecCode": "70063",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabillus nigrostigmus",
+    "SpecCode": "70062",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabillus pexus",
+    "SpecCode": "67196",
+    "CommonName": "Kushi-yorime-haze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabillus tongarevae",
+    "SpecCode": "7252",
+    "CommonName": "Tail-bar cabillus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

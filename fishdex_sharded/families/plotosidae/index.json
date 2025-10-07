@@ -1,0 +1,57 @@
+{
+  "Family": "Plotosidae",
+  "Order": "Siluriformes",
+  "Common": "Eeltail catfishes",
+  "Genera": [
+    {
+      "Genus": "Anodontiglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/plotosidae/anodontiglanis.json"
+    },
+    {
+      "Genus": "Cnidoglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/plotosidae/cnidoglanis.json"
+    },
+    {
+      "Genus": "Euristhmus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/plotosidae/euristhmus.json"
+    },
+    {
+      "Genus": "Neosiluroides",
+      "SpeciesCount": 1,
+      "genus_path": "genera/plotosidae/neosiluroides.json"
+    },
+    {
+      "Genus": "Neosilurus",
+      "SpeciesCount": 11,
+      "genus_path": "genera/plotosidae/neosilurus.json"
+    },
+    {
+      "Genus": "Oloplotosus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/plotosidae/oloplotosus.json"
+    },
+    {
+      "Genus": "Paraplotosus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/plotosidae/paraplotosus.json"
+    },
+    {
+      "Genus": "Plotosus",
+      "SpeciesCount": 9,
+      "genus_path": "genera/plotosidae/plotosus.json"
+    },
+    {
+      "Genus": "Porochilus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/plotosidae/porochilus.json"
+    },
+    {
+      "Genus": "Tandanus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/plotosidae/tandanus.json"
+    }
+  ]
+}

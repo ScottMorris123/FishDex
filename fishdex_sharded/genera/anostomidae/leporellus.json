@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Leporellus cartledgei",
+    "SpecCode": "62859",
+    "CommonName": "Nordlig kaninlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporellus pictus",
+    "SpecCode": "53284",
+    "CommonName": "Boguita rayada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporellus retropinnis",
+    "SpecCode": "51370",
+    "CommonName": "Parana-kaninlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporellus vittatus",
+    "SpecCode": "13255",
+    "CommonName": "Gul kaninlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

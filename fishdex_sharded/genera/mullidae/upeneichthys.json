@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Upeneichthys lineatus",
+    "SpecCode": "13082",
+    "CommonName": "Aahuruhuru",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneichthys stotti",
+    "SpecCode": "58098",
+    "CommonName": "Stott's goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Upeneichthys vlamingii",
+    "SpecCode": "60919",
+    "CommonName": "Black-striped goatfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

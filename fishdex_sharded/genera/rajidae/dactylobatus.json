@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Dactylobatus armatus",
+    "SpecCode": "51857",
+    "CommonName": "Koekenpanrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactylobatus clarkii",
+    "SpecCode": "7608",
+    "CommonName": "Clarki sõrmikrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

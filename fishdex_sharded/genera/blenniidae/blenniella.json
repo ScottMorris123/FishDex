@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Blenniella bilitonensis",
+    "SpecCode": "7569",
+    "CommonName": "Biliton blenniella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blenniella caudolineata",
+    "SpecCode": "27178",
+    "CommonName": "Aotenginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blenniella chrysospilos",
+    "SpecCode": "6047",
+    "CommonName": "Blennie à taches rouges",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blenniella cyanostigma",
+    "SpecCode": "16946",
+    "CommonName": "Blue-spotted blenniella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blenniella gibbifrons",
+    "SpecCode": "7871",
+    "CommonName": "Bullethead rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blenniella interrupta",
+    "SpecCode": "27180",
+    "CommonName": "Dashed-line blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blenniella leopardus",
+    "SpecCode": "27181",
+    "CommonName": "Leopard blenniella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blenniella paula",
+    "SpecCode": "27183",
+    "CommonName": "Bluedash rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Blenniella periophthalmus",
+    "SpecCode": "6051",
+    "CommonName": "Blue-dashed rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

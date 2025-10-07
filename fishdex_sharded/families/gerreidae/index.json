@@ -1,0 +1,47 @@
+{
+  "Family": "Gerreidae",
+  "Order": "Eupercaria/misc",
+  "Common": "Mojarras",
+  "Genera": [
+    {
+      "Genus": "Deckertichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gerreidae/deckertichthys.json"
+    },
+    {
+      "Genus": "Diapterus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gerreidae/diapterus.json"
+    },
+    {
+      "Genus": "Eucinostomus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/gerreidae/eucinostomus.json"
+    },
+    {
+      "Genus": "Eugerres",
+      "SpeciesCount": 6,
+      "genus_path": "genera/gerreidae/eugerres.json"
+    },
+    {
+      "Genus": "Gerres",
+      "SpeciesCount": 28,
+      "genus_path": "genera/gerreidae/gerres.json"
+    },
+    {
+      "Genus": "Parequula",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gerreidae/parequula.json"
+    },
+    {
+      "Genus": "Pentaprion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gerreidae/pentaprion.json"
+    },
+    {
+      "Genus": "Ulaema",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gerreidae/ulaema.json"
+    }
+  ]
+}

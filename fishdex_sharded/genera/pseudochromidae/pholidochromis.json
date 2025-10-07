@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pholidochromis cerasina",
+    "SpecCode": "64805",
+    "CommonName": "Cherry dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pholidochromis marginatus",
+    "SpecCode": "27476",
+    "CommonName": "Margined dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

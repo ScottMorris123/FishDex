@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Auchenoglanis biscutatus",
+    "SpecCode": "5464",
+    "CommonName": "Buro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Auchenoglanis occidentalis",
+    "SpecCode": "2438",
+    "CommonName": "Armoured catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

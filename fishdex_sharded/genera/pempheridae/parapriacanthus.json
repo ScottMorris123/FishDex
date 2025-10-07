@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Parapriacanthus argenteus",
+    "SpecCode": "68448",
+    "CommonName": "Yellowhead sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus darros",
+    "SpecCode": "68450",
+    "CommonName": "D'Arros sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus dispar",
+    "SpecCode": "61107",
+    "CommonName": "Deep bullseye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus elongatus",
+    "SpecCode": "14387",
+    "CommonName": "Elongate bullseye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus guentheri",
+    "SpecCode": "68449",
+    "CommonName": "Egyptian sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus kwazulu",
+    "SpecCode": "68451",
+    "CommonName": "Kwazulu sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus marei",
+    "SpecCode": "61106",
+    "CommonName": "Redfin sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus punctulatus",
+    "SpecCode": "68452",
+    "CommonName": "Dotted sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus rahah",
+    "SpecCode": "68453",
+    "CommonName": "Rahah sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus ransonneti",
+    "SpecCode": "5803",
+    "CommonName": "Ammasabodi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapriacanthus sharm",
+    "SpecCode": "68454",
+    "CommonName": "Sharm sweeper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

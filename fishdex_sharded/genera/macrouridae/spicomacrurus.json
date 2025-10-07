@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Spicomacrurus adelscotti",
+    "SpecCode": "58892",
+    "CommonName": "Celebration whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicomacrurus dictyogadus",
+    "SpecCode": "66197",
+    "CommonName": "Net-throat grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicomacrurus kuronumai",
+    "SpecCode": "23181",
+    "CommonName": "Kuronuma's whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Spicomacrurus mccoskeri",
+    "SpecCode": "66198",
+    "CommonName": "McCosker's grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

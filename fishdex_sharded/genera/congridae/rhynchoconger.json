@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Rhynchoconger bicoloratus",
+    "SpecCode": "70499",
+    "CommonName": "Bicoloured longnose conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchoconger ectenurus",
+    "SpecCode": "22596",
+    "CommonName": "Kitsune-anago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchoconger flavus",
+    "SpecCode": "2628",
+    "CommonName": "Conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchoconger gracilior",
+    "SpecCode": "2629",
+    "CommonName": "Conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchoconger guppyi",
+    "SpecCode": "47178",
+    "CommonName": "Kariibi nokisangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchoconger nitens",
+    "SpecCode": "13624",
+    "CommonName": "Bignose conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchoconger randalli",
+    "SpecCode": "70500",
+    "CommonName": "Randall's conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchoconger smithi",
+    "SpecCode": "70501",
+    "CommonName": "Smith's longnose conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchoconger squaliceps",
+    "SpecCode": "58697",
+    "CommonName": "Bengali nokisangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchoconger trewavasae",
+    "SpecCode": "57764",
+    "CommonName": "Congre de Trewawas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

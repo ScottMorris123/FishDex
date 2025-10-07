@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Platygillellus altivelis",
+    "SpecCode": "46656",
+    "CommonName": "Sailfin stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platygillellus brasiliensis",
+    "SpecCode": "60676",
+    "CommonName": "Brazilian sand stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platygillellus bussingi",
+    "SpecCode": "46657",
+    "CommonName": "Bussing's stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platygillellus rubellulus",
+    "SpecCode": "51441",
+    "CommonName": "Kortfinnet stjernekiggerslimfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platygillellus rubrocinctus",
+    "SpecCode": "3701",
+    "CommonName": "Mirón barreado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platygillellus smithi",
+    "SpecCode": "50489",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Bothrocara brunneum",
+    "SpecCode": "11657",
+    "CommonName": "Botrokara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bothrocara elongatum",
+    "SpecCode": "48369",
+    "CommonName": "長身長孔綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bothrocara hollandi",
+    "SpecCode": "25013",
+    "CommonName": "Norogenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bothrocara molle",
+    "SpecCode": "24695",
+    "CommonName": "Longsnout eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bothrocara nyx",
+    "SpecCode": "62545",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bothrocara pusillum",
+    "SpecCode": "3130",
+    "CommonName": "Alaska eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bothrocara soldatovi",
+    "SpecCode": "61160",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bothrocara tanakae",
+    "SpecCode": "24984",
+    "CommonName": "Kantengenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

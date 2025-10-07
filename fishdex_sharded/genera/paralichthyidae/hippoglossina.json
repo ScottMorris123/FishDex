@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Hippoglossina bollmani",
+    "SpecCode": "13965",
+    "CommonName": "Lenguado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossina macrops",
+    "SpecCode": "13966",
+    "CommonName": "Bigeye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossina montemaris",
+    "SpecCode": "55127",
+    "CommonName": "小庸鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossina mystacium",
+    "SpecCode": "59551",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossina oblonga",
+    "SpecCode": "4229",
+    "CommonName": "American fourspot flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossina stomata",
+    "SpecCode": "4225",
+    "CommonName": "Bigmouth flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippoglossina tetrophthalma",
+    "SpecCode": "13967",
+    "CommonName": "Foureye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

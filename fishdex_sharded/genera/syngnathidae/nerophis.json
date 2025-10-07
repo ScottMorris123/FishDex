@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Nerophis lumbriciformis",
+    "SpecCode": "7629",
+    "CommonName": "Črvasto šilo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nerophis maculatus",
+    "SpecCode": "16311",
+    "CommonName": "Gefleckte Seenadel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nerophis ophidion",
+    "SpecCode": "1331",
+    "CommonName": "Agulleta serp",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

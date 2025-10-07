@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Dactylopus dactylopus",
+    "SpecCode": "8240",
+    "CommonName": "Bebaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dactylopus kuiteri",
+    "SpecCode": "60086",
+    "CommonName": "Kuiter's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Xiurenbagrus dorsalis",
+    "SpecCode": "67736",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xiurenbagrus gigas",
+    "SpecCode": "62168",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xiurenbagrus xiurenensis",
+    "SpecCode": "55079",
+    "CommonName": "修仁",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

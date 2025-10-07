@@ -1,0 +1,17 @@
+{
+  "Family": "Dactylopteridae",
+  "Order": "Dactylopteriformes",
+  "Common": "Flying gurnards",
+  "Genera": [
+    {
+      "Genus": "Dactyloptena",
+      "SpeciesCount": 6,
+      "genus_path": "genera/dactylopteridae/dactyloptena.json"
+    },
+    {
+      "Genus": "Dactylopterus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/dactylopteridae/dactylopterus.json"
+    }
+  ]
+}

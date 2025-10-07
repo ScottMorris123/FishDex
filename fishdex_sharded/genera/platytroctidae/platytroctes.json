@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Platytroctes apus",
+    "SpecCode": "11456",
+    "CommonName": "Gola ramenocevka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Platytroctes mirus",
+    "SpecCode": "11455",
+    "CommonName": "Leht-lamekala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

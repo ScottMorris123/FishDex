@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Congiopodus coriaceus",
+    "SpecCode": "47427",
+    "CommonName": "Deepsea pigfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congiopodus kieneri",
+    "SpecCode": "52697",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congiopodus leucopaecilus",
+    "SpecCode": "15152",
+    "CommonName": "Pigfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congiopodus peruvianus",
+    "SpecCode": "8398",
+    "CommonName": "Apachhi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congiopodus spinifer",
+    "SpecCode": "10689",
+    "CommonName": "Cacique hérisson",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congiopodus torvus",
+    "SpecCode": "10692",
+    "CommonName": "Cacique liso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

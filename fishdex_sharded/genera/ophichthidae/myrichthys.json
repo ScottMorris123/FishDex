@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Myrichthys aspetocheiros",
+    "SpecCode": "13914",
+    "CommonName": "Hadař tehuantepecký",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys breviceps",
+    "SpecCode": "2649",
+    "CommonName": "Culebra di wesu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys colubrinus",
+    "SpecCode": "8053",
+    "CommonName": "Anguille-serpent annelée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys maculosus",
+    "SpecCode": "2650",
+    "CommonName": "Anguille-serpent maculée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys magnificus",
+    "SpecCode": "58269",
+    "CommonName": "Hawaiian spotted snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys ocellatus",
+    "SpecCode": "2651",
+    "CommonName": "Aal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys paleracio",
+    "SpecCode": "66425",
+    "CommonName": "Peri's snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys pantostigmius",
+    "SpecCode": "59343",
+    "CommonName": "Clarion snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys pardalis",
+    "SpecCode": "9089",
+    "CommonName": "Cobra do mar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys tigrinus",
+    "SpecCode": "8298",
+    "CommonName": "Anguila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myrichthys xysturus",
+    "SpecCode": "53845",
+    "CommonName": "Hadař mazatlánský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Halieutopsis andriashevi",
+    "SpecCode": "58669",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutopsis bathyoreos",
+    "SpecCode": "55228",
+    "CommonName": "Hira-mushi-furyu-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutopsis galatea",
+    "SpecCode": "58673",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutopsis ingerorum",
+    "SpecCode": "58671",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutopsis margaretae",
+    "SpecCode": "63383",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutopsis nudiventer",
+    "SpecCode": "67508",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutopsis simula",
+    "SpecCode": "58664",
+    "CommonName": "准拟棘茄鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutopsis stellifera",
+    "SpecCode": "58663",
+    "CommonName": "少耙拟棘茄鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutopsis tumifrons",
+    "SpecCode": "58668",
+    "CommonName": "奇拟棘茄鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halieutopsis vermicularis",
+    "SpecCode": "58665",
+    "CommonName": "虫纹拟棘茄鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

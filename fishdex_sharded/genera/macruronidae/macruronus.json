@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Macruronus capensis",
+    "SpecCode": "1824",
+    "CommonName": "Bandstert",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macruronus maderensis",
+    "SpecCode": "60858",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macruronus magellanicus",
+    "SpecCode": "329",
+    "CommonName": "Argentiina piitsmerluus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macruronus novaezelandiae",
+    "SpecCode": "1825",
+    "CommonName": "Argentino",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

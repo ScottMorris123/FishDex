@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Corvula batabana",
+    "SpecCode": "1162",
+    "CommonName": "Barriga blanca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corvula macrops",
+    "SpecCode": "14101",
+    "CommonName": "Cococha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corvula sanctaeluciae",
+    "SpecCode": "1167",
+    "CommonName": "Corvina santa Lucía",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

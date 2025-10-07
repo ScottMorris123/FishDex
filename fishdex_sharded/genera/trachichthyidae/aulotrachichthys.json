@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Aulotrachichthys argyrophanus",
+    "SpecCode": "54106",
+    "CommonName": "Western luminous roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys atlanticus",
+    "SpecCode": "54104",
+    "CommonName": "Brazilian luminous roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys heptalepis",
+    "SpecCode": "54105",
+    "CommonName": "Hawaiian luminous roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys latus",
+    "SpecCode": "10641",
+    "CommonName": "Philippine luminous roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys novaezelandicus",
+    "SpecCode": "47486",
+    "CommonName": "New Zealand luminoua roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys nyx",
+    "SpecCode": "70400",
+    "CommonName": "Dark-night luminous roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys prosthemius",
+    "SpecCode": "23262",
+    "CommonName": "Haridashiebisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys pulsator",
+    "SpecCode": "54092",
+    "CommonName": "Golden roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys sajademalensis",
+    "SpecCode": "15652",
+    "CommonName": "Minami-haridashiebisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys spiralis",
+    "SpecCode": "70399",
+    "CommonName": "Nejitoge-haridashi-ebisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aulotrachichthys titan",
+    "SpecCode": "70398",
+    "CommonName": "Large-head luminous-roughy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

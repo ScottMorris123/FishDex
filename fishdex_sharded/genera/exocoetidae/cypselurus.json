@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Cypselurus angusticeps",
+    "SpecCode": "13690",
+    "CommonName": "Bangsi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus callopterus",
+    "SpecCode": "13691",
+    "CommonName": "Beautyfin flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus comatus",
+    "SpecCode": "1025",
+    "CommonName": "Belalang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus hexazona",
+    "SpecCode": "15362",
+    "CommonName": "Cá Chuồn",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus hiraii",
+    "SpecCode": "12986",
+    "CommonName": "Hoso-tobi-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus longibarbus",
+    "SpecCode": "67225",
+    "CommonName": "長鬚唇飛魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus naresii",
+    "SpecCode": "7726",
+    "CommonName": "Belalang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus oligolepis",
+    "SpecCode": "15365",
+    "CommonName": "Bangsi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus opisthopus",
+    "SpecCode": "5159",
+    "CommonName": "Aliponghok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus poecilopterus",
+    "SpecCode": "5122",
+    "CommonName": "Antoni",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus simus",
+    "SpecCode": "12966",
+    "CommonName": "Bangsi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cypselurus starksi",
+    "SpecCode": "23043",
+    "CommonName": "Ariake-tobi-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

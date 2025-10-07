@@ -1,0 +1,107 @@
+{
+  "Family": "Gastromyzontidae",
+  "Order": "Cypriniformes",
+  "Common": "Hillstream loaches",
+  "Genera": [
+    {
+      "Genus": "Annamia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gastromyzontidae/annamia.json"
+    },
+    {
+      "Genus": "Bashimyzon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gastromyzontidae/bashimyzon.json"
+    },
+    {
+      "Genus": "Beaufortia",
+      "SpeciesCount": 14,
+      "genus_path": "genera/gastromyzontidae/beaufortia.json"
+    },
+    {
+      "Genus": "Erromyzon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gastromyzontidae/erromyzon.json"
+    },
+    {
+      "Genus": "Formosania",
+      "SpeciesCount": 9,
+      "genus_path": "genera/gastromyzontidae/formosania.json"
+    },
+    {
+      "Genus": "Gastromyzon",
+      "SpeciesCount": 36,
+      "genus_path": "genera/gastromyzontidae/gastromyzon.json"
+    },
+    {
+      "Genus": "Glaniopsis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gastromyzontidae/glaniopsis.json"
+    },
+    {
+      "Genus": "Hypergastromyzon",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gastromyzontidae/hypergastromyzon.json"
+    },
+    {
+      "Genus": "Katibasia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gastromyzontidae/katibasia.json"
+    },
+    {
+      "Genus": "Liniparhomaloptera",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gastromyzontidae/liniparhomaloptera.json"
+    },
+    {
+      "Genus": "Neogastromyzon",
+      "SpeciesCount": 6,
+      "genus_path": "genera/gastromyzontidae/neogastromyzon.json"
+    },
+    {
+      "Genus": "Paraprotomyzon",
+      "SpeciesCount": 5,
+      "genus_path": "genera/gastromyzontidae/paraprotomyzon.json"
+    },
+    {
+      "Genus": "Parasewellia",
+      "SpeciesCount": 3,
+      "genus_path": "genera/gastromyzontidae/parasewellia.json"
+    },
+    {
+      "Genus": "Parhomaloptera",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gastromyzontidae/parhomaloptera.json"
+    },
+    {
+      "Genus": "Plesiomyzon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gastromyzontidae/plesiomyzon.json"
+    },
+    {
+      "Genus": "Protomyzon",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gastromyzontidae/protomyzon.json"
+    },
+    {
+      "Genus": "Pseudogastromyzon",
+      "SpeciesCount": 13,
+      "genus_path": "genera/gastromyzontidae/pseudogastromyzon.json"
+    },
+    {
+      "Genus": "Sewellia",
+      "SpeciesCount": 13,
+      "genus_path": "genera/gastromyzontidae/sewellia.json"
+    },
+    {
+      "Genus": "Vanmanenia",
+      "SpeciesCount": 24,
+      "genus_path": "genera/gastromyzontidae/vanmanenia.json"
+    },
+    {
+      "Genus": "Yaoshania",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gastromyzontidae/yaoshania.json"
+    }
+  ]
+}

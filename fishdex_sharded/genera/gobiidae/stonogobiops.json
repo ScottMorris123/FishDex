@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Stonogobiops dracula",
+    "SpecCode": "4308",
+    "CommonName": "Dracula shrimp-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stonogobiops larsonae",
+    "SpecCode": "59348",
+    "CommonName": "Larson's shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stonogobiops medon",
+    "SpecCode": "4309",
+    "CommonName": "中間連膜鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stonogobiops nematodes",
+    "SpecCode": "4312",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stonogobiops pentafasciatus",
+    "SpecCode": "27810",
+    "CommonName": "Kitsuneme-neji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stonogobiops xanthorhinicus",
+    "SpecCode": "4311",
+    "CommonName": "Nejirinbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stonogobiops yasha",
+    "SpecCode": "58585",
+    "CommonName": "Orange-striped shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

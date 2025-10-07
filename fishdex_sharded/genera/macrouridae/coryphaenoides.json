@@ -1,0 +1,596 @@
+[
+  {
+    "ScientificName": "Coryphaenoides acrolepis",
+    "SpecCode": "8467",
+    "CommonName": "Bulawnik szorstki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides affinis",
+    "SpecCode": "58837",
+    "CommonName": "安芬吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides alateralis",
+    "SpecCode": "58864",
+    "CommonName": "翼突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides altipinnis",
+    "SpecCode": "23628",
+    "CommonName": "Hokakedara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides anguliceps",
+    "SpecCode": "8470",
+    "CommonName": "Granadero anguloso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides ariommus",
+    "SpecCode": "8471",
+    "CommonName": "Humboldt grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides armatus",
+    "SpecCode": "5127",
+    "CommonName": "Abyssal Grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides asper",
+    "SpecCode": "23206",
+    "CommonName": "Zaradara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides asprellus",
+    "SpecCode": "52184",
+    "CommonName": "糙突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides boops",
+    "SpecCode": "13881",
+    "CommonName": "Granadero trompacorta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides brevibarbis",
+    "SpecCode": "27726",
+    "CommonName": "Grenadier à barbe courte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides bucephalus",
+    "SpecCode": "13882",
+    "CommonName": "Granadero de hocico angosto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides bulbiceps",
+    "SpecCode": "13886",
+    "CommonName": "Granadero ojón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides camurus",
+    "SpecCode": "52180",
+    "CommonName": "弯突吻鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides capito",
+    "SpecCode": "13887",
+    "CommonName": "Bighead grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides carapinus",
+    "SpecCode": "17066",
+    "CommonName": "Carapine grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides carminifer",
+    "SpecCode": "8472",
+    "CommonName": "Carmine grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides castaneus",
+    "SpecCode": "52216",
+    "CommonName": "粟色突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides cinereus",
+    "SpecCode": "8473",
+    "CommonName": "Ghost rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides delsolari",
+    "SpecCode": "8182",
+    "CommonName": "Granadero pichirrata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides dossenus",
+    "SpecCode": "58844",
+    "CommonName": "Humpback whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides dubius",
+    "SpecCode": "52182",
+    "CommonName": "擬突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides fernandezianus",
+    "SpecCode": "50077",
+    "CommonName": "Fernandez whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides ferrieri",
+    "SpecCode": "7133",
+    "CommonName": "Grenadier bleuté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides filamentosus",
+    "SpecCode": "23205",
+    "CommonName": "Hokuyô-sokodara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides filicauda",
+    "SpecCode": "7189",
+    "CommonName": "Granadero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides filifer",
+    "SpecCode": "24679",
+    "CommonName": "Filamented grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides grahami",
+    "SpecCode": "27055",
+    "CommonName": "Graham's whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides guentheri",
+    "SpecCode": "8176",
+    "CommonName": "Batxiller de Günther",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides gypsochilus",
+    "SpecCode": "59963",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides hextii",
+    "SpecCode": "52219",
+    "CommonName": "海氏突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides hoskynii",
+    "SpecCode": "52220",
+    "CommonName": "霍氏突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides lecointei",
+    "SpecCode": "7134",
+    "CommonName": "李氏線尾雪",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides leptolepis",
+    "SpecCode": "17101",
+    "CommonName": "Ghostly grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides liocephalus",
+    "SpecCode": "24968",
+    "CommonName": "Bearded rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides longicirrhus",
+    "SpecCode": "52230",
+    "CommonName": "長毛長尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides longifilis",
+    "SpecCode": "8474",
+    "CommonName": "Himodara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides macrolophus",
+    "SpecCode": "47158",
+    "CommonName": "大脊突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides marginatus",
+    "SpecCode": "8476",
+    "CommonName": "Amami grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides marshalli",
+    "SpecCode": "17059",
+    "CommonName": "馬氏突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides mcmillani",
+    "SpecCode": "27118",
+    "CommonName": "McMillan's whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides mediterraneus",
+    "SpecCode": "8175",
+    "CommonName": "Batxiller marca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides mexicanus",
+    "SpecCode": "8477",
+    "CommonName": "Mexican grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides microps",
+    "SpecCode": "16267",
+    "CommonName": "大眼突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides microstomus",
+    "SpecCode": "58849",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides murrayi",
+    "SpecCode": "46974",
+    "CommonName": "Abyssal rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides myersi",
+    "SpecCode": "13894",
+    "CommonName": "Granadero de Myers",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides nasutus",
+    "SpecCode": "8478",
+    "CommonName": "Hana-sokodara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides oreinos",
+    "SpecCode": "50076",
+    "CommonName": "浅色突吻鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides orthogrammus",
+    "SpecCode": "58853",
+    "CommonName": "直紋突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides paramarshalli",
+    "SpecCode": "52234",
+    "CommonName": "副馬氏突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides profundicolus",
+    "SpecCode": "17103",
+    "CommonName": "Deepwater grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides rudis",
+    "SpecCode": "16255",
+    "CommonName": "Bighead grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides rupestris",
+    "SpecCode": "332",
+    "CommonName": "Almindelig skolæst",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides semiscaber",
+    "SpecCode": "16270",
+    "CommonName": "半糙突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides serrulatus",
+    "SpecCode": "8480",
+    "CommonName": "Serrulate rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides sibogae",
+    "SpecCode": "58857",
+    "CommonName": "西宝突吻鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides soyoae",
+    "SpecCode": "68731",
+    "CommonName": "Black grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides spinulosus",
+    "SpecCode": "51987",
+    "CommonName": "棘突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides striaturus",
+    "SpecCode": "16772",
+    "CommonName": "Striate whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides subserrulatus",
+    "SpecCode": "8481",
+    "CommonName": "Four rayed rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides thelestomus",
+    "SpecCode": "17061",
+    "CommonName": "Roughlip grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides tydemani",
+    "SpecCode": "52222",
+    "CommonName": "泰氏突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides woodmasoni",
+    "SpecCode": "52229",
+    "CommonName": "伍氏突吻鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides yaquinae",
+    "SpecCode": "52233",
+    "CommonName": "Shinkaiyoroi-dara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryphaenoides zaniophorus",
+    "SpecCode": "8482",
+    "CommonName": "Slimhead grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

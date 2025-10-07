@@ -1,0 +1,32 @@
+{
+  "Family": "Istiophoridae",
+  "Order": "Carangiformes",
+  "Common": "Billfishes",
+  "Genera": [
+    {
+      "Genus": "Istiompax",
+      "SpeciesCount": 1,
+      "genus_path": "genera/istiophoridae/istiompax.json"
+    },
+    {
+      "Genus": "Istiophorus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/istiophoridae/istiophorus.json"
+    },
+    {
+      "Genus": "Kajikia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/istiophoridae/kajikia.json"
+    },
+    {
+      "Genus": "Makaira",
+      "SpeciesCount": 2,
+      "genus_path": "genera/istiophoridae/makaira.json"
+    },
+    {
+      "Genus": "Tetrapturus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/istiophoridae/tetrapturus.json"
+    }
+  ]
+}

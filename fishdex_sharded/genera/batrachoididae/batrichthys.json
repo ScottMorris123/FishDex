@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Batrichthys albofasciatus",
+    "SpecCode": "23160",
+    "CommonName": "White-ribbed toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Batrichthys apiatus",
+    "SpecCode": "23158",
+    "CommonName": "Slangkop-platannavis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

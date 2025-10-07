@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Acantopsis dialuzona",
+    "SpecCode": "23015",
+    "CommonName": "Banana fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acantopsis dinema",
+    "SpecCode": "68515",
+    "CommonName": "Peppered horseface loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acantopsis ioa",
+    "SpecCode": "68516",
+    "CommonName": "Slender horseface loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acantopsis multistigmatus",
+    "SpecCode": "62902",
+    "CommonName": "Kirju kärsshink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acantopsis octoactinotos",
+    "SpecCode": "23017",
+    "CommonName": "Sabahi kärsshink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acantopsis rungthipae",
+    "SpecCode": "68514",
+    "CommonName": "Piebald horseface loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acantopsis spectabilis",
+    "SpecCode": "66460",
+    "CommonName": "Kena kärsshink",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acantopsis thiemmedhi",
+    "SpecCode": "60780",
+    "CommonName": "Sekavec Thiemmendhův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

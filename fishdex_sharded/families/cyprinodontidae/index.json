@@ -1,0 +1,52 @@
+{
+  "Family": "Cyprinodontidae",
+  "Order": "Cyprinodontiformes",
+  "Common": "Pupfishes",
+  "Genera": [
+    {
+      "Genus": "Cualac",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyprinodontidae/cualac.json"
+    },
+    {
+      "Genus": "Cubanichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cyprinodontidae/cubanichthys.json"
+    },
+    {
+      "Genus": "Cyprinodon",
+      "SpeciesCount": 49,
+      "genus_path": "genera/cyprinodontidae/cyprinodon.json"
+    },
+    {
+      "Genus": "Floridichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/cyprinodontidae/floridichthys.json"
+    },
+    {
+      "Genus": "Garmanella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyprinodontidae/garmanella.json"
+    },
+    {
+      "Genus": "Jordanella",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyprinodontidae/jordanella.json"
+    },
+    {
+      "Genus": "Megupsilon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyprinodontidae/megupsilon.json"
+    },
+    {
+      "Genus": "Orestias",
+      "SpeciesCount": 45,
+      "genus_path": "genera/cyprinodontidae/orestias.json"
+    },
+    {
+      "Genus": "Pseudorestias",
+      "SpeciesCount": 1,
+      "genus_path": "genera/cyprinodontidae/pseudorestias.json"
+    }
+  ]
+}

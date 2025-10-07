@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Hemerorhinus heyningi",
+    "SpecCode": "61194",
+    "CommonName": "Molo nokisangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemerorhinus opici",
+    "SpecCode": "9086",
+    "CommonName": "Aafrika nokisangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

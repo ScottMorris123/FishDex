@@ -1,0 +1,430 @@
+[
+  {
+    "ScientificName": "Galaxias aequipinnis",
+    "SpecCode": "69413",
+    "CommonName": "East Gippsland Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias anomalus",
+    "SpecCode": "53170",
+    "CommonName": "Põikuv galaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias arcanus",
+    "SpecCode": "69414",
+    "CommonName": "Riffle Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias argenteus",
+    "SpecCode": "12245",
+    "CommonName": "Giant kokopu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias auratus",
+    "SpecCode": "7543",
+    "CommonName": "Golden Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias brevipinnis",
+    "SpecCode": "7544",
+    "CommonName": "Broad-finned galaxias",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias brevissimus",
+    "SpecCode": "69415",
+    "CommonName": "Short-tail Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias cobitinis",
+    "SpecCode": "61557",
+    "CommonName": "Hinkgalaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias depressiceps",
+    "SpecCode": "53172",
+    "CommonName": "Lamepea-galaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias divergens",
+    "SpecCode": "12246",
+    "CommonName": "Dwarf Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias eldoni",
+    "SpecCode": "53174",
+    "CommonName": "Eldoni galaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias fasciatus",
+    "SpecCode": "12247",
+    "CommonName": "Banded kokopu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias fontanus",
+    "SpecCode": "6201",
+    "CommonName": "Swan Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias fuscus",
+    "SpecCode": "68231",
+    "CommonName": "Barred Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias globiceps",
+    "SpecCode": "10424",
+    "CommonName": "Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias gollumoides",
+    "SpecCode": "61558",
+    "CommonName": "Guglunkgalaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias gracilis",
+    "SpecCode": "10425",
+    "CommonName": "Dwarf inanga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias gunaikurnai",
+    "SpecCode": "69416",
+    "CommonName": "Shaw Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias johnstoni",
+    "SpecCode": "6202",
+    "CommonName": "Clarence Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias lanceolatus",
+    "SpecCode": "69417",
+    "CommonName": "Tapered Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias longifundus",
+    "SpecCode": "69418",
+    "CommonName": "West Gippsland Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias macronasus",
+    "SpecCode": "63821",
+    "CommonName": "Bignose galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias maculatus",
+    "SpecCode": "7579",
+    "CommonName": "Almindelig laksegedde",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias mcdowalli",
+    "SpecCode": "69419",
+    "CommonName": "McDowall's Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias mungadhan",
+    "SpecCode": "69420",
+    "CommonName": "Dargo Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias neocaledonicus",
+    "SpecCode": "49911",
+    "CommonName": "Uuskaledoonia galaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias niger",
+    "SpecCode": "24466",
+    "CommonName": "Black Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias occidentalis",
+    "SpecCode": "22570",
+    "CommonName": "Läänegalaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias olidus",
+    "SpecCode": "22575",
+    "CommonName": "Barred galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias oliros",
+    "SpecCode": "69421",
+    "CommonName": "Obscure Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias ornatus",
+    "SpecCode": "69410",
+    "CommonName": "Ornate Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias parvus",
+    "SpecCode": "6203",
+    "CommonName": "Dwarf galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias paucispondylus",
+    "SpecCode": "12249",
+    "CommonName": "Alpine galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias pedderensis",
+    "SpecCode": "6204",
+    "CommonName": "Pedder Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias platei",
+    "SpecCode": "47142",
+    "CommonName": "Lõunaameerika galaks",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias postvectis",
+    "SpecCode": "10427",
+    "CommonName": "Lühilõug-galaks",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias prognathus",
+    "SpecCode": "22532",
+    "CommonName": "Longjawed galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias pullus",
+    "SpecCode": "53173",
+    "CommonName": "Tõmmugalaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias rostratus",
+    "SpecCode": "10428",
+    "CommonName": "Beaked minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias supremus",
+    "SpecCode": "69422",
+    "CommonName": "Kosciuszko Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias tantangara",
+    "SpecCode": "69423",
+    "CommonName": "Stocky Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias tanycephalus",
+    "SpecCode": "6205",
+    "CommonName": "Arthurs galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias terenasus",
+    "SpecCode": "69424",
+    "CommonName": "Roundsnout Galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias truttaceus",
+    "SpecCode": "12623",
+    "CommonName": "Forellen-Galaxie",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias vulgaris",
+    "SpecCode": "22531",
+    "CommonName": "Common river galaxias",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Galaxias zebratus",
+    "SpecCode": "11050",
+    "CommonName": "Berghechtling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

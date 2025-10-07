@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Percalates colonorum",
+    "SpecCode": "12127",
+    "CommonName": "Australian bass",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percalates novemaculeatus",
+    "SpecCode": "6463",
+    "CommonName": "Australian bass",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

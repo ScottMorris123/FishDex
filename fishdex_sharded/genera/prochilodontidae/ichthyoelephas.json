@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ichthyoelephas humeralis",
+    "SpecCode": "13054",
+    "CommonName": "Bocachico",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyoelephas longirostris",
+    "SpecCode": "51423",
+    "CommonName": "Besote",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

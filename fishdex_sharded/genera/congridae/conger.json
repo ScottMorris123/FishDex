@@ -1,0 +1,157 @@
+[
+  {
+    "ScientificName": "Conger cinereus",
+    "SpecCode": "6654",
+    "CommonName": "Anguille ciseaux",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger conger",
+    "SpecCode": "301",
+    "CommonName": "Almindelig havål",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger erebennus",
+    "SpecCode": "23285",
+    "CommonName": "Dainan-anago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger esculentus",
+    "SpecCode": "102",
+    "CommonName": "Antillean Conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger japonicus",
+    "SpecCode": "23284",
+    "CommonName": "Beach conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger jordani",
+    "SpecCode": "70477",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger macrocephalus",
+    "SpecCode": "58533",
+    "CommonName": "Suurpea-meriangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger marginatus",
+    "SpecCode": "67042",
+    "CommonName": "Ash-colored conger eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger monganius",
+    "SpecCode": "70487",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger myriaster",
+    "SpecCode": "302",
+    "CommonName": "Belut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger oceanicus",
+    "SpecCode": "300",
+    "CommonName": "Ameriški ugor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger oligoporus",
+    "SpecCode": "58537",
+    "CommonName": "Hõrepoor-meriangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger orbignianus",
+    "SpecCode": "299",
+    "CommonName": "Argentiina meriangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger philippinus",
+    "SpecCode": "58539",
+    "CommonName": "Filipiini meriangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger triporiceps",
+    "SpecCode": "1017",
+    "CommonName": "Congrio denton",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger verreauxi",
+    "SpecCode": "13131",
+    "CommonName": "Australisk havsål",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conger wilsoni",
+    "SpecCode": "7675",
+    "CommonName": "Cape conger",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

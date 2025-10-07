@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Neogobius caspius",
+    "SpecCode": "47964",
+    "CommonName": "Caspian goby",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neogobius fluviatilis",
+    "SpecCode": "4720",
+    "CommonName": "Babka",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neogobius melanostomus",
+    "SpecCode": "12019",
+    "CommonName": "apalais jūrasgrundulis",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neogobius pallasi",
+    "SpecCode": "48268",
+    "CommonName": "Belyi bychok",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

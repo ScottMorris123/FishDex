@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Glanidium albescens",
+    "SpecCode": "47690",
+    "CommonName": "Anduiá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glanidium botocudo",
+    "SpecCode": "67160",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glanidium catharinensis",
+    "SpecCode": "47681",
+    "CommonName": "巴西小項鰭鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glanidium cesarpintoi",
+    "SpecCode": "53678",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glanidium melanopterum",
+    "SpecCode": "47683",
+    "CommonName": "黑鰭小項鰭鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glanidium ribeiroi",
+    "SpecCode": "47685",
+    "CommonName": "bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

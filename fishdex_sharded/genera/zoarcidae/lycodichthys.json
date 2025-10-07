@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Lycodichthys antarcticus",
+    "SpecCode": "7026",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodichthys dearborni",
+    "SpecCode": "5135",
+    "CommonName": "Eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "ScientificName": "Oneirodes acanthias",
+    "SpecCode": "12545",
+    "CommonName": "Pacific dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes alius",
+    "SpecCode": "58282",
+    "CommonName": "印尼夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes amaokai",
+    "SpecCode": "70234",
+    "CommonName": "Amaoka's dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes anisacanthus",
+    "SpecCode": "16928",
+    "CommonName": "Oddhyrna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes basili",
+    "SpecCode": "59592",
+    "CommonName": "巴氏夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes bradburyae",
+    "SpecCode": "59599",
+    "CommonName": "布氏夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes bulbosus",
+    "SpecCode": "23256",
+    "CommonName": "Bulb-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes carlsbergi",
+    "SpecCode": "16933",
+    "CommonName": "Ljóshyrna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes clarkei",
+    "SpecCode": "57343",
+    "CommonName": "克拉克夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes cordifer",
+    "SpecCode": "69325",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes cristatus",
+    "SpecCode": "59125",
+    "CommonName": "冠毛夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes dicromischus",
+    "SpecCode": "59593",
+    "CommonName": "热带梦角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes epithales",
+    "SpecCode": "54519",
+    "CommonName": "Nightmare dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes eschrichtii",
+    "SpecCode": "16939",
+    "CommonName": "Bulbous dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes flagellifer",
+    "SpecCode": "59126",
+    "CommonName": "鞭夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes formosanus",
+    "SpecCode": "69796",
+    "CommonName": "Formosa dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes haplonema",
+    "SpecCode": "59600",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes heteronema",
+    "SpecCode": "55136",
+    "CommonName": "异丝梦角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes kreffti",
+    "SpecCode": "16843",
+    "CommonName": "Krefft's dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes luetkeni",
+    "SpecCode": "59594",
+    "CommonName": "柳氏夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes macronema",
+    "SpecCode": "57344",
+    "CommonName": "大丝梦角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes macrosteus",
+    "SpecCode": "16954",
+    "CommonName": "Broddhyrna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes melanocauda",
+    "SpecCode": "59127",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes micronema",
+    "SpecCode": "58320",
+    "CommonName": "小丝梦角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes mirus",
+    "SpecCode": "59595",
+    "CommonName": "奇夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes myrionemus",
+    "SpecCode": "16959",
+    "CommonName": "Gaddhyrna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes notius",
+    "SpecCode": "7143",
+    "CommonName": "Smooth anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes parapietschi",
+    "SpecCode": "69307",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes pietschi",
+    "SpecCode": "61615",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes plagionema",
+    "SpecCode": "59128",
+    "CommonName": "斜丝梦角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes posti",
+    "SpecCode": "59596",
+    "CommonName": "波氏夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes pterurus",
+    "SpecCode": "59129",
+    "CommonName": "鰭尾夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes quadrinema",
+    "SpecCode": "70232",
+    "CommonName": "Indonesian dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes rosenblatti",
+    "SpecCode": "59598",
+    "CommonName": "罗氏梦角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes sabex",
+    "SpecCode": "24766",
+    "CommonName": "Rough dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes sanjeevani",
+    "SpecCode": "69295",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes schistonema",
+    "SpecCode": "59130",
+    "CommonName": "裂丝梦角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes schmidti",
+    "SpecCode": "59131",
+    "CommonName": "史氏夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes sipharum",
+    "SpecCode": "69306",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes theodoritissieri",
+    "SpecCode": "16961",
+    "CommonName": "西氏夢角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes thompsoni",
+    "SpecCode": "23257",
+    "CommonName": "Alaska dreamer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oneirodes thysanema",
+    "SpecCode": "59132",
+    "CommonName": "茎丝梦角鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Neoscopelus macrolepidotus",
+    "SpecCode": "7422",
+    "CommonName": "Blackchin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoscopelus microchir",
+    "SpecCode": "10176",
+    "CommonName": "Sango-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neoscopelus porosus",
+    "SpecCode": "23022",
+    "CommonName": "Shichigo-iwashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

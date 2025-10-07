@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Clupea harengus",
+    "SpecCode": "24",
+    "CommonName": "Allec",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupea manulensis",
+    "SpecCode": "65875",
+    "CommonName": "Filipiini heeringas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupea pallasii",
+    "SpecCode": "1520",
+    "CommonName": "Aringa del Pacifico",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

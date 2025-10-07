@@ -1,0 +1,62 @@
+{
+  "Family": "Gadidae",
+  "Order": "Gadiformes",
+  "Common": "Cods and haddocks",
+  "Genera": [
+    {
+      "Genus": "Arctogadus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gadidae/arctogadus.json"
+    },
+    {
+      "Genus": "Boreogadus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gadidae/boreogadus.json"
+    },
+    {
+      "Genus": "Eleginus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gadidae/eleginus.json"
+    },
+    {
+      "Genus": "Gadiculus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gadidae/gadiculus.json"
+    },
+    {
+      "Genus": "Gadus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gadidae/gadus.json"
+    },
+    {
+      "Genus": "Melanogrammus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gadidae/melanogrammus.json"
+    },
+    {
+      "Genus": "Merlangius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/gadidae/merlangius.json"
+    },
+    {
+      "Genus": "Microgadus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gadidae/microgadus.json"
+    },
+    {
+      "Genus": "Micromesistius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gadidae/micromesistius.json"
+    },
+    {
+      "Genus": "Pollachius",
+      "SpeciesCount": 2,
+      "genus_path": "genera/gadidae/pollachius.json"
+    },
+    {
+      "Genus": "Trisopterus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/gadidae/trisopterus.json"
+    }
+  ]
+}

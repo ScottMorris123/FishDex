@@ -1,0 +1,68 @@
+[
+  {
+    "ScientificName": "Nuchequula blochii",
+    "SpecCode": "4808",
+    "CommonName": "Bloch's ponyfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nuchequula flavaxilla",
+    "SpecCode": "63684",
+    "CommonName": "Yellowspotted ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nuchequula gerreoides",
+    "SpecCode": "4809",
+    "CommonName": "Black-neck pony-fish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nuchequula glenysae",
+    "SpecCode": "63686",
+    "CommonName": "Twoblotch ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nuchequula longicornis",
+    "SpecCode": "63687",
+    "CommonName": "Longspine ponyfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nuchequula mannusella",
+    "SpecCode": "64227",
+    "CommonName": "Kekek",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nuchequula nuchalis",
+    "SpecCode": "4596",
+    "CommonName": "Hiiragi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Anarhichas denticulatus",
+    "SpecCode": "3810",
+    "CommonName": "Bavosa lupa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarhichas lupus",
+    "SpecCode": "2501",
+    "CommonName": "Almindelig havkat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarhichas minor",
+    "SpecCode": "3811",
+    "CommonName": "Bavosa lupa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anarhichas orientalis",
+    "SpecCode": "3812",
+    "CommonName": "Aaqaksaaq",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

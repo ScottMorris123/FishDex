@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hemisilurus heterorhynchus",
+    "SpecCode": "23090",
+    "CommonName": "Lais timah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemisilurus mekongensis",
+    "SpecCode": "26719",
+    "CommonName": "Mekonginkyttyrämonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemisilurus moolenburghi",
+    "SpecCode": "23091",
+    "CommonName": "Silung kuda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

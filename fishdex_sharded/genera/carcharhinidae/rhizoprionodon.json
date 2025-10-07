@@ -1,0 +1,70 @@
+[
+  {
+    "ScientificName": "Rhizoprionodon acutus",
+    "SpecCode": "899",
+    "CommonName": "Balda",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhizoprionodon lalandii",
+    "SpecCode": "900",
+    "CommonName": "Brasiilia koonhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhizoprionodon longurio",
+    "SpecCode": "901",
+    "CommonName": "Cazón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhizoprionodon oligolinx",
+    "SpecCode": "902",
+    "CommonName": "Ankou zame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhizoprionodon porosus",
+    "SpecCode": "903",
+    "CommonName": "Atlantic sharpnose shark",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhizoprionodon taylori",
+    "SpecCode": "904",
+    "CommonName": "Austraalia koonhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhizoprionodon terraenovae",
+    "SpecCode": "905",
+    "CommonName": "Atlantski ostronosi morski pes",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

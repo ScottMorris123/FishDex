@@ -1,0 +1,12 @@
+{
+  "Family": "Aplodactylidae",
+  "Order": "Centrarchiformes",
+  "Common": "Marblefishes",
+  "Genera": [
+    {
+      "Genus": "Aplodactylus",
+      "SpeciesCount": 5,
+      "genus_path": "genera/aplodactylidae/aplodactylus.json"
+    }
+  ]
+}

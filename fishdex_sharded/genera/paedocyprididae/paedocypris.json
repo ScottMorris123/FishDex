@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Paedocypris carbunculus",
+    "SpecCode": "64646",
+    "CommonName": "Rubiin-larvkarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paedocypris micromegethes",
+    "SpecCode": "62549",
+    "CommonName": "Soo-larvkarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paedocypris progenetica",
+    "SpecCode": "62548",
+    "CommonName": "Sumatra larvkarbik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Benthosema fibulatum",
+    "SpecCode": "7423",
+    "CommonName": "Brooch lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthosema glaciale",
+    "SpecCode": "21",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthosema panamense",
+    "SpecCode": "50707",
+    "CommonName": "Bintik sinar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthosema pterotum",
+    "SpecCode": "10238",
+    "CommonName": "Iwa-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthosema suborbitale",
+    "SpecCode": "6589",
+    "CommonName": "Dimple lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Typhlobelus auriculatus",
+    "SpecCode": "67205",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Typhlobelus guacamaya",
+    "SpecCode": "62631",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Typhlobelus lundbergi",
+    "SpecCode": "62632",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Typhlobelus macromycterus",
+    "SpecCode": "53719",
+    "CommonName": "大絨鼻鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Typhlobelus ternetzi",
+    "SpecCode": "48803",
+    "CommonName": "Pikkumatomonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

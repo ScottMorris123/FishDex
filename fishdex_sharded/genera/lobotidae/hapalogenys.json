@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Hapalogenys analis",
+    "SpecCode": "58667",
+    "CommonName": "Belted beard grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hapalogenys bengalensis",
+    "SpecCode": "67667",
+    "CommonName": "Indian velvetchin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hapalogenys dampieriensis",
+    "SpecCode": "64557",
+    "CommonName": "Australian striped velvetchin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hapalogenys filamentosus",
+    "SpecCode": "64558",
+    "CommonName": "Philippine dark velvetchin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hapalogenys kishinouyei",
+    "SpecCode": "13034",
+    "CommonName": "Bakoko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hapalogenys merguiensis",
+    "SpecCode": "57687",
+    "CommonName": "Mergui velvetchin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hapalogenys nigripinnis",
+    "SpecCode": "13035",
+    "CommonName": "Bibigan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hapalogenys sennin",
+    "SpecCode": "62590",
+    "CommonName": "Higedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

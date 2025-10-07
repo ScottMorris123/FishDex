@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Potamorhina altamazonica",
+    "SpecCode": "25648",
+    "CommonName": "Branquinha cabeça lisa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamorhina laticeps",
+    "SpecCode": "48617",
+    "CommonName": "Branquinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamorhina latior",
+    "SpecCode": "25649",
+    "CommonName": "Branquinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamorhina pristigaster",
+    "SpecCode": "51315",
+    "CommonName": "Boquiche",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Potamorhina squamoralevis",
+    "SpecCode": "53101",
+    "CommonName": "Blanquillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

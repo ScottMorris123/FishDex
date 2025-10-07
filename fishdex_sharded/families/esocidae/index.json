@@ -1,0 +1,12 @@
+{
+  "Family": "Esocidae",
+  "Order": "Esociformes",
+  "Common": "Pikes",
+  "Genera": [
+    {
+      "Genus": "Esox",
+      "SpeciesCount": 7,
+      "genus_path": "genera/esocidae/esox.json"
+    }
+  ]
+}

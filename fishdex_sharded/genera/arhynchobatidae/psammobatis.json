@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Psammobatis bergi",
+    "SpecCode": "54434",
+    "CommonName": "Blotched sand skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammobatis extenta",
+    "SpecCode": "54435",
+    "CommonName": "Pikksaba-liivrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammobatis lentiginosa",
+    "SpecCode": "54115",
+    "CommonName": "Freckled sand skate",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammobatis normani",
+    "SpecCode": "54438",
+    "CommonName": "Kortvinzandrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammobatis parvacauda",
+    "SpecCode": "54116",
+    "CommonName": "Kleinstaartzandrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammobatis rudis",
+    "SpecCode": "54122",
+    "CommonName": "Kare liivrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammobatis rutrum",
+    "SpecCode": "54433",
+    "CommonName": "Kühvelkoon-liivrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psammobatis scobina",
+    "SpecCode": "54085",
+    "CommonName": "Raspel-liivrai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "Family": "Narcinidae",
+  "Order": "Torpediniformes",
+  "Common": "Numbfishes",
+  "Genera": [
+    {
+      "Genus": "Benthobatis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/narcinidae/benthobatis.json"
+    },
+    {
+      "Genus": "Diplobatis",
+      "SpeciesCount": 4,
+      "genus_path": "genera/narcinidae/diplobatis.json"
+    },
+    {
+      "Genus": "Discopyge",
+      "SpeciesCount": 2,
+      "genus_path": "genera/narcinidae/discopyge.json"
+    },
+    {
+      "Genus": "Narcine",
+      "SpeciesCount": 16,
+      "genus_path": "genera/narcinidae/narcine.json"
+    },
+    {
+      "Genus": "Narcinops",
+      "SpeciesCount": 5,
+      "genus_path": "genera/narcinidae/narcinops.json"
+    }
+  ]
+}

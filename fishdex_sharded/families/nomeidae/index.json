@@ -1,0 +1,22 @@
+{
+  "Family": "Nomeidae",
+  "Order": "Scombriformes",
+  "Common": "Driftfishes",
+  "Genera": [
+    {
+      "Genus": "Cubiceps",
+      "SpeciesCount": 10,
+      "genus_path": "genera/nomeidae/cubiceps.json"
+    },
+    {
+      "Genus": "Nomeus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/nomeidae/nomeus.json"
+    },
+    {
+      "Genus": "Psenes",
+      "SpeciesCount": 5,
+      "genus_path": "genera/nomeidae/psenes.json"
+    }
+  ]
+}

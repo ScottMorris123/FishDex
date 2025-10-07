@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Enneacanthus chaetodon",
+    "SpecCode": "3367",
+    "CommonName": "Bassek tarczowy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enneacanthus gloriosus",
+    "SpecCode": "3368",
+    "CommonName": "Bassek diamentowy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Enneacanthus obesus",
+    "SpecCode": "3369",
+    "CommonName": "Banded sunfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

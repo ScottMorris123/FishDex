@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Cetonurus crassiceps",
+    "SpecCode": "25001",
+    "CommonName": "Globosehead rattail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetonurus globiceps",
+    "SpecCode": "17097",
+    "CommonName": "Bert Newton fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

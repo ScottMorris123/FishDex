@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Carcharias taurus",
+    "SpecCode": "747",
+    "CommonName": "Almindelig sandtigerhaj",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carcharias tricuspidatus",
+    "SpecCode": "748",
+    "CommonName": "Blue nurse sand-tiger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "Family": "Hexagrammidae",
+  "Order": "Perciformes/Cottoidei",
+  "Common": "Greenlings",
+  "Genera": [
+    {
+      "Genus": "Hexagrammos",
+      "SpeciesCount": 6,
+      "genus_path": "genera/hexagrammidae/hexagrammos.json"
+    },
+    {
+      "Genus": "Ophiodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/hexagrammidae/ophiodon.json"
+    },
+    {
+      "Genus": "Pleurogrammus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/hexagrammidae/pleurogrammus.json"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Family": "Chironemidae",
+  "Order": "Centrarchiformes",
+  "Common": "Kelpfishes",
+  "Genera": [
+    {
+      "Genus": "Chironemus",
+      "SpeciesCount": 6,
+      "genus_path": "genera/chironemidae/chironemus.json"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Brachypetersius altus",
+    "SpecCode": "11118",
+    "CommonName": "Kõrge rõkstetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachypetersius cadwaladeri",
+    "SpecCode": "11120",
+    "CommonName": "Kongo rõkstetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachypetersius gabonensis",
+    "SpecCode": "11121",
+    "CommonName": "Gaboni rõkstetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachypetersius huloti",
+    "SpecCode": "11122",
+    "CommonName": "Hulots Kongosalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachypetersius notospilus",
+    "SpecCode": "11123",
+    "CommonName": "Sabalaik-rõkstetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachypetersius pseudonummifer",
+    "SpecCode": "11125",
+    "CommonName": "Peräjuovatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

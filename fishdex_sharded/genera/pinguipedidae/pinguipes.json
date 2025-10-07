@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pinguipes brasilianus",
+    "SpecCode": "12928",
+    "CommonName": "Batata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pinguipes chilensis",
+    "SpecCode": "12942",
+    "CommonName": "Bacalao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

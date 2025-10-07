@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Pseudogobiopsis festiva",
+    "SpecCode": "64897",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobiopsis lumbantobing",
+    "SpecCode": "69261",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobiopsis oligactis",
+    "SpecCode": "25089",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobiopsis paludosa",
+    "SpecCode": "61419",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobiopsis rubrimaculosa",
+    "SpecCode": "69335",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudogobiopsis tigrellus",
+    "SpecCode": "10782",
+    "CommonName": "Tiger goby",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

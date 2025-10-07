@@ -1,0 +1,27 @@
+{
+  "Family": "Bryconidae",
+  "Order": "Characiformes",
+  "Common": "\"Brycon characins\"",
+  "Genera": [
+    {
+      "Genus": "Brycon",
+      "SpeciesCount": 43,
+      "genus_path": "genera/bryconidae/brycon.json"
+    },
+    {
+      "Genus": "Chilobrycon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bryconidae/chilobrycon.json"
+    },
+    {
+      "Genus": "Henochilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/bryconidae/henochilus.json"
+    },
+    {
+      "Genus": "Salminus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/bryconidae/salminus.json"
+    }
+  ]
+}

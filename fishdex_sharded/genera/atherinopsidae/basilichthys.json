@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Basilichthys archaeus",
+    "SpecCode": "50836",
+    "CommonName": "原始基銀漢魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Basilichthys australis",
+    "SpecCode": "25855",
+    "CommonName": "澳洲基銀漢魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Basilichthys microlepidotus",
+    "SpecCode": "12936",
+    "CommonName": "細鱗基銀漢魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Basilichthys semotilus",
+    "SpecCode": "50834",
+    "CommonName": "远遁基银汉鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

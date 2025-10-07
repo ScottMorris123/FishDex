@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Halimochirurgus alcocki",
+    "SpecCode": "7624",
+    "CommonName": "Alcocki merinuuskur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halimochirurgus centriscoides",
+    "SpecCode": "10571",
+    "CommonName": "Astel-merinuuskur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

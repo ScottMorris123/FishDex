@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Maccullochella ikei",
+    "SpecCode": "6307",
+    "CommonName": "Clarence river cod",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maccullochella macquariensis",
+    "SpecCode": "6308",
+    "CommonName": "Blue cod",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maccullochella mariensis",
+    "SpecCode": "26479",
+    "CommonName": "Mary River cod",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maccullochella peelii",
+    "SpecCode": "10311",
+    "CommonName": "Cod",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Stromateus brasiliensis",
+    "SpecCode": "12930",
+    "CommonName": "Butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stromateus fiatola",
+    "SpecCode": "1198",
+    "CommonName": "Alice piccola",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stromateus stellatus",
+    "SpecCode": "26365",
+    "CommonName": "Cagalera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

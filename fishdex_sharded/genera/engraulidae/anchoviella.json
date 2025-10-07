@@ -1,0 +1,174 @@
+[
+  {
+    "ScientificName": "Anchoviella alleni",
+    "SpecCode": "1665",
+    "CommonName": "Alleni antšoviell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella balboae",
+    "SpecCode": "1667",
+    "CommonName": "Anchoa de Balboa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella blackburni",
+    "SpecCode": "1668",
+    "CommonName": "Blackburni antšoviell",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella brevirostris",
+    "SpecCode": "1669",
+    "CommonName": "Anchois nez court",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella carrikeri",
+    "SpecCode": "1670",
+    "CommonName": "Carrikeri antšoviell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella cayennensis",
+    "SpecCode": "1671",
+    "CommonName": "Anchois de Cayenne",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella elongata",
+    "SpecCode": "1672",
+    "CommonName": "Anchois allongé",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella guianensis",
+    "SpecCode": "1673",
+    "CommonName": "Anchois de Guyane",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella hernanni",
+    "SpecCode": "70106",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella jamesi",
+    "SpecCode": "1674",
+    "CommonName": "Jamesi antšoviell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella juruasanga",
+    "SpecCode": "66498",
+    "CommonName": "Lühilõug-antšoviell",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella lepidentostole",
+    "SpecCode": "1675",
+    "CommonName": "Anchoa ñata",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella manamensis",
+    "SpecCode": "1676",
+    "CommonName": "Camiguana",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella nattereri",
+    "SpecCode": "1677",
+    "CommonName": "Nattereri antšoviell",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella perezi",
+    "SpecCode": "61555",
+    "CommonName": "Pérezi antšoviell",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella perfasciata",
+    "SpecCode": "1678",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella sanfranciscana",
+    "SpecCode": "68590",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchoviella vaillanti",
+    "SpecCode": "1679",
+    "CommonName": "Manjuba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

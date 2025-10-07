@@ -1,0 +1,630 @@
+[
+  {
+    "ScientificName": "Cynoglossus abbreviatus",
+    "SpecCode": "10522",
+    "CommonName": "Duǎn wěn sān xiàn shé tǎ",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus acaudatus",
+    "SpecCode": "7677",
+    "CommonName": "Linguado de Natal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus acutirostris",
+    "SpecCode": "10204",
+    "CommonName": "Langue poignard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus arel",
+    "SpecCode": "7523",
+    "CommonName": "Adalla",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus attenuatus",
+    "SpecCode": "7678",
+    "CommonName": "Fourline tonguefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus bilineatus",
+    "SpecCode": "5455",
+    "CommonName": "Dadali",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus broadhursti",
+    "SpecCode": "9248",
+    "CommonName": "Broadhurst's tongue sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus browni",
+    "SpecCode": "8093",
+    "CommonName": "Langue nigérienne",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus cadenati",
+    "SpecCode": "8860",
+    "CommonName": "Ghanian tonguesole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus canariensis",
+    "SpecCode": "4948",
+    "CommonName": "Canary tonguesole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus capensis",
+    "SpecCode": "8906",
+    "CommonName": "Lengua de perro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus carpenteri",
+    "SpecCode": "10205",
+    "CommonName": "Alcock's tongue-sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus crepida",
+    "SpecCode": "68187",
+    "CommonName": "Bluntnose deepwater tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus cynoglossus",
+    "SpecCode": "5456",
+    "CommonName": "Afokpakpa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus dispar",
+    "SpecCode": "9244",
+    "CommonName": "Day's tongue-sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus dollfusi",
+    "SpecCode": "9250",
+    "CommonName": "多氏舌鰨",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus dubius",
+    "SpecCode": "9242",
+    "CommonName": "Carrot tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus durbanensis",
+    "SpecCode": "7680",
+    "CommonName": "Durban tonguefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus feldmanni",
+    "SpecCode": "17165",
+    "CommonName": "Ikan Lidah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus gilchristi",
+    "SpecCode": "7681",
+    "CommonName": "Linguado de barbatana manchada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus gracilis",
+    "SpecCode": "17174",
+    "CommonName": "Chôsen-genko",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus heterolepis",
+    "SpecCode": "17163",
+    "CommonName": "Ferskvandshundetunge",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus interruptus",
+    "SpecCode": "8956",
+    "CommonName": "Ch'il-sǒ-dae",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus itinus",
+    "SpecCode": "9245",
+    "CommonName": "Minami-akashitabirame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus joyneri",
+    "SpecCode": "8958",
+    "CommonName": "Akashitabirame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus kapuasensis",
+    "SpecCode": "17170",
+    "CommonName": "Ikan lidah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus kopsii",
+    "SpecCode": "7647",
+    "CommonName": "Dali dali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus lachneri",
+    "SpecCode": "7682",
+    "CommonName": "Gala-gala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus lida",
+    "SpecCode": "5489",
+    "CommonName": "Dadali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus lighti",
+    "SpecCode": "59531",
+    "CommonName": "長吻舌鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus lineolatus",
+    "SpecCode": "59538",
+    "CommonName": "線紋舌鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus lingua",
+    "SpecCode": "8238",
+    "CommonName": "Akpaak",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus maccullochi",
+    "SpecCode": "61501",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus macrolepidotus",
+    "SpecCode": "59539",
+    "CommonName": "Macao Sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus macrophthalmus",
+    "SpecCode": "11680",
+    "CommonName": "Big-eyed tongue-sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus macrostomus",
+    "SpecCode": "6083",
+    "CommonName": "Gipti",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus maculipinnis",
+    "SpecCode": "9247",
+    "CommonName": "斑翼舌鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus marleyi",
+    "SpecCode": "7683",
+    "CommonName": "Drielyn-tongvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus melampetalus",
+    "SpecCode": "55209",
+    "CommonName": "黑尾舌鰨",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus microlepis",
+    "SpecCode": "17176",
+    "CommonName": "Andat chhke",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus monodi",
+    "SpecCode": "4950",
+    "CommonName": "Camérélouse",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus monopus",
+    "SpecCode": "7652",
+    "CommonName": "Dali dali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus nanhaiensis",
+    "SpecCode": "69268",
+    "CommonName": "Nanhai tongue sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus nigropinnatus",
+    "SpecCode": "59532",
+    "CommonName": "Hireguro-genko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus ochiaii",
+    "SpecCode": "63758",
+    "CommonName": "Oki-genko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus ogilbyi",
+    "SpecCode": "9246",
+    "CommonName": "奥氏舌鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus oligolepis",
+    "SpecCode": "56095",
+    "CommonName": "少鱗舌鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus pottii",
+    "SpecCode": "56480",
+    "CommonName": "波特氏舌鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus puncticeps",
+    "SpecCode": "4807",
+    "CommonName": "Ararali",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus purpureomaculatus",
+    "SpecCode": "59533",
+    "CommonName": "紫斑舌鰨",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus quadriocellatus",
+    "SpecCode": "69662",
+    "CommonName": "Ocellated tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus robustus",
+    "SpecCode": "13073",
+    "CommonName": "Cá Bơn cát",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus roulei",
+    "SpecCode": "59534",
+    "CommonName": "黑鰓舌鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus sealarki",
+    "SpecCode": "17158",
+    "CommonName": "西氏舌鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus semifasciatus",
+    "SpecCode": "17161",
+    "CommonName": "Bengal tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus semilaevis",
+    "SpecCode": "17172",
+    "CommonName": "Kara-akashitabirame",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus senegalensis",
+    "SpecCode": "4951",
+    "CommonName": "Afokpakpa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus sibogae",
+    "SpecCode": "59556",
+    "CommonName": "Lidah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus sinicus",
+    "SpecCode": "55207",
+    "CommonName": "中华舌鳎",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus sinusarabici",
+    "SpecCode": "16281",
+    "CommonName": "Pelada del Mar Rojo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus suyeni",
+    "SpecCode": "7656",
+    "CommonName": "Dadali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus trigrammus",
+    "SpecCode": "55208",
+    "CommonName": "三線舌鰨",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus trulla",
+    "SpecCode": "9243",
+    "CommonName": "Borneo tongue-sole",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus waandersii",
+    "SpecCode": "17168",
+    "CommonName": "Ikan lidah",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus westraliensis",
+    "SpecCode": "69668",
+    "CommonName": "Western Austalian deep-water tonguesole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus yokomaru",
+    "SpecCode": "69679",
+    "CommonName": "High-forehead genko sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cynoglossus zanzibarensis",
+    "SpecCode": "7684",
+    "CommonName": "Gala-gala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

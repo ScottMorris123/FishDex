@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Corica laciniata",
+    "SpecCode": "1565",
+    "CommonName": "Bangkok river sprat",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corica soborna",
+    "SpecCode": "1566",
+    "CommonName": "Cutwaal-alise",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

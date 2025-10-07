@@ -1,0 +1,22 @@
+{
+  "Family": "Poecilopsettidae",
+  "Order": "Pleuronectiformes",
+  "Common": "Bigeye flounders",
+  "Genera": [
+    {
+      "Genus": "Marleyella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/poecilopsettidae/marleyella.json"
+    },
+    {
+      "Genus": "Nematops",
+      "SpeciesCount": 4,
+      "genus_path": "genera/poecilopsettidae/nematops.json"
+    },
+    {
+      "Genus": "Poecilopsetta",
+      "SpeciesCount": 15,
+      "genus_path": "genera/poecilopsettidae/poecilopsetta.json"
+    }
+  ]
+}

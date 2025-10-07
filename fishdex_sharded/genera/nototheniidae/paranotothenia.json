@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Paranotothenia dewitti",
+    "SpecCode": "59311",
+    "CommonName": "德氏副南极鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paranotothenia magellanica",
+    "SpecCode": "7051",
+    "CommonName": "Black cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

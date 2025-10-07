@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Paralepis brevirostris",
+    "SpecCode": "16584",
+    "CommonName": "摩蜥魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralepis coregonoides",
+    "SpecCode": "1757",
+    "CommonName": "Barracudina coregonoide",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralepis elongata",
+    "SpecCode": "10019",
+    "CommonName": "Barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paralepis speciosa",
+    "SpecCode": "58761",
+    "CommonName": "Aluzzeddu argintinu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

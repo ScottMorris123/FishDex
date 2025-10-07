@@ -1,0 +1,35 @@
+[
+  {
+    "ScientificName": "Terapon jarbua",
+    "SpecCode": "4458",
+    "CommonName": "Antsarabaro",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Terapon puta",
+    "SpecCode": "7946",
+    "CommonName": "Abo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Terapon theraps",
+    "SpecCode": "4829",
+    "CommonName": "Abo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "ScientificName": "Clupeonella abrau",
+    "SpecCode": "1469",
+    "CommonName": "Abrau kilka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeonella caspia",
+    "SpecCode": "65307",
+    "CommonName": "Caspian tyulka",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeonella cultriventris",
+    "SpecCode": "1470",
+    "CommonName": "Azov kilka",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeonella engrauliformis",
+    "SpecCode": "1471",
+    "CommonName": "Anchousovidnaya tyul'ka",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeonella grimmi",
+    "SpecCode": "1472",
+    "CommonName": "Bigeye kilka",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeonella muhlisi",
+    "SpecCode": "26469",
+    "CommonName": "Apolyont sprat",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupeonella tscharchalensis",
+    "SpecCode": "65309",
+    "CommonName": "Freshwater tyulka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "ScientificName": "Chelon auratus",
+    "SpecCode": "1735",
+    "CommonName": "Alifranciu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelon bandialensis",
+    "SpecCode": "66211",
+    "CommonName": "Diasanga",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelon bispinosus",
+    "SpecCode": "22487",
+    "CommonName": "Cape Verde mullet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelon caeruleus",
+    "SpecCode": "69222",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelon dumerili",
+    "SpecCode": "5115",
+    "CommonName": "Brasilian mullet",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelon labrosus",
+    "SpecCode": "2499",
+    "CommonName": "An lannach glas",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelon ramada",
+    "SpecCode": "4583",
+    "CommonName": "Acuccotto",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelon richardsonii",
+    "SpecCode": "5146",
+    "CommonName": "Harder",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelon saliens",
+    "SpecCode": "1736",
+    "CommonName": "Accucu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chelon tricuspidens",
+    "SpecCode": "5513",
+    "CommonName": "Gestreepte harder",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

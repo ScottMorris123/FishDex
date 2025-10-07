@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Trachinus araneus",
+    "SpecCode": "9258",
+    "CommonName": "Agna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinus armatus",
+    "SpecCode": "5033",
+    "CommonName": "Arana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinus collignoni",
+    "SpecCode": "5034",
+    "CommonName": "Araña aletona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinus cornutus",
+    "SpecCode": "59433",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinus draco",
+    "SpecCode": "1363",
+    "CommonName": "Agna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinus lineolatus",
+    "SpecCode": "5035",
+    "CommonName": "Aranha-listado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinus pellegrini",
+    "SpecCode": "5036",
+    "CommonName": "Araña de Cabo Verdeo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachinus radiatus",
+    "SpecCode": "5037",
+    "CommonName": "Agna da zinha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

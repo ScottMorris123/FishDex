@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Mixomyrophis longidorsalis",
+    "SpecCode": "67823",
+    "CommonName": "Red Sea worm eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mixomyrophis pusillipinna",
+    "SpecCode": "53835",
+    "CommonName": "Hadař drobnoploutvý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

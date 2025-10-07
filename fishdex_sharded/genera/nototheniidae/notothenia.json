@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Notothenia angustata",
+    "SpecCode": "47001",
+    "CommonName": "Maori chief",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notothenia coriiceps",
+    "SpecCode": "4702",
+    "CommonName": "Antarkticheskaya golobaya nototenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notothenia microlepidota",
+    "SpecCode": "12014",
+    "CommonName": "Black cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notothenia neglecta",
+    "SpecCode": "58010",
+    "CommonName": "Bocasse jaune",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notothenia rossii",
+    "SpecCode": "468",
+    "CommonName": "Bocasse marbrée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

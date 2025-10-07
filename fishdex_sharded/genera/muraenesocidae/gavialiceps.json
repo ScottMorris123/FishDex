@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Gavialiceps arabicus",
+    "SpecCode": "60918",
+    "CommonName": "Araabia gaavialangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gavialiceps bertelseni",
+    "SpecCode": "60916",
+    "CommonName": "Bertelseni gaavialangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gavialiceps javanicus",
+    "SpecCode": "60917",
+    "CommonName": "Duckbill conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gavialiceps taeniola",
+    "SpecCode": "7591",
+    "CommonName": "Pamuréna pentlicovitá",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gavialiceps taiwanensis",
+    "SpecCode": "59802",
+    "CommonName": "Pamuréna tajvanská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

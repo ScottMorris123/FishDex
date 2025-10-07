@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Curimatella alburnus",
+    "SpecCode": "51319",
+    "CommonName": "Boquitón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Curimatella dorsalis",
+    "SpecCode": "51877",
+    "CommonName": "Blanquillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Curimatella immaculata",
+    "SpecCode": "51878",
+    "CommonName": "Piaba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Curimatella lepidura",
+    "SpecCode": "51876",
+    "CommonName": "Aragu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Curimatella meyeri",
+    "SpecCode": "51321",
+    "CommonName": "Boquilla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

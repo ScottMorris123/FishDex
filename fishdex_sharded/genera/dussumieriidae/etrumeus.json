@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Etrumeus acuminatus",
+    "SpecCode": "66828",
+    "CommonName": "Terav ümarheeringas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etrumeus golanii",
+    "SpecCode": "66829",
+    "CommonName": "Akdeniz hamsisi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etrumeus makiawa",
+    "SpecCode": "66442",
+    "CommonName": "Havai ümarheeringas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etrumeus micropus",
+    "SpecCode": "60868",
+    "CommonName": "Pisiuim-ümarheeringas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etrumeus sadina",
+    "SpecCode": "1455",
+    "CommonName": "Amerikanischer Rundhering",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etrumeus whiteheadi",
+    "SpecCode": "1456",
+    "CommonName": "Etrumeus whiteheadův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etrumeus wongratanai",
+    "SpecCode": "66830",
+    "CommonName": "Wongratana ümarheeringas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

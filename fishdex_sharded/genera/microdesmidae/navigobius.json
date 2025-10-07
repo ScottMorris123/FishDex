@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Navigobius asayake",
+    "SpecCode": "70523",
+    "CommonName": "Asayake-kaguya-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Navigobius dewa",
+    "SpecCode": "65259",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Navigobius kaguya",
+    "SpecCode": "70520",
+    "CommonName": "Kaguyahime-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Navigobius vittatus",
+    "SpecCode": "68723",
+    "CommonName": "Brunei dartfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

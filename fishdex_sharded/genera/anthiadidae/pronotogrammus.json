@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pronotogrammus eos",
+    "SpecCode": "14296",
+    "CommonName": "Bigeye bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pronotogrammus martinicensis",
+    "SpecCode": "3328",
+    "CommonName": "Cachucho lengua rasposa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pronotogrammus multifasciatus",
+    "SpecCode": "3312",
+    "CommonName": "Doncellita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Notolepis annulata",
+    "SpecCode": "6979",
+    "CommonName": "Barracudina anillada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notolepis coatsorum",
+    "SpecCode": "6980",
+    "CommonName": "Antarctic jonafish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Lepidion capensis",
+    "SpecCode": "17062",
+    "CommonName": "卡彭雅鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidion ensiferus",
+    "SpecCode": "2015",
+    "CommonName": "Moro subantarctique",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidion eques",
+    "SpecCode": "2016",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidion guentheri",
+    "SpecCode": "46282",
+    "CommonName": "Juliana pequena",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidion inosimae",
+    "SpecCode": "23146",
+    "CommonName": "Giant cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidion lepidion",
+    "SpecCode": "2017",
+    "CommonName": "Barraca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidion microcephalus",
+    "SpecCode": "14053",
+    "CommonName": "Long-finned cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidion natalensis",
+    "SpecCode": "10244",
+    "CommonName": "納塔爾雅鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidion schmidti",
+    "SpecCode": "23148",
+    "CommonName": "Giant lepidion",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

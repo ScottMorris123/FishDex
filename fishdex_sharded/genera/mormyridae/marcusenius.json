@@ -1,0 +1,434 @@
+[
+  {
+    "ScientificName": "Marcusenius abadii",
+    "SpecCode": "5083",
+    "CommonName": "Abadie markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius altisambesi",
+    "SpecCode": "64233",
+    "CommonName": "Ülemzambezi markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius angolensis",
+    "SpecCode": "10904",
+    "CommonName": "Angola markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius annamariae",
+    "SpecCode": "10884",
+    "CommonName": "Etioopia markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius bentleyi",
+    "SpecCode": "10885",
+    "CommonName": "Bentley markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius brucii",
+    "SpecCode": "5080",
+    "CommonName": "Afinfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius caudisquamatus",
+    "SpecCode": "67501",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius cuangoanus",
+    "SpecCode": "10889",
+    "CommonName": "Cuango markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius cyprinoides",
+    "SpecCode": "5082",
+    "CommonName": "Aben",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius deboensis",
+    "SpecCode": "5087",
+    "CommonName": "Debo markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius desertus",
+    "SpecCode": "68100",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius devosi",
+    "SpecCode": "64236",
+    "CommonName": "Tana markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius dundoensis",
+    "SpecCode": "10890",
+    "CommonName": "Dundo markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius elegans",
+    "SpecCode": "68010",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius friteli",
+    "SpecCode": "10891",
+    "CommonName": "Friteli markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius furcidens",
+    "SpecCode": "2391",
+    "CommonName": "Harkhammas-markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius fuscus",
+    "SpecCode": "10893",
+    "CommonName": "Rypoun temnobarvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius ghesquierei",
+    "SpecCode": "10894",
+    "CommonName": "Kongo markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius greshoffii",
+    "SpecCode": "10898",
+    "CommonName": "Ehombo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius intermedius",
+    "SpecCode": "10899",
+    "CommonName": "Rypoun prostřední",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius kainjii",
+    "SpecCode": "66055",
+    "CommonName": "Kainji markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius kaninginii",
+    "SpecCode": "68096",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius krameri",
+    "SpecCode": "67502",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius kutuensis",
+    "SpecCode": "10900",
+    "CommonName": "Kutu markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius lambouri",
+    "SpecCode": "69972",
+    "CommonName": "Bomete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius leopoldianus",
+    "SpecCode": "10902",
+    "CommonName": "Leopoldi markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius livingstonii",
+    "SpecCode": "10903",
+    "CommonName": "Livingstoni markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius lucombesi",
+    "SpecCode": "67503",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius macrolepidotus",
+    "SpecCode": "5405",
+    "CommonName": "Boelhond",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius macrophthalmus",
+    "SpecCode": "10905",
+    "CommonName": "Rypoun okáč",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius mento",
+    "SpecCode": "5085",
+    "CommonName": "Afinfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius meronai",
+    "SpecCode": "5086",
+    "CommonName": "Merona markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius monteiri",
+    "SpecCode": "8709",
+    "CommonName": "Bulldog",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius moorii",
+    "SpecCode": "10908",
+    "CommonName": "Kongonnuijakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius multisquamatus",
+    "SpecCode": "67500",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius ntemensis",
+    "SpecCode": "10909",
+    "CommonName": "Ntemi markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius nyasensis",
+    "SpecCode": "5387",
+    "CommonName": "Malawi markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius pongolensis",
+    "SpecCode": "65670",
+    "CommonName": "Lõuna-markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius rheni",
+    "SpecCode": "10912",
+    "CommonName": "Rypoun ugandský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius sanagaensis",
+    "SpecCode": "50320",
+    "CommonName": "Rypoun bankimský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius schilthuisiae",
+    "SpecCode": "10914",
+    "CommonName": "Pikkunorsukala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius senegalensis",
+    "SpecCode": "2392",
+    "CommonName": "Atiadra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius stanleyanus",
+    "SpecCode": "10918",
+    "CommonName": "Kabebe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius thomasi",
+    "SpecCode": "5084",
+    "CommonName": "Guinea markuskala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius ussheri",
+    "SpecCode": "2393",
+    "CommonName": "Djii",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius verheyenorum",
+    "SpecCode": "69984",
+    "CommonName": "Akpadakpada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius victoriae",
+    "SpecCode": "10919",
+    "CommonName": "Imbaraga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marcusenius wamuinii",
+    "SpecCode": "69065",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

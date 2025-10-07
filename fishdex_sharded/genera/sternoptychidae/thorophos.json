@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Thorophos euryops",
+    "SpecCode": "59114",
+    "CommonName": "猛光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Thorophos nexilis",
+    "SpecCode": "59115",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

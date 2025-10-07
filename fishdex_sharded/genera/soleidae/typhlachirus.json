@@ -1,0 +1,33 @@
+[
+  {
+    "ScientificName": "Typhlachirus caecus",
+    "SpecCode": "25168",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Typhlachirus elongatus",
+    "SpecCode": "26874",
+    "CommonName": "Mekong blind sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Typhlachirus lipophthalmus",
+    "SpecCode": "69697",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

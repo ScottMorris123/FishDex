@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Mchenga conophoros",
+    "SpecCode": "50189",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mchenga cyclicos",
+    "SpecCode": "50190",
+    "CommonName": "Rengaspesäutaka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mchenga eucinostomus",
+    "SpecCode": "2291",
+    "CommonName": "Blauschwarzer Utaka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mchenga flavimanus",
+    "SpecCode": "2293",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mchenga inornata",
+    "SpecCode": "2294",
+    "CommonName": "Happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mchenga thinos",
+    "SpecCode": "50193",
+    "CommonName": "Raitautaka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

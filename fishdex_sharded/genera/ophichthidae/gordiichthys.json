@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Gordiichthys combibus",
+    "SpecCode": "59957",
+    "CommonName": "Colombia jõhvangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gordiichthys ergodes",
+    "SpecCode": "53829",
+    "CommonName": "Florida jõhvangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gordiichthys irretitus",
+    "SpecCode": "2646",
+    "CommonName": "Atlandi jõhvangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gordiichthys leibyi",
+    "SpecCode": "53808",
+    "CommonName": "Hadař leibyův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gordiichthys randalli",
+    "SpecCode": "53811",
+    "CommonName": "Hadař randallův",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

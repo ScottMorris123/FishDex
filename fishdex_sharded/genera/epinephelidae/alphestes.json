@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Alphestes afer",
+    "SpecCode": "8726",
+    "CommonName": "Aceituna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alphestes immaculatus",
+    "SpecCode": "8727",
+    "CommonName": "Cabrilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alphestes multiguttatus",
+    "SpecCode": "8728",
+    "CommonName": "Cabrilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

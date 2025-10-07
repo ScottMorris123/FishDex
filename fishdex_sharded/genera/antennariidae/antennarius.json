@@ -1,0 +1,114 @@
+[
+  {
+    "ScientificName": "Antennarius biocellatus",
+    "SpecCode": "11113",
+    "CommonName": "Brakvandstudsefisk",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius commerson",
+    "SpecCode": "7293",
+    "CommonName": "Antennaire géant",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius hispidus",
+    "SpecCode": "8074",
+    "CommonName": "Anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius indicus",
+    "SpecCode": "23738",
+    "CommonName": "Indian frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius maculatus",
+    "SpecCode": "9259",
+    "CommonName": "Clown anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius multiocellatus",
+    "SpecCode": "3084",
+    "CommonName": "Aniquim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius pardalis",
+    "SpecCode": "5072",
+    "CommonName": "Peixe-pescador",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius pauciradiatus",
+    "SpecCode": "3086",
+    "CommonName": "Dværgtudsefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius pictus",
+    "SpecCode": "10276",
+    "CommonName": "Black angler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius randalli",
+    "SpecCode": "7295",
+    "CommonName": "Nohu iti iti",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius scaber",
+    "SpecCode": "69561",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennarius striatus",
+    "SpecCode": "5474",
+    "CommonName": "Bantol",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

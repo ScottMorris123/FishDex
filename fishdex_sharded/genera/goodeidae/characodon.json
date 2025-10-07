@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Characodon audax",
+    "SpecCode": "6231",
+    "CommonName": "Bold characodon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characodon garmani",
+    "SpecCode": "6232",
+    "CommonName": "Mexcalpique de Parras",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characodon lateralis",
+    "SpecCode": "6233",
+    "CommonName": "Mexcalpique arcoiris",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

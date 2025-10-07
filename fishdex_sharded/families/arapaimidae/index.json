@@ -1,0 +1,17 @@
+{
+  "Family": "Arapaimidae",
+  "Order": "Osteoglossiformes",
+  "Common": "Bonytongues",
+  "Genera": [
+    {
+      "Genus": "Arapaima",
+      "SpeciesCount": 4,
+      "genus_path": "genera/arapaimidae/arapaima.json"
+    },
+    {
+      "Genus": "Heterotis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/arapaimidae/heterotis.json"
+    }
+  ]
+}

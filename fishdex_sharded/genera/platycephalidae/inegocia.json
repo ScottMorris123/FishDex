@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Inegocia harrisii",
+    "SpecCode": "10778",
+    "CommonName": "Dwarf flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inegocia japonica",
+    "SpecCode": "10335",
+    "CommonName": "Baji Jepun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Inegocia ochiaii",
+    "SpecCode": "65425",
+    "CommonName": "Chǒm-ak-yang-t'ae",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

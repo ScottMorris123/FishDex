@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Omox biporos",
+    "SpecCode": "6063",
+    "CommonName": "Doublepore blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Omox lupus",
+    "SpecCode": "27534",
+    "CommonName": "Wolf blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

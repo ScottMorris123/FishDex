@@ -1,0 +1,132 @@
+{
+  "Family": "Scorpaenidae",
+  "Order": "Perciformes/Scorpaenoidei",
+  "Common": "Scorpionfishes or rockfishes",
+  "Genera": [
+    {
+      "Genus": "Brachypterois",
+      "SpeciesCount": 3,
+      "genus_path": "genera/scorpaenidae/brachypterois.json"
+    },
+    {
+      "Genus": "Caracanthus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/scorpaenidae/caracanthus.json"
+    },
+    {
+      "Genus": "Dendrochirus",
+      "SpeciesCount": 8,
+      "genus_path": "genera/scorpaenidae/dendrochirus.json"
+    },
+    {
+      "Genus": "Ebosia",
+      "SpeciesCount": 4,
+      "genus_path": "genera/scorpaenidae/ebosia.json"
+    },
+    {
+      "Genus": "Hipposcorpaena",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scorpaenidae/hipposcorpaena.json"
+    },
+    {
+      "Genus": "Hoplosebastes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scorpaenidae/hoplosebastes.json"
+    },
+    {
+      "Genus": "Idiastion",
+      "SpeciesCount": 3,
+      "genus_path": "genera/scorpaenidae/idiastion.json"
+    },
+    {
+      "Genus": "Iracundus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scorpaenidae/iracundus.json"
+    },
+    {
+      "Genus": "Neomerinthe",
+      "SpeciesCount": 12,
+      "genus_path": "genera/scorpaenidae/neomerinthe.json"
+    },
+    {
+      "Genus": "Neoscorpaena",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scorpaenidae/neoscorpaena.json"
+    },
+    {
+      "Genus": "Parapterois",
+      "SpeciesCount": 2,
+      "genus_path": "genera/scorpaenidae/parapterois.json"
+    },
+    {
+      "Genus": "Parascorpaena",
+      "SpeciesCount": 8,
+      "genus_path": "genera/scorpaenidae/parascorpaena.json"
+    },
+    {
+      "Genus": "Phenacoscorpius",
+      "SpeciesCount": 8,
+      "genus_path": "genera/scorpaenidae/phenacoscorpius.json"
+    },
+    {
+      "Genus": "Pogonoscorpius",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scorpaenidae/pogonoscorpius.json"
+    },
+    {
+      "Genus": "Pontinus",
+      "SpeciesCount": 19,
+      "genus_path": "genera/scorpaenidae/pontinus.json"
+    },
+    {
+      "Genus": "Pteroidichthys",
+      "SpeciesCount": 4,
+      "genus_path": "genera/scorpaenidae/pteroidichthys.json"
+    },
+    {
+      "Genus": "Pterois",
+      "SpeciesCount": 12,
+      "genus_path": "genera/scorpaenidae/pterois.json"
+    },
+    {
+      "Genus": "Rhinopias",
+      "SpeciesCount": 6,
+      "genus_path": "genera/scorpaenidae/rhinopias.json"
+    },
+    {
+      "Genus": "Scorpaena",
+      "SpeciesCount": 64,
+      "genus_path": "genera/scorpaenidae/scorpaena.json"
+    },
+    {
+      "Genus": "Scorpaenodes",
+      "SpeciesCount": 29,
+      "genus_path": "genera/scorpaenidae/scorpaenodes.json"
+    },
+    {
+      "Genus": "Scorpaenopsis",
+      "SpeciesCount": 28,
+      "genus_path": "genera/scorpaenidae/scorpaenopsis.json"
+    },
+    {
+      "Genus": "Sebastapistes",
+      "SpeciesCount": 11,
+      "genus_path": "genera/scorpaenidae/sebastapistes.json"
+    },
+    {
+      "Genus": "Taenianotus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scorpaenidae/taenianotus.json"
+    },
+    {
+      "Genus": "Thysanichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scorpaenidae/thysanichthys.json"
+    },
+    {
+      "Genus": "Ursinoscorpaenopsis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/scorpaenidae/ursinoscorpaenopsis.json"
+    }
+  ]
+}

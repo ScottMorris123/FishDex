@@ -1,0 +1,322 @@
+{
+  "Family": "Ophichthidae",
+  "Order": "Anguilliformes",
+  "Common": "Snake eels",
+  "Genera": [
+    {
+      "Genus": "Ahlia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/ahlia.json"
+    },
+    {
+      "Genus": "Allips",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/allips.json"
+    },
+    {
+      "Genus": "Aplatophis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/aplatophis.json"
+    },
+    {
+      "Genus": "Aprognathodon",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/aprognathodon.json"
+    },
+    {
+      "Genus": "Apterichtus",
+      "SpeciesCount": 21,
+      "genus_path": "genera/ophichthidae/apterichtus.json"
+    },
+    {
+      "Genus": "Asarcenchelys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/asarcenchelys.json"
+    },
+    {
+      "Genus": "Bascanichthys",
+      "SpeciesCount": 19,
+      "genus_path": "genera/ophichthidae/bascanichthys.json"
+    },
+    {
+      "Genus": "Benthenchelys",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ophichthidae/benthenchelys.json"
+    },
+    {
+      "Genus": "Brachysomophis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ophichthidae/brachysomophis.json"
+    },
+    {
+      "Genus": "Caecula",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/caecula.json"
+    },
+    {
+      "Genus": "Callechelys",
+      "SpeciesCount": 15,
+      "genus_path": "genera/ophichthidae/callechelys.json"
+    },
+    {
+      "Genus": "Caralophia",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/caralophia.json"
+    },
+    {
+      "Genus": "Chauligenion",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/chauligenion.json"
+    },
+    {
+      "Genus": "Cirrhimuraena",
+      "SpeciesCount": 10,
+      "genus_path": "genera/ophichthidae/cirrhimuraena.json"
+    },
+    {
+      "Genus": "Cirricaecula",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/cirricaecula.json"
+    },
+    {
+      "Genus": "Dalophis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ophichthidae/dalophis.json"
+    },
+    {
+      "Genus": "Echelus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ophichthidae/echelus.json"
+    },
+    {
+      "Genus": "Echiophis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ophichthidae/echiophis.json"
+    },
+    {
+      "Genus": "Ethadophis",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ophichthidae/ethadophis.json"
+    },
+    {
+      "Genus": "Evips",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/evips.json"
+    },
+    {
+      "Genus": "Glenoglossa",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/glenoglossa.json"
+    },
+    {
+      "Genus": "Gordiichthys",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ophichthidae/gordiichthys.json"
+    },
+    {
+      "Genus": "Hemerorhinus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/hemerorhinus.json"
+    },
+    {
+      "Genus": "Herpetoichthys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/herpetoichthys.json"
+    },
+    {
+      "Genus": "Hyphalophis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/hyphalophis.json"
+    },
+    {
+      "Genus": "Ichthyapus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ophichthidae/ichthyapus.json"
+    },
+    {
+      "Genus": "Kertomichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/kertomichthys.json"
+    },
+    {
+      "Genus": "Lamnostoma",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ophichthidae/lamnostoma.json"
+    },
+    {
+      "Genus": "Leiuranus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/leiuranus.json"
+    },
+    {
+      "Genus": "Leptenchelys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/leptenchelys.json"
+    },
+    {
+      "Genus": "Leptocephalus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/leptocephalus.json"
+    },
+    {
+      "Genus": "Letharchus",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ophichthidae/letharchus.json"
+    },
+    {
+      "Genus": "Lethogoleos",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/lethogoleos.json"
+    },
+    {
+      "Genus": "Leuropharus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/leuropharus.json"
+    },
+    {
+      "Genus": "Luthulenchelys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/luthulenchelys.json"
+    },
+    {
+      "Genus": "Malvoliophis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/malvoliophis.json"
+    },
+    {
+      "Genus": "Mixomyrophis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/mixomyrophis.json"
+    },
+    {
+      "Genus": "Muraenichthys",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ophichthidae/muraenichthys.json"
+    },
+    {
+      "Genus": "Myrichthys",
+      "SpeciesCount": 11,
+      "genus_path": "genera/ophichthidae/myrichthys.json"
+    },
+    {
+      "Genus": "Myrophis",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ophichthidae/myrophis.json"
+    },
+    {
+      "Genus": "Mystriophis",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/mystriophis.json"
+    },
+    {
+      "Genus": "Neenchelys",
+      "SpeciesCount": 12,
+      "genus_path": "genera/ophichthidae/neenchelys.json"
+    },
+    {
+      "Genus": "Ophichthus",
+      "SpeciesCount": 89,
+      "genus_path": "genera/ophichthidae/ophichthus.json"
+    },
+    {
+      "Genus": "Ophisurus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/ophisurus.json"
+    },
+    {
+      "Genus": "Paraletharchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/paraletharchus.json"
+    },
+    {
+      "Genus": "Phaenomonas",
+      "SpeciesCount": 3,
+      "genus_path": "genera/ophichthidae/phaenomonas.json"
+    },
+    {
+      "Genus": "Phyllophichthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/phyllophichthus.json"
+    },
+    {
+      "Genus": "Pisodonophis",
+      "SpeciesCount": 8,
+      "genus_path": "genera/ophichthidae/pisodonophis.json"
+    },
+    {
+      "Genus": "Pseudomyrophis",
+      "SpeciesCount": 5,
+      "genus_path": "genera/ophichthidae/pseudomyrophis.json"
+    },
+    {
+      "Genus": "Pylorobranchus",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/pylorobranchus.json"
+    },
+    {
+      "Genus": "Quassiremus",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ophichthidae/quassiremus.json"
+    },
+    {
+      "Genus": "Rhinophichthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/rhinophichthus.json"
+    },
+    {
+      "Genus": "Schismorhynchus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/schismorhynchus.json"
+    },
+    {
+      "Genus": "Schultzidia",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/schultzidia.json"
+    },
+    {
+      "Genus": "Scolecenchelys",
+      "SpeciesCount": 21,
+      "genus_path": "genera/ophichthidae/scolecenchelys.json"
+    },
+    {
+      "Genus": "Scytalichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/scytalichthys.json"
+    },
+    {
+      "Genus": "Skythrenchelys",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ophichthidae/skythrenchelys.json"
+    },
+    {
+      "Genus": "Stictorhinus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/stictorhinus.json"
+    },
+    {
+      "Genus": "Suculentophichthus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/suculentophichthus.json"
+    },
+    {
+      "Genus": "Sympenchelys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/sympenchelys.json"
+    },
+    {
+      "Genus": "Xestochilus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ophichthidae/xestochilus.json"
+    },
+    {
+      "Genus": "Xyrias",
+      "SpeciesCount": 4,
+      "genus_path": "genera/ophichthidae/xyrias.json"
+    },
+    {
+      "Genus": "Yirrkala",
+      "SpeciesCount": 16,
+      "genus_path": "genera/ophichthidae/yirrkala.json"
+    }
+  ]
+}

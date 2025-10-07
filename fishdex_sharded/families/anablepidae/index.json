@@ -1,0 +1,22 @@
+{
+  "Family": "Anablepidae",
+  "Order": "Cyprinodontiformes",
+  "Common": "Four-eyed fishes, onesided livebearers & white-eye",
+  "Genera": [
+    {
+      "Genus": "Anableps",
+      "SpeciesCount": 3,
+      "genus_path": "genera/anablepidae/anableps.json"
+    },
+    {
+      "Genus": "Jenynsia",
+      "SpeciesCount": 15,
+      "genus_path": "genera/anablepidae/jenynsia.json"
+    },
+    {
+      "Genus": "Oxyzygonectes",
+      "SpeciesCount": 1,
+      "genus_path": "genera/anablepidae/oxyzygonectes.json"
+    }
+  ]
+}

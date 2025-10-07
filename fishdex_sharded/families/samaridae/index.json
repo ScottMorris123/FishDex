@@ -1,0 +1,27 @@
+{
+  "Family": "Samaridae",
+  "Order": "Pleuronectiformes",
+  "Common": "Crested flounders",
+  "Genera": [
+    {
+      "Genus": "Plagiopsetta",
+      "SpeciesCount": 4,
+      "genus_path": "genera/samaridae/plagiopsetta.json"
+    },
+    {
+      "Genus": "Samaretta",
+      "SpeciesCount": 1,
+      "genus_path": "genera/samaridae/samaretta.json"
+    },
+    {
+      "Genus": "Samaris",
+      "SpeciesCount": 5,
+      "genus_path": "genera/samaridae/samaris.json"
+    },
+    {
+      "Genus": "Samariscus",
+      "SpeciesCount": 20,
+      "genus_path": "genera/samaridae/samariscus.json"
+    }
+  ]
+}

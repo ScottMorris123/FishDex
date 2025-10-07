@@ -1,0 +1,12 @@
+{
+  "Family": "Isonidae",
+  "Order": "Atheriniformes",
+  "Common": "Isonids",
+  "Genera": [
+    {
+      "Genus": "Iso",
+      "SpeciesCount": 5,
+      "genus_path": "genera/isonidae/iso.json"
+    }
+  ]
+}

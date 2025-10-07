@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ateleopus edentatus",
+    "SpecCode": "70355",
+    "CommonName": "Shiroguchi-shachiburi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ateleopus japonicus",
+    "SpecCode": "7281",
+    "CommonName": "Berudu Jepun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ateleopus natalensis",
+    "SpecCode": "10662",
+    "CommonName": "Berudu agar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ateleopus purpureus",
+    "SpecCode": "54011",
+    "CommonName": "Murasaki-shachiburi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ateleopus tanabensis",
+    "SpecCode": "54013",
+    "CommonName": "田边辫鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

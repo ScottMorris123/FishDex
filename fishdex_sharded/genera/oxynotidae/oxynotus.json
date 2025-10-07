@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Oxynotus bruniensis",
+    "SpecCode": "715",
+    "CommonName": "Bodičasti morski prašič",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynotus caribbaeus",
+    "SpecCode": "717",
+    "CommonName": "Caribbean roughshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynotus centrina",
+    "SpecCode": "718",
+    "CommonName": "Achilli",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynotus japonicus",
+    "SpecCode": "54012",
+    "CommonName": "Jaapani vinkelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxynotus paradoxus",
+    "SpecCode": "719",
+    "CommonName": "Angular rough shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

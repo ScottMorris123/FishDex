@@ -1,0 +1,51 @@
+[
+  {
+    "ScientificName": "Dorosoma anale",
+    "SpecCode": "1603",
+    "CommonName": "Dorosoma mexická",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dorosoma cepedianum",
+    "SpecCode": "1604",
+    "CommonName": "Ameriška suličasta čepa",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dorosoma chavesi",
+    "SpecCode": "1605",
+    "CommonName": "Dorosoma nikaragujská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dorosoma petenense",
+    "SpecCode": "1606",
+    "CommonName": "Alose fil",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dorosoma smithi",
+    "SpecCode": "1607",
+    "CommonName": "Alose du Pacifique",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

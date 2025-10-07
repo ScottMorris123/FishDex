@@ -1,0 +1,22 @@
+{
+  "Family": "Diretmidae",
+  "Order": "Trachichthyiformes",
+  "Common": "Spinyfins",
+  "Genera": [
+    {
+      "Genus": "Diretmichthys",
+      "SpeciesCount": 1,
+      "genus_path": "genera/diretmidae/diretmichthys.json"
+    },
+    {
+      "Genus": "Diretmoides",
+      "SpeciesCount": 2,
+      "genus_path": "genera/diretmidae/diretmoides.json"
+    },
+    {
+      "Genus": "Diretmus",
+      "SpeciesCount": 1,
+      "genus_path": "genera/diretmidae/diretmus.json"
+    }
+  ]
+}

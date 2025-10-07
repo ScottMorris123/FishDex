@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Gadomus aoteanus",
+    "SpecCode": "46976",
+    "CommonName": "Filamentous rat tail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus arcuatus",
+    "SpecCode": "8434",
+    "CommonName": "Doublethread Grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus capensis",
+    "SpecCode": "16773",
+    "CommonName": "岬鼠鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus colletti",
+    "SpecCode": "23169",
+    "CommonName": "Katadara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus denticulatus",
+    "SpecCode": "52174",
+    "CommonName": "小齒鼠鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus dispar",
+    "SpecCode": "52175",
+    "CommonName": "野鼠鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus filamentosus",
+    "SpecCode": "58887",
+    "CommonName": "丝鳍底尾鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus introniger",
+    "SpecCode": "52176",
+    "CommonName": "Blackmouth rat tail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus longifilis",
+    "SpecCode": "16283",
+    "CommonName": "Hirenaga-katadara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus magnifilis",
+    "SpecCode": "52177",
+    "CommonName": "大丝鼠鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus melanopterus",
+    "SpecCode": "58935",
+    "CommonName": "黑鰭鼠鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus multifilis",
+    "SpecCode": "23172",
+    "CommonName": "Nodoguro-katadara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gadomus pepperi",
+    "SpecCode": "58934",
+    "CommonName": "Blacktongue rat tail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

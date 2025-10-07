@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Trichonotus arabicus",
+    "SpecCode": "27006",
+    "CommonName": "Arabian sand diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichonotus blochii",
+    "SpecCode": "65527",
+    "CommonName": "Bloch's sand diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichonotus cyclograptus",
+    "SpecCode": "27322",
+    "CommonName": "Bengal sand diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichonotus elegans",
+    "SpecCode": "23560",
+    "CommonName": "Elegant sand diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichonotus filamentosus",
+    "SpecCode": "23559",
+    "CommonName": "Black-spot sand-diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichonotus halstead",
+    "SpecCode": "46499",
+    "CommonName": "Gold-bar sand-diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichonotus marleyi",
+    "SpecCode": "7998",
+    "CommonName": "Sand diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichonotus nikii",
+    "SpecCode": "27323",
+    "CommonName": "尼氏毛背魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichonotus setiger",
+    "SpecCode": "12670",
+    "CommonName": "Anguille de sable",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichonotus somaliensis",
+    "SpecCode": "67035",
+    "CommonName": "Somalian sand diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Bathysauropsis gracilis",
+    "SpecCode": "23145",
+    "CommonName": "Black deepsea lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathysauropsis malayanus",
+    "SpecCode": "58802",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

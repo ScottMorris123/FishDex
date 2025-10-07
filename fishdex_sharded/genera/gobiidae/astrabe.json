@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Astrabe fasciata",
+    "SpecCode": "56114",
+    "CommonName": "Shima-shirokurahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astrabe flavimaculata",
+    "SpecCode": "56113",
+    "CommonName": "Kimadarahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astrabe lactisella",
+    "SpecCode": "23706",
+    "CommonName": "Shirokurahaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

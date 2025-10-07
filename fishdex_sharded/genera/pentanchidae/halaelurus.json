@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Halaelurus boesemani",
+    "SpecCode": "815",
+    "CommonName": "Cá Nhám",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halaelurus buergeri",
+    "SpecCode": "816",
+    "CommonName": "Black-spotted cat shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halaelurus lineatus",
+    "SpecCode": "821",
+    "CommonName": "Banded catshark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halaelurus maculosus",
+    "SpecCode": "63525",
+    "CommonName": "Indoneesia šelfihai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halaelurus natalensis",
+    "SpecCode": "823",
+    "CommonName": "Holbiche tigrée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halaelurus quagga",
+    "SpecCode": "824",
+    "CommonName": "Holbiche quagga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halaelurus sellus",
+    "SpecCode": "63526",
+    "CommonName": "Austraalia šelfihai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

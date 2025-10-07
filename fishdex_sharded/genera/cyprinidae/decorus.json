@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Decorus decorus",
+    "SpecCode": "14449",
+    "CommonName": "Labeo sličné",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decorus lemassoni",
+    "SpecCode": "59919",
+    "CommonName": "Cá Rấm xanh",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decorus rendahli",
+    "SpecCode": "55364",
+    "CommonName": "Labeo Rendahlovo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decorus tungting",
+    "SpecCode": "60238",
+    "CommonName": "Tungtingi bangaan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Decorus xanthogenys",
+    "SpecCode": "56300",
+    "CommonName": "Bangana žlutá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

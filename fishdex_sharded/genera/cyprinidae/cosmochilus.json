@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Cosmochilus cardinalis",
+    "SpecCode": "27255",
+    "CommonName": "Bia liang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cosmochilus falcifer",
+    "SpecCode": "22736",
+    "CommonName": "Hongči indonéský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cosmochilus harmandi",
+    "SpecCode": "27101",
+    "CommonName": "Cá duòng bay",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cosmochilus nanlaensis",
+    "SpecCode": "58237",
+    "CommonName": "Hongči junanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

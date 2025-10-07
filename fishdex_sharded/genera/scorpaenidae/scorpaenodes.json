@@ -1,0 +1,264 @@
+[
+  {
+    "ScientificName": "Scorpaenodes africanus",
+    "SpecCode": "17283",
+    "CommonName": "非洲小鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes albaiensis",
+    "SpecCode": "7313",
+    "CommonName": "Langvinger-skerpioenvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes arenai",
+    "SpecCode": "46345",
+    "CommonName": "Arachnoskorpios",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes barrybrowni",
+    "SpecCode": "68794",
+    "CommonName": "Escorpión estrellado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes bathycolus",
+    "SpecCode": "66858",
+    "CommonName": "Deepreef scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes caribbaeus",
+    "SpecCode": "3946",
+    "CommonName": "Aniquim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes corallinus",
+    "SpecCode": "27363",
+    "CommonName": "Coral scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes elongatus",
+    "SpecCode": "17284",
+    "CommonName": "African spotted scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes englerti",
+    "SpecCode": "55124",
+    "CommonName": "Englert's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes evides",
+    "SpecCode": "59562",
+    "CommonName": "Cheekspot scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes guamensis",
+    "SpecCode": "5819",
+    "CommonName": "Ampo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes hirsutus",
+    "SpecCode": "5815",
+    "CommonName": "Hairy scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes immaculatus",
+    "SpecCode": "59565",
+    "CommonName": "无斑小鲉",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes insularis",
+    "SpecCode": "17285",
+    "CommonName": "Red scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes investigatoris",
+    "SpecCode": "59567",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes kelloggi",
+    "SpecCode": "5816",
+    "CommonName": "Dwarf scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes minor",
+    "SpecCode": "5817",
+    "CommonName": "Brock's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes muciparus",
+    "SpecCode": "59206",
+    "CommonName": "黏小鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes parvipinnis",
+    "SpecCode": "4915",
+    "CommonName": "Coral scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes quadrispinosus",
+    "SpecCode": "60274",
+    "CommonName": "Fourspine scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes rubrivinctus",
+    "SpecCode": "65447",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes scaber",
+    "SpecCode": "7314",
+    "CommonName": "Depu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes smithi",
+    "SpecCode": "11692",
+    "CommonName": "Little scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes steenei",
+    "SpecCode": "52374",
+    "CommonName": "Steene's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes steinitzi",
+    "SpecCode": "56488",
+    "CommonName": "斯坦尼小鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes tredecimspinosus",
+    "SpecCode": "3947",
+    "CommonName": "Aniquim",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes tribulosus",
+    "SpecCode": "59576",
+    "CommonName": "三尖小鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes varipinnis",
+    "SpecCode": "5818",
+    "CommonName": "Blotchfin scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scorpaenodes xyris",
+    "SpecCode": "3948",
+    "CommonName": "Arco iris",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

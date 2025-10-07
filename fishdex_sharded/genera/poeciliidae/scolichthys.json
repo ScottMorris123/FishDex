@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Scolichthys greenwayi",
+    "SpecCode": "47322",
+    "CommonName": "Greenways Kärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scolichthys iota",
+    "SpecCode": "47324",
+    "CommonName": "Dashed toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

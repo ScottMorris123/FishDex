@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Apodichthys flavidus",
+    "SpecCode": "3799",
+    "CommonName": "Lêlethen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apodichthys fucorum",
+    "SpecCode": "3809",
+    "CommonName": "Adru-silekõht",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

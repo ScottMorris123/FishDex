@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Notoclinus compressus",
+    "SpecCode": "46996",
+    "CommonName": "Brown topknot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notoclinus fenestratus",
+    "SpecCode": "46995",
+    "CommonName": "Hetarua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

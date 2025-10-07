@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Solenostomus armatus",
+    "SpecCode": "15300",
+    "CommonName": "Armored pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solenostomus cyanopterus",
+    "SpecCode": "7987",
+    "CommonName": "Blue-finned ghost pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solenostomus halimeda",
+    "SpecCode": "61175",
+    "CommonName": "Halimeda ghostpipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solenostomus leptosoma",
+    "SpecCode": "59050",
+    "CommonName": "Delicate ghostpipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solenostomus paegnius",
+    "SpecCode": "66889",
+    "CommonName": "Nokogiri-fûrai-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solenostomus paradoxus",
+    "SpecCode": "7312",
+    "CommonName": "(細吻)剃刀魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

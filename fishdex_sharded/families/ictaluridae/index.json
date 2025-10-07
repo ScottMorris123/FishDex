@@ -1,0 +1,42 @@
+{
+  "Family": "Ictaluridae",
+  "Order": "Siluriformes",
+  "Common": "North American freshwater catfishes",
+  "Genera": [
+    {
+      "Genus": "Ameiurus",
+      "SpeciesCount": 7,
+      "genus_path": "genera/ictaluridae/ameiurus.json"
+    },
+    {
+      "Genus": "Ictalurus",
+      "SpeciesCount": 10,
+      "genus_path": "genera/ictaluridae/ictalurus.json"
+    },
+    {
+      "Genus": "Noturus",
+      "SpeciesCount": 29,
+      "genus_path": "genera/ictaluridae/noturus.json"
+    },
+    {
+      "Genus": "Prietella",
+      "SpeciesCount": 2,
+      "genus_path": "genera/ictaluridae/prietella.json"
+    },
+    {
+      "Genus": "Pylodictis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ictaluridae/pylodictis.json"
+    },
+    {
+      "Genus": "Satan",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ictaluridae/satan.json"
+    },
+    {
+      "Genus": "Trogloglanis",
+      "SpeciesCount": 1,
+      "genus_path": "genera/ictaluridae/trogloglanis.json"
+    }
+  ]
+}

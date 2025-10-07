@@ -180,13 +180,24 @@ function ensureOwned(sp){
 function bindOwned(sp){ return { ...ensureOwned(sp), meta: sp }; }
 
 /* ---------- filtering + counts ---------- */
+function normEnv(x){
+  x = String(x || '').toLowerCase().trim();
+  if (x.startsWith('fresh')) return 'freshwater';   // fresh, freshwater, freshwater-only
+  if (x === 'inland')        return 'freshwater';
+  if (x.startsWith('brack')) return 'brackish';     // brack, brackish
+  if (x === 'marine' || x.startsWith('salt')) return 'salt'; // salt, saltwater, marine
+  return x;
+}
+
 function speciesMatchesFilters(sp, f){
-  const envs = (sp.Environments||[]).map(s=>s.toLowerCase());
-  if (f.env && !envs.includes(f.env.toLowerCase())) return false;
+  // normalize species envs to canonical keys we use in the UI
+  const envs = (sp.Environments || []).map(normEnv);
+
+  if (f.env && !envs.includes(normEnv(f.env))) return false;
 
   const conts = (sp.Continents||sp.continents||[]);
-  const countries = (sp.Countries||sp.countries||[]).map(x=>x.toUpperCase());
-  const states = (sp.States||sp.states||[]).map(x=>x.toUpperCase());
+  const countries = (sp.Countries||sp.countries||[]).map(x=>String(x).toUpperCase());
+  const states = (sp.States||sp.states||[]).map(x=>String(x).toUpperCase());
   if (f.cont && !conts.includes(f.cont)) return false;
   if (f.country && !countries.includes(f.country)) return false;
   if (f.state && !states.includes(f.state)) return false;
@@ -252,22 +263,26 @@ async function renderFamilies(){
   setCrumbs(['Families']);
 
   let fams = [];
-  try{
-    fams = await jget('index/families.json'); // array with family_index_path
-  }catch(e){
-    view.innerHTML = `
-      <div class="wrap">
-        <p class="danger">Couldn't load <code>fishdex_sharded/index/families.json</code>.</p>
-        <p class="muted">${e.message}</p>
-      </div>`;
-    countsEl.textContent = '0 caught / 0 total';
-    return;
+  try { fams = await jget('index/families.json'); }
+  catch(e){
+    view.innerHTML = `<div class="wrap"><p class="danger">Couldn't load <code>fishdex_sharded/index/families.json</code>.</p><p class="muted">${e.message}</p></div>`;
+    countsEl.textContent = '0 caught / 0 total'; return;
+  }
+
+  // Filter families by env using summary counts
+  const env = normEnv(f.env);
+  if (env) {
+    fams = fams.filter(F => {
+      if (env === 'freshwater') return (F.FreshCount||0) > 0;
+      if (env === 'brackish')   return (F.BrackishCount||0) > 0;
+      if (env === 'salt')       return (F.SaltCount||0) > 0;
+      return true;
+    });
   }
 
   view.innerHTML = `
     <div class="grid">
       ${fams.map(F => {
-        // Prefer path-derived slug to avoid casing issues
         const famSlugFromPath = (F.family_index_path||'').split('/')[1] || slug(F.Family);
         return `
           <a class="card" href="#/family/${famSlugFromPath}${buildQuery(f)}">
@@ -282,19 +297,56 @@ async function renderFamilies(){
       }).join('')}
     </div>
   `;
-  countsEl.textContent = '0 caught / 0 total';
+  countsEl.textContent = '0 caught / 0 total' + (location.hash.includes('?') ? ' (filtered)' : '');
 }
+
 
 async function renderFamily(famSlug){
   const f = readFiltersFromURL();
   let fam;
-  try{
-    fam = await jget(`families/${famSlug}/index.json`);
-  }catch(e){
-    view.innerHTML = `<p class="danger">Missing family file: <code>fishdex_sharded/families/${famSlug}/index.json</code></p>`;
-    return;
-  }
+  try { fam = await jget(`families/${famSlug}/index.json`); }
+  catch(e){ view.innerHTML = `<p class="danger">Missing family file: <code>fishdex_sharded/families/${famSlug}/index.json</code></p>`; return; }
+
   setCrumbs(['Families', fam.Family]);
+
+  // loading placeholder
+  view.innerHTML = `
+    <div class="wrap" style="padding-top:10px">
+      <div style="display:flex;gap:10px;align-items:center;margin:0 18px 6px">
+        <a class="btn ghost" href="#/families${buildQuery(f)}">← Back</a>
+        <span class="pill">${fam.Family}</span>
+        ${fam.Common ? `<span class="pill">${fam.Common}</span>` : ''}
+        ${fam.Order ? `<span class="pill">Order: ${fam.Order}</span>` : ''}
+      </div>
+      <div class="muted" style="margin:8px 18px">Loading genera…</div>
+      <div class="grid"></div>
+    </div>
+  `;
+
+  const gens = fam.Genera || [];
+  // For each genus, fetch species and count matches
+  const results = await Promise.all(gens.map(async G => {
+    const guessed = `genera/${famSlug}/${slug(G.Genus)}.json`;
+    const path = G.genus_path || guessed;
+    try {
+      const species = await jget(path); // cached after first load
+      const count = species.filter(sp => speciesMatchesFilters(sp, f)).length;
+      return { G, path, count };
+    } catch { return { G, path, count: 0 }; }
+  }));
+
+  const filtered = results.filter(r => r.count > 0);
+  const totalSpecies = filtered.reduce((a,r)=> a + r.count, 0);
+
+  const grid = filtered.map(({G, path, count}) => {
+    const encoded = encodeURIComponent(path);
+    return `
+      <a class="card" href="#/genus/${slug(fam.Family)}/${slug(G.Genus)}${buildQuery({...f, path: encoded})}">
+        <h3 class="title"><i>${G.Genus}</i></h3>
+        <div class="muted">${count} species match</div>
+      </a>
+    `;
+  }).join('');
 
   view.innerHTML = `
     <div class="wrap" style="padding-top:10px">
@@ -305,52 +357,32 @@ async function renderFamily(famSlug){
         ${fam.Order ? `<span class="pill">Order: ${fam.Order}</span>` : ''}
       </div>
       <div class="grid">
-        ${(fam.Genera||[]).map(G => {
-          // Prefer exact path if provided
-          const path = G.genus_path || `genera/${slug(fam.Family)}/${slug(G.Genus)}.json`;
-          const encoded = encodeURIComponent(path);
-          return `
-            <a class="card" href="#/genus/${slug(fam.Family)}/${slug(G.Genus)}${buildQuery({...f, path: encoded})}">
-              <h3 class="title"><i>${G.Genus}</i></h3>
-              <div class="muted">${G.SpeciesCount ?? '—'} species</div>
-            </a>
-          `;
-        }).join('')}
+        ${grid || `<div class="muted" style="padding:8px 16px">No genera match these filters.</div>`}
       </div>
     </div>
   `;
-  countsEl.textContent = '0 caught / 0 total';
+  countsEl.textContent = `0 caught / ${totalSpecies} total (filtered)`;
 }
+
 
 async function renderGenus(famSlug, genusSlug){
   const f = readFiltersFromURL();
-
-  // If a precise path is provided (from families/<family>/index.json), use it.
   const overridePath = f.path ? decodeURIComponent(f.path) : '';
   const relPath = overridePath || `genera/${famSlug}/${genusSlug}.json`;
 
   let species = [];
-  try{
-    species = await jget(relPath, true); // use the resolved path + force a fresh read
-  }catch(e){
+  try { species = await jget(relPath, true); } // force a fresh read once
+  catch(e){
     view.innerHTML = `<p class="danger">Missing genus file: <code>fishdex_sharded/${relPath}</code></p>`;
-    countsEl.textContent = '0 caught / 0 total';
-    return;
+    countsEl.textContent = '0 caught / 0 total'; return;
   }
 
   const list = species
+    .filter(sp => speciesMatchesFilters(sp, f))
     .map(sp => ({
       id: sp.SpecCode ? `spec:${sp.SpecCode}` : `name:${(sp.ScientificName||'').toLowerCase()}`,
-      ScientificName: sp.ScientificName,
-      CommonName: sp.CommonName || '',
-      Environments: sp.Environments || [],
-      Countries: sp.Countries || sp.countries || [],
-      States: sp.States || sp.states || [],
-      Continents: sp.Continents || sp.continents || [],
-      Subspecies: sp.Subspecies || [],
-      img: sp.img || null
+      ...sp
     }))
-    .filter(sp => speciesMatchesFilters(sp, f))
     .sort((a,b)=> (a.ScientificName||'').localeCompare(b.ScientificName||''))
     .map(sp => bindOwned(sp));
 
@@ -363,13 +395,14 @@ async function renderGenus(famSlug, genusSlug){
         <span class="pill"><i>${unslug(genusSlug)}</i></span>
       </div>
       <div id="list" class="wrap">
-        ${list.map(speciesRow).join('')}
+        ${list.map(speciesRow).join('') || `<div class="muted" style="padding:8px 16px">No species match these filters.</div>`}
       </div>
     </div>
   `;
   setCountsFromList(list);
   hookSpeciesEvents(list);
 }
+
 
 /* ---------- router ---------- */
 function slug(s){ return String(s).toLowerCase().replace(/\s+/g,'-').replace(/[^\w-]/g,''); }

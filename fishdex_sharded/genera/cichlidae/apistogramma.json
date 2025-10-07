@@ -2,7 +2,7 @@
   {
     "ScientificName": "Apistogramma acrensis",
     "SpecCode": "62347",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Apistogramma aguarico",
     "SpecCode": "67408",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Apistogramma alacrina",
     "SpecCode": "62004",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Apistogramma allpahuayo",
     "SpecCode": "66949",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Apistogramma angayuara",
     "SpecCode": "62641",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Apistogramma baenschi",
     "SpecCode": "62348",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Apistogramma barlowi",
     "SpecCode": "63848",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Apistogramma caudomaculata",
     "SpecCode": "66514",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Apistogramma cinilabra",
     "SpecCode": "66028",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Apistogramma eleutheria",
     "SpecCode": "70338",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Apistogramma eremnopyge",
     "SpecCode": "62078",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Apistogramma erythrura",
     "SpecCode": "64778",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Apistogramma feconat",
     "SpecCode": "68111",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Apistogramma flabellicauda",
     "SpecCode": "66515",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Apistogramma flavipedunculata",
     "SpecCode": "70339",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -308,7 +308,7 @@
   {
     "ScientificName": "Apistogramma helkeri",
     "SpecCode": "67215",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Apistogramma huascar",
     "SpecCode": "63213",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -371,7 +371,7 @@
   {
     "ScientificName": "Apistogramma inornata",
     "SpecCode": "62415",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -380,7 +380,7 @@
   {
     "ScientificName": "Apistogramma intermedia",
     "SpecCode": "66516",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Apistogramma kullanderi",
     "SpecCode": "67799",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -407,7 +407,7 @@
   {
     "ScientificName": "Apistogramma lineata",
     "SpecCode": "66699",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -443,7 +443,7 @@
   {
     "ScientificName": "Apistogramma martini",
     "SpecCode": "61776",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -452,7 +452,7 @@
   {
     "ScientificName": "Apistogramma megaptera",
     "SpecCode": "66521",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -462,7 +462,7 @@
   {
     "ScientificName": "Apistogramma megastoma",
     "SpecCode": "70336",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -489,7 +489,7 @@
   {
     "ScientificName": "Apistogramma minima",
     "SpecCode": "66517",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -525,7 +525,7 @@
   {
     "ScientificName": "Apistogramma nororientalis",
     "SpecCode": "66518",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -534,7 +534,7 @@
   {
     "ScientificName": "Apistogramma ortegai",
     "SpecCode": "67663",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -561,7 +561,7 @@
   {
     "ScientificName": "Apistogramma pantalone",
     "SpecCode": "63228",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -579,7 +579,7 @@
   {
     "ScientificName": "Apistogramma paulmuelleri",
     "SpecCode": "66920",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -597,7 +597,7 @@
   {
     "ScientificName": "Apistogramma pedunculata",
     "SpecCode": "66519",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -624,7 +624,7 @@
   {
     "ScientificName": "Apistogramma piaroa",
     "SpecCode": "66520",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -642,7 +642,7 @@
   {
     "ScientificName": "Apistogramma playayacu",
     "SpecCode": "66369",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -660,7 +660,7 @@
   {
     "ScientificName": "Apistogramma psammophila",
     "SpecCode": "69970",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -696,7 +696,7 @@
   {
     "ScientificName": "Apistogramma rositae",
     "SpecCode": "63229",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -705,7 +705,7 @@
   {
     "ScientificName": "Apistogramma rubrolineata",
     "SpecCode": "60963",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -723,7 +723,7 @@
   {
     "ScientificName": "Apistogramma salpinction",
     "SpecCode": "62642",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -732,7 +732,7 @@
   {
     "ScientificName": "Apistogramma similis",
     "SpecCode": "62414",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -741,7 +741,7 @@
   {
     "ScientificName": "Apistogramma sororcula",
     "SpecCode": "70337",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -786,7 +786,7 @@
   {
     "ScientificName": "Apistogramma tucurui",
     "SpecCode": "62416",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -813,7 +813,7 @@
   {
     "ScientificName": "Apistogramma velifera",
     "SpecCode": "62417",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -831,7 +831,7 @@
   {
     "ScientificName": "Apistogramma wapisana",
     "SpecCode": "63232",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -840,7 +840,7 @@
   {
     "ScientificName": "Apistogramma wolli",
     "SpecCode": "68110",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

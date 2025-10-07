@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Caenotropus labyrinthicus",
+    "SpecCode": "25639",
+    "CommonName": "Branquinha cascuda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caenotropus maculosus",
+    "SpecCode": "27819",
+    "CommonName": "Koulou",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caenotropus mestomorgmatos",
+    "SpecCode": "50344",
+    "CommonName": "密斑新热脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caenotropus schizodon",
+    "SpecCode": "63480",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

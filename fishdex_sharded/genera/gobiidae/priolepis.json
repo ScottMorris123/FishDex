@@ -102,7 +102,7 @@
   {
     "ScientificName": "Priolepis cyanocephala",
     "SpecCode": "65985",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

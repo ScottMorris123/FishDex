@@ -74,7 +74,7 @@
   {
     "ScientificName": "Cynodonichthys godmani",
     "SpecCode": "66795",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Cynodonichthys hendrichsi",
     "SpecCode": "66796",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Cynodonichthys leucurus",
     "SpecCode": "49769",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Cynodonichthys montium",
     "SpecCode": "49778",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Cynodonichthys myersi",
     "SpecCode": "66797",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -174,7 +174,7 @@
   {
     "ScientificName": "Cynodonichthys rubripunctatus",
     "SpecCode": "49790",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -192,7 +192,7 @@
   {
     "ScientificName": "Cynodonichthys sucubti",
     "SpecCode": "66798",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -219,7 +219,7 @@
   {
     "ScientificName": "Cynodonichthys villwocki",
     "SpecCode": "61598",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -228,7 +228,7 @@
   {
     "ScientificName": "Cynodonichthys wassmanni",
     "SpecCode": "61594",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

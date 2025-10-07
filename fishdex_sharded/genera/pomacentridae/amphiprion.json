@@ -29,7 +29,7 @@
   {
     "ScientificName": "Amphiprion barberi",
     "SpecCode": "64181",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

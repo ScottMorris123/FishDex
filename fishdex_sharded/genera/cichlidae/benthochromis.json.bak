@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Benthochromis horii",
+    "SpecCode": "63692",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthochromis melanoides",
+    "SpecCode": "8147",
+    "CommonName": "Syväsulkahautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Benthochromis tricoti",
+    "SpecCode": "8148",
+    "CommonName": "Juovasulkahautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

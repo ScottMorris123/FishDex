@@ -2,7 +2,7 @@
   {
     "ScientificName": "Mascarenichthys heemstrai",
     "SpecCode": "64484",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Mascarenichthys microphthalmus",
     "SpecCode": "64485",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Mascarenichthys remotus",
     "SpecCode": "66401",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

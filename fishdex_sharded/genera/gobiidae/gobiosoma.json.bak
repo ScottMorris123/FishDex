@@ -1,0 +1,171 @@
+[
+  {
+    "ScientificName": "Gobiosoma aceras",
+    "SpecCode": "54394",
+    "CommonName": "White-margined goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma alfiei",
+    "SpecCode": "67880",
+    "CommonName": "Alfie's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma bosc",
+    "SpecCode": "3870",
+    "CommonName": "Gobido desnudo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma chiquita",
+    "SpecCode": "46866",
+    "CommonName": "Gobio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma ginsburgi",
+    "SpecCode": "3871",
+    "CommonName": "Seaboard goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma grosvenori",
+    "SpecCode": "3872",
+    "CommonName": "Rockcut goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma hemigymnum",
+    "SpecCode": "59380",
+    "CommonName": "Amboré zebra",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma hildebrandi",
+    "SpecCode": "46919",
+    "CommonName": "希氏鮈鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma homochroma",
+    "SpecCode": "46916",
+    "CommonName": "同色鮈鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma longipala",
+    "SpecCode": "3874",
+    "CommonName": "Twoscale goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma nudum",
+    "SpecCode": "46907",
+    "CommonName": "Gobio",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma paradoxum",
+    "SpecCode": "8293",
+    "CommonName": "Góbido",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma robustum",
+    "SpecCode": "3877",
+    "CommonName": "Code goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma schultzi",
+    "SpecCode": "57963",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma seminudum",
+    "SpecCode": "54393",
+    "CommonName": "Gobio cienoso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma spes",
+    "SpecCode": "28118",
+    "CommonName": "Gobio Espes",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma spilotum",
+    "SpecCode": "57962",
+    "CommonName": "Isthmian goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiosoma yucatanum",
+    "SpecCode": "57260",
+    "CommonName": "Gobio yucateco",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

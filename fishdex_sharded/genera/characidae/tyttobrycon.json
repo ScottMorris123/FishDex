@@ -2,7 +2,7 @@
   {
     "ScientificName": "Tyttobrycon dorsimaculatus",
     "SpecCode": "51214",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Tyttobrycon hamatus",
     "SpecCode": "51217",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Tyttobrycon marajoara",
     "SpecCode": "67236",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Tyttobrycon spinosus",
     "SpecCode": "51215",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

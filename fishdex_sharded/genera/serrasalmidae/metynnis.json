@@ -2,7 +2,7 @@
   {
     "ScientificName": "Metynnis altidorsalis",
     "SpecCode": "56431",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Metynnis cuiaba",
     "SpecCode": "64970",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Metynnis orinocensis",
     "SpecCode": "58138",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Metynnis polystictus",
     "SpecCode": "64781",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

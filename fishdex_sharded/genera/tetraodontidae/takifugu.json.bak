@@ -1,0 +1,254 @@
+[
+  {
+    "ScientificName": "Takifugu alboplumbeus",
+    "SpecCode": "59620",
+    "CommonName": "Hong Kong Pufferfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu basilevskianus",
+    "SpecCode": "67697",
+    "CommonName": "Kara-fugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu bimaculatus",
+    "SpecCode": "59619",
+    "CommonName": "Futatsuboshi-fugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu chinensis",
+    "SpecCode": "13075",
+    "CommonName": "Karasu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu chrysops",
+    "SpecCode": "24312",
+    "CommonName": "Akamefugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu coronoidus",
+    "SpecCode": "60464",
+    "CommonName": "晕环多纪鲀",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu exascurus",
+    "SpecCode": "13079",
+    "CommonName": "Mushifugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu flavidus",
+    "SpecCode": "24266",
+    "CommonName": "Hwang-jǒm-pok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu flavipterus",
+    "SpecCode": "69106",
+    "CommonName": "Fine Patterned Puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu niphobles",
+    "SpecCode": "13077",
+    "CommonName": "Cá Nóc sao",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu oblongus",
+    "SpecCode": "8301",
+    "CommonName": "Bebo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu obscurus",
+    "SpecCode": "24264",
+    "CommonName": "Mefugu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu ocellatus",
+    "SpecCode": "55081",
+    "CommonName": "Eclipse Puffer",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu orbimaculatus",
+    "SpecCode": "60672",
+    "CommonName": "圆斑多纪鲀",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu pardalis",
+    "SpecCode": "13081",
+    "CommonName": "Bào dōng fāng tún",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu plagiocellatus",
+    "SpecCode": "63997",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu poecilonotus",
+    "SpecCode": "24268",
+    "CommonName": "Bān diǎn dōng fāng tún",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu porphyreus",
+    "SpecCode": "10303",
+    "CommonName": "Kǒm-pok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu pseudommus",
+    "SpecCode": "24265",
+    "CommonName": "Nameradamashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu radiatus",
+    "SpecCode": "13076",
+    "CommonName": "Nashifugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu reticularis",
+    "SpecCode": "59618",
+    "CommonName": "Amime-fugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu rubripes",
+    "SpecCode": "8198",
+    "CommonName": "Cha-ju-pok",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu snyderi",
+    "SpecCode": "59617",
+    "CommonName": "Shōsai-fugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu stictonotus",
+    "SpecCode": "13080",
+    "CommonName": "Gomafugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu variomaculatus",
+    "SpecCode": "63998",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu vermicularis",
+    "SpecCode": "10301",
+    "CommonName": "Chóng wén dōng fāng tún",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Takifugu xanthopterus",
+    "SpecCode": "13074",
+    "CommonName": "Huáng qí dōng fāng tún",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

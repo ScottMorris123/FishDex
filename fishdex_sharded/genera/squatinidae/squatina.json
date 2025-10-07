@@ -229,7 +229,7 @@
   {
     "ScientificName": "Squatina varii",
     "SpecCode": "68861",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

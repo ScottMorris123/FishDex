@@ -84,7 +84,7 @@
   {
     "ScientificName": "Raja ocellifera",
     "SpecCode": "69056",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

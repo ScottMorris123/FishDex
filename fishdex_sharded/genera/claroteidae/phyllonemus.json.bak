@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Phyllonemus brichardi",
+    "SpecCode": "60381",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phyllonemus filinemus",
+    "SpecCode": "9359",
+    "CommonName": "Remmikissamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phyllonemus typus",
+    "SpecCode": "9358",
+    "CommonName": "Spatula-barbeled catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

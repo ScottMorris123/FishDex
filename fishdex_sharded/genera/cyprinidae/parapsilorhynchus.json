@@ -2,7 +2,7 @@
   {
     "ScientificName": "Parapsilorhynchus alluriensis",
     "SpecCode": "70240",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Parapsilorhynchus odishaensis",
     "SpecCode": "70241",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

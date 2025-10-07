@@ -11,7 +11,7 @@
   {
     "ScientificName": "Echiodon atopus",
     "SpecCode": "62190",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Echiodon prionodon",
     "SpecCode": "67414",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

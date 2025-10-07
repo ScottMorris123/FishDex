@@ -20,7 +20,7 @@
   {
     "ScientificName": "Hypseleotris barrawayi",
     "SpecCode": "64092",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -77,7 +77,7 @@
   {
     "ScientificName": "Hypseleotris everetti",
     "SpecCode": "61714",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -142,7 +142,7 @@
   {
     "ScientificName": "Hypseleotris leuciscus",
     "SpecCode": "25054",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -170,7 +170,7 @@
   {
     "ScientificName": "Hypseleotris pangel",
     "SpecCode": "61715",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

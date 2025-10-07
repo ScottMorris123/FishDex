@@ -20,7 +20,7 @@
   {
     "ScientificName": "Osteodiscus rhepostomias",
     "SpecCode": "66723",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

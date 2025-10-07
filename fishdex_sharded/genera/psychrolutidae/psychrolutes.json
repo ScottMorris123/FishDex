@@ -38,7 +38,7 @@
   {
     "ScientificName": "Psychrolutes microporos",
     "SpecCode": "58788",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

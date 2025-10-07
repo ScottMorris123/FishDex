@@ -41,7 +41,7 @@
   {
     "ScientificName": "Drombus kranjiensis",
     "SpecCode": "25072",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -71,7 +71,7 @@
   {
     "ScientificName": "Drombus palackyi",
     "SpecCode": "61671",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

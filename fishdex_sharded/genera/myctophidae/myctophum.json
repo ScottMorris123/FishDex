@@ -39,7 +39,7 @@
   {
     "ScientificName": "Myctophum indicum",
     "SpecCode": "61053",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

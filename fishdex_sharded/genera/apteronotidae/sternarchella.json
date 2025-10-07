@@ -2,7 +2,7 @@
   {
     "ScientificName": "Sternarchella calhamazon",
     "SpecCode": "67010",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Sternarchella orinoco",
     "SpecCode": "69800",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Sternarchella orthos",
     "SpecCode": "47921",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Sternarchella patriciae",
     "SpecCode": "69789",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Sternarchella rex",
     "SpecCode": "69790",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

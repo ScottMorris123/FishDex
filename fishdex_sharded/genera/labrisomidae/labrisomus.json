@@ -20,7 +20,7 @@
   {
     "ScientificName": "Labrisomus fernandezianus",
     "SpecCode": "55258",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Labrisomus pomaspilus",
     "SpecCode": "60826",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

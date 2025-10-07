@@ -38,7 +38,7 @@
   {
     "ScientificName": "Callanthias parini",
     "SpecCode": "55296",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Callanthias platei",
     "SpecCode": "55298",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Callanthias splendens",
     "SpecCode": "59013",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

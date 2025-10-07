@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Plataplochilus cabindae",
+    "SpecCode": "9698",
+    "CommonName": "Cabinda-Leuchtaugenfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plataplochilus chalcopyrus",
+    "SpecCode": "60326",
+    "CommonName": "Flame lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plataplochilus eliasi",
+    "SpecCode": "69636",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plataplochilus loemensis",
+    "SpecCode": "55966",
+    "CommonName": "Loeme lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plataplochilus miltotaenia",
+    "SpecCode": "9699",
+    "CommonName": "Punajuovatähtisilmä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plataplochilus mimus",
+    "SpecCode": "69515",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plataplochilus ngaensis",
+    "SpecCode": "9700",
+    "CommonName": "Kristallitähtisilmä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plataplochilus pulcher",
+    "SpecCode": "69516",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plataplochilus terveri",
+    "SpecCode": "9701",
+    "CommonName": "Ogôoué lampeye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

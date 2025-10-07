@@ -20,7 +20,7 @@
   {
     "ScientificName": "Rhadinoloricaria laani",
     "SpecCode": "53562",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Rhadinoloricaria listrorhinos",
     "SpecCode": "53563",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Rhadinoloricaria papillosa",
     "SpecCode": "70129",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Rhadinoloricaria stewarti",
     "SpecCode": "70124",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

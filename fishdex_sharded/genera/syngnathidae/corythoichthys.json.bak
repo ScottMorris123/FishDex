@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Corythoichthys amplexus",
+    "SpecCode": "6659",
+    "CommonName": "Brown-banded pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys benedetto",
+    "SpecCode": "63726",
+    "CommonName": "Benedetto's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys conspicillatus",
+    "SpecCode": "66915",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys flavofasciatus",
+    "SpecCode": "5959",
+    "CommonName": "Banded pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys haematopterus",
+    "SpecCode": "5960",
+    "CommonName": "Bloodspot pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys insularis",
+    "SpecCode": "25368",
+    "CommonName": "海岛冠海龙",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys intestinalis",
+    "SpecCode": "5961",
+    "CommonName": "Australian banded pipe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys nigripectus",
+    "SpecCode": "5962",
+    "CommonName": "Blackbreasted pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys ocellatus",
+    "SpecCode": "5963",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys paxtoni",
+    "SpecCode": "27349",
+    "CommonName": "Paxton's pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys polynotatus",
+    "SpecCode": "5964",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Corythoichthys schultzi",
+    "SpecCode": "5965",
+    "CommonName": "Dagum-dagum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

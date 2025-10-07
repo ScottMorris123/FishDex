@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Pteragogus aurigarius",
+    "SpecCode": "59629",
+    "CommonName": "Ohaguro-bera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteragogus clarkae",
+    "SpecCode": "66976",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteragogus cryptus",
+    "SpecCode": "5620",
+    "CommonName": "Cryptic wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteragogus enneacanthus",
+    "SpecCode": "52464",
+    "CommonName": "Cockatiel-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteragogus flagellifer",
+    "SpecCode": "8022",
+    "CommonName": "Cocktail fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteragogus guttatus",
+    "SpecCode": "5621",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteragogus pelycus",
+    "SpecCode": "8023",
+    "CommonName": "Bakkebaard-lipvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteragogus taeniops",
+    "SpecCode": "8024",
+    "CommonName": "Cheekbar wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteragogus trispilus",
+    "SpecCode": "66979",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteragogus variabilis",
+    "SpecCode": "66977",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

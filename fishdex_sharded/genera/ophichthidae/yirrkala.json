@@ -130,7 +130,7 @@
   {
     "ScientificName": "Yirrkala philippinensis",
     "SpecCode": "70478",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

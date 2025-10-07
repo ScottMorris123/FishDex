@@ -20,7 +20,7 @@
   {
     "ScientificName": "Plataplochilus eliasi",
     "SpecCode": "69636",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Plataplochilus mimus",
     "SpecCode": "69515",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Plataplochilus pulcher",
     "SpecCode": "69516",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

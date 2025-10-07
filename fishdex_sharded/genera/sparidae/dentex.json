@@ -65,7 +65,7 @@
   {
     "ScientificName": "Dentex fourmanoiri",
     "SpecCode": "60906",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

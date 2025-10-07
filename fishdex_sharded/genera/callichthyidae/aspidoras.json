@@ -74,7 +74,7 @@
   {
     "ScientificName": "Aspidoras kiriri",
     "SpecCode": "70341",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Aspidoras marianae",
     "SpecCode": "68173",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Aspidoras taurus",
     "SpecCode": "59209",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

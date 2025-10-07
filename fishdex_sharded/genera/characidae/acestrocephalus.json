@@ -2,7 +2,7 @@
   {
     "ScientificName": "Acestrocephalus acutus",
     "SpecCode": "63992",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Acestrocephalus maculosus",
     "SpecCode": "63986",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Acestrocephalus nigrifasciatus",
     "SpecCode": "63990",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Acestrocephalus pallidus",
     "SpecCode": "63995",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Acestrocephalus stigmatus",
     "SpecCode": "63988",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

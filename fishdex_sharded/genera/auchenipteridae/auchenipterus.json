@@ -20,7 +20,7 @@
   {
     "ScientificName": "Auchenipterus brevior",
     "SpecCode": "57148",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Auchenipterus britskii",
     "SpecCode": "57151",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Auchenipterus demerarae",
     "SpecCode": "57147",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Auchenipterus dentatus",
     "SpecCode": "57146",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Auchenipterus fordicei",
     "SpecCode": "53668",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

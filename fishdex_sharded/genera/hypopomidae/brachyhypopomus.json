@@ -38,7 +38,7 @@
   {
     "ScientificName": "Brachyhypopomus belindae",
     "SpecCode": "68570",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Brachyhypopomus bennetti",
     "SpecCode": "67217",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -66,7 +66,7 @@
   {
     "ScientificName": "Brachyhypopomus bombilla",
     "SpecCode": "64003",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Brachyhypopomus bullocki",
     "SpecCode": "64937",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Brachyhypopomus degy",
     "SpecCode": "70231",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -120,7 +120,7 @@
   {
     "ScientificName": "Brachyhypopomus draco",
     "SpecCode": "64062",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -138,7 +138,7 @@
   {
     "ScientificName": "Brachyhypopomus gauderio",
     "SpecCode": "64917",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -237,7 +237,7 @@
   {
     "ScientificName": "Brachyhypopomus sullivani",
     "SpecCode": "68586",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -255,7 +255,7 @@
   {
     "ScientificName": "Brachyhypopomus walteri",
     "SpecCode": "67216",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -29,7 +29,7 @@
   {
     "ScientificName": "Hirundichthys ilma",
     "SpecCode": "60698",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Hirundichthys indicus",
     "SpecCode": "67585",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

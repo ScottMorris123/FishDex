@@ -84,7 +84,7 @@
   {
     "ScientificName": "Sillago caudicula",
     "SpecCode": "66009",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -194,7 +194,7 @@
   {
     "ScientificName": "Sillago nigrofasciata",
     "SpecCode": "70388",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -241,7 +241,7 @@
   {
     "ScientificName": "Sillago shaoi",
     "SpecCode": "70545",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -261,7 +261,7 @@
   {
     "ScientificName": "Sillago sinica",
     "SpecCode": "65964",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

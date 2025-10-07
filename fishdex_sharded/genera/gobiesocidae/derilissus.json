@@ -2,7 +2,7 @@
   {
     "ScientificName": "Derilissus altifrons",
     "SpecCode": "54594",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Derilissus lombardii",
     "SpecCode": "67404",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Derilissus vittiger",
     "SpecCode": "60710",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

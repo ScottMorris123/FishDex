@@ -20,7 +20,7 @@
   {
     "ScientificName": "Psilogobius randalli",
     "SpecCode": "59404",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

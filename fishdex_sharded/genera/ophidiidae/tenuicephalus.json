@@ -11,7 +11,7 @@
   {
     "ScientificName": "Tenuicephalus multitrabs",
     "SpecCode": "69717",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Tenuicephalus silus",
     "SpecCode": "54215",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Tenuicephalus squamilabrus",
     "SpecCode": "69716",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

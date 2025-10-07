@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Schultzichthys bondi",
+    "SpecCode": "48775",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schultzichthys gracilis",
+    "SpecCode": "58370",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

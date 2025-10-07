@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Olyra astrifera",
+    "SpecCode": "67182",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Olyra burmanica",
+    "SpecCode": "12016",
+    "CommonName": "Longtail catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Olyra collettii",
+    "SpecCode": "47775",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Olyra horae",
+    "SpecCode": "24975",
+    "CommonName": "Hora olyra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Olyra kempi",
+    "SpecCode": "25374",
+    "CommonName": "Juovaviirimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Olyra longicaudata",
+    "SpecCode": "24976",
+    "CommonName": "Bhotsinghi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Olyra saginata",
+    "SpecCode": "67769",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Lepidion eques",
     "SpecCode": "2016",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

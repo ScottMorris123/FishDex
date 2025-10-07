@@ -2,7 +2,7 @@
   {
     "ScientificName": "Scopeloberyx bannikovi",
     "SpecCode": "65061",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Scopeloberyx malayanus",
     "SpecCode": "65060",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Scopeloberyx maxillaris",
     "SpecCode": "65059",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Scopeloberyx pequenoi",
     "SpecCode": "65062",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Scopeloberyx rossicus",
     "SpecCode": "65063",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

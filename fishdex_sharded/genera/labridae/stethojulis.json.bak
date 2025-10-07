@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Stethojulis albovittata",
+    "SpecCode": "8025",
+    "CommonName": "Arinai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stethojulis balteata",
+    "SpecCode": "7828",
+    "CommonName": "Belted wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stethojulis bandanensis",
+    "SpecCode": "5640",
+    "CommonName": "Aka-obibera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stethojulis interrupta",
+    "SpecCode": "6633",
+    "CommonName": "Bagundun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stethojulis maculata",
+    "SpecCode": "12783",
+    "CommonName": "Sumitsuki-kaminaribera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stethojulis marquesensis",
+    "SpecCode": "57372",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stethojulis notialis",
+    "SpecCode": "57373",
+    "CommonName": "drividrivi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stethojulis strigiventer",
+    "SpecCode": "5641",
+    "CommonName": "Alle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stethojulis terina",
+    "SpecCode": "57374",
+    "CommonName": "Kaminaribera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stethojulis trilineata",
+    "SpecCode": "6622",
+    "CommonName": "Bagondon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

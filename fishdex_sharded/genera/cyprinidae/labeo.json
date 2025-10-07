@@ -328,7 +328,7 @@
   {
     "ScientificName": "Labeo filiferus",
     "SpecCode": "68777",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -472,7 +472,7 @@
   {
     "ScientificName": "Labeo latebra",
     "SpecCode": "68948",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -635,7 +635,7 @@
   {
     "ScientificName": "Labeo nigrescens",
     "SpecCode": "68778",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -861,7 +861,7 @@
   {
     "ScientificName": "Labeo sanagaensis",
     "SpecCode": "50317",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Leptoderma macrophthalmum",
     "SpecCode": "66047",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

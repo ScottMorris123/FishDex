@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Stathmonotus culebrai",
+    "SpecCode": "47397",
+    "CommonName": "Panamanian worm blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stathmonotus gymnodermis",
+    "SpecCode": "16458",
+    "CommonName": "Naked blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stathmonotus hemphillii",
+    "SpecCode": "3752",
+    "CommonName": "Blackbelly blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stathmonotus lugubris",
+    "SpecCode": "54350",
+    "CommonName": "Mexican worm blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stathmonotus sinuscalifornici",
+    "SpecCode": "46788",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stathmonotus stahli",
+    "SpecCode": "3753",
+    "CommonName": "Eelgrass blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stathmonotus tekla",
+    "SpecCode": "66056",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

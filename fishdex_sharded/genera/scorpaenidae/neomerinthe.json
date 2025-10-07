@@ -56,7 +56,7 @@
   {
     "ScientificName": "Neomerinthe kaufmani",
     "SpecCode": "68344",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Neomerinthe pallidimacula",
     "SpecCode": "59577",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Neomerinthe rufescens",
     "SpecCode": "61173",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Enteromius akakianus",
     "SpecCode": "69090",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -220,7 +220,7 @@
   {
     "ScientificName": "Enteromius baleensis",
     "SpecCode": "69705",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1300,7 +1300,7 @@
   {
     "ScientificName": "Enteromius pinnimaculatus",
     "SpecCode": "70034",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1336,7 +1336,7 @@
   {
     "ScientificName": "Enteromius potamogalis",
     "SpecCode": "68107",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1417,7 +1417,7 @@
   {
     "ScientificName": "Enteromius radari",
     "SpecCode": "70039",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1669,7 +1669,7 @@
   {
     "ScientificName": "Enteromius thespesios",
     "SpecCode": "69153",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1831,7 +1831,7 @@
   {
     "ScientificName": "Enteromius validus",
     "SpecCode": "67899",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1849,7 +1849,7 @@
   {
     "ScientificName": "Enteromius vandewallei",
     "SpecCode": "68134",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1894,7 +1894,7 @@
   {
     "ScientificName": "Enteromius walshae",
     "SpecCode": "69066",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1912,7 +1912,7 @@
   {
     "ScientificName": "Enteromius yardiensis",
     "SpecCode": "69089",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

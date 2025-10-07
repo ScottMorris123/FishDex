@@ -2,7 +2,7 @@
   {
     "ScientificName": "Paraploactis hongkongiensis",
     "SpecCode": "59075",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Paraploactis taprobanensis",
     "SpecCode": "59088",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

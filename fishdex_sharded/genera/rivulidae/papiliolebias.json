@@ -2,7 +2,7 @@
   {
     "ScientificName": "Papiliolebias ashleyae",
     "SpecCode": "68022",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Papiliolebias francescae",
     "SpecCode": "68021",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Papiliolebias hatinne",
     "SpecCode": "65298",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Chrionema squamentum",
     "SpecCode": "61187",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

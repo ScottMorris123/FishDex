@@ -128,7 +128,7 @@
   {
     "ScientificName": "Eumicrotremus tartaricus",
     "SpecCode": "60673",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Eumicrotremus tokranovi",
     "SpecCode": "70511",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

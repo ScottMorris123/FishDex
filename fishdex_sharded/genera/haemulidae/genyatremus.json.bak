@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Genyatremus cavifrons",
+    "SpecCode": "67259",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genyatremus dovii",
+    "SpecCode": "8248",
+    "CommonName": "Blackbarred grunt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genyatremus luteus",
+    "SpecCode": "7535",
+    "CommonName": "Annafoke",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genyatremus pacifici",
+    "SpecCode": "8254",
+    "CommonName": "Burro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

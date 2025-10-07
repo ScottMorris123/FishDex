@@ -48,7 +48,7 @@
   {
     "ScientificName": "Sphoeroides georgemilleri",
     "SpecCode": "61200",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -124,7 +124,7 @@
   {
     "ScientificName": "Sphoeroides nitidus",
     "SpecCode": "61199",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Otopharynx aletes",
     "SpecCode": "69300",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Otopharynx alpha",
     "SpecCode": "69292",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Otopharynx antron",
     "SpecCode": "65200",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Otopharynx mumboensis",
     "SpecCode": "69293",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Otopharynx pachycheilus",
     "SpecCode": "60447",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Otopharynx panniculus",
     "SpecCode": "69302",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Otopharynx peridodeka",
     "SpecCode": "69304",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Otopharynx spelaeotes",
     "SpecCode": "65198",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Otopharynx styrax",
     "SpecCode": "69298",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

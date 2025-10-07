@@ -2,7 +2,7 @@
   {
     "ScientificName": "Homalopterula amphisquamata",
     "SpecCode": "68109",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Homalopterula modiglianii",
     "SpecCode": "68108",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

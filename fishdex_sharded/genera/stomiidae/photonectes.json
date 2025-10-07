@@ -2,7 +2,7 @@
   {
     "ScientificName": "Photonectes achirus",
     "SpecCode": "58267",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Photonectes barnetti",
     "SpecCode": "66173",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Photonectes coffea",
     "SpecCode": "66174",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Photonectes cornutus",
     "SpecCode": "69542",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Photonectes corynodes",
     "SpecCode": "66175",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Photonectes cyanogrammicus",
     "SpecCode": "69540",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Photonectes distichodon",
     "SpecCode": "69546",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Photonectes filipendulus",
     "SpecCode": "69547",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Photonectes gorodinskii",
     "SpecCode": "69543",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Photonectes klepadloae",
     "SpecCode": "69539",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Photonectes litvinovi",
     "SpecCode": "69305",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Photonectes munificus",
     "SpecCode": "54859",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Photonectes paxtoni",
     "SpecCode": "66768",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Photonectes sphaerolampas",
     "SpecCode": "69541",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Photonectes uncinatus",
     "SpecCode": "69544",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Photonectes venetaenia",
     "SpecCode": "69545",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Photonectes waitti",
     "SpecCode": "66767",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Photonectes xenopogon",
     "SpecCode": "69548",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

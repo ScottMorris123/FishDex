@@ -11,7 +11,7 @@
   {
     "ScientificName": "Dicrossus foirni",
     "SpecCode": "65774",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Dicrossus gladicauda",
     "SpecCode": "64085",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Dicrossus warzeli",
     "SpecCode": "65775",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

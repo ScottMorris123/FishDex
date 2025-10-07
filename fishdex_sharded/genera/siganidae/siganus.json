@@ -262,7 +262,7 @@
   {
     "ScientificName": "Siganus woodlandi",
     "SpecCode": "62435",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

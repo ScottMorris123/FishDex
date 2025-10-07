@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Channallabes alvarezi",
+    "SpecCode": "9466",
+    "CommonName": "阿氏裸胡鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channallabes apus",
+    "SpecCode": "9445",
+    "CommonName": "Aalwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channallabes longicaudatus",
+    "SpecCode": "63454",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channallabes ogooensis",
+    "SpecCode": "63455",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channallabes sanghaensis",
+    "SpecCode": "63457",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Channallabes teugelsi",
+    "SpecCode": "63456",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

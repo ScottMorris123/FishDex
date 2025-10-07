@@ -20,7 +20,7 @@
   {
     "ScientificName": "Egglestonichthys melanoptera",
     "SpecCode": "60623",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Egglestonichthys rubidus",
     "SpecCode": "69336",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

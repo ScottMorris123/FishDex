@@ -29,7 +29,7 @@
   {
     "ScientificName": "Pseudobagrus brachyrhabdion",
     "SpecCode": "63862",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Pseudobagrus gracilis",
     "SpecCode": "62640",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Pseudobagrus kyphus",
     "SpecCode": "60033",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Pseudobagrus nubilosus",
     "SpecCode": "63297",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

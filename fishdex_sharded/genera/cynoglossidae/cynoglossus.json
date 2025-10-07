@@ -301,7 +301,7 @@
   {
     "ScientificName": "Cynoglossus maccullochi",
     "SpecCode": "61501",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

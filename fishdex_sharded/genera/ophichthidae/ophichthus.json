@@ -20,7 +20,7 @@
   {
     "ScientificName": "Ophichthus aniptocheilos",
     "SpecCode": "65562",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -481,7 +481,7 @@
   {
     "ScientificName": "Ophichthus microcephalus",
     "SpecCode": "70486",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -790,7 +790,7 @@
   {
     "ScientificName": "Ophichthus woosuitingi",
     "SpecCode": "59379",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

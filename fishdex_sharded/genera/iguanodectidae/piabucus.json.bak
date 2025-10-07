@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Piabucus caudomaculatus",
+    "SpecCode": "52549",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucus dentatus",
+    "SpecCode": "27914",
+    "CommonName": "Bogoni",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucus melanostoma",
+    "SpecCode": "53472",
+    "CommonName": "Mojarita boca negra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

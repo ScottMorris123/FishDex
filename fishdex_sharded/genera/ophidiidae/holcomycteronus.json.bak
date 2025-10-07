@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Holcomycteronus aequatoris",
+    "SpecCode": "16784",
+    "CommonName": "深海鈍吻鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holcomycteronus brucei",
+    "SpecCode": "7140",
+    "CommonName": "Bruce`i süvanirk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holcomycteronus digittatus",
+    "SpecCode": "22810",
+    "CommonName": "大趾鈍吻鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holcomycteronus profundissimus",
+    "SpecCode": "8961",
+    "CommonName": "Abüssaali süvanirk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holcomycteronus pterotus",
+    "SpecCode": "56347",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Holcomycteronus squamosus",
+    "SpecCode": "46286",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

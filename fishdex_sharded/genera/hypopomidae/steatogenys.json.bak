@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Steatogenys duidae",
+    "SpecCode": "48119",
+    "CommonName": "Sarrapu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steatogenys elegans",
+    "SpecCode": "12223",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steatogenys ocellatus",
+    "SpecCode": "62263",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

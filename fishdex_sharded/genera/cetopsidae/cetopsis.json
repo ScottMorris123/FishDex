@@ -11,7 +11,7 @@
   {
     "ScientificName": "Cetopsis arcana",
     "SpecCode": "62500",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Cetopsis aspis",
     "SpecCode": "69974",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Cetopsis baudoensis",
     "SpecCode": "57245",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Cetopsis caiapo",
     "SpecCode": "62501",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Cetopsis fimbriata",
     "SpecCode": "62502",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Cetopsis jurubidae",
     "SpecCode": "57246",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Cetopsis montana",
     "SpecCode": "62503",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Cetopsis parma",
     "SpecCode": "58365",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Cetopsis pearsoni",
     "SpecCode": "62504",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Cetopsis sandrae",
     "SpecCode": "62505",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Cetopsis sarcodes",
     "SpecCode": "62506",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Cetopsis starnesi",
     "SpecCode": "62507",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Cetopsis umbrosa",
     "SpecCode": "62508",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

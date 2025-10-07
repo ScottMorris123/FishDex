@@ -2,7 +2,7 @@
   {
     "ScientificName": "Hemerocoetes artus",
     "SpecCode": "49319",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Hemerocoetes morelandi",
     "SpecCode": "49322",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Hemerocoetes pauciradiatus",
     "SpecCode": "49323",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

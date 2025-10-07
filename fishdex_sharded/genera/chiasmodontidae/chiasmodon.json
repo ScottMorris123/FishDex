@@ -2,7 +2,7 @@
   {
     "ScientificName": "Chiasmodon asper",
     "SpecCode": "65618",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Chiasmodon harteli",
     "SpecCode": "65619",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Chiasmodon microcephalus",
     "SpecCode": "65671",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Chiasmodon pluriradiatus",
     "SpecCode": "64184",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

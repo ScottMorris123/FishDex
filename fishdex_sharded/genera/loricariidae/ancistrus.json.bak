@@ -1,0 +1,695 @@
+[
+  {
+    "ScientificName": "Ancistrus abilhoai",
+    "SpecCode": "65208",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus agostinhoi",
+    "SpecCode": "65209",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus aguaboensis",
+    "SpecCode": "58428",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus amaris",
+    "SpecCode": "69988",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus bodenhameri",
+    "SpecCode": "50237",
+    "CommonName": "Barbón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus bolivianus",
+    "SpecCode": "50241",
+    "CommonName": "Boliivia harjasnina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus brevifilis",
+    "SpecCode": "50238",
+    "CommonName": "Barbón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus brevipinnis",
+    "SpecCode": "50239",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus bufonius",
+    "SpecCode": "50240",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus caucanus",
+    "SpecCode": "50243",
+    "CommonName": "Corroncho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus centrolepis",
+    "SpecCode": "50244",
+    "CommonName": "刺鱗鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus chagresi",
+    "SpecCode": "50245",
+    "CommonName": "查氏鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus cirrhosus",
+    "SpecCode": "23347",
+    "CommonName": "Antennenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus claro",
+    "SpecCode": "57536",
+    "CommonName": "Sokkelopartamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus clementinae",
+    "SpecCode": "50247",
+    "CommonName": "Raspabalsa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus cryptophthalmus",
+    "SpecCode": "49988",
+    "CommonName": "Sokkopartamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus cuiabae",
+    "SpecCode": "57537",
+    "CommonName": "Armored catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus damasceni",
+    "SpecCode": "50248",
+    "CommonName": "达氏鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus dolichopterus",
+    "SpecCode": "12213",
+    "CommonName": "Blauer Antennenharnischwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus dubius",
+    "SpecCode": "50249",
+    "CommonName": "Pirambocaya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus erinaceus",
+    "SpecCode": "50250",
+    "CommonName": "猬鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus eustictus",
+    "SpecCode": "50251",
+    "CommonName": "真斑鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus falconensis",
+    "SpecCode": "65299",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus formoso",
+    "SpecCode": "49990",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus fulvus",
+    "SpecCode": "50252",
+    "CommonName": "微黃鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus galani",
+    "SpecCode": "49989",
+    "CommonName": "Luolapartamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus greeni",
+    "SpecCode": "58430",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus gymnorhynchus",
+    "SpecCode": "50256",
+    "CommonName": "納氏毛鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus heterorhynchus",
+    "SpecCode": "50257",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus hoplogenys",
+    "SpecCode": "50260",
+    "CommonName": "Bodozinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus jataiensis",
+    "SpecCode": "62157",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus jelskii",
+    "SpecCode": "50277",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus kellerae",
+    "SpecCode": "69986",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus latifrons",
+    "SpecCode": "50278",
+    "CommonName": "Raspabalsa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus leoni",
+    "SpecCode": "69990",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus leucostictus",
+    "SpecCode": "48231",
+    "CommonName": "Gelbpunkt-Antennenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus lineolatus",
+    "SpecCode": "53503",
+    "CommonName": "線紋鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus lithurgicus",
+    "SpecCode": "48232",
+    "CommonName": "石紋鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus macrophthalmus",
+    "SpecCode": "50279",
+    "CommonName": "Corroncho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus maculatus",
+    "SpecCode": "50280",
+    "CommonName": "斑駁鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus malacops",
+    "SpecCode": "50281",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus maracasae",
+    "SpecCode": "48233",
+    "CommonName": "姥鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus marcapatae",
+    "SpecCode": "50047",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus martini",
+    "SpecCode": "50282",
+    "CommonName": "Corroncho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus mattogrossensis",
+    "SpecCode": "50283",
+    "CommonName": "馬托鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus maximus",
+    "SpecCode": "68839",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus megalostomus",
+    "SpecCode": "50284",
+    "CommonName": "大口鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus minutus",
+    "SpecCode": "58429",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus miracollis",
+    "SpecCode": "70107",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus montanus",
+    "SpecCode": "50286",
+    "CommonName": "山鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus mullerae",
+    "SpecCode": "65210",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus multispinis",
+    "SpecCode": "50303",
+    "CommonName": "Barbadinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus nudiceps",
+    "SpecCode": "48235",
+    "CommonName": "裸头鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus occidentalis",
+    "SpecCode": "50294",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus occloi",
+    "SpecCode": "50304",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus parecis",
+    "SpecCode": "62694",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus patronus",
+    "SpecCode": "69992",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus pirareta",
+    "SpecCode": "53588",
+    "CommonName": "Pirambocaya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus piriformis",
+    "SpecCode": "53587",
+    "CommonName": "Pirambocaya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus ranunculus",
+    "SpecCode": "51577",
+    "CommonName": "Bredhovedet sugemalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus reisi",
+    "SpecCode": "62156",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus saudades",
+    "SpecCode": "69994",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus sericeus",
+    "SpecCode": "50061",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus spinosus",
+    "SpecCode": "50307",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus stigmaticus",
+    "SpecCode": "50308",
+    "CommonName": "Barbadinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus tamboensis",
+    "SpecCode": "50309",
+    "CommonName": "Mosaik-Harnischwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus taunayi",
+    "SpecCode": "50310",
+    "CommonName": "Cascudo de espinhos",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus temminckii",
+    "SpecCode": "50312",
+    "CommonName": "Børstenæset sugemalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus tolima",
+    "SpecCode": "66936",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus tombador",
+    "SpecCode": "62155",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus trinitatis",
+    "SpecCode": "48200",
+    "CommonName": "特立尼达岛毛鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus triradiatus",
+    "SpecCode": "49169",
+    "CommonName": "三線鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus variolus",
+    "SpecCode": "50319",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus verecundus",
+    "SpecCode": "62693",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus vericaucanus",
+    "SpecCode": "66934",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus yanesha",
+    "SpecCode": "70578",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancistrus yutajae",
+    "SpecCode": "69997",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

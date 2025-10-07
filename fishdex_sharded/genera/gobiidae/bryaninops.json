@@ -11,7 +11,7 @@
   {
     "ScientificName": "Bryaninops annella",
     "SpecCode": "67266",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Bryaninops discus",
     "SpecCode": "66439",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Bryaninops earlei",
     "SpecCode": "67268",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -103,7 +103,7 @@
   {
     "ScientificName": "Bryaninops spongicolus",
     "SpecCode": "66440",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -112,7 +112,7 @@
   {
     "ScientificName": "Bryaninops tectus",
     "SpecCode": "67269",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -130,7 +130,7 @@
   {
     "ScientificName": "Bryaninops translucens",
     "SpecCode": "67270",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

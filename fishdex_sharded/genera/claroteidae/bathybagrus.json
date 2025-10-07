@@ -11,7 +11,7 @@
   {
     "ScientificName": "Bathybagrus graueri",
     "SpecCode": "9302",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Bathybagrus platycephalus",
     "SpecCode": "9318",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Bathybagrus stappersii",
     "SpecCode": "9323",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

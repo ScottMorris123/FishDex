@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Chaenopsis alepidota",
+    "SpecCode": "3711",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis celeste",
+    "SpecCode": "70120",
+    "CommonName": "Celeste's pikeblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis coheni",
+    "SpecCode": "54347",
+    "CommonName": "Cortez pikeblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis deltarrhis",
+    "SpecCode": "46727",
+    "CommonName": "Delta pikeblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis limbaughi",
+    "SpecCode": "3712",
+    "CommonName": "Blénido anguila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis megalops",
+    "SpecCode": "60575",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis ocellata",
+    "SpecCode": "3713",
+    "CommonName": "Blåstrubet geddeslimfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis resh",
+    "SpecCode": "27909",
+    "CommonName": "Blénido anguila",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis roseola",
+    "SpecCode": "54820",
+    "CommonName": "Flecked pikeblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis schmitti",
+    "SpecCode": "25532",
+    "CommonName": "Gulmundet geddeslimfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chaenopsis stephensi",
+    "SpecCode": "27910",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

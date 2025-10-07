@@ -65,7 +65,7 @@
   {
     "ScientificName": "Satanoperca rhynchitis",
     "SpecCode": "66554",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

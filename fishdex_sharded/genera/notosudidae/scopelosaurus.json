@@ -2,7 +2,7 @@
   {
     "ScientificName": "Scopelosaurus adleri",
     "SpecCode": "60268",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Scopelosaurus craddocki",
     "SpecCode": "60953",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Scopelosaurus gibbsi",
     "SpecCode": "49272",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Scopelosaurus hubbsi",
     "SpecCode": "55102",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

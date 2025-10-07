@@ -2,7 +2,7 @@
   {
     "ScientificName": "Attonitus bounites",
     "SpecCode": "58012",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Attonitus ephimeros",
     "SpecCode": "58013",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Attonitus irisae",
     "SpecCode": "58014",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -74,7 +74,7 @@
   {
     "ScientificName": "Pethia dikhuensis",
     "SpecCode": "70302",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Pethia expletiforis",
     "SpecCode": "67751",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Pethia poiensis",
     "SpecCode": "69633",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -290,7 +290,7 @@
   {
     "ScientificName": "Pethia rutila",
     "SpecCode": "67750",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -299,7 +299,7 @@
   {
     "ScientificName": "Pethia sahit",
     "SpecCode": "70448",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -353,7 +353,7 @@
   {
     "ScientificName": "Pethia striata",
     "SpecCode": "67855",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Plagiopsetta biocellata",
+    "SpecCode": "69694",
+    "CommonName": "Biocellated righteye founder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiopsetta glossa",
+    "SpecCode": "15178",
+    "CommonName": "Berogarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiopsetta gracilis",
+    "SpecCode": "65304",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiopsetta stigmosa",
+    "SpecCode": "65267",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

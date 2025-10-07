@@ -67,7 +67,7 @@
   {
     "ScientificName": "Squalus boretzi",
     "SpecCode": "69935",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

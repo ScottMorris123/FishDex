@@ -38,7 +38,7 @@
   {
     "ScientificName": "Silurus duanensis",
     "SpecCode": "62301",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

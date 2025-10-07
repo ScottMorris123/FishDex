@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Ctenochaetus binotatus",
+    "SpecCode": "6012",
+    "CommonName": "Barbeiro mancha negra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenochaetus cyanocheilus",
+    "SpecCode": "59486",
+    "CommonName": "Blue-lipped bristletooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenochaetus flavicauda",
+    "SpecCode": "59589",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenochaetus hawaiiensis",
+    "SpecCode": "6013",
+    "CommonName": "Black surgeonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenochaetus marginatus",
+    "SpecCode": "6014",
+    "CommonName": "Blautupfen-Borstenzahn-Doktorfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenochaetus striatus",
+    "SpecCode": "1262",
+    "CommonName": "Afel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenochaetus strigosus",
+    "SpecCode": "6015",
+    "CommonName": "Bristletoothed surgeonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenochaetus tominiensis",
+    "SpecCode": "6016",
+    "CommonName": "dridri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenochaetus truncatus",
+    "SpecCode": "59487",
+    "CommonName": "Indian gold-ring bristle-tooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

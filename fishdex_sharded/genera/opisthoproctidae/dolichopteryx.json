@@ -2,7 +2,7 @@
   {
     "ScientificName": "Dolichopteryx anascopa",
     "SpecCode": "51693",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Dolichopteryx andriashevi",
     "SpecCode": "65556",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Dolichopteryx pseudolongipes",
     "SpecCode": "64629",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Dolichopteryx rostrata",
     "SpecCode": "63388",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Dolichopteryx trunovi",
     "SpecCode": "63390",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Dolichopteryx vityazi",
     "SpecCode": "65557",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

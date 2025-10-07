@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Macrocephenchelys brachialis",
+    "SpecCode": "4525",
+    "CommonName": "Borneo voltkoonangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrocephenchelys brevirostris",
+    "SpecCode": "10560",
+    "CommonName": "Rubbernose conger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrocephenchelys nigriventris",
+    "SpecCode": "70307",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrocephenchelys soela",
+    "SpecCode": "70306",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Macrocephenchelys sumodi",
+    "SpecCode": "70308",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -47,7 +47,7 @@
   {
     "ScientificName": "Ichthyococcus parini",
     "SpecCode": "59936",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Microschemobrycon callops",
+    "SpecCode": "51174",
+    "CommonName": "Täplätoukkatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microschemobrycon casiquiare",
+    "SpecCode": "51183",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microschemobrycon elongatus",
+    "SpecCode": "51213",
+    "CommonName": "Sirotoukkatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microschemobrycon geisleri",
+    "SpecCode": "51181",
+    "CommonName": "Toukkatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microschemobrycon guaporensis",
+    "SpecCode": "51182",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microschemobrycon melanotus",
+    "SpecCode": "53383",
+    "CommonName": "黑細脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microschemobrycon meyburgi",
+    "SpecCode": "52591",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

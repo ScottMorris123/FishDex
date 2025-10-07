@@ -20,7 +20,7 @@
   {
     "ScientificName": "Bothus ellipticus",
     "SpecCode": "58963",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Bothus ypsigrammus",
     "SpecCode": "69670",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

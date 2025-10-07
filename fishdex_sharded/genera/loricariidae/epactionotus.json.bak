@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Epactionotus bilineatus",
+    "SpecCode": "57633",
+    "CommonName": "Raitavasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epactionotus gracilis",
+    "SpecCode": "57635",
+    "CommonName": "Vanavasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epactionotus itaimbezinho",
+    "SpecCode": "57634",
+    "CommonName": "Kastanjavasamamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epactionotus yasi",
+    "SpecCode": "62607",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

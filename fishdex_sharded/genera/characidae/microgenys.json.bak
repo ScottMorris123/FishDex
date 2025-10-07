@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Microgenys lativirgata",
+    "SpecCode": "51153",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microgenys minuta",
+    "SpecCode": "51361",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microgenys weyrauchi",
+    "SpecCode": "53330",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

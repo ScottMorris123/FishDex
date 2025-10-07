@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Pseudoplesiops annae",
+    "SpecCode": "14273",
+    "CommonName": "Anna's dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplesiops collare",
+    "SpecCode": "26837",
+    "CommonName": "Collared dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplesiops howensis",
+    "SpecCode": "15019",
+    "CommonName": "Lord Howe Dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplesiops immaculatus",
+    "SpecCode": "61088",
+    "CommonName": "Bearded dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplesiops occidentalis",
+    "SpecCode": "61089",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplesiops revellei",
+    "SpecCode": "15021",
+    "CommonName": "Bearded dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplesiops rosae",
+    "SpecCode": "14270",
+    "CommonName": "Large-scaled dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplesiops typus",
+    "SpecCode": "7463",
+    "CommonName": "Big-eye dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplesiops wassi",
+    "SpecCode": "61522",
+    "CommonName": "Fleckfin dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

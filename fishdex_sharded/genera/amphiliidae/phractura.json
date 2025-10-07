@@ -101,7 +101,7 @@
   {
     "ScientificName": "Phractura stiassny",
     "SpecCode": "64054",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

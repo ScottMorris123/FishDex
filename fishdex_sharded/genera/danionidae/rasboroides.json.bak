@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rasboroides nigromarginatus",
+    "SpecCode": "68384",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasboroides pallidus",
+    "SpecCode": "68373",
+    "CommonName": "Pallidus rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasboroides rohani",
+    "SpecCode": "68385",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasboroides vaterifloris",
+    "SpecCode": "6148",
+    "CommonName": "Blauer Perlmuttbärbling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

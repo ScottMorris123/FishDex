@@ -1,0 +1,146 @@
+[
+  {
+    "ScientificName": "Branchiostegus albus",
+    "SpecCode": "13011",
+    "CommonName": "Bái fāng tóu yú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus argentatus",
+    "SpecCode": "4594",
+    "CommonName": "Cá đầu vuông bạc",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus auratus",
+    "SpecCode": "4595",
+    "CommonName": "Bān qí fāng tóu yú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus australiensis",
+    "SpecCode": "12944",
+    "CommonName": "Australian tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus doliatus",
+    "SpecCode": "7646",
+    "CommonName": "Geribde teëlvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus gloerfelti",
+    "SpecCode": "12945",
+    "CommonName": "格氏方头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus hedlandensis",
+    "SpecCode": "15367",
+    "CommonName": "Port Hedland tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus ilocanus",
+    "SpecCode": "15370",
+    "CommonName": "大方头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus japonicus",
+    "SpecCode": "4593",
+    "CommonName": "Aka-amadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus paxtoni",
+    "SpecCode": "15369",
+    "CommonName": "Paxton's tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus saitoi",
+    "SpecCode": "66509",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus sawakinensis",
+    "SpecCode": "7649",
+    "CommonName": "Barko barko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus semifasciatus",
+    "SpecCode": "4935",
+    "CommonName": "Africanski latiluss",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus serratus",
+    "SpecCode": "14962",
+    "CommonName": "Australian barred tilefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus vittatus",
+    "SpecCode": "15375",
+    "CommonName": "条纹方头鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Branchiostegus wardi",
+    "SpecCode": "14964",
+    "CommonName": "Minami Amadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Sonoda megalophthalma",
+    "SpecCode": "57900",
+    "CommonName": "索光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sonoda paucilampa",
+    "SpecCode": "61159",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

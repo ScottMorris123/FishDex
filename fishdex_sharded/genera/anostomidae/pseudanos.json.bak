@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Pseudanos gracilis",
+    "SpecCode": "27663",
+    "CommonName": "Elegant bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanos irinae",
+    "SpecCode": "53263",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanos trimaculatus",
+    "SpecCode": "12334",
+    "CommonName": "Anostomus de tres manchas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanos varii",
+    "SpecCode": "66800",
+    "CommonName": "Trestrålet bundkigger",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanos winterbottomi",
+    "SpecCode": "62244",
+    "CommonName": "Winterbottoms mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

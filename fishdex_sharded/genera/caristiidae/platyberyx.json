@@ -2,7 +2,7 @@
   {
     "ScientificName": "Platyberyx andriashevi",
     "SpecCode": "67443",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Platyberyx mauli",
     "SpecCode": "67442",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Platyberyx paucus",
     "SpecCode": "67658",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Platyberyx pietschi",
     "SpecCode": "67659",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Platyberyx rhyton",
     "SpecCode": "67660",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

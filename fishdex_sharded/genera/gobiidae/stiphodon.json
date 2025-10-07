@@ -2,7 +2,7 @@
   {
     "ScientificName": "Stiphodon alcedo",
     "SpecCode": "66598",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Stiphodon annieae",
     "SpecCode": "68869",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -58,7 +58,7 @@
   {
     "ScientificName": "Stiphodon aureofuscus",
     "SpecCode": "68421",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -67,7 +67,7 @@
   {
     "ScientificName": "Stiphodon aureorostrum",
     "SpecCode": "63356",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -171,7 +171,7 @@
   {
     "ScientificName": "Stiphodon maculidorsalis",
     "SpecCode": "67139",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -180,7 +180,7 @@
   {
     "ScientificName": "Stiphodon martenstyni",
     "SpecCode": "59350",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Stiphodon niraikanaiensis",
     "SpecCode": "67615",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Stiphodon oatea",
     "SpecCode": "65395",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Stiphodon palawanensis",
     "SpecCode": "68081",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Stiphodon pelewensis",
     "SpecCode": "60083",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",
@@ -276,7 +276,7 @@
   {
     "ScientificName": "Stiphodon rubromaculatus",
     "SpecCode": "63594",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -331,7 +331,7 @@
   {
     "ScientificName": "Stiphodon weberi",
     "SpecCode": "54596",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -340,7 +340,7 @@
   {
     "ScientificName": "Stiphodon zebrinus",
     "SpecCode": "54597",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

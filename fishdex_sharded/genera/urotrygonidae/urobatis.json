@@ -47,7 +47,7 @@
   {
     "ScientificName": "Urobatis pardalis",
     "SpecCode": "68154",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Charax apurensis",
     "SpecCode": "53082",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Charax awa",
     "SpecCode": "68782",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Charax delimai",
     "SpecCode": "67620",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Charax hemigrammus",
     "SpecCode": "53080",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Charax macrolepis",
     "SpecCode": "53419",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Charax metae",
     "SpecCode": "51849",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Charax michaeli",
     "SpecCode": "52530",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Charax niger",
     "SpecCode": "52531",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Charax notulatus",
     "SpecCode": "52533",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Charax rupununi",
     "SpecCode": "53081",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Charax unimaculatus",
     "SpecCode": "52538",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Channa aristonei",
     "SpecCode": "70615",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Channa aurolineata",
     "SpecCode": "70562",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Channa longistomata",
     "SpecCode": "66680",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -373,7 +373,7 @@
   {
     "ScientificName": "Channa quinquefasciata",
     "SpecCode": "70614",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -383,7 +383,7 @@
   {
     "ScientificName": "Channa rara",
     "SpecCode": "70455",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

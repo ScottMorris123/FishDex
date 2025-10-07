@@ -56,7 +56,7 @@
   {
     "ScientificName": "Gymnocanthus vandesandei",
     "SpecCode": "61291",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

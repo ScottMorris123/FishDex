@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Timorichthys angustus",
+    "SpecCode": "67052",
+    "CommonName": "Reiyou-itachiuo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Timorichthys disjunctus",
+    "SpecCode": "66391",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Lubbockichthys multisquamatus",
+    "SpecCode": "12656",
+    "CommonName": "Finescale dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lubbockichthys myersi",
+    "SpecCode": "64095",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lubbockichthys tanakai",
+    "SpecCode": "61084",
+    "CommonName": "Tanaka's dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

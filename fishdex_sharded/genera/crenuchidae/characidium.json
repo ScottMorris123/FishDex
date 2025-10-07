@@ -11,7 +11,7 @@
   {
     "ScientificName": "Characidium amaila",
     "SpecCode": "67219",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Characidium deludens",
     "SpecCode": "68557",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Characidium etzeli",
     "SpecCode": "61044",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Characidium heinianum",
     "SpecCode": "61045",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Characidium helmeri",
     "SpecCode": "68116",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Characidium interruptum",
     "SpecCode": "53056",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Characidium kalunga",
     "SpecCode": "69882",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Characidium kamakan",
     "SpecCode": "68555",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Characidium litorale",
     "SpecCode": "67774",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -290,7 +290,7 @@
   {
     "ScientificName": "Characidium longum",
     "SpecCode": "63135",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -299,7 +299,7 @@
   {
     "ScientificName": "Characidium macrolepidotum",
     "SpecCode": "58003",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -317,7 +317,7 @@
   {
     "ScientificName": "Characidium mirim",
     "SpecCode": "66991",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -326,7 +326,7 @@
   {
     "ScientificName": "Characidium nana",
     "SpecCode": "68595",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -362,7 +362,7 @@
   {
     "ScientificName": "Characidium onca",
     "SpecCode": "69881",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -380,7 +380,7 @@
   {
     "ScientificName": "Characidium papachibe",
     "SpecCode": "67128",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -452,7 +452,7 @@
   {
     "ScientificName": "Characidium samurai",
     "SpecCode": "67631",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -470,7 +470,7 @@
   {
     "ScientificName": "Characidium satoi",
     "SpecCode": "68095",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -479,7 +479,7 @@
   {
     "ScientificName": "Characidium schindleri",
     "SpecCode": "61046",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -515,7 +515,7 @@
   {
     "ScientificName": "Characidium stigmosum",
     "SpecCode": "60275",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -524,7 +524,7 @@
   {
     "ScientificName": "Characidium summum",
     "SpecCode": "68218",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -551,7 +551,7 @@
   {
     "ScientificName": "Characidium travassosi",
     "SpecCode": "70125",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -560,7 +560,7 @@
   {
     "ScientificName": "Characidium vestigipinne",
     "SpecCode": "57628",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -578,7 +578,7 @@
   {
     "ScientificName": "Characidium xanthopterum",
     "SpecCode": "64061",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -587,7 +587,7 @@
   {
     "ScientificName": "Characidium xavante",
     "SpecCode": "63882",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

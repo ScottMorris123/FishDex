@@ -65,7 +65,7 @@
   {
     "ScientificName": "Amblyglyphidodon melanopterus",
     "SpecCode": "61069",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

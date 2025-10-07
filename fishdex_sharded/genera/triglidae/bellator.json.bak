@@ -1,0 +1,77 @@
+[
+  {
+    "ScientificName": "Bellator brachychir",
+    "SpecCode": "4012",
+    "CommonName": "Rubio aleticorta",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bellator egretta",
+    "SpecCode": "4013",
+    "CommonName": "Espátula bandera",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bellator farrago",
+    "SpecCode": "54485",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bellator gymnostethus",
+    "SpecCode": "14179",
+    "CommonName": "Gallineta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bellator loxias",
+    "SpecCode": "14255",
+    "CommonName": "Angelito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bellator militaris",
+    "SpecCode": "4014",
+    "CommonName": "Horned searobin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bellator ribeiroi",
+    "SpecCode": "46284",
+    "CommonName": "Itohikihoubou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bellator xenisma",
+    "SpecCode": "4015",
+    "CommonName": "Gallineta",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

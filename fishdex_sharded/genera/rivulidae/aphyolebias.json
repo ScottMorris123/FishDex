@@ -2,7 +2,7 @@
   {
     "ScientificName": "Aphyolebias boticarioi",
     "SpecCode": "62021",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Aphyolebias claudiae",
     "SpecCode": "62309",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Aphyolebias manuensis",
     "SpecCode": "62310",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -57,7 +57,7 @@
   {
     "ScientificName": "Aphyolebias schleseri",
     "SpecCode": "62311",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -47,7 +47,7 @@
   {
     "ScientificName": "Epigonus chilensis",
     "SpecCode": "66613",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Epigonus exodon",
     "SpecCode": "66620",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Epigonus machaera",
     "SpecCode": "66614",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -318,7 +318,7 @@
   {
     "ScientificName": "Epigonus thai",
     "SpecCode": "67355",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -327,7 +327,7 @@
   {
     "ScientificName": "Epigonus trunovi",
     "SpecCode": "67358",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

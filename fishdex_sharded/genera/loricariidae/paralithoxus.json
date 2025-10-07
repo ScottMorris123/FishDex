@@ -20,7 +20,7 @@
   {
     "ScientificName": "Paralithoxus jariensis",
     "SpecCode": "68768",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Paralithoxus raso",
     "SpecCode": "68769",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Dactylanthias aplodactylus",
     "SpecCode": "61253",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Dactylanthias baccheti",
     "SpecCode": "63996",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -497,7 +497,7 @@
   {
     "ScientificName": "Lepidotrigla vaubani",
     "SpecCode": "50791",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

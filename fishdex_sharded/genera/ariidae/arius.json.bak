@@ -1,0 +1,262 @@
+[
+  {
+    "ScientificName": "Arius acutirostris",
+    "SpecCode": "24978",
+    "CommonName": "खागया",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius africanus",
+    "SpecCode": "1284",
+    "CommonName": "African sea catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius arenarius",
+    "SpecCode": "58254",
+    "CommonName": "Sand catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius arius",
+    "SpecCode": "1285",
+    "CommonName": "Bagre filamentoso",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius brunellii",
+    "SpecCode": "9647",
+    "CommonName": "布氏海鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius burmanicus",
+    "SpecCode": "24979",
+    "CommonName": "緬甸海鯰",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius cous",
+    "SpecCode": "54268",
+    "CommonName": "利齒海鯰",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius dispar",
+    "SpecCode": "27633",
+    "CommonName": "Fleshysnout catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius festinus",
+    "SpecCode": "62102",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius gagora",
+    "SpecCode": "24982",
+    "CommonName": "Catfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius jatius",
+    "SpecCode": "24986",
+    "CommonName": "River catfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius jella",
+    "SpecCode": "1289",
+    "CommonName": "Bagre alinegro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius leptonotacanthus",
+    "SpecCode": "23380",
+    "CommonName": "細背棘海鯰",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius macracanthus",
+    "SpecCode": "51767",
+    "CommonName": "大棘海鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius macronotacanthus",
+    "SpecCode": "51768",
+    "CommonName": "Bedukang",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius maculatus",
+    "SpecCode": "1280",
+    "CommonName": "Arius nakrapiany",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius madagascariensis",
+    "SpecCode": "1291",
+    "CommonName": "Bagre malgache",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius malabaricus",
+    "SpecCode": "62779",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius manillensis",
+    "SpecCode": "27634",
+    "CommonName": "Dupit",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius microcephalus",
+    "SpecCode": "27403",
+    "CommonName": "Squirrelheaded catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius nudidens",
+    "SpecCode": "51771",
+    "CommonName": "裸牙海鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius subrostratus",
+    "SpecCode": "1295",
+    "CommonName": "Bagre zapatero",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius sumatranus",
+    "SpecCode": "1296",
+    "CommonName": "Bagre chivato",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius uncinatus",
+    "SpecCode": "62103",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius utik",
+    "SpecCode": "23384",
+    "CommonName": "Catfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arius venosus",
+    "SpecCode": "1283",
+    "CommonName": "Bagre venoso",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

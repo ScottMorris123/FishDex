@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Clupisoma bastari",
+    "SpecCode": "24750",
+    "CommonName": "Bastar garua",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupisoma garua",
+    "SpecCode": "10148",
+    "CommonName": "Baikha",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupisoma longianale",
+    "SpecCode": "60399",
+    "CommonName": "長臀刀鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupisoma montanum",
+    "SpecCode": "24754",
+    "CommonName": "Jalkapoor",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupisoma naziri",
+    "SpecCode": "24757",
+    "CommonName": "Indus garua",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupisoma nujiangense",
+    "SpecCode": "62514",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupisoma prateri",
+    "SpecCode": "24756",
+    "CommonName": "Burmansillimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupisoma roosae",
+    "SpecCode": "61635",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupisoma sinense",
+    "SpecCode": "26739",
+    "CommonName": "Kiinansillimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clupisoma yunnanense",
+    "SpecCode": "66219",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

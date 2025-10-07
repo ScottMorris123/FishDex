@@ -1,0 +1,150 @@
+[
+  {
+    "ScientificName": "Yirrkala calyptra",
+    "SpecCode": "66084",
+    "CommonName": "Triippõsk-kiudangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala chaselingi",
+    "SpecCode": "59383",
+    "CommonName": "Chaselingi kiudangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala fusca",
+    "SpecCode": "61393",
+    "CommonName": "Tume kiudangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala gjellerupi",
+    "SpecCode": "53892",
+    "CommonName": "Gjellerupi kiudangerjas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala insolitus",
+    "SpecCode": "54541",
+    "CommonName": "Eriline kiudangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala kaupii",
+    "SpecCode": "17349",
+    "CommonName": "Hadař Kaupův",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala lumbricoides",
+    "SpecCode": "15692",
+    "CommonName": "Earthworm snake-eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala macrodon",
+    "SpecCode": "53893",
+    "CommonName": "Suurhammas-kiudangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala maculata",
+    "SpecCode": "59391",
+    "CommonName": "Täpiline kiudangerjas",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala misolensis",
+    "SpecCode": "59390",
+    "CommonName": "Misol snake eel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala moluccensis",
+    "SpecCode": "61391",
+    "CommonName": "Maluku kiudangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala moorei",
+    "SpecCode": "62662",
+    "CommonName": "Samoa kiudangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala omanensis",
+    "SpecCode": "46440",
+    "CommonName": "Hadař arabský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala ori",
+    "SpecCode": "66083",
+    "CommonName": "Natali kiudangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala philippinensis",
+    "SpecCode": "70478",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Yirrkala tenuis",
+    "SpecCode": "15697",
+    "CommonName": "Anguille serpent",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Astatotilapia bloyeti",
+    "SpecCode": "6698",
+    "CommonName": "Bloyeri astalo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astatotilapia burtoni",
+    "SpecCode": "6704",
+    "CommonName": "Burton's haplo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astatotilapia calliptera",
+    "SpecCode": "6707",
+    "CommonName": "Calliptera Maulbrüter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astatotilapia desfontainii",
+    "SpecCode": "6725",
+    "CommonName": "Blaumaul-Maulbrüter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astatotilapia flaviijosephi",
+    "SpecCode": "6738",
+    "CommonName": "Amnunit joseph",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astatotilapia stappersii",
+    "SpecCode": "6855",
+    "CommonName": "斯塔朴丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astatotilapia swynnertoni",
+    "SpecCode": "6858",
+    "CommonName": "斯温氏朴丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astatotilapia tchadensis",
+    "SpecCode": "68415",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astatotilapia tweddlei",
+    "SpecCode": "6867",
+    "CommonName": "特威氏朴丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

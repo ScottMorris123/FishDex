@@ -92,7 +92,7 @@
   {
     "ScientificName": "Sinocyclocheilus brevifinus",
     "SpecCode": "67828",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Sinocyclocheilus gracilis",
     "SpecCode": "67764",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Sinocyclocheilus huizeensis",
     "SpecCode": "68200",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -362,7 +362,7 @@
   {
     "ScientificName": "Sinocyclocheilus luolouensis",
     "SpecCode": "67547",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

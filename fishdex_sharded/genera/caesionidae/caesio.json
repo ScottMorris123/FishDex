@@ -20,7 +20,7 @@
   {
     "ScientificName": "Caesio idreesi",
     "SpecCode": "70573",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

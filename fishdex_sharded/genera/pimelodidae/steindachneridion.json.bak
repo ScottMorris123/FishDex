@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Steindachneridion amblyurum",
+    "SpecCode": "48549",
+    "CommonName": "Surubim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steindachneridion doceanum",
+    "SpecCode": "48550",
+    "CommonName": "Surubim do doce",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steindachneridion melanodermatum",
+    "SpecCode": "62703",
+    "CommonName": "Surubim-do-Iguaçu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steindachneridion parahybae",
+    "SpecCode": "48552",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steindachneridion punctatum",
+    "SpecCode": "63116",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Steindachneridion scriptum",
+    "SpecCode": "48553",
+    "CommonName": "bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

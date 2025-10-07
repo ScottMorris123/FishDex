@@ -63,7 +63,7 @@
   {
     "ScientificName": "Acentrogobius ennorensis",
     "SpecCode": "56720",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -233,7 +233,7 @@
   {
     "ScientificName": "Acentrogobius veliensis",
     "SpecCode": "65414",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],

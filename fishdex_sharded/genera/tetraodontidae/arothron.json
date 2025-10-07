@@ -38,7 +38,7 @@
   {
     "ScientificName": "Arothron gillbanksii",
     "SpecCode": "55090",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

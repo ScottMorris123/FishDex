@@ -30,7 +30,7 @@
   {
     "ScientificName": "Solea heinii",
     "SpecCode": "58942",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

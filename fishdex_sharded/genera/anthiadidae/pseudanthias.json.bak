@@ -1,0 +1,461 @@
+[
+  {
+    "ScientificName": "Pseudanthias bimaculatus",
+    "SpecCode": "12731",
+    "CommonName": "Pers goudvissie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias calloura",
+    "SpecCode": "58592",
+    "CommonName": "Aurora anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias caudalis",
+    "SpecCode": "23427",
+    "CommonName": "Bara-nagahanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias charleneae",
+    "SpecCode": "63722",
+    "CommonName": "Charlene's anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias cichlops",
+    "SpecCode": "6945",
+    "CommonName": "Cá Mú vàng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias connelli",
+    "SpecCode": "23328",
+    "CommonName": "Harlekyn-goudvissie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias conspicuus",
+    "SpecCode": "60620",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias cooperi",
+    "SpecCode": "13006",
+    "CommonName": "Anthias à tache rouge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias elongatus",
+    "SpecCode": "23424",
+    "CommonName": "Nagahanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias emma",
+    "SpecCode": "69170",
+    "CommonName": "Emma's basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias engelhardi",
+    "SpecCode": "15064",
+    "CommonName": "Barrier reef anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias fasciatus",
+    "SpecCode": "10632",
+    "CommonName": "One-stripe anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias flavicauda",
+    "SpecCode": "60819",
+    "CommonName": "Yellowtail anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias fucinus",
+    "SpecCode": "61256",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias georgei",
+    "SpecCode": "15074",
+    "CommonName": "George's basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias gibbosus",
+    "SpecCode": "70464",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias hawaiiensis",
+    "SpecCode": "51586",
+    "CommonName": "Hawaiian longfin anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias heemstrai",
+    "SpecCode": "24434",
+    "CommonName": "Orangehead anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias hiva",
+    "SpecCode": "60821",
+    "CommonName": "Hiva basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias huchtii",
+    "SpecCode": "6567",
+    "CommonName": "Hucht's fairy basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias hutomoi",
+    "SpecCode": "59192",
+    "CommonName": "Buklak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias hypselosoma",
+    "SpecCode": "8124",
+    "CommonName": "Arawas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias ignitus",
+    "SpecCode": "23766",
+    "CommonName": "Anthias flamme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias leucozonus",
+    "SpecCode": "23425",
+    "CommonName": "Shiro-obihanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias lunulatus",
+    "SpecCode": "23329",
+    "CommonName": "Lunate goldie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias luzonensis",
+    "SpecCode": "7458",
+    "CommonName": "Luzon anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias manadensis",
+    "SpecCode": "61258",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias marcia",
+    "SpecCode": "27001",
+    "CommonName": "Kerapu puyu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias mica",
+    "SpecCode": "66859",
+    "CommonName": "Mica's anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias mooreanus",
+    "SpecCode": "59194",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias nobilis",
+    "SpecCode": "61255",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias olivaceus",
+    "SpecCode": "46510",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias oumati",
+    "SpecCode": "66973",
+    "CommonName": "Saffron anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias paralourgus",
+    "SpecCode": "69911",
+    "CommonName": "Purple-tip Anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias pictilis",
+    "SpecCode": "12691",
+    "CommonName": "Painted anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias pillai",
+    "SpecCode": "69169",
+    "CommonName": "Pillai's anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias pleurotaenia",
+    "SpecCode": "6569",
+    "CommonName": "Blotched fairy basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias pulcherrimus",
+    "SpecCode": "12733",
+    "CommonName": "Anthias splendide",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias randalli",
+    "SpecCode": "6571",
+    "CommonName": "Fuchidorihanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias rubrizonatus",
+    "SpecCode": "7321",
+    "CommonName": "Deepsea fairy basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias rubrolineatus",
+    "SpecCode": "61257",
+    "CommonName": "Itohiki-kohaku-hanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias sheni",
+    "SpecCode": "27312",
+    "CommonName": "Shen's basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias squamipinnis",
+    "SpecCode": "6568",
+    "CommonName": "Amparamaha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias taeniatus",
+    "SpecCode": "12776",
+    "CommonName": "Anthias rayé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias taira",
+    "SpecCode": "24856",
+    "CommonName": "Ryukyuhanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias tequila",
+    "SpecCode": "69250",
+    "CommonName": "Cave anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias thompsoni",
+    "SpecCode": "7783",
+    "CommonName": "Fairy bass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias townsendi",
+    "SpecCode": "46437",
+    "CommonName": "Townsend's anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias venator",
+    "SpecCode": "61251",
+    "CommonName": "Kumaso-hanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias ventralis",
+    "SpecCode": "12700",
+    "CommonName": "Longfin anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudanthias xanthomaculatus",
+    "SpecCode": "59195",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

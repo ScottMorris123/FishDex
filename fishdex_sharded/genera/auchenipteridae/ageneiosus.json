@@ -2,7 +2,7 @@
   {
     "ScientificName": "Ageneiosus akamai",
     "SpecCode": "70076",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Ageneiosus apiaka",
     "SpecCode": "70077",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Ageneiosus intrusus",
     "SpecCode": "70066",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Ageneiosus lineatus",
     "SpecCode": "70075",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Ageneiosus uranophthalmus",
     "SpecCode": "65400",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

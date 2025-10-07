@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Diplomystes camposensis",
+    "SpecCode": "10394",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplomystes chilensis",
+    "SpecCode": "6184",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplomystes incognitus",
+    "SpecCode": "68504",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diplomystes nahuelbutaensis",
+    "SpecCode": "10395",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -108,7 +108,7 @@
   {
     "ScientificName": "Knipowitschia montenegrina",
     "SpecCode": "64043",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -117,7 +117,7 @@
   {
     "ScientificName": "Knipowitschia mrakovcici",
     "SpecCode": "46536",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

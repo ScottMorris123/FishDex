@@ -2,7 +2,7 @@
   {
     "ScientificName": "Sisor barakensis",
     "SpecCode": "62854",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Sisor chennuah",
     "SpecCode": "61827",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Sisor torosus",
     "SpecCode": "61829",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

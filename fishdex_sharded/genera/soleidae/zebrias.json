@@ -2,7 +2,7 @@
   {
     "ScientificName": "Zebrias altipinnis",
     "SpecCode": "58958",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Zebrias annandalei",
     "SpecCode": "60552",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Zebrias cochinensis",
     "SpecCode": "69703",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Zebrias keralensis",
     "SpecCode": "60553",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Zebrias maculosus",
     "SpecCode": "60554",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

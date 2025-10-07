@@ -57,7 +57,7 @@
   {
     "ScientificName": "Boleophthalmus poti",
     "SpecCode": "66793",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",

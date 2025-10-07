@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Setarches armata",
+    "SpecCode": "59580",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Setarches guentheri",
+    "SpecCode": "5029",
+    "CommonName": "Channeled rockfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

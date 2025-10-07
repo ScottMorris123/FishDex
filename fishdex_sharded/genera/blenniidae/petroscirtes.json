@@ -40,7 +40,7 @@
   {
     "ScientificName": "Petroscirtes marginatus",
     "SpecCode": "46542",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

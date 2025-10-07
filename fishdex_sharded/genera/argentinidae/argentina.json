@@ -20,7 +20,7 @@
   {
     "ScientificName": "Argentina brasiliensis",
     "SpecCode": "65064",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Argentina stewarti",
     "SpecCode": "60520",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

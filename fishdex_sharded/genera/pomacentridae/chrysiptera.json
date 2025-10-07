@@ -2,7 +2,7 @@
   {
     "ScientificName": "Chrysiptera albata",
     "SpecCode": "61071",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Chrysiptera maurineae",
     "SpecCode": "70379",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Chrionema chlorotaenia",
+    "SpecCode": "10505",
+    "CommonName": "Blotched duckbill",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrionema chryseres",
+    "SpecCode": "23549",
+    "CommonName": "Gendang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrionema furunoi",
+    "SpecCode": "23548",
+    "CommonName": "Ibaratoragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrionema pallidum",
+    "SpecCode": "58265",
+    "CommonName": "蒼白低線魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrionema squamentum",
+    "SpecCode": "61187",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrionema squamiceps",
+    "SpecCode": "58266",
+    "CommonName": "鱗首低線魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

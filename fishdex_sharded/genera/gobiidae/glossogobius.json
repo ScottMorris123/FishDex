@@ -21,7 +21,7 @@
   {
     "ScientificName": "Glossogobius bellendenensis",
     "SpecCode": "64851",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Glossogobius clitellus",
     "SpecCode": "66600",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -139,7 +139,7 @@
   {
     "ScientificName": "Glossogobius gnomus",
     "SpecCode": "68635",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -157,7 +157,7 @@
   {
     "ScientificName": "Glossogobius illimis",
     "SpecCode": "66599",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -195,7 +195,7 @@
   {
     "ScientificName": "Glossogobius macrocephalus",
     "SpecCode": "68847",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -222,7 +222,7 @@
   {
     "ScientificName": "Glossogobius minutus",
     "SpecCode": "65417",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -232,7 +232,7 @@
   {
     "ScientificName": "Glossogobius multipapillus",
     "SpecCode": "68854",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -241,7 +241,7 @@
   {
     "ScientificName": "Glossogobius munroi",
     "SpecCode": "66601",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -250,7 +250,7 @@
   {
     "ScientificName": "Glossogobius muscorum",
     "SpecCode": "64852",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -259,7 +259,7 @@
   {
     "ScientificName": "Glossogobius nanus",
     "SpecCode": "68636",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -288,7 +288,7 @@
   {
     "ScientificName": "Glossogobius pumilus",
     "SpecCode": "68637",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -297,7 +297,7 @@
   {
     "ScientificName": "Glossogobius robertsi",
     "SpecCode": "64853",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -306,7 +306,7 @@
   {
     "ScientificName": "Glossogobius sentaniensis",
     "SpecCode": "68864",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

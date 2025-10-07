@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Rachovia brevis",
+    "SpecCode": "49660",
+    "CommonName": "Hohtolyyrapyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rachovia fransvermeuleni",
+    "SpecCode": "69147",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rachovia hummelincki",
+    "SpecCode": "49661",
+    "CommonName": "Harmaaviiripyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rachovia maculipinnis",
+    "SpecCode": "49662",
+    "CommonName": "Saumalyyrapyrstö",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rachovia pyropunctata",
+    "SpecCode": "49663",
+    "CommonName": "Rotpunkt-Rachovia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

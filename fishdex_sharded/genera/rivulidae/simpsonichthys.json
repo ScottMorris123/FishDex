@@ -29,7 +29,7 @@
   {
     "ScientificName": "Simpsonichthys cholopteryx",
     "SpecCode": "61599",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Simpsonichthys delucai",
     "SpecCode": "61411",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Simpsonichthys fasciatus",
     "SpecCode": "62894",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Simpsonichthys gibberatus",
     "SpecCode": "62895",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Simpsonichthys margaritatus",
     "SpecCode": "66419",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Simpsonichthys nielseni",
     "SpecCode": "62644",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Simpsonichthys nigromaculatus",
     "SpecCode": "64195",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Simpsonichthys ocellatus",
     "SpecCode": "59881",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Simpsonichthys parallelus",
     "SpecCode": "59888",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Simpsonichthys perpendicularis",
     "SpecCode": "59882",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Simpsonichthys punctulatus",
     "SpecCode": "63487",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Simpsonichthys rosaceus",
     "SpecCode": "59883",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Simpsonichthys rufus",
     "SpecCode": "59884",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Simpsonichthys similis",
     "SpecCode": "57484",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Simpsonichthys suzarti",
     "SpecCode": "62072",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Simpsonichthys virgulatus",
     "SpecCode": "62893",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

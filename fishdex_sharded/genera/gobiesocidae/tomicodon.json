@@ -21,7 +21,7 @@
   {
     "ScientificName": "Tomicodon australis",
     "SpecCode": "61481",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -48,7 +48,7 @@
   {
     "ScientificName": "Tomicodon briggsi",
     "SpecCode": "61480",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -66,7 +66,7 @@
   {
     "ScientificName": "Tomicodon clarkei",
     "SpecCode": "61483",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -75,7 +75,7 @@
   {
     "ScientificName": "Tomicodon cryptus",
     "SpecCode": "61484",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Tomicodon lavettsmithi",
     "SpecCode": "61485",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -120,7 +120,7 @@
   {
     "ScientificName": "Tomicodon leurodiscus",
     "SpecCode": "61486",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -156,7 +156,7 @@
   {
     "ScientificName": "Tomicodon reitzae",
     "SpecCode": "60707",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -165,7 +165,7 @@
   {
     "ScientificName": "Tomicodon rhabdotus",
     "SpecCode": "55748",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -174,7 +174,7 @@
   {
     "ScientificName": "Tomicodon rupestris",
     "SpecCode": "61487",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

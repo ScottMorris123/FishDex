@@ -50,7 +50,7 @@
   {
     "ScientificName": "Carassius praecipuus",
     "SpecCode": "68593",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

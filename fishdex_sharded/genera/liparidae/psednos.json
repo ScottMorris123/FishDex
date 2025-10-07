@@ -11,7 +11,7 @@
   {
     "ScientificName": "Psednos anoderkes",
     "SpecCode": "59833",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Psednos argyrogaster",
     "SpecCode": "66729",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Psednos carolinae",
     "SpecCode": "62197",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Psednos cathetostomus",
     "SpecCode": "59798",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Psednos chathami",
     "SpecCode": "66730",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Psednos cryptocaeca",
     "SpecCode": "66731",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Psednos delawarei",
     "SpecCode": "59832",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Psednos dentatus",
     "SpecCode": "59793",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Psednos griseus",
     "SpecCode": "59831",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Psednos islandicus",
     "SpecCode": "59797",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Psednos longiventris",
     "SpecCode": "66732",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Psednos melanocephalus",
     "SpecCode": "59794",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Psednos mexicanus",
     "SpecCode": "59795",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Psednos microstomus",
     "SpecCode": "66734",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Psednos nemnezi",
     "SpecCode": "66736",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Psednos pallidus",
     "SpecCode": "59830",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Psednos platyoperculosus",
     "SpecCode": "66737",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Psednos rossi",
     "SpecCode": "65236",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Psednos spirohira",
     "SpecCode": "59796",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -299,7 +299,7 @@
   {
     "ScientificName": "Psednos struthersi",
     "SpecCode": "66739",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Pseudamia amblyuroptera",
+    "SpecCode": "4361",
+    "CommonName": "Cardinalfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamia gelatinosa",
+    "SpecCode": "4362",
+    "CommonName": "Cardinal gélatineux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamia hayashii",
+    "SpecCode": "4363",
+    "CommonName": "Dangat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamia nigra",
+    "SpecCode": "59189",
+    "CommonName": "Estuary cardinalfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamia rubra",
+    "SpecCode": "26966",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamia tarri",
+    "SpecCode": "4364",
+    "CommonName": "Tarr's cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudamia zonata",
+    "SpecCode": "4365",
+    "CommonName": "Charcoal-banded cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

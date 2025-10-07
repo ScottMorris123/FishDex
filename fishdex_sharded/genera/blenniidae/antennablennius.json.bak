@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Antennablennius adenensis",
+    "SpecCode": "46412",
+    "CommonName": "Aden blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennablennius australis",
+    "SpecCode": "8042",
+    "CommonName": "Gesnorde klipspringer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennablennius bifilum",
+    "SpecCode": "8041",
+    "CommonName": "Horing-klipspringer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennablennius ceylonensis",
+    "SpecCode": "62867",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennablennius hypenetes",
+    "SpecCode": "46413",
+    "CommonName": "Arabian blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennablennius sexfasciatus",
+    "SpecCode": "67695",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennablennius simonyi",
+    "SpecCode": "46414",
+    "CommonName": "Simony's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennablennius variopunctatus",
+    "SpecCode": "46415",
+    "CommonName": "Orangedotted blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Antennablennius velifer",
+    "SpecCode": "67071",
+    "CommonName": "東非觸角鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

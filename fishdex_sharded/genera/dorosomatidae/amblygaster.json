@@ -11,7 +11,7 @@
   {
     "ScientificName": "Amblygaster indiana",
     "SpecCode": "68475",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

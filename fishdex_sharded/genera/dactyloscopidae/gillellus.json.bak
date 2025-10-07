@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Gillellus arenicola",
+    "SpecCode": "46626",
+    "CommonName": "Miraestrella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillellus chathamensis",
+    "SpecCode": "46629",
+    "CommonName": "Cocos stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillellus greyae",
+    "SpecCode": "3700",
+    "CommonName": "Arrow stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillellus healae",
+    "SpecCode": "12441",
+    "CommonName": "Masked stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillellus inescatus",
+    "SpecCode": "60689",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillellus jacksoni",
+    "SpecCode": "50480",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillellus ornatus",
+    "SpecCode": "58234",
+    "CommonName": "Miraestrellas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillellus searcheri",
+    "SpecCode": "46634",
+    "CommonName": "Miraestrella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillellus semicinctus",
+    "SpecCode": "46649",
+    "CommonName": "Halfbanded stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gillellus uranidea",
+    "SpecCode": "3702",
+    "CommonName": "Vorteøjet stjernekiggerslimfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

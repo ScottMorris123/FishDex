@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Plagioscion auratus",
+    "SpecCode": "12059",
+    "CommonName": "Acoupa eau douce",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagioscion casattii",
+    "SpecCode": "59922",
+    "CommonName": "Curvinata",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagioscion montei",
+    "SpecCode": "63010",
+    "CommonName": "Corvina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagioscion pauciradiatus",
+    "SpecCode": "61343",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagioscion squamosissimus",
+    "SpecCode": "4310",
+    "CommonName": "Acoupa eau douce",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagioscion surinamensis",
+    "SpecCode": "12081",
+    "CommonName": "Akoupa dilo-dous",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagioscion ternetzi",
+    "SpecCode": "56999",
+    "CommonName": "Corvina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

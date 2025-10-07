@@ -11,7 +11,7 @@
   {
     "ScientificName": "Neofundulus aureomaculatus",
     "SpecCode": "67942",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Neofundulus rubrofasciatus",
     "SpecCode": "67926",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Neofundulus splendidus",
     "SpecCode": "67988",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

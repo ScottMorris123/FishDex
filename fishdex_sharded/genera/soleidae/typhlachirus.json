@@ -2,7 +2,7 @@
   {
     "ScientificName": "Typhlachirus caecus",
     "SpecCode": "25168",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -22,7 +22,7 @@
   {
     "ScientificName": "Typhlachirus lipophthalmus",
     "SpecCode": "69697",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",

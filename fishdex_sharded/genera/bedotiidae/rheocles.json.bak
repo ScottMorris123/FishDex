@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Rheocles alaotrensis",
+    "SpecCode": "9884",
+    "CommonName": "Antsiriva",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rheocles derhami",
+    "SpecCode": "58323",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rheocles lateralis",
+    "SpecCode": "10533",
+    "CommonName": "Zona",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rheocles pellegrini",
+    "SpecCode": "9886",
+    "CommonName": "Zona",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rheocles sikorae",
+    "SpecCode": "9885",
+    "CommonName": "Punaeväkatrana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rheocles vatosoa",
+    "SpecCode": "59769",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rheocles wrightae",
+    "SpecCode": "10535",
+    "CommonName": "Zona",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

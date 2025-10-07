@@ -65,7 +65,7 @@
   {
     "ScientificName": "Centrophorus machiquensis",
     "SpecCode": "69596",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

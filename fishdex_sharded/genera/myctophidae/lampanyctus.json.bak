@@ -1,0 +1,353 @@
+[
+  {
+    "ScientificName": "Lampanyctus acanthurus",
+    "SpecCode": "23002",
+    "CommonName": "Ôme-niji-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus achirus",
+    "SpecCode": "6998",
+    "CommonName": "Cripplefin lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus alatus",
+    "SpecCode": "616",
+    "CommonName": "Nightlight fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus ater",
+    "SpecCode": "6999",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus australis",
+    "SpecCode": "7000",
+    "CommonName": "Austral lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus bristori",
+    "SpecCode": "60924",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus crocodilus",
+    "SpecCode": "617",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus crypticus",
+    "SpecCode": "60925",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus cuprarius",
+    "SpecCode": "16682",
+    "CommonName": "銅色珍燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus fernae",
+    "SpecCode": "52257",
+    "CommonName": "Buk-tang-pyeong-yang-saet-bi-neul-chi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus festivus",
+    "SpecCode": "16684",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus gibbsi",
+    "SpecCode": "60926",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus hawaiiensis",
+    "SpecCode": "60927",
+    "CommonName": "Tenashi-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus hubbsi",
+    "SpecCode": "59145",
+    "CommonName": "后点珍灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus idostigma",
+    "SpecCode": "54415",
+    "CommonName": "墨西哥珍灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus indicus",
+    "SpecCode": "60928",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus intricarius",
+    "SpecCode": "7001",
+    "CommonName": "Atlantslaxsíld",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus isaacsi",
+    "SpecCode": "16689",
+    "CommonName": "艾氏珍灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus iselinoides",
+    "SpecCode": "55103",
+    "CommonName": "似艾氏珍灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus jordani",
+    "SpecCode": "23003",
+    "CommonName": "Brokenline lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus lepidolychnus",
+    "SpecCode": "16761",
+    "CommonName": "Mermaid lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus lineatus",
+    "SpecCode": "10269",
+    "CommonName": "Lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus macdonaldi",
+    "SpecCode": "7002",
+    "CommonName": "Brun lysprikkfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus macropterus",
+    "SpecCode": "47147",
+    "CommonName": "大鰭珍燈魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus niger",
+    "SpecCode": "7441",
+    "CommonName": "Black lantern fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus nobilis",
+    "SpecCode": "7413",
+    "CommonName": "Hoso-tongari-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus omostigma",
+    "SpecCode": "54416",
+    "CommonName": "同点珍灯鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus parvicauda",
+    "SpecCode": "54417",
+    "CommonName": "Lampfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus photonotus",
+    "SpecCode": "15820",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus phyllisae",
+    "SpecCode": "60929",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus pusillus",
+    "SpecCode": "623",
+    "CommonName": "Aladynka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus regalis",
+    "SpecCode": "2734",
+    "CommonName": "Lampanikt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus ritteri",
+    "SpecCode": "5371",
+    "CommonName": "Broadfin lampfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus simulator",
+    "SpecCode": "23004",
+    "CommonName": "Hoso-mame-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus steinbecki",
+    "SpecCode": "7414",
+    "CommonName": "Longfin lampfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus tenuiformis",
+    "SpecCode": "7415",
+    "CommonName": "Nettai-niji-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus turneri",
+    "SpecCode": "16763",
+    "CommonName": "Kata-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus vadulus",
+    "SpecCode": "16697",
+    "CommonName": "Hirenaga-hadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampanyctus wisneri",
+    "SpecCode": "60930",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

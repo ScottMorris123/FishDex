@@ -62,7 +62,7 @@
   {
     "ScientificName": "Kuhlia petiti",
     "SpecCode": "60750",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Kuhlia sauvagii",
     "SpecCode": "66265",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

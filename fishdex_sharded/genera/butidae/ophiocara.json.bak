@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Ophiocara macrolepidota",
+    "SpecCode": "10024",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophiocara porocephala",
+    "SpecCode": "10023",
+    "CommonName": "Bau",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Coryogalops guttatus",
     "SpecCode": "68614",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Coryogalops nanus",
     "SpecCode": "68445",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Coryogalops pseudomonospilus",
     "SpecCode": "68613",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

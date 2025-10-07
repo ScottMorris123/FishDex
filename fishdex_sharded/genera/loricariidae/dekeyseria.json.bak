@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Dekeyseria amazonica",
+    "SpecCode": "53566",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dekeyseria brachyura",
+    "SpecCode": "49957",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dekeyseria niveata",
+    "SpecCode": "49962",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dekeyseria picta",
+    "SpecCode": "49971",
+    "CommonName": "Kirev kiilrüüsäga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dekeyseria pulchra",
+    "SpecCode": "49973",
+    "CommonName": "Brazil-butterfly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dekeyseria scaphirhyncha",
+    "SpecCode": "49975",
+    "CommonName": "Flachkopf-Zwergharnischwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

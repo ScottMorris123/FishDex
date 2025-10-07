@@ -29,7 +29,7 @@
   {
     "ScientificName": "Plagioscion pauciradiatus",
     "SpecCode": "61343",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

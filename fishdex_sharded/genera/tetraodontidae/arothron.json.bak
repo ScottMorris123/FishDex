@@ -1,0 +1,142 @@
+[
+  {
+    "ScientificName": "Arothron caeruleopunctatus",
+    "SpecCode": "13051",
+    "CommonName": "Arare-fugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron carduus",
+    "SpecCode": "55071",
+    "CommonName": "荆棘叉鼻鲀",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron diadematus",
+    "SpecCode": "25413",
+    "CommonName": "Hadroom",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron firmamentum",
+    "SpecCode": "14568",
+    "CommonName": "Hoshifugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron gillbanksii",
+    "SpecCode": "55090",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron hispidus",
+    "SpecCode": "5425",
+    "CommonName": "Ballon à épaule noire",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron immaculatus",
+    "SpecCode": "7188",
+    "CommonName": "Bebo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron inconditus",
+    "SpecCode": "23125",
+    "CommonName": "Bellystriped blaasop",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron manilensis",
+    "SpecCode": "7187",
+    "CommonName": "Buntal-pasir garis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron mappa",
+    "SpecCode": "7857",
+    "CommonName": "Ballon griffonné",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron meleagris",
+    "SpecCode": "6401",
+    "CommonName": "Botete aletas punteadas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron multilineatus",
+    "SpecCode": "67932",
+    "CommonName": "Burereng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron nigropunctatus",
+    "SpecCode": "6400",
+    "CommonName": "Ballon maculé",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron reticularis",
+    "SpecCode": "6594",
+    "CommonName": "Bebo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Arothron stellatus",
+    "SpecCode": "6526",
+    "CommonName": "Arothron wielki",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

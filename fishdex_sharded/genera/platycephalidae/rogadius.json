@@ -11,7 +11,7 @@
   {
     "ScientificName": "Rogadius fehlmanni",
     "SpecCode": "67411",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

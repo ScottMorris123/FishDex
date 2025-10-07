@@ -439,7 +439,7 @@
   {
     "ScientificName": "Callionymus kanakorum",
     "SpecCode": "64200",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -774,7 +774,7 @@
   {
     "ScientificName": "Callionymus profundus",
     "SpecCode": "67918",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

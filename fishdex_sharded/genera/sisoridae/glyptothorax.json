@@ -11,7 +11,7 @@
   {
     "ScientificName": "Glyptothorax amnestus",
     "SpecCode": "70068",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Glyptothorax anamalaiensis",
     "SpecCode": "66247",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Glyptothorax ater",
     "SpecCode": "65957",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Glyptothorax burmanicus",
     "SpecCode": "65191",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Glyptothorax caudimaculatus",
     "SpecCode": "65958",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Glyptothorax chimtuipuiensis",
     "SpecCode": "65808",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Glyptothorax chindwinica",
     "SpecCode": "63239",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Glyptothorax churamanii",
     "SpecCode": "67895",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Glyptothorax clavatus",
     "SpecCode": "67730",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Glyptothorax coracinus",
     "SpecCode": "64621",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Glyptothorax decussatus",
     "SpecCode": "70069",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Glyptothorax dikrongensis",
     "SpecCode": "65907",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Glyptothorax distichus",
     "SpecCode": "70550",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Glyptothorax exodon",
     "SpecCode": "62705",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Glyptothorax famelicus",
     "SpecCode": "70070",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Glyptothorax filicatus",
     "SpecCode": "64719",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -282,7 +282,7 @@
   {
     "ScientificName": "Glyptothorax forabilis",
     "SpecCode": "70410",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -291,7 +291,7 @@
   {
     "ScientificName": "Glyptothorax fucatus",
     "SpecCode": "66562",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -318,7 +318,7 @@
   {
     "ScientificName": "Glyptothorax giudikyensis",
     "SpecCode": "70549",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -327,7 +327,7 @@
   {
     "ScientificName": "Glyptothorax gopii",
     "SpecCode": "70548",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -345,7 +345,7 @@
   {
     "ScientificName": "Glyptothorax granosus",
     "SpecCode": "66561",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -354,7 +354,7 @@
   {
     "ScientificName": "Glyptothorax granulus",
     "SpecCode": "63238",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -363,7 +363,7 @@
   {
     "ScientificName": "Glyptothorax hainanensis",
     "SpecCode": "66250",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -381,7 +381,7 @@
   {
     "ScientificName": "Glyptothorax horai",
     "SpecCode": "67432",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -399,7 +399,7 @@
   {
     "ScientificName": "Glyptothorax igniculus",
     "SpecCode": "67047",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -435,7 +435,7 @@
   {
     "ScientificName": "Glyptothorax jayarami",
     "SpecCode": "66556",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -453,7 +453,7 @@
   {
     "ScientificName": "Glyptothorax keluk",
     "SpecCode": "70071",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -462,7 +462,7 @@
   {
     "ScientificName": "Glyptothorax ketambe",
     "SpecCode": "64915",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -471,7 +471,7 @@
   {
     "ScientificName": "Glyptothorax kudremukhensis",
     "SpecCode": "64595",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -489,7 +489,7 @@
   {
     "ScientificName": "Glyptothorax laak",
     "SpecCode": "66117",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -507,7 +507,7 @@
   {
     "ScientificName": "Glyptothorax lanceatus",
     "SpecCode": "66496",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -552,7 +552,7 @@
   {
     "ScientificName": "Glyptothorax maceriatus",
     "SpecCode": "66943",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -588,7 +588,7 @@
   {
     "ScientificName": "Glyptothorax malabarensis",
     "SpecCode": "65599",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -597,7 +597,7 @@
   {
     "ScientificName": "Glyptothorax manipurensis",
     "SpecCode": "62786",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -606,7 +606,7 @@
   {
     "ScientificName": "Glyptothorax mibangi",
     "SpecCode": "67894",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -642,7 +642,7 @@
   {
     "ScientificName": "Glyptothorax ngapang",
     "SpecCode": "63237",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -651,7 +651,7 @@
   {
     "ScientificName": "Glyptothorax nieuwenhuisi",
     "SpecCode": "63639",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -660,7 +660,7 @@
   {
     "ScientificName": "Glyptothorax obliquimaculatus",
     "SpecCode": "65190",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -688,7 +688,7 @@
   {
     "ScientificName": "Glyptothorax panda",
     "SpecCode": "62672",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -697,7 +697,7 @@
   {
     "ScientificName": "Glyptothorax pantherinus",
     "SpecCode": "67026",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -715,7 +715,7 @@
   {
     "ScientificName": "Glyptothorax pictus",
     "SpecCode": "70133",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -742,7 +742,7 @@
   {
     "ScientificName": "Glyptothorax plectilis",
     "SpecCode": "64275",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -796,7 +796,7 @@
   {
     "ScientificName": "Glyptothorax radiolus",
     "SpecCode": "67081",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -814,7 +814,7 @@
   {
     "ScientificName": "Glyptothorax rugimentum",
     "SpecCode": "63679",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -823,7 +823,7 @@
   {
     "ScientificName": "Glyptothorax rupiri",
     "SpecCode": "70551",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -841,7 +841,7 @@
   {
     "ScientificName": "Glyptothorax schmidti",
     "SpecCode": "64724",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -850,7 +850,7 @@
   {
     "ScientificName": "Glyptothorax scrobiculus",
     "SpecCode": "67601",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -859,7 +859,7 @@
   {
     "ScientificName": "Glyptothorax senapatiensis",
     "SpecCode": "68922",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -868,7 +868,7 @@
   {
     "ScientificName": "Glyptothorax siamensis",
     "SpecCode": "62706",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -877,7 +877,7 @@
   {
     "ScientificName": "Glyptothorax siangensis",
     "SpecCode": "70552",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -913,7 +913,7 @@
   {
     "ScientificName": "Glyptothorax stibaros",
     "SpecCode": "70072",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -931,7 +931,7 @@
   {
     "ScientificName": "Glyptothorax stolickae",
     "SpecCode": "24876",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -940,7 +940,7 @@
   {
     "ScientificName": "Glyptothorax strabonis",
     "SpecCode": "64721",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -958,7 +958,7 @@
   {
     "ScientificName": "Glyptothorax sufii",
     "SpecCode": "62303",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -967,7 +967,7 @@
   {
     "ScientificName": "Glyptothorax sykesi",
     "SpecCode": "63640",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1003,7 +1003,7 @@
   {
     "ScientificName": "Glyptothorax ventrolineatus",
     "SpecCode": "62853",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1012,7 +1012,7 @@
   {
     "ScientificName": "Glyptothorax verrucosus",
     "SpecCode": "67387",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1030,7 +1030,7 @@
   {
     "ScientificName": "Glyptothorax zhujiangensis",
     "SpecCode": "61826",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

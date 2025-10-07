@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Gymnochanda filamentosa",
+    "SpecCode": "24795",
+    "CommonName": "Anak senara",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnochanda flamea",
+    "SpecCode": "26989",
+    "CommonName": "Anak senara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnochanda limi",
+    "SpecCode": "27258",
+    "CommonName": "利姆氏裸玻璃魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnochanda ploegi",
+    "SpecCode": "67562",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnochanda verae",
+    "SpecCode": "66311",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

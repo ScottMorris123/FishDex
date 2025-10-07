@@ -461,7 +461,7 @@
   {
     "ScientificName": "Cirrhilabrus ryukyuensis",
     "SpecCode": "68720",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

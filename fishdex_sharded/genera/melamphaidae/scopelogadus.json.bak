@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Scopelogadus beanii",
+    "SpecCode": "9058",
+    "CommonName": "Bean's bigscale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelogadus bispinosus",
+    "SpecCode": "25275",
+    "CommonName": "Twospine bigscale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelogadus mizolepis",
+    "SpecCode": "10284",
+    "CommonName": "Bigscale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scopelogadus unispinis",
+    "SpecCode": "54129",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

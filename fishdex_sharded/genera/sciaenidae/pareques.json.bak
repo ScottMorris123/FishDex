@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Pareques acuminatus",
+    "SpecCode": "3583",
+    "CommonName": "Bilro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareques fuscovittatus",
+    "SpecCode": "14073",
+    "CommonName": "Corvina linda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareques iwamotoi",
+    "SpecCode": "4660",
+    "CommonName": "Blackbar drum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareques lanfeari",
+    "SpecCode": "14074",
+    "CommonName": "Camiseta rayada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareques lineatus",
+    "SpecCode": "70137",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareques perissa",
+    "SpecCode": "14075",
+    "CommonName": "Corvinita estrambótica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareques umbrosus",
+    "SpecCode": "3586",
+    "CommonName": "Chubbuyu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pareques viola",
+    "SpecCode": "8327",
+    "CommonName": "Camisete rabinegra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

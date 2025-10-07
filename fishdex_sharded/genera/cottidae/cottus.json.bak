@@ -1,0 +1,609 @@
+[
+  {
+    "ScientificName": "Cottus aleuticus",
+    "SpecCode": "4061",
+    "CommonName": "Aleutian sculpin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus altaicus",
+    "SpecCode": "67062",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus amblystomopsis",
+    "SpecCode": "23932",
+    "CommonName": "Ezohana-kajika",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus asper",
+    "SpecCode": "4062",
+    "CommonName": "Bullhead",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus asperrimus",
+    "SpecCode": "4063",
+    "CommonName": "Rough Sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus aturi",
+    "SpecCode": "62350",
+    "CommonName": "Bavard",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus baileyi",
+    "SpecCode": "4064",
+    "CommonName": "Black sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus bairdii",
+    "SpecCode": "4065",
+    "CommonName": "Beard's sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus beldingii",
+    "SpecCode": "4066",
+    "CommonName": "Paiute sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus bendirei",
+    "SpecCode": "60841",
+    "CommonName": "Malheur sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus caeruleomentum",
+    "SpecCode": "57882",
+    "CommonName": "Blue Ridge sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus carolinae",
+    "SpecCode": "4067",
+    "CommonName": "Banded sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus chattahoochee",
+    "SpecCode": "64192",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus cognatus",
+    "SpecCode": "4068",
+    "CommonName": "Anadyr sculpin",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus confusus",
+    "SpecCode": "4069",
+    "CommonName": "Chabot à tête courte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus cyclophthalmus",
+    "SpecCode": "70291",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus czerskii",
+    "SpecCode": "47986",
+    "CommonName": "Cherskii's sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus duranii",
+    "SpecCode": "62354",
+    "CommonName": "Bavard",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus dzungaricus",
+    "SpecCode": "63081",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus echinatus",
+    "SpecCode": "4070",
+    "CommonName": "Utah Lake Sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus extensus",
+    "SpecCode": "4071",
+    "CommonName": "Bear Lake Sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus girardi",
+    "SpecCode": "4072",
+    "CommonName": "Potomac sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus gobio",
+    "SpecCode": "2439",
+    "CommonName": "Almindelig ferskvandsulk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus gratzianowi",
+    "SpecCode": "68160",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus greenei",
+    "SpecCode": "4073",
+    "CommonName": "Shoshone Sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus gulosus",
+    "SpecCode": "4074",
+    "CommonName": "Riffle sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus haemusi",
+    "SpecCode": "65609",
+    "CommonName": "Vit sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus hangiongensis",
+    "SpecCode": "23934",
+    "CommonName": "Kankyo-kajika",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus hispaniolensis",
+    "SpecCode": "62351",
+    "CommonName": "Bavard",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus hubbsi",
+    "SpecCode": "60843",
+    "CommonName": "Columbia sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus hypselurus",
+    "SpecCode": "10359",
+    "CommonName": "Ozark sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus immaculatus",
+    "SpecCode": "65300",
+    "CommonName": "Knobfin sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus kanawhae",
+    "SpecCode": "62135",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus kazika",
+    "SpecCode": "23929",
+    "CommonName": "Fourspine sculpin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus klamathensis",
+    "SpecCode": "4075",
+    "CommonName": "Marbled sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus kolymensis",
+    "SpecCode": "67061",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus koreanus",
+    "SpecCode": "62497",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus koshewnikowi",
+    "SpecCode": "62362",
+    "CommonName": "Kare võldas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus kuznetzovi",
+    "SpecCode": "67063",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus leiopomus",
+    "SpecCode": "4076",
+    "CommonName": "Wood River Sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus marginatus",
+    "SpecCode": "4077",
+    "CommonName": "Margined sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus metae",
+    "SpecCode": "62359",
+    "CommonName": "Barjanski kapelj",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus microstomus",
+    "SpecCode": "62361",
+    "CommonName": "Baltische Groppe",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus nasalis",
+    "SpecCode": "48043",
+    "CommonName": "Trubkonosyi podkamenshchik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus nozawae",
+    "SpecCode": "23931",
+    "CommonName": "Hana-kajika",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus paulus",
+    "SpecCode": "4081",
+    "CommonName": "Pritlikavi kapelj",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus perifretum",
+    "SpecCode": "62356",
+    "CommonName": "Bavard",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus perplexus",
+    "SpecCode": "4078",
+    "CommonName": "Reticulate sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus petiti",
+    "SpecCode": "49384",
+    "CommonName": "Chabot du Lez",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus pitensis",
+    "SpecCode": "4079",
+    "CommonName": "Pit sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus pollux",
+    "SpecCode": "23930",
+    "CommonName": "Japanese fluvial sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus princeps",
+    "SpecCode": "4080",
+    "CommonName": "Klamath Lake Sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus reinii",
+    "SpecCode": "23935",
+    "CommonName": "Utsusemi-kajika",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus rhenanus",
+    "SpecCode": "62357",
+    "CommonName": "Bavard",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus rhotheus",
+    "SpecCode": "4082",
+    "CommonName": "Chabot de torrent",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus ricei",
+    "SpecCode": "4083",
+    "CommonName": "Chabot à tête plate",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus rondeleti",
+    "SpecCode": "62355",
+    "CommonName": "Aze",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus sabaudicus",
+    "SpecCode": "64990",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus schitsuumsh",
+    "SpecCode": "67274",
+    "CommonName": "Cedar sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus sibiricus",
+    "SpecCode": "47990",
+    "CommonName": "Bol'shegolovaya shirokolobka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus specus",
+    "SpecCode": "66808",
+    "CommonName": "Grotto sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus spinulosus",
+    "SpecCode": "23051",
+    "CommonName": "Turkestan sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus szanaga",
+    "SpecCode": "63082",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus tallapoosae",
+    "SpecCode": "64191",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus tenuis",
+    "SpecCode": "4084",
+    "CommonName": "Slender Sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottus transsilvaniae",
+    "SpecCode": "62360",
+    "CommonName": "Arges sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

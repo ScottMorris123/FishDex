@@ -29,7 +29,7 @@
   {
     "ScientificName": "Hypoplectrus castroaguirrei",
     "SpecCode": "66548",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Hypoplectrus maculiferus",
     "SpecCode": "66374",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

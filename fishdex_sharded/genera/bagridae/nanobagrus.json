@@ -20,7 +20,7 @@
   {
     "ScientificName": "Nanobagrus immaculatus",
     "SpecCode": "63744",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Nanobagrus lemniscatus",
     "SpecCode": "65836",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Nanobagrus torquatus",
     "SpecCode": "64277",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

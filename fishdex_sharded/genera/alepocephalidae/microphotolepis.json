@@ -2,7 +2,7 @@
   {
     "ScientificName": "Microphotolepis multipunctata",
     "SpecCode": "10563",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Microphotolepis schmidti",
     "SpecCode": "58912",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

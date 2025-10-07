@@ -47,7 +47,7 @@
   {
     "ScientificName": "Lampanyctus bristori",
     "SpecCode": "60924",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Lampanyctus crypticus",
     "SpecCode": "60925",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Lampanyctus gibbsi",
     "SpecCode": "60926",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Lampanyctus indicus",
     "SpecCode": "60928",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Lampanyctus phyllisae",
     "SpecCode": "60929",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Lampanyctus wisneri",
     "SpecCode": "60930",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

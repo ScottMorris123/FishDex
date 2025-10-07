@@ -38,7 +38,7 @@
   {
     "ScientificName": "Neolamprologus cancellatus",
     "SpecCode": "62608",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Neolamprologus chitamwebwai",
     "SpecCode": "64229",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Neolamprologus devosi",
     "SpecCode": "61538",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Neolamprologus helianthus",
     "SpecCode": "60344",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -371,7 +371,7 @@
   {
     "ScientificName": "Neolamprologus timidus",
     "SpecCode": "67482",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -407,7 +407,7 @@
   {
     "ScientificName": "Neolamprologus walteri",
     "SpecCode": "64228",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

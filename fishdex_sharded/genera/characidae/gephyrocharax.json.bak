@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Gephyrocharax atracaudatus",
+    "SpecCode": "56439",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax caucanus",
+    "SpecCode": "56881",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax chaparae",
+    "SpecCode": "53314",
+    "CommonName": "Chapare-Drüsensalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax chocoensis",
+    "SpecCode": "53439",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax intermedius",
+    "SpecCode": "53440",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax major",
+    "SpecCode": "56882",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax martae",
+    "SpecCode": "56883",
+    "CommonName": "Brinconcita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax melanocheir",
+    "SpecCode": "51889",
+    "CommonName": "Brinconcita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax sinuensis",
+    "SpecCode": "58050",
+    "CommonName": "Brinconita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax torresi",
+    "SpecCode": "67159",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax valencia",
+    "SpecCode": "51918",
+    "CommonName": "Brückensalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax venezuelae",
+    "SpecCode": "56933",
+    "CommonName": "Venezuela-Drüsensalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gephyrocharax whaleri",
+    "SpecCode": "53441",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

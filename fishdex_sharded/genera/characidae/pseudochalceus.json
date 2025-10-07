@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pseudochalceus bohlkei",
     "SpecCode": "63095",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Pseudochalceus longianalis",
     "SpecCode": "53495",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

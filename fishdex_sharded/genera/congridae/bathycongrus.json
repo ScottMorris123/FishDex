@@ -11,7 +11,7 @@
   {
     "ScientificName": "Bathycongrus albimarginatus",
     "SpecCode": "70415",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Bathycongrus bimaculatus",
     "SpecCode": "70417",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Bathycongrus brunneus",
     "SpecCode": "70416",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Bathycongrus castlei",
     "SpecCode": "70418",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Bathycongrus graciliceps",
     "SpecCode": "70419",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Bathycongrus villosus",
     "SpecCode": "70420",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

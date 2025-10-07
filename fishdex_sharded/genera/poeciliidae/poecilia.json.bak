@@ -1,0 +1,383 @@
+[
+  {
+    "ScientificName": "Poecilia boesemani",
+    "SpecCode": "61808",
+    "CommonName": "Maraval toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia butleri",
+    "SpecCode": "11971",
+    "CommonName": "Butler-molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia catemaconis",
+    "SpecCode": "11974",
+    "CommonName": "Bicolor molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia caucana",
+    "SpecCode": "47220",
+    "CommonName": "Cauca molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia caudofasciata",
+    "SpecCode": "53651",
+    "CommonName": "Halebåndstandkarpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia chica",
+    "SpecCode": "11976",
+    "CommonName": "Dværgmolly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia dauli",
+    "SpecCode": "59986",
+    "CommonName": "Miranda-molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia elegans",
+    "SpecCode": "27725",
+    "CommonName": "Blauband-Molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia formosa",
+    "SpecCode": "3225",
+    "CommonName": "Amazon molly",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia gillii",
+    "SpecCode": "49039",
+    "CommonName": "Costa Rica-Molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia hispaniolana",
+    "SpecCode": "27727",
+    "CommonName": "Haitinmolli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia hondurensis",
+    "SpecCode": "66299",
+    "CommonName": "Eastern Honduras molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia islai",
+    "SpecCode": "70084",
+    "CommonName": "Tiger Limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia koperi",
+    "SpecCode": "61809",
+    "CommonName": "Curipe Toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia kykesis",
+    "SpecCode": "61810",
+    "CommonName": "Péten molly",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia latipinna",
+    "SpecCode": "3226",
+    "CommonName": "Breitflossenkärpfling",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia latipunctata",
+    "SpecCode": "6219",
+    "CommonName": "Broadspotted molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia mandibularis",
+    "SpecCode": "70085",
+    "CommonName": "Jawed Limia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia marcellinoi",
+    "SpecCode": "53652",
+    "CommonName": "Marcellino toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia maylandi",
+    "SpecCode": "47224",
+    "CommonName": "Balsas molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia mechthildae",
+    "SpecCode": "61812",
+    "CommonName": "Acandi toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia mexicana",
+    "SpecCode": "3227",
+    "CommonName": "Atlantic molly",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia montana",
+    "SpecCode": "66118",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia obscura",
+    "SpecCode": "65195",
+    "CommonName": "Trinidad guppy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia orri",
+    "SpecCode": "11982",
+    "CommonName": "Mangrove molly",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia parae",
+    "SpecCode": "47226",
+    "CommonName": "Amazoninmollinen",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia petenensis",
+    "SpecCode": "11989",
+    "CommonName": "Miekkamolli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia picta",
+    "SpecCode": "23355",
+    "CommonName": "Barrigudinho",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia reticulata",
+    "SpecCode": "3228",
+    "CommonName": "Bahenol",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia rositae",
+    "SpecCode": "63977",
+    "CommonName": "Lanquín toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia salvatoris",
+    "SpecCode": "53649",
+    "CommonName": "Liberty molly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia sarrafae",
+    "SpecCode": "65952",
+    "CommonName": "Jandira toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia sphenops",
+    "SpecCode": "4680",
+    "CommonName": "Almindelig molly",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia sulphuraria",
+    "SpecCode": "6220",
+    "CommonName": "Molly del Teapa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia teresae",
+    "SpecCode": "49040",
+    "CommonName": "Bjergmolly",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia vandepolli",
+    "SpecCode": "49042",
+    "CommonName": "Marmorimolli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia velifera",
+    "SpecCode": "4773",
+    "CommonName": "Giant sailfin molly",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia vivipara",
+    "SpecCode": "23359",
+    "CommonName": "Augenfleckkärpfling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia waiapi",
+    "SpecCode": "66421",
+    "CommonName": "Jari toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia wandae",
+    "SpecCode": "61811",
+    "CommonName": "Maracaibo toothcarp",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Poecilia wingei",
+    "SpecCode": "63223",
+    "CommonName": "Endler's guppy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

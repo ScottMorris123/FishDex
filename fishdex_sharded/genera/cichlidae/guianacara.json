@@ -2,7 +2,7 @@
   {
     "ScientificName": "Guianacara cuyunii",
     "SpecCode": "62980",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Guianacara dacrya",
     "SpecCode": "65999",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Guianacara stergiosi",
     "SpecCode": "62974",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

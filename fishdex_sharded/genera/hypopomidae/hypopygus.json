@@ -2,7 +2,7 @@
   {
     "ScientificName": "Hypopygus benoneae",
     "SpecCode": "67130",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Hypopygus minissimus",
     "SpecCode": "66343",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Hypopygus varii",
     "SpecCode": "69998",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

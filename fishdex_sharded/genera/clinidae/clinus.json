@@ -21,7 +21,7 @@
   {
     "ScientificName": "Clinus arborescens",
     "SpecCode": "65459",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -59,7 +59,7 @@
   {
     "ScientificName": "Clinus exasperatus",
     "SpecCode": "66666",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -95,7 +95,7 @@
   {
     "ScientificName": "Clinus musaicus",
     "SpecCode": "66667",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -113,7 +113,7 @@
   {
     "ScientificName": "Clinus ornatus",
     "SpecCode": "69231",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

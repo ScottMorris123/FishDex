@@ -1,0 +1,309 @@
+[
+  {
+    "ScientificName": "Pimelodus absconditus",
+    "SpecCode": "48890",
+    "CommonName": "bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus albicans",
+    "SpecCode": "23450",
+    "CommonName": "bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus albofasciatus",
+    "SpecCode": "47835",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus altissimus",
+    "SpecCode": "48462",
+    "CommonName": "Bagre cogotúo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus argenteus",
+    "SpecCode": "62851",
+    "CommonName": "bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus atrobrunneus",
+    "SpecCode": "58425",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus blochii",
+    "SpecCode": "7556",
+    "CommonName": "Bagre cogotúo",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus brevis",
+    "SpecCode": "48463",
+    "CommonName": "bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus britskii",
+    "SpecCode": "63509",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus coprophagus",
+    "SpecCode": "49396",
+    "CommonName": "Mierderito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus fur",
+    "SpecCode": "48464",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus garciabarrigai",
+    "SpecCode": "48465",
+    "CommonName": "加氏油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus grosskopfii",
+    "SpecCode": "12122",
+    "CommonName": "Capaz",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus halisodous",
+    "SpecCode": "64686",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus jivaro",
+    "SpecCode": "48466",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus joannis",
+    "SpecCode": "64687",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus luciae",
+    "SpecCode": "65297",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus maculatus",
+    "SpecCode": "23451",
+    "CommonName": "amarillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus microstoma",
+    "SpecCode": "58419",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus multicratifer",
+    "SpecCode": "65998",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus mysteriosus",
+    "SpecCode": "58426",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus navarroi",
+    "SpecCode": "58424",
+    "CommonName": "Rampuche",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus ornatus",
+    "SpecCode": "13264",
+    "CommonName": "Aracimbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus ortmanni",
+    "SpecCode": "53231",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus pantaneiro",
+    "SpecCode": "63716",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus paranaensis",
+    "SpecCode": "53237",
+    "CommonName": "Ulappa-antennimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus pictus",
+    "SpecCode": "13115",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus pintado",
+    "SpecCode": "64283",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus platicirris",
+    "SpecCode": "48467",
+    "CommonName": "扁须油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus pohli",
+    "SpecCode": "64001",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus punctatus",
+    "SpecCode": "58418",
+    "CommonName": "斑点大丝油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus speciosus",
+    "SpecCode": "70150",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus stewarti",
+    "SpecCode": "64684",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodus tetramerus",
+    "SpecCode": "63452",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

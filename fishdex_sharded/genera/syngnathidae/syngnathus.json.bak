@@ -1,0 +1,334 @@
+[
+  {
+    "ScientificName": "Syngnathus abaster",
+    "SpecCode": "1769",
+    "CommonName": "Aguja de rio",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus acus",
+    "SpecCode": "1770",
+    "CommonName": "Acu de mari",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus affinis",
+    "SpecCode": "3292",
+    "CommonName": "Pez pipa texano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus auliscus",
+    "SpecCode": "3294",
+    "CommonName": "Agujilla",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus californiensis",
+    "SpecCode": "3295",
+    "CommonName": "Gran pez pipa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus caribbaeus",
+    "SpecCode": "23344",
+    "CommonName": "Caribbean Pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus carinatus",
+    "SpecCode": "46209",
+    "CommonName": "棱海龍",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus caspius",
+    "SpecCode": "70465",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus chihiroe",
+    "SpecCode": "69751",
+    "CommonName": "Chihiro-yoji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus dawsoni",
+    "SpecCode": "61275",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus euchrous",
+    "SpecCode": "3298",
+    "CommonName": "Chocolate pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus exilis",
+    "SpecCode": "3299",
+    "CommonName": "Barcheek pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus floridae",
+    "SpecCode": "3300",
+    "CommonName": "Dusky pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus folletti",
+    "SpecCode": "61274",
+    "CommonName": "Aguja",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus fuscus",
+    "SpecCode": "3301",
+    "CommonName": "Northern pipefish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus insulae",
+    "SpecCode": "46210",
+    "CommonName": "Guadalupe pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus leptorhynchus",
+    "SpecCode": "3303",
+    "CommonName": "Bay pipefish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus louisianae",
+    "SpecCode": "3304",
+    "CommonName": "Chain pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus macrobrachium",
+    "SpecCode": "46211",
+    "CommonName": "大臂海龍",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus macrophthalmus",
+    "SpecCode": "46212",
+    "CommonName": "大眼海龍",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus makaxi",
+    "SpecCode": "58694",
+    "CommonName": "Pez pipa yucateco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus pelagicus",
+    "SpecCode": "3305",
+    "CommonName": "Agulha marinha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus phlegon",
+    "SpecCode": "1767",
+    "CommonName": "Aguja espinosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus rostellatus",
+    "SpecCode": "1359",
+    "CommonName": "Kleine Seenadel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus safina",
+    "SpecCode": "61282",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus schlegeli",
+    "SpecCode": "23118",
+    "CommonName": "Jaapani merinõel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus schmidti",
+    "SpecCode": "16342",
+    "CommonName": "Ac de mare ghimpat",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus scovelli",
+    "SpecCode": "3306",
+    "CommonName": "Gulf pipefish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus springeri",
+    "SpecCode": "3307",
+    "CommonName": "Bull pipefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus taenionotus",
+    "SpecCode": "16345",
+    "CommonName": "Aadria merinõel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus temminckii",
+    "SpecCode": "68845",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus tenuirostris",
+    "SpecCode": "25963",
+    "CommonName": "Ac de mare cu bot ascuţit",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus typhle",
+    "SpecCode": "1360",
+    "CommonName": "Ac de mare cu burlan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus variegatus",
+    "SpecCode": "25962",
+    "CommonName": "Ac de mare",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Syngnathus watermeyeri",
+    "SpecCode": "6304",
+    "CommonName": "Južnoafriško rečno šilo",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

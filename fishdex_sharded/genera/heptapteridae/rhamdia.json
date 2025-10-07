@@ -38,7 +38,7 @@
   {
     "ScientificName": "Rhamdia guasarensis",
     "SpecCode": "62272",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Rhamdia saijaensis",
     "SpecCode": "67943",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

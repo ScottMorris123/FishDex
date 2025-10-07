@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Eugnathogobius illotus",
+    "SpecCode": "59256",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathogobius indicus",
+    "SpecCode": "64890",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathogobius kabilia",
+    "SpecCode": "25079",
+    "CommonName": "Pla bu",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathogobius mas",
+    "SpecCode": "56598",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathogobius microps",
+    "SpecCode": "59866",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathogobius mindora",
+    "SpecCode": "59784",
+    "CommonName": "Stripe-face Calamiana",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathogobius siamensis",
+    "SpecCode": "26857",
+    "CommonName": "奥氏拟鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathogobius stictos",
+    "SpecCode": "64896",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Eugnathogobius variegatus",
+    "SpecCode": "59238",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

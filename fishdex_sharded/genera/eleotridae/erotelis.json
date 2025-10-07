@@ -11,7 +11,7 @@
   {
     "ScientificName": "Erotelis clarki",
     "SpecCode": "66240",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Erotelis shropshirei",
     "SpecCode": "61531",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

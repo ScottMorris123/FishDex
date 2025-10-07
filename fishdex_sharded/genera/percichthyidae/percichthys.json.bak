@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Percichthys chilensis",
+    "SpecCode": "62229",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percichthys colhuapiensis",
+    "SpecCode": "53686",
+    "CommonName": "Largemouth perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percichthys laevis",
+    "SpecCode": "62230",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percichthys melanops",
+    "SpecCode": "10593",
+    "CommonName": "黑眼鮨鱸",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percichthys trucha",
+    "SpecCode": "12129",
+    "CommonName": "Creole perch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

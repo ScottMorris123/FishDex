@@ -913,7 +913,7 @@
   {
     "ScientificName": "Sebastes ventricosus",
     "SpecCode": "61360",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

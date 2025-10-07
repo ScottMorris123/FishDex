@@ -47,7 +47,7 @@
   {
     "ScientificName": "Cottunculus tubulosus",
     "SpecCode": "63507",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -292,7 +292,7 @@
   {
     "ScientificName": "Acanthurus reversus",
     "SpecCode": "58792",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

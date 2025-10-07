@@ -38,7 +38,7 @@
   {
     "ScientificName": "Tryssogobius porosus",
     "SpecCode": "63425",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

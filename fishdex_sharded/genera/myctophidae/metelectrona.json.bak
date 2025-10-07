@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Metelectrona ahlstromi",
+    "SpecCode": "54867",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Metelectrona herwigi",
+    "SpecCode": "16766",
+    "CommonName": "Herwig lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Metelectrona ventralis",
+    "SpecCode": "7004",
+    "CommonName": "Flaccid lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

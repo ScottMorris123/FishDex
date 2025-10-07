@@ -1,0 +1,580 @@
+[
+  {
+    "ScientificName": "Chiloglanis angolensis",
+    "SpecCode": "9485",
+    "CommonName": "安戈尔盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis anoterus",
+    "SpecCode": "9486",
+    "CommonName": "Pennant-tailed catlet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis asymetricaudalis",
+    "SpecCode": "51572",
+    "CommonName": "Ikijagari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis batesii",
+    "SpecCode": "9487",
+    "CommonName": "貝氏盤唇鱨",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis benuensis",
+    "SpecCode": "9488",
+    "CommonName": "貝努埃盤唇鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis bifurcus",
+    "SpecCode": "6196",
+    "CommonName": "Incomati rock catlet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis brevibarbis",
+    "SpecCode": "7307",
+    "CommonName": "Short barbelled suckermouth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis camarabounyi",
+    "SpecCode": "68382",
+    "CommonName": "Fanye Makonyi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis cameronensis",
+    "SpecCode": "9489",
+    "CommonName": "Chiloglanis",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis carnatus",
+    "SpecCode": "70572",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis carnosus",
+    "SpecCode": "9490",
+    "CommonName": "卡莫盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis congicus",
+    "SpecCode": "9491",
+    "CommonName": "刚果盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis deckenii",
+    "SpecCode": "9484",
+    "CommonName": "Pangani suckermouth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis devosi",
+    "SpecCode": "68380",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis dialloi",
+    "SpecCode": "68391",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis disneyi",
+    "SpecCode": "9492",
+    "CommonName": "迪氏盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis elisabethianus",
+    "SpecCode": "9493",
+    "CommonName": "伊丽沙盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis emarginatus",
+    "SpecCode": "9494",
+    "CommonName": "Phongolo catlet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis fasciatus",
+    "SpecCode": "9495",
+    "CommonName": "Okavango rock catlet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis harbinger",
+    "SpecCode": "27202",
+    "CommonName": "砂盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis igamba",
+    "SpecCode": "66307",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis kabaensis",
+    "SpecCode": "68390",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis kalambo",
+    "SpecCode": "53153",
+    "CommonName": "Kalambo suckermouth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis kazumbei",
+    "SpecCode": "66308",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis kerioensis",
+    "SpecCode": "68379",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis kolente",
+    "SpecCode": "68389",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis lamottei",
+    "SpecCode": "2450",
+    "CommonName": "拉莫盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis loffabrevum",
+    "SpecCode": "68394",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis longibarbis",
+    "SpecCode": "68397",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis lufirae",
+    "SpecCode": "9496",
+    "CommonName": "勒非盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis lukugae",
+    "SpecCode": "9497",
+    "CommonName": "Kuya liwe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis macropterus",
+    "SpecCode": "9498",
+    "CommonName": "大鰭盤唇鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis marlieri",
+    "SpecCode": "9499",
+    "CommonName": "馬氏盤唇鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis mbozi",
+    "SpecCode": "53139",
+    "CommonName": "Mbozi suckermouth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis micropogon",
+    "SpecCode": "66461",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis microps",
+    "SpecCode": "9501",
+    "CommonName": "小眼盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis modjensis",
+    "SpecCode": "9502",
+    "CommonName": "莫佐盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis mongoensis",
+    "SpecCode": "69088",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis msirii",
+    "SpecCode": "70033",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis neumanni",
+    "SpecCode": "8377",
+    "CommonName": "Kongonripsumonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis niger",
+    "SpecCode": "12807",
+    "CommonName": "Nigerinripsumonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis niloticus",
+    "SpecCode": "9503",
+    "CommonName": "Niilinripsumonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis normani",
+    "SpecCode": "2451",
+    "CommonName": "諾門氏盤唇鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis nzerekore",
+    "SpecCode": "68399",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis occidentalis",
+    "SpecCode": "2452",
+    "CommonName": "西方盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis orthodontus",
+    "SpecCode": "66309",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis paratus",
+    "SpecCode": "9504",
+    "CommonName": "Saagvin-suierbekkie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis pezoldi",
+    "SpecCode": "68398",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis pojeri",
+    "SpecCode": "9505",
+    "CommonName": "波氏盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis polyodon",
+    "SpecCode": "9506",
+    "CommonName": "多齒盤唇鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis polypogon",
+    "SpecCode": "12808",
+    "CommonName": "多须盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis pretoriae",
+    "SpecCode": "9507",
+    "CommonName": "Kortstekel-suierbekkie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis productus",
+    "SpecCode": "62847",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis reticulatus",
+    "SpecCode": "27200",
+    "CommonName": "Verkkoripsumonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis rukwaensis",
+    "SpecCode": "53135",
+    "CommonName": "Lake Rukwa suckermouth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis ruziziensis",
+    "SpecCode": "51574",
+    "CommonName": "Ikijagari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis sanagaensis",
+    "SpecCode": "27201",
+    "CommonName": "非洲盘唇鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis sardinhai",
+    "SpecCode": "9508",
+    "CommonName": "沙氏盘长鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis somereni",
+    "SpecCode": "9509",
+    "CommonName": "Migori-Stromschnellenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis swierstrai",
+    "SpecCode": "9510",
+    "CommonName": "Laeveldse suierbekkie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis trilobatus",
+    "SpecCode": "53136",
+    "CommonName": "Three-lobed suckermouth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis tweddlei",
+    "SpecCode": "68401",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis voltae",
+    "SpecCode": "9511",
+    "CommonName": "Voltanripsumonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chiloglanis waterloti",
+    "SpecCode": "68406",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "ScientificName": "Acrossocheilus aluoiensis",
+    "SpecCode": "61700",
+    "CommonName": "Aluoi silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus baolacensis",
+    "SpecCode": "62800",
+    "CommonName": "Baolaci silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus beijiangensis",
+    "SpecCode": "54946",
+    "CommonName": "Guangdongi silemokk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus clivosius",
+    "SpecCode": "54949",
+    "CommonName": "Ostropysk kvejpingský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus fasciatus",
+    "SpecCode": "55156",
+    "CommonName": "&#26465;&#32441;&#20809;&#21767;&#40060;",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus hemispinus",
+    "SpecCode": "54939",
+    "CommonName": "&#21322;&#21050;&#21402;&#21767;&#40060;",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus ikedai",
+    "SpecCode": "54951",
+    "CommonName": "Ikeda poorpuntius",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus iridescens",
+    "SpecCode": "54948",
+    "CommonName": "Küüt-silemokk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus jishouensis",
+    "SpecCode": "60486",
+    "CommonName": "Jishou silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus kreyenbergii",
+    "SpecCode": "55158",
+    "CommonName": "Kreyenbergi silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus lamus",
+    "SpecCode": "61169",
+    "CommonName": "Lami silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus longipinnis",
+    "SpecCode": "14442",
+    "CommonName": "Ahasvööt-silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus macrophthalmus",
+    "SpecCode": "62801",
+    "CommonName": "Suursilm-silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus malacopterus",
+    "SpecCode": "62843",
+    "CommonName": "Pehmeuim-silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus microstoma",
+    "SpecCode": "67450",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus monticola",
+    "SpecCode": "55155",
+    "CommonName": "Mägi-silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus multistriatus",
+    "SpecCode": "67584",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus paradoxus",
+    "SpecCode": "17291",
+    "CommonName": "Ostropysk podivný",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus parallens",
+    "SpecCode": "54938",
+    "CommonName": "&#20391;&#26465;&#21402;&#21767;&#40060;",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus rendahli",
+    "SpecCode": "54947",
+    "CommonName": "Ostropysk Rendahlův",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus spinifer",
+    "SpecCode": "62841",
+    "CommonName": "Ogauim-silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus wenchowensis",
+    "SpecCode": "54940",
+    "CommonName": "Ostropysk venchovenský",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus wuyiensis",
+    "SpecCode": "65823",
+    "CommonName": "Fujiani silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus xamensis",
+    "SpecCode": "57688",
+    "CommonName": "Laose silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus yalyensis",
+    "SpecCode": "62803",
+    "CommonName": "Sesani silemokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrossocheilus yunnanensis",
+    "SpecCode": "14481",
+    "CommonName": "Ostropysk junanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

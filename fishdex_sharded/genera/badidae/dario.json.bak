@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Dario dario",
+    "SpecCode": "60260",
+    "CommonName": "Scharlakansbadis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dario dayingensis",
+    "SpecCode": "60259",
+    "CommonName": "Cinnoberbadis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dario huli",
+    "SpecCode": "67850",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dario hysginon",
+    "SpecCode": "60258",
+    "CommonName": "Purpurbadis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dario kajal",
+    "SpecCode": "67186",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dario neela",
+    "SpecCode": "70457",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dario urops",
+    "SpecCode": "66763",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

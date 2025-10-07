@@ -38,7 +38,7 @@
   {
     "ScientificName": "Clarias anfractus",
     "SpecCode": "58346",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -75,7 +75,7 @@
   {
     "ScientificName": "Clarias batu",
     "SpecCode": "55098",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -219,7 +219,7 @@
   {
     "ScientificName": "Clarias gracilentus",
     "SpecCode": "66040",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -237,7 +237,7 @@
   {
     "ScientificName": "Clarias insolitus",
     "SpecCode": "61617",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -246,7 +246,7 @@
   {
     "ScientificName": "Clarias intermedius",
     "SpecCode": "60779",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -264,7 +264,7 @@
   {
     "ScientificName": "Clarias kapuasensis",
     "SpecCode": "61437",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -346,7 +346,7 @@
   {
     "ScientificName": "Clarias magur",
     "SpecCode": "66088",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -364,7 +364,7 @@
   {
     "ScientificName": "Clarias microspilus",
     "SpecCode": "65995",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -373,7 +373,7 @@
   {
     "ScientificName": "Clarias microstomus",
     "SpecCode": "58345",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -419,7 +419,7 @@
   {
     "ScientificName": "Clarias nigricans",
     "SpecCode": "62258",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -437,7 +437,7 @@
   {
     "ScientificName": "Clarias olivaceus",
     "SpecCode": "55096",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -455,7 +455,7 @@
   {
     "ScientificName": "Clarias planiceps",
     "SpecCode": "55097",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -473,7 +473,7 @@
   {
     "ScientificName": "Clarias pseudoleiacanthus",
     "SpecCode": "61436",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -482,7 +482,7 @@
   {
     "ScientificName": "Clarias pseudonieuhofii",
     "SpecCode": "62007",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -500,7 +500,7 @@
   {
     "ScientificName": "Clarias serniosus",
     "SpecCode": "67766",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -527,7 +527,7 @@
   {
     "ScientificName": "Clarias sulcatus",
     "SpecCode": "62223",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Crystallichthys cameliae",
+    "SpecCode": "51975",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crystallichthys cyclospilus",
+    "SpecCode": "4180",
+    "CommonName": "Blotched snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crystallichthys mirabilis",
+    "SpecCode": "50815",
+    "CommonName": "透明狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

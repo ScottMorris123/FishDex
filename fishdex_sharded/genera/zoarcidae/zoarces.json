@@ -12,7 +12,7 @@
   {
     "ScientificName": "Zoarces andriashevi",
     "SpecCode": "63120",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -30,7 +30,7 @@
   {
     "ScientificName": "Zoarces fedorovi",
     "SpecCode": "64619",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

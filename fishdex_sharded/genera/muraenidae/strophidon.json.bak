@@ -1,0 +1,31 @@
+[
+  {
+    "ScientificName": "Strophidon dawydoffi",
+    "SpecCode": "70312",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strophidon dorsalis",
+    "SpecCode": "58586",
+    "CommonName": "Muréna hongkongská",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strophidon sathete",
+    "SpecCode": "8595",
+    "CommonName": "Burirawan",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

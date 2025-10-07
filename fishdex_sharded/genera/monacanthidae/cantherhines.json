@@ -29,7 +29,7 @@
   {
     "ScientificName": "Cantherhines longicaudus",
     "SpecCode": "54607",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Cantherhines nukuhiva",
     "SpecCode": "66329",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Cantherhines tiki",
     "SpecCode": "55003",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

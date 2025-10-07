@@ -2,7 +2,7 @@
   {
     "ScientificName": "Genioliparis ferox",
     "SpecCode": "51499",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Genioliparis kafanovi",
     "SpecCode": "64091",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

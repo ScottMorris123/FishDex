@@ -2,7 +2,7 @@
   {
     "ScientificName": "Symphurus arabicus",
     "SpecCode": "69698",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Symphurus bathyspilus",
     "SpecCode": "61637",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -139,7 +139,7 @@
   {
     "ScientificName": "Symphurus fallax",
     "SpecCode": "69700",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -158,7 +158,7 @@
   {
     "ScientificName": "Symphurus fuscus",
     "SpecCode": "61502",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -167,7 +167,7 @@
   {
     "ScientificName": "Symphurus gilesii",
     "SpecCode": "24260",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -194,7 +194,7 @@
   {
     "ScientificName": "Symphurus hernandezi",
     "SpecCode": "69680",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -203,7 +203,7 @@
   {
     "ScientificName": "Symphurus holothuriae",
     "SpecCode": "69664",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -275,7 +275,7 @@
   {
     "ScientificName": "Symphurus leucochilus",
     "SpecCode": "68264",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -311,7 +311,7 @@
   {
     "ScientificName": "Symphurus luzonensis",
     "SpecCode": "58960",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -320,7 +320,7 @@
   {
     "ScientificName": "Symphurus macrophthalmus",
     "SpecCode": "61503",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -329,7 +329,7 @@
   {
     "ScientificName": "Symphurus maculopinnis",
     "SpecCode": "66306",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -338,7 +338,7 @@
   {
     "ScientificName": "Symphurus maldivensis",
     "SpecCode": "59537",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -612,7 +612,7 @@
   {
     "ScientificName": "Symphurus regani",
     "SpecCode": "24369",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -648,7 +648,7 @@
   {
     "ScientificName": "Symphurus sayademalhensis",
     "SpecCode": "69699",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -657,7 +657,7 @@
   {
     "ScientificName": "Symphurus schultzi",
     "SpecCode": "58961",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -793,7 +793,7 @@
   {
     "ScientificName": "Symphurus woodmasoni",
     "SpecCode": "24746",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

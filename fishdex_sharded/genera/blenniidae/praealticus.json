@@ -20,7 +20,7 @@
   {
     "ScientificName": "Praealticus dayi",
     "SpecCode": "61230",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -29,7 +29,7 @@
   {
     "ScientificName": "Chaunax apus",
     "SpecCode": "67292",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Chaunax flammeus",
     "SpecCode": "60591",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

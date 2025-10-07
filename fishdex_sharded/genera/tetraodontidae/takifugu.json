@@ -142,7 +142,7 @@
   {
     "ScientificName": "Takifugu plagiocellatus",
     "SpecCode": "63997",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Takifugu variomaculatus",
     "SpecCode": "63998",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

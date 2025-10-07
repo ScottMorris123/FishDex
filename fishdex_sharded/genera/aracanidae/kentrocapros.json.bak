@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Kentrocapros aculeatus",
+    "SpecCode": "24254",
+    "CommonName": "Basketfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kentrocapros eco",
+    "SpecCode": "54962",
+    "CommonName": "窄鰓棘箱魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kentrocapros flavofasciatus",
+    "SpecCode": "24261",
+    "CommonName": "Hwang-Jul-yug-gak-bok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kentrocapros rosapinto",
+    "SpecCode": "23120",
+    "CommonName": "Basketfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kentrocapros spilonota",
+    "SpecCode": "70258",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

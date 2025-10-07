@@ -2,7 +2,7 @@
   {
     "ScientificName": "Paraliparis abyssorum",
     "SpecCode": "51865",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Paraliparis acutidens",
     "SpecCode": "64566",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Paraliparis albeolus",
     "SpecCode": "51442",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Paraliparis albescens",
     "SpecCode": "58805",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Paraliparis alius",
     "SpecCode": "66523",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Paraliparis amerismos",
     "SpecCode": "66524",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Paraliparis andriashevi",
     "SpecCode": "56176",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Paraliparis antarcticus",
     "SpecCode": "54754",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Paraliparis aspersus",
     "SpecCode": "56180",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Paraliparis attenuatus",
     "SpecCode": "60842",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Paraliparis balgueriasi",
     "SpecCode": "58826",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Paraliparis camilarus",
     "SpecCode": "66525",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Paraliparis caninus",
     "SpecCode": "66176",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Paraliparis carlbondi",
     "SpecCode": "62195",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -362,7 +362,7 @@
   {
     "ScientificName": "Paraliparis darwini",
     "SpecCode": "60097",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -461,7 +461,7 @@
   {
     "ScientificName": "Paraliparis ekaporus",
     "SpecCode": "66526",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -488,7 +488,7 @@
   {
     "ScientificName": "Paraliparis epacrognathus",
     "SpecCode": "66527",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -497,7 +497,7 @@
   {
     "ScientificName": "Paraliparis exilis",
     "SpecCode": "66724",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -506,7 +506,7 @@
   {
     "ScientificName": "Paraliparis fimbriatus",
     "SpecCode": "62294",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -515,7 +515,7 @@
   {
     "ScientificName": "Paraliparis freeborni",
     "SpecCode": "66725",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -533,7 +533,7 @@
   {
     "ScientificName": "Paraliparis galapagosensis",
     "SpecCode": "60098",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -587,7 +587,7 @@
   {
     "ScientificName": "Paraliparis haploporus",
     "SpecCode": "66528",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -596,7 +596,7 @@
   {
     "ScientificName": "Paraliparis hawaiiensis",
     "SpecCode": "67375",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -623,7 +623,7 @@
   {
     "ScientificName": "Paraliparis hubbsi",
     "SpecCode": "56179",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -632,7 +632,7 @@
   {
     "ScientificName": "Paraliparis hureaui",
     "SpecCode": "58879",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -686,7 +686,7 @@
   {
     "ScientificName": "Paraliparis kocki",
     "SpecCode": "64567",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -767,7 +767,7 @@
   {
     "ScientificName": "Paraliparis longicaecus",
     "SpecCode": "66529",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -776,7 +776,7 @@
   {
     "ScientificName": "Paraliparis macrocephalus",
     "SpecCode": "60835",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -785,7 +785,7 @@
   {
     "ScientificName": "Paraliparis macropterus",
     "SpecCode": "66530",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -794,7 +794,7 @@
   {
     "ScientificName": "Paraliparis magnoculus",
     "SpecCode": "66531",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -821,7 +821,7 @@
   {
     "ScientificName": "Paraliparis megalopus",
     "SpecCode": "51529",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -848,7 +848,7 @@
   {
     "ScientificName": "Paraliparis membranaceus",
     "SpecCode": "57348",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -857,7 +857,7 @@
   {
     "ScientificName": "Paraliparis mentikoilon",
     "SpecCode": "66532",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -893,7 +893,7 @@
   {
     "ScientificName": "Paraliparis mexicanus",
     "SpecCode": "64568",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -929,7 +929,7 @@
   {
     "ScientificName": "Paraliparis nassarum",
     "SpecCode": "59937",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -947,7 +947,7 @@
   {
     "ScientificName": "Paraliparis nigellus",
     "SpecCode": "65346",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -956,7 +956,7 @@
   {
     "ScientificName": "Paraliparis nigrolineatus",
     "SpecCode": "66533",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -965,7 +965,7 @@
   {
     "ScientificName": "Paraliparis nullansa",
     "SpecCode": "66534",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1001,7 +1001,7 @@
   {
     "ScientificName": "Paraliparis orbitalis",
     "SpecCode": "66535",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1010,7 +1010,7 @@
   {
     "ScientificName": "Paraliparis orcadensis",
     "SpecCode": "58808",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1019,7 +1019,7 @@
   {
     "ScientificName": "Paraliparis parviradialis",
     "SpecCode": "66536",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1037,7 +1037,7 @@
   {
     "ScientificName": "Paraliparis pearcyi",
     "SpecCode": "66727",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1082,7 +1082,7 @@
   {
     "ScientificName": "Paraliparis plicatus",
     "SpecCode": "66537",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1091,7 +1091,7 @@
   {
     "ScientificName": "Paraliparis porcus",
     "SpecCode": "64569",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1100,7 +1100,7 @@
   {
     "ScientificName": "Paraliparis posteroporus",
     "SpecCode": "66538",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1109,7 +1109,7 @@
   {
     "ScientificName": "Paraliparis pseudokreffti",
     "SpecCode": "66728",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1136,7 +1136,7 @@
   {
     "ScientificName": "Paraliparis rossi",
     "SpecCode": "60836",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1154,7 +1154,7 @@
   {
     "ScientificName": "Paraliparis skeliphrus",
     "SpecCode": "62194",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1181,7 +1181,7 @@
   {
     "ScientificName": "Paraliparis tangaroa",
     "SpecCode": "66539",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1253,7 +1253,7 @@
   {
     "ScientificName": "Paraliparis vaillanti",
     "SpecCode": "65419",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1289,7 +1289,7 @@
   {
     "ScientificName": "Paraliparis vipera",
     "SpecCode": "66177",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1298,7 +1298,7 @@
   {
     "ScientificName": "Paraliparis voroninorum",
     "SpecCode": "66540",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1316,7 +1316,7 @@
   {
     "ScientificName": "Paraliparis wolffi",
     "SpecCode": "64570",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

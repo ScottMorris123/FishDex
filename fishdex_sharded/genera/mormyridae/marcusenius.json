@@ -56,7 +56,7 @@
   {
     "ScientificName": "Marcusenius caudisquamatus",
     "SpecCode": "67501",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Marcusenius desertus",
     "SpecCode": "68100",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Marcusenius elegans",
     "SpecCode": "68010",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Marcusenius kaninginii",
     "SpecCode": "68096",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Marcusenius krameri",
     "SpecCode": "67502",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Marcusenius lucombesi",
     "SpecCode": "67503",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -308,7 +308,7 @@
   {
     "ScientificName": "Marcusenius multisquamatus",
     "SpecCode": "67500",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -425,7 +425,7 @@
   {
     "ScientificName": "Marcusenius wamuinii",
     "SpecCode": "69065",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Soleichthys dori",
+    "SpecCode": "64644",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Soleichthys heterorhinos",
+    "SpecCode": "22544",
+    "CommonName": "Aesop sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Soleichthys maculosus",
+    "SpecCode": "65230",
+    "CommonName": "Spotted sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Soleichthys microcephalus",
+    "SpecCode": "52438",
+    "CommonName": "Smallhead sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Soleichthys multifasciatus",
+    "SpecCode": "69707",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Soleichthys nigrostriolatus",
+    "SpecCode": "69708",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Soleichthys oculofasciatus",
+    "SpecCode": "64740",
+    "CommonName": "Banded-eye sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Soleichthys serpenpellis",
+    "SpecCode": "64739",
+    "CommonName": "Snakeskin sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Soleichthys siammakuti",
+    "SpecCode": "25221",
+    "CommonName": "Pla bai mai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Soleichthys tubiferus",
+    "SpecCode": "58953",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

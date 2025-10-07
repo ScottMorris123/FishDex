@@ -1,0 +1,578 @@
+[
+  {
+    "ScientificName": "Rineloricaria aequalicuspis",
+    "SpecCode": "58542",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria altipinnis",
+    "SpecCode": "50564",
+    "CommonName": "高鰭銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria anhaguapitan",
+    "SpecCode": "63923",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria anitae",
+    "SpecCode": "63890",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria aurata",
+    "SpecCode": "63329",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria baliola",
+    "SpecCode": "63949",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria beni",
+    "SpecCode": "50565",
+    "CommonName": "本氏銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria cacerensis",
+    "SpecCode": "50567",
+    "CommonName": "卡塞雷斯銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria cadeae",
+    "SpecCode": "50568",
+    "CommonName": "Cascudo viola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria capitonia",
+    "SpecCode": "63925",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria caracasensis",
+    "SpecCode": "50569",
+    "CommonName": "Paleta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria castroi",
+    "SpecCode": "50570",
+    "CommonName": "Weißdorn-Harnischwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria catamarcensis",
+    "SpecCode": "50571",
+    "CommonName": "Vieja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria cubataonis",
+    "SpecCode": "50572",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria daraha",
+    "SpecCode": "64668",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria eigenmanni",
+    "SpecCode": "50573",
+    "CommonName": "Paleta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria fallax",
+    "SpecCode": "11328",
+    "CommonName": "Hexenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria felipponei",
+    "SpecCode": "50574",
+    "CommonName": "Catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria formosa",
+    "SpecCode": "50575",
+    "CommonName": "Paleta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria hasemani",
+    "SpecCode": "50576",
+    "CommonName": "Hasemans Hexenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria henselii",
+    "SpecCode": "50577",
+    "CommonName": "哈氏銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria heteroptera",
+    "SpecCode": "50578",
+    "CommonName": "异鳍锉甲鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria hoehnei",
+    "SpecCode": "50579",
+    "CommonName": "赫氏銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria isaaci",
+    "SpecCode": "64747",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria jaraguensis",
+    "SpecCode": "50580",
+    "CommonName": "賈拉瓜銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria jubata",
+    "SpecCode": "50582",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria jurupari",
+    "SpecCode": "70079",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria konopickyi",
+    "SpecCode": "50583",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria kronei",
+    "SpecCode": "50584",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria lanceolata",
+    "SpecCode": "50585",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria langei",
+    "SpecCode": "64665",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria latirostris",
+    "SpecCode": "50586",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria lima",
+    "SpecCode": "50587",
+    "CommonName": "Acarí lima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria longicauda",
+    "SpecCode": "50588",
+    "CommonName": "Elongated whiptail catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria maacki",
+    "SpecCode": "64666",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria magdalenae",
+    "SpecCode": "49301",
+    "CommonName": "Alcalde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria malabarbai",
+    "SpecCode": "63947",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria maquinensis",
+    "SpecCode": "58535",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria melini",
+    "SpecCode": "50589",
+    "CommonName": "梅氏銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria microlepidogaster",
+    "SpecCode": "49091",
+    "CommonName": "Gebänderter Harnischwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria microlepidota",
+    "SpecCode": "50591",
+    "CommonName": "小美銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria misionera",
+    "SpecCode": "62139",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria morrowi",
+    "SpecCode": "50594",
+    "CommonName": "Caracha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria nigricauda",
+    "SpecCode": "50595",
+    "CommonName": "Schwarzschwanz-Hexenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria osvaldoi",
+    "SpecCode": "64673",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria pareiacantha",
+    "SpecCode": "50596",
+    "CommonName": "Catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria parva",
+    "SpecCode": "50597",
+    "CommonName": "Cascudo espada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria pentamaculata",
+    "SpecCode": "53554",
+    "CommonName": "五斑銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria phoxocephala",
+    "SpecCode": "50598",
+    "CommonName": "尖头锉甲鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria platyura",
+    "SpecCode": "48333",
+    "CommonName": "Achiwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria quadrensis",
+    "SpecCode": "50599",
+    "CommonName": "巴西銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria reisi",
+    "SpecCode": "63927",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria sanga",
+    "SpecCode": "63929",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria setepovos",
+    "SpecCode": "63928",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria sneiderni",
+    "SpecCode": "50600",
+    "CommonName": "斯奈特銼甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria steindachneri",
+    "SpecCode": "50601",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria stellata",
+    "SpecCode": "63926",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria stewarti",
+    "SpecCode": "48334",
+    "CommonName": "Achiwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria strigilata",
+    "SpecCode": "50602",
+    "CommonName": "Cascudo viola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria teffeana",
+    "SpecCode": "50603",
+    "CommonName": "Augenflecken-Harnischwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria thrissoceps",
+    "SpecCode": "50604",
+    "CommonName": "Catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria tropeira",
+    "SpecCode": "63888",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria wolfei",
+    "SpecCode": "50606",
+    "CommonName": "Shitari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rineloricaria zaina",
+    "SpecCode": "63924",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

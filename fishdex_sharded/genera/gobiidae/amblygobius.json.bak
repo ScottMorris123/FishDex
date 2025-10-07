@@ -1,0 +1,151 @@
+[
+  {
+    "ScientificName": "Amblygobius albimaculatus",
+    "SpecCode": "6675",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius buanensis",
+    "SpecCode": "56800",
+    "CommonName": "Buan goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius bynoensis",
+    "SpecCode": "55505",
+    "CommonName": "Byno goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius calvatus",
+    "SpecCode": "68848",
+    "CommonName": "Baldhead siltgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius cheraphilus",
+    "SpecCode": "68849",
+    "CommonName": "East Indies siltgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius decussatus",
+    "SpecCode": "7197",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius esakiae",
+    "SpecCode": "27553",
+    "CommonName": "Snoutspot goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius linki",
+    "SpecCode": "6521",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius magnusi",
+    "SpecCode": "56463",
+    "CommonName": "馬格納氏鈍絲鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius nocturnus",
+    "SpecCode": "7243",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius phalaena",
+    "SpecCode": "7198",
+    "CommonName": "Bagtis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius semicinctus",
+    "SpecCode": "25417",
+    "CommonName": "Binden-Grundel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius sewardii",
+    "SpecCode": "66825",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius sphynx",
+    "SpecCode": "7199",
+    "CommonName": "Bagtis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius stethophthalmus",
+    "SpecCode": "62722",
+    "CommonName": "Freckled goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygobius tekomaji",
+    "SpecCode": "52957",
+    "CommonName": "泰氏鈍鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

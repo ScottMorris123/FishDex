@@ -1,0 +1,605 @@
+[
+  {
+    "ScientificName": "Characidium alipioi",
+    "SpecCode": "52684",
+    "CommonName": "艾氏溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium amaila",
+    "SpecCode": "67219",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium bahiense",
+    "SpecCode": "52528",
+    "CommonName": "巴西乔氏溪脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium bimaculatum",
+    "SpecCode": "52685",
+    "CommonName": "双斑溪脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium boavistae",
+    "SpecCode": "49167",
+    "CommonName": "Chupapiedra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium boehlkei",
+    "SpecCode": "53077",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium bolivianum",
+    "SpecCode": "53064",
+    "CommonName": "博利瓦溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium borellii",
+    "SpecCode": "53053",
+    "CommonName": "博氏短頜脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium brevirostre",
+    "SpecCode": "53055",
+    "CommonName": "Kurznasiger Bodensalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium caucanum",
+    "SpecCode": "53060",
+    "CommonName": "考卡溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium chupa",
+    "SpecCode": "53066",
+    "CommonName": "委內瑞拉溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium crandellii",
+    "SpecCode": "53061",
+    "CommonName": "克氏溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium declivirostre",
+    "SpecCode": "53062",
+    "CommonName": "Caruru piramiri",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium deludens",
+    "SpecCode": "68557",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium etheostoma",
+    "SpecCode": "51121",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium etzeli",
+    "SpecCode": "61044",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium fasciatum",
+    "SpecCode": "12335",
+    "CommonName": "Banded characidium",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium gomesi",
+    "SpecCode": "52713",
+    "CommonName": "Canivete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium grajahuense",
+    "SpecCode": "52677",
+    "CommonName": "Canivetinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium hasemani",
+    "SpecCode": "53063",
+    "CommonName": "黑斯曼氏溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium heinianum",
+    "SpecCode": "61045",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium heirmostigmata",
+    "SpecCode": "63688",
+    "CommonName": "Canivete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium helmeri",
+    "SpecCode": "68116",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium interruptum",
+    "SpecCode": "53056",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium japuhybense",
+    "SpecCode": "53070",
+    "CommonName": "热普哈溪脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium kalunga",
+    "SpecCode": "69882",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium kamakan",
+    "SpecCode": "68555",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium lagosantense",
+    "SpecCode": "48559",
+    "CommonName": "Canivete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium lanei",
+    "SpecCode": "53074",
+    "CommonName": "兰氏溪脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium laterale",
+    "SpecCode": "53054",
+    "CommonName": "瓦紅溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium lauroi",
+    "SpecCode": "53069",
+    "CommonName": "劳氏溪脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium litorale",
+    "SpecCode": "67774",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium longum",
+    "SpecCode": "63135",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium macrolepidotum",
+    "SpecCode": "58003",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium marshi",
+    "SpecCode": "53065",
+    "CommonName": "馬爾斯氏溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium mirim",
+    "SpecCode": "66991",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium nana",
+    "SpecCode": "68595",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium nupelia",
+    "SpecCode": "63879",
+    "CommonName": "Mocinha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium occidentale",
+    "SpecCode": "50684",
+    "CommonName": "Mojarrita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium oiticicai",
+    "SpecCode": "53075",
+    "CommonName": "奥氏溪脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium onca",
+    "SpecCode": "69881",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium orientale",
+    "SpecCode": "50685",
+    "CommonName": "东方溪脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium papachibe",
+    "SpecCode": "67128",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium pellucidum",
+    "SpecCode": "28026",
+    "CommonName": "圭亚那溪脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium phoxocephalum",
+    "SpecCode": "53059",
+    "CommonName": "細頭溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium pteroides",
+    "SpecCode": "53057",
+    "CommonName": "似鰭溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium pterostictum",
+    "SpecCode": "50072",
+    "CommonName": "斑鰭溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium purpuratum",
+    "SpecCode": "53052",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium rachovii",
+    "SpecCode": "23419",
+    "CommonName": "Canivete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium roesseli",
+    "SpecCode": "53073",
+    "CommonName": "罗氏溪脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium samurai",
+    "SpecCode": "67631",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium sanctjohanni",
+    "SpecCode": "53072",
+    "CommonName": "桑氏溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium satoi",
+    "SpecCode": "68095",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium schindleri",
+    "SpecCode": "61046",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium schubarti",
+    "SpecCode": "53071",
+    "CommonName": "舒氏溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium serrano",
+    "SpecCode": "50691",
+    "CommonName": "Piquira",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium steindachneri",
+    "SpecCode": "51122",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium stigmosum",
+    "SpecCode": "60275",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium summum",
+    "SpecCode": "68218",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium tenue",
+    "SpecCode": "50695",
+    "CommonName": "Canivete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium timbuiense",
+    "SpecCode": "53068",
+    "CommonName": "野溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium travassosi",
+    "SpecCode": "70125",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium vestigipinne",
+    "SpecCode": "57628",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium vidali",
+    "SpecCode": "53076",
+    "CommonName": "維氏溪脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium xanthopterum",
+    "SpecCode": "64061",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium xavante",
+    "SpecCode": "63882",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Characidium zebra",
+    "SpecCode": "28025",
+    "CommonName": "Canivete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

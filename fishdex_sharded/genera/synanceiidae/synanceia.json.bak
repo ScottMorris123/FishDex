@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Synanceia alula",
+    "SpecCode": "27445",
+    "CommonName": "Midget stonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synanceia horrida",
+    "SpecCode": "6389",
+    "CommonName": "Ceramanai",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synanceia nana",
+    "SpecCode": "12085",
+    "CommonName": "Dwarf scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synanceia platyrhynchus",
+    "SpecCode": "61246",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synanceia quinque",
+    "SpecCode": "69496",
+    "CommonName": "Quinque stonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synanceia verrucosa",
+    "SpecCode": "5825",
+    "CommonName": "Abu al-Laban",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

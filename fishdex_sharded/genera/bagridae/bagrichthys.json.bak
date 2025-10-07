@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Bagrichthys hypselopterus",
+    "SpecCode": "11977",
+    "CommonName": "Baung layar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrichthys macracanthus",
+    "SpecCode": "16161",
+    "CommonName": "Black lancer catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrichthys macropterus",
+    "SpecCode": "11978",
+    "CommonName": "Cá chot chuoi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrichthys majusculus",
+    "SpecCode": "60719",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrichthys micranodus",
+    "SpecCode": "23050",
+    "CommonName": "Ikan pisang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrichthys obscurus",
+    "SpecCode": "58064",
+    "CommonName": "Ruskolansettimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrichthys vaillantii",
+    "SpecCode": "60720",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

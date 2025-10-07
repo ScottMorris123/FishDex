@@ -38,7 +38,7 @@
   {
     "ScientificName": "Himantolophus brevirostris",
     "SpecCode": "58778",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Himantolophus cornifer",
     "SpecCode": "58776",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Himantolophus crinitus",
     "SpecCode": "60771",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Himantolophus danae",
     "SpecCode": "58775",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Himantolophus litoceras",
     "SpecCode": "65815",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Himantolophus macroceras",
     "SpecCode": "60772",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Himantolophus macroceratoides",
     "SpecCode": "60774",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Himantolophus melanolophus",
     "SpecCode": "58780",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Himantolophus multifurcatus",
     "SpecCode": "60776",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Himantolophus nigricornis",
     "SpecCode": "58774",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Himantolophus paucifilosus",
     "SpecCode": "60777",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Himantolophus pseudalbinares",
     "SpecCode": "58781",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Himantolophus rostratus",
     "SpecCode": "68042",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Himantolophus stewarti",
     "SpecCode": "66395",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

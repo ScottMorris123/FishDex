@@ -20,7 +20,7 @@
   {
     "ScientificName": "Thermarces pelophilum",
     "SpecCode": "54243",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

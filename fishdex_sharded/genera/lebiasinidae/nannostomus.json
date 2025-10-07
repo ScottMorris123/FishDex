@@ -56,7 +56,7 @@
   {
     "ScientificName": "Nannostomus erythrurus",
     "SpecCode": "67221",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Nannostomus grandis",
     "SpecCode": "66373",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Nannostomus nigrotaeniatus",
     "SpecCode": "67220",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Nannostomus rubrocaudatus",
     "SpecCode": "64935",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Tosarhombus brevis",
     "SpecCode": "52240",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Tosarhombus longimanus",
     "SpecCode": "52239",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

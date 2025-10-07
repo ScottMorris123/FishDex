@@ -1,0 +1,66 @@
+[
+  {
+    "ScientificName": "Urobatis concentricus",
+    "SpecCode": "13274",
+    "CommonName": "Bull's-eye stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urobatis halleri",
+    "SpecCode": "2580",
+    "CommonName": "Almindelig rund pigrokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urobatis jamaicensis",
+    "SpecCode": "2581",
+    "CommonName": "Gul rund pigrokke",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urobatis maculatus",
+    "SpecCode": "13276",
+    "CommonName": "Cortez ronde doornrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urobatis marmoratus",
+    "SpecCode": "55059",
+    "CommonName": "Chilean round stingray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urobatis pardalis",
+    "SpecCode": "68154",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Urobatis tumbesensis",
+    "SpecCode": "57392",
+    "CommonName": "Tumbe's ronde doornrog",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Campylomormyrus alces",
+    "SpecCode": "10838",
+    "CommonName": "Lundembe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus bredoi",
+    "SpecCode": "10840",
+    "CommonName": "Mweru lontmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus cassaicus",
+    "SpecCode": "10841",
+    "CommonName": "Kasai lontmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus christyi",
+    "SpecCode": "10843",
+    "CommonName": "Christy lontmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus compressirostris",
+    "SpecCode": "67417",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus curvirostris",
+    "SpecCode": "10844",
+    "CommonName": "Elefantsnabelfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus elephas",
+    "SpecCode": "10845",
+    "CommonName": "Ehombo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus luapulaensis",
+    "SpecCode": "10846",
+    "CommonName": "Luapula lontmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus mirus",
+    "SpecCode": "10847",
+    "CommonName": "Poisur-lontmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus numenius",
+    "SpecCode": "10849",
+    "CommonName": "Congo-snabelfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus orycteropus",
+    "SpecCode": "10850",
+    "CommonName": "Rypoun rypoší",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus phantasticus",
+    "SpecCode": "10852",
+    "CommonName": "Rypoun bizarní",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus rhynchophorus",
+    "SpecCode": "10854",
+    "CommonName": "Huulinorsukala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus tamandua",
+    "SpecCode": "5076",
+    "CommonName": "Balekete",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campylomormyrus tshokwe",
+    "SpecCode": "10855",
+    "CommonName": "Kongo lontmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

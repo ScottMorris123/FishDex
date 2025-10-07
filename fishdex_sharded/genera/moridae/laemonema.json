@@ -29,7 +29,7 @@
   {
     "ScientificName": "Laemonema goodebeanorum",
     "SpecCode": "54568",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Laemonema macronema",
     "SpecCode": "54563",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

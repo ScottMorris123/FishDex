@@ -11,7 +11,7 @@
   {
     "ScientificName": "Sicyopterus calliochromus",
     "SpecCode": "66585",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Sicyopterus erythropterus",
     "SpecCode": "66584",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -85,7 +85,7 @@
   {
     "ScientificName": "Sicyopterus fuliag",
     "SpecCode": "47145",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Sicyopterus laticeps",
     "SpecCode": "64749",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Sicyopterus lengguru",
     "SpecCode": "66583",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -217,7 +217,7 @@
   {
     "ScientificName": "Sicyopterus ocellaris",
     "SpecCode": "66582",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -235,7 +235,7 @@
   {
     "ScientificName": "Sicyopterus parvei",
     "SpecCode": "25107",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -253,7 +253,7 @@
   {
     "ScientificName": "Sicyopterus punctissimus",
     "SpecCode": "62108",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Sicyopterus sarasini",
     "SpecCode": "57879",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Sicyopterus squamosissimus",
     "SpecCode": "67968",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -301,7 +301,7 @@
   {
     "ScientificName": "Sicyopterus stiphodonoides",
     "SpecCode": "66581",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Paraphyonus bolini",
+    "SpecCode": "54841",
+    "CommonName": "博林胶胎鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraphyonus brevidorsalis",
+    "SpecCode": "16800",
+    "CommonName": "短背胶胎鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraphyonus iselini",
+    "SpecCode": "70097",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraphyonus merretti",
+    "SpecCode": "70098",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraphyonus rassi",
+    "SpecCode": "17089",
+    "CommonName": "拉氏胶胎鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraphyonus solomonensis",
+    "SpecCode": "65343",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

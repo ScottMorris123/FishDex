@@ -89,7 +89,7 @@
   {
     "ScientificName": "Atherinella colombiensis",
     "SpecCode": "53617",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -154,7 +154,7 @@
   {
     "ScientificName": "Atherinella jiloaensis",
     "SpecCode": "53614",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -181,7 +181,7 @@
   {
     "ScientificName": "Atherinella meeki",
     "SpecCode": "53616",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -318,7 +318,7 @@
   {
     "ScientificName": "Atherinella venezuelae",
     "SpecCode": "53621",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

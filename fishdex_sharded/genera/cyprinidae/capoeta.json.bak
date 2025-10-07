@@ -1,0 +1,263 @@
+[
+  {
+    "ScientificName": "Capoeta aculeata",
+    "SpecCode": "56223",
+    "CommonName": "Large scale scraper",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta alborzensis",
+    "SpecCode": "70278",
+    "CommonName": "Alborz large scale scraper",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta antalyensis",
+    "SpecCode": "9631",
+    "CommonName": "Antalya barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta aydinensis",
+    "SpecCode": "68540",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta banarescui",
+    "SpecCode": "62914",
+    "CommonName": "Bănărescu ramul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta bergamae",
+    "SpecCode": "63099",
+    "CommonName": "Bergama barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta buhsei",
+    "SpecCode": "55303",
+    "CommonName": "Buhse ramul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta caelestis",
+    "SpecCode": "65186",
+    "CommonName": "Aptalca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta capoeta",
+    "SpecCode": "13157",
+    "CommonName": "Caucasian scraper",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta capoetoides",
+    "SpecCode": "11629",
+    "CommonName": "Chramule parmičkovitá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta coadi",
+    "SpecCode": "67903",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta damascina",
+    "SpecCode": "26487",
+    "CommonName": "Ankara barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta ekmekciae",
+    "SpecCode": "62754",
+    "CommonName": "Çoruhi ramul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta ferdowsii",
+    "SpecCode": "68535",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta fusca",
+    "SpecCode": "55343",
+    "CommonName": "Parmička temná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta gracilis",
+    "SpecCode": "64660",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta heratensis",
+    "SpecCode": "70280",
+    "CommonName": "Herat scarper",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta kaput",
+    "SpecCode": "70282",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta macrolepis",
+    "SpecCode": "70281",
+    "CommonName": "Kor scraper",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta oguzelii",
+    "SpecCode": "70605",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta pestai",
+    "SpecCode": "56224",
+    "CommonName": "Beyşehiri ramul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta pyragyi",
+    "SpecCode": "68536",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta razii",
+    "SpecCode": "68539",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta saadii",
+    "SpecCode": "67906",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta sevangi",
+    "SpecCode": "8725",
+    "CommonName": "Sevan khramulya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta shajariani",
+    "SpecCode": "68537",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta sieboldii",
+    "SpecCode": "48164",
+    "CommonName": "Chramule Sieboldova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta tinca",
+    "SpecCode": "48163",
+    "CommonName": "Anatolian khramulya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Capoeta umbla",
+    "SpecCode": "63654",
+    "CommonName": "Mesopotaamia ramul",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

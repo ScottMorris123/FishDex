@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Bathyonus caudalis",
+    "SpecCode": "54123",
+    "CommonName": "Harilik taarnakala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyonus laticeps",
+    "SpecCode": "8948",
+    "CommonName": "深水鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyonus pectoralis",
+    "SpecCode": "56339",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

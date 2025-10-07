@@ -20,7 +20,7 @@
   {
     "ScientificName": "Parakysis hystriculus",
     "SpecCode": "64856",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Parakysis notialis",
     "SpecCode": "61511",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

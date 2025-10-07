@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pogonolycus elegans",
     "SpecCode": "48319",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Pogonolycus marinae",
     "SpecCode": "48321",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

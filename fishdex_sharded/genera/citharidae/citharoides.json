@@ -20,7 +20,7 @@
   {
     "ScientificName": "Citharoides orbitalis",
     "SpecCode": "59042",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

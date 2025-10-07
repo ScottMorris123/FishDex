@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Cabdio crassus",
+    "SpecCode": "70404",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabdio jaya",
+    "SpecCode": "13222",
+    "CommonName": "Aspidoparie asijská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabdio morar",
+    "SpecCode": "24302",
+    "CommonName": "Aspidoparia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabdio occidentalis",
+    "SpecCode": "70403",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cabdio ukhrulensis",
+    "SpecCode": "60655",
+    "CommonName": "Ukhruli kilbikdaanio",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

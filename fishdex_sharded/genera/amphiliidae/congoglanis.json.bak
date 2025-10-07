@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Congoglanis alula",
+    "SpecCode": "9424",
+    "CommonName": "Dandala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congoglanis howesi",
+    "SpecCode": "66726",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congoglanis inga",
+    "SpecCode": "66389",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congoglanis sagitta",
+    "SpecCode": "66390",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

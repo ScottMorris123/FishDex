@@ -33,7 +33,7 @@
   {
     "ScientificName": "Bairdiella goeldi",
     "SpecCode": "70190",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -63,7 +63,7 @@
   {
     "ScientificName": "Bairdiella veraecrucis",
     "SpecCode": "70452",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",

@@ -47,7 +47,7 @@
   {
     "ScientificName": "Hetereleotris dorsovittata",
     "SpecCode": "68789",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Hetereleotris psammophila",
     "SpecCode": "67277",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Hetereleotris readerae",
     "SpecCode": "62977",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

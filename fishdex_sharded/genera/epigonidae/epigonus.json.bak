@@ -1,0 +1,354 @@
+[
+  {
+    "ScientificName": "Epigonus affinis",
+    "SpecCode": "54917",
+    "CommonName": "Smooth-nose deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus angustifrons",
+    "SpecCode": "54907",
+    "CommonName": "窄叶后竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus atherinoides",
+    "SpecCode": "23459",
+    "CommonName": "Hira-yasemutsu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus carbonarius",
+    "SpecCode": "66035",
+    "CommonName": "Charcoal deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus cavaticus",
+    "SpecCode": "63445",
+    "CommonName": "Palauan deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus chilensis",
+    "SpecCode": "66613",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus constanciae",
+    "SpecCode": "2506",
+    "CommonName": "Derinsu kardinal balığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus crassicaudus",
+    "SpecCode": "54788",
+    "CommonName": "Besugo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus ctenolepis",
+    "SpecCode": "23460",
+    "CommonName": "Naga-yasemutsu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus denticulatus",
+    "SpecCode": "2507",
+    "CommonName": "Bigeye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus devaneyi",
+    "SpecCode": "54906",
+    "CommonName": "德氏后竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus draco",
+    "SpecCode": "67837",
+    "CommonName": "Dragon deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus elegans",
+    "SpecCode": "54916",
+    "CommonName": "美丽后竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus elongatus",
+    "SpecCode": "54911",
+    "CommonName": "長身後竺鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus exodon",
+    "SpecCode": "66620",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus fragilis",
+    "SpecCode": "54899",
+    "CommonName": "脆后竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus glossodontus",
+    "SpecCode": "54905",
+    "CommonName": "齒舌後竺鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus heracleus",
+    "SpecCode": "54915",
+    "CommonName": "大力神后竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus indicus",
+    "SpecCode": "69352",
+    "CommonName": "Indian deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus lenimen",
+    "SpecCode": "14358",
+    "CommonName": "Bigeye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus lifouensis",
+    "SpecCode": "67049",
+    "CommonName": "Loyalty deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus machaera",
+    "SpecCode": "66614",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus macrops",
+    "SpecCode": "14837",
+    "CommonName": "Cardinal fish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus marimonticolus",
+    "SpecCode": "54912",
+    "CommonName": "苦味后竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus marisrubri",
+    "SpecCode": "65391",
+    "CommonName": "Deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus mayeri",
+    "SpecCode": "66036",
+    "CommonName": "Angolan deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus notacanthus",
+    "SpecCode": "54908",
+    "CommonName": "背棘后竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus occidentalis",
+    "SpecCode": "54901",
+    "CommonName": "Western deepsea cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus okamotoi",
+    "SpecCode": "68507",
+    "CommonName": "Okamoto's deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus oligolepis",
+    "SpecCode": "54902",
+    "CommonName": "寡鱗後竺鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus pandionis",
+    "SpecCode": "10770",
+    "CommonName": "Bigeye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus parini",
+    "SpecCode": "54914",
+    "CommonName": "褐后竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus pectinifer",
+    "SpecCode": "23457",
+    "CommonName": "Cardinal fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus robustus",
+    "SpecCode": "14365",
+    "CommonName": "Cardinal fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus telescopus",
+    "SpecCode": "2508",
+    "CommonName": "Besoiro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus thai",
+    "SpecCode": "67355",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus trunovi",
+    "SpecCode": "67358",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus tuberculatus",
+    "SpecCode": "67050",
+    "CommonName": "Keeling deepwater cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epigonus waltersensis",
+    "SpecCode": "54920",
+    "CommonName": "印度后竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

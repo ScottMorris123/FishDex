@@ -65,7 +65,7 @@
   {
     "ScientificName": "Pseudohemiodon unillano",
     "SpecCode": "70028",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

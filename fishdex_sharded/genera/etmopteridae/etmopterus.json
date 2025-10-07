@@ -228,7 +228,7 @@
   {
     "ScientificName": "Etmopterus parini",
     "SpecCode": "69489",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

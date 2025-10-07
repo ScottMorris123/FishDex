@@ -84,7 +84,7 @@
   {
     "ScientificName": "Pleurosicya larsonae",
     "SpecCode": "63431",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -147,7 +147,7 @@
   {
     "ScientificName": "Pleurosicya sinaia",
     "SpecCode": "65421",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

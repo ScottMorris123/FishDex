@@ -11,7 +11,7 @@
   {
     "ScientificName": "Cataetyx bruuni",
     "SpecCode": "8998",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Cataetyx simus",
     "SpecCode": "55192",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

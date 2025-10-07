@@ -20,7 +20,7 @@
   {
     "ScientificName": "Laimosemion amanapira",
     "SpecCode": "62065",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Laimosemion jauaperi",
     "SpecCode": "70509",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Laimosemion kirovskyi",
     "SpecCode": "62202",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Laimosemion leticia",
     "SpecCode": "70444",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Laimosemion mabura",
     "SpecCode": "68944",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Laimosemion mahdiaensis",
     "SpecCode": "63121",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Laimosemion romeri",
     "SpecCode": "62314",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Laimosemion sape",
     "SpecCode": "62917",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Laimosemion staecki",
     "SpecCode": "66192",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Laimosemion strigatus",
     "SpecCode": "61801",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Laimosemion torrenticola",
     "SpecCode": "61593",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Laimosemion uakti",
     "SpecCode": "62064",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Laimosemion uatuman",
     "SpecCode": "62019",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Laimosemion ubim",
     "SpecCode": "67716",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

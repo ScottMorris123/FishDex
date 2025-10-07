@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Maulisia acuticeps",
+    "SpecCode": "11432",
+    "CommonName": "Sharpsnout tubeshoulder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maulisia argipalla",
+    "SpecCode": "11434",
+    "CommonName": "Palegold searsid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maulisia isaacsi",
+    "SpecCode": "59108",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maulisia mauli",
+    "SpecCode": "10151",
+    "CommonName": "Maul's searsid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Maulisia microlepis",
+    "SpecCode": "10152",
+    "CommonName": "Smallscale searsid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

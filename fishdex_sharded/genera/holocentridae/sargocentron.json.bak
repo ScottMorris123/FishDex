@@ -1,0 +1,300 @@
+[
+  {
+    "ScientificName": "Sargocentron borodinoensis",
+    "SpecCode": "69071",
+    "CommonName": "Borodino soldierfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron bullisi",
+    "SpecCode": "3247",
+    "CommonName": "Candil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron caudimaculatum",
+    "SpecCode": "4907",
+    "CommonName": "Asdhaanu raiverimas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron cornutum",
+    "SpecCode": "5406",
+    "CommonName": "Baga",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron coruscum",
+    "SpecCode": "3248",
+    "CommonName": "Candil rayado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron diadema",
+    "SpecCode": "4699",
+    "CommonName": "'Ala'ihi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron dorsomaculatum",
+    "SpecCode": "17428",
+    "CommonName": "Bara-ebisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron ensifer",
+    "SpecCode": "12991",
+    "CommonName": "'Ala'ihi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron hastatum",
+    "SpecCode": "9059",
+    "CommonName": "Candil africano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron hormion",
+    "SpecCode": "50111",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron inaequalis",
+    "SpecCode": "23249",
+    "CommonName": "Lattice squirrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron iota",
+    "SpecCode": "50117",
+    "CommonName": "Dwarf squirrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron ittodai",
+    "SpecCode": "6573",
+    "CommonName": "Baga-baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron lepros",
+    "SpecCode": "27348",
+    "CommonName": "Spiny squirrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron macrosquamis",
+    "SpecCode": "23251",
+    "CommonName": "Bigscale squirrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron marisrubri",
+    "SpecCode": "5347",
+    "CommonName": "馬氏棘鱗魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron megalops",
+    "SpecCode": "50118",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron melanospilos",
+    "SpecCode": "5345",
+    "CommonName": "Baga-baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron microstoma",
+    "SpecCode": "5841",
+    "CommonName": "'Araoe 'ute'ute",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron poco",
+    "SpecCode": "3250",
+    "CommonName": "Saddle squirrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron praslin",
+    "SpecCode": "7714",
+    "CommonName": "Brownspot squirrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron punctatissimum",
+    "SpecCode": "4906",
+    "CommonName": "'Ala'ihi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron rubrum",
+    "SpecCode": "6625",
+    "CommonName": "Akanthoperka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron seychellense",
+    "SpecCode": "23254",
+    "CommonName": "Écureuil des Seychelles",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron shimizui",
+    "SpecCode": "50231",
+    "CommonName": "Shimizu's squirrelfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron spiniferum",
+    "SpecCode": "6507",
+    "CommonName": "'Ala'ihi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron spinosissimum",
+    "SpecCode": "23350",
+    "CommonName": "Ittoudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron suborbitale",
+    "SpecCode": "13775",
+    "CommonName": "Candil sol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron tiere",
+    "SpecCode": "4908",
+    "CommonName": "'Ala'ihi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron tiereoides",
+    "SpecCode": "7311",
+    "CommonName": "Baga-baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron violaceum",
+    "SpecCode": "4909",
+    "CommonName": "Baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron wilhelmi",
+    "SpecCode": "50340",
+    "CommonName": "Mārau hiva",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sargocentron xantherythrum",
+    "SpecCode": "7868",
+    "CommonName": "'Ala'ihi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

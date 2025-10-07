@@ -263,7 +263,7 @@
   {
     "ScientificName": "Ecsenius niue",
     "SpecCode": "61237",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -308,7 +308,7 @@
   {
     "ScientificName": "Ecsenius pardus",
     "SpecCode": "27280",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

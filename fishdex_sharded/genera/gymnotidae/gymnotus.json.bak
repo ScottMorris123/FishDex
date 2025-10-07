@@ -1,0 +1,380 @@
+[
+  {
+    "ScientificName": "Gymnotus anguillaris",
+    "SpecCode": "28044",
+    "CommonName": "Alapo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus arapaima",
+    "SpecCode": "58744",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus ardilai",
+    "SpecCode": "62130",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus bahianus",
+    "SpecCode": "52974",
+    "CommonName": "巴西裸背电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus capanema",
+    "SpecCode": "66465",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus capitimaculatus",
+    "SpecCode": "67612",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus carapo",
+    "SpecCode": "10915",
+    "CommonName": "Akomoe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus cataniapo",
+    "SpecCode": "47941",
+    "CommonName": "南美裸背电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus chaviro",
+    "SpecCode": "65263",
+    "CommonName": "Anguilla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus chimarrao",
+    "SpecCode": "63822",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus choco",
+    "SpecCode": "61421",
+    "CommonName": "Cuchillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus coatesi",
+    "SpecCode": "48131",
+    "CommonName": "Anguilita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus coropinae",
+    "SpecCode": "62079",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus cuia",
+    "SpecCode": "68706",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus curupira",
+    "SpecCode": "62265",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus cylindricus",
+    "SpecCode": "48132",
+    "CommonName": "柱形裸背电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus darwini",
+    "SpecCode": "70188",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus diamantinensis",
+    "SpecCode": "59718",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus esmeraldas",
+    "SpecCode": "61422",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus henni",
+    "SpecCode": "61423",
+    "CommonName": "Mayupa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus inaequilabiatus",
+    "SpecCode": "48129",
+    "CommonName": "糙唇裸背电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus interruptus",
+    "SpecCode": "66947",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus javari",
+    "SpecCode": "61426",
+    "CommonName": "Macana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus jonasi",
+    "SpecCode": "58745",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus maculosus",
+    "SpecCode": "52973",
+    "CommonName": "Cuchillo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus mamiraua",
+    "SpecCode": "58734",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus melanopleura",
+    "SpecCode": "58747",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus obscurus",
+    "SpecCode": "62266",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus omarorum",
+    "SpecCode": "65157",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus onca",
+    "SpecCode": "58746",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus panamensis",
+    "SpecCode": "61427",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus pantanal",
+    "SpecCode": "62134",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus pantherinus",
+    "SpecCode": "48130",
+    "CommonName": "豹紋裸背電鰻",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus paraguensis",
+    "SpecCode": "61424",
+    "CommonName": "Morenita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus pedanopterus",
+    "SpecCode": "47942",
+    "CommonName": "Sarrapu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus refugio",
+    "SpecCode": "70002",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus stenoleucus",
+    "SpecCode": "47943",
+    "CommonName": "窄身裸背电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus sylvius",
+    "SpecCode": "57082",
+    "CommonName": "雨林裸背电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus tigre",
+    "SpecCode": "61425",
+    "CommonName": "Macana tigre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus tiquie",
+    "SpecCode": "65981",
+    "CommonName": "Tiquie banded knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus ucamara",
+    "SpecCode": "61428",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnotus varzea",
+    "SpecCode": "62267",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

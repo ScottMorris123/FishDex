@@ -2,7 +2,7 @@
   {
     "ScientificName": "Bathylagus andriashevi",
     "SpecCode": "58737",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Bathylagus niger",
     "SpecCode": "63080",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

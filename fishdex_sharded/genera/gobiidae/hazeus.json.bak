@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Hazeus ammophilus",
+    "SpecCode": "69586",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hazeus elati",
+    "SpecCode": "56467",
+    "CommonName": "Eilat sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hazeus ingressus",
+    "SpecCode": "69837",
+    "CommonName": "Immigrant goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hazeus maculipinna",
+    "SpecCode": "25493",
+    "CommonName": "斑鰭妙音鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hazeus otakii",
+    "SpecCode": "23600",
+    "CommonName": "Scalyhead goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hazeus paucisquamatus",
+    "SpecCode": "70583",
+    "CommonName": "Louisiade sand-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hazeus profusus",
+    "SpecCode": "69587",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -29,7 +29,7 @@
   {
     "ScientificName": "Centropristis rufus",
     "SpecCode": "61260",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

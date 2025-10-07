@@ -2,7 +2,7 @@
   {
     "ScientificName": "Helcogrammoides antarcticus",
     "SpecCode": "7116",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Helcogrammoides chilensis",
     "SpecCode": "55253",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -75,7 +75,7 @@
   {
     "ScientificName": "Suezichthys ornatus",
     "SpecCode": "58373",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

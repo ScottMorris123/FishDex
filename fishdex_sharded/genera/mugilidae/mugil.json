@@ -12,7 +12,7 @@
   {
     "ScientificName": "Mugil brevirostris",
     "SpecCode": "67996",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -112,7 +112,7 @@
   {
     "ScientificName": "Mugil longicauda",
     "SpecCode": "67669",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -121,7 +121,7 @@
   {
     "ScientificName": "Mugil margaritae",
     "SpecCode": "67995",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

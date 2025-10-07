@@ -1,0 +1,356 @@
+[
+  {
+    "ScientificName": "Amblyeleotris arcupinna",
+    "SpecCode": "59331",
+    "CommonName": "Arcfin shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris aurora",
+    "SpecCode": "12694",
+    "CommonName": "Beautiful prawn-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris bellicauda",
+    "SpecCode": "62930",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris biguttata",
+    "SpecCode": "62928",
+    "CommonName": "Twinspot shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris bleekeri",
+    "SpecCode": "64543",
+    "CommonName": "Shrimp goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris callopareia",
+    "SpecCode": "47040",
+    "CommonName": "Beautiful-cheek shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris cephalotaenia",
+    "SpecCode": "60453",
+    "CommonName": "头带丝鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris delicatulus",
+    "SpecCode": "59375",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris diagonalis",
+    "SpecCode": "13152",
+    "CommonName": "Belodok belang miring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris downingi",
+    "SpecCode": "26635",
+    "CommonName": "Downing's shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris ellipse",
+    "SpecCode": "62929",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris fasciata",
+    "SpecCode": "7229",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris fontanesii",
+    "SpecCode": "7230",
+    "CommonName": "Bagtis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris guttata",
+    "SpecCode": "6671",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris gymnocephala",
+    "SpecCode": "11614",
+    "CommonName": "Cá Bống nhiều tia vây",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris harrisorum",
+    "SpecCode": "61004",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris japonica",
+    "SpecCode": "6520",
+    "CommonName": "Datehaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris latifasciata",
+    "SpecCode": "47046",
+    "CommonName": "Metallic shrimp-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris macronema",
+    "SpecCode": "47043",
+    "CommonName": "Longspine shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris marquesas",
+    "SpecCode": "61005",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris masuii",
+    "SpecCode": "46533",
+    "CommonName": "Masui-datehaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris melanocephala",
+    "SpecCode": "57797",
+    "CommonName": "Blackhead shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris memnonia",
+    "SpecCode": "70530",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris morishitai",
+    "SpecCode": "63940",
+    "CommonName": "Morishita-datehaze",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris neglecta",
+    "SpecCode": "65196",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris neumanni",
+    "SpecCode": "64545",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris novaecaledoniae",
+    "SpecCode": "27552",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris ogasawarensis",
+    "SpecCode": "12697",
+    "CommonName": "Minami-datehaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris periophthalma",
+    "SpecCode": "7231",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris randalli",
+    "SpecCode": "7232",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris rhyax",
+    "SpecCode": "47039",
+    "CommonName": "Volcano shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris rubrimarginata",
+    "SpecCode": "61007",
+    "CommonName": "Redmargin shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris steinitzi",
+    "SpecCode": "7195",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris stenotaeniata",
+    "SpecCode": "62931",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris sungami",
+    "SpecCode": "12699",
+    "CommonName": "Magnus' prawn-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris taipinensis",
+    "SpecCode": "64544",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris triguttata",
+    "SpecCode": "26636",
+    "CommonName": "Triplespot shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris wheeleri",
+    "SpecCode": "7196",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblyeleotris yanoi",
+    "SpecCode": "46531",
+    "CommonName": "Flagtail shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Calamopteryx jeb",
     "SpecCode": "56386",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

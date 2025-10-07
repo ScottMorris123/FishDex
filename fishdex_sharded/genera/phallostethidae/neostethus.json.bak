@@ -1,0 +1,121 @@
+[
+  {
+    "ScientificName": "Neostethus amaricola",
+    "SpecCode": "26944",
+    "CommonName": "Harilik uusfalloskala",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus bicornis",
+    "SpecCode": "24782",
+    "CommonName": "双角栉精器鱼",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus borneensis",
+    "SpecCode": "24784",
+    "CommonName": "婆罗栉精器鱼",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus ctenophorus",
+    "SpecCode": "26945",
+    "CommonName": "梳栉精器鱼",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus djajaorum",
+    "SpecCode": "59152",
+    "CommonName": "苏拉威西栉精器鱼",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus geminus",
+    "SpecCode": "67349",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus lankesteri",
+    "SpecCode": "24785",
+    "CommonName": "Busai",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus palawanensis",
+    "SpecCode": "26956",
+    "CommonName": "巴拉望栉精器鱼",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus robertsi",
+    "SpecCode": "26957",
+    "CommonName": "罗氏栉精器鱼",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus thessa",
+    "SpecCode": "26943",
+    "CommonName": "Bolinao",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus villadolidi",
+    "SpecCode": "26954",
+    "CommonName": "維氏櫛精器魚",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neostethus zamboangae",
+    "SpecCode": "26955",
+    "CommonName": "吕宋栉精器鱼",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

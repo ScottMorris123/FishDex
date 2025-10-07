@@ -114,7 +114,7 @@
   {
     "ScientificName": "Amblygobius sewardii",
     "SpecCode": "66825",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

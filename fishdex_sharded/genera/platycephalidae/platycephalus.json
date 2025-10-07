@@ -161,7 +161,7 @@
   {
     "ScientificName": "Platycephalus westraliae",
     "SpecCode": "66159",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

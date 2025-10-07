@@ -38,7 +38,7 @@
   {
     "ScientificName": "Microstomus shuntovi",
     "SpecCode": "52516",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

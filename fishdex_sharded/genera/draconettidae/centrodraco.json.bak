@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Centrodraco abstractum",
+    "SpecCode": "60548",
+    "CommonName": "Abstract slope dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco acanthopoma",
+    "SpecCode": "24193",
+    "CommonName": "North Atlantic slope dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco atrifilum",
+    "SpecCode": "65486",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco fidelis",
+    "SpecCode": "67935",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco gegonipus",
+    "SpecCode": "28089",
+    "CommonName": "Sala-y-Gomez slope dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco insolitus",
+    "SpecCode": "10589",
+    "CommonName": "Uncommon dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco lineatus",
+    "SpecCode": "28091",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco nakaboi",
+    "SpecCode": "28085",
+    "CommonName": "Nakabo's slope dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco oregonus",
+    "SpecCode": "28090",
+    "CommonName": "Brazilian slope dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco ornatus",
+    "SpecCode": "28093",
+    "CommonName": "Ornate slope dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco otohime",
+    "SpecCode": "59303",
+    "CommonName": "Otohime-numeri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco pseudoxenicus",
+    "SpecCode": "24194",
+    "CommonName": "Hanagasa-numeri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco rubellus",
+    "SpecCode": "28094",
+    "CommonName": "微紅粗棘蜥",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrodraco striatus",
+    "SpecCode": "28117",
+    "CommonName": "Striped slope dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

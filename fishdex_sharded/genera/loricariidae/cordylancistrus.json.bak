@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Cordylancistrus daguae",
+    "SpecCode": "49818",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cordylancistrus nephelion",
+    "SpecCode": "62681",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cordylancistrus perijae",
+    "SpecCode": "53505",
+    "CommonName": "佩氏瘤甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cordylancistrus pijao",
+    "SpecCode": "70586",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cordylancistrus platyrhynchus",
+    "SpecCode": "49972",
+    "CommonName": "Verkkokiekkopleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cordylancistrus torbesensis",
+    "SpecCode": "49924",
+    "CommonName": "Corroncho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Seleniolycus laevifasciatus",
     "SpecCode": "7035",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Seleniolycus pectoralis",
     "SpecCode": "64617",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Seleniolycus robertsi",
     "SpecCode": "64618",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

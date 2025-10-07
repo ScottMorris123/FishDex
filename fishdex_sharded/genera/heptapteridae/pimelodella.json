@@ -29,7 +29,7 @@
   {
     "ScientificName": "Pimelodella bockmanni",
     "SpecCode": "70151",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Pimelodella eutaenia",
     "SpecCode": "61786",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Pimelodella humeralis",
     "SpecCode": "69409",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -353,7 +353,7 @@
   {
     "ScientificName": "Pimelodella longibarbata",
     "SpecCode": "70207",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -489,7 +489,7 @@
   {
     "ScientificName": "Pimelodella ophthalmica",
     "SpecCode": "61789",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -633,7 +633,7 @@
   {
     "ScientificName": "Pimelodella spelaea",
     "SpecCode": "62273",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -696,7 +696,7 @@
   {
     "ScientificName": "Pimelodella wesselii",
     "SpecCode": "61792",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

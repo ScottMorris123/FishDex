@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pseudotrichonotus altivelis",
+    "SpecCode": "4555",
+    "CommonName": "Hotate-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotrichonotus belos",
+    "SpecCode": "68790",
+    "CommonName": "Dart sand-diving lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotrichonotus caeruleoflavus",
+    "SpecCode": "68791",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudotrichonotus xanthotaenia",
+    "SpecCode": "58918",
+    "CommonName": "黃帶擬肩孔南極魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -31,7 +31,7 @@
   {
     "ScientificName": "Lactoria paschae",
     "SpecCode": "54967",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Tympanopleura cryptica",
     "SpecCode": "68195",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Tympanopleura longipinna",
     "SpecCode": "68196",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Tympanopleura rondoni",
     "SpecCode": "68199",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

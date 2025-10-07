@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Chindongo ater",
+    "SpecCode": "2356",
+    "CommonName": "Mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo bellicosus",
+    "SpecCode": "68971",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo cyaneus",
+    "SpecCode": "2361",
+    "CommonName": "Cyan hap",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo demasoni",
+    "SpecCode": "53380",
+    "CommonName": "Demasons cichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo elongatus",
+    "SpecCode": "2363",
+    "CommonName": "Elongate mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo flavus",
+    "SpecCode": "2365",
+    "CommonName": "Mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo heteropictus",
+    "SpecCode": "2371",
+    "CommonName": "异拟丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo longior",
+    "SpecCode": "50872",
+    "CommonName": "長擬麗魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo minutus",
+    "SpecCode": "2378",
+    "CommonName": "Mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo saulosi",
+    "SpecCode": "8341",
+    "CommonName": "Mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chindongo socolofi",
+    "SpecCode": "2380",
+    "CommonName": "Mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Piabucina astrigata",
+    "SpecCode": "26524",
+    "CommonName": "Guaija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucina aureoguttata",
+    "SpecCode": "50859",
+    "CommonName": "Guaija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucina boruca",
+    "SpecCode": "50856",
+    "CommonName": "Boruca-Zwergraubsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucina elongata",
+    "SpecCode": "50862",
+    "CommonName": "Guaija",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucina erythrinoides",
+    "SpecCode": "50864",
+    "CommonName": "Carpa Criolla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucina festae",
+    "SpecCode": "50851",
+    "CommonName": "Candela",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucina panamensis",
+    "SpecCode": "28253",
+    "CommonName": "Candela",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucina pleurotaenia",
+    "SpecCode": "48611",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Piabucina unitaeniata",
+    "SpecCode": "50853",
+    "CommonName": "Carpa criolla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

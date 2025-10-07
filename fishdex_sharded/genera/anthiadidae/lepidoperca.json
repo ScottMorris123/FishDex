@@ -29,7 +29,7 @@
   {
     "ScientificName": "Lepidoperca coatsii",
     "SpecCode": "61259",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

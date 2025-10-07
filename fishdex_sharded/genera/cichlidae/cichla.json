@@ -11,7 +11,7 @@
   {
     "ScientificName": "Cichla jariina",
     "SpecCode": "62996",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Cichla melaniae",
     "SpecCode": "62988",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Cichla mirianae",
     "SpecCode": "62993",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Cichla nigromaculata",
     "SpecCode": "62989",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Cichla pleiozona",
     "SpecCode": "62992",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -120,7 +120,7 @@
   {
     "ScientificName": "Cichla thyrorus",
     "SpecCode": "62995",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -129,7 +129,7 @@
   {
     "ScientificName": "Cichla vazzoleri",
     "SpecCode": "62998",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

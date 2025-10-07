@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pseudolithoxus kelsorum",
     "SpecCode": "66169",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Pseudolithoxus kinja",
     "SpecCode": "69221",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Pseudolithoxus nicoi",
     "SpecCode": "57747",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

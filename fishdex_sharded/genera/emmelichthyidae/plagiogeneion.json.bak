@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Plagiogeneion fiolenti",
+    "SpecCode": "51725",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiogeneion geminatum",
+    "SpecCode": "51722",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiogeneion macrolepis",
+    "SpecCode": "14371",
+    "CommonName": "Big-scale bonnetmouth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiogeneion rubiginosum",
+    "SpecCode": "12288",
+    "CommonName": "Bonnetmouth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plagiogeneion unispina",
+    "SpecCode": "51724",
+    "CommonName": "单棘斜谐鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

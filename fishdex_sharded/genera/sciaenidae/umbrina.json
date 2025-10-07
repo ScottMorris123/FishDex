@@ -85,7 +85,7 @@
   {
     "ScientificName": "Umbrina imberbis",
     "SpecCode": "61346",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -56,7 +56,7 @@
   {
     "ScientificName": "Bassozetus multispinis",
     "SpecCode": "54233",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Bassozetus nasus",
     "SpecCode": "54234",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Bassozetus normalis",
     "SpecCode": "54235",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Bassozetus werneri",
     "SpecCode": "60986",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

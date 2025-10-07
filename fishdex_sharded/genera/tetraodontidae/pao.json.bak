@@ -1,0 +1,120 @@
+[
+  {
+    "ScientificName": "Pao abei",
+    "SpecCode": "50296",
+    "CommonName": "Pisamapallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao baileyi",
+    "SpecCode": "50300",
+    "CommonName": "Hairy puffer",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao bergii",
+    "SpecCode": "67506",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao brevirostris",
+    "SpecCode": "67425",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao cambodgiensis",
+    "SpecCode": "60220",
+    "CommonName": "Maalipallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao cochinchinensis",
+    "SpecCode": "60212",
+    "CommonName": "Rubiinipallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao fangi",
+    "SpecCode": "67507",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao hilgendorfii",
+    "SpecCode": "66116",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao leiurus",
+    "SpecCode": "16134",
+    "CommonName": "Buntal-gigi kelabu",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao ocellaris",
+    "SpecCode": "66722",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao palembangensis",
+    "SpecCode": "25179",
+    "CommonName": "Buntal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao suvattii",
+    "SpecCode": "50301",
+    "CommonName": "Losseropallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pao turgidus",
+    "SpecCode": "57781",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Vanderhorstia bella",
     "SpecCode": "62648",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Vanderhorstia opercularis",
     "SpecCode": "64555",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Vanderhorstia steelei",
     "SpecCode": "63755",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

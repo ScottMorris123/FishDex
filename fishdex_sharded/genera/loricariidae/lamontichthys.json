@@ -2,7 +2,7 @@
   {
     "ScientificName": "Lamontichthys avacanoeiro",
     "SpecCode": "65265",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Lamontichthys parakana",
     "SpecCode": "65264",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

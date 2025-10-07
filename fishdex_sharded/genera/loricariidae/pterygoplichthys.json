@@ -110,7 +110,7 @@
   {
     "ScientificName": "Pterygoplichthys weberi",
     "SpecCode": "63957",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

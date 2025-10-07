@@ -20,7 +20,7 @@
   {
     "ScientificName": "Bathylagichthys kobylianskyi",
     "SpecCode": "69322",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Bathylagichthys problematicus",
     "SpecCode": "50089",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

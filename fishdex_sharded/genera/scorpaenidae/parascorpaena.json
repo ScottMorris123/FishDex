@@ -2,7 +2,7 @@
   {
     "ScientificName": "Parascorpaena armata",
     "SpecCode": "70152",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -58,7 +58,7 @@
   {
     "ScientificName": "Parascorpaena moultoni",
     "SpecCode": "68170",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

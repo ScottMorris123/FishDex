@@ -11,7 +11,7 @@
   {
     "ScientificName": "Sternopygus arenatus",
     "SpecCode": "48006",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Sternopygus castroi",
     "SpecCode": "58262",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Sternopygus pejeraton",
     "SpecCode": "48004",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

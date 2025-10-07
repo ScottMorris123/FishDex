@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Tryssogobius colini",
+    "SpecCode": "61325",
+    "CommonName": "Colin's fairygoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tryssogobius flavolineatus",
+    "SpecCode": "63991",
+    "CommonName": "Yellow-lined fairygoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tryssogobius longipes",
+    "SpecCode": "61326",
+    "CommonName": "Longfin fairygoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tryssogobius nigrolineatus",
+    "SpecCode": "63993",
+    "CommonName": "Deepreef fairygoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tryssogobius porosus",
+    "SpecCode": "63425",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tryssogobius quinquespinus",
+    "SpecCode": "63994",
+    "CommonName": "Fivespine fairygoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tryssogobius sarah",
+    "SpecCode": "66883",
+    "CommonName": "Sarah's fairygoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

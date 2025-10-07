@@ -20,7 +20,7 @@
   {
     "ScientificName": "Channallabes longicaudatus",
     "SpecCode": "63454",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Channallabes ogooensis",
     "SpecCode": "63455",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Channallabes sanghaensis",
     "SpecCode": "63457",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Channallabes teugelsi",
     "SpecCode": "63456",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

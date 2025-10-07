@@ -2,7 +2,7 @@
   {
     "ScientificName": "Centromochlus akwe",
     "SpecCode": "70435",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Centromochlus carolae",
     "SpecCode": "67213",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Centromochlus melanoleucus",
     "SpecCode": "67671",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Centromochlus orca",
     "SpecCode": "70434",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

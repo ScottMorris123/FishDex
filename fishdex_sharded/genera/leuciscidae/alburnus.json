@@ -103,7 +103,7 @@
   {
     "ScientificName": "Alburnus carianorum",
     "SpecCode": "70173",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -243,7 +243,7 @@
   {
     "ScientificName": "Alburnus magnificus",
     "SpecCode": "70263",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -261,7 +261,7 @@
   {
     "ScientificName": "Alburnus maximus",
     "SpecCode": "69022",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -383,7 +383,7 @@
   {
     "ScientificName": "Alburnus selcuklui",
     "SpecCode": "68276",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -420,7 +420,7 @@
   {
     "ScientificName": "Alburnus timarensis",
     "SpecCode": "68229",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

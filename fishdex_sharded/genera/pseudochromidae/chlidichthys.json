@@ -65,7 +65,7 @@
   {
     "ScientificName": "Chlidichthys inornatus",
     "SpecCode": "25683",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Chlidichthys randalli",
     "SpecCode": "57848",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Chlidichthys smithae",
     "SpecCode": "57847",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

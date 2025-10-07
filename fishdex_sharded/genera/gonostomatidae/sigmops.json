@@ -38,7 +38,7 @@
   {
     "ScientificName": "Sigmops longipinnis",
     "SpecCode": "55093",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Samariscus hexaradiatus",
     "SpecCode": "69382",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Samariscus leopardus",
     "SpecCode": "65646",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Samariscus multiradiatus",
     "SpecCode": "63682",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

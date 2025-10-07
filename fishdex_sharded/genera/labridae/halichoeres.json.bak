@@ -1,0 +1,742 @@
+[
+  {
+    "ScientificName": "Halichoeres adustus",
+    "SpecCode": "13837",
+    "CommonName": "Black wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres aestuaricola",
+    "SpecCode": "13838",
+    "CommonName": "Donzelle des mangroves",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres argus",
+    "SpecCode": "4857",
+    "CommonName": "Argus wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres bathyphilus",
+    "SpecCode": "3659",
+    "CommonName": "Doncella cintaverde",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres bicolor",
+    "SpecCode": "53816",
+    "CommonName": "Earmuff wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres binotopsis",
+    "SpecCode": "12789",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres biocellatus",
+    "SpecCode": "5627",
+    "CommonName": "Biocellate wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres bivittatus",
+    "SpecCode": "3660",
+    "CommonName": "Budião",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres bleekeri",
+    "SpecCode": "59648",
+    "CommonName": "Honbera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres brasiliensis",
+    "SpecCode": "61031",
+    "CommonName": "Bodião brasileiro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres brownfieldi",
+    "SpecCode": "59633",
+    "CommonName": "Brownfields wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres burekae",
+    "SpecCode": "63950",
+    "CommonName": "Mardi Gras wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres caudalis",
+    "SpecCode": "3661",
+    "CommonName": "Doncella pintada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres chierchiae",
+    "SpecCode": "13839",
+    "CommonName": "Donzelle blissée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres chlorocephalus",
+    "SpecCode": "58178",
+    "CommonName": "Greenhead wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres chloropterus",
+    "SpecCode": "4859",
+    "CommonName": "Bagondon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres chrysotaenia",
+    "SpecCode": "25690",
+    "CommonName": "Blaustreifen-Regenbogenfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres chrysus",
+    "SpecCode": "4855",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres claudia",
+    "SpecCode": "65073",
+    "CommonName": "Claudia's wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres cosmetus",
+    "SpecCode": "25372",
+    "CommonName": "Adorned wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres cyanocephalus",
+    "SpecCode": "3662",
+    "CommonName": "Batata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres dimidiatus",
+    "SpecCode": "62268",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres discolor",
+    "SpecCode": "46582",
+    "CommonName": "Cocos wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres dispilus",
+    "SpecCode": "8208",
+    "CommonName": "Chameleon wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres erdmanni",
+    "SpecCode": "65779",
+    "CommonName": "Erdmann's wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres garnoti",
+    "SpecCode": "3663",
+    "CommonName": "Doncella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres gurrobyi",
+    "SpecCode": "69215",
+    "CommonName": "Blacksaddle wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres hartzfeldii",
+    "SpecCode": "5628",
+    "CommonName": "Bagundun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres hilomeni",
+    "SpecCode": "65800",
+    "CommonName": "Hilomen's wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres hortulanus",
+    "SpecCode": "12663",
+    "CommonName": "Arc en ciel jaune",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres inornatus",
+    "SpecCode": "59642",
+    "CommonName": "Cape wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres insularis",
+    "SpecCode": "13843",
+    "CommonName": "Doncella socorro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres iridis",
+    "SpecCode": "12790",
+    "CommonName": "Rainbow wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres kallochroma",
+    "SpecCode": "59463",
+    "CommonName": "Pink-snout wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres kneri",
+    "SpecCode": "68982",
+    "CommonName": "Kner's wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres lapillus",
+    "SpecCode": "8021",
+    "CommonName": "Girelle à petits cailloux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres leptotaenia",
+    "SpecCode": "26864",
+    "CommonName": "細紋海豬魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres leucoxanthus",
+    "SpecCode": "7806",
+    "CommonName": "Canarytop wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres leucurus",
+    "SpecCode": "56811",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres maculipinna",
+    "SpecCode": "3664",
+    "CommonName": "Budião",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres malpelo",
+    "SpecCode": "13844",
+    "CommonName": "Doncella malpelo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres margaritaceus",
+    "SpecCode": "5630",
+    "CommonName": "Akanijibera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres marginatus",
+    "SpecCode": "5631",
+    "CommonName": "Arinai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres melanochir",
+    "SpecCode": "6929",
+    "CommonName": "Angol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres melanotis",
+    "SpecCode": "13845",
+    "CommonName": "Doncella dorada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres melanurus",
+    "SpecCode": "4858",
+    "CommonName": "Alle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres melas",
+    "SpecCode": "26866",
+    "CommonName": "黑身海猪鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres melasmapomus",
+    "SpecCode": "4856",
+    "CommonName": "Blackear wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres miniatus",
+    "SpecCode": "6614",
+    "CommonName": "Buntugon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres nebulosus",
+    "SpecCode": "6663",
+    "CommonName": "Cloud wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres nicholsi",
+    "SpecCode": "13846",
+    "CommonName": "Donzelle vierge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres nigrescens",
+    "SpecCode": "58179",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres notospilus",
+    "SpecCode": "8330",
+    "CommonName": "Banded wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres orientalis",
+    "SpecCode": "54320",
+    "CommonName": "Tsukibera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres ornatissimus",
+    "SpecCode": "6664",
+    "CommonName": "drividrivi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres pallidus",
+    "SpecCode": "56789",
+    "CommonName": "Babi wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres papilionaceus",
+    "SpecCode": "56813",
+    "CommonName": "Schwatz's wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres pardaleocephalus",
+    "SpecCode": "58180",
+    "CommonName": "Lineblotch wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres pelicieri",
+    "SpecCode": "25838",
+    "CommonName": "Girelle à bande jaune",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres penrosei",
+    "SpecCode": "62269",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres pictus",
+    "SpecCode": "3665",
+    "CommonName": "Doncella arcoiris",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres podostigma",
+    "SpecCode": "4861",
+    "CommonName": "Axil spot wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres poeyi",
+    "SpecCode": "3666",
+    "CommonName": "Bindalo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres prosopeion",
+    "SpecCode": "4862",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres radiatus",
+    "SpecCode": "1068",
+    "CommonName": "Alaya",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres richmondi",
+    "SpecCode": "5632",
+    "CommonName": "Bagundun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres rubricephalus",
+    "SpecCode": "58181",
+    "CommonName": "Redhead wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres rubrovirens",
+    "SpecCode": "65545",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres salmofasciatus",
+    "SpecCode": "60811",
+    "CommonName": "Red-striped wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres sazimai",
+    "SpecCode": "64977",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres scapularis",
+    "SpecCode": "5633",
+    "CommonName": "Bagondon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres semicinctus",
+    "SpecCode": "3667",
+    "CommonName": "Donzelle de roche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres signifer",
+    "SpecCode": "26865",
+    "CommonName": "阿曼海猪鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres socialis",
+    "SpecCode": "60288",
+    "CommonName": "Social wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres solorensis",
+    "SpecCode": "11622",
+    "CommonName": "Green wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres stigmaticus",
+    "SpecCode": "46373",
+    "CommonName": "U-spot wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres tenuispinis",
+    "SpecCode": "6930",
+    "CommonName": "Chinese Wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres timorensis",
+    "SpecCode": "4860",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres trimaculatus",
+    "SpecCode": "5634",
+    "CommonName": "Alle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres trispilus",
+    "SpecCode": "25689",
+    "CommonName": "Girelle trois points",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres zeylonicus",
+    "SpecCode": "13050",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halichoeres zulu",
+    "SpecCode": "65401",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

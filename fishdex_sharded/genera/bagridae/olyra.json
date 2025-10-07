@@ -2,7 +2,7 @@
   {
     "ScientificName": "Olyra astrifera",
     "SpecCode": "67182",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Olyra collettii",
     "SpecCode": "47775",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Olyra saginata",
     "SpecCode": "67769",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

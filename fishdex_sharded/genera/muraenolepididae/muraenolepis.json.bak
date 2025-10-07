@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Muraenolepis andriashevi",
+    "SpecCode": "63132",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenolepis evseenkoi",
+    "SpecCode": "65768",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenolepis kuderskii",
+    "SpecCode": "64234",
+    "CommonName": "Kudersky parketnik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenolepis marmorata",
+    "SpecCode": "7124",
+    "CommonName": "Gadimorana jaspeada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenolepis microps",
+    "SpecCode": "7126",
+    "CommonName": "Gadimorena ojichica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenolepis orangiensis",
+    "SpecCode": "7127",
+    "CommonName": "Gadimorena patagónica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenolepis pacifica",
+    "SpecCode": "64574",
+    "CommonName": "Southern Pacific moray cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Muraenolepis trunovi",
+    "SpecCode": "63089",
+    "CommonName": "Trunov parketnik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

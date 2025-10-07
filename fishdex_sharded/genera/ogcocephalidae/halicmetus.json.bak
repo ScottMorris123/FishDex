@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Halicmetus niger",
+    "SpecCode": "65344",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicmetus odysseus",
+    "SpecCode": "69526",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicmetus reticulatus",
+    "SpecCode": "7605",
+    "CommonName": "Amime fûryû uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Halicmetus ruber",
+    "SpecCode": "8085",
+    "CommonName": "aka-fûryû-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

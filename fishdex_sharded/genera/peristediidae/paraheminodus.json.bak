@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Paraheminodus kamoharai",
+    "SpecCode": "65020",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraheminodus laticephalus",
+    "SpecCode": "24039",
+    "CommonName": "Kôtôkihôbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraheminodus longirostralis",
+    "SpecCode": "64738",
+    "CommonName": "Armored searobin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paraheminodus murrayi",
+    "SpecCode": "15235",
+    "CommonName": "Hanabirokihôbô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

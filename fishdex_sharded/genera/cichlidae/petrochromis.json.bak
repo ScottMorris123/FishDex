@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Petrochromis ephippium",
+    "SpecCode": "8808",
+    "CommonName": "夢岩麗魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrochromis famula",
+    "SpecCode": "8802",
+    "CommonName": "Ruskokivikkohautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrochromis fasciolatus",
+    "SpecCode": "8803",
+    "CommonName": "Gebänderter Petrochromis-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrochromis horii",
+    "SpecCode": "67519",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrochromis macrognathus",
+    "SpecCode": "8804",
+    "CommonName": "Huulikivikkohautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrochromis orthognathus",
+    "SpecCode": "8805",
+    "CommonName": "Ruostekivikkohautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrochromis polyodon",
+    "SpecCode": "8806",
+    "CommonName": "Häijykivikkohautoja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrochromis trewavasae",
+    "SpecCode": "8807",
+    "CommonName": "Filament-finned petrochromis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

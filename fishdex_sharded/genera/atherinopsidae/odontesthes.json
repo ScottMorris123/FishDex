@@ -33,7 +33,7 @@
   {
     "ScientificName": "Odontesthes brevianalis",
     "SpecCode": "54643",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -42,7 +42,7 @@
   {
     "ScientificName": "Odontesthes gracilis",
     "SpecCode": "54645",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -80,7 +80,7 @@
   {
     "ScientificName": "Odontesthes ledae",
     "SpecCode": "60390",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -90,7 +90,7 @@
   {
     "ScientificName": "Odontesthes mauleanum",
     "SpecCode": "50716",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Odontesthes orientalis",
     "SpecCode": "54640",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Odontesthes piquava",
     "SpecCode": "60388",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -186,7 +186,7 @@
   {
     "ScientificName": "Odontesthes wiebrichi",
     "SpecCode": "54646",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Loricariichthys brunneus",
     "SpecCode": "63642",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Loricariichthys derbyi",
     "SpecCode": "50673",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Loricariichthys edentatus",
     "SpecCode": "58315",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Loricariichthys melanocheilus",
     "SpecCode": "58316",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Loricariichthys rostratus",
     "SpecCode": "58317",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

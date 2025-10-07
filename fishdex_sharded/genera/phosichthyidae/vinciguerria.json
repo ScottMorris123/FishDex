@@ -20,7 +20,7 @@
   {
     "ScientificName": "Vinciguerria mabahiss",
     "SpecCode": "59879",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

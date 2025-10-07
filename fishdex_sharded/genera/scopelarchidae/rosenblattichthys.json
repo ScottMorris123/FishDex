@@ -20,7 +20,7 @@
   {
     "ScientificName": "Rosenblattichthys nemotoi",
     "SpecCode": "56836",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

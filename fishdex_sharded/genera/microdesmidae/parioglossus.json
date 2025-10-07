@@ -40,7 +40,7 @@
   {
     "ScientificName": "Parioglossus galzini",
     "SpecCode": "62032",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -175,7 +175,7 @@
   {
     "ScientificName": "Parioglossus triquetrus",
     "SpecCode": "27328",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],
@@ -193,7 +193,7 @@
   {
     "ScientificName": "Parioglossus winterbottomi",
     "SpecCode": "65435",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

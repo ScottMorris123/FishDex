@@ -47,7 +47,7 @@
   {
     "ScientificName": "Linophryne bicornis",
     "SpecCode": "63334",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Linophryne bipennata",
     "SpecCode": "59123",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Linophryne escaramosa",
     "SpecCode": "60830",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Linophryne sexfilis",
     "SpecCode": "57252",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Linophryne trewavasae",
     "SpecCode": "59124",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

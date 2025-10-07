@@ -38,7 +38,7 @@
   {
     "ScientificName": "Pseudoplesiops occidentalis",
     "SpecCode": "61089",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

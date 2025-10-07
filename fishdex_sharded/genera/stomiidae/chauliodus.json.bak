@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Chauliodus barbatus",
+    "SpecCode": "55080",
+    "CommonName": "须蝰鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chauliodus danae",
+    "SpecCode": "11712",
+    "CommonName": "Dana hiidsuu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chauliodus dentatus",
+    "SpecCode": "59117",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chauliodus macouni",
+    "SpecCode": "2714",
+    "CommonName": "Fanged viperfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chauliodus minimus",
+    "SpecCode": "11714",
+    "CommonName": "長牙蝰魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chauliodus pammelas",
+    "SpecCode": "47132",
+    "CommonName": "黑魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chauliodus schmidti",
+    "SpecCode": "5480",
+    "CommonName": "施氏蝰魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chauliodus sloani",
+    "SpecCode": "1786",
+    "CommonName": "Baniera imperiale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chauliodus vasnetzovi",
+    "SpecCode": "55094",
+    "CommonName": "瓦氏魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

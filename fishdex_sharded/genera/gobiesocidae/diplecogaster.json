@@ -20,7 +20,7 @@
   {
     "ScientificName": "Diplecogaster euxinica",
     "SpecCode": "67915",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Diplecogaster umutturali",
     "SpecCode": "69213",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

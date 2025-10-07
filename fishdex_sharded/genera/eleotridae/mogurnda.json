@@ -20,7 +20,7 @@
   {
     "ScientificName": "Mogurnda arguni",
     "SpecCode": "68028",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Mogurnda kaifayama",
     "SpecCode": "58197",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Mogurnda kaimana",
     "SpecCode": "68029",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Mogurnda mbuta",
     "SpecCode": "58196",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Mogurnda wapoga",
     "SpecCode": "61534",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

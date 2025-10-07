@@ -31,7 +31,7 @@
   {
     "ScientificName": "Gobionellus munizi",
     "SpecCode": "57928",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

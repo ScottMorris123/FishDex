@@ -2,7 +2,7 @@
   {
     "ScientificName": "Satyrichthys clavilapis",
     "SpecCode": "59165",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Satyrichthys longiceps",
     "SpecCode": "27471",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

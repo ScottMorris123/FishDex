@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pagetodes antarcticus",
+    "SpecCode": "7111",
+    "CommonName": "Long-fingered icefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagetodes atkinsoni",
+    "SpecCode": "60586",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pagetodes pappenheimi",
+    "SpecCode": "52687",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

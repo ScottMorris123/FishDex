@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Lepidiolamprologus attenuatus",
+    "SpecCode": "8626",
+    "CommonName": "Einfleck-Tanganjikasee-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidiolamprologus boulengeri",
+    "SpecCode": "8650",
+    "CommonName": "Boulengers Schneckenbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidiolamprologus elongatus",
+    "SpecCode": "8628",
+    "CommonName": "Helmiluola-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidiolamprologus hecqui",
+    "SpecCode": "8669",
+    "CommonName": "Hecqs Tanganjikasee-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidiolamprologus kamambae",
+    "SpecCode": "66707",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidiolamprologus kendalli",
+    "SpecCode": "8629",
+    "CommonName": "Kendalls Tanganjikasee-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidiolamprologus meeli",
+    "SpecCode": "8673",
+    "CommonName": "Täpläkotiloahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidiolamprologus mimicus",
+    "SpecCode": "64225",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidiolamprologus profundicola",
+    "SpecCode": "8631",
+    "CommonName": "Ruskoluola-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidiolamprologus variostigma",
+    "SpecCode": "60405",
+    "CommonName": "Hohtoluola-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -29,7 +29,7 @@
   {
     "ScientificName": "Lasiancistrus saetiger",
     "SpecCode": "62700",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Lasiancistrus tentaculatus",
     "SpecCode": "62699",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

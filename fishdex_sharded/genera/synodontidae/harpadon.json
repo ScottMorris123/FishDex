@@ -20,7 +20,7 @@
   {
     "ScientificName": "Harpadon mortenseni",
     "SpecCode": "69866",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Harpadon nudus",
     "SpecCode": "69864",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -48,7 +48,7 @@
   {
     "ScientificName": "Harpadon squamosus",
     "SpecCode": "61057",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

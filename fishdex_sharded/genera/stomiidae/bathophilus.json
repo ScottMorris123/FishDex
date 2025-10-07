@@ -11,7 +11,7 @@
   {
     "ScientificName": "Bathophilus altipinnis",
     "SpecCode": "58264",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Bathophilus cwyanorum",
     "SpecCode": "70453",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Bathophilus novicki",
     "SpecCode": "70454",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Bathophilus proximus",
     "SpecCode": "61150",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

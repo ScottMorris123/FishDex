@@ -11,7 +11,7 @@
   {
     "ScientificName": "Oryzias bonneorum",
     "SpecCode": "64835",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -68,7 +68,7 @@
   {
     "ScientificName": "Oryzias hadiatyae",
     "SpecCode": "65776",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -161,7 +161,7 @@
   {
     "ScientificName": "Oryzias melastigma",
     "SpecCode": "64642",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -262,7 +262,7 @@
   {
     "ScientificName": "Oryzias soerotoi",
     "SpecCode": "67765",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -271,7 +271,7 @@
   {
     "ScientificName": "Oryzias songkhramensis",
     "SpecCode": "65577",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -280,7 +280,7 @@
   {
     "ScientificName": "Oryzias timorensis",
     "SpecCode": "49578",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -307,7 +307,7 @@
   {
     "ScientificName": "Oryzias woworae",
     "SpecCode": "65542",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

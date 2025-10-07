@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Nimbapanchax jeanpoli",
+    "SpecCode": "9747",
+    "CommonName": "Jeanpol's killi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nimbapanchax maeseni",
+    "SpecCode": "2470",
+    "CommonName": "Maeseni-Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nimbapanchax melanopterygius",
+    "SpecCode": "65176",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nimbapanchax petersi",
+    "SpecCode": "2471",
+    "CommonName": "Peters Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nimbapanchax viridis",
+    "SpecCode": "9800",
+    "CommonName": "Grüner Prachtkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

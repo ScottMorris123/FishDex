@@ -47,7 +47,7 @@
   {
     "ScientificName": "Kathetostoma fluviatilis",
     "SpecCode": "61206",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

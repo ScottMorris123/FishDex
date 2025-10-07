@@ -48,7 +48,7 @@
   {
     "ScientificName": "Myoxocephalus ochotensis",
     "SpecCode": "61298",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -135,7 +135,7 @@
   {
     "ScientificName": "Myoxocephalus tuberculatus",
     "SpecCode": "61294",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -144,7 +144,7 @@
   {
     "ScientificName": "Myoxocephalus yesoensis",
     "SpecCode": "61299",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

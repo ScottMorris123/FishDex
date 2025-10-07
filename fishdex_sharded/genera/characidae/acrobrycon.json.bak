@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Acrobrycon ipanquianus",
+    "SpecCode": "51078",
+    "CommonName": "Mojara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrobrycon ortii",
+    "SpecCode": "67891",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acrobrycon starnesi",
+    "SpecCode": "67890",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

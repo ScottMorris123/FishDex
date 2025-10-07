@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pyrolycus manusanus",
     "SpecCode": "59415",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Pyrolycus moelleri",
     "SpecCode": "64616",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

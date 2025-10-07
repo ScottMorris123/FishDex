@@ -1,0 +1,227 @@
+[
+  {
+    "ScientificName": "Malacoctenus africanus",
+    "SpecCode": "22684",
+    "CommonName": "非洲軟梳鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus aurolineatus",
+    "SpecCode": "3736",
+    "CommonName": "Blénido dorado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus boehlkei",
+    "SpecCode": "16476",
+    "CommonName": "Diamond blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus brunoi",
+    "SpecCode": "65751",
+    "CommonName": "Macaquinho de Trindade",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus carrowi",
+    "SpecCode": "67642",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus costaricanus",
+    "SpecCode": "54355",
+    "CommonName": "哥斯达黎加软梳鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus delalandii",
+    "SpecCode": "27899",
+    "CommonName": "Brazilian blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus ebisui",
+    "SpecCode": "46665",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus erdmani",
+    "SpecCode": "16478",
+    "CommonName": "Imitator blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus gigas",
+    "SpecCode": "46670",
+    "CommonName": "Blenia de Sonora",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus gilli",
+    "SpecCode": "16559",
+    "CommonName": "Blénido de limo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus hubbsi",
+    "SpecCode": "46741",
+    "CommonName": "Blenia roja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus lianae",
+    "SpecCode": "69493",
+    "CommonName": "Macaquinho de Noronha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus macropus",
+    "SpecCode": "3737",
+    "CommonName": "Blénido sonrosado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus margaritae",
+    "SpecCode": "46739",
+    "CommonName": "Blenia margarita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus mexicanus",
+    "SpecCode": "66067",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus polyporosus",
+    "SpecCode": "66066",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus sudensis",
+    "SpecCode": "66068",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus tetranemus",
+    "SpecCode": "25522",
+    "CommonName": "Blenia moteada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus triangulatus",
+    "SpecCode": "3738",
+    "CommonName": "Blénido triangulado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus versicolor",
+    "SpecCode": "16570",
+    "CommonName": "Barfin blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus zacae",
+    "SpecCode": "46674",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus zaluari",
+    "SpecCode": "69494",
+    "CommonName": "Macaquinho ferrugem",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus zonifer",
+    "SpecCode": "46679",
+    "CommonName": "Blenia brillante",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malacoctenus zonogaster",
+    "SpecCode": "25529",
+    "CommonName": "Belted blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

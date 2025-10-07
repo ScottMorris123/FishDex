@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Chascanopsetta crumenalis",
+    "SpecCode": "24580",
+    "CommonName": "Harilik pelikanlest",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chascanopsetta danae",
+    "SpecCode": "69151",
+    "CommonName": "Angry pelican flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chascanopsetta elski",
+    "SpecCode": "58964",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chascanopsetta kenyaensis",
+    "SpecCode": "58966",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chascanopsetta lugubris",
+    "SpecCode": "1323",
+    "CommonName": "Areeiro pelicano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chascanopsetta megagnatha",
+    "SpecCode": "59543",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chascanopsetta micrognatha",
+    "SpecCode": "24356",
+    "CommonName": "Dapang bilog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chascanopsetta novaeguineae",
+    "SpecCode": "69682",
+    "CommonName": "New Guinean pelican flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chascanopsetta prognatha",
+    "SpecCode": "24227",
+    "CommonName": "Ukeguchi-zaragarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chascanopsetta prorigera",
+    "SpecCode": "24561",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

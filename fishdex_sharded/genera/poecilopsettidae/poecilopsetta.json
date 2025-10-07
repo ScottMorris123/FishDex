@@ -29,7 +29,7 @@
   {
     "ScientificName": "Poecilopsetta dorsialta",
     "SpecCode": "59208",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Poecilopsetta inermis",
     "SpecCode": "49185",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Poecilopsetta multiradiata",
     "SpecCode": "65478",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Poecilopsetta pectoralis",
     "SpecCode": "63403",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Poecilopsetta vaynei",
     "SpecCode": "58869",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Sunagocia omanensis",
     "SpecCode": "69084",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

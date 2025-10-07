@@ -119,7 +119,7 @@
   {
     "ScientificName": "Aequidens superomaculatum",
     "SpecCode": "69064",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

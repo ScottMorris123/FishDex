@@ -47,7 +47,7 @@
   {
     "ScientificName": "Parabathymyrus philippinensis",
     "SpecCode": "68419",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

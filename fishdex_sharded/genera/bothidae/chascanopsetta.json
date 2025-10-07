@@ -20,7 +20,7 @@
   {
     "ScientificName": "Chascanopsetta elski",
     "SpecCode": "58964",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Chascanopsetta kenyaensis",
     "SpecCode": "58966",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Chascanopsetta megagnatha",
     "SpecCode": "59543",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Chascanopsetta prorigera",
     "SpecCode": "24561",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

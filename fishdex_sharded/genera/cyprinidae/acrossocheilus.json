@@ -131,7 +131,7 @@
   {
     "ScientificName": "Acrossocheilus microstoma",
     "SpecCode": "67450",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -149,7 +149,7 @@
   {
     "ScientificName": "Acrossocheilus multistriatus",
     "SpecCode": "67584",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

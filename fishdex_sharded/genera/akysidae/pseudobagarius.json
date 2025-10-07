@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pseudobagarius filifer",
     "SpecCode": "62566",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Pseudobagarius hardmani",
     "SpecCode": "62448",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Pseudobagarius inermis",
     "SpecCode": "57782",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Pseudobagarius meridionalis",
     "SpecCode": "62046",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Pseudobagarius nitidus",
     "SpecCode": "62567",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

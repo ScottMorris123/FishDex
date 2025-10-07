@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Tyrannochromis macrostoma",
+    "SpecCode": "2138",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyrannochromis maculiceps",
+    "SpecCode": "2140",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyrannochromis nigriventer",
+    "SpecCode": "2141",
+    "CommonName": "Juovahirmuahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyrannochromis polyodon",
+    "SpecCode": "2139",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

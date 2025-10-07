@@ -29,7 +29,7 @@
   {
     "ScientificName": "Xanthichthys lima",
     "SpecCode": "62159",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

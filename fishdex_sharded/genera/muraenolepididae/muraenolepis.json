@@ -2,7 +2,7 @@
   {
     "ScientificName": "Muraenolepis andriashevi",
     "SpecCode": "63132",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Muraenolepis evseenkoi",
     "SpecCode": "65768",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

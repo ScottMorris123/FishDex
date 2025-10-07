@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Opsariichthys bea",
+    "SpecCode": "61699",
+    "CommonName": "Lami sälkmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys bidens",
+    "SpecCode": "27264",
+    "CommonName": "Ahmattibarbi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys dienbienensis",
+    "SpecCode": "61912",
+    "CommonName": "Loodevietnami sälkmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys duchuunguyeni",
+    "SpecCode": "67553",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys evolans",
+    "SpecCode": "64819",
+    "CommonName": "Tiibuim-sälkmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys hainanensis",
+    "SpecCode": "65238",
+    "CommonName": "Hainani sälkmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys hieni",
+    "SpecCode": "65219",
+    "CommonName": "Hiêni sälkmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys kaopingensis",
+    "SpecCode": "65031",
+    "CommonName": "Gaopingi sälkmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys macrolepis",
+    "SpecCode": "69533",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys minutus",
+    "SpecCode": "67555",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys pachycephalus",
+    "SpecCode": "17305",
+    "CommonName": "Pakspea-sälkmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys songmaensis",
+    "SpecCode": "62458",
+    "CommonName": "Mã sälkmokk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opsariichthys uncirostris",
+    "SpecCode": "22928",
+    "CommonName": "Amur three-lips",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

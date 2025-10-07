@@ -38,7 +38,7 @@
   {
     "ScientificName": "Holcomycteronus pterotus",
     "SpecCode": "56347",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Holcomycteronus squamosus",
     "SpecCode": "46286",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

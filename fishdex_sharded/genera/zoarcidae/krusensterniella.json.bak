@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Krusensterniella maculata",
+    "SpecCode": "23811",
+    "CommonName": "Ai-haregaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Krusensterniella multispinosa",
+    "SpecCode": "23809",
+    "CommonName": "Togegenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Krusensterniella notabilis",
+    "SpecCode": "23810",
+    "CommonName": "Haregaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Krusensterniella pavlovskii",
+    "SpecCode": "47888",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

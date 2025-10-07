@@ -22,7 +22,7 @@
   {
     "ScientificName": "Apionichthys menezesi",
     "SpecCode": "62028",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -40,7 +40,7 @@
   {
     "ScientificName": "Apionichthys rosai",
     "SpecCode": "62027",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -49,7 +49,7 @@
   {
     "ScientificName": "Apionichthys sauli",
     "SpecCode": "62030",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -58,7 +58,7 @@
   {
     "ScientificName": "Apionichthys seripierriae",
     "SpecCode": "62029",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

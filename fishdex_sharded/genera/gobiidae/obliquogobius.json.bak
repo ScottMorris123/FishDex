@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Obliquogobius bathyalis",
+    "SpecCode": "70214",
+    "CommonName": "New Caledonian deep-water goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Obliquogobius cirrifer",
+    "SpecCode": "63892",
+    "CommonName": "Ito chihiro-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Obliquogobius cometes",
+    "SpecCode": "61316",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Obliquogobius fulvostriatus",
+    "SpecCode": "67392",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Obliquogobius megalops",
+    "SpecCode": "63893",
+    "CommonName": "O'ome chihiro-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Obliquogobius turkayi",
+    "SpecCode": "56466",
+    "CommonName": "特氏歪鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Obliquogobius yamadai",
+    "SpecCode": "63894",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

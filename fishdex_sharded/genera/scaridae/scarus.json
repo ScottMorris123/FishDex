@@ -38,7 +38,7 @@
   {
     "ScientificName": "Scarus chinensis",
     "SpecCode": "60439",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -194,7 +194,7 @@
   {
     "ScientificName": "Scarus gracilis",
     "SpecCode": "60441",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

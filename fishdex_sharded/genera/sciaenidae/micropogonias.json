@@ -22,7 +22,7 @@
   {
     "ScientificName": "Micropogonias fasciatus",
     "SpecCode": "61347",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

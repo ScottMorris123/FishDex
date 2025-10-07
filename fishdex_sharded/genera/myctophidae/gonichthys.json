@@ -29,7 +29,7 @@
   {
     "ScientificName": "Gonichthys venetus",
     "SpecCode": "54865",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

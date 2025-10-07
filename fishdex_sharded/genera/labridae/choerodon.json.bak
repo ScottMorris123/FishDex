@@ -1,0 +1,254 @@
+[
+  {
+    "ScientificName": "Choerodon anchorago",
+    "SpecCode": "5502",
+    "CommonName": "Anchor trunkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon aurulentus",
+    "SpecCode": "68616",
+    "CommonName": "Gilded tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon azurio",
+    "SpecCode": "49409",
+    "CommonName": "Azurio tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon cauteroma",
+    "SpecCode": "59634",
+    "CommonName": "Bluespotted tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon cephalotes",
+    "SpecCode": "10848",
+    "CommonName": "Grass parrot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon cyanodus",
+    "SpecCode": "12934",
+    "CommonName": "Blue groper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon cypselurus",
+    "SpecCode": "68622",
+    "CommonName": "Swallowtail tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon fasciatus",
+    "SpecCode": "12722",
+    "CommonName": "Harlekinfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon frenatus",
+    "SpecCode": "59644",
+    "CommonName": "Bridled tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon gomoni",
+    "SpecCode": "60807",
+    "CommonName": "Gomon's tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon graphicus",
+    "SpecCode": "8128",
+    "CommonName": "Graphic tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon gymnogenys",
+    "SpecCode": "23519",
+    "CommonName": "Iramokodi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon japonicus",
+    "SpecCode": "68618",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon jordani",
+    "SpecCode": "6597",
+    "CommonName": "Dagger tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon margaritiferus",
+    "SpecCode": "58165",
+    "CommonName": "Pearly tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon melanostigma",
+    "SpecCode": "51741",
+    "CommonName": "大斑猪齿鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon monostigma",
+    "SpecCode": "6615",
+    "CommonName": "Darkspot tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon oligacanthus",
+    "SpecCode": "8406",
+    "CommonName": "Arawas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon paynei",
+    "SpecCode": "59635",
+    "CommonName": "Payne's tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon robustus",
+    "SpecCode": "6926",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon rubescens",
+    "SpecCode": "25756",
+    "CommonName": "Baldchin groper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon schoenleinii",
+    "SpecCode": "6433",
+    "CommonName": "Bagondon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon skaiopygmaeus",
+    "SpecCode": "68620",
+    "CommonName": "Western pygmy tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon sugillatum",
+    "SpecCode": "59636",
+    "CommonName": "Wedgetail tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon venustus",
+    "SpecCode": "12935",
+    "CommonName": "Blue parrot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon vitta",
+    "SpecCode": "10853",
+    "CommonName": "Black-stripe tuskfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon zamboangae",
+    "SpecCode": "10548",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Choerodon zosterophorus",
+    "SpecCode": "51738",
+    "CommonName": "Arawas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "ScientificName": "Taeniamia ataenia",
+    "SpecCode": "59462",
+    "CommonName": "Barless cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia biguttata",
+    "SpecCode": "5775",
+    "CommonName": "Blackspot cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia bilineata",
+    "SpecCode": "58158",
+    "CommonName": "双线长鳍天竺鲷",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia buruensis",
+    "SpecCode": "27484",
+    "CommonName": "Buru cardinalfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia flavofasciata",
+    "SpecCode": "62300",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia fucata",
+    "SpecCode": "5776",
+    "CommonName": "Apogon à stries oranges",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia kagoshimana",
+    "SpecCode": "67636",
+    "CommonName": "Sumitsuki-atohiki-tenjikudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia leai",
+    "SpecCode": "12627",
+    "CommonName": "Lea's cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia lineolata",
+    "SpecCode": "7854",
+    "CommonName": "Atohikitenjikudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia macroptera",
+    "SpecCode": "59188",
+    "CommonName": "Dusky-tailed cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia melasma",
+    "SpecCode": "67372",
+    "CommonName": "Blackspot cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia mozambiquensis",
+    "SpecCode": "23656",
+    "CommonName": "Mosambiekse kardinaal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia pallida",
+    "SpecCode": "27315",
+    "CommonName": "Pale cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Taeniamia zosterophora",
+    "SpecCode": "5777",
+    "CommonName": "Bagsang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

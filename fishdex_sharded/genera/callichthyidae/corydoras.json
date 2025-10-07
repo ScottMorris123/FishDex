@@ -281,7 +281,7 @@
   {
     "ScientificName": "Corydoras brittoi",
     "SpecCode": "70127",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -551,7 +551,7 @@
   {
     "ScientificName": "Corydoras froehlichi",
     "SpecCode": "70262",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -695,7 +695,7 @@
   {
     "ScientificName": "Corydoras hephaestus",
     "SpecCode": "70005",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1136,7 +1136,7 @@
   {
     "ScientificName": "Corydoras pavanelliae",
     "SpecCode": "70128",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1523,7 +1523,7 @@
   {
     "ScientificName": "Corydoras zawadzkii",
     "SpecCode": "70130",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

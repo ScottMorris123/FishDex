@@ -2,7 +2,7 @@
   {
     "ScientificName": "Peter amicuscaridis",
     "SpecCode": "64717",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Peter wirtzi",
     "SpecCode": "64718",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

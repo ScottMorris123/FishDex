@@ -197,7 +197,7 @@
   {
     "ScientificName": "Pomadasys ramosus",
     "SpecCode": "64824",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

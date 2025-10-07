@@ -2,7 +2,7 @@
   {
     "ScientificName": "Artediellus aporosus",
     "SpecCode": "61292",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Artediellus ingens",
     "SpecCode": "61285",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

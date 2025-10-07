@@ -2,7 +2,7 @@
   {
     "ScientificName": "Kryptopterus baramensis",
     "SpecCode": "59736",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -129,7 +129,7 @@
   {
     "ScientificName": "Kryptopterus paraschilbeides",
     "SpecCode": "62299",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -138,7 +138,7 @@
   {
     "ScientificName": "Kryptopterus piperatus",
     "SpecCode": "62006",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

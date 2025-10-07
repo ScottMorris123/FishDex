@@ -247,7 +247,7 @@
   {
     "ScientificName": "Synchiropus orientalis",
     "SpecCode": "61609",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

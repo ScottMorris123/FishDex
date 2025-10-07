@@ -13,7 +13,7 @@
   {
     "ScientificName": "Cottus altaicus",
     "SpecCode": "67062",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -116,7 +116,7 @@
   {
     "ScientificName": "Cottus chattahoochee",
     "SpecCode": "64192",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -144,7 +144,7 @@
   {
     "ScientificName": "Cottus cyclophthalmus",
     "SpecCode": "70291",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -171,7 +171,7 @@
   {
     "ScientificName": "Cottus dzungaricus",
     "SpecCode": "63081",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -217,7 +217,7 @@
   {
     "ScientificName": "Cottus gratzianowi",
     "SpecCode": "68160",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -300,7 +300,7 @@
   {
     "ScientificName": "Cottus kanawhae",
     "SpecCode": "62135",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -329,7 +329,7 @@
   {
     "ScientificName": "Cottus kolymensis",
     "SpecCode": "67061",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -338,7 +338,7 @@
   {
     "ScientificName": "Cottus koreanus",
     "SpecCode": "62497",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -356,7 +356,7 @@
   {
     "ScientificName": "Cottus kuznetzovi",
     "SpecCode": "67063",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -528,7 +528,7 @@
   {
     "ScientificName": "Cottus sabaudicus",
     "SpecCode": "64990",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -573,7 +573,7 @@
   {
     "ScientificName": "Cottus szanaga",
     "SpecCode": "63082",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -582,7 +582,7 @@
   {
     "ScientificName": "Cottus tallapoosae",
     "SpecCode": "64191",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

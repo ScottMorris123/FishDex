@@ -11,7 +11,7 @@
   {
     "ScientificName": "Farlowella altocorpus",
     "SpecCode": "63504",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Farlowella gianetii",
     "SpecCode": "69975",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Farlowella mitoupibo",
     "SpecCode": "70003",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Farlowella wuyjugu",
     "SpecCode": "70057",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Farlowella yarigui",
     "SpecCode": "67586",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

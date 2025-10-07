@@ -1,0 +1,776 @@
+[
+  {
+    "ScientificName": "Leporinus acutidens",
+    "SpecCode": "28194",
+    "CommonName": "Araçau",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus affinis",
+    "SpecCode": "25646",
+    "CommonName": "Araçu flamenco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus agassizii",
+    "SpecCode": "53285",
+    "CommonName": "Agassiz' mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus alternus",
+    "SpecCode": "53286",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus altipinnis",
+    "SpecCode": "53262",
+    "CommonName": "Smalstribet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus amae",
+    "SpecCode": "58474",
+    "CommonName": "Boca-de-moça",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus amazonicus",
+    "SpecCode": "64101",
+    "CommonName": "Amazonmudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus amblyrhynchus",
+    "SpecCode": "52566",
+    "CommonName": "Chimbore",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus apollo",
+    "SpecCode": "66041",
+    "CommonName": "Apollo-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus arcus",
+    "SpecCode": "12328",
+    "CommonName": "Læbemudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus arimaspi",
+    "SpecCode": "67700",
+    "CommonName": "Midtplettet muddelaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus aripuanaensis",
+    "SpecCode": "52567",
+    "CommonName": "Torpedo-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus badueli",
+    "SpecCode": "61631",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus bahiensis",
+    "SpecCode": "50909",
+    "CommonName": "Kardinal-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus bimaculatus",
+    "SpecCode": "58475",
+    "CommonName": "Toplettet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus bistriatus",
+    "SpecCode": "60315",
+    "CommonName": "Tostribet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus bleheri",
+    "SpecCode": "58194",
+    "CommonName": "Grønflods mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus boehlkei",
+    "SpecCode": "52568",
+    "CommonName": "Meta-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus britskii",
+    "SpecCode": "66365",
+    "CommonName": "Jamanxim-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus brunneus",
+    "SpecCode": "52631",
+    "CommonName": "Rødfinnet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus cylindriformis",
+    "SpecCode": "53290",
+    "CommonName": "Rørmudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus desmotes",
+    "SpecCode": "27664",
+    "CommonName": "Kärsäseisojatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus ecuadorensis",
+    "SpecCode": "14162",
+    "CommonName": "Ecuador-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus enyae",
+    "SpecCode": "69354",
+    "CommonName": "Nibåndet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus fasciatus",
+    "SpecCode": "5352",
+    "CommonName": "Aracu amarelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus friderici",
+    "SpecCode": "12330",
+    "CommonName": "Acaru paca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus geminis",
+    "SpecCode": "64924",
+    "CommonName": "Buetandet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus gomesi",
+    "SpecCode": "52570",
+    "CommonName": "Aripuana-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus gossei",
+    "SpecCode": "27840",
+    "CommonName": "Carpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus granti",
+    "SpecCode": "27848",
+    "CommonName": "Abonkia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus guttatus",
+    "SpecCode": "64947",
+    "CommonName": "Curua-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus holostictus",
+    "SpecCode": "51323",
+    "CommonName": "Lisa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus jamesi",
+    "SpecCode": "58477",
+    "CommonName": "Manacapuru-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus jatuncochi",
+    "SpecCode": "53261",
+    "CommonName": "Napo-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus klausewitzi",
+    "SpecCode": "53292",
+    "CommonName": "Stiplet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus lacustris",
+    "SpecCode": "52573",
+    "CommonName": "Piava de lagoa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus lebaili",
+    "SpecCode": "27847",
+    "CommonName": "Karp-blé",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus leschenaulti",
+    "SpecCode": "53294",
+    "CommonName": "Rødkantet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus maculatus",
+    "SpecCode": "12331",
+    "CommonName": "Araçu pinima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus marcgravii",
+    "SpecCode": "58478",
+    "CommonName": "Piau",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus melanopleura",
+    "SpecCode": "12332",
+    "CommonName": "Blødende mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus melanopleurodes",
+    "SpecCode": "66870",
+    "CommonName": "Haleplettet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus melanostictus",
+    "SpecCode": "27838",
+    "CommonName": "Araçu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus microphthalmus",
+    "SpecCode": "52575",
+    "CommonName": "Cirkelplettet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus microphysus",
+    "SpecCode": "70178",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus moralesi",
+    "SpecCode": "51325",
+    "CommonName": "Aracu autã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus multifasciatus",
+    "SpecCode": "51326",
+    "CommonName": "Lisa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus multimaculatus",
+    "SpecCode": "68780",
+    "CommonName": "Mangeplettet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus nattereri",
+    "SpecCode": "53745",
+    "CommonName": "Tefe-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus niceforoi",
+    "SpecCode": "53746",
+    "CommonName": "Halvbåndet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus nigrotaeniatus",
+    "SpecCode": "12333",
+    "CommonName": "Biri biri",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus nijsseni",
+    "SpecCode": "27849",
+    "CommonName": "Karp-rouj",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus octofasciatus",
+    "SpecCode": "27665",
+    "CommonName": "Araçau pinima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus octomaculatus",
+    "SpecCode": "52576",
+    "CommonName": "Olieplettet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus ortomaculatus",
+    "SpecCode": "56963",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus pachyurus",
+    "SpecCode": "61629",
+    "CommonName": "Mysteriemudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus parae",
+    "SpecCode": "58479",
+    "CommonName": "Para-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus paralternus",
+    "SpecCode": "53297",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus paranensis",
+    "SpecCode": "52579",
+    "CommonName": "Parana-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus parvulus",
+    "SpecCode": "67129",
+    "CommonName": "Smal mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus pearsoni",
+    "SpecCode": "14172",
+    "CommonName": "Pearsons mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus pellegrinii",
+    "SpecCode": "27666",
+    "CommonName": "Läikkäseisojatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus piau",
+    "SpecCode": "58480",
+    "CommonName": "Piau gordura",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus pitingai",
+    "SpecCode": "60312",
+    "CommonName": "Pitinga-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus platycephalus",
+    "SpecCode": "62845",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus punctatus",
+    "SpecCode": "56965",
+    "CommonName": "Mato-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus reticulatus",
+    "SpecCode": "52581",
+    "CommonName": "Mønstret mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus santosi",
+    "SpecCode": "66857",
+    "CommonName": "Sortskællet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus sexstriatus",
+    "SpecCode": "52582",
+    "CommonName": "Seksstribet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus spilopleura",
+    "SpecCode": "61472",
+    "CommonName": "Oyapock-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus steyermarki",
+    "SpecCode": "53301",
+    "CommonName": "Grauer Leporinus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus striatus",
+    "SpecCode": "51328",
+    "CommonName": "Boga estriada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus subniger",
+    "SpecCode": "53303",
+    "CommonName": "Florencia-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus taeniatus",
+    "SpecCode": "53304",
+    "CommonName": "Bredstribet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus taeniofasciatus",
+    "SpecCode": "60313",
+    "CommonName": "Hvidbuget mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus tigrinus",
+    "SpecCode": "56940",
+    "CommonName": "Tigerstribet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus torrenticola",
+    "SpecCode": "68781",
+    "CommonName": "Strømmudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus trimaculatus",
+    "SpecCode": "52583",
+    "CommonName": "Treplettet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus tristriatus",
+    "SpecCode": "70179",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus uatumaensis",
+    "SpecCode": "60311",
+    "CommonName": "Uatuma-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus unitaeniatus",
+    "SpecCode": "64923",
+    "CommonName": "Enkeltstribet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus vanzoi",
+    "SpecCode": "64495",
+    "CommonName": "Tapajos-mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus venerei",
+    "SpecCode": "63699",
+    "CommonName": "Grænsemudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus villasboasorum",
+    "SpecCode": "69353",
+    "CommonName": "Gulsømmet mudderlaks",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus wolfei",
+    "SpecCode": "51329",
+    "CommonName": "Lisa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leporinus y-ophorus",
+    "SpecCode": "51331",
+    "CommonName": "Lisa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

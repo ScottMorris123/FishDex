@@ -11,7 +11,7 @@
   {
     "ScientificName": "Benitochromis conjunctus",
     "SpecCode": "60333",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Benitochromis nigrodorsalis",
     "SpecCode": "59597",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Benitochromis ufermanni",
     "SpecCode": "60334",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

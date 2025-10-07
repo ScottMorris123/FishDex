@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Verilus anomalus",
+    "SpecCode": "14356",
+    "CommonName": "Flathead feed",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Verilus atlanticus",
+    "SpecCode": "56759",
+    "CommonName": "大西洋新鯥",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Verilus costai",
+    "SpecCode": "69228",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Verilus cynodon",
+    "SpecCode": "23664",
+    "CommonName": "Donker spleetvin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Verilus pacificus",
+    "SpecCode": "23391",
+    "CommonName": "Bakemutsu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Verilus pseudomicrolepis",
+    "SpecCode": "59756",
+    "CommonName": "拟小鳞尖牙鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Verilus sordidus",
+    "SpecCode": "7545",
+    "CommonName": "Berregüello",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Verilus starnesi",
+    "SpecCode": "69386",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

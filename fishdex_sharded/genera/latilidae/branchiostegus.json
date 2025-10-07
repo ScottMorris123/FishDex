@@ -92,7 +92,7 @@
   {
     "ScientificName": "Branchiostegus saitoi",
     "SpecCode": "66509",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

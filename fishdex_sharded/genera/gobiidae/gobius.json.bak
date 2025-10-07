@@ -1,0 +1,283 @@
+[
+  {
+    "ScientificName": "Gobius ater",
+    "SpecCode": "46332",
+    "CommonName": "Bellotijev glavoč",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius ateriformis",
+    "SpecCode": "58273",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius auratus",
+    "SpecCode": "4902",
+    "CommonName": "Babka złocista",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius bontii",
+    "SpecCode": "11660",
+    "CommonName": "Occasional-shrimp goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius bucchichi",
+    "SpecCode": "46334",
+    "CommonName": "Anemonengrundel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius cobitis",
+    "SpecCode": "4579",
+    "CommonName": "Burdullak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius couchi",
+    "SpecCode": "9201",
+    "CommonName": "Couch-Grundel",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius cruentatus",
+    "SpecCode": "7648",
+    "CommonName": "Blutmund-Grundel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius fallax",
+    "SpecCode": "16287",
+    "CommonName": "Bledi glavaè",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius gasteveni",
+    "SpecCode": "7660",
+    "CommonName": "Gobie de Steven",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius geniporus",
+    "SpecCode": "16289",
+    "CommonName": "Burdullak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius hypselosoma",
+    "SpecCode": "9959",
+    "CommonName": "高体鰕虎鱼",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius incognitus",
+    "SpecCode": "68001",
+    "CommonName": "Gobie méconnu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius kolombatovici",
+    "SpecCode": "57793",
+    "CommonName": "Ghiozzo di Kolombatović",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius koseirensis",
+    "SpecCode": "61336",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius leucomelas",
+    "SpecCode": "61337",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius niger",
+    "SpecCode": "72",
+    "CommonName": "Abu-kirsh",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius ophiocephalus",
+    "SpecCode": "13018",
+    "CommonName": "Babka wężogłowa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius paganellus",
+    "SpecCode": "73",
+    "CommonName": "Alcaboz",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius roulei",
+    "SpecCode": "46335",
+    "CommonName": "Ghiozzo di Roulei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius rubropunctatus",
+    "SpecCode": "22761",
+    "CommonName": "紅斑鰕虎魚",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius salamansa",
+    "SpecCode": "68634",
+    "CommonName": "Gobie de Salamansa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius scorteccii",
+    "SpecCode": "9962",
+    "CommonName": "斯氏鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius senegambiensis",
+    "SpecCode": "22765",
+    "CommonName": "塞內加爾鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius strictus",
+    "SpecCode": "16290",
+    "CommonName": "Ghiozzo di Schmidt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius tetrophthalmus",
+    "SpecCode": "58274",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius tropicus",
+    "SpecCode": "63781",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius vittatus",
+    "SpecCode": "46337",
+    "CommonName": "Çizgili kayabalığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius xanthocephalus",
+    "SpecCode": "56307",
+    "CommonName": "Gelbkopf-Grundel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobius xoriguer",
+    "SpecCode": "69383",
+    "CommonName": "Cabot xoriguer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

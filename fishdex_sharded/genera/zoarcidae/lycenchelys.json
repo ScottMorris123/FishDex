@@ -146,7 +146,7 @@
   {
     "ScientificName": "Lycenchelys fedorovi",
     "SpecCode": "57896",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Lycenchelys imamurai",
     "SpecCode": "64611",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -317,7 +317,7 @@
   {
     "ScientificName": "Lycenchelys novaezealandiae",
     "SpecCode": "64612",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Lycenchelys polyodon",
     "SpecCode": "64613",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

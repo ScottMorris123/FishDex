@@ -1,0 +1,157 @@
+[
+  {
+    "ScientificName": "Bregmaceros anchovia",
+    "SpecCode": "69832",
+    "CommonName": "False anchovy codlet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros arabicus",
+    "SpecCode": "23168",
+    "CommonName": "Indo-saiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros atlanticus",
+    "SpecCode": "3100",
+    "CommonName": "Antenna codlet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros bathymaster",
+    "SpecCode": "54789",
+    "CommonName": "Bacalao de antena",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros cantori",
+    "SpecCode": "56859",
+    "CommonName": "Bacalete rayado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros cayorum",
+    "SpecCode": "65067",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros houdei",
+    "SpecCode": "59321",
+    "CommonName": "Stellate codlet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros japonicus",
+    "SpecCode": "24833",
+    "CommonName": "Cá Tuyết tê giác Nhật bản",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros lanceolatus",
+    "SpecCode": "13130",
+    "CommonName": "尖尾犀鱈",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros mcclellandi",
+    "SpecCode": "8421",
+    "CommonName": "Bregmacère de l'océan Indien",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros moseri",
+    "SpecCode": "70556",
+    "CommonName": "Gyre codlet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros nectabanus",
+    "SpecCode": "8422",
+    "CommonName": "Australian codlet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros neonectabanus",
+    "SpecCode": "56834",
+    "CommonName": "Kurohara-saiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros pescadorus",
+    "SpecCode": "54159",
+    "CommonName": "澎湖犀鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros pseudolanceolatus",
+    "SpecCode": "63524",
+    "CommonName": "False lance codlet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros rarisquamosus",
+    "SpecCode": "24904",
+    "CommonName": "Bigeye codlet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bregmaceros retrodorsalis",
+    "SpecCode": "70364",
+    "CommonName": "Back-fin codlet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

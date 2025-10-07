@@ -119,7 +119,7 @@
   {
     "ScientificName": "Nemacheilus inglisi",
     "SpecCode": "63200",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Nemacheilus jaklesii",
     "SpecCode": "66412",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Nemacheilus kaimurensis",
     "SpecCode": "60649",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

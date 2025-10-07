@@ -2,7 +2,7 @@
   {
     "ScientificName": "Modicus minimus",
     "SpecCode": "49282",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Modicus tangaroa",
     "SpecCode": "49283",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

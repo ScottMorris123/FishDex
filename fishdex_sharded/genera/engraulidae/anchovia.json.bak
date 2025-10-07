@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Anchovia clupeoides",
+    "SpecCode": "543",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchovia landivarensis",
+    "SpecCode": "70467",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchovia macrolepidota",
+    "SpecCode": "544",
+    "CommonName": "Anchoa ancha",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anchovia surinamensis",
+    "SpecCode": "546",
+    "CommonName": "Anchoa",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

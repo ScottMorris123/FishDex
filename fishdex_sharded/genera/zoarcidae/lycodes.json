@@ -11,7 +11,7 @@
   {
     "ScientificName": "Lycodes akuugun",
     "SpecCode": "62972",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Lycodes bathybius",
     "SpecCode": "61679",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -174,7 +174,7 @@
   {
     "ScientificName": "Lycodes hubbsi",
     "SpecCode": "61693",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -444,7 +444,7 @@
   {
     "ScientificName": "Lycodes schmidti",
     "SpecCode": "48263",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,123 @@
+[
+  {
+    "ScientificName": "Kuhlia caudavittata",
+    "SpecCode": "9905",
+    "CommonName": "Doule à queue rayée",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia malo",
+    "SpecCode": "60749",
+    "CommonName": "Nato",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia marginata",
+    "SpecCode": "5789",
+    "CommonName": "Aholehole",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia mugil",
+    "SpecCode": "5790",
+    "CommonName": "Aholehole rabo rayado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia munda",
+    "SpecCode": "14917",
+    "CommonName": "Flagtail",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia nutabunda",
+    "SpecCode": "55302",
+    "CommonName": "Māhore",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia petiti",
+    "SpecCode": "60750",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia rupestris",
+    "SpecCode": "7715",
+    "CommonName": "Aholehole",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia salelea",
+    "SpecCode": "60751",
+    "CommonName": "Salele",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia sandvicensis",
+    "SpecCode": "5157",
+    "CommonName": "Ahole",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia sauvagii",
+    "SpecCode": "66265",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kuhlia xenura",
+    "SpecCode": "60748",
+    "CommonName": "Āholehole",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Glossanodon danieli",
     "SpecCode": "60524",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Glossanodon elongatus",
     "SpecCode": "52835",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Glossanodon melanomanus",
     "SpecCode": "52833",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Glossanodon mildredae",
     "SpecCode": "60521",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Glossanodon nazca",
     "SpecCode": "60523",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

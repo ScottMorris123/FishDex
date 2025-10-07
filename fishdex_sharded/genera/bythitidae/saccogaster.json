@@ -2,7 +2,7 @@
   {
     "ScientificName": "Saccogaster brayae",
     "SpecCode": "67449",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Saccogaster hawaii",
     "SpecCode": "56393",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Saccogaster horrida",
     "SpecCode": "67444",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Saccogaster nikoliviae",
     "SpecCode": "67445",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Saccogaster parva",
     "SpecCode": "56397",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

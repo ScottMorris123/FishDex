@@ -47,7 +47,7 @@
   {
     "ScientificName": "Nanochromis teugelsi",
     "SpecCode": "63000",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Nanochromis wickleri",
     "SpecCode": "62863",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

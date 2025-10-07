@@ -2,7 +2,7 @@
   {
     "ScientificName": "Conocara bertelseni",
     "SpecCode": "60306",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Conocara paxtoni",
     "SpecCode": "65647",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

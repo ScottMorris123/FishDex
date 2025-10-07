@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pterois brevipectoralis",
     "SpecCode": "61174",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

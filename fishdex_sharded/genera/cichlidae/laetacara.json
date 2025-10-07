@@ -2,7 +2,7 @@
   {
     "ScientificName": "Laetacara araguaiae",
     "SpecCode": "64940",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Laetacara flamannellus",
     "SpecCode": "66945",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Laetacara fulvipinnis",
     "SpecCode": "63488",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Clariger chionomaculatus",
+    "SpecCode": "56143",
+    "CommonName": "Awayuki-sejiro-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clariger cosmurus",
+    "SpecCode": "23707",
+    "CommonName": "Sejirohaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clariger exilis",
+    "SpecCode": "23708",
+    "CommonName": "Shimofuri-sejirohaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clariger papillosus",
+    "SpecCode": "23709",
+    "CommonName": "Hige-sejirohaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clariger sirahamaensis",
+    "SpecCode": "66962",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clariger taiwanensis",
+    "SpecCode": "66960",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

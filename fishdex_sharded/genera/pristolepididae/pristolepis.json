@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pristolepis malabarica",
     "SpecCode": "68512",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Pristolepis pauciradiata",
     "SpecCode": "68416",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Pristolepis procerus",
     "SpecCode": "68511",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Pristolepis rubripinnis",
     "SpecCode": "66807",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Metzia alba",
+    "SpecCode": "65345",
+    "CommonName": "Valge rõksviidik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Metzia bounthobi",
+    "SpecCode": "66950",
+    "CommonName": "Bounthobi rõksviidik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Metzia formosae",
+    "SpecCode": "60269",
+    "CommonName": "Lammi-rõksviidik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Metzia hautus",
+    "SpecCode": "61248",
+    "CommonName": "Kýlnatka vietnamská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Metzia lineata",
+    "SpecCode": "17288",
+    "CommonName": "Kýlnatka páskovaná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Metzia longinasus",
+    "SpecCode": "64858",
+    "CommonName": "Nina-rõksviidik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Metzia mesembrinum",
+    "SpecCode": "59800",
+    "CommonName": "Hořavka tajvanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Metzia parva",
+    "SpecCode": "68080",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

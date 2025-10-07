@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Ancharius fuscus",
+    "SpecCode": "9645",
+    "CommonName": "Ruskomadagaskarinmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancharius griseus",
+    "SpecCode": "62541",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

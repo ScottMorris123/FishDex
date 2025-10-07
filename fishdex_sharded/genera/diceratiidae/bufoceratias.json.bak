@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Bufoceratias microcephalus",
+    "SpecCode": "70235",
+    "CommonName": "small-head toady seadevil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bufoceratias shaoi",
+    "SpecCode": "61616",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bufoceratias thele",
+    "SpecCode": "58985",
+    "CommonName": "后棘蟾鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bufoceratias wedli",
+    "SpecCode": "10181",
+    "CommonName": "背鞭蟾鮟鱇",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Oxycheilinus arenatus",
+    "SpecCode": "5595",
+    "CommonName": "Arenatus wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxycheilinus bimaculatus",
+    "SpecCode": "5596",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxycheilinus celebicus",
+    "SpecCode": "5597",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxycheilinus digramma",
+    "SpecCode": "5599",
+    "CommonName": "Balaki",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxycheilinus lineatus",
+    "SpecCode": "63450",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxycheilinus mentalis",
+    "SpecCode": "12779",
+    "CommonName": "Mental wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxycheilinus nigromarginatus",
+    "SpecCode": "62614",
+    "CommonName": "Blackmargin maori wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxycheilinus orientalis",
+    "SpecCode": "5601",
+    "CommonName": "Buntogon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxycheilinus samurai",
+    "SpecCode": "69180",
+    "CommonName": "Black-tip Maori-wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxycheilinus unifasciatus",
+    "SpecCode": "5605",
+    "CommonName": "Arawa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

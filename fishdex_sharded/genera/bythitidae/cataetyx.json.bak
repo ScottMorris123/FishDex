@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Cataetyx alleni",
+    "SpecCode": "8177",
+    "CommonName": "Abrivat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx bruuni",
+    "SpecCode": "8998",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx chthamalorhynchus",
+    "SpecCode": "16795",
+    "CommonName": "近地低蛇鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx hawaiiensis",
+    "SpecCode": "56419",
+    "CommonName": "夏威夷低蛇鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx laticeps",
+    "SpecCode": "10248",
+    "CommonName": "Abrivat de cap pla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx lepidogenys",
+    "SpecCode": "7601",
+    "CommonName": "Fusa itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx messieri",
+    "SpecCode": "51199",
+    "CommonName": "Patagonia-itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx nielseni",
+    "SpecCode": "63336",
+    "CommonName": "Nielsen's catetyx",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx platyrhynchus",
+    "SpecCode": "23240",
+    "CommonName": "Ô-soko-itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx rubrirostris",
+    "SpecCode": "56420",
+    "CommonName": "Punanina-oganirk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cataetyx simus",
+    "SpecCode": "55192",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

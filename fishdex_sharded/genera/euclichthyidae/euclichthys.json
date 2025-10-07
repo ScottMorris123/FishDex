@@ -2,7 +2,7 @@
   {
     "ScientificName": "Euclichthys microdorsalis",
     "SpecCode": "69229",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Euclichthys robertsi",
     "SpecCode": "69230",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

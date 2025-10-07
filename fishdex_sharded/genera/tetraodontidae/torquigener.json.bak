@@ -1,0 +1,195 @@
+[
+  {
+    "ScientificName": "Torquigener albomaculosus",
+    "SpecCode": "67499",
+    "CommonName": "Amami-hoshizora-fugu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener altipinnis",
+    "SpecCode": "27516",
+    "CommonName": "Highfin toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener andersonae",
+    "SpecCode": "52450",
+    "CommonName": "Anderson's toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener balteus",
+    "SpecCode": "26420",
+    "CommonName": "Slank blaasop",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener brevipinnis",
+    "SpecCode": "10569",
+    "CommonName": "Yellow-stripe toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener flavimaculosus",
+    "SpecCode": "26639",
+    "CommonName": "Cüce balon balığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener florealis",
+    "SpecCode": "46420",
+    "CommonName": "Floral puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener gloerfelti",
+    "SpecCode": "55061",
+    "CommonName": "南海窄額魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener hicksi",
+    "SpecCode": "10555",
+    "CommonName": "Buntal-kodok rintik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener hypselogeneion",
+    "SpecCode": "8307",
+    "CommonName": "Buntal-kodok jingga",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener marleyi",
+    "SpecCode": "66624",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener pallimaculatus",
+    "SpecCode": "11218",
+    "CommonName": "Buntal-kodok tompok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener parcuspinus",
+    "SpecCode": "10557",
+    "CommonName": "Buntal-kodok spina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener paxtoni",
+    "SpecCode": "55068",
+    "CommonName": "帕氏窄額魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener perlevis",
+    "SpecCode": "52449",
+    "CommonName": "Spineless toadfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener pleurogramma",
+    "SpecCode": "14571",
+    "CommonName": "Banded toadfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener randalli",
+    "SpecCode": "46421",
+    "CommonName": "Randall's puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener squamicauda",
+    "SpecCode": "52448",
+    "CommonName": "Brushtail toadfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener tuberculiferus",
+    "SpecCode": "12963",
+    "CommonName": "Buntal-kodok badut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener vicinus",
+    "SpecCode": "55067",
+    "CommonName": "Orangespotted puffer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Torquigener whitleyi",
+    "SpecCode": "11684",
+    "CommonName": "Whitley's toadfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

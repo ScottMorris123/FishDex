@@ -92,7 +92,7 @@
   {
     "ScientificName": "Porichthys oculofrenum",
     "SpecCode": "53551",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

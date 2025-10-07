@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pogonopoma obscurum",
+    "SpecCode": "59742",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pogonopoma parahybae",
+    "SpecCode": "48866",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pogonopoma wertheimeri",
+    "SpecCode": "48842",
+    "CommonName": "Satahammaspleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

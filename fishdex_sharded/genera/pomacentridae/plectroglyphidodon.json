@@ -110,7 +110,7 @@
   {
     "ScientificName": "Plectroglyphidodon luteobrunneus",
     "SpecCode": "69646",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Plectroglyphidodon marginatus",
     "SpecCode": "69647",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Plectroglyphidodon sagmarius",
     "SpecCode": "55481",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

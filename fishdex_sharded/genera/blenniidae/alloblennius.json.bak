@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Alloblennius anuchalis",
+    "SpecCode": "52390",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alloblennius frondiculus",
+    "SpecCode": "66456",
+    "CommonName": "Leaf blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alloblennius jugularis",
+    "SpecCode": "6046",
+    "CommonName": "Jugular blenny",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alloblennius parvus",
+    "SpecCode": "16940",
+    "CommonName": "Dwarf blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alloblennius pictus",
+    "SpecCode": "52391",
+    "CommonName": "着色异鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Astroblepus acostai",
     "SpecCode": "68434",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Astroblepus ardiladuartei",
     "SpecCode": "68429",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Astroblepus ardilai",
     "SpecCode": "67469",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Astroblepus bellezaensis",
     "SpecCode": "68427",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Astroblepus brachycephalus",
     "SpecCode": "57068",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Astroblepus cacharas",
     "SpecCode": "66229",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Astroblepus cajamarcaensis",
     "SpecCode": "70170",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Astroblepus chimborazoi",
     "SpecCode": "57825",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Astroblepus chinchaoensis",
     "SpecCode": "69318",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Astroblepus cirratus",
     "SpecCode": "57069",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Astroblepus curitiensis",
     "SpecCode": "70165",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Astroblepus eigenmanni",
     "SpecCode": "57070",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Astroblepus floridablancaensis",
     "SpecCode": "70171",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Astroblepus floridaensis",
     "SpecCode": "70168",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Astroblepus hidalgoi",
     "SpecCode": "70167",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Astroblepus huallagaensis",
     "SpecCode": "70169",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Astroblepus itae",
     "SpecCode": "68433",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Astroblepus jimenezae",
     "SpecCode": "67985",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Astroblepus jurubidae",
     "SpecCode": "57077",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -353,7 +353,7 @@
   {
     "ScientificName": "Astroblepus martinezi",
     "SpecCode": "67986",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -362,7 +362,7 @@
   {
     "ScientificName": "Astroblepus mendezi",
     "SpecCode": "69321",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -389,7 +389,7 @@
   {
     "ScientificName": "Astroblepus mojicai",
     "SpecCode": "68428",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Astroblepus moyanensis",
     "SpecCode": "69319",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -407,7 +407,7 @@
   {
     "ScientificName": "Astroblepus nettoferreirai",
     "SpecCode": "68430",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -425,7 +425,7 @@
   {
     "ScientificName": "Astroblepus onzagaensis",
     "SpecCode": "70166",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -443,7 +443,7 @@
   {
     "ScientificName": "Astroblepus ortegai",
     "SpecCode": "68435",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -488,7 +488,7 @@
   {
     "ScientificName": "Astroblepus pradai",
     "SpecCode": "70164",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -506,7 +506,7 @@
   {
     "ScientificName": "Astroblepus prenadillus",
     "SpecCode": "53705",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -515,7 +515,7 @@
   {
     "ScientificName": "Astroblepus putumayoensis",
     "SpecCode": "68431",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -524,7 +524,7 @@
   {
     "ScientificName": "Astroblepus quispei",
     "SpecCode": "68436",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -533,7 +533,7 @@
   {
     "ScientificName": "Astroblepus regani",
     "SpecCode": "57072",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -569,7 +569,7 @@
   {
     "ScientificName": "Astroblepus rivasae",
     "SpecCode": "70172",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -596,7 +596,7 @@
   {
     "ScientificName": "Astroblepus santanderensis",
     "SpecCode": "57076",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -641,7 +641,7 @@
   {
     "ScientificName": "Astroblepus tamboensis",
     "SpecCode": "69317",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -704,7 +704,7 @@
   {
     "ScientificName": "Astroblepus ventralis",
     "SpecCode": "57081",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -713,7 +713,7 @@
   {
     "ScientificName": "Astroblepus verai",
     "SpecCode": "70163",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -722,7 +722,7 @@
   {
     "ScientificName": "Astroblepus whymperi",
     "SpecCode": "57075",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

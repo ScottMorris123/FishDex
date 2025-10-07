@@ -2,7 +2,7 @@
   {
     "ScientificName": "Poromitra agafonovae",
     "SpecCode": "65389",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Poromitra atlantica",
     "SpecCode": "65388",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Poromitra coronata",
     "SpecCode": "65386",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Poromitra curilensis",
     "SpecCode": "65377",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Poromitra decipiens",
     "SpecCode": "65376",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Poromitra frontosa",
     "SpecCode": "65384",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Poromitra gibbsi",
     "SpecCode": "59572",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Poromitra glochidiata",
     "SpecCode": "65379",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Poromitra indooceanica",
     "SpecCode": "65378",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Poromitra jucunda",
     "SpecCode": "65485",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Poromitra kukuevi",
     "SpecCode": "65380",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Poromitra nigriceps",
     "SpecCode": "65385",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Poromitra nigrofulva",
     "SpecCode": "65383",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Poromitra rugosa",
     "SpecCode": "65387",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

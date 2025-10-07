@@ -47,7 +47,7 @@
   {
     "ScientificName": "Micropterus floridanus",
     "SpecCode": "62256",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -74,7 +74,7 @@
   {
     "ScientificName": "Scorpaenopsis eschmeyeri",
     "SpecCode": "62945",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Scorpaenopsis longispina",
     "SpecCode": "59496",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -165,7 +165,7 @@
   {
     "ScientificName": "Scorpaenopsis orientalis",
     "SpecCode": "59498",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -193,7 +193,7 @@
   {
     "ScientificName": "Scorpaenopsis pluralis",
     "SpecCode": "59499",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -211,7 +211,7 @@
   {
     "ScientificName": "Scorpaenopsis pusilla",
     "SpecCode": "59501",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -229,7 +229,7 @@
   {
     "ScientificName": "Scorpaenopsis rubrimarginata",
     "SpecCode": "67587",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

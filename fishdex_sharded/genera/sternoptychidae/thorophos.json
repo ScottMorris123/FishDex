@@ -11,7 +11,7 @@
   {
     "ScientificName": "Thorophos nexilis",
     "SpecCode": "59115",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

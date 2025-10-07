@@ -20,7 +20,7 @@
   {
     "ScientificName": "Diceratias trilobus",
     "SpecCode": "60686",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

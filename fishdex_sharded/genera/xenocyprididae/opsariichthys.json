@@ -29,7 +29,7 @@
   {
     "ScientificName": "Opsariichthys duchuunguyeni",
     "SpecCode": "67553",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Opsariichthys macrolepis",
     "SpecCode": "69533",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Opsariichthys minutus",
     "SpecCode": "67555",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

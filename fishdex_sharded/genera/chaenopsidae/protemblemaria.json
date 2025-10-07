@@ -11,7 +11,7 @@
   {
     "ScientificName": "Protemblemaria perla",
     "SpecCode": "60578",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Protemblemaria punctata",
     "SpecCode": "27908",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

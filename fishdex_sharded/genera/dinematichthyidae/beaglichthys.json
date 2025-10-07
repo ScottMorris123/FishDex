@@ -11,7 +11,7 @@
   {
     "ScientificName": "Beaglichthys larsonae",
     "SpecCode": "64507",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

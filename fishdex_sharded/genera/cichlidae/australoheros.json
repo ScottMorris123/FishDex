@@ -2,7 +2,7 @@
   {
     "ScientificName": "Australoheros acaroides",
     "SpecCode": "65803",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -12,7 +12,7 @@
   {
     "ScientificName": "Australoheros angiru",
     "SpecCode": "66224",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -21,7 +21,7 @@
   {
     "ScientificName": "Australoheros autochthon",
     "SpecCode": "68179",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -30,7 +30,7 @@
   {
     "ScientificName": "Australoheros autrani",
     "SpecCode": "64764",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Australoheros barbosae",
     "SpecCode": "64765",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -48,7 +48,7 @@
   {
     "ScientificName": "Australoheros capixaba",
     "SpecCode": "65513",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -57,7 +57,7 @@
   {
     "ScientificName": "Australoheros charrua",
     "SpecCode": "63664",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -75,7 +75,7 @@
   {
     "ScientificName": "Australoheros forquilha",
     "SpecCode": "63663",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Australoheros guarani",
     "SpecCode": "63666",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -93,7 +93,7 @@
   {
     "ScientificName": "Australoheros ipatinguensis",
     "SpecCode": "64766",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Australoheros kaaygua",
     "SpecCode": "63097",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Australoheros macacuensis",
     "SpecCode": "64767",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -120,7 +120,7 @@
   {
     "ScientificName": "Australoheros macaensis",
     "SpecCode": "64772",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -129,7 +129,7 @@
   {
     "ScientificName": "Australoheros mattosi",
     "SpecCode": "66501",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -138,7 +138,7 @@
   {
     "ScientificName": "Australoheros minuano",
     "SpecCode": "63665",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -147,7 +147,7 @@
   {
     "ScientificName": "Australoheros montanus",
     "SpecCode": "66502",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -156,7 +156,7 @@
   {
     "ScientificName": "Australoheros muriae",
     "SpecCode": "64773",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -165,7 +165,7 @@
   {
     "ScientificName": "Australoheros paraibae",
     "SpecCode": "64775",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -174,7 +174,7 @@
   {
     "ScientificName": "Australoheros perdi",
     "SpecCode": "66160",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -183,7 +183,7 @@
   {
     "ScientificName": "Australoheros ribeirae",
     "SpecCode": "63857",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -192,7 +192,7 @@
   {
     "ScientificName": "Australoheros robustus",
     "SpecCode": "64776",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -201,7 +201,7 @@
   {
     "ScientificName": "Australoheros sanguineus",
     "SpecCode": "67169",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -210,7 +210,7 @@
   {
     "ScientificName": "Australoheros saquarema",
     "SpecCode": "64777",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -219,7 +219,7 @@
   {
     "ScientificName": "Australoheros scitulus",
     "SpecCode": "61660",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -228,7 +228,7 @@
   {
     "ScientificName": "Australoheros taura",
     "SpecCode": "65043",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -237,7 +237,7 @@
   {
     "ScientificName": "Australoheros tavaresi",
     "SpecCode": "66503",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -255,7 +255,7 @@
   {
     "ScientificName": "Australoheros ykeregua",
     "SpecCode": "66225",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

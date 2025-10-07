@@ -263,7 +263,7 @@
   {
     "ScientificName": "Coryphaenoides gypsochilus",
     "SpecCode": "59963",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Coryphaenoides microstomus",
     "SpecCode": "58849",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

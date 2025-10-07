@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Histiophryne bougainvilli",
+    "SpecCode": "24733",
+    "CommonName": "Bougainvilles anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Histiophryne cryptacanthus",
+    "SpecCode": "14043",
+    "CommonName": "Cryptic anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Histiophryne maggiewalker",
+    "SpecCode": "66154",
+    "CommonName": "Queensland frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Histiophryne pogonia",
+    "SpecCode": "66569",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Histiophryne psychedelica",
+    "SpecCode": "64877",
+    "CommonName": "Psychedelic frogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

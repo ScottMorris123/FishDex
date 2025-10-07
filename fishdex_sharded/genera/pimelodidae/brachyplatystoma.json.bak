@@ -1,0 +1,67 @@
+[
+  {
+    "ScientificName": "Brachyplatystoma capapretum",
+    "SpecCode": "62217",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyplatystoma filamentosum",
+    "SpecCode": "6420",
+    "CommonName": "Axakwan",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyplatystoma juruense",
+    "SpecCode": "12114",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyplatystoma platynema",
+    "SpecCode": "12116",
+    "CommonName": "Babão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyplatystoma rousseauxii",
+    "SpecCode": "58421",
+    "CommonName": "Bagre dorado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyplatystoma tigrinum",
+    "SpecCode": "12118",
+    "CommonName": "Seepralapamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachyplatystoma vaillantii",
+    "SpecCode": "7555",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

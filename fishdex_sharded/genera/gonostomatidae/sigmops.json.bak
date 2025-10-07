@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Sigmops bathyphilus",
+    "SpecCode": "11659",
+    "CommonName": "Bristlemouth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sigmops ebelingi",
+    "SpecCode": "27408",
+    "CommonName": "Ebeling's fangjaw",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sigmops elongatus",
+    "SpecCode": "7383",
+    "CommonName": "Bristlemouth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sigmops gracilis",
+    "SpecCode": "22719",
+    "CommonName": "Slender fangjaw",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sigmops longipinnis",
+    "SpecCode": "55093",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

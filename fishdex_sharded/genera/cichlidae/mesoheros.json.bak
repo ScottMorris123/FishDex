@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Mesoheros atromaculatus",
+    "SpecCode": "47120",
+    "CommonName": "Mustatäpläkirjoahven",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesoheros festae",
+    "SpecCode": "12308",
+    "CommonName": "Festae",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesoheros gephyrus",
+    "SpecCode": "47065",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesoheros ornatus",
+    "SpecCode": "47064",
+    "CommonName": "Esmeralda-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

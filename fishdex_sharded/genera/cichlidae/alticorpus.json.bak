@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Alticorpus geoffreyi",
+    "SpecCode": "62418",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticorpus macrocleithrum",
+    "SpecCode": "2191",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticorpus mentale",
+    "SpecCode": "2192",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticorpus peterdaviesi",
+    "SpecCode": "2194",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alticorpus profundicola",
+    "SpecCode": "2193",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

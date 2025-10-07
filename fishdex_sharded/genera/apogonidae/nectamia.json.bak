@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Nectamia annularis",
+    "SpecCode": "56240",
+    "CommonName": "Ringtail cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nectamia bandanensis",
+    "SpecCode": "5763",
+    "CommonName": "Banda cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nectamia fusca",
+    "SpecCode": "59777",
+    "CommonName": "Dangat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nectamia ignitops",
+    "SpecCode": "63749",
+    "CommonName": "Fire-eye cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nectamia luxuria",
+    "SpecCode": "63750",
+    "CommonName": "Multi-barred cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nectamia savayensis",
+    "SpecCode": "5764",
+    "CommonName": "Cardinal fantôme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nectamia similis",
+    "SpecCode": "63751",
+    "CommonName": "Similar cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nectamia viria",
+    "SpecCode": "63698",
+    "CommonName": "Bracelet cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nectamia zebrina",
+    "SpecCode": "58157",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

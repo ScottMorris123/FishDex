@@ -20,7 +20,7 @@
   {
     "ScientificName": "Monocentris neozelanicus",
     "SpecCode": "52688",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

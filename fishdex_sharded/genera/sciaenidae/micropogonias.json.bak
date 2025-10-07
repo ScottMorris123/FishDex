@@ -1,0 +1,61 @@
+[
+  {
+    "ScientificName": "Micropogonias altipinnis",
+    "SpecCode": "13998",
+    "CommonName": "Chano sureño",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropogonias ectenes",
+    "SpecCode": "13997",
+    "CommonName": "Chano mexicano",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropogonias fasciatus",
+    "SpecCode": "61347",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropogonias furnieri",
+    "SpecCode": "7620",
+    "CommonName": "Bashaw",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropogonias megalops",
+    "SpecCode": "13996",
+    "CommonName": "Berrugata",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropogonias undulatus",
+    "SpecCode": "408",
+    "CommonName": "Adlerfisch",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

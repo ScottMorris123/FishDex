@@ -2,7 +2,7 @@
   {
     "ScientificName": "Nandus andrewi",
     "SpecCode": "63735",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Nandus meni",
     "SpecCode": "67045",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -21,7 +21,7 @@
   {
     "ScientificName": "Nandus mercatus",
     "SpecCode": "64807",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -59,7 +59,7 @@
   {
     "ScientificName": "Nandus prolixus",
     "SpecCode": "62886",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

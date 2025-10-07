@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Akko brevis",
+    "SpecCode": "54387",
+    "CommonName": "短似鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Akko dionaea",
+    "SpecCode": "56506",
+    "CommonName": "巴西阿科鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Akko rossi",
+    "SpecCode": "62085",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

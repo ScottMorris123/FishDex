@@ -2,7 +2,7 @@
   {
     "ScientificName": "Dasyloricaria capetensis",
     "SpecCode": "50607",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Dasyloricaria latiura",
     "SpecCode": "50608",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Dasyloricaria paucisquama",
     "SpecCode": "68698",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Dasyloricaria tuyrensis",
     "SpecCode": "50610",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

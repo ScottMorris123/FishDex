@@ -131,7 +131,7 @@
   {
     "ScientificName": "Diplodus levantinus",
     "SpecCode": "68249",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -196,7 +196,7 @@
   {
     "ScientificName": "Diplodus striatus",
     "SpecCode": "68250",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

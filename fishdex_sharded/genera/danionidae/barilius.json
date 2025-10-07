@@ -92,7 +92,7 @@
   {
     "ScientificName": "Barilius torsai",
     "SpecCode": "69804",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

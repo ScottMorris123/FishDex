@@ -21,7 +21,7 @@
   {
     "ScientificName": "Euristhmus microphthalmus",
     "SpecCode": "63645",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -41,7 +41,7 @@
   {
     "ScientificName": "Euristhmus sandrae",
     "SpecCode": "63646",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

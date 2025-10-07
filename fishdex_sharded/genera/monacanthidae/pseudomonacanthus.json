@@ -29,7 +29,7 @@
   {
     "ScientificName": "Pseudomonacanthus tweediei",
     "SpecCode": "70484",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

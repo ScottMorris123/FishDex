@@ -2,7 +2,7 @@
   {
     "ScientificName": "Creteuchiloglanis arunachalensis",
     "SpecCode": "68133",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Creteuchiloglanis brachypterus",
     "SpecCode": "66182",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Creteuchiloglanis longipectoralis",
     "SpecCode": "66181",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Creteuchiloglanis macropterus",
     "SpecCode": "62059",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Creteuchiloglanis payjab",
     "SpecCode": "68247",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

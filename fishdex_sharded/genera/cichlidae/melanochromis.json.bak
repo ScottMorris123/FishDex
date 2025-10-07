@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Melanochromis auratus",
+    "SpecCode": "2343",
+    "CommonName": "Golden cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis baliodigma",
+    "SpecCode": "46260",
+    "CommonName": "馬拉維湖黑麗魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis chipokae",
+    "SpecCode": "2344",
+    "CommonName": "Chipokae-cichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis dialeptos",
+    "SpecCode": "46242",
+    "CommonName": "苍黑丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis heterochromis",
+    "SpecCode": "50202",
+    "CommonName": "异黑丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis kaskazini",
+    "SpecCode": "64911",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis lepidiadaptes",
+    "SpecCode": "46263",
+    "CommonName": "美艳黑丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis loriae",
+    "SpecCode": "8357",
+    "CommonName": "Melanochromis white auratus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis melanopterus",
+    "SpecCode": "2348",
+    "CommonName": "Mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis mossambiquensis",
+    "SpecCode": "64913",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis mpoto",
+    "SpecCode": "66499",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis robustus",
+    "SpecCode": "8356",
+    "CommonName": "壮黑丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis simulans",
+    "SpecCode": "2351",
+    "CommonName": "Mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis vermivorus",
+    "SpecCode": "2352",
+    "CommonName": "Linjamalawinahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanochromis wochepa",
+    "SpecCode": "64912",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

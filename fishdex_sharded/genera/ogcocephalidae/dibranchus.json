@@ -2,7 +2,7 @@
   {
     "ScientificName": "Dibranchus accinctus",
     "SpecCode": "58639",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Dibranchus cracens",
     "SpecCode": "58632",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Dibranchus discors",
     "SpecCode": "58638",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Dibranchus nasutus",
     "SpecCode": "61055",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Dibranchus tremendus",
     "SpecCode": "58629",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Dibranchus velutinus",
     "SpecCode": "58633",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

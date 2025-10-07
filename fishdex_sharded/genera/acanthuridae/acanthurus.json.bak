@@ -1,0 +1,365 @@
+[
+  {
+    "ScientificName": "Acanthurus achilles",
+    "SpecCode": "4306",
+    "CommonName": "Achilles tang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus albimento",
+    "SpecCode": "68166",
+    "CommonName": "Whitechin surgeonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus albipectoralis",
+    "SpecCode": "13770",
+    "CommonName": "Bagata ni horara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus auranticavus",
+    "SpecCode": "4748",
+    "CommonName": "Apalani",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus bahianus",
+    "SpecCode": "68792",
+    "CommonName": "Barbeiro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus bariene",
+    "SpecCode": "4307",
+    "CommonName": "Bagata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus blochii",
+    "SpecCode": "4750",
+    "CommonName": "Bagata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus chirurgus",
+    "SpecCode": "943",
+    "CommonName": "Acaraúna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus chronixis",
+    "SpecCode": "6010",
+    "CommonName": "Botana abu abu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus coeruleus",
+    "SpecCode": "944",
+    "CommonName": "Acara-úna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus dussumieri",
+    "SpecCode": "1256",
+    "CommonName": "Angangaldit",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus fowleri",
+    "SpecCode": "4745",
+    "CommonName": "Bagis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus gahhm",
+    "SpecCode": "17471",
+    "CommonName": "Black surgeonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus grammoptilus",
+    "SpecCode": "4749",
+    "CommonName": "Bagis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus guttatus",
+    "SpecCode": "4736",
+    "CommonName": "Alpota",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus japonicus",
+    "SpecCode": "23375",
+    "CommonName": "Botana kacamata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus leucocheilus",
+    "SpecCode": "4741",
+    "CommonName": "Bleglæbet kirurgfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus leucopareius",
+    "SpecCode": "4737",
+    "CommonName": "Bakwak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus leucosternon",
+    "SpecCode": "1257",
+    "CommonName": "Alakan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus lineatus",
+    "SpecCode": "1258",
+    "CommonName": "Alogo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus maculiceps",
+    "SpecCode": "4746",
+    "CommonName": "Debam",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus mata",
+    "SpecCode": "1255",
+    "CommonName": "Aflang kirurgfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus monroviae",
+    "SpecCode": "1800",
+    "CommonName": "Adesa mpekyiwa",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus nigricans",
+    "SpecCode": "6011",
+    "CommonName": "Aelmej",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus nigricauda",
+    "SpecCode": "4747",
+    "CommonName": "Aelmeej",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus nigrofuscus",
+    "SpecCode": "4739",
+    "CommonName": "Bakwak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus nigroris",
+    "SpecCode": "4738",
+    "CommonName": "Bagis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus nubilus",
+    "SpecCode": "4733",
+    "CommonName": "Bit",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus olivaceus",
+    "SpecCode": "4744",
+    "CommonName": "Ael",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus polyzona",
+    "SpecCode": "4732",
+    "CommonName": "Black-barred surgeonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus pyroferus",
+    "SpecCode": "4742",
+    "CommonName": "Bagis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus randalli",
+    "SpecCode": "3905",
+    "CommonName": "Golf-kirurgfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus reversus",
+    "SpecCode": "58792",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus sohal",
+    "SpecCode": "4740",
+    "CommonName": "Anfoos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus tennentii",
+    "SpecCode": "1259",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus thompsoni",
+    "SpecCode": "4734",
+    "CommonName": "Chirurgien à queue blanche",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus tractus",
+    "SpecCode": "942",
+    "CommonName": "Barber",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus triostegus",
+    "SpecCode": "1260",
+    "CommonName": "'Abace",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus tristis",
+    "SpecCode": "12782",
+    "CommonName": "Blackcheek surgeonfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthurus xanthopterus",
+    "SpecCode": "1261",
+    "CommonName": "Anfoos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

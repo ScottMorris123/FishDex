@@ -2,7 +2,7 @@
   {
     "ScientificName": "Penopus japonicus",
     "SpecCode": "66226",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Penopus microphthalmus",
     "SpecCode": "8978",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

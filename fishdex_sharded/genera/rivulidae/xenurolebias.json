@@ -2,7 +2,7 @@
   {
     "ScientificName": "Xenurolebias cricarensis",
     "SpecCode": "68024",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Xenurolebias izecksohni",
     "SpecCode": "61797",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Xenurolebias pataxo",
     "SpecCode": "68023",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

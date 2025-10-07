@@ -42,7 +42,7 @@
   {
     "ScientificName": "Tridentiger microsquamis",
     "SpecCode": "59230",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -72,7 +72,7 @@
   {
     "ScientificName": "Tridentiger radiatus",
     "SpecCode": "67080",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],

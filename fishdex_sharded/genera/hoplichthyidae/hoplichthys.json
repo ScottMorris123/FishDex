@@ -92,7 +92,7 @@
   {
     "ScientificName": "Hoplichthys pectoralis",
     "SpecCode": "58772",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Hoplichthys prosemion",
     "SpecCode": "63186",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

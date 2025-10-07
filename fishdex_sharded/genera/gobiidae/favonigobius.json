@@ -62,7 +62,7 @@
   {
     "ScientificName": "Favonigobius opalescens",
     "SpecCode": "59867",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

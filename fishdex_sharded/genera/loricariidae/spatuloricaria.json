@@ -101,7 +101,7 @@
   {
     "ScientificName": "Spatuloricaria terracanticum",
     "SpecCode": "69176",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Spatuloricaria tuira",
     "SpecCode": "67773",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

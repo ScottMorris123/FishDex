@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ageneiogarra imberba",
+    "SpecCode": "61379",
+    "CommonName": "Gara hajnanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ageneiogarra incisorbis",
+    "SpecCode": "70248",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ageneiogarra micropulvinus",
+    "SpecCode": "62421",
+    "CommonName": "Pisipadjak-napplõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ageneiogarra nujiangensis",
+    "SpecCode": "65046",
+    "CommonName": "Nujiangi napplõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ageneiogarra theunensis",
+    "SpecCode": "50346",
+    "CommonName": "Gara laoská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

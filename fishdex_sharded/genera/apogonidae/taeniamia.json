@@ -39,7 +39,7 @@
   {
     "ScientificName": "Taeniamia flavofasciata",
     "SpecCode": "62300",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

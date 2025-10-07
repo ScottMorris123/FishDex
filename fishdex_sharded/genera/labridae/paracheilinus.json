@@ -2,7 +2,7 @@
   {
     "ScientificName": "Paracheilinus alfiani",
     "SpecCode": "68065",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Paracheilinus attenuatus",
     "SpecCode": "59513",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Paracheilinus paineorum",
     "SpecCode": "68975",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Paracheilinus rennyae",
     "SpecCode": "67260",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Paracheilinus xanthocirritus",
     "SpecCode": "70406",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

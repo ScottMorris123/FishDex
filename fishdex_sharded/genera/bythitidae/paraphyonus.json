@@ -20,7 +20,7 @@
   {
     "ScientificName": "Paraphyonus iselini",
     "SpecCode": "70097",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Paraphyonus merretti",
     "SpecCode": "70098",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Paraphyonus solomonensis",
     "SpecCode": "65343",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Pachypops fourcroi",
+    "SpecCode": "12058",
+    "CommonName": "Corvina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypops pigmaeus",
+    "SpecCode": "63009",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pachypops trifilis",
+    "SpecCode": "25782",
+    "CommonName": "Curvina",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

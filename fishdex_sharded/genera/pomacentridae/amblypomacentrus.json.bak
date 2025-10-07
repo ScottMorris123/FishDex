@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Amblypomacentrus annulatus",
+    "SpecCode": "12438",
+    "CommonName": "Footballer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblypomacentrus breviceps",
+    "SpecCode": "9721",
+    "CommonName": "Blackbanded damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblypomacentrus clarus",
+    "SpecCode": "61070",
+    "CommonName": "Banggai damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblypomacentrus kuiteri",
+    "SpecCode": "61078",
+    "CommonName": "Kuiter's damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblypomacentrus tricinctus",
+    "SpecCode": "6602",
+    "CommonName": "Misuji suzumedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblypomacentrus vietnamicus",
+    "SpecCode": "65030",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -79,7 +79,7 @@
   {
     "ScientificName": "Anchoviella hernanni",
     "SpecCode": "70106",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Anchoviella sanfranciscana",
     "SpecCode": "68590",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

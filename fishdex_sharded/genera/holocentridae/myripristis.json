@@ -20,7 +20,7 @@
   {
     "ScientificName": "Myripristis astakhovi",
     "SpecCode": "51692",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

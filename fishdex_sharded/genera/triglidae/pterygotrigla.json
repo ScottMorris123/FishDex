@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pterygotrigla amaokai",
     "SpecCode": "65007",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Pterygotrigla hafizi",
     "SpecCode": "65010",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Pterygotrigla urashimai",
     "SpecCode": "65012",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

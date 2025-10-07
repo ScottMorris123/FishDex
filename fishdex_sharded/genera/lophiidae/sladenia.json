@@ -2,7 +2,7 @@
   {
     "ScientificName": "Sladenia gardineri",
     "SpecCode": "70481",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Sladenia shaefersi",
     "SpecCode": "60848",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Sladenia zhui",
     "SpecCode": "66475",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

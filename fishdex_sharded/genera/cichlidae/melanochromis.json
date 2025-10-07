@@ -47,7 +47,7 @@
   {
     "ScientificName": "Melanochromis kaskazini",
     "SpecCode": "64911",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Melanochromis mossambiquensis",
     "SpecCode": "64913",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Melanochromis mpoto",
     "SpecCode": "66499",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Melanochromis wochepa",
     "SpecCode": "64912",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

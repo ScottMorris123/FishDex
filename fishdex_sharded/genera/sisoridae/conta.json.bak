@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Conta conta",
+    "SpecCode": "24803",
+    "CommonName": "Conta catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conta pectinata",
+    "SpecCode": "62260",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

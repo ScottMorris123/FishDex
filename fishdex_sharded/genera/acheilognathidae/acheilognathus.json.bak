@@ -1,0 +1,365 @@
+[
+  {
+    "ScientificName": "Acheilognathus asmussii",
+    "SpecCode": "11926",
+    "CommonName": "Aasiankatkerokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus barbatulus",
+    "SpecCode": "54928",
+    "CommonName": "China-Bitterling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus barbatus",
+    "SpecCode": "55891",
+    "CommonName": "Hořavka vousatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus binidentatus",
+    "SpecCode": "61861",
+    "CommonName": "Kakskiir-paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus brevicaudatus",
+    "SpecCode": "60403",
+    "CommonName": "Lühisaba-paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus changtingensis",
+    "SpecCode": "65965",
+    "CommonName": "Changtingi paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus coreanus",
+    "SpecCode": "66150",
+    "CommonName": "Oily bitterling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus cyanostigma",
+    "SpecCode": "11928",
+    "CommonName": "Hořavka modroskvrnná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus deignani",
+    "SpecCode": "48458",
+    "CommonName": "Deignani paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus elongatoides",
+    "SpecCode": "61167",
+    "CommonName": "Hořavka štíhlá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus elongatus",
+    "SpecCode": "9525",
+    "CommonName": "Hořavka štíhlá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus fasciodorsalis",
+    "SpecCode": "62798",
+    "CommonName": "Triipuim-paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus gracilis",
+    "SpecCode": "54711",
+    "CommonName": "Hořavka drobná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus hondae",
+    "SpecCode": "25606",
+    "CommonName": "Hořavka sohonská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus hypselonotus",
+    "SpecCode": "55893",
+    "CommonName": "Hořavka čínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus imberbis",
+    "SpecCode": "55887",
+    "CommonName": "Harilik paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus imfasciodorsalis",
+    "SpecCode": "62799",
+    "CommonName": "Klaaruim-paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus intermedia",
+    "SpecCode": "66125",
+    "CommonName": "Slender bitterling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus kyphus",
+    "SpecCode": "61168",
+    "CommonName": "Hořavka thajská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus lanchiensis",
+    "SpecCode": "70257",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus longibarbatus",
+    "SpecCode": "55149",
+    "CommonName": "Hořavka dlouhovousá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus longipinnis",
+    "SpecCode": "9528",
+    "CommonName": "Deepbody bitterling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus macromandibularis",
+    "SpecCode": "58200",
+    "CommonName": "Hořavka čelistnatá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus macropterus",
+    "SpecCode": "54380",
+    "CommonName": "Hořavka velkoploutvá",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus majusculus",
+    "SpecCode": "59969",
+    "CommonName": "Hořavka imsilská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus melanogaster",
+    "SpecCode": "25817",
+    "CommonName": "Hořavka černobřichá",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus meridianus",
+    "SpecCode": "56321",
+    "CommonName": "Hořavka jihočínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus microphysa",
+    "SpecCode": "56320",
+    "CommonName": "Hořavka junanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus nguyenvanhaoi",
+    "SpecCode": "67550",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus omeiensis",
+    "SpecCode": "55890",
+    "CommonName": "Hořavka sečuánská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus peihoensis",
+    "SpecCode": "61918",
+    "CommonName": "Tianjini paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus polylepis",
+    "SpecCode": "55892",
+    "CommonName": "Hořavka mnohošupinná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus polyspinus",
+    "SpecCode": "55148",
+    "CommonName": "Hanoi paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus rhombeus",
+    "SpecCode": "22891",
+    "CommonName": "Hořavka kosoštverečná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus striatus",
+    "SpecCode": "65458",
+    "CommonName": "Triip-paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus tabira",
+    "SpecCode": "22892",
+    "CommonName": "Akahire-tabira",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus taenianalis",
+    "SpecCode": "61857",
+    "CommonName": "Kaguhiina paljaslõug",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus tonkinensis",
+    "SpecCode": "54709",
+    "CommonName": "Hořavka tonkinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus typus",
+    "SpecCode": "22897",
+    "CommonName": "Hořavka japonská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acheilognathus yamatsutae",
+    "SpecCode": "25607",
+    "CommonName": "Hořavka fenhuangská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Chauliodus dentatus",
     "SpecCode": "59117",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

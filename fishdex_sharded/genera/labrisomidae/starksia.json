@@ -83,7 +83,7 @@
   {
     "ScientificName": "Starksia greenfieldi",
     "SpecCode": "65914",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Starksia langi",
     "SpecCode": "65915",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Starksia sangreyae",
     "SpecCode": "65909",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Starksia splendens",
     "SpecCode": "69045",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -290,7 +290,7 @@
   {
     "ScientificName": "Starksia springeri",
     "SpecCode": "65910",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -308,7 +308,7 @@
   {
     "ScientificName": "Starksia variabilis",
     "SpecCode": "48258",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -318,7 +318,7 @@
   {
     "ScientificName": "Starksia weigti",
     "SpecCode": "65911",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -327,7 +327,7 @@
   {
     "ScientificName": "Starksia williamsi",
     "SpecCode": "65912",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

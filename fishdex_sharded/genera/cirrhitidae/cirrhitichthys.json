@@ -21,7 +21,7 @@
   {
     "ScientificName": "Cirrhitichthys bleekeri",
     "SpecCode": "58167",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -66,7 +66,7 @@
   {
     "ScientificName": "Cirrhitichthys randalli",
     "SpecCode": "60600",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

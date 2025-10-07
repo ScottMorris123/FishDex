@@ -2,7 +2,7 @@
   {
     "ScientificName": "Halieutopsis andriashevi",
     "SpecCode": "58669",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Halieutopsis galatea",
     "SpecCode": "58673",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Halieutopsis ingerorum",
     "SpecCode": "58671",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Halieutopsis margaretae",
     "SpecCode": "63383",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Halieutopsis nudiventer",
     "SpecCode": "67508",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

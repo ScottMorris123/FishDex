@@ -20,7 +20,7 @@
   {
     "ScientificName": "Stichaeopsis nevelskoi",
     "SpecCode": "50416",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

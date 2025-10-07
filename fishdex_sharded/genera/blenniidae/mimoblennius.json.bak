@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Mimoblennius atrocinctus",
+    "SpecCode": "7570",
+    "CommonName": "Banded blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimoblennius cas",
+    "SpecCode": "59605",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimoblennius cirrosus",
+    "SpecCode": "46416",
+    "CommonName": "Fringed blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimoblennius lineathorax",
+    "SpecCode": "59657",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mimoblennius rusi",
+    "SpecCode": "16947",
+    "CommonName": "Rusi blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

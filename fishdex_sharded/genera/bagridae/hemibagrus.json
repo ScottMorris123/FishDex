@@ -2,7 +2,7 @@
   {
     "ScientificName": "Hemibagrus amemiyai",
     "SpecCode": "50963",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Hemibagrus camthuyensis",
     "SpecCode": "65674",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Hemibagrus caveatus",
     "SpecCode": "60724",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Hemibagrus chiemhoaensis",
     "SpecCode": "65677",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Hemibagrus divaricatus",
     "SpecCode": "66814",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Hemibagrus dongbacensis",
     "SpecCode": "65681",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Hemibagrus filamentus",
     "SpecCode": "58032",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Hemibagrus fortis",
     "SpecCode": "63085",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Hemibagrus furcatus",
     "SpecCode": "58052",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -138,7 +138,7 @@
   {
     "ScientificName": "Hemibagrus hainanensis",
     "SpecCode": "63630",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -157,7 +157,7 @@
   {
     "ScientificName": "Hemibagrus hongus",
     "SpecCode": "60728",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -166,7 +166,7 @@
   {
     "ScientificName": "Hemibagrus imbrifer",
     "SpecCode": "58678",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -175,7 +175,7 @@
   {
     "ScientificName": "Hemibagrus johorensis",
     "SpecCode": "63632",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -184,7 +184,7 @@
   {
     "ScientificName": "Hemibagrus lacustrinus",
     "SpecCode": "66816",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -294,7 +294,7 @@
   {
     "ScientificName": "Hemibagrus semotus",
     "SpecCode": "66812",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -303,7 +303,7 @@
   {
     "ScientificName": "Hemibagrus songdaensis",
     "SpecCode": "65726",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -312,7 +312,7 @@
   {
     "ScientificName": "Hemibagrus spilopterus",
     "SpecCode": "58037",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -321,7 +321,7 @@
   {
     "ScientificName": "Hemibagrus taybacensis",
     "SpecCode": "65729",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -330,7 +330,7 @@
   {
     "ScientificName": "Hemibagrus variegatus",
     "SpecCode": "58680",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -339,7 +339,7 @@
   {
     "ScientificName": "Hemibagrus velox",
     "SpecCode": "60070",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

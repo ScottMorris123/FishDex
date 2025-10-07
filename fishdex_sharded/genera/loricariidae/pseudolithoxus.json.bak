@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Pseudolithoxus anthrax",
+    "SpecCode": "57745",
+    "CommonName": "Fliegerwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolithoxus dumus",
+    "SpecCode": "57746",
+    "CommonName": "Mustaharjapleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolithoxus kelsorum",
+    "SpecCode": "66169",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolithoxus kinja",
+    "SpecCode": "69221",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolithoxus nicoi",
+    "SpecCode": "57747",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudolithoxus tigris",
+    "SpecCode": "57748",
+    "CommonName": "Aaltoharjapleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

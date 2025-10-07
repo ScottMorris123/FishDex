@@ -83,7 +83,7 @@
   {
     "ScientificName": "Decapterus smithvanizi",
     "SpecCode": "69454",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

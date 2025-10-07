@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Pseudocoris aequalis",
+    "SpecCode": "63849",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocoris aurantiofasciata",
+    "SpecCode": "25783",
+    "CommonName": "Po'ou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocoris bleekeri",
+    "SpecCode": "59631",
+    "CommonName": "Philippine wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocoris hemichrysos",
+    "SpecCode": "68766",
+    "CommonName": "Yellowfin wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocoris heteroptera",
+    "SpecCode": "11620",
+    "CommonName": "Shiratakibera-damashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocoris occidentalis",
+    "SpecCode": "68765",
+    "CommonName": "African torpedo wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocoris ocellata",
+    "SpecCode": "27078",
+    "CommonName": "侧斑拟盔鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocoris petila",
+    "SpecCode": "66869",
+    "CommonName": "Slender wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocoris yamashiroi",
+    "SpecCode": "5639",
+    "CommonName": "Japanese wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

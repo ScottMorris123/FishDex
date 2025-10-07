@@ -173,7 +173,7 @@
   {
     "ScientificName": "Acheilognathus lanchiensis",
     "SpecCode": "70257",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -256,7 +256,7 @@
   {
     "ScientificName": "Acheilognathus nguyenvanhaoi",
     "SpecCode": "67550",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

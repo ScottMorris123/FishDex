@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Telmatochromis bifrenatus",
+    "SpecCode": "8881",
+    "CommonName": "Parijuovavaljasahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Telmatochromis brachygnathus",
+    "SpecCode": "62420",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Telmatochromis brichardi",
+    "SpecCode": "8883",
+    "CommonName": "Sahavaljasahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Telmatochromis dhonti",
+    "SpecCode": "8886",
+    "CommonName": "Mokkavaljasahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Telmatochromis temporalis",
+    "SpecCode": "8888",
+    "CommonName": "Kanelivaljasahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Telmatochromis vittatus",
+    "SpecCode": "8890",
+    "CommonName": "Linjavaljasahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

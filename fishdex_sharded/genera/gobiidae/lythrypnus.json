@@ -11,7 +11,7 @@
   {
     "ScientificName": "Lythrypnus brasiliensis",
     "SpecCode": "61321",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

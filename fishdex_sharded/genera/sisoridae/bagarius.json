@@ -21,7 +21,7 @@
   {
     "ScientificName": "Bagarius rutilus",
     "SpecCode": "57784",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Bagarius vegrandis",
     "SpecCode": "69874",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

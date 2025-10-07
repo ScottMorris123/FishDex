@@ -56,7 +56,7 @@
   {
     "ScientificName": "Apogon campbelli",
     "SpecCode": "63429",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Apogon dammermani",
     "SpecCode": "27481",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Apogon dianthus",
     "SpecCode": "60364",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Apogon erythrosoma",
     "SpecCode": "65004",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Apogon lativittatus",
     "SpecCode": "59452",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Apogon latus",
     "SpecCode": "60370",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Apogon marquesensis",
     "SpecCode": "60054",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Apogon rubellus",
     "SpecCode": "62869",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -443,7 +443,7 @@
   {
     "ScientificName": "Apogon susanae",
     "SpecCode": "60053",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

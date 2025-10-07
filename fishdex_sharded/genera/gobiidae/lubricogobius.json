@@ -38,7 +38,7 @@
   {
     "ScientificName": "Lubricogobius tre",
     "SpecCode": "65418",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

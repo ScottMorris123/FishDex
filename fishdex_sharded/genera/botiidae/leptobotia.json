@@ -2,7 +2,7 @@
   {
     "ScientificName": "Leptobotia bellacauda",
     "SpecCode": "69573",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Leptobotia brachycephala",
     "SpecCode": "69536",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Leptobotia citrauratea",
     "SpecCode": "69535",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Leptobotia micra",
     "SpecCode": "68642",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

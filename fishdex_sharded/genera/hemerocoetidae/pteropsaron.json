@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pteropsaron dabfar",
     "SpecCode": "67345",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Pteropsaron levitoni",
     "SpecCode": "67346",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Pteropsaron neocaledonicus",
     "SpecCode": "63184",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

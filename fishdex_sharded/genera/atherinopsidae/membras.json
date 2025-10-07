@@ -13,7 +13,7 @@
   {
     "ScientificName": "Membras argentea",
     "SpecCode": "57840",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -22,7 +22,7 @@
   {
     "ScientificName": "Membras dissimilis",
     "SpecCode": "64893",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -49,7 +49,7 @@
   {
     "ScientificName": "Membras procera",
     "SpecCode": "69788",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -58,7 +58,7 @@
   {
     "ScientificName": "Membras pygmaea",
     "SpecCode": "69787",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

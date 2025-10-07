@@ -2,7 +2,7 @@
   {
     "ScientificName": "Eugnathogobius illotus",
     "SpecCode": "59256",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",
@@ -13,7 +13,7 @@
   {
     "ScientificName": "Eugnathogobius indicus",
     "SpecCode": "64890",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",
@@ -34,7 +34,7 @@
   {
     "ScientificName": "Eugnathogobius mas",
     "SpecCode": "56598",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -44,7 +44,7 @@
   {
     "ScientificName": "Eugnathogobius microps",
     "SpecCode": "59866",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -73,7 +73,7 @@
   {
     "ScientificName": "Eugnathogobius stictos",
     "SpecCode": "64896",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -82,7 +82,7 @@
   {
     "ScientificName": "Eugnathogobius variegatus",
     "SpecCode": "59238",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

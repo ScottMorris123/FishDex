@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Lesueurigobius friesii",
+    "SpecCode": "7685",
+    "CommonName": "Burdullak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lesueurigobius heterofasciatus",
+    "SpecCode": "22775",
+    "CommonName": "Erivööt-settemudil",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lesueurigobius koumansi",
+    "SpecCode": "22779",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lesueurigobius sanzi",
+    "SpecCode": "22781",
+    "CommonName": "Gobie de Sanzo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lesueurigobius suerii",
+    "SpecCode": "1798",
+    "CommonName": "Ghiozzetto tigrato",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

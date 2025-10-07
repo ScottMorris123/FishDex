@@ -1,0 +1,278 @@
+[
+  {
+    "ScientificName": "Gerres akazakii",
+    "SpecCode": "64538",
+    "CommonName": "Japanese tenspined silver-biddy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres baconensis",
+    "SpecCode": "24338",
+    "CommonName": "Amwit",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres chrysops",
+    "SpecCode": "55845",
+    "CommonName": "Gold sheen silver-biddy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres cinereus",
+    "SpecCode": "1054",
+    "CommonName": "Bersla",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres decacanthus",
+    "SpecCode": "55175",
+    "CommonName": "Cá Móm",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres equulus",
+    "SpecCode": "59245",
+    "CommonName": "Japanese silver-biddy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres erythrourus",
+    "SpecCode": "5800",
+    "CommonName": "Bagangan",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres filamentosus",
+    "SpecCode": "4463",
+    "CommonName": "௨டகாம் ",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres infasciatus",
+    "SpecCode": "50593",
+    "CommonName": "Nonbanded whipfin mojarra",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres japonicus",
+    "SpecCode": "23470",
+    "CommonName": "Daimyôsagi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres limbatus",
+    "SpecCode": "14295",
+    "CommonName": "Black-tipped mojarro",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres longirostris",
+    "SpecCode": "7699",
+    "CommonName": "Ambariaka",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres macracanthus",
+    "SpecCode": "24817",
+    "CommonName": "Charbat",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres maldivensis",
+    "SpecCode": "59291",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres methueni",
+    "SpecCode": "7700",
+    "CommonName": "Evenfin pursemouth",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres microphthalmus",
+    "SpecCode": "59752",
+    "CommonName": "Small-eyed whipfin mojarra",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres mozambiquensis",
+    "SpecCode": "63904",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres nigri",
+    "SpecCode": "9907",
+    "CommonName": "Apapabora",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres oblongus",
+    "SpecCode": "5801",
+    "CommonName": "Amolok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres oyena",
+    "SpecCode": "5996",
+    "CommonName": "Amolok",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres phaiya",
+    "SpecCode": "59253",
+    "CommonName": "Phaiya",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres ryukyuensis",
+    "SpecCode": "64539",
+    "CommonName": "Ryukyu banded silver-biddy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres septemfasciatus",
+    "SpecCode": "66018",
+    "CommonName": "Qi Dai Yin Lu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres setifer",
+    "SpecCode": "13425",
+    "CommonName": "Bainge",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres shima",
+    "SpecCode": "64540",
+    "CommonName": "Banded silver-biddy",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres silaceus",
+    "SpecCode": "59247",
+    "CommonName": "Malayan silver-biddy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres simillimus",
+    "SpecCode": "66785",
+    "CommonName": "Chavela",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gerres subfasciatus",
+    "SpecCode": "55842",
+    "CommonName": "Common silver belly",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

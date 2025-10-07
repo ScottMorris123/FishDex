@@ -110,7 +110,7 @@
   {
     "ScientificName": "Pomacentrus atriaxillaris",
     "SpecCode": "61073",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Pomacentrus bipunctatus",
     "SpecCode": "62170",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -228,7 +228,7 @@
   {
     "ScientificName": "Pomacentrus caeruleopunctatus",
     "SpecCode": "61079",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -255,7 +255,7 @@
   {
     "ScientificName": "Pomacentrus cheraphilus",
     "SpecCode": "65892",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -318,7 +318,7 @@
   {
     "ScientificName": "Pomacentrus flavioculus",
     "SpecCode": "68810",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -454,7 +454,7 @@
   {
     "ScientificName": "Pomacentrus microspilus",
     "SpecCode": "63872",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -580,7 +580,7 @@
   {
     "ScientificName": "Pomacentrus rodriguesensis",
     "SpecCode": "61853",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -726,7 +726,7 @@
   {
     "ScientificName": "Pomacentrus yoshii",
     "SpecCode": "62173",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

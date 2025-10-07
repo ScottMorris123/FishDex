@@ -2,7 +2,7 @@
   {
     "ScientificName": "Sternarchogiton labiatus",
     "SpecCode": "63900",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Sternarchogiton preto",
     "SpecCode": "63901",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Sternarchogiton zuanoni",
     "SpecCode": "65365",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

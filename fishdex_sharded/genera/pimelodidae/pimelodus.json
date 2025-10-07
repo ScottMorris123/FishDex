@@ -75,7 +75,7 @@
   {
     "ScientificName": "Pimelodus britskii",
     "SpecCode": "63509",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -120,7 +120,7 @@
   {
     "ScientificName": "Pimelodus halisodous",
     "SpecCode": "64686",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -138,7 +138,7 @@
   {
     "ScientificName": "Pimelodus joannis",
     "SpecCode": "64687",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -147,7 +147,7 @@
   {
     "ScientificName": "Pimelodus luciae",
     "SpecCode": "65297",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -165,7 +165,7 @@
   {
     "ScientificName": "Pimelodus microstoma",
     "SpecCode": "58419",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -174,7 +174,7 @@
   {
     "ScientificName": "Pimelodus multicratifer",
     "SpecCode": "65998",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -183,7 +183,7 @@
   {
     "ScientificName": "Pimelodus mysteriosus",
     "SpecCode": "58426",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -219,7 +219,7 @@
   {
     "ScientificName": "Pimelodus pantaneiro",
     "SpecCode": "63716",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -246,7 +246,7 @@
   {
     "ScientificName": "Pimelodus pintado",
     "SpecCode": "64283",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -282,7 +282,7 @@
   {
     "ScientificName": "Pimelodus speciosus",
     "SpecCode": "70150",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -291,7 +291,7 @@
   {
     "ScientificName": "Pimelodus stewarti",
     "SpecCode": "64684",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -300,7 +300,7 @@
   {
     "ScientificName": "Pimelodus tetramerus",
     "SpecCode": "63452",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

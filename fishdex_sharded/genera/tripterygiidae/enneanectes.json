@@ -119,7 +119,7 @@
   {
     "ScientificName": "Enneanectes smithi",
     "SpecCode": "27244",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

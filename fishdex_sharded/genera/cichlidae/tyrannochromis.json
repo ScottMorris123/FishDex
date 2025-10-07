@@ -29,7 +29,7 @@
   {
     "ScientificName": "Tyrannochromis polyodon",
     "SpecCode": "2139",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

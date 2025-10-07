@@ -1,0 +1,348 @@
+[
+  {
+    "ScientificName": "Oreochromis alcalicus",
+    "SpecCode": "2034",
+    "CommonName": "Common Natron tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis amphimelas",
+    "SpecCode": "2035",
+    "CommonName": "Galiläa-Buntbarsch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis andersonii",
+    "SpecCode": "1399",
+    "CommonName": "Driekolkurper",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis angolensis",
+    "SpecCode": "2036",
+    "CommonName": "安哥尔口孵非鲫",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis aureus",
+    "SpecCode": "1387",
+    "CommonName": "Abiad Hasani",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis chungruruensis",
+    "SpecCode": "2088",
+    "CommonName": "Kiungululu tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis esculentus",
+    "SpecCode": "1431",
+    "CommonName": "Anagu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis grahami",
+    "SpecCode": "2033",
+    "CommonName": "Graham's cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis hunteri",
+    "SpecCode": "2032",
+    "CommonName": "Chala tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis ismailiaensis",
+    "SpecCode": "61388",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis jipe",
+    "SpecCode": "1422",
+    "CommonName": "Jipe tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis karomo",
+    "SpecCode": "1446",
+    "CommonName": "Karomo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis karongae",
+    "SpecCode": "2042",
+    "CommonName": "Chambo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis korogwe",
+    "SpecCode": "1448",
+    "CommonName": "Korogwe tilapia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis latilabris",
+    "SpecCode": "54452",
+    "CommonName": "Laimokk-soodatilaapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis lepidurus",
+    "SpecCode": "2037",
+    "CommonName": "美丽口孵非鲫",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis leucostictus",
+    "SpecCode": "1413",
+    "CommonName": "Blue spotted tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis lidole",
+    "SpecCode": "2045",
+    "CommonName": "Chambo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis macrochir",
+    "SpecCode": "1396",
+    "CommonName": "Akpakpodzie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis malagarasi",
+    "SpecCode": "68811",
+    "CommonName": "Malagarasi tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis mortimeri",
+    "SpecCode": "1415",
+    "CommonName": "Kariba bream",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis mossambicus",
+    "SpecCode": "3",
+    "CommonName": "African mouthbrooder",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis mweruensis",
+    "SpecCode": "2502",
+    "CommonName": "Igihwati",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis ndalalani",
+    "SpecCode": "54450",
+    "CommonName": "Narrow-mouthed Natron tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis niloticus",
+    "SpecCode": "2",
+    "CommonName": "Akpafiatsi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis placidus",
+    "SpecCode": "2029",
+    "CommonName": "Black tilapia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis rukwaensis",
+    "SpecCode": "2040",
+    "CommonName": "Lake Rukwa tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis saka",
+    "SpecCode": "2043",
+    "CommonName": "Biriwiri",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis salinicola",
+    "SpecCode": "2041",
+    "CommonName": "Suolatilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis schwebischi",
+    "SpecCode": "1447",
+    "CommonName": "Carpe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis shiranus",
+    "SpecCode": "1432",
+    "CommonName": "Chilwa tilapia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis spilurus",
+    "SpecCode": "1416",
+    "CommonName": "Athi River tilapia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis squamipinnis",
+    "SpecCode": "2044",
+    "CommonName": "Chambo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis tanganicae",
+    "SpecCode": "1440",
+    "CommonName": "Mpende",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis upembae",
+    "SpecCode": "2038",
+    "CommonName": "厄佩口孵非鯽",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis urolepis",
+    "SpecCode": "1420",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreochromis variabilis",
+    "SpecCode": "1430",
+    "CommonName": "Hopeatilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

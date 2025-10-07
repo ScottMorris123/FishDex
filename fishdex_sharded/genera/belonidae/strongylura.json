@@ -33,7 +33,7 @@
   {
     "ScientificName": "Strongylura forsythia",
     "SpecCode": "53810",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Bathybagrus grandis",
+    "SpecCode": "9301",
+    "CommonName": "Kukumai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybagrus graueri",
+    "SpecCode": "9302",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybagrus platycephalus",
+    "SpecCode": "9318",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybagrus sianenna",
+    "SpecCode": "9322",
+    "CommonName": "Kanimba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybagrus stappersii",
+    "SpecCode": "9323",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathybagrus tetranema",
+    "SpecCode": "9288",
+    "CommonName": "四線深鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

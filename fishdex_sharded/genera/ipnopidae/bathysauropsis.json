@@ -11,7 +11,7 @@
   {
     "ScientificName": "Bathysauropsis malayanus",
     "SpecCode": "58802",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

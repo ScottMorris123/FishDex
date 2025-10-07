@@ -11,7 +11,7 @@
   {
     "ScientificName": "Doryrhamphus aurolineatus",
     "SpecCode": "26967",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Doryrhamphus melanopleura",
     "SpecCode": "69842",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Doryrhamphus paulus",
     "SpecCode": "46120",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

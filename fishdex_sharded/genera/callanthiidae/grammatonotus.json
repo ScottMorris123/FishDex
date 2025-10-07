@@ -2,7 +2,7 @@
   {
     "ScientificName": "Grammatonotus ambiortus",
     "SpecCode": "64511",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Grammatonotus lanceolatus",
     "SpecCode": "60493",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

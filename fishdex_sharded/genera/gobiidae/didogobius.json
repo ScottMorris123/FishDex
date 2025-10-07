@@ -20,7 +20,7 @@
   {
     "ScientificName": "Didogobius lanceolatus",
     "SpecCode": "70411",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,561 @@
+[
+  {
+    "ScientificName": "Liparis adiastolus",
+    "SpecCode": "61514",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis agassizii",
+    "SpecCode": "24112",
+    "CommonName": "Ezo-kusa-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis alboventer",
+    "SpecCode": "58832",
+    "CommonName": "白腹狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis antarcticus",
+    "SpecCode": "54879",
+    "CommonName": "南极狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis atlanticus",
+    "SpecCode": "4186",
+    "CommonName": "Amerikanskiy liparis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis barbatus",
+    "SpecCode": "54741",
+    "CommonName": "Sea-snail",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis bathyarcticus",
+    "SpecCode": "67552",
+    "CommonName": "Glubinniy liparis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis bikunin",
+    "SpecCode": "24110",
+    "CommonName": "Ama-kusa-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis brashnikovi",
+    "SpecCode": "58814",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis bristolensis",
+    "SpecCode": "51426",
+    "CommonName": "Bristol snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis burkei",
+    "SpecCode": "24121",
+    "CommonName": "Nise-soko-shiro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis callyodon",
+    "SpecCode": "4187",
+    "CommonName": "Dennik plamisty",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis catharus",
+    "SpecCode": "58807",
+    "CommonName": "Purity snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis chefuensis",
+    "SpecCode": "51026",
+    "CommonName": "Norang-mulmegi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis coheni",
+    "SpecCode": "4188",
+    "CommonName": "Gulf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis curilensis",
+    "SpecCode": "51427",
+    "CommonName": "库里尔湾狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis cyclopus",
+    "SpecCode": "4189",
+    "CommonName": "Günther's liparid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis dennyi",
+    "SpecCode": "4191",
+    "CommonName": "Denny's liparid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis dubius",
+    "SpecCode": "58833",
+    "CommonName": "杜比狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis dulkeiti",
+    "SpecCode": "51428",
+    "CommonName": "杜氏狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis eos",
+    "SpecCode": "58816",
+    "CommonName": "东方狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis fabricii",
+    "SpecCode": "15490",
+    "CommonName": "Chernobryukhiy liparis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis fishelsoni",
+    "SpecCode": "58827",
+    "CommonName": "菲氏狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis florae",
+    "SpecCode": "4192",
+    "CommonName": "Shore liparid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis frenatus",
+    "SpecCode": "24111",
+    "CommonName": "Kanten-bikunin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis fucensis",
+    "SpecCode": "4193",
+    "CommonName": "Juan de Fuca liparid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis gibbus",
+    "SpecCode": "4190",
+    "CommonName": "Amersulak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis grebnitzkii",
+    "SpecCode": "60844",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis greeni",
+    "SpecCode": "4204",
+    "CommonName": "Bering snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis inquilinus",
+    "SpecCode": "4195",
+    "CommonName": "Inquiline snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis kusnetzovi",
+    "SpecCode": "58818",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis kussakini",
+    "SpecCode": "58819",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis latifrons",
+    "SpecCode": "50404",
+    "CommonName": "侧斑狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis liparis",
+    "SpecCode": "1378",
+    "CommonName": "Dennik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis maculatus",
+    "SpecCode": "62290",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis marmoratus",
+    "SpecCode": "51429",
+    "CommonName": "Festive snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis mednius",
+    "SpecCode": "58834",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis megacephalus",
+    "SpecCode": "51431",
+    "CommonName": "Bighead snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis meridionalis",
+    "SpecCode": "67551",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis micraspidophorus",
+    "SpecCode": "51432",
+    "CommonName": "Thumbtack snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis miostomus",
+    "SpecCode": "24108",
+    "CommonName": "Kokuchi-kusa-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis montagui",
+    "SpecCode": "1379",
+    "CommonName": "Iâr fôr Montagu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis mucosus",
+    "SpecCode": "4197",
+    "CommonName": "Baboso mucoso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis newmani",
+    "SpecCode": "60838",
+    "CommonName": "黃海獅子魚(點紋獅子魚)",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis ochotensis",
+    "SpecCode": "24113",
+    "CommonName": "Agonashi-kusa-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis owstoni",
+    "SpecCode": "24116",
+    "CommonName": "Ôsuton-kusa-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis petschiliensis",
+    "SpecCode": "60840",
+    "CommonName": "河北狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis pravdini",
+    "SpecCode": "58820",
+    "CommonName": "普氏狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis pulchellus",
+    "SpecCode": "4198",
+    "CommonName": "Continuous-finned liparid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis punctatus",
+    "SpecCode": "51437",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis punctulatus",
+    "SpecCode": "24109",
+    "CommonName": "Aka-bikunin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis rhodosoma",
+    "SpecCode": "51600",
+    "CommonName": "玫瑰狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis rotundirostris",
+    "SpecCode": "58821",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis rutteri",
+    "SpecCode": "4199",
+    "CommonName": "Ringtail snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis schantarensis",
+    "SpecCode": "51440",
+    "CommonName": "Shantar snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis schmidti",
+    "SpecCode": "58822",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis tanakae",
+    "SpecCode": "24115",
+    "CommonName": "Kkom-ch'i",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis tartaricus",
+    "SpecCode": "51694",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis tessellatus",
+    "SpecCode": "24114",
+    "CommonName": "Bikunin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis tunicatiformis",
+    "SpecCode": "58823",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis tunicatus",
+    "SpecCode": "4200",
+    "CommonName": "Arkticheskiy liparis",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Liparis zonatus",
+    "SpecCode": "62291",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

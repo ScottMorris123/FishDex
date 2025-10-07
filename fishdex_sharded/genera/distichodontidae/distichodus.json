@@ -83,7 +83,7 @@
   {
     "ScientificName": "Distichodus ingae",
     "SpecCode": "69120",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Distichodus kasaiensis",
     "SpecCode": "69117",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Distichodus mbiniensis",
     "SpecCode": "69817",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Distichodus microps",
     "SpecCode": "69816",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Distichodus polli",
     "SpecCode": "69108",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

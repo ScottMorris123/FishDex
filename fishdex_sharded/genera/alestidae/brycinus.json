@@ -92,7 +92,7 @@
   {
     "ScientificName": "Brycinus epuluensis",
     "SpecCode": "68091",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

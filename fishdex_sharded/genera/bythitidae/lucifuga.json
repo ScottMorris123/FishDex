@@ -21,7 +21,7 @@
   {
     "ScientificName": "Lucifuga inopinata",
     "SpecCode": "56401",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Lucifuga simile",
     "SpecCode": "49453",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -68,7 +68,7 @@
   {
     "ScientificName": "Lucifuga teresinarum",
     "SpecCode": "49993",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

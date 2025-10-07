@@ -12,7 +12,7 @@
   {
     "ScientificName": "Monopterus bicolor",
     "SpecCode": "65669",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -49,7 +49,7 @@
   {
     "ScientificName": "Monopterus dienbienensis",
     "SpecCode": "65680",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -58,7 +58,7 @@
   {
     "ScientificName": "Monopterus digressus",
     "SpecCode": "62295",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -94,7 +94,7 @@
   {
     "ScientificName": "Monopterus ichthyophoides",
     "SpecCode": "66178",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -112,7 +112,7 @@
   {
     "ScientificName": "Monopterus luticolus",
     "SpecCode": "68314",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -121,7 +121,7 @@
   {
     "ScientificName": "Monopterus rongsaw",
     "SpecCode": "68795",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -130,7 +130,7 @@
   {
     "ScientificName": "Monopterus roseni",
     "SpecCode": "49994",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

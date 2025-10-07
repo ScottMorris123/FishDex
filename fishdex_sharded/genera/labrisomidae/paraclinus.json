@@ -11,7 +11,7 @@
   {
     "ScientificName": "Paraclinus arcanus",
     "SpecCode": "59744",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Paraclinus fehlmanni",
     "SpecCode": "60825",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Paraclinus rubicundus",
     "SpecCode": "59743",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Paraclinus spectator",
     "SpecCode": "59745",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

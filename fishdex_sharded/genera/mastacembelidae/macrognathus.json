@@ -31,7 +31,7 @@
   {
     "ScientificName": "Macrognathus aureus",
     "SpecCode": "65580",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -58,7 +58,7 @@
   {
     "ScientificName": "Macrognathus dorsiocellatus",
     "SpecCode": "65288",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -94,7 +94,7 @@
   {
     "ScientificName": "Macrognathus lineatomaculatus",
     "SpecCode": "65290",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -112,7 +112,7 @@
   {
     "ScientificName": "Macrognathus malabaricus",
     "SpecCode": "60198",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -121,7 +121,7 @@
   {
     "ScientificName": "Macrognathus meklongensis",
     "SpecCode": "61570",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -130,7 +130,7 @@
   {
     "ScientificName": "Macrognathus morehensis",
     "SpecCode": "60653",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -139,7 +139,7 @@
   {
     "ScientificName": "Macrognathus obscurus",
     "SpecCode": "65289",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -158,7 +158,7 @@
   {
     "ScientificName": "Macrognathus pavo",
     "SpecCode": "65287",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -167,7 +167,7 @@
   {
     "ScientificName": "Macrognathus pentophthalmos",
     "SpecCode": "66123",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

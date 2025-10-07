@@ -2,7 +2,7 @@
   {
     "ScientificName": "Santelmoa antarctica",
     "SpecCode": "66511",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Santelmoa carmenae",
     "SpecCode": "65537",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Santelmoa elvirae",
     "SpecCode": "66215",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Santelmoa fusca",
     "SpecCode": "66510",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

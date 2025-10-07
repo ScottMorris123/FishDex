@@ -151,7 +151,7 @@
   {
     "ScientificName": "Gymnogobius zhoushanensis",
     "SpecCode": "64548",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

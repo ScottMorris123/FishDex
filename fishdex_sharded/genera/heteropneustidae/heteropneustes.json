@@ -12,7 +12,7 @@
   {
     "ScientificName": "Heteropneustes kemratensis",
     "SpecCode": "60210",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -21,7 +21,7 @@
   {
     "ScientificName": "Heteropneustes longipectoralis",
     "SpecCode": "60648",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

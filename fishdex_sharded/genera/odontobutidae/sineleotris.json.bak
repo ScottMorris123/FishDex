@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Sineleotris chalmersi",
+    "SpecCode": "55181",
+    "CommonName": "海南細齒塘鱧",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sineleotris namxamensis",
+    "SpecCode": "60218",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sineleotris saccharae",
+    "SpecCode": "62848",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

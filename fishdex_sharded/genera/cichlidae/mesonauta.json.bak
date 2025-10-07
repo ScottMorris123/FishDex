@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Mesonauta acora",
+    "SpecCode": "52201",
+    "CommonName": "Marmoriviiva-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesonauta egregius",
+    "SpecCode": "57774",
+    "CommonName": "Savanniviiva-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesonauta festivus",
+    "SpecCode": "11140",
+    "CommonName": "Acará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesonauta guyanae",
+    "SpecCode": "57775",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesonauta insignis",
+    "SpecCode": "13272",
+    "CommonName": "Bufurqui",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mesonauta mirificus",
+    "SpecCode": "57772",
+    "CommonName": "Bufurqui",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

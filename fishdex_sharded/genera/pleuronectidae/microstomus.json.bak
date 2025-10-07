@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Microstomus achne",
+    "SpecCode": "8559",
+    "CommonName": "Babagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microstomus bathybius",
+    "SpecCode": "4236",
+    "CommonName": "Deepsea sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microstomus kitt",
+    "SpecCode": "1382",
+    "CommonName": "Almindelig rødtunge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microstomus pacificus",
+    "SpecCode": "4247",
+    "CommonName": "Dover sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microstomus shuntovi",
+    "SpecCode": "52516",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

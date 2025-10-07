@@ -11,7 +11,7 @@
   {
     "ScientificName": "Trematocara kufferathi",
     "SpecCode": "8957",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Trematocara marginatum",
     "SpecCode": "8959",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Trematocara stigmaticum",
     "SpecCode": "8962",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Trematocara variabile",
     "SpecCode": "8965",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

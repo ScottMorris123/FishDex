@@ -2,7 +2,7 @@
   {
     "ScientificName": "Searsioides calvala",
     "SpecCode": "59135",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Searsioides multispinus",
     "SpecCode": "59111",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

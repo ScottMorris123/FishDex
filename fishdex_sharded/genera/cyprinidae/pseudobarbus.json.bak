@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Pseudobarbus afer",
+    "SpecCode": "9817",
+    "CommonName": "Eastern Cape redfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus asper",
+    "SpecCode": "9924",
+    "CommonName": "Kare punapardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus burchelli",
+    "SpecCode": "6137",
+    "CommonName": "Breede redfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus burgi",
+    "SpecCode": "6138",
+    "CommonName": "Berg redfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus phlegethon",
+    "SpecCode": "6139",
+    "CommonName": "Fiery redfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus quathlambae",
+    "SpecCode": "6140",
+    "CommonName": "Drakensberg minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus senticeps",
+    "SpecCode": "68176",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus skeltoni",
+    "SpecCode": "67147",
+    "CommonName": "Giant redfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus swartzi",
+    "SpecCode": "68174",
+    "CommonName": "Gamtoos redfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus tenuis",
+    "SpecCode": "6097",
+    "CommonName": "Parmička štíhlá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobarbus verloreni",
+    "SpecCode": "67576",
+    "CommonName": "Verlorenvlei redfin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

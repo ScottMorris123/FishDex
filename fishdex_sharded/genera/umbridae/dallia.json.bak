@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Dallia admirabilis",
+    "SpecCode": "61837",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dallia delicatissima",
+    "SpecCode": "61838",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dallia pectoralis",
+    "SpecCode": "2705",
+    "CommonName": "Alaska blackfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

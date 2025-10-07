@@ -39,7 +39,7 @@
   {
     "ScientificName": "Oxynoemacheilus arsaniasus",
     "SpecCode": "69643",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -66,7 +66,7 @@
   {
     "ScientificName": "Oxynoemacheilus bergi",
     "SpecCode": "69641",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Oxynoemacheilus cemali",
     "SpecCode": "69640",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -129,7 +129,7 @@
   {
     "ScientificName": "Oxynoemacheilus ciceki",
     "SpecCode": "68700",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -138,7 +138,7 @@
   {
     "ScientificName": "Oxynoemacheilus cilicicus",
     "SpecCode": "69642",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -165,7 +165,7 @@
   {
     "ScientificName": "Oxynoemacheilus elsae",
     "SpecCode": "69639",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -246,7 +246,7 @@
   {
     "ScientificName": "Oxynoemacheilus gyndes",
     "SpecCode": "68528",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -264,7 +264,7 @@
   {
     "ScientificName": "Oxynoemacheilus hanae",
     "SpecCode": "68529",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -273,7 +273,7 @@
   {
     "ScientificName": "Oxynoemacheilus hazarensis",
     "SpecCode": "68531",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -300,7 +300,7 @@
   {
     "ScientificName": "Oxynoemacheilus kentritensis",
     "SpecCode": "68654",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -363,7 +363,7 @@
   {
     "ScientificName": "Oxynoemacheilus longipinnis",
     "SpecCode": "64500",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -399,7 +399,7 @@
   {
     "ScientificName": "Oxynoemacheilus muefiti",
     "SpecCode": "69644",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -426,7 +426,7 @@
   {
     "ScientificName": "Oxynoemacheilus parvinae",
     "SpecCode": "68275",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -453,7 +453,7 @@
   {
     "ScientificName": "Oxynoemacheilus phasicus",
     "SpecCode": "69637",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -507,7 +507,7 @@
   {
     "ScientificName": "Oxynoemacheilus shehabi",
     "SpecCode": "69612",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -552,7 +552,7 @@
   {
     "ScientificName": "Oxynoemacheilus veyseli",
     "SpecCode": "69638",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -570,7 +570,7 @@
   {
     "ScientificName": "Oxynoemacheilus zarzianus",
     "SpecCode": "68527",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

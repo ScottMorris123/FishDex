@@ -107,7 +107,7 @@
   {
     "ScientificName": "Lampetra soljani",
     "SpecCode": "68362",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

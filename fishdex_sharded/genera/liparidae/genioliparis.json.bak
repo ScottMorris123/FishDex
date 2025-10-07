@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Genioliparis ferox",
+    "SpecCode": "51499",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genioliparis kafanovi",
+    "SpecCode": "64091",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Genioliparis lindbergi",
+    "SpecCode": "56209",
+    "CommonName": "林氏吻趾狮子鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

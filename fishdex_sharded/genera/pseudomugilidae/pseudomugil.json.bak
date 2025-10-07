@@ -1,0 +1,152 @@
+[
+  {
+    "ScientificName": "Pseudomugil connieae",
+    "SpecCode": "10525",
+    "CommonName": "Popondetta blue-eye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil cyanodorsalis",
+    "SpecCode": "15167",
+    "CommonName": "Blårygget blåøje",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil furcatus",
+    "SpecCode": "10530",
+    "CommonName": "Forktail blue-eye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil gertrudae",
+    "SpecCode": "22749",
+    "CommonName": "Geflecktes Blauauge",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil inconspicuus",
+    "SpecCode": "15169",
+    "CommonName": "Inconspicuous blue eye",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil ivantsoffi",
+    "SpecCode": "61821",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil luminatus",
+    "SpecCode": "69397",
+    "CommonName": "Red neon blue-eye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil majusculus",
+    "SpecCode": "10531",
+    "CommonName": "Cape blue-eye",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil mellis",
+    "SpecCode": "6291",
+    "CommonName": "Honey blue eye",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil novaeguineae",
+    "SpecCode": "25661",
+    "CommonName": "Guinea-Blauauge",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil paludicola",
+    "SpecCode": "25662",
+    "CommonName": "Sumpblåøje",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil paskai",
+    "SpecCode": "10532",
+    "CommonName": "Brilliant blue eyes",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil pellucidus",
+    "SpecCode": "52461",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil reticulatus",
+    "SpecCode": "25663",
+    "CommonName": "Verkkosinisilmä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil signifer",
+    "SpecCode": "22750",
+    "CommonName": "Blue eye",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudomugil tenellus",
+    "SpecCode": "22751",
+    "CommonName": "Arnhem land blue-eye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

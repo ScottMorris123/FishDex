@@ -20,7 +20,7 @@
   {
     "ScientificName": "Serrasalmus auriventris",
     "SpecCode": "66128",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Serrasalmus emarginatus",
     "SpecCode": "58148",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -192,7 +192,7 @@
   {
     "ScientificName": "Serrasalmus nigricans",
     "SpecCode": "53360",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -201,7 +201,7 @@
   {
     "ScientificName": "Serrasalmus nigricauda",
     "SpecCode": "66129",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -210,7 +210,7 @@
   {
     "ScientificName": "Serrasalmus odyssei",
     "SpecCode": "65820",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -237,7 +237,7 @@
   {
     "ScientificName": "Serrasalmus scotopterus",
     "SpecCode": "58149",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -264,7 +264,7 @@
   {
     "ScientificName": "Serrasalmus stagnatilis",
     "SpecCode": "58150",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -273,7 +273,7 @@
   {
     "ScientificName": "Serrasalmus undulatus",
     "SpecCode": "58151",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

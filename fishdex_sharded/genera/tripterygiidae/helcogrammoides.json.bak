@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Helcogrammoides antarcticus",
+    "SpecCode": "7116",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogrammoides chilensis",
+    "SpecCode": "55253",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helcogrammoides cunninghami",
+    "SpecCode": "55252",
+    "CommonName": "Cunningham's triplefin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

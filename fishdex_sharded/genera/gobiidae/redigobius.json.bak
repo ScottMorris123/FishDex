@@ -1,0 +1,152 @@
+[
+  {
+    "ScientificName": "Redigobius amblyrhynchus",
+    "SpecCode": "25094",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius balteatops",
+    "SpecCode": "11703",
+    "CommonName": "Bul-dikkop",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius balteatus",
+    "SpecCode": "11817",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius bikolanus",
+    "SpecCode": "11818",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius chrysosoma",
+    "SpecCode": "25095",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius dewaali",
+    "SpecCode": "6346",
+    "CommonName": "Blokkies-dikkop",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius dispar",
+    "SpecCode": "25096",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius isognathus",
+    "SpecCode": "25098",
+    "CommonName": "等頜擬鰕虎魚",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius lekutu",
+    "SpecCode": "65744",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius leveri",
+    "SpecCode": "66714",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius macrostoma",
+    "SpecCode": "56980",
+    "CommonName": "Compressed goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius nanus",
+    "SpecCode": "65745",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius oyensi",
+    "SpecCode": "66716",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius penango",
+    "SpecCode": "25090",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Redigobius tambujon",
+    "SpecCode": "25101",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

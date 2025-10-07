@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Lamontichthys avacanoeiro",
+    "SpecCode": "65265",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamontichthys filamentosus",
+    "SpecCode": "50512",
+    "CommonName": "Bode cachimbo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamontichthys llanero",
+    "SpecCode": "57429",
+    "CommonName": "Nuolisiimaevä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamontichthys maracaibero",
+    "SpecCode": "49354",
+    "CommonName": "Bomba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamontichthys parakana",
+    "SpecCode": "65264",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lamontichthys stibaros",
+    "SpecCode": "50513",
+    "CommonName": "Isosiimaevä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Antigonia aurorosea",
     "SpecCode": "59051",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Antigonia hulleyi",
     "SpecCode": "63159",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Antigonia indica",
     "SpecCode": "59052",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Antigonia kenyae",
     "SpecCode": "63845",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Antigonia ovalis",
     "SpecCode": "64512",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Antigonia quiproqua",
     "SpecCode": "64513",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Antigonia saya",
     "SpecCode": "59053",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Antigonia socotrae",
     "SpecCode": "64514",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Antigonia undulata",
     "SpecCode": "63158",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Antigonia xenolepis",
     "SpecCode": "59054",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

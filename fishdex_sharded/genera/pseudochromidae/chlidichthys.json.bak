@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Chlidichthys abruptus",
+    "SpecCode": "63114",
+    "CommonName": "St Brandon's dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys auratus",
+    "SpecCode": "56486",
+    "CommonName": "Golden dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys bibulus",
+    "SpecCode": "23588",
+    "CommonName": "Neusie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys cacatuoides",
+    "SpecCode": "26820",
+    "CommonName": "Cockatoo dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys chagosensis",
+    "SpecCode": "63115",
+    "CommonName": "Chagos dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys clibanarius",
+    "SpecCode": "63117",
+    "CommonName": "Chainmail dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys foudioides",
+    "SpecCode": "63118",
+    "CommonName": "Fody dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys inornatus",
+    "SpecCode": "25683",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys johnvoelckeri",
+    "SpecCode": "23591",
+    "CommonName": "Cerise dottyback",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys pembae",
+    "SpecCode": "23586",
+    "CommonName": "彭伯軟雀鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys randalli",
+    "SpecCode": "57848",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys rubiceps",
+    "SpecCode": "56487",
+    "CommonName": "紅頭軟雀鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlidichthys smithae",
+    "SpecCode": "57847",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

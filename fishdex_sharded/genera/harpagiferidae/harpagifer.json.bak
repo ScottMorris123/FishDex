@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Harpagifer andriashevi",
+    "SpecCode": "60767",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer antarcticus",
+    "SpecCode": "7089",
+    "CommonName": "Antarctic spiny plunderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer bispinis",
+    "SpecCode": "7277",
+    "CommonName": "Magellan plunderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer crozetensis",
+    "SpecCode": "65420",
+    "CommonName": "Littoral Crozet spiny plounderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer georgianus",
+    "SpecCode": "7090",
+    "CommonName": "South Georgia spiny plunderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer kerguelensis",
+    "SpecCode": "7091",
+    "CommonName": "Kerguelen spiny plunderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer macquariensis",
+    "SpecCode": "60768",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer marionensis",
+    "SpecCode": "69047",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer nybelini",
+    "SpecCode": "60769",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer palliolatus",
+    "SpecCode": "7278",
+    "CommonName": "Crested spiny plunderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer permitini",
+    "SpecCode": "64559",
+    "CommonName": "Permitin spiny plunderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harpagifer spinosus",
+    "SpecCode": "7092",
+    "CommonName": "Deep-water spiny plunderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

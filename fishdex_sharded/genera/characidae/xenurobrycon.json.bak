@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Xenurobrycon coracoralinae",
+    "SpecCode": "62675",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenurobrycon heterodon",
+    "SpecCode": "51204",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenurobrycon macropus",
+    "SpecCode": "53371",
+    "CommonName": "Kuultoleijatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenurobrycon polyancistrus",
+    "SpecCode": "53372",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenurobrycon pteropus",
+    "SpecCode": "52651",
+    "CommonName": "巴西奇腺尾脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xenurobrycon varii",
+    "SpecCode": "68216",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

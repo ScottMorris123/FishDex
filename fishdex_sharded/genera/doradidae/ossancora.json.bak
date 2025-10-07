@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Ossancora asterophysa",
+    "SpecCode": "66698",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ossancora eigenmanni",
+    "SpecCode": "58105",
+    "CommonName": "Armado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ossancora fimbriata",
+    "SpecCode": "58103",
+    "CommonName": "Ripsiokamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ossancora punctata",
+    "SpecCode": "58102",
+    "CommonName": "Bagre hueso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

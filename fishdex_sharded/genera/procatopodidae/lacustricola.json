@@ -29,7 +29,7 @@
   {
     "ScientificName": "Lacustricola chobensis",
     "SpecCode": "69820",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Lacustricola nitida",
     "SpecCode": "69818",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Lacustricola petnehazyi",
     "SpecCode": "69080",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Lacustricola pygmaeus",
     "SpecCode": "69821",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

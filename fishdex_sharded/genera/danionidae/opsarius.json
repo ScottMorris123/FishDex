@@ -2,7 +2,7 @@
   {
     "ScientificName": "Opsarius ardens",
     "SpecCode": "68016",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Opsarius arunachalensis",
     "SpecCode": "69806",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Opsarius howesi",
     "SpecCode": "69802",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Opsarius infrafasciatus",
     "SpecCode": "55218",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Opsarius maculatus",
     "SpecCode": "68018",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Opsarius malabaricus",
     "SpecCode": "68017",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Opsarius putaoensis",
     "SpecCode": "69801",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

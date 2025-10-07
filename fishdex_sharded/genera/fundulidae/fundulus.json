@@ -258,7 +258,7 @@
   {
     "ScientificName": "Fundulus philpisteri",
     "SpecCode": "64537",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

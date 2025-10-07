@@ -20,7 +20,7 @@
   {
     "ScientificName": "Ctenochaetus flavicauda",
     "SpecCode": "59589",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

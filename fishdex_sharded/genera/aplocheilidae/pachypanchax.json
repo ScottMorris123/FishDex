@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pachypanchax arnoulti",
     "SpecCode": "63023",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pachypanchax patriciae",
     "SpecCode": "63019",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -48,7 +48,7 @@
   {
     "ScientificName": "Pachypanchax sparksorum",
     "SpecCode": "63022",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -57,7 +57,7 @@
   {
     "ScientificName": "Pachypanchax varatraza",
     "SpecCode": "63007",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

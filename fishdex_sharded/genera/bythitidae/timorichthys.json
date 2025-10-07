@@ -12,7 +12,7 @@
   {
     "ScientificName": "Timorichthys disjunctus",
     "SpecCode": "66391",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

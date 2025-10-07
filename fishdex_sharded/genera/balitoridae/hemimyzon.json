@@ -128,7 +128,7 @@
   {
     "ScientificName": "Hemimyzon yushanensis",
     "SpecCode": "69836",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

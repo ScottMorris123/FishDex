@@ -166,7 +166,7 @@
   {
     "ScientificName": "Microphysogobio luhensis",
     "SpecCode": "69574",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -247,7 +247,7 @@
   {
     "ScientificName": "Microphysogobio xianyouensis",
     "SpecCode": "68761",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -274,7 +274,7 @@
   {
     "ScientificName": "Microphysogobio zhangi",
     "SpecCode": "68760",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

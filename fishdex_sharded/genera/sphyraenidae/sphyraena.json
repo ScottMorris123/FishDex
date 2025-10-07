@@ -114,7 +114,7 @@
   {
     "ScientificName": "Sphyraena iburiensis",
     "SpecCode": "62382",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -132,7 +132,7 @@
   {
     "ScientificName": "Sphyraena intermedia",
     "SpecCode": "65628",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

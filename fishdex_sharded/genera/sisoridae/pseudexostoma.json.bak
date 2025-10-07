@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Pseudexostoma brachysoma",
+    "SpecCode": "51584",
+    "CommonName": "怒江拟鰋",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudexostoma longipterus",
+    "SpecCode": "63307",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudexostoma yunnanense",
+    "SpecCode": "51582",
+    "CommonName": "云南拟鰋",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

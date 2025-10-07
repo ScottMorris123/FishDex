@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Acestrocephalus acutus",
+    "SpecCode": "63992",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrocephalus anomalus",
+    "SpecCode": "52917",
+    "CommonName": "Cachás",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrocephalus boehlkei",
+    "SpecCode": "51805",
+    "CommonName": "Dientón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrocephalus maculosus",
+    "SpecCode": "63986",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrocephalus nigrifasciatus",
+    "SpecCode": "63990",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrocephalus pallidus",
+    "SpecCode": "63995",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrocephalus sardina",
+    "SpecCode": "53309",
+    "CommonName": "Dientón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acestrocephalus stigmatus",
+    "SpecCode": "63988",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

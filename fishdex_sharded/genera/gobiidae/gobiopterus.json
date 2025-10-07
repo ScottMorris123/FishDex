@@ -2,7 +2,7 @@
   {
     "ScientificName": "Gobiopterus birtwistlei",
     "SpecCode": "61728",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],
@@ -59,7 +59,7 @@
   {
     "ScientificName": "Gobiopterus panayensis",
     "SpecCode": "59234",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

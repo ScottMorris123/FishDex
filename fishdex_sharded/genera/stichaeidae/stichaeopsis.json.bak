@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Stichaeopsis epallax",
+    "SpecCode": "23791",
+    "CommonName": "Ame-gaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stichaeopsis nana",
+    "SpecCode": "23792",
+    "CommonName": "Gomaginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stichaeopsis nevelskoi",
+    "SpecCode": "50416",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

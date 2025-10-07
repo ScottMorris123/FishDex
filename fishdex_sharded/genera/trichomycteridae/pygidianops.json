@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pygidianops amphioxus",
     "SpecCode": "66282",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Pygidianops cuao",
     "SpecCode": "62629",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Pygidianops magoi",
     "SpecCode": "62630",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Abyssobrotula hadropercularis",
     "SpecCode": "70322",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

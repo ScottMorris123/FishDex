@@ -20,7 +20,7 @@
   {
     "ScientificName": "Alticus magnusi",
     "SpecCode": "67677",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -48,7 +48,7 @@
   {
     "ScientificName": "Alticus orientalis",
     "SpecCode": "67686",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

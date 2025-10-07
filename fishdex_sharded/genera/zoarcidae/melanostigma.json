@@ -20,7 +20,7 @@
   {
     "ScientificName": "Melanostigma bellingshauseni",
     "SpecCode": "69527",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Melanostigma kharini",
     "SpecCode": "68816",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

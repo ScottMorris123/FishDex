@@ -2,7 +2,7 @@
   {
     "ScientificName": "Andromakhe latens",
     "SpecCode": "62324",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Andromakhe saguazu",
     "SpecCode": "62038",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Andromakhe tupi",
     "SpecCode": "62328",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

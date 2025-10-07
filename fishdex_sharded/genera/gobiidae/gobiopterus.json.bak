@@ -1,0 +1,98 @@
+[
+  {
+    "ScientificName": "Gobiopterus birtwistlei",
+    "SpecCode": "61728",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopterus brachypterus",
+    "SpecCode": "25075",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopterus chuno",
+    "SpecCode": "25076",
+    "CommonName": "Chunobele",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopterus lacustris",
+    "SpecCode": "27635",
+    "CommonName": "Dulong",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopterus macrolepis",
+    "SpecCode": "55206",
+    "CommonName": "大鱗鰭鰕虎魚",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopterus mindanensis",
+    "SpecCode": "61672",
+    "CommonName": "Mindanao glassgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopterus panayensis",
+    "SpecCode": "59234",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopterus semivestitus",
+    "SpecCode": "27564",
+    "CommonName": "Glass goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopterus smithi",
+    "SpecCode": "25271",
+    "CommonName": "斯氏小柯氏魚",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopterus stellatus",
+    "SpecCode": "27636",
+    "CommonName": "Dolong",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

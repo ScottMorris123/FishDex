@@ -1,0 +1,40 @@
+[
+  {
+    "ScientificName": "Pseudocaranx chilensis",
+    "SpecCode": "1948",
+    "CommonName": "Carangue chilienne",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocaranx dentex",
+    "SpecCode": "1002",
+    "CommonName": "Araara",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocaranx dinjerra",
+    "SpecCode": "64515",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudocaranx wrighti",
+    "SpecCode": "1949",
+    "CommonName": "Sand trevally",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

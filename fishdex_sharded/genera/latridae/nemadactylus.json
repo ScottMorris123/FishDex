@@ -56,7 +56,7 @@
   {
     "ScientificName": "Nemadactylus vemae",
     "SpecCode": "60592",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

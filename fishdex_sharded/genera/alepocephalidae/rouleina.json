@@ -29,7 +29,7 @@
   {
     "ScientificName": "Rouleina euryops",
     "SpecCode": "58905",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Rouleina livida",
     "SpecCode": "58066",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Rouleina nuda",
     "SpecCode": "58906",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

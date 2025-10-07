@@ -2,7 +2,7 @@
   {
     "ScientificName": "Lepadichthys bilineatus",
     "SpecCode": "69081",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Lepadichthys ctenion",
     "SpecCode": "60708",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

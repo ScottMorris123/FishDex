@@ -1,0 +1,94 @@
+[
+  {
+    "ScientificName": "Aphaniops dispar",
+    "SpecCode": "4813",
+    "CommonName": "Afty",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphaniops furcatus",
+    "SpecCode": "67395",
+    "CommonName": "Iranian scaleless tooth-carp",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphaniops ginaonis",
+    "SpecCode": "49466",
+    "CommonName": "Kopur Rndandar Genu",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphaniops hormuzensis",
+    "SpecCode": "69743",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphaniops kruppi",
+    "SpecCode": "69549",
+    "CommonName": "Omani killifish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphaniops richardsoni",
+    "SpecCode": "69740",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphaniops sirhani",
+    "SpecCode": "27857",
+    "CommonName": "Sirhan-Kärpfling",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphaniops stiassnyae",
+    "SpecCode": "60057",
+    "CommonName": "Lake Afdera killifish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphaniops stoliczkanus",
+    "SpecCode": "69739",
+    "CommonName": "Arabian killifish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

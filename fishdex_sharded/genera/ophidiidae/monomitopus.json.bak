@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Monomitopus agassizii",
+    "SpecCode": "28225",
+    "CommonName": "Agashii-kumaitachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus americanus",
+    "SpecCode": "54171",
+    "CommonName": "美洲单趾鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus conjugator",
+    "SpecCode": "54164",
+    "CommonName": "鱗首單趾鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus garmani",
+    "SpecCode": "54169",
+    "CommonName": "加曼氏单趾鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus kumae",
+    "SpecCode": "23234",
+    "CommonName": "Kuma-itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus longiceps",
+    "SpecCode": "54167",
+    "CommonName": "長頭單趾鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus magnus",
+    "SpecCode": "54172",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus malispinosus",
+    "SpecCode": "54166",
+    "CommonName": "絨鱗單趾鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus metriostoma",
+    "SpecCode": "5096",
+    "CommonName": "前口单趾鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus microlepis",
+    "SpecCode": "54168",
+    "CommonName": "細鱗單趾鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus nigripinnis",
+    "SpecCode": "16787",
+    "CommonName": "黑鰭單趾鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus pallidus",
+    "SpecCode": "23235",
+    "CommonName": "Yaeba-kuma-itachiuo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus torvus",
+    "SpecCode": "54165",
+    "CommonName": "野单趾鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monomitopus vitiazi",
+    "SpecCode": "54170",
+    "CommonName": "Spearcheek cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

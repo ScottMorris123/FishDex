@@ -38,7 +38,7 @@
   {
     "ScientificName": "Malacoctenus carrowi",
     "SpecCode": "67642",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Malacoctenus mexicanus",
     "SpecCode": "66067",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Malacoctenus polyporosus",
     "SpecCode": "66066",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Malacoctenus sudensis",
     "SpecCode": "66068",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

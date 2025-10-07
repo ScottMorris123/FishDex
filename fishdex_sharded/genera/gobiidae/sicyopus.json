@@ -12,7 +12,7 @@
   {
     "ScientificName": "Sicyopus beremeensis",
     "SpecCode": "69980",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Sicyopus exallisquamulus",
     "SpecCode": "62748",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -90,7 +90,7 @@
   {
     "ScientificName": "Sicyopus rubicundus",
     "SpecCode": "68032",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

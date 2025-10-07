@@ -38,7 +38,7 @@
   {
     "ScientificName": "Melanostomias margaritifer",
     "SpecCode": "57904",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Melanostomias nigroaxialis",
     "SpecCode": "61145",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Melanostomias stewarti",
     "SpecCode": "59212",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Melanostomias vierecki",
     "SpecCode": "59211",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

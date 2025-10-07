@@ -1011,7 +1011,7 @@
   {
     "ScientificName": "Gymnothorax ryukyuensis",
     "SpecCode": "70209",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1101,7 +1101,7 @@
   {
     "ScientificName": "Gymnothorax tamilnaduensis",
     "SpecCode": "70211",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1176,7 +1176,7 @@
   {
     "ScientificName": "Gymnothorax visakhaensis",
     "SpecCode": "68918",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

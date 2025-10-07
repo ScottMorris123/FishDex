@@ -56,7 +56,7 @@
   {
     "ScientificName": "Synodus falcatus",
     "SpecCode": "61178",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Synodus fasciapelvicus",
     "SpecCode": "64927",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -93,7 +93,7 @@
   {
     "ScientificName": "Synodus gibbsi",
     "SpecCode": "60907",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -220,7 +220,7 @@
   {
     "ScientificName": "Synodus mascarensis",
     "SpecCode": "64060",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -229,7 +229,7 @@
   {
     "ScientificName": "Synodus mundyi",
     "SpecCode": "64980",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -283,7 +283,7 @@
   {
     "ScientificName": "Synodus pylei",
     "SpecCode": "64981",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -319,7 +319,7 @@
   {
     "ScientificName": "Synodus sanguineus",
     "SpecCode": "64982",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -373,7 +373,7 @@
   {
     "ScientificName": "Synodus taiwanensis",
     "SpecCode": "63420",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -418,7 +418,7 @@
   {
     "ScientificName": "Synodus vityazi",
     "SpecCode": "65544",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

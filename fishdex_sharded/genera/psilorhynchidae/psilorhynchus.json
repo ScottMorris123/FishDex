@@ -83,7 +83,7 @@
   {
     "ScientificName": "Psilorhynchus kaladanensis",
     "SpecCode": "68020",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Psilorhynchus konemi",
     "SpecCode": "68310",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Psilorhynchus magnaoculus",
     "SpecCode": "69630",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Psilorhynchus olliei",
     "SpecCode": "67892",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Psilorhynchus rowleyi",
     "SpecCode": "67578",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Psilorhynchus tysoni",
     "SpecCode": "68066",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Serrapinnus aster",
     "SpecCode": "67633",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Serrapinnus gracilis",
     "SpecCode": "28006",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Serrapinnus lucindai",
     "SpecCode": "67655",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Serrapinnus potiguar",
     "SpecCode": "67628",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Serrapinnus sterbai",
     "SpecCode": "66506",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Serrapinnus tocantinensis",
     "SpecCode": "67656",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Serrapinnus zanatae",
     "SpecCode": "68981",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

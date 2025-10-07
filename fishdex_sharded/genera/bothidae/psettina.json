@@ -65,7 +65,7 @@
   {
     "ScientificName": "Psettina senta",
     "SpecCode": "54942",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

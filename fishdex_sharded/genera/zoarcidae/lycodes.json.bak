@@ -1,0 +1,579 @@
+[
+  {
+    "ScientificName": "Lycodes adolfi",
+    "SpecCode": "48209",
+    "CommonName": "Adolfs ålebrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes akuugun",
+    "SpecCode": "62972",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes albolineatus",
+    "SpecCode": "48210",
+    "CommonName": "Whitebar eelpout",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes albonotatus",
+    "SpecCode": "23824",
+    "CommonName": "Hanagengi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes bathybius",
+    "SpecCode": "61679",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes beringi",
+    "SpecCode": "64886",
+    "CommonName": "Bering eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes brevipes",
+    "SpecCode": "3136",
+    "CommonName": "Glowik zuchewka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes brunneofasciatus",
+    "SpecCode": "25011",
+    "CommonName": "Harasujigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes caudimaculatus",
+    "SpecCode": "23837",
+    "CommonName": "Irezumigaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes concolor",
+    "SpecCode": "48216",
+    "CommonName": "Ebony eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes cortezianus",
+    "SpecCode": "3129",
+    "CommonName": "Aprodon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes diapterus",
+    "SpecCode": "3137",
+    "CommonName": "Black eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes esmarkii",
+    "SpecCode": "4333",
+    "CommonName": "Dílamjóri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes eudipleurostictus",
+    "SpecCode": "25228",
+    "CommonName": "Båndålebrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes fasciatus",
+    "SpecCode": "48217",
+    "CommonName": "Banded eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes frigidus",
+    "SpecCode": "15467",
+    "CommonName": "Abissalniy likod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes fulvus",
+    "SpecCode": "48218",
+    "CommonName": "金黃狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes gracilis",
+    "SpecCode": "61701",
+    "CommonName": "Almindelig ålebrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes heinemanni",
+    "SpecCode": "48219",
+    "CommonName": "海氏狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes hubbsi",
+    "SpecCode": "61693",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes japonicus",
+    "SpecCode": "23834",
+    "CommonName": "Ashinagagenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes jenseni",
+    "SpecCode": "23842",
+    "CommonName": "Ebisugaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes jugoricus",
+    "SpecCode": "3138",
+    "CommonName": "Lycode plume",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes lavalaei",
+    "SpecCode": "3139",
+    "CommonName": "Labradorålebrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes luetkenii",
+    "SpecCode": "46283",
+    "CommonName": "Likod Lyutkena",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes macrochir",
+    "SpecCode": "48220",
+    "CommonName": "大鰭狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes macrolepis",
+    "SpecCode": "25008",
+    "CommonName": "Yokoshimagaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes marisalbi",
+    "SpecCode": "61694",
+    "CommonName": "Belomorskiy likod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes matsubarai",
+    "SpecCode": "48221",
+    "CommonName": "松原狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes mcallisteri",
+    "SpecCode": "58252",
+    "CommonName": "Lycode de mcallister",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes microlepidotus",
+    "SpecCode": "48222",
+    "CommonName": "小鱗狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes microporus",
+    "SpecCode": "23838",
+    "CommonName": "Yasemayugaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes mucosus",
+    "SpecCode": "27463",
+    "CommonName": "Kugrauna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes nakamurae",
+    "SpecCode": "25009",
+    "CommonName": "Kurogenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes nishimurai",
+    "SpecCode": "62383",
+    "CommonName": "Orochigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes obscurus",
+    "SpecCode": "48223",
+    "CommonName": "暗色狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes ocellatus",
+    "SpecCode": "48224",
+    "CommonName": "侧斑狼绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes paamiuti",
+    "SpecCode": "58679",
+    "CommonName": "Lycode de paamiut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes pacificus",
+    "SpecCode": "3147",
+    "CommonName": "Blackbelly eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes palearis",
+    "SpecCode": "3140",
+    "CommonName": "Grebenchatiy likod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes pallidus",
+    "SpecCode": "3141",
+    "CommonName": "Bledniy likod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes paucilepidotus",
+    "SpecCode": "48225",
+    "CommonName": "丑狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes pectoralis",
+    "SpecCode": "48226",
+    "CommonName": "북갈치",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes polaris",
+    "SpecCode": "3142",
+    "CommonName": "Canadian eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes raridens",
+    "SpecCode": "48262",
+    "CommonName": "Eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes reticulatus",
+    "SpecCode": "3143",
+    "CommonName": "Arctic eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes rossi",
+    "SpecCode": "3144",
+    "CommonName": "Likod Rossa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes sadoensis",
+    "SpecCode": "23833",
+    "CommonName": "Sado-hinagenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes sagittarius",
+    "SpecCode": "3145",
+    "CommonName": "Archer eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes schmidti",
+    "SpecCode": "48263",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes semenovi",
+    "SpecCode": "58992",
+    "CommonName": "西氏狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes seminudus",
+    "SpecCode": "25231",
+    "CommonName": "Golik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes sigmatoides",
+    "SpecCode": "23836",
+    "CommonName": "Esujigaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes soldatovi",
+    "SpecCode": "25012",
+    "CommonName": "Kurogaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes squamiventer",
+    "SpecCode": "15466",
+    "CommonName": "Bugskællet ålebrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes tanakae",
+    "SpecCode": "23835",
+    "CommonName": "Tanakagenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes teraoi",
+    "SpecCode": "23832",
+    "CommonName": "Hinagenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes terraenovae",
+    "SpecCode": "48211",
+    "CommonName": "Atlantisk ålebrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes toyamensis",
+    "SpecCode": "23823",
+    "CommonName": "Agogenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes turneri",
+    "SpecCode": "3146",
+    "CommonName": "Estuarniy likod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes uschakovi",
+    "SpecCode": "23841",
+    "CommonName": "Kawarigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes vahlii",
+    "SpecCode": "15761",
+    "CommonName": "Ålbrosme",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes yamatoi",
+    "SpecCode": "48266",
+    "CommonName": "东狼绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lycodes ygreknotatus",
+    "SpecCode": "23840",
+    "CommonName": "Waijigenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

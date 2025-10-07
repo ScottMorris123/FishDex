@@ -38,7 +38,7 @@
   {
     "ScientificName": "Schistura albisella",
     "SpecCode": "68737",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Schistura andrewi",
     "SpecCode": "68916",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Schistura bhimachari",
     "SpecCode": "68404",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -335,7 +335,7 @@
   {
     "ScientificName": "Schistura colossa",
     "SpecCode": "68743",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -371,7 +371,7 @@
   {
     "ScientificName": "Schistura crassa",
     "SpecCode": "68739",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -524,7 +524,7 @@
   {
     "ScientificName": "Schistura epixenos",
     "SpecCode": "68745",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -615,7 +615,7 @@
   {
     "ScientificName": "Schistura greenei",
     "SpecCode": "68606",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -651,7 +651,7 @@
   {
     "ScientificName": "Schistura hiranyakeshi",
     "SpecCode": "69337",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -733,7 +733,7 @@
   {
     "ScientificName": "Schistura indawgyiana",
     "SpecCode": "68705",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -769,7 +769,7 @@
   {
     "ScientificName": "Schistura kampucheensis",
     "SpecCode": "68880",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -832,7 +832,7 @@
   {
     "ScientificName": "Schistura klydonion",
     "SpecCode": "68744",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -940,7 +940,7 @@
   {
     "ScientificName": "Schistura liyaiensis",
     "SpecCode": "68279",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1066,7 +1066,7 @@
   {
     "ScientificName": "Schistura megalodon",
     "SpecCode": "67745",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1102,7 +1102,7 @@
   {
     "ScientificName": "Schistura mizoramensis",
     "SpecCode": "67839",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1129,7 +1129,7 @@
   {
     "ScientificName": "Schistura mukambbikaensis",
     "SpecCode": "68405",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1147,7 +1147,7 @@
   {
     "ScientificName": "Schistura musa",
     "SpecCode": "68738",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1156,7 +1156,7 @@
   {
     "ScientificName": "Schistura myrmekia",
     "SpecCode": "68978",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1219,7 +1219,7 @@
   {
     "ScientificName": "Schistura nebeshwari",
     "SpecCode": "68934",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1282,7 +1282,7 @@
   {
     "ScientificName": "Schistura nubigena",
     "SpecCode": "68473",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1363,7 +1363,7 @@
   {
     "ScientificName": "Schistura paraxena",
     "SpecCode": "68607",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1435,7 +1435,7 @@
   {
     "ScientificName": "Schistura phamhringi",
     "SpecCode": "67734",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1714,7 +1714,7 @@
   {
     "ScientificName": "Schistura scripta",
     "SpecCode": "69877",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1723,7 +1723,7 @@
   {
     "ScientificName": "Schistura scyphovecteta",
     "SpecCode": "68935",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1957,7 +1957,7 @@
   {
     "ScientificName": "Schistura thavonei",
     "SpecCode": "68749",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -2038,7 +2038,7 @@
   {
     "ScientificName": "Schistura wanlainensis",
     "SpecCode": "68474",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

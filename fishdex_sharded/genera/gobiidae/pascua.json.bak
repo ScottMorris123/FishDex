@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Pascua caudilinea",
+    "SpecCode": "62975",
+    "CommonName": "Pascua goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pascua sticta",
+    "SpecCode": "62976",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

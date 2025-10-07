@@ -42,7 +42,7 @@
   {
     "ScientificName": "Deveximentum mazavasaoka",
     "SpecCode": "66256",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

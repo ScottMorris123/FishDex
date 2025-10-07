@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Paloa polylepis",
+    "SpecCode": "66103",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paloa villadolidi",
+    "SpecCode": "70264",
+    "CommonName": "Shīsā-haze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

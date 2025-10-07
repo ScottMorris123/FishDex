@@ -11,7 +11,7 @@
   {
     "ScientificName": "Citharichthys amblybregmatus",
     "SpecCode": "59549",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -85,7 +85,7 @@
   {
     "ScientificName": "Citharichthys gnathus",
     "SpecCode": "59550",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -130,7 +130,7 @@
   {
     "ScientificName": "Citharichthys minutus",
     "SpecCode": "59554",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -188,7 +188,7 @@
   {
     "ScientificName": "Citharichthys surinamensis",
     "SpecCode": "59547",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

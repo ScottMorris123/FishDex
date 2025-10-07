@@ -11,7 +11,7 @@
   {
     "ScientificName": "Diaphus agassizii",
     "SpecCode": "70490",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Diaphus balanovi",
     "SpecCode": "69619",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Diaphus basileusi",
     "SpecCode": "59940",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -461,7 +461,7 @@
   {
     "ScientificName": "Diaphus pallidus",
     "SpecCode": "60934",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -542,7 +542,7 @@
   {
     "ScientificName": "Diaphus rivatoni",
     "SpecCode": "63187",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

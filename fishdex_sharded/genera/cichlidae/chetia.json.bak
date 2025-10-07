@@ -1,0 +1,57 @@
+[
+  {
+    "ScientificName": "Chetia brevicauda",
+    "SpecCode": "61951",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chetia brevis",
+    "SpecCode": "6701",
+    "CommonName": "Orange-fringed largemouth",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chetia flaviventris",
+    "SpecCode": "5357",
+    "CommonName": "Canary kurper",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chetia gracilis",
+    "SpecCode": "6900",
+    "CommonName": "Slanke-happie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chetia mola",
+    "SpecCode": "6881",
+    "CommonName": "磨齒穴麗魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chetia welwitschi",
+    "SpecCode": "6882",
+    "CommonName": "Angola happy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

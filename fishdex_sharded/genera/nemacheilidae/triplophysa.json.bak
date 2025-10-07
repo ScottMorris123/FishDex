@@ -1,0 +1,1334 @@
+[
+  {
+    "ScientificName": "Triplophysa alexandrae",
+    "SpecCode": "60951",
+    "CommonName": "Aleksandra köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa aliensis",
+    "SpecCode": "54531",
+    "CommonName": "Ali köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa alticeps",
+    "SpecCode": "55368",
+    "CommonName": "Kukunori köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa altipinnis",
+    "SpecCode": "65971",
+    "CommonName": "Kõrguim-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa aluensis",
+    "SpecCode": "64939",
+    "CommonName": "Alu köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa angeli",
+    "SpecCode": "55376",
+    "CommonName": "Angeli köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa anterodorsalis",
+    "SpecCode": "60166",
+    "CommonName": "Eesuim-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa aquaecaeruleae",
+    "SpecCode": "60954",
+    "CommonName": "Loodehiina köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa arnoldii",
+    "SpecCode": "63301",
+    "CommonName": "Arnoldi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa bashanensis",
+    "SpecCode": "65640",
+    "CommonName": "Bashani köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa bleekeri",
+    "SpecCode": "56059",
+    "CommonName": "Bleekeri köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa bombifrons",
+    "SpecCode": "55377",
+    "CommonName": "Kumerlaup-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa brachyptera",
+    "SpecCode": "56043",
+    "CommonName": "Lühiuim-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa brahui",
+    "SpecCode": "54838",
+    "CommonName": "Brahui köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa brevibarba",
+    "SpecCode": "66432",
+    "CommonName": "Lühipois-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa brevicauda",
+    "SpecCode": "60167",
+    "CommonName": "Lühisaba-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa cakaensis",
+    "SpecCode": "56067",
+    "CommonName": "Mřenice ulanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa chandagaitensis",
+    "SpecCode": "63211",
+    "CommonName": "Tõva köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa chondrostoma",
+    "SpecCode": "56073",
+    "CommonName": "Kõhrsuu-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa choprai",
+    "SpecCode": "24655",
+    "CommonName": "Chopra köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa coniptera",
+    "SpecCode": "61646",
+    "CommonName": "Ümaruim-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa crassicauda",
+    "SpecCode": "66149",
+    "CommonName": "Laisaba-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa crassilabris",
+    "SpecCode": "60171",
+    "CommonName": "Laihuul-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa cuneicephala",
+    "SpecCode": "60168",
+    "CommonName": "Kiilpea-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa dalaica",
+    "SpecCode": "56096",
+    "CommonName": "Dalai köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa daochengensis",
+    "SpecCode": "68684",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa daqiaoensis",
+    "SpecCode": "58350",
+    "CommonName": "Mřenice sečuánská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa daryoae",
+    "SpecCode": "70090",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa dongganensis",
+    "SpecCode": "67545",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa dorsalis",
+    "SpecCode": "22849",
+    "CommonName": "Graue Schmerle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa edsinica",
+    "SpecCode": "62649",
+    "CommonName": "Ruo köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa eugeniae",
+    "SpecCode": "60955",
+    "CommonName": "Eugenia köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa farwelli",
+    "SpecCode": "55325",
+    "CommonName": "Farwelli köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa fengshanensis",
+    "SpecCode": "67544",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa flavicorpus",
+    "SpecCode": "64020",
+    "CommonName": "Kollakas köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa furva",
+    "SpecCode": "60169",
+    "CommonName": "Mřenice temnobarvá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa fuxianensis",
+    "SpecCode": "52589",
+    "CommonName": "Fuxiani köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa gejiuensis",
+    "SpecCode": "6159",
+    "CommonName": "Gejiu blind loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa gerzeensis",
+    "SpecCode": "56101",
+    "CommonName": "Gêrzê köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa gracilis",
+    "SpecCode": "24656",
+    "CommonName": "Gracilis triplophysa-loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa grahami",
+    "SpecCode": "50871",
+    "CommonName": "Grahami köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa griffithii",
+    "SpecCode": "24657",
+    "CommonName": "Griffithi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa gundriseri",
+    "SpecCode": "63198",
+    "CommonName": "Gundriseri köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa hazaraensis",
+    "SpecCode": "62755",
+    "CommonName": "Hazara köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa herzensteini",
+    "SpecCode": "63306",
+    "CommonName": "Herzensteini köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa hexiensis",
+    "SpecCode": "61647",
+    "CommonName": "Hexi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa heyangensis",
+    "SpecCode": "60170",
+    "CommonName": "Heyangi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa hialmari",
+    "SpecCode": "60956",
+    "CommonName": "Hialmari köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa hsutschouensis",
+    "SpecCode": "60172",
+    "CommonName": "Hsutschou köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa huanjiangensis",
+    "SpecCode": "66213",
+    "CommonName": "Huanjiangi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa huapingensis",
+    "SpecCode": "66474",
+    "CommonName": "Huapingi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa hutjertjuensis",
+    "SpecCode": "55324",
+    "CommonName": "Hutjertju köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa incipiens",
+    "SpecCode": "60897",
+    "CommonName": "Tarimi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa intermedia",
+    "SpecCode": "61643",
+    "CommonName": "Vahelmine köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa jianchuanensis",
+    "SpecCode": "65578",
+    "CommonName": "Jianchuan stone loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa jiarongensis",
+    "SpecCode": "66645",
+    "CommonName": "Jiarongi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa kafirnigani",
+    "SpecCode": "66444",
+    "CommonName": "Kofarnihoni köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa kashmirensis",
+    "SpecCode": "54936",
+    "CommonName": "Kashmiri köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa kaznakowi",
+    "SpecCode": "63303",
+    "CommonName": "Kaznakovi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa kullmanni",
+    "SpecCode": "56097",
+    "CommonName": "Kullmanni kivitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa kungessana",
+    "SpecCode": "66410",
+    "CommonName": "Kungèsi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa labiata",
+    "SpecCode": "23075",
+    "CommonName": "Dicklippenschmerle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa lacusnigri",
+    "SpecCode": "66447",
+    "CommonName": "Karakuli köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa lacustris",
+    "SpecCode": "60173",
+    "CommonName": "Järve-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa ladacensis",
+    "SpecCode": "24660",
+    "CommonName": "India köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa langpingensis",
+    "SpecCode": "67543",
+    "CommonName": "Langpingi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa laterimaculata",
+    "SpecCode": "63564",
+    "CommonName": "Laiguline köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa laticeps",
+    "SpecCode": "50121",
+    "CommonName": "Lamepea-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa leptosoma",
+    "SpecCode": "56100",
+    "CommonName": "Mřenice jemnoústá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa lihuensis",
+    "SpecCode": "67107",
+    "CommonName": "Lihu köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa lixianensis",
+    "SpecCode": "63718",
+    "CommonName": "Lixiani köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa longianguis",
+    "SpecCode": "56068",
+    "CommonName": "Madujas köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa longibarbata",
+    "SpecCode": "49968",
+    "CommonName": "Poisur-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa longipectoralis",
+    "SpecCode": "64938",
+    "CommonName": "Pikkuim-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa longliensis",
+    "SpecCode": "66948",
+    "CommonName": "Longli köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa luochengensis",
+    "SpecCode": "68773",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa macrocephala",
+    "SpecCode": "66272",
+    "CommonName": "Suurpea-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa macromaculata",
+    "SpecCode": "60174",
+    "CommonName": "Suurlaik-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa macrophthalma",
+    "SpecCode": "60175",
+    "CommonName": "Mřenice velkooká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa markehenensis",
+    "SpecCode": "56049",
+    "CommonName": "Markehe köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa marmorata",
+    "SpecCode": "24661",
+    "CommonName": "Ara gurun",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa microphthalma",
+    "SpecCode": "56040",
+    "CommonName": "Mřenka drobnooká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa microphysa",
+    "SpecCode": "60176",
+    "CommonName": "Mřenka měchýřková",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa microps",
+    "SpecCode": "24662",
+    "CommonName": "Leh triplophysa-loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa minuta",
+    "SpecCode": "56072",
+    "CommonName": "Mřenice malá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa minxianensis",
+    "SpecCode": "68945",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa moquensis",
+    "SpecCode": "60177",
+    "CommonName": "Mřenice východoasijská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa nandanensis",
+    "SpecCode": "60178",
+    "CommonName": "Mřenice nandanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa nanpanjiangensis",
+    "SpecCode": "52284",
+    "CommonName": "Mřenice východoasijská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa nasalis",
+    "SpecCode": "66413",
+    "CommonName": "Sisemongoolia köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa nasobarbatula",
+    "SpecCode": "60503",
+    "CommonName": "Mřenice vousorypá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa naziri",
+    "SpecCode": "62758",
+    "CommonName": "Pakistani köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa ninglangensis",
+    "SpecCode": "56069",
+    "CommonName": "Mřenice junanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa nujiangensa",
+    "SpecCode": "64035",
+    "CommonName": "Nujiangi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa obscura",
+    "SpecCode": "57224",
+    "CommonName": "Mřenice temná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa obtusirostra",
+    "SpecCode": "60179",
+    "CommonName": "Mřenice tuporypá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa orientalis",
+    "SpecCode": "56052",
+    "CommonName": "Ida-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa papillosolabiata",
+    "SpecCode": "66405",
+    "CommonName": "Näsahuul-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa pappenheimi",
+    "SpecCode": "56070",
+    "CommonName": "Mřenice Pappenheimova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa paradoxa",
+    "SpecCode": "60896",
+    "CommonName": "Talasi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa parvus",
+    "SpecCode": "64932",
+    "CommonName": "Pisi-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa pedaschenkoi",
+    "SpecCode": "66443",
+    "CommonName": "Õsõkköli köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa polyfasciata",
+    "SpecCode": "60180",
+    "CommonName": "Mřenice mnohopruhá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa pseudoscleroptera",
+    "SpecCode": "56047",
+    "CommonName": "Hiina köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa pseudostenura",
+    "SpecCode": "66913",
+    "CommonName": "Yalongi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa qilianensis",
+    "SpecCode": "68075",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa qiubeiensis",
+    "SpecCode": "64787",
+    "CommonName": "Qiubei köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa robusta",
+    "SpecCode": "56062",
+    "CommonName": "Mřenice mohutná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa rosa",
+    "SpecCode": "62957",
+    "CommonName": "Dongba köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa rossoperegrinatorum",
+    "SpecCode": "60958",
+    "CommonName": "Gansu köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa rotundiventris",
+    "SpecCode": "54579",
+    "CommonName": "Mřenice oblobřichá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa scapanognatha",
+    "SpecCode": "63314",
+    "CommonName": "Qaidami köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa scleroptera",
+    "SpecCode": "56056",
+    "CommonName": "Kalkuim-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa sellaefer",
+    "SpecCode": "60181",
+    "CommonName": "Sadul-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa sewerzowi",
+    "SpecCode": "48181",
+    "CommonName": "Golets Severtsova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa shaanxiensis",
+    "SpecCode": "63335",
+    "CommonName": "Shaanxi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa shehensis",
+    "SpecCode": "24666",
+    "CommonName": "Mřenice ladacká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa shilinensis",
+    "SpecCode": "49965",
+    "CommonName": "Mřenice jeskynní",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa shiyangensis",
+    "SpecCode": "68793",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa siluroides",
+    "SpecCode": "56071",
+    "CommonName": "Catfish-like loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa stenura",
+    "SpecCode": "54500",
+    "CommonName": "Mřenice brahmaputerská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa stewarti",
+    "SpecCode": "54499",
+    "CommonName": "Mřenice Stewartova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa stolickai",
+    "SpecCode": "24669",
+    "CommonName": "Mřenice Stliczkové",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa strauchii",
+    "SpecCode": "23070",
+    "CommonName": "Gefleckte Dicklippen-Schmerle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa tanggulaensis",
+    "SpecCode": "60183",
+    "CommonName": "Tanggula köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa tenuicauda",
+    "SpecCode": "24670",
+    "CommonName": "Mřenice útloocasá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa tenuis",
+    "SpecCode": "55326",
+    "CommonName": "Kiitsak-köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa tianeensis",
+    "SpecCode": "64034",
+    "CommonName": "Hongshui köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa tianlinensis",
+    "SpecCode": "68774",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa tibetana",
+    "SpecCode": "54501",
+    "CommonName": "Mřenice tibetská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa trewavasae",
+    "SpecCode": "55609",
+    "CommonName": "Mřenice Trewavasové",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa turpanensis",
+    "SpecCode": "56053",
+    "CommonName": "Mřenice turpanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa ulacholica",
+    "SpecCode": "48377",
+    "CommonName": "Issyk-kul naked loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa venusta",
+    "SpecCode": "60184",
+    "CommonName": "Mřenice pohledná",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa waisihani",
+    "SpecCode": "64758",
+    "CommonName": "Yiningi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa wuweiensis",
+    "SpecCode": "56058",
+    "CommonName": "Mřenice kansunská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa xiangshuingensis",
+    "SpecCode": "64016",
+    "CommonName": "Xiangshuijingi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa xiangxiensis",
+    "SpecCode": "6162",
+    "CommonName": "Mřenice hunanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa xichangensis",
+    "SpecCode": "60185",
+    "CommonName": "Xichangi köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa xingshanensis",
+    "SpecCode": "63322",
+    "CommonName": "Xingshani köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa xiqiensis",
+    "SpecCode": "60186",
+    "CommonName": "Mřenice sikajská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa yaopeizhii",
+    "SpecCode": "56102",
+    "CommonName": "Mřenice xizangská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa yasinensis",
+    "SpecCode": "24671",
+    "CommonName": "Mřenice jasinská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa yunnanensis",
+    "SpecCode": "49964",
+    "CommonName": "Mřenice junanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa zaidamensis",
+    "SpecCode": "66147",
+    "CommonName": "Quinghai köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa zamegacephala",
+    "SpecCode": "56044",
+    "CommonName": "Gaize köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa zhaoi",
+    "SpecCode": "63302",
+    "CommonName": "Zhao köbertrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triplophysa zhenfengensis",
+    "SpecCode": "60502",
+    "CommonName": "Mřenice šenfengská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

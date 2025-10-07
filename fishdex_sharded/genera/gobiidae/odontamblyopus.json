@@ -12,7 +12,7 @@
   {
     "ScientificName": "Odontamblyopus rebecca",
     "SpecCode": "60107",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -22,7 +22,7 @@
   {
     "ScientificName": "Odontamblyopus roseus",
     "SpecCode": "60109",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -41,7 +41,7 @@
   {
     "ScientificName": "Odontamblyopus tenuis",
     "SpecCode": "60108",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",

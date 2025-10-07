@@ -2,7 +2,7 @@
   {
     "ScientificName": "Rhyacoglanis annulatus",
     "SpecCode": "70024",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Rhyacoglanis epiblepsis",
     "SpecCode": "70025",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Rhyacoglanis paranensis",
     "SpecCode": "70022",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Rhyacoglanis seminiger",
     "SpecCode": "70023",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

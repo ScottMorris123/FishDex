@@ -29,7 +29,7 @@
   {
     "ScientificName": "Leporinus alternus",
     "SpecCode": "53286",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Leporinus badueli",
     "SpecCode": "61631",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Leporinus microphysus",
     "SpecCode": "70178",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -488,7 +488,7 @@
   {
     "ScientificName": "Leporinus ortomaculatus",
     "SpecCode": "56963",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -515,7 +515,7 @@
   {
     "ScientificName": "Leporinus paralternus",
     "SpecCode": "53297",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -578,7 +578,7 @@
   {
     "ScientificName": "Leporinus platycephalus",
     "SpecCode": "62845",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -704,7 +704,7 @@
   {
     "ScientificName": "Leporinus tristriatus",
     "SpecCode": "70179",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

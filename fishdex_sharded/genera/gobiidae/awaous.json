@@ -60,7 +60,7 @@
   {
     "ScientificName": "Awaous fluviatilis",
     "SpecCode": "25238",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -112,7 +112,7 @@
   {
     "ScientificName": "Awaous litturatus",
     "SpecCode": "61318",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -172,7 +172,7 @@
   {
     "ScientificName": "Awaous personatus",
     "SpecCode": "55524",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -181,7 +181,7 @@
   {
     "ScientificName": "Awaous stamineus",
     "SpecCode": "67119",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -69,7 +69,7 @@
   {
     "ScientificName": "Syngnathus caspius",
     "SpecCode": "70465",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -88,7 +88,7 @@
   {
     "ScientificName": "Syngnathus dawsoni",
     "SpecCode": "61275",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -228,7 +228,7 @@
   {
     "ScientificName": "Syngnathus safina",
     "SpecCode": "61282",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -287,7 +287,7 @@
   {
     "ScientificName": "Syngnathus temminckii",
     "SpecCode": "68845",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

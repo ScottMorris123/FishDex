@@ -38,7 +38,7 @@
   {
     "ScientificName": "Neotrygon indica",
     "SpecCode": "69054",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Neotrygon varidens",
     "SpecCode": "69732",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

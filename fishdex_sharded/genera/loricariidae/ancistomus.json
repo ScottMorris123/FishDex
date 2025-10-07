@@ -11,7 +11,7 @@
   {
     "ScientificName": "Ancistomus micrommatos",
     "SpecCode": "61416",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Ancistomus spilomma",
     "SpecCode": "61415",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Ancistomus spinosissimus",
     "SpecCode": "61601",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

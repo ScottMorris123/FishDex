@@ -29,7 +29,7 @@
   {
     "ScientificName": "Oxyeleotris colasi",
     "SpecCode": "67137",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Oxyeleotris mertoni",
     "SpecCode": "70462",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",
@@ -122,7 +122,7 @@
   {
     "ScientificName": "Oxyeleotris siamensis",
     "SpecCode": "59246",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -134,7 +134,7 @@
   {
     "ScientificName": "Periophthalmus spilotus",
     "SpecCode": "57510",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],
@@ -152,7 +152,7 @@
   {
     "ScientificName": "Periophthalmus variabilis",
     "SpecCode": "65362",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -162,7 +162,7 @@
   {
     "ScientificName": "Periophthalmus walailakae",
     "SpecCode": "61443",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],

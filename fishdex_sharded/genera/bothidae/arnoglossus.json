@@ -48,7 +48,7 @@
   {
     "ScientificName": "Arnoglossus boops",
     "SpecCode": "59558",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -75,7 +75,7 @@
   {
     "ScientificName": "Arnoglossus coeruleosticta",
     "SpecCode": "55116",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -156,7 +156,7 @@
   {
     "ScientificName": "Arnoglossus kotthausi",
     "SpecCode": "69669",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -183,7 +183,7 @@
   {
     "ScientificName": "Arnoglossus marisrubri",
     "SpecCode": "60532",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -219,7 +219,7 @@
   {
     "ScientificName": "Arnoglossus nigrifrons",
     "SpecCode": "58969",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -282,7 +282,7 @@
   {
     "ScientificName": "Arnoglossus septemventralis",
     "SpecCode": "58970",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

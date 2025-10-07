@@ -2,7 +2,7 @@
   {
     "ScientificName": "Aphyocharax agassizii",
     "SpecCode": "52921",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Aphyocharax gracilis",
     "SpecCode": "57991",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Aphyocharax yekwanae",
     "SpecCode": "61400",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

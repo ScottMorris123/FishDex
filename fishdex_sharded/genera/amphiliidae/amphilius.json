@@ -11,7 +11,7 @@
   {
     "ScientificName": "Amphilius athiensis",
     "SpecCode": "65747",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Amphilius caudosignatus",
     "SpecCode": "64048",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Amphilius chalei",
     "SpecCode": "64266",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Amphilius crassus",
     "SpecCode": "68052",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Amphilius dimonikensis",
     "SpecCode": "64047",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Amphilius frieli",
     "SpecCode": "67859",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Amphilius grandis",
     "SpecCode": "66217",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Amphilius korupi",
     "SpecCode": "64050",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Amphilius krefftii",
     "SpecCode": "66218",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Amphilius lujani",
     "SpecCode": "68053",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Amphilius mamonekenensis",
     "SpecCode": "64051",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Amphilius nigricaudatus",
     "SpecCode": "66735",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Amphilius pedunculus",
     "SpecCode": "68049",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -299,7 +299,7 @@
   {
     "ScientificName": "Amphilius ruziziensis",
     "SpecCode": "68048",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

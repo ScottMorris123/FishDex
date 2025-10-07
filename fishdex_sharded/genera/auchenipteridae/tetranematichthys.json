@@ -2,7 +2,7 @@
   {
     "ScientificName": "Tetranematichthys barthemi",
     "SpecCode": "65404",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -21,7 +21,7 @@
   {
     "ScientificName": "Tetranematichthys wallacei",
     "SpecCode": "62963",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

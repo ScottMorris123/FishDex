@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Conocara bertelseni",
+    "SpecCode": "60306",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conocara fiolenti",
+    "SpecCode": "10775",
+    "CommonName": "Fiolenti's smooth head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conocara kreffti",
+    "SpecCode": "51689",
+    "CommonName": "Wrinkled slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conocara macropterum",
+    "SpecCode": "10789",
+    "CommonName": "Long-fin Smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conocara microlepis",
+    "SpecCode": "10792",
+    "CommonName": "Elongate slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conocara murrayi",
+    "SpecCode": "10795",
+    "CommonName": "Murray's smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conocara nigrum",
+    "SpecCode": "24558",
+    "CommonName": "Black dragon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conocara paxtoni",
+    "SpecCode": "65647",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conocara salmoneum",
+    "SpecCode": "10806",
+    "CommonName": "Deepsea slickhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Conocara werneri",
+    "SpecCode": "10812",
+    "CommonName": "Werner's smooth-head",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

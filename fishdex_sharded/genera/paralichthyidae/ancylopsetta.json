@@ -2,7 +2,7 @@
   {
     "ScientificName": "Ancylopsetta antillarum",
     "SpecCode": "58946",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Ancylopsetta microctenus",
     "SpecCode": "59553",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

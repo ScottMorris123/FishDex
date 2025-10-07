@@ -2,7 +2,7 @@
   {
     "ScientificName": "Sphagemacrurus decimalis",
     "SpecCode": "58841",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Sphagemacrurus gibber",
     "SpecCode": "52363",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

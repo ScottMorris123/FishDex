@@ -47,7 +47,7 @@
   {
     "ScientificName": "Urophycis mystacea",
     "SpecCode": "60494",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -39,7 +39,7 @@
   {
     "ScientificName": "Equulites laterofenestra",
     "SpecCode": "63518",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

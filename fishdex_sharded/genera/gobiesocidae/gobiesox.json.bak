@@ -1,0 +1,264 @@
+[
+  {
+    "ScientificName": "Gobiesox adustus",
+    "SpecCode": "46473",
+    "CommonName": "Chupapiedra panameño",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox aethus",
+    "SpecCode": "55724",
+    "CommonName": "Chupapiedra de Clarión",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox barbatulus",
+    "SpecCode": "57906",
+    "CommonName": "Chupapiedra aristada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox canidens",
+    "SpecCode": "55721",
+    "CommonName": "Chupapiedra de Socorro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox cephalus",
+    "SpecCode": "23403",
+    "CommonName": "Chupador",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox crassicorpus",
+    "SpecCode": "55720",
+    "CommonName": "糙体喉盘鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox daedaleus",
+    "SpecCode": "55719",
+    "CommonName": "美喉盘鱼",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox eugrammus",
+    "SpecCode": "3074",
+    "CommonName": "Chupapiedra estriada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox fluviatilis",
+    "SpecCode": "55727",
+    "CommonName": "Cucharita de río",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox fulvus",
+    "SpecCode": "55717",
+    "CommonName": "Kollakas imikõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox juniperoserrai",
+    "SpecCode": "50290",
+    "CommonName": "Cucharita peninsular",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox juradoensis",
+    "SpecCode": "55718",
+    "CommonName": "Juradó imikõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox lucayanus",
+    "SpecCode": "16678",
+    "CommonName": "Bahama skilletfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox maeandricus",
+    "SpecCode": "3075",
+    "CommonName": "Chupapiedra norteña",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox marijeanae",
+    "SpecCode": "60711",
+    "CommonName": "Chupapiedra solita",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox marmoratus",
+    "SpecCode": "8395",
+    "CommonName": "Chino",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox mexicanus",
+    "SpecCode": "55726",
+    "CommonName": "Cucharita mexicana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox milleri",
+    "SpecCode": "60717",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox multitentaculus",
+    "SpecCode": "55722",
+    "CommonName": "Fondero",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox nigripinnis",
+    "SpecCode": "55040",
+    "CommonName": "Blackfinned clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox papillifer",
+    "SpecCode": "3076",
+    "CommonName": "Bearded clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox pinniger",
+    "SpecCode": "54505",
+    "CommonName": "Renacuajo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox potamius",
+    "SpecCode": "55725",
+    "CommonName": "Chupapiedra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox punctulatus",
+    "SpecCode": "3077",
+    "CommonName": "Chupapiedra punteada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox rhessodon",
+    "SpecCode": "3078",
+    "CommonName": "California clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox schultzi",
+    "SpecCode": "55723",
+    "CommonName": "Boca suave",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox stenocephalus",
+    "SpecCode": "60716",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox strumosus",
+    "SpecCode": "3079",
+    "CommonName": "Cazoleta",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiesox woodsi",
+    "SpecCode": "46475",
+    "CommonName": "Woods' clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

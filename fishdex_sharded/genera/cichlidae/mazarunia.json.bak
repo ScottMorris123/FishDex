@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Mazarunia charadrica",
+    "SpecCode": "66642",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mazarunia mazarunii",
+    "SpecCode": "52018",
+    "CommonName": "Matsaruni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mazarunia pala",
+    "SpecCode": "66643",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

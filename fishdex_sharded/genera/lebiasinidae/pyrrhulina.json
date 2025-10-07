@@ -38,7 +38,7 @@
   {
     "ScientificName": "Pyrrhulina elongata",
     "SpecCode": "58007",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Pyrrhulina marilynae",
     "SpecCode": "66990",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Pyrrhulina maxima",
     "SpecCode": "53732",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

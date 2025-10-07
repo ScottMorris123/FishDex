@@ -12,7 +12,7 @@
   {
     "ScientificName": "Gnatholepis argus",
     "SpecCode": "64696",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -21,7 +21,7 @@
   {
     "ScientificName": "Gnatholepis caudimaculata",
     "SpecCode": "66650",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -49,7 +49,7 @@
   {
     "ScientificName": "Gnatholepis knighti",
     "SpecCode": "66652",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -58,7 +58,7 @@
   {
     "ScientificName": "Gnatholepis ophthalmotaenia",
     "SpecCode": "66651",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

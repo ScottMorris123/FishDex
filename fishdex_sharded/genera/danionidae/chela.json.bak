@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Chela cachius",
+    "SpecCode": "13220",
+    "CommonName": "Barle",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chela khujairokensis",
+    "SpecCode": "65172",
+    "CommonName": "Khujairoki nugakõht",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chela macrolepis",
+    "SpecCode": "67563",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

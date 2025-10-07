@@ -47,7 +47,7 @@
   {
     "ScientificName": "Notoglanidium pallidum",
     "SpecCode": "9350",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Notoglanidium pembetadi",
     "SpecCode": "67155",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Notoglanidium thomasi",
     "SpecCode": "9351",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

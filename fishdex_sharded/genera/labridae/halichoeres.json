@@ -192,7 +192,7 @@
   {
     "ScientificName": "Halichoeres dimidiatus",
     "SpecCode": "62268",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -534,7 +534,7 @@
   {
     "ScientificName": "Halichoeres penrosei",
     "SpecCode": "62269",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -607,7 +607,7 @@
   {
     "ScientificName": "Halichoeres rubrovirens",
     "SpecCode": "65545",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -625,7 +625,7 @@
   {
     "ScientificName": "Halichoeres sazimai",
     "SpecCode": "64977",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -733,7 +733,7 @@
   {
     "ScientificName": "Halichoeres zulu",
     "SpecCode": "65401",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

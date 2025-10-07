@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Rhynchohyalus natalensis",
+    "SpecCode": "9123",
+    "CommonName": "Glasshead barreleye",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchohyalus parbevs",
+    "SpecCode": "69784",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

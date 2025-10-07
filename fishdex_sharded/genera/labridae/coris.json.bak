@@ -1,0 +1,245 @@
+[
+  {
+    "ScientificName": "Coris atlantica",
+    "SpecCode": "58407",
+    "CommonName": "Dièn i géwèl",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris auricularis",
+    "SpecCode": "25769",
+    "CommonName": "King wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris aurilineata",
+    "SpecCode": "13029",
+    "CommonName": "Goldlined coris",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris aygula",
+    "SpecCode": "5624",
+    "CommonName": "Angol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris ballieui",
+    "SpecCode": "60816",
+    "CommonName": "Light colored wrasse fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris batuensis",
+    "SpecCode": "25688",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris bulbifrons",
+    "SpecCode": "12729",
+    "CommonName": "Doubleheader",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris caudimacula",
+    "SpecCode": "8026",
+    "CommonName": "Girelle à tache caudale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris centralis",
+    "SpecCode": "55260",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris cuvieri",
+    "SpecCode": "52844",
+    "CommonName": "Aafrika merijunkur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris debueni",
+    "SpecCode": "55262",
+    "CommonName": "De Buen's coris",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris dorsomacula",
+    "SpecCode": "6657",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris flavovittata",
+    "SpecCode": "7827",
+    "CommonName": "Hilu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris formosa",
+    "SpecCode": "7736",
+    "CommonName": "Caralete rainha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris gaimard",
+    "SpecCode": "5625",
+    "CommonName": "African clown wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris hewetti",
+    "SpecCode": "55344",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris julis",
+    "SpecCode": "58",
+    "CommonName": "African rainbow wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris latifasciata",
+    "SpecCode": "66974",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris marquesensis",
+    "SpecCode": "55347",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris musume",
+    "SpecCode": "61752",
+    "CommonName": "Musumebera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris nigrotaenia",
+    "SpecCode": "46462",
+    "CommonName": "Blackbar coris",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris picta",
+    "SpecCode": "7183",
+    "CommonName": "Australian comb wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris pictoides",
+    "SpecCode": "5107",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris roseoviridis",
+    "SpecCode": "55349",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris sandeyeri",
+    "SpecCode": "12793",
+    "CommonName": "Eastern king wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris variegata",
+    "SpecCode": "5485",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coris venusta",
+    "SpecCode": "7826",
+    "CommonName": "Elegant coris",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

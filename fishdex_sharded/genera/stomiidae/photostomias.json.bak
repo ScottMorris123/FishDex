@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Photostomias atrox",
+    "SpecCode": "63863",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photostomias goodyeari",
+    "SpecCode": "63842",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photostomias guernei",
+    "SpecCode": "5089",
+    "CommonName": "Harilik helendnõelsuu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photostomias liemi",
+    "SpecCode": "64874",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photostomias lucingens",
+    "SpecCode": "64875",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photostomias tantillux",
+    "SpecCode": "64871",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

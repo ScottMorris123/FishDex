@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Rabaulichthys altipinnis",
+    "SpecCode": "24435",
+    "CommonName": "Sailfin anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rabaulichthys squirei",
+    "SpecCode": "66610",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rabaulichthys stigmaticus",
+    "SpecCode": "24436",
+    "CommonName": "Spotfin anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rabaulichthys suzukii",
+    "SpecCode": "61271",
+    "CommonName": "Hokake-hanadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

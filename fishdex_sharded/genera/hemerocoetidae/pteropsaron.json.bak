@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Pteropsaron dabfar",
+    "SpecCode": "67345",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteropsaron evolans",
+    "SpecCode": "23550",
+    "CommonName": "Hokaketoragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteropsaron heemstrai",
+    "SpecCode": "16936",
+    "CommonName": "希氏帆鰭鱸鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteropsaron incisum",
+    "SpecCode": "55115",
+    "CommonName": "切齒帆鰭鱸鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteropsaron indicum",
+    "SpecCode": "69220",
+    "CommonName": "Indian signalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteropsaron levitoni",
+    "SpecCode": "67346",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteropsaron longipinnis",
+    "SpecCode": "66875",
+    "CommonName": "Midwater sand-diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteropsaron natalensis",
+    "SpecCode": "16935",
+    "CommonName": "南非小骨鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteropsaron neocaledonicus",
+    "SpecCode": "63184",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pteropsaron springeri",
+    "SpecCode": "64585",
+    "CommonName": "Springer's sand-diver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -40,7 +40,7 @@
   {
     "ScientificName": "Pseudamia rubra",
     "SpecCode": "26966",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

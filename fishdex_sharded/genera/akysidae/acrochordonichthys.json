@@ -11,7 +11,7 @@
   {
     "ScientificName": "Acrochordonichthys falcifer",
     "SpecCode": "58361",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Acrochordonichthys guttatus",
     "SpecCode": "58357",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Acrochordonichthys mahakamensis",
     "SpecCode": "58358",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Acrochordonichthys strigosus",
     "SpecCode": "58360",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -23,7 +23,7 @@
   {
     "ScientificName": "Taenioides caniscapulus",
     "SpecCode": "60103",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Taenioides kentalleni",
     "SpecCode": "60102",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

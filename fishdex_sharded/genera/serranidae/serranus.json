@@ -20,7 +20,7 @@
   {
     "ScientificName": "Serranus aliceae",
     "SpecCode": "67805",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Serranus drewesi",
     "SpecCode": "68804",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Serranus heterurus",
     "SpecCode": "61273",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Serranus inexpectatus",
     "SpecCode": "68805",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Serranus maytagi",
     "SpecCode": "57920",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Serranus pulcher",
     "SpecCode": "68148",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Serranus tico",
     "SpecCode": "65899",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

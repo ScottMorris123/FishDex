@@ -2,7 +2,7 @@
   {
     "ScientificName": "Paracaristius aquilus",
     "SpecCode": "66298",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Paracaristius nemorosus",
     "SpecCode": "66297",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Paracaristius nudarcus",
     "SpecCode": "66296",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

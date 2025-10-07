@@ -1,0 +1,155 @@
+[
+  {
+    "ScientificName": "Strongylura anastomella",
+    "SpecCode": "23039",
+    "CommonName": "Belona pacyficzna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura exilis",
+    "SpecCode": "3162",
+    "CommonName": "Aguja",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura fluviatilis",
+    "SpecCode": "53809",
+    "CommonName": "溪栖柱颌针鱼",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura forsythia",
+    "SpecCode": "53810",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura hubbsi",
+    "SpecCode": "53812",
+    "CommonName": "Agujón maya",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura incisa",
+    "SpecCode": "8121",
+    "CommonName": "Anayid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura krefftii",
+    "SpecCode": "8817",
+    "CommonName": "Baloon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura leiura",
+    "SpecCode": "1315",
+    "CommonName": "Agujón cintado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura marina",
+    "SpecCode": "974",
+    "CommonName": "Agujon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura notata",
+    "SpecCode": "3163",
+    "CommonName": "Agujon",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura scapularis",
+    "SpecCode": "13553",
+    "CommonName": "Aguja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura senegalensis",
+    "SpecCode": "9023",
+    "CommonName": "Agujón senegalés",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura strongylura",
+    "SpecCode": "1316",
+    "CommonName": "Agujón ocelado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura timucu",
+    "SpecCode": "975",
+    "CommonName": "Acarapindá",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Strongylura urvillii",
+    "SpecCode": "14497",
+    "CommonName": "Batali",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

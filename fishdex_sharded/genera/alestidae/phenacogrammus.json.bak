@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Phenacogrammus aurantiacus",
+    "SpecCode": "11156",
+    "CommonName": "Oranž pikkuimsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus bleheri",
+    "SpecCode": "58193",
+    "CommonName": "Bleheri pikkuimsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus concolor",
+    "SpecCode": "69814",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus deheyni",
+    "SpecCode": "11157",
+    "CommonName": "Brauner Kongosalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus flexus",
+    "SpecCode": "69813",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus interruptus",
+    "SpecCode": "10660",
+    "CommonName": "Almindelig congotetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus major",
+    "SpecCode": "11160",
+    "CommonName": "Kameruni pikkuimsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus polli",
+    "SpecCode": "11161",
+    "CommonName": "Polli pikkuimsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus stigmatura",
+    "SpecCode": "12631",
+    "CommonName": "Kribi pikkuimsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus taeniatus",
+    "SpecCode": "51819",
+    "CommonName": "Triip-pikkuimsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogrammus urotaenia",
+    "SpecCode": "11162",
+    "CommonName": "Juttsaba-pikkuimsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

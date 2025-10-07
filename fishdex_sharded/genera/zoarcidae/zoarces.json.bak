@@ -1,0 +1,60 @@
+[
+  {
+    "ScientificName": "Zoarces americanus",
+    "SpecCode": "480",
+    "CommonName": "Ålekone",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarces andriashevi",
+    "SpecCode": "63120",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarces elongatus",
+    "SpecCode": "23806",
+    "CommonName": "Kaugida emakala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarces fedorovi",
+    "SpecCode": "64619",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarces gillii",
+    "SpecCode": "23808",
+    "CommonName": "Blotched eelpout",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Zoarces viviparus",
+    "SpecCode": "479",
+    "CommonName": "Aalmutter",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

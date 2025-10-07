@@ -30,7 +30,7 @@
   {
     "ScientificName": "Synanceia platyrhynchus",
     "SpecCode": "61246",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

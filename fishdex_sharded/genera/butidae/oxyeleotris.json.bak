@@ -1,0 +1,169 @@
+[
+  {
+    "ScientificName": "Oxyeleotris altipinna",
+    "SpecCode": "47691",
+    "CommonName": "高鰭尖塘鱧",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris aruensis",
+    "SpecCode": "10686",
+    "CommonName": "Aru gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris caeca",
+    "SpecCode": "47647",
+    "CommonName": "Ihaaribi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris colasi",
+    "SpecCode": "67137",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris fimbriata",
+    "SpecCode": "26421",
+    "CommonName": "Fimbriate gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris herwerdenii",
+    "SpecCode": "26422",
+    "CommonName": "Blackbanded gauvina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris heterodon",
+    "SpecCode": "13026",
+    "CommonName": "Bigmaus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris lineolata",
+    "SpecCode": "22769",
+    "CommonName": "Black banded guavina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris marmorata",
+    "SpecCode": "5376",
+    "CommonName": "Bakut",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris mertoni",
+    "SpecCode": "70462",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris nullipora",
+    "SpecCode": "22770",
+    "CommonName": "Dwarf gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris paucipora",
+    "SpecCode": "26431",
+    "CommonName": "Fewpored gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris selheimi",
+    "SpecCode": "61654",
+    "CommonName": "Black banded gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris siamensis",
+    "SpecCode": "59246",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris stagnicola",
+    "SpecCode": "65607",
+    "CommonName": "Swamp gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris urophthalmoides",
+    "SpecCode": "25056",
+    "CommonName": "Laikkutorkkuja",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris urophthalmus",
+    "SpecCode": "25057",
+    "CommonName": "Belunguran hitam",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oxyeleotris wisselensis",
+    "SpecCode": "10723",
+    "CommonName": "Paniai gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

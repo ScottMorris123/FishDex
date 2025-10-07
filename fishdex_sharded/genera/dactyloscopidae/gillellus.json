@@ -38,7 +38,7 @@
   {
     "ScientificName": "Gillellus inescatus",
     "SpecCode": "60689",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Gillellus jacksoni",
     "SpecCode": "50480",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Haplochromis akika",
     "SpecCode": "61779",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Haplochromis ampullarostratus",
     "SpecCode": "61961",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Haplochromis antleter",
     "SpecCode": "65935",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Haplochromis aquila",
     "SpecCode": "69725",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Haplochromis argens",
     "SpecCode": "66740",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Haplochromis aureus",
     "SpecCode": "70242",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Haplochromis azureus",
     "SpecCode": "52156",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Haplochromis bwathondii",
     "SpecCode": "65940",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -371,7 +371,7 @@
   {
     "ScientificName": "Haplochromis concilians",
     "SpecCode": "69665",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -380,7 +380,7 @@
   {
     "ScientificName": "Haplochromis coprologus",
     "SpecCode": "65937",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -443,7 +443,7 @@
   {
     "ScientificName": "Haplochromis curvidens",
     "SpecCode": "69737",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -452,7 +452,7 @@
   {
     "ScientificName": "Haplochromis cyaneus",
     "SpecCode": "52235",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -569,7 +569,7 @@
   {
     "ScientificName": "Haplochromis erutus",
     "SpecCode": "69675",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -614,7 +614,7 @@
   {
     "ScientificName": "Haplochromis exspectatus",
     "SpecCode": "61959",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -623,7 +623,7 @@
   {
     "ScientificName": "Haplochromis falcatus",
     "SpecCode": "69729",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -632,7 +632,7 @@
   {
     "ScientificName": "Haplochromis fischeri",
     "SpecCode": "64812",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -650,7 +650,7 @@
   {
     "ScientificName": "Haplochromis flavus",
     "SpecCode": "52237",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -686,7 +686,7 @@
   {
     "ScientificName": "Haplochromis gigas",
     "SpecCode": "50273",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -713,7 +713,7 @@
   {
     "ScientificName": "Haplochromis glaucus",
     "SpecCode": "69724",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -722,7 +722,7 @@
   {
     "ScientificName": "Haplochromis goldschmidti",
     "SpecCode": "66741",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -740,7 +740,7 @@
   {
     "ScientificName": "Haplochromis gracilifur",
     "SpecCode": "69840",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -776,7 +776,7 @@
   {
     "ScientificName": "Haplochromis greenwoodi",
     "SpecCode": "50274",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -848,7 +848,7 @@
   {
     "ScientificName": "Haplochromis igneopinnis",
     "SpecCode": "52157",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -902,7 +902,7 @@
   {
     "ScientificName": "Haplochromis katonga",
     "SpecCode": "65764",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -911,7 +911,7 @@
   {
     "ScientificName": "Haplochromis katunzii",
     "SpecCode": "65936",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -920,7 +920,7 @@
   {
     "ScientificName": "Haplochromis kimondo",
     "SpecCode": "69727",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -983,7 +983,7 @@
   {
     "ScientificName": "Haplochromis latifrons",
     "SpecCode": "69714",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1019,7 +1019,7 @@
   {
     "ScientificName": "Haplochromis lobatus",
     "SpecCode": "69752",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1046,7 +1046,7 @@
   {
     "ScientificName": "Haplochromis luteus",
     "SpecCode": "52153",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1064,7 +1064,7 @@
   {
     "ScientificName": "Haplochromis macrocephalus",
     "SpecCode": "52160",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1163,7 +1163,7 @@
   {
     "ScientificName": "Haplochromis mbipi",
     "SpecCode": "52152",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1253,7 +1253,7 @@
   {
     "ScientificName": "Haplochromis molossus",
     "SpecCode": "69835",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1424,7 +1424,7 @@
   {
     "ScientificName": "Haplochromis oligolepis",
     "SpecCode": "61780",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1442,7 +1442,7 @@
   {
     "ScientificName": "Haplochromis omnicaeruleus",
     "SpecCode": "50275",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1496,7 +1496,7 @@
   {
     "ScientificName": "Haplochromis pancitrinus",
     "SpecCode": "65941",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1514,7 +1514,7 @@
   {
     "ScientificName": "Haplochromis paradoxus",
     "SpecCode": "61751",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1541,7 +1541,7 @@
   {
     "ScientificName": "Haplochromis pardus",
     "SpecCode": "69738",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1586,7 +1586,7 @@
   {
     "ScientificName": "Haplochromis pelagicus",
     "SpecCode": "70230",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1631,7 +1631,7 @@
   {
     "ScientificName": "Haplochromis pharyngomylus",
     "SpecCode": "6825",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1694,7 +1694,7 @@
   {
     "ScientificName": "Haplochromis planus",
     "SpecCode": "69676",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1757,7 +1757,7 @@
   {
     "ScientificName": "Haplochromis pundamilia",
     "SpecCode": "52221",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1784,7 +1784,7 @@
   {
     "ScientificName": "Haplochromis quasimodo",
     "SpecCode": "69742",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1793,7 +1793,7 @@
   {
     "ScientificName": "Haplochromis relictidens",
     "SpecCode": "69841",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1811,7 +1811,7 @@
   {
     "ScientificName": "Haplochromis rex",
     "SpecCode": "69718",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1838,7 +1838,7 @@
   {
     "ScientificName": "Haplochromis rubripinnis",
     "SpecCode": "52226",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1865,7 +1865,7 @@
   {
     "ScientificName": "Haplochromis rufus",
     "SpecCode": "52231",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1937,7 +1937,7 @@
   {
     "ScientificName": "Haplochromis simba",
     "SpecCode": "69722",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1946,7 +1946,7 @@
   {
     "ScientificName": "Haplochromis simotes",
     "SpecCode": "50288",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1964,7 +1964,7 @@
   {
     "ScientificName": "Haplochromis smithii",
     "SpecCode": "6915",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1973,7 +1973,7 @@
   {
     "ScientificName": "Haplochromis snoeksi",
     "SpecCode": "65967",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1991,7 +1991,7 @@
   {
     "ScientificName": "Haplochromis sphex",
     "SpecCode": "65939",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -2117,7 +2117,7 @@
   {
     "ScientificName": "Haplochromis ushindi",
     "SpecCode": "62426",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -2126,7 +2126,7 @@
   {
     "ScientificName": "Haplochromis vanheusdeni",
     "SpecCode": "67534",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -2135,7 +2135,7 @@
   {
     "ScientificName": "Haplochromis vanoijeni",
     "SpecCode": "65938",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -2171,7 +2171,7 @@
   {
     "ScientificName": "Haplochromis victoriae",
     "SpecCode": "6889",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -2198,7 +2198,7 @@
   {
     "ScientificName": "Haplochromis vonlinnei",
     "SpecCode": "63694",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -2225,7 +2225,7 @@
   {
     "ScientificName": "Haplochromis xanthopteryx",
     "SpecCode": "52232",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

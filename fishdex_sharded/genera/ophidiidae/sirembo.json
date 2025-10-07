@@ -38,7 +38,7 @@
   {
     "ScientificName": "Sirembo wami",
     "SpecCode": "69111",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

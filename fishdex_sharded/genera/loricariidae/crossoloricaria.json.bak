@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Crossoloricaria cephalaspis",
+    "SpecCode": "50641",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crossoloricaria variegata",
+    "SpecCode": "50643",
+    "CommonName": "Alcalde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crossoloricaria venezuelae",
+    "SpecCode": "50644",
+    "CommonName": "Paleta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

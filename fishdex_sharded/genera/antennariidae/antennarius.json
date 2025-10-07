@@ -94,7 +94,7 @@
   {
     "ScientificName": "Antennarius scaber",
     "SpecCode": "69561",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

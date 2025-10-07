@@ -2,7 +2,7 @@
   {
     "ScientificName": "Cobitis afifeae",
     "SpecCode": "70331",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Cobitis albicoloris",
     "SpecCode": "61749",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Cobitis aliyeae",
     "SpecCode": "70330",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Cobitis anabelae",
     "SpecCode": "70329",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Cobitis brachysoma",
     "SpecCode": "70361",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Cobitis brevipinna",
     "SpecCode": "68729",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Cobitis dorademiri",
     "SpecCode": "68602",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Cobitis emrei",
     "SpecCode": "70328",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Cobitis erkakanae",
     "SpecCode": "70326",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Cobitis fimbriata",
     "SpecCode": "68725",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -300,7 +300,7 @@
   {
     "ScientificName": "Cobitis gracilis",
     "SpecCode": "70126",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -336,7 +336,7 @@
   {
     "ScientificName": "Cobitis herzegoviniensis",
     "SpecCode": "69381",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -363,7 +363,7 @@
   {
     "ScientificName": "Cobitis joergbohleni",
     "SpecCode": "70332",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -426,7 +426,7 @@
   {
     "ScientificName": "Cobitis leptosoma",
     "SpecCode": "68680",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -570,7 +570,7 @@
   {
     "ScientificName": "Cobitis nigrolinea",
     "SpecCode": "68724",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -588,7 +588,7 @@
   {
     "ScientificName": "Cobitis obtusirostra",
     "SpecCode": "68682",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -606,7 +606,7 @@
   {
     "ScientificName": "Cobitis oxycephala",
     "SpecCode": "70359",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -652,7 +652,7 @@
   {
     "ScientificName": "Cobitis pirii",
     "SpecCode": "70325",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -688,7 +688,7 @@
   {
     "ScientificName": "Cobitis qujiangensis",
     "SpecCode": "68726",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -715,7 +715,7 @@
   {
     "ScientificName": "Cobitis sakahoko",
     "SpecCode": "68779",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -769,7 +769,7 @@
   {
     "ScientificName": "Cobitis sipahilerae",
     "SpecCode": "68603",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -851,7 +851,7 @@
   {
     "ScientificName": "Cobitis takenoi",
     "SpecCode": "68722",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -896,7 +896,7 @@
   {
     "ScientificName": "Cobitis troasensis",
     "SpecCode": "70320",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -933,7 +933,7 @@
   {
     "ScientificName": "Cobitis wumingensis",
     "SpecCode": "68681",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pseudonezumia parvipes",
     "SpecCode": "58928",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

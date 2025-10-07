@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Acanthoplesiops cappuccino",
+    "SpecCode": "67665",
+    "CommonName": "Red Sea spiny basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoplesiops echinatus",
+    "SpecCode": "58053",
+    "CommonName": "Badger spiny basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoplesiops hiatti",
+    "SpecCode": "17444",
+    "CommonName": "Hiatt's basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoplesiops indicus",
+    "SpecCode": "8004",
+    "CommonName": "Scottie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoplesiops jessicae",
+    "SpecCode": "69338",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoplesiops naka",
+    "SpecCode": "65019",
+    "CommonName": "Tongan spiny basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acanthoplesiops psilogaster",
+    "SpecCode": "59172",
+    "CommonName": "Barebelly longfin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

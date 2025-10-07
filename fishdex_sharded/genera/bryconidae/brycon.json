@@ -191,7 +191,7 @@
   {
     "ScientificName": "Brycon labiatus",
     "SpecCode": "53002",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Brycon medemi",
     "SpecCode": "53041",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Brycon meeki",
     "SpecCode": "53009",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -362,7 +362,7 @@
   {
     "ScientificName": "Brycon unicolor",
     "SpecCode": "51837",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

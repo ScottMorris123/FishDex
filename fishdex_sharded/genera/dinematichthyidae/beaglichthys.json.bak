@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Beaglichthys bleekeri",
+    "SpecCode": "64088",
+    "CommonName": "Bleeker's viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Beaglichthys larsonae",
+    "SpecCode": "64507",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Beaglichthys macrophthalmus",
+    "SpecCode": "54803",
+    "CommonName": "Beagle cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

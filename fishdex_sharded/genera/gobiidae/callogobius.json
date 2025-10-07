@@ -224,7 +224,7 @@
   {
     "ScientificName": "Callogobius sheni",
     "SpecCode": "64546",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -270,7 +270,7 @@
   {
     "ScientificName": "Callogobius tutuilae",
     "SpecCode": "69399",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

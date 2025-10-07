@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Ichthyapus acuticeps",
+    "SpecCode": "15671",
+    "CommonName": "Hadař tugelský",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyapus acutirostris",
+    "SpecCode": "70495",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyapus insularis",
+    "SpecCode": "64620",
+    "CommonName": "Ascensioni piugangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyapus ophioneus",
+    "SpecCode": "2647",
+    "CommonName": "Brandungsaal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyapus platyrhynchus",
+    "SpecCode": "63604",
+    "CommonName": "Lamekoon-piugangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyapus selachops",
+    "SpecCode": "13909",
+    "CommonName": "Hadař mexický",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyapus vulturis",
+    "SpecCode": "17399",
+    "CommonName": "Hadař supí",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

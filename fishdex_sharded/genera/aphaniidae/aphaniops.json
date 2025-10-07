@@ -33,7 +33,7 @@
   {
     "ScientificName": "Aphaniops hormuzensis",
     "SpecCode": "69743",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -53,7 +53,7 @@
   {
     "ScientificName": "Aphaniops richardsoni",
     "SpecCode": "69740",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

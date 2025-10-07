@@ -1,0 +1,191 @@
+[
+  {
+    "ScientificName": "Phenacogaster apletostigma",
+    "SpecCode": "64039",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster beni",
+    "SpecCode": "50961",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster calverti",
+    "SpecCode": "52056",
+    "CommonName": "Komteßsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster capitulata",
+    "SpecCode": "65491",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster carteri",
+    "SpecCode": "56698",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster franciscoensis",
+    "SpecCode": "50960",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster jancupa",
+    "SpecCode": "52033",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster lucenae",
+    "SpecCode": "70122",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster maculoblonga",
+    "SpecCode": "65492",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster megalostictus",
+    "SpecCode": "50952",
+    "CommonName": "Großfleckiger Glastetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster microstictus",
+    "SpecCode": "50970",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster napoatilis",
+    "SpecCode": "65493",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster ojitata",
+    "SpecCode": "65494",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster pectinata",
+    "SpecCode": "50972",
+    "CommonName": "Goldband-Glassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster prolata",
+    "SpecCode": "65495",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster retropinnus",
+    "SpecCode": "65496",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster simulata",
+    "SpecCode": "65497",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster suborbitalis",
+    "SpecCode": "50964",
+    "CommonName": "Mustasilmätetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster tegatus",
+    "SpecCode": "52053",
+    "CommonName": "Paritäplälasitetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster wayampi",
+    "SpecCode": "65498",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacogaster wayana",
+    "SpecCode": "65499",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

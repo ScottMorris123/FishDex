@@ -56,7 +56,7 @@
   {
     "ScientificName": "Etheostoma autumnale",
     "SpecCode": "65933",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -758,7 +758,7 @@
   {
     "ScientificName": "Etheostoma mihileze",
     "SpecCode": "65934",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -776,7 +776,7 @@
   {
     "ScientificName": "Etheostoma nebra",
     "SpecCode": "68130",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -848,7 +848,7 @@
   {
     "ScientificName": "Etheostoma occidentale",
     "SpecCode": "64581",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -893,7 +893,7 @@
   {
     "ScientificName": "Etheostoma orientale",
     "SpecCode": "64582",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -956,7 +956,7 @@
   {
     "ScientificName": "Etheostoma planasaxatile",
     "SpecCode": "64583",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1271,7 +1271,7 @@
   {
     "ScientificName": "Etheostoma tennesseense",
     "SpecCode": "64584",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

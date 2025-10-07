@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Melanostigma atlanticum",
+    "SpecCode": "3150",
+    "CommonName": "Atlantic soft pout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanostigma bathium",
+    "SpecCode": "7028",
+    "CommonName": "单鼻黑绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanostigma bellingshauseni",
+    "SpecCode": "69527",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanostigma gelatinosum",
+    "SpecCode": "7029",
+    "CommonName": "Limp eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanostigma inexpectatum",
+    "SpecCode": "27540",
+    "CommonName": "赤道黑綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanostigma kharini",
+    "SpecCode": "68816",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanostigma orientale",
+    "SpecCode": "24987",
+    "CommonName": "Konnyakuhadakagenge",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanostigma pammelas",
+    "SpecCode": "5156",
+    "CommonName": "Black eelpout",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Melanostigma vitiazi",
+    "SpecCode": "7030",
+    "CommonName": "Loquettine à queue claire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

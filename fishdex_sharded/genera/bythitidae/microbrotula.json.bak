@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Microbrotula andersoni",
+    "SpecCode": "66407",
+    "CommonName": "Anderson's viviparous brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microbrotula bentleyi",
+    "SpecCode": "62183",
+    "CommonName": "Many-ray cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microbrotula geraldalleni",
+    "SpecCode": "67781",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microbrotula greenfieldi",
+    "SpecCode": "64508",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microbrotula hamata",
+    "SpecCode": "66570",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microbrotula punicea",
+    "SpecCode": "64509",
+    "CommonName": "Orange brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microbrotula queenslandica",
+    "SpecCode": "62185",
+    "CommonName": "Queensland cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microbrotula rubra",
+    "SpecCode": "56392",
+    "CommonName": "紅小鬚鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

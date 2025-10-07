@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Aphyolebias boticarioi",
+    "SpecCode": "62021",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyolebias claudiae",
+    "SpecCode": "62309",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyolebias manuensis",
+    "SpecCode": "62310",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyolebias obliquus",
+    "SpecCode": "51570",
+    "CommonName": "斜羽唇鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyolebias peruensis",
+    "SpecCode": "11884",
+    "CommonName": "Kultahuntukala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyolebias rubrocaudatus",
+    "SpecCode": "49581",
+    "CommonName": "紅尾羽唇鮰",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyolebias schleseri",
+    "SpecCode": "62311",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphyolebias wischmanni",
+    "SpecCode": "49582",
+    "CommonName": "Savuhuntukala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

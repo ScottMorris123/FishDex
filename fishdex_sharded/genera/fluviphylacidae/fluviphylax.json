@@ -2,7 +2,7 @@
   {
     "ScientificName": "Fluviphylax gouldingi",
     "SpecCode": "69395",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Fluviphylax wallacei",
     "SpecCode": "69396",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

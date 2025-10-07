@@ -1,0 +1,427 @@
+[
+  {
+    "ScientificName": "Synodus binotatus",
+    "SpecCode": "7292",
+    "CommonName": "Anoli à deux taches",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus bondi",
+    "SpecCode": "68039",
+    "CommonName": "Sharpnose lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus capricornis",
+    "SpecCode": "55101",
+    "CommonName": "Anoli à Capricorn",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus dermatogenys",
+    "SpecCode": "12620",
+    "CommonName": "Anoli bigarré",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus doaki",
+    "SpecCode": "12890",
+    "CommonName": "Arrowtooth lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus evermanni",
+    "SpecCode": "14147",
+    "CommonName": "Anoli tacheté",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus falcatus",
+    "SpecCode": "61178",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus fasciapelvicus",
+    "SpecCode": "64927",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus foetens",
+    "SpecCode": "2719",
+    "CommonName": "Al-alibot",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus fuscus",
+    "SpecCode": "22956",
+    "CommonName": "Suna-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus gibbsi",
+    "SpecCode": "60907",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus hoshinonis",
+    "SpecCode": "7941",
+    "CommonName": "Anoli oreille noire",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus indicus",
+    "SpecCode": "7942",
+    "CommonName": "Anoli indien",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus intermedius",
+    "SpecCode": "2720",
+    "CommonName": "Al-alibot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus isolatus",
+    "SpecCode": "64934",
+    "CommonName": "Pāpa hakatara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus jaculum",
+    "SpecCode": "7943",
+    "CommonName": "Anoli phare",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus kaianus",
+    "SpecCode": "7398",
+    "CommonName": "Black lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus lacertinus",
+    "SpecCode": "8219",
+    "CommonName": "Anoli chilien",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus lobeli",
+    "SpecCode": "58374",
+    "CommonName": "Aosuji-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus lucioceps",
+    "SpecCode": "2721",
+    "CommonName": "Anoli californien",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus macrocephalus",
+    "SpecCode": "10708",
+    "CommonName": "大首狗母魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus macrops",
+    "SpecCode": "8299",
+    "CommonName": "Anoli croix",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus macrostigmus",
+    "SpecCode": "68040",
+    "CommonName": "Largespot lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus marchenae",
+    "SpecCode": "50023",
+    "CommonName": "Huavina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus mascarensis",
+    "SpecCode": "64060",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus mundyi",
+    "SpecCode": "64980",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus nigrotaeniatus",
+    "SpecCode": "68214",
+    "CommonName": "Blackstripe lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus oculeus",
+    "SpecCode": "10707",
+    "CommonName": "Irezumi-ome-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus orientalis",
+    "SpecCode": "64649",
+    "CommonName": "Asian lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus pacificus",
+    "SpecCode": "69248",
+    "CommonName": "Omega lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus poeyi",
+    "SpecCode": "2722",
+    "CommonName": "Calango",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus pylei",
+    "SpecCode": "64981",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus randalli",
+    "SpecCode": "58509",
+    "CommonName": "兰氏狗母鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus rubromarmoratus",
+    "SpecCode": "10706",
+    "CommonName": "Conor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus sageneus",
+    "SpecCode": "10734",
+    "CommonName": "Anoli poignard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus sanguineus",
+    "SpecCode": "64982",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus saurus",
+    "SpecCode": "1771",
+    "CommonName": "Aharbabou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus scituliceps",
+    "SpecCode": "14155",
+    "CommonName": "Anoli liguise",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus sechurae",
+    "SpecCode": "14156",
+    "CommonName": "Anoli iguane",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus similis",
+    "SpecCode": "24640",
+    "CommonName": "Ear-spot lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus synodus",
+    "SpecCode": "2723",
+    "CommonName": "Anoli commun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus taiwanensis",
+    "SpecCode": "63420",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus tectus",
+    "SpecCode": "10328",
+    "CommonName": "Lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus ulae",
+    "SpecCode": "7399",
+    "CommonName": "Five-band lizardfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus usitatus",
+    "SpecCode": "10705",
+    "CommonName": "熊野狗母魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus variegatus",
+    "SpecCode": "5398",
+    "CommonName": "Aka-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synodus vityazi",
+    "SpecCode": "65544",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

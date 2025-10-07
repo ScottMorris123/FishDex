@@ -2,7 +2,7 @@
   {
     "ScientificName": "Leptophilypnus fluviatilis",
     "SpecCode": "61532",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Leptophilypnus guatemalensis",
     "SpecCode": "62986",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Leptophilypnus panamensis",
     "SpecCode": "62987",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -209,7 +209,7 @@
   {
     "ScientificName": "Ventrifossa vinolenta",
     "SpecCode": "58902",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

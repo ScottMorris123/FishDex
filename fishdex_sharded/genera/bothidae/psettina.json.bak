@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Psettina brevirictis",
+    "SpecCode": "8901",
+    "CommonName": "Dapang bilog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettina filimana",
+    "SpecCode": "55433",
+    "CommonName": "丝指鳒鲆",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettina gigantea",
+    "SpecCode": "8282",
+    "CommonName": "Combscale flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettina hainanensis",
+    "SpecCode": "56089",
+    "CommonName": "海南鰜鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettina iijimae",
+    "SpecCode": "12569",
+    "CommonName": "Iijima flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettina multisquamea",
+    "SpecCode": "58968",
+    "CommonName": "多鱗鐮鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettina profunda",
+    "SpecCode": "15586",
+    "CommonName": "深海鰜鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettina senta",
+    "SpecCode": "54942",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettina tosana",
+    "SpecCode": "24224",
+    "CommonName": "Tosadarumagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psettina variegata",
+    "SpecCode": "15587",
+    "CommonName": "Dapang bilog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

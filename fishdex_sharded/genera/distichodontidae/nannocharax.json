@@ -38,7 +38,7 @@
   {
     "ScientificName": "Nannocharax chochamandai",
     "SpecCode": "70372",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Nannocharax hadros",
     "SpecCode": "69809",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -1,0 +1,147 @@
+[
+  {
+    "ScientificName": "Heteroclinus adelaidae",
+    "SpecCode": "52465",
+    "CommonName": "Adelaide weedfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus antinectes",
+    "SpecCode": "60605",
+    "CommonName": "Natal weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus eckloniae",
+    "SpecCode": "51519",
+    "CommonName": "Kelp weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus equiradiatus",
+    "SpecCode": "60606",
+    "CommonName": "Ogilby's weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus heptaeolus",
+    "SpecCode": "51517",
+    "CommonName": "Common weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus johnstoni",
+    "SpecCode": "52470",
+    "CommonName": "Johnstons weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus kuiteri",
+    "SpecCode": "64526",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus macrophthalmus",
+    "SpecCode": "52466",
+    "CommonName": "Large-eye weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus marmoratus",
+    "SpecCode": "56924",
+    "CommonName": "Slender weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus nasutus",
+    "SpecCode": "51518",
+    "CommonName": "Largenose weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus perspicillatus",
+    "SpecCode": "51521",
+    "CommonName": "Common weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus puellarum",
+    "SpecCode": "59442",
+    "CommonName": "Girls weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus roseus",
+    "SpecCode": "23743",
+    "CommonName": "Beni-asahiginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus tristis",
+    "SpecCode": "52467",
+    "CommonName": "Forster's weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus whiteleggii",
+    "SpecCode": "56204",
+    "CommonName": "Banded weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteroclinus wilsoni",
+    "SpecCode": "56202",
+    "CommonName": "Wilsons weedfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

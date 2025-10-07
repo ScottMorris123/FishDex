@@ -87,7 +87,7 @@
   {
     "ScientificName": "Oreochromis ismailiaensis",
     "SpecCode": "61388",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],

@@ -65,7 +65,7 @@
   {
     "ScientificName": "Chlopsis nanhaiensis",
     "SpecCode": "68258",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Chlopsis orientalis",
     "SpecCode": "68257",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Chlopsis sagmacollaris",
     "SpecCode": "68259",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

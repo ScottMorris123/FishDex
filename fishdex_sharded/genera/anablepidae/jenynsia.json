@@ -11,7 +11,7 @@
   {
     "ScientificName": "Jenynsia darwini",
     "SpecCode": "70153",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -103,7 +103,7 @@
   {
     "ScientificName": "Jenynsia sulfurica",
     "SpecCode": "69926",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

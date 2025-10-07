@@ -29,7 +29,7 @@
   {
     "ScientificName": "Emmelichthys marisrubri",
     "SpecCode": "67648",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

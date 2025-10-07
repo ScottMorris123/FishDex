@@ -1,0 +1,283 @@
+[
+  {
+    "ScientificName": "Microphysogobio alticorpus",
+    "SpecCode": "62055",
+    "CommonName": "Kõrge nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio amurensis",
+    "SpecCode": "47337",
+    "CommonName": "Amur longnose gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio anudarini",
+    "SpecCode": "63104",
+    "CommonName": "Anudarini nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio brevirostris",
+    "SpecCode": "17299",
+    "CommonName": "Hrouzek krátkorypý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio chenhsienensis",
+    "SpecCode": "55905",
+    "CommonName": "胡鮈",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio chinssuensis",
+    "SpecCode": "55404",
+    "CommonName": "Hiina nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio elongatus",
+    "SpecCode": "54982",
+    "CommonName": "Sale nokisrünt",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio exilicauda",
+    "SpecCode": "67767",
+    "CommonName": "Sale hiinarünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio fukiensis",
+    "SpecCode": "54981",
+    "CommonName": "Fukieni nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio hsinglungshanensis",
+    "SpecCode": "65252",
+    "CommonName": "Hebei nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio jeoni",
+    "SpecCode": "59461",
+    "CommonName": "Jeoni nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio kachekensis",
+    "SpecCode": "54984",
+    "CommonName": "Cá Đục đanh chẫm",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio kiatingensis",
+    "SpecCode": "54983",
+    "CommonName": "Hrouzek lošanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio koreensis",
+    "SpecCode": "25586",
+    "CommonName": "Hrouzek korejský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio labeoides",
+    "SpecCode": "55409",
+    "CommonName": "Hrouzek hajnanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio liaohensis",
+    "SpecCode": "55900",
+    "CommonName": "Hrouzek xinminský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio linghensis",
+    "SpecCode": "55901",
+    "CommonName": "Hrouzek čínský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio longidorsalis",
+    "SpecCode": "25588",
+    "CommonName": "Hrouzek dlouhoploutvý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio luhensis",
+    "SpecCode": "69574",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio microstomus",
+    "SpecCode": "55902",
+    "CommonName": "Hrouzek drobnoústý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio nudiventris",
+    "SpecCode": "66916",
+    "CommonName": "Paljaskõnt-nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio pseudoelongatus",
+    "SpecCode": "59962",
+    "CommonName": "Sihvak-nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio rapidus",
+    "SpecCode": "61904",
+    "CommonName": "Koolme-nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio tafangensis",
+    "SpecCode": "55904",
+    "CommonName": "Hrouzek tafangský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio tungtingensis",
+    "SpecCode": "47816",
+    "CommonName": "Dongtingi nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio vietnamica",
+    "SpecCode": "61268",
+    "CommonName": "Hrouzek vietnamský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio wulonghensis",
+    "SpecCode": "66109",
+    "CommonName": "Wulonghe nokisrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio xianyouensis",
+    "SpecCode": "68761",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio yaluensis",
+    "SpecCode": "25587",
+    "CommonName": "Hrouzek severokorejský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio yunnanensis",
+    "SpecCode": "55903",
+    "CommonName": "Cá Đục đanh chẫm mõm ngẫn",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microphysogobio zhangi",
+    "SpecCode": "68760",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

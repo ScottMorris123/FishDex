@@ -2,7 +2,7 @@
   {
     "ScientificName": "Bathyanthias cubensis",
     "SpecCode": "61262",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Bathyanthias roseus",
     "SpecCode": "61266",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

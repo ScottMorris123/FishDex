@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Sternarchella calhamazon",
+    "SpecCode": "67010",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchella duccis",
+    "SpecCode": "27189",
+    "CommonName": "裸头马氏鳍电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchella orinoco",
+    "SpecCode": "69800",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchella orthos",
+    "SpecCode": "47921",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchella patriciae",
+    "SpecCode": "69789",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchella raptor",
+    "SpecCode": "27188",
+    "CommonName": "食肉馬氏鰭電鰻",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchella rex",
+    "SpecCode": "69790",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchella schotti",
+    "SpecCode": "48027",
+    "CommonName": "Pilkkuveitsikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchella sima",
+    "SpecCode": "48028",
+    "CommonName": "扁吻小胸电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

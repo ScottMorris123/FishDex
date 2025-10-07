@@ -29,7 +29,7 @@
   {
     "ScientificName": "Rhinogobius boa",
     "SpecCode": "62712",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -49,7 +49,7 @@
   {
     "ScientificName": "Rhinogobius bucculentus",
     "SpecCode": "27647",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -76,7 +76,7 @@
   {
     "ScientificName": "Rhinogobius changjiangensis",
     "SpecCode": "61849",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -85,7 +85,7 @@
   {
     "ScientificName": "Rhinogobius changtinensis",
     "SpecCode": "63244",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -223,7 +223,7 @@
   {
     "ScientificName": "Rhinogobius henryi",
     "SpecCode": "66241",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -241,7 +241,7 @@
   {
     "ScientificName": "Rhinogobius imfasciocaudatus",
     "SpecCode": "65691",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -250,7 +250,7 @@
   {
     "ScientificName": "Rhinogobius immaculatus",
     "SpecCode": "69177",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -286,7 +286,7 @@
   {
     "ScientificName": "Rhinogobius lianchengensis",
     "SpecCode": "69918",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -313,7 +313,7 @@
   {
     "ScientificName": "Rhinogobius lingtongyanensis",
     "SpecCode": "69908",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -322,7 +322,7 @@
   {
     "ScientificName": "Rhinogobius linshuiensis",
     "SpecCode": "61850",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -331,7 +331,7 @@
   {
     "ScientificName": "Rhinogobius longipinnis",
     "SpecCode": "65695",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -340,7 +340,7 @@
   {
     "ScientificName": "Rhinogobius longyanensis",
     "SpecCode": "64751",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -349,7 +349,7 @@
   {
     "ScientificName": "Rhinogobius lungwoensis",
     "SpecCode": "63245",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -367,7 +367,7 @@
   {
     "ScientificName": "Rhinogobius maculicervix",
     "SpecCode": "58054",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -385,7 +385,7 @@
   {
     "ScientificName": "Rhinogobius milleri",
     "SpecCode": "60215",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -412,7 +412,7 @@
   {
     "ScientificName": "Rhinogobius nammaensis",
     "SpecCode": "60221",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -421,7 +421,7 @@
   {
     "ScientificName": "Rhinogobius nandujiangensis",
     "SpecCode": "61851",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -466,7 +466,7 @@
   {
     "ScientificName": "Rhinogobius ponkouensis",
     "SpecCode": "63246",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -475,7 +475,7 @@
   {
     "ScientificName": "Rhinogobius reticulatus",
     "SpecCode": "63620",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -484,7 +484,7 @@
   {
     "ScientificName": "Rhinogobius rubrolineatus",
     "SpecCode": "64820",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -502,7 +502,7 @@
   {
     "ScientificName": "Rhinogobius sagittus",
     "SpecCode": "64821",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -511,7 +511,7 @@
   {
     "ScientificName": "Rhinogobius sangenloensis",
     "SpecCode": "67763",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -529,7 +529,7 @@
   {
     "ScientificName": "Rhinogobius sulcatus",
     "SpecCode": "62715",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -576,7 +576,7 @@
   {
     "ScientificName": "Rhinogobius variolatus",
     "SpecCode": "62713",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -585,7 +585,7 @@
   {
     "ScientificName": "Rhinogobius vermiculatus",
     "SpecCode": "60216",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -594,7 +594,7 @@
   {
     "ScientificName": "Rhinogobius virgigena",
     "SpecCode": "62714",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -603,7 +603,7 @@
   {
     "ScientificName": "Rhinogobius wangchuangensis",
     "SpecCode": "61852",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -612,7 +612,7 @@
   {
     "ScientificName": "Rhinogobius wangi",
     "SpecCode": "63379",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -621,7 +621,7 @@
   {
     "ScientificName": "Rhinogobius wuyanlingensis",
     "SpecCode": "64737",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -630,7 +630,7 @@
   {
     "ScientificName": "Rhinogobius wuyiensis",
     "SpecCode": "64013",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -657,7 +657,7 @@
   {
     "ScientificName": "Rhinogobius yangminshanensis",
     "SpecCode": "69917",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -684,7 +684,7 @@
   {
     "ScientificName": "Rhinogobius zhoui",
     "SpecCode": "65269",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

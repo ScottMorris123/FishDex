@@ -131,7 +131,7 @@
   {
     "ScientificName": "Gerres maldivensis",
     "SpecCode": "59291",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -161,7 +161,7 @@
   {
     "ScientificName": "Gerres mozambiquensis",
     "SpecCode": "63904",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

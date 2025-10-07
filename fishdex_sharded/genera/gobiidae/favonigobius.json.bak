@@ -1,0 +1,93 @@
+[
+  {
+    "ScientificName": "Favonigobius aliciae",
+    "SpecCode": "26835",
+    "CommonName": "艾丽西亚管吻鲶",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Favonigobius exquisitus",
+    "SpecCode": "52416",
+    "CommonName": "Exquisite goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Favonigobius gymnauchen",
+    "SpecCode": "48981",
+    "CommonName": "Himehaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Favonigobius lateralis",
+    "SpecCode": "47434",
+    "CommonName": "Long finned goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Favonigobius lentiginosus",
+    "SpecCode": "49314",
+    "CommonName": "Eastern longfin goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Favonigobius melanobranchus",
+    "SpecCode": "17052",
+    "CommonName": "Blackthroat goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Favonigobius opalescens",
+    "SpecCode": "59867",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Favonigobius punctatus",
+    "SpecCode": "57011",
+    "CommonName": "Yellowspotted sandgoby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Favonigobius reichei",
+    "SpecCode": "9945",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

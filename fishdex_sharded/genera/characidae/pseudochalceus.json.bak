@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pseudochalceus bohlkei",
+    "SpecCode": "63095",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochalceus kyburzi",
+    "SpecCode": "53478",
+    "CommonName": "Kyburz Salmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochalceus lineatus",
+    "SpecCode": "53477",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudochalceus longianalis",
+    "SpecCode": "53495",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

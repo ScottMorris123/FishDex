@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Satyrichthys clavilapis",
+    "SpecCode": "59165",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satyrichthys laticeps",
+    "SpecCode": "67039",
+    "CommonName": "亚丁红鲂鮄",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satyrichthys longiceps",
+    "SpecCode": "27471",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satyrichthys milleri",
+    "SpecCode": "67019",
+    "CommonName": "Hige-kihoubou-damashi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satyrichthys moluccensis",
+    "SpecCode": "10538",
+    "CommonName": "Armoured sea robin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satyrichthys rieffeli",
+    "SpecCode": "8291",
+    "CommonName": "Armoured sea robin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Satyrichthys welchi",
+    "SpecCode": "11665",
+    "CommonName": "Armoured gurnard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

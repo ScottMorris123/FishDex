@@ -1,0 +1,202 @@
+[
+  {
+    "ScientificName": "Parioglossus aporos",
+    "SpecCode": "27326",
+    "CommonName": "Poreless dartfish",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus caeruleolineatus",
+    "SpecCode": "65433",
+    "CommonName": "Kujaku-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus dotui",
+    "SpecCode": "23580",
+    "CommonName": "Cá Bống đót",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus formosus",
+    "SpecCode": "17480",
+    "CommonName": "Beautiful hover goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus galzini",
+    "SpecCode": "62032",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus interruptus",
+    "SpecCode": "27329",
+    "CommonName": "Hime-satsukihaze",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus lineatus",
+    "SpecCode": "17481",
+    "CommonName": "Lined dartfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus marginalis",
+    "SpecCode": "27327",
+    "CommonName": "Blackmargin dartfish",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus multiradiatus",
+    "SpecCode": "62192",
+    "CommonName": "Larkansyel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus neocaledonicus",
+    "SpecCode": "27292",
+    "CommonName": "新喀里多尼亚舌塘鳢",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus nudus",
+    "SpecCode": "17482",
+    "CommonName": "Naked dartfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus palustris",
+    "SpecCode": "17483",
+    "CommonName": "Borneo hoverer",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus philippinus",
+    "SpecCode": "27610",
+    "CommonName": "Philippine dartfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus rainfordi",
+    "SpecCode": "17484",
+    "CommonName": "Cobra-fish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus raoi",
+    "SpecCode": "15881",
+    "CommonName": "Andaman dart-goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus senoui",
+    "SpecCode": "65434",
+    "CommonName": "Musume-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus sinensis",
+    "SpecCode": "59960",
+    "CommonName": "中华舌塘鳢",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus taeniatus",
+    "SpecCode": "22452",
+    "CommonName": "Komachi-haze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus triquetrus",
+    "SpecCode": "27328",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus verticalis",
+    "SpecCode": "22458",
+    "CommonName": "Vertical dartfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parioglossus winterbottomi",
+    "SpecCode": "65435",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

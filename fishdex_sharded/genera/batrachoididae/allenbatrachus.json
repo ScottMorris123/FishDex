@@ -12,7 +12,7 @@
   {
     "ScientificName": "Allenbatrachus meridionalis",
     "SpecCode": "63432",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

@@ -1,0 +1,148 @@
+[
+  {
+    "ScientificName": "Gobiopsis angustifrons",
+    "SpecCode": "59319",
+    "CommonName": "Narrow barbel goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis arenaria",
+    "SpecCode": "23662",
+    "CommonName": "Isagohaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis atrata",
+    "SpecCode": "46314",
+    "CommonName": "Black goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis bravoi",
+    "SpecCode": "22463",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis canalis",
+    "SpecCode": "46405",
+    "CommonName": "Checkered goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis exigua",
+    "SpecCode": "61025",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis jackbrooksi",
+    "SpecCode": "69287",
+    "CommonName": "Slender mudgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis liolepis",
+    "SpecCode": "61022",
+    "CommonName": "Hadarehaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis macrostoma",
+    "SpecCode": "25241",
+    "CommonName": "Longjaw goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis malekulae",
+    "SpecCode": "61314",
+    "CommonName": "Striped barbelgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis namnas",
+    "SpecCode": "65443",
+    "CommonName": "Bake-isagohaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis pinto",
+    "SpecCode": "26398",
+    "CommonName": "Slangkop-dikkop",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis quinquecincta",
+    "SpecCode": "23663",
+    "CommonName": "Fiveband barbelgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis springeri",
+    "SpecCode": "61026",
+    "CommonName": "Springer's barbelgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis uranophilus",
+    "SpecCode": "70531",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiopsis woodsi",
+    "SpecCode": "59261",
+    "CommonName": "Woods' barbelgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

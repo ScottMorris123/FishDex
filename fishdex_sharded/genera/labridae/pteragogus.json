@@ -11,7 +11,7 @@
   {
     "ScientificName": "Pteragogus clarkae",
     "SpecCode": "66976",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Pteragogus trispilus",
     "SpecCode": "66979",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Pteragogus variabilis",
     "SpecCode": "66977",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

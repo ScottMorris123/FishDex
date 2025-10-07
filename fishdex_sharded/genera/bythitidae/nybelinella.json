@@ -2,7 +2,7 @@
   {
     "ScientificName": "Nybelinella brevianalis",
     "SpecCode": "70498",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Nybelinella brevidorsalis",
     "SpecCode": "56416",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

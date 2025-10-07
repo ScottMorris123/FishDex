@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Prionobutis dasyrhynchus",
+    "SpecCode": "25061",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Prionobutis microps",
+    "SpecCode": "27577",
+    "CommonName": "Small eyed sleeper",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

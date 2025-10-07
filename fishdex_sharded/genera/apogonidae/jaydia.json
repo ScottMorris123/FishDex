@@ -29,7 +29,7 @@
   {
     "ScientificName": "Jaydia catalai",
     "SpecCode": "60377",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Jaydia erythrophthalma",
     "SpecCode": "67824",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Jaydia novaeguineae",
     "SpecCode": "27483",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Jaydia quartus",
     "SpecCode": "59185",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -156,7 +156,7 @@
   {
     "ScientificName": "Jaydia tchefouensis",
     "SpecCode": "60414",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

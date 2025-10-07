@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Sternarchogiton labiatus",
+    "SpecCode": "63900",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchogiton nattereri",
+    "SpecCode": "48026",
+    "CommonName": "露齒腫頜電鰻",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchogiton porcinum",
+    "SpecCode": "48031",
+    "CommonName": "猪状宽胸电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchogiton preto",
+    "SpecCode": "63901",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sternarchogiton zuanoni",
+    "SpecCode": "65365",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

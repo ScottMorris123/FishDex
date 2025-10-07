@@ -47,7 +47,7 @@
   {
     "ScientificName": "Kelloggella tricuspidata",
     "SpecCode": "61323",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

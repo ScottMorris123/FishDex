@@ -1,0 +1,121 @@
+[
+  {
+    "ScientificName": "Mayaheros aguadae",
+    "SpecCode": "57865",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros alborus",
+    "SpecCode": "57866",
+    "CommonName": "Mojarra de Montecristo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros amarus",
+    "SpecCode": "57867",
+    "CommonName": "Mojarra de Isla de Mujeres",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros beani",
+    "SpecCode": "4780",
+    "CommonName": "Beans Buntbarsch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros cienagae",
+    "SpecCode": "57869",
+    "CommonName": "Mojarra de las ciénegas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros conchitae",
+    "SpecCode": "57872",
+    "CommonName": "Mojarra del Cenote Conchita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros ericymba",
+    "SpecCode": "6323",
+    "CommonName": "Mojarra de Bulha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros mayorum",
+    "SpecCode": "57873",
+    "CommonName": "Mojarra de Chichén Itzá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros stenozonus",
+    "SpecCode": "57881",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros trispilus",
+    "SpecCode": "68178",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros troschelii",
+    "SpecCode": "57862",
+    "CommonName": "Guapote",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros urophthalmus",
+    "SpecCode": "4798",
+    "CommonName": "Castarrica",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Mayaheros zebra",
+    "SpecCode": "57874",
+    "CommonName": "Mojarra del Cenote Xlaká",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

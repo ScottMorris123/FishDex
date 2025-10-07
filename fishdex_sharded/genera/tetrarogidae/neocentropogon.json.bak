@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Neocentropogon aeglefinus",
+    "SpecCode": "8186",
+    "CommonName": "Depu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neocentropogon affinis",
+    "SpecCode": "58986",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neocentropogon japonicus",
+    "SpecCode": "23894",
+    "CommonName": "Naga-hachi-okoze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neocentropogon mesedai",
+    "SpecCode": "61244",
+    "CommonName": "Meseda waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neocentropogon profundus",
+    "SpecCode": "52865",
+    "CommonName": "深水新鱗鮋",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neocentropogon trimaculatus",
+    "SpecCode": "59070",
+    "CommonName": "Threespot waspfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

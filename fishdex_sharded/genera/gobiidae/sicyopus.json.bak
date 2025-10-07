@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Sicyopus auxilimentus",
+    "SpecCode": "47492",
+    "CommonName": "菲律宾瓢眼鰕虎鱼",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus beremeensis",
+    "SpecCode": "69980",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus cebuensis",
+    "SpecCode": "59338",
+    "CommonName": "宿雾瓢眼鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus discordipinnis",
+    "SpecCode": "52098",
+    "CommonName": "盘鳍瓢眼鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus exallisquamulus",
+    "SpecCode": "62748",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus jonklaasi",
+    "SpecCode": "10800",
+    "CommonName": "Lippenstiftgrundel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus lord",
+    "SpecCode": "66290",
+    "CommonName": "Lord's Sicyopus",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus multisquamatus",
+    "SpecCode": "52100",
+    "CommonName": "印尼瓢眼鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus nigriradiatus",
+    "SpecCode": "23263",
+    "CommonName": "黑緣瓢眼鰕虎魚",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus rubicundus",
+    "SpecCode": "68032",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyopus zosterophorus",
+    "SpecCode": "11826",
+    "CommonName": "Aka-bôzuhaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

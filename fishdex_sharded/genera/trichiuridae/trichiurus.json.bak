@@ -1,0 +1,95 @@
+[
+  {
+    "ScientificName": "Trichiurus auriga",
+    "SpecCode": "8666",
+    "CommonName": "Cutlass fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichiurus australis",
+    "SpecCode": "62551",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichiurus brevis",
+    "SpecCode": "59046",
+    "CommonName": "Chinese short-tailed hairtail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichiurus gangeticus",
+    "SpecCode": "8667",
+    "CommonName": "Balila",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichiurus japonicus",
+    "SpecCode": "69710",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichiurus lepturus",
+    "SpecCode": "1288",
+    "CommonName": "Adokin",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichiurus margarites",
+    "SpecCode": "59047",
+    "CommonName": "珠带鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichiurus nanhaiensis",
+    "SpecCode": "58409",
+    "CommonName": "Largehead hairtail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichiurus nickolensis",
+    "SpecCode": "61439",
+    "CommonName": "Australian short tailed hairtail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trichiurus russelli",
+    "SpecCode": "59048",
+    "CommonName": "Short-tailed hairtail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

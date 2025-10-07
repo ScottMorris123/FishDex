@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Clypeobarbus bellcrossi",
+    "SpecCode": "11309",
+    "CommonName": "Gorgeous barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clypeobarbus bomokandi",
+    "SpecCode": "64779",
+    "CommonName": "Bomokandi rüüpardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clypeobarbus breviclipeus",
+    "SpecCode": "68141",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clypeobarbus congicus",
+    "SpecCode": "11343",
+    "CommonName": "Congo barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clypeobarbus hypsolepis",
+    "SpecCode": "2415",
+    "CommonName": "Krokiri-ikpokpo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clypeobarbus matthesi",
+    "SpecCode": "11407",
+    "CommonName": "Matthesi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clypeobarbus pleuropholis",
+    "SpecCode": "5304",
+    "CommonName": "Isaesale",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clypeobarbus pseudognathodon",
+    "SpecCode": "11452",
+    "CommonName": "Mweru rüüpardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clypeobarbus schoutedeni",
+    "SpecCode": "11472",
+    "CommonName": "Dungu rüüpardlik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

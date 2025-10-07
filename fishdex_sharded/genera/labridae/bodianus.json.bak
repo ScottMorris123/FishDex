@@ -1,0 +1,407 @@
+[
+  {
+    "ScientificName": "Bodianus albotaeniatus",
+    "SpecCode": "66314",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus anthioides",
+    "SpecCode": "5497",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus atrolumbus",
+    "SpecCode": "68301",
+    "CommonName": "Palebar hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus axillaris",
+    "SpecCode": "5498",
+    "CommonName": "Achselfleck-Schweinfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus bathycapros",
+    "SpecCode": "64025",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus bennetti",
+    "SpecCode": "68055",
+    "CommonName": "Lemon-striped pygmy hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus bilunulatus",
+    "SpecCode": "6580",
+    "CommonName": "Aawa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus bimaculatus",
+    "SpecCode": "5499",
+    "CommonName": "Futahoshi-kitsunebera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus busellatus",
+    "SpecCode": "64243",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus cylindriatus",
+    "SpecCode": "23523",
+    "CommonName": "Akabô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus diana",
+    "SpecCode": "5500",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus dictynna",
+    "SpecCode": "64242",
+    "CommonName": "Redfin hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus diplotaenia",
+    "SpecCode": "8270",
+    "CommonName": "Copetona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus eclancheri",
+    "SpecCode": "8272",
+    "CommonName": "Brown hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus flavifrons",
+    "SpecCode": "60823",
+    "CommonName": "Masked pigfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus flavipinnis",
+    "SpecCode": "60820",
+    "CommonName": "Yellowfin pigfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus frenchii",
+    "SpecCode": "52463",
+    "CommonName": "Fox wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus insularis",
+    "SpecCode": "14401",
+    "CommonName": "Bodião",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus izuensis",
+    "SpecCode": "23525",
+    "CommonName": "Striped hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus leucosticticus",
+    "SpecCode": "7716",
+    "CommonName": "Bodião estriado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus loxozonus",
+    "SpecCode": "12744",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus macrognathos",
+    "SpecCode": "14330",
+    "CommonName": "Giant hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus macrourus",
+    "SpecCode": "14334",
+    "CommonName": "Bayan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus masudai",
+    "SpecCode": "23526",
+    "CommonName": "Shima-kitsunebera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus mesothorax",
+    "SpecCode": "5501",
+    "CommonName": "Baga-baga",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus neilli",
+    "SpecCode": "25412",
+    "CommonName": "Bay of Bengal hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus neopercularis",
+    "SpecCode": "64023",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus opercularis",
+    "SpecCode": "25754",
+    "CommonName": "Blackspot hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus oxycephalus",
+    "SpecCode": "6925",
+    "CommonName": "Kitsunedai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus paraleucosticticus",
+    "SpecCode": "64026",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus perditio",
+    "SpecCode": "7734",
+    "CommonName": "Batuan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus prognathus",
+    "SpecCode": "46474",
+    "CommonName": "白斑普提魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus pulchellus",
+    "SpecCode": "1066",
+    "CommonName": "Beni-kitsunebera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus rubrisos",
+    "SpecCode": "64241",
+    "CommonName": "Red-sashed hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus rufus",
+    "SpecCode": "1067",
+    "CommonName": "Bigodeiro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus sanguineus",
+    "SpecCode": "46491",
+    "CommonName": "Neon wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus scrofa",
+    "SpecCode": "13800",
+    "CommonName": "Barred hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus sepiacaudus",
+    "SpecCode": "64240",
+    "CommonName": "Crescent-tail hogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus solatus",
+    "SpecCode": "64244",
+    "CommonName": "Sunburnt pigfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus speciosus",
+    "SpecCode": "4955",
+    "CommonName": "Bedja",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus tanyokidus",
+    "SpecCode": "23527",
+    "CommonName": "Zunaga-akabô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus thoracotaeniatus",
+    "SpecCode": "23524",
+    "CommonName": "Itohiki-akabô",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus trilineatus",
+    "SpecCode": "59649",
+    "CommonName": "Akahosi-kitsunebera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus unimaculatus",
+    "SpecCode": "27512",
+    "CommonName": "Banded pig-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bodianus vulpinus",
+    "SpecCode": "13039",
+    "CommonName": "Blackspot pigfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

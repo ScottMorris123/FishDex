@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Astrocottus leprops",
+    "SpecCode": "23921",
+    "CommonName": "Hoho-urokokajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astrocottus matsubarae",
+    "SpecCode": "23920",
+    "CommonName": "Setokajika",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astrocottus oyamai",
+    "SpecCode": "23922",
+    "CommonName": "Ôyamakajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Astrocottus regulus",
+    "SpecCode": "64189",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

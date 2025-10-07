@@ -1,0 +1,71 @@
+[
+  {
+    "ScientificName": "Gobionellus daguae",
+    "SpecCode": "54385",
+    "CommonName": "Choco goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionellus liolepis",
+    "SpecCode": "54386",
+    "CommonName": "Okapi goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionellus microdon",
+    "SpecCode": "46874",
+    "CommonName": "Estuary goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionellus munizi",
+    "SpecCode": "57928",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionellus occidentalis",
+    "SpecCode": "9956",
+    "CommonName": "Delta goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionellus oceanicus",
+    "SpecCode": "3862",
+    "CommonName": "Amborê",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobionellus stomatus",
+    "SpecCode": "52387",
+    "CommonName": "Amoré",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

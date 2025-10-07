@@ -20,7 +20,7 @@
   {
     "ScientificName": "Bathyphylax pruvosti",
     "SpecCode": "63800",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

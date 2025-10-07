@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Ancylopsetta antillarum",
+    "SpecCode": "58946",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancylopsetta cycloidea",
+    "SpecCode": "7527",
+    "CommonName": "Arepa de tres manchas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancylopsetta dendritica",
+    "SpecCode": "8225",
+    "CommonName": "Boca abajo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancylopsetta dilecta",
+    "SpecCode": "4205",
+    "CommonName": "Hirenaga-darumagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancylopsetta kumperae",
+    "SpecCode": "7528",
+    "CommonName": "Arepa de cuatro manchas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancylopsetta microctenus",
+    "SpecCode": "59553",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ancylopsetta quadrocellata",
+    "SpecCode": "4206",
+    "CommonName": "Firøjet hvarre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

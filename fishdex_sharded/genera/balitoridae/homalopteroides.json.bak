@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Homalopteroides avii",
+    "SpecCode": "67732",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides indochinensis",
+    "SpecCode": "26824",
+    "CommonName": "Balitora indočínská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides manipurensis",
+    "SpecCode": "59928",
+    "CommonName": "Manipuri lameuim",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides modestus",
+    "SpecCode": "24512",
+    "CommonName": "Balitora myanmarská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides nebulosus",
+    "SpecCode": "22865",
+    "CommonName": "Balitora kelantanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides rupicola",
+    "SpecCode": "24514",
+    "CommonName": "Balitora skalisková",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides smithi",
+    "SpecCode": "26829",
+    "CommonName": "Balitora Smithova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides stephensoni",
+    "SpecCode": "22881",
+    "CommonName": "Balitora Stephensonova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides tweediei",
+    "SpecCode": "22963",
+    "CommonName": "Balitora johorská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides wassinkii",
+    "SpecCode": "22965",
+    "CommonName": "Balitora Wassinkova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides weberi",
+    "SpecCode": "22966",
+    "CommonName": "Balitora Weberova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Homalopteroides yuwonoi",
+    "SpecCode": "54571",
+    "CommonName": "Balitora kalimantanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

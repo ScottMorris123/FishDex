@@ -1,0 +1,59 @@
+[
+  {
+    "ScientificName": "Carassius auratus",
+    "SpecCode": "271",
+    "CommonName": "Aranyhal",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carassius carassius",
+    "SpecCode": "270",
+    "CommonName": "auksinis karosas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carassius cuvieri",
+    "SpecCode": "17296",
+    "CommonName": "Gengoro-buna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carassius gibelio",
+    "SpecCode": "6376",
+    "CommonName": "Cá Diếc bạc",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carassius langsdorfii",
+    "SpecCode": "23615",
+    "CommonName": "Gin-buna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Carassius praecipuus",
+    "SpecCode": "68593",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

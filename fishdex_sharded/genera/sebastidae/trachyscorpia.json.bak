@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Trachyscorpia carnomagula",
+    "SpecCode": "63406",
+    "CommonName": "Deepsea Scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyscorpia cristulata",
+    "SpecCode": "4011",
+    "CommonName": "Atlandi okasahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyscorpia echinata",
+    "SpecCode": "17286",
+    "CommonName": "Atlantic thornyhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyscorpia eschmeyeri",
+    "SpecCode": "23300",
+    "CommonName": "Cape rockfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyscorpia longipedicula",
+    "SpecCode": "63408",
+    "CommonName": "Stylish Scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyscorpia osheri",
+    "SpecCode": "64027",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trachyscorpia verai",
+    "SpecCode": "65144",
+    "CommonName": "Brujo espinoso de profundidad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Gymnorhamphichthys bogardusae",
+    "SpecCode": "66152",
+    "CommonName": "Glasknivfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnorhamphichthys britskii",
+    "SpecCode": "66300",
+    "CommonName": "Dråbeknivfisk",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnorhamphichthys hypostomus",
+    "SpecCode": "15945",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnorhamphichthys petiti",
+    "SpecCode": "61817",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnorhamphichthys rondoni",
+    "SpecCode": "48077",
+    "CommonName": "Anguila",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnorhamphichthys rosamariae",
+    "SpecCode": "57501",
+    "CommonName": "Sand knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

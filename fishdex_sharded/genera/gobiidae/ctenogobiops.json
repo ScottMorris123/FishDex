@@ -29,7 +29,7 @@
   {
     "ScientificName": "Ctenogobiops formosa",
     "SpecCode": "61584",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Ctenogobiops tongaensis",
     "SpecCode": "65006",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

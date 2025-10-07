@@ -2,7 +2,7 @@
   {
     "ScientificName": "Icelus armatus",
     "SpecCode": "61295",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

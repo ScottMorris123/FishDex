@@ -11,7 +11,7 @@
   {
     "ScientificName": "Tomiyamichthys dorsostigma",
     "SpecCode": "66363",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Tomiyamichthys levisquama",
     "SpecCode": "68468",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -236,7 +236,7 @@
   {
     "ScientificName": "Diancistrus typhlops",
     "SpecCode": "65271",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Ichthyscopus malacopterus",
     "SpecCode": "62129",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

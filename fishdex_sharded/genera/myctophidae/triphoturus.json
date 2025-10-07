@@ -20,7 +20,7 @@
   {
     "ScientificName": "Triphoturus oculeum",
     "SpecCode": "60938",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

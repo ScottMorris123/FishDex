@@ -38,7 +38,7 @@
   {
     "ScientificName": "Nototheniops tchizh",
     "SpecCode": "66448",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

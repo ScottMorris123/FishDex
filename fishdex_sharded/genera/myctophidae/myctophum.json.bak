@@ -1,0 +1,102 @@
+[
+  {
+    "ScientificName": "Myctophum affine",
+    "SpecCode": "7424",
+    "CommonName": "Lantern fish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum aurolaternatum",
+    "SpecCode": "4489",
+    "CommonName": "Cá Phát sáng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum brachygnathum",
+    "SpecCode": "10699",
+    "CommonName": "Shortjaw lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum fissunovi",
+    "SpecCode": "10270",
+    "CommonName": "費氏燈籠魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum indicum",
+    "SpecCode": "61053",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum lunatum",
+    "SpecCode": "59146",
+    "CommonName": "新月灯笼鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum lychnobium",
+    "SpecCode": "27422",
+    "CommonName": "双灯灯笼鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum nitidulum",
+    "SpecCode": "4490",
+    "CommonName": "Divertido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum orientale",
+    "SpecCode": "22994",
+    "CommonName": "Oriental lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum ovcharovi",
+    "SpecCode": "60931",
+    "CommonName": "奥氏灯笼鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myctophum punctatum",
+    "SpecCode": "1328",
+    "CommonName": "Ancioja 'i funnu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

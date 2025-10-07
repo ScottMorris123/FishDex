@@ -2,7 +2,7 @@
   {
     "ScientificName": "Nemuroglanis furcatus",
     "SpecCode": "65991",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Nemuroglanis pauciradiatus",
     "SpecCode": "57672",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

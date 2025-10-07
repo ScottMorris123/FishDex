@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Procottus gotoi",
+    "SpecCode": "60303",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Procottus gurwicii",
+    "SpecCode": "48085",
+    "CommonName": "Dwarf sculpins",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Procottus jeittelesii",
+    "SpecCode": "48084",
+    "CommonName": "Krasnaya shirokolobka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Procottus major",
+    "SpecCode": "48087",
+    "CommonName": "Suur laipea",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

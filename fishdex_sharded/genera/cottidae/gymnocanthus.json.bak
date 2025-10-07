@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Gymnocanthus detrisus",
+    "SpecCode": "23956",
+    "CommonName": "Purplegray sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocanthus galeatus",
+    "SpecCode": "4091",
+    "CommonName": "Armorhead sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocanthus herzensteini",
+    "SpecCode": "23954",
+    "CommonName": "Herzensteini kiiverhärg",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocanthus intermedius",
+    "SpecCode": "23955",
+    "CommonName": "Aikajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocanthus pistilliger",
+    "SpecCode": "11716",
+    "CommonName": "Hagekajika",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocanthus tricuspis",
+    "SpecCode": "4092",
+    "CommonName": "Arctic staghorn sculpin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocanthus vandesandei",
+    "SpecCode": "61291",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

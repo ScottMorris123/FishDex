@@ -30,7 +30,7 @@
   {
     "ScientificName": "Mugilogobius cagayanensis",
     "SpecCode": "27658",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -71,7 +71,7 @@
   {
     "ScientificName": "Mugilogobius fasciatus",
     "SpecCode": "59894",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -91,7 +91,7 @@
   {
     "ScientificName": "Mugilogobius flavomaculatus",
     "SpecCode": "70537",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -129,7 +129,7 @@
   {
     "ScientificName": "Mugilogobius karatunensis",
     "SpecCode": "25080",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -147,7 +147,7 @@
   {
     "ScientificName": "Mugilogobius lepidotus",
     "SpecCode": "59896",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -197,7 +197,7 @@
   {
     "ScientificName": "Mugilogobius nuicocensis",
     "SpecCode": "65710",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -247,7 +247,7 @@
   {
     "ScientificName": "Mugilogobius rexi",
     "SpecCode": "59898",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -295,7 +295,7 @@
   {
     "ScientificName": "Mugilogobius tigrinus",
     "SpecCode": "59900",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],
@@ -314,7 +314,7 @@
   {
     "ScientificName": "Mugilogobius zebra",
     "SpecCode": "25081",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

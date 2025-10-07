@@ -56,7 +56,7 @@
   {
     "ScientificName": "Thorichthys panchovillai",
     "SpecCode": "68672",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

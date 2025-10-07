@@ -2,7 +2,7 @@
   {
     "ScientificName": "Saccoderma hastata",
     "SpecCode": "57799",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Saccoderma robusta",
     "SpecCode": "53486",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

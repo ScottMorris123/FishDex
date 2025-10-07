@@ -47,7 +47,7 @@
   {
     "ScientificName": "Trachyscorpia osheri",
     "SpecCode": "64027",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

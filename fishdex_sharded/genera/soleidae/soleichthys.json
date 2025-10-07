@@ -2,7 +2,7 @@
   {
     "ScientificName": "Soleichthys dori",
     "SpecCode": "64644",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Soleichthys multifasciatus",
     "SpecCode": "69707",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -48,7 +48,7 @@
   {
     "ScientificName": "Soleichthys nigrostriolatus",
     "SpecCode": "69708",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Soleichthys tubiferus",
     "SpecCode": "58953",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

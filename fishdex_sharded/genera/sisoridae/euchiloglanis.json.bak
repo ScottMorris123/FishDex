@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Euchiloglanis dorsoarcus",
+    "SpecCode": "65682",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euchiloglanis kishinouyei",
+    "SpecCode": "51007",
+    "CommonName": "Catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euchiloglanis longibarbatus",
+    "SpecCode": "66044",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euchiloglanis phongthoensis",
+    "SpecCode": "65716",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

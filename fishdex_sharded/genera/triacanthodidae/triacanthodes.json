@@ -20,7 +20,7 @@
   {
     "ScientificName": "Triacanthodes indicus",
     "SpecCode": "54960",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

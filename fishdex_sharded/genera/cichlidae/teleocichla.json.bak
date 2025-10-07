@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Teleocichla centisquama",
+    "SpecCode": "60264",
+    "CommonName": "Slender pike cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleocichla centrarchus",
+    "SpecCode": "46828",
+    "CommonName": "Aurinkotokkoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleocichla cinderella",
+    "SpecCode": "46832",
+    "CommonName": "Aschenputtel-Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleocichla gephyrogramma",
+    "SpecCode": "47116",
+    "CommonName": "Satulatokkoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleocichla monogramma",
+    "SpecCode": "46886",
+    "CommonName": "Juovatokkoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleocichla preta",
+    "SpecCode": "69384",
+    "CommonName": "Téléo noir",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleocichla prionogenys",
+    "SpecCode": "47118",
+    "CommonName": "Sahatokkoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleocichla proselytus",
+    "SpecCode": "46909",
+    "CommonName": "Vihertokkoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Teleocichla wajapi",
+    "SpecCode": "67084",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

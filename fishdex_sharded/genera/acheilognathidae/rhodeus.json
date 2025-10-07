@@ -2,7 +2,7 @@
   {
     "ScientificName": "Rhodeus albomarginatus",
     "SpecCode": "67829",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Rhodeus notatus",
     "SpecCode": "67830",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

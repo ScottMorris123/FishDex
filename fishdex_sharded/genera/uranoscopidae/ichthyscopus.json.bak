@@ -1,0 +1,84 @@
+[
+  {
+    "ScientificName": "Ichthyscopus barbatus",
+    "SpecCode": "14433",
+    "CommonName": "Fringe stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyscopus fasciatus",
+    "SpecCode": "10856",
+    "CommonName": "Banded stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyscopus insperatus",
+    "SpecCode": "10857",
+    "CommonName": "Dobbeltbåndet stjernekigger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyscopus lebeck",
+    "SpecCode": "58184",
+    "CommonName": "Belokok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyscopus malacopterus",
+    "SpecCode": "62129",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyscopus nigripinnis",
+    "SpecCode": "59436",
+    "CommonName": "Blackfin stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyscopus pollicaris",
+    "SpecCode": "69126",
+    "CommonName": "Oriental fringe stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyscopus sannio",
+    "SpecCode": "23561",
+    "CommonName": "Belokok",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyscopus spinosus",
+    "SpecCode": "56515",
+    "CommonName": "Spiny stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

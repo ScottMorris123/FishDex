@@ -1,0 +1,21 @@
+[
+  {
+    "ScientificName": "Pseudaphritis undulatus",
+    "SpecCode": "26363",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudaphritis urvillii",
+    "SpecCode": "12011",
+    "CommonName": "Congolli",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

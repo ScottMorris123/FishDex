@@ -20,7 +20,7 @@
   {
     "ScientificName": "Brotula flaviviridis",
     "SpecCode": "63422",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Brotula phenax",
     "SpecCode": "70474",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

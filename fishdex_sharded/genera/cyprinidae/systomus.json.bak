@@ -1,0 +1,184 @@
+[
+  {
+    "ScientificName": "Systomus asoka",
+    "SpecCode": "6141",
+    "CommonName": "Asoka barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus binduchitra",
+    "SpecCode": "70035",
+    "CommonName": "Sandoway-barbe",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus chryseus",
+    "SpecCode": "67801",
+    "CommonName": "Golden Systomus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus chrysopoma",
+    "SpecCode": "68206",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus clavatus",
+    "SpecCode": "13192",
+    "CommonName": "Bada Pothi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus compressiformis",
+    "SpecCode": "55132",
+    "CommonName": "Õhuke saagpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus endecanalis",
+    "SpecCode": "17463",
+    "CommonName": "Berbaju",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus immaculatus",
+    "SpecCode": "66770",
+    "CommonName": "Assami saagpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus jacobusboehlkei",
+    "SpecCode": "50498",
+    "CommonName": "Böhlke saagpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus jayarami",
+    "SpecCode": "63042",
+    "CommonName": "Manipuri saagpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus laticeps",
+    "SpecCode": "68208",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus martenstyni",
+    "SpecCode": "25202",
+    "CommonName": "Martenstyni saagpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus orphoides",
+    "SpecCode": "68207",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus pleurotaenia",
+    "SpecCode": "6145",
+    "CommonName": "Black lined barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus rubripinnis",
+    "SpecCode": "4794",
+    "CommonName": "Ampa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus rufus",
+    "SpecCode": "67802",
+    "CommonName": "Red finned kuruva",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus sarana",
+    "SpecCode": "13197",
+    "CommonName": "Bada pothi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus spilurus",
+    "SpecCode": "66771",
+    "CommonName": "Sabalaik-saagpuntius",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus subnasutus",
+    "SpecCode": "68204",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Systomus timbiri",
+    "SpecCode": "66772",
+    "CommonName": "Short-bodied olive barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

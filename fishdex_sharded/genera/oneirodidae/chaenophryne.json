@@ -20,7 +20,7 @@
   {
     "ScientificName": "Chaenophryne melanorhabdus",
     "SpecCode": "27427",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Chaenophryne quasiramifera",
     "SpecCode": "63954",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

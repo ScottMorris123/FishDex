@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Odontobutis haifengensis",
+    "SpecCode": "55198",
+    "CommonName": "海丰沙塘鳢",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontobutis hikimius",
+    "SpecCode": "59097",
+    "CommonName": "Ishi-donko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontobutis interruptus",
+    "SpecCode": "52698",
+    "CommonName": "얼록동사리",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontobutis obscurus",
+    "SpecCode": "15879",
+    "CommonName": "Donko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontobutis platycephala",
+    "SpecCode": "52699",
+    "CommonName": "동사리",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontobutis potamophilus",
+    "SpecCode": "59098",
+    "CommonName": "河川沙塘鱧",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontobutis sinensis",
+    "SpecCode": "61585",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odontobutis yaluensis",
+    "SpecCode": "59099",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

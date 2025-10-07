@@ -1,0 +1,61 @@
+[
+  {
+    "ScientificName": "Gasterosteus aculeatus",
+    "SpecCode": "2420",
+    "CommonName": "Agathero",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gasterosteus crenobiontus",
+    "SpecCode": "49371",
+    "CommonName": "Allikaogalik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gasterosteus islandicus",
+    "SpecCode": "65317",
+    "CommonName": "Iceland stickleback",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gasterosteus microcephalus",
+    "SpecCode": "48976",
+    "CommonName": "Hariyo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gasterosteus nipponicus",
+    "SpecCode": "68420",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gasterosteus wheatlandi",
+    "SpecCode": "3272",
+    "CommonName": "Barnstickle",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

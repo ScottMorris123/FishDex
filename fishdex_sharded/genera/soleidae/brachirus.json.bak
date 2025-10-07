@@ -1,0 +1,157 @@
+[
+  {
+    "ScientificName": "Brachirus aenea",
+    "SpecCode": "59160",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus annularis",
+    "SpecCode": "11679",
+    "CommonName": "Annular sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus aspilos",
+    "SpecCode": "24461",
+    "CommonName": "Amami-ushinoshita",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus breviceps",
+    "SpecCode": "69704",
+    "CommonName": "Shorthead sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus fitzroiensis",
+    "SpecCode": "69672",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus harmandi",
+    "SpecCode": "26873",
+    "CommonName": "Pa pe",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus macrolepis",
+    "SpecCode": "60535",
+    "CommonName": "Lidah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus niger",
+    "SpecCode": "8952",
+    "CommonName": "Black sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus orientalis",
+    "SpecCode": "8312",
+    "CommonName": "Black sole",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus pan",
+    "SpecCode": "25290",
+    "CommonName": "Kathal pata",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus panoides",
+    "SpecCode": "25167",
+    "CommonName": "Cá luoi mèo",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus sayaensis",
+    "SpecCode": "69671",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus selheimi",
+    "SpecCode": "22790",
+    "CommonName": "Fresh water sole",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus siamensis",
+    "SpecCode": "58020",
+    "CommonName": "暹罗宽吞鳎",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus swinhonis",
+    "SpecCode": "58957",
+    "CommonName": "縱帶箬鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Brachirus villosus",
+    "SpecCode": "26596",
+    "CommonName": "Velvety sole",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

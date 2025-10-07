@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Rhynchodoras castilloi",
+    "SpecCode": "64190",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchodoras woodsi",
+    "SpecCode": "47649",
+    "CommonName": "Bagre hueso",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhynchodoras xingui",
+    "SpecCode": "47650",
+    "CommonName": "Haarniskaokamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

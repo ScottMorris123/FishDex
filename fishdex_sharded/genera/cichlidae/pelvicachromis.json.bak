@@ -1,0 +1,76 @@
+[
+  {
+    "ScientificName": "Pelvicachromis drachenfelsi",
+    "SpecCode": "68014",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelvicachromis kribensis",
+    "SpecCode": "68035",
+    "CommonName": "Kribi-paletcichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelvicachromis pulcher",
+    "SpecCode": "7778",
+    "CommonName": "Barwniak czerwonobrzuchy",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelvicachromis roloffi",
+    "SpecCode": "8797",
+    "CommonName": "Roloffs Prachtbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelvicachromis sacrimontis",
+    "SpecCode": "68951",
+    "CommonName": "Grøn paletcichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelvicachromis silviae",
+    "SpecCode": "67157",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelvicachromis subocellatus",
+    "SpecCode": "8798",
+    "CommonName": "Augenfleck-Prachtbarsch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pelvicachromis taeniatus",
+    "SpecCode": "8799",
+    "CommonName": "Barwniak szmaragdowy",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

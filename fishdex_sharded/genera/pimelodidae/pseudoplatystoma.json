@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pseudoplatystoma magdaleniatum",
     "SpecCode": "63539",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Pseudoplatystoma metaense",
     "SpecCode": "63538",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Pseudoplatystoma orinocoense",
     "SpecCode": "63537",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Pseudoplatystoma punctifer",
     "SpecCode": "68633",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Pseudoplatystoma reticulatum",
     "SpecCode": "66249",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

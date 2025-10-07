@@ -20,7 +20,7 @@
   {
     "ScientificName": "Protammodytes ventrolineatus",
     "SpecCode": "67703",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -53,7 +53,7 @@
   {
     "ScientificName": "Sciades paucus",
     "SpecCode": "60008",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

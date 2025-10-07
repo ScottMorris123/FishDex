@@ -1,0 +1,272 @@
+[
+  {
+    "ScientificName": "Acentrogobius audax",
+    "SpecCode": "17032",
+    "CommonName": "Blue-spotted mud-goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius caninus",
+    "SpecCode": "4894",
+    "CommonName": "Belodok",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius cenderawasih",
+    "SpecCode": "66879",
+    "CommonName": "Cenderawasih goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius chlorostigmatoides",
+    "SpecCode": "54133",
+    "CommonName": "Cá Bống chấm bụng",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius cyanomos",
+    "SpecCode": "25062",
+    "CommonName": "Nuna baila",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius dayi",
+    "SpecCode": "46432",
+    "CommonName": "Day's goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius ennorensis",
+    "SpecCode": "56720",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius gracilis",
+    "SpecCode": "27549",
+    "CommonName": "Bluespotted mangrove goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius griseus",
+    "SpecCode": "25229",
+    "CommonName": "Grey goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius janthinopterus",
+    "SpecCode": "23581",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius limarius",
+    "SpecCode": "68732",
+    "CommonName": "Batanta mud goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius madraspatensis",
+    "SpecCode": "25230",
+    "CommonName": "Manyband goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius masoni",
+    "SpecCode": "25232",
+    "CommonName": "梅氏細棘鰕虎魚",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius moloanus",
+    "SpecCode": "23582",
+    "CommonName": "Barcheek Amoya",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius multifasciatus",
+    "SpecCode": "23583",
+    "CommonName": "Seitaka-sujihaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius nebulosus",
+    "SpecCode": "7228",
+    "CommonName": "Bagtis",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius pellidebilis",
+    "SpecCode": "60013",
+    "CommonName": "점줄망둑",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius pflaumii",
+    "SpecCode": "23585",
+    "CommonName": "Striped sandgoby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius signatus",
+    "SpecCode": "17033",
+    "CommonName": "Slagtand-dikkop",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius simplex",
+    "SpecCode": "9921",
+    "CommonName": "Bagamoyo goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius suluensis",
+    "SpecCode": "23587",
+    "CommonName": "Hohoguro-sujihaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius therezieni",
+    "SpecCode": "9922",
+    "CommonName": "特氏細棘鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius vanderloosi",
+    "SpecCode": "68735",
+    "CommonName": "Mudslope goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius veliensis",
+    "SpecCode": "65414",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius viganensis",
+    "SpecCode": "23590",
+    "CommonName": "Suzumehaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius violarisi",
+    "SpecCode": "68736",
+    "CommonName": "Alotau goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Acentrogobius viridipunctatus",
+    "SpecCode": "15776",
+    "CommonName": "Bekut",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

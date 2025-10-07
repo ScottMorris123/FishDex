@@ -47,7 +47,7 @@
   {
     "ScientificName": "Platygillellus smithi",
     "SpecCode": "50489",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

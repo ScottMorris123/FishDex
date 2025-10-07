@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Neobathyclupea argentea",
+    "SpecCode": "46346",
+    "CommonName": "Sokonishin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobathyclupea elongata",
+    "SpecCode": "10751",
+    "CommonName": "Slender (southern) deepsea herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobathyclupea gracilis",
+    "SpecCode": "52842",
+    "CommonName": "Slender deepsea herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobathyclupea japanotaiwana",
+    "SpecCode": "69145",
+    "CommonName": "North Pacific deepsea herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobathyclupea malayana",
+    "SpecCode": "60526",
+    "CommonName": "Malaysian deepsea herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobathyclupea megaceps",
+    "SpecCode": "52843",
+    "CommonName": "Big-headed deepsea herring",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neobathyclupea melanoptera",
+    "SpecCode": "69538",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -29,7 +29,7 @@
   {
     "ScientificName": "Hippoglossina mystacium",
     "SpecCode": "59551",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

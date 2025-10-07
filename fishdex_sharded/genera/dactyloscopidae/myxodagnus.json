@@ -38,7 +38,7 @@
   {
     "ScientificName": "Myxodagnus walkeri",
     "SpecCode": "60679",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

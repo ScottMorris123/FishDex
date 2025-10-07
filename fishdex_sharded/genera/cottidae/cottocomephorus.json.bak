@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Cottocomephorus alexandrae",
+    "SpecCode": "62257",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottocomephorus grewingkii",
+    "SpecCode": "4495",
+    "CommonName": "Baikal yellowfin",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cottocomephorus inermis",
+    "SpecCode": "26381",
+    "CommonName": "Langflossige Baikalgroppe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

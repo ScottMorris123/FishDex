@@ -47,7 +47,7 @@
   {
     "ScientificName": "Stomias danae",
     "SpecCode": "55049",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

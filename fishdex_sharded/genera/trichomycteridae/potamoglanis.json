@@ -2,7 +2,7 @@
   {
     "ScientificName": "Potamoglanis anhanga",
     "SpecCode": "66904",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Potamoglanis wapixana",
     "SpecCode": "68505",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

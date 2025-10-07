@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Apletodon bacescui",
+    "SpecCode": "57253",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apletodon barbatus",
+    "SpecCode": "65302",
+    "CommonName": "Barbel clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apletodon dentatus",
+    "SpecCode": "9196",
+    "CommonName": "Aixafa-roques dentat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apletodon gabonensis",
+    "SpecCode": "68992",
+    "CommonName": "Gabon clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apletodon incognitus",
+    "SpecCode": "51745",
+    "CommonName": "Aixafa-roques dels eriçons",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apletodon pellegrini",
+    "SpecCode": "16734",
+    "CommonName": "Buttet dobbeltsuger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apletodon wirtzi",
+    "SpecCode": "63358",
+    "CommonName": "Sao Tomé clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

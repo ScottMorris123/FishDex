@@ -2,7 +2,7 @@
   {
     "ScientificName": "Metelectrona ahlstromi",
     "SpecCode": "54867",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

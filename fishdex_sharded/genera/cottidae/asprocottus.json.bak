@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Asprocottus abyssalis",
+    "SpecCode": "48048",
+    "CommonName": "Deep-water rough sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asprocottus herzensteini",
+    "SpecCode": "48049",
+    "CommonName": "Herzenstein's rough sculpin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asprocottus intermedius",
+    "SpecCode": "61488",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asprocottus korjakovi",
+    "SpecCode": "60302",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asprocottus minor",
+    "SpecCode": "62234",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asprocottus parmiferus",
+    "SpecCode": "48051",
+    "CommonName": "панцирная широколобка",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asprocottus platycephalus",
+    "SpecCode": "48054",
+    "CommonName": "плоскоголовая широколобка",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Asprocottus pulcher",
+    "SpecCode": "48055",
+    "CommonName": "острорылая широколобка",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Parapsilorhynchus alluriensis",
+    "SpecCode": "70240",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapsilorhynchus discophorus",
+    "SpecCode": "24484",
+    "CommonName": "Ratnagiri ahaskoon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapsilorhynchus elongatus",
+    "SpecCode": "60632",
+    "CommonName": "Nagir protáhlý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapsilorhynchus odishaensis",
+    "SpecCode": "70241",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapsilorhynchus prateri",
+    "SpecCode": "24487",
+    "CommonName": "Deolali ahaskoon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapsilorhynchus tentaculatus",
+    "SpecCode": "24488",
+    "CommonName": "Khandalla minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

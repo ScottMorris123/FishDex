@@ -29,7 +29,7 @@
   {
     "ScientificName": "Hime diactithrix",
     "SpecCode": "64090",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

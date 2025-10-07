@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Myxodagnus belone",
+    "SpecCode": "16447",
+    "CommonName": "Dartfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxodagnus macrognathus",
+    "SpecCode": "60678",
+    "CommonName": "Longjaw stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxodagnus opercularis",
+    "SpecCode": "51436",
+    "CommonName": "Dart stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxodagnus sagitta",
+    "SpecCode": "56678",
+    "CommonName": "Arrow stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Myxodagnus walkeri",
+    "SpecCode": "60679",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

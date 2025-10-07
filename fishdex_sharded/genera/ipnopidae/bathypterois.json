@@ -20,7 +20,7 @@
   {
     "ScientificName": "Bathypterois bigelowi",
     "SpecCode": "58765",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Bathypterois insularum",
     "SpecCode": "58766",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Bathypterois oddi",
     "SpecCode": "46964",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Bathypterois parini",
     "SpecCode": "61195",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Bathypterois pectinatus",
     "SpecCode": "54862",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

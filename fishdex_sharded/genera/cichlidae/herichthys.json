@@ -111,7 +111,7 @@
   {
     "ScientificName": "Herichthys tepehua",
     "SpecCode": "67634",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -120,7 +120,7 @@
   {
     "ScientificName": "Herichthys teporatus",
     "SpecCode": "68171",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

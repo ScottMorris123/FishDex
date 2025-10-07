@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Trematomus amphitreta",
+    "SpecCode": "63466",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus bernacchii",
+    "SpecCode": "7053",
+    "CommonName": "Austrobacalao esmeral",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus brachysoma",
+    "SpecCode": "7050",
+    "CommonName": "Austrobacalao mocho",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus eulepidotus",
+    "SpecCode": "7054",
+    "CommonName": "Blunt scalyhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus hansoni",
+    "SpecCode": "7055",
+    "CommonName": "Austrobacalao rayado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus lepidorhinus",
+    "SpecCode": "7056",
+    "CommonName": "Slender scalyhead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus loennbergii",
+    "SpecCode": "7057",
+    "CommonName": "Austrobacalao escamudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus newnesi",
+    "SpecCode": "7058",
+    "CommonName": "Austrobacalao oscuro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus nicolai",
+    "SpecCode": "7059",
+    "CommonName": "Mustuim-trematoom",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus peninsulae",
+    "SpecCode": "7038",
+    "CommonName": "Pithead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus pennellii",
+    "SpecCode": "7060",
+    "CommonName": "Sharp-spined notothen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus scotti",
+    "SpecCode": "7061",
+    "CommonName": "Austrobacalao coronado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus tokarevi",
+    "SpecCode": "7062",
+    "CommonName": "Bigeye notothen",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trematomus vicarius",
+    "SpecCode": "7063",
+    "CommonName": "Orange isfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

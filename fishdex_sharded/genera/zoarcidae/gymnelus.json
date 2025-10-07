@@ -11,7 +11,7 @@
   {
     "ScientificName": "Gymnelus diporus",
     "SpecCode": "57827",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Gymnelus gracilis",
     "SpecCode": "57914",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Gymnelus soldatovi",
     "SpecCode": "57826",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

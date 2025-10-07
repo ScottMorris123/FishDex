@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Exocoetus gibbosus",
+    "SpecCode": "60694",
+    "CommonName": "Oceanic flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Exocoetus monocirrhus",
+    "SpecCode": "5123",
+    "CommonName": "Barbel flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Exocoetus obtusirostris",
+    "SpecCode": "1031",
+    "CommonName": "Blunt-snouted flying fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Exocoetus peruvianus",
+    "SpecCode": "60695",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Exocoetus volitans",
+    "SpecCode": "1032",
+    "CommonName": "Avuador-do-alto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

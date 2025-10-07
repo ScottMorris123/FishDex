@@ -20,7 +20,7 @@
   {
     "ScientificName": "Ogilbyina salvati",
     "SpecCode": "57897",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

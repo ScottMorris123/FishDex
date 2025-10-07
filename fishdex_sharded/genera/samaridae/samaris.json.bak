@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Samaris chesterfieldensis",
+    "SpecCode": "65306",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samaris costae",
+    "SpecCode": "56807",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samaris cristatus",
+    "SpecCode": "8290",
+    "CommonName": "Cá Bơn máo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samaris macrolepis",
+    "SpecCode": "15182",
+    "CommonName": "Bigfin righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Samaris spinea",
+    "SpecCode": "65305",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

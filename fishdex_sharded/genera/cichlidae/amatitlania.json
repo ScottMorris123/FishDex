@@ -11,7 +11,7 @@
   {
     "ScientificName": "Amatitlania coatepeque",
     "SpecCode": "63627",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Amatitlania kanna",
     "SpecCode": "63628",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Amatitlania siquia",
     "SpecCode": "63629",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

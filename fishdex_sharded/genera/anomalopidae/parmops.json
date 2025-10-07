@@ -2,7 +2,7 @@
   {
     "ScientificName": "Parmops coruscans",
     "SpecCode": "54002",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Parmops echinatus",
     "SpecCode": "60310",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,456 @@
+[
+  {
+    "ScientificName": "Alburnus adanensis",
+    "SpecCode": "65224",
+    "CommonName": "Adana bleak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus akili",
+    "SpecCode": "9530",
+    "CommonName": "Beysehir bleak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus albidus",
+    "SpecCode": "25774",
+    "CommonName": "Alborella",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus alburnus",
+    "SpecCode": "4730",
+    "CommonName": "Ablé",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus arborella",
+    "SpecCode": "62353",
+    "CommonName": "Aadria viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus atropatenae",
+    "SpecCode": "55304",
+    "CommonName": "Iraani viidkas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus attalus",
+    "SpecCode": "64207",
+    "CommonName": "Bakır shemaya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus baliki",
+    "SpecCode": "58198",
+    "CommonName": "Antalya bleak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus battalgilae",
+    "SpecCode": "64208",
+    "CommonName": "Gediz shemaya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus belvica",
+    "SpecCode": "25857",
+    "CommonName": "Ciroja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus caeruleus",
+    "SpecCode": "52604",
+    "CommonName": "Inci balığı",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus carianorum",
+    "SpecCode": "70173",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus carinatus",
+    "SpecCode": "65222",
+    "CommonName": "Inci balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus chalcoides",
+    "SpecCode": "5473",
+    "CommonName": "Ablette de lacs",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus danubicus",
+    "SpecCode": "64205",
+    "CommonName": "Doonau viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus demiri",
+    "SpecCode": "64094",
+    "CommonName": "Demiri viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus derjugini",
+    "SpecCode": "65225",
+    "CommonName": "Derjugini viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus doriae",
+    "SpecCode": "61948",
+    "CommonName": "Amirkabir's bleak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus escherichii",
+    "SpecCode": "52607",
+    "CommonName": "Caucasian bleak",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus filippii",
+    "SpecCode": "48173",
+    "CommonName": "Inci balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus heckeli",
+    "SpecCode": "52608",
+    "CommonName": "Hazar bleak",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus hohenackeri",
+    "SpecCode": "48172",
+    "CommonName": "Inci balığı",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus istanbulensis",
+    "SpecCode": "65101",
+    "CommonName": "Inci balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus kotschyi",
+    "SpecCode": "67460",
+    "CommonName": "Arsuz bleak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus leobergi",
+    "SpecCode": "64199",
+    "CommonName": "Aasovi viidikas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus macedonicus",
+    "SpecCode": "65102",
+    "CommonName": "Doirani viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus magnificus",
+    "SpecCode": "70263",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus mandrensis",
+    "SpecCode": "65103",
+    "CommonName": "Mandra viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus maximus",
+    "SpecCode": "69022",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus mento",
+    "SpecCode": "62440",
+    "CommonName": "Alpen-Ukelei",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus mentoides",
+    "SpecCode": "65056",
+    "CommonName": "Crimea shemaya",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus mossulensis",
+    "SpecCode": "52610",
+    "CommonName": "Mossul bleak",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus nasreddini",
+    "SpecCode": "52612",
+    "CommonName": "Eber bleak",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus neretvae",
+    "SpecCode": "65845",
+    "CommonName": "Neretva viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus nicaeensis",
+    "SpecCode": "65223",
+    "CommonName": "Inci balığı",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus orontis",
+    "SpecCode": "52615",
+    "CommonName": "Anadolu inci balığı",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus qalilus",
+    "SpecCode": "61862",
+    "CommonName": "Süüria viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus sarmaticus",
+    "SpecCode": "64201",
+    "CommonName": "Sarmaatia viidikas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus sava",
+    "SpecCode": "68538",
+    "CommonName": "Bucov",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus schischkovi",
+    "SpecCode": "65104",
+    "CommonName": "Black Sea bleak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus scoranza",
+    "SpecCode": "65057",
+    "CommonName": "Gjuca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus selcuklui",
+    "SpecCode": "68276",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus sellal",
+    "SpecCode": "52618",
+    "CommonName": "Aleppo viidikas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus tarichi",
+    "SpecCode": "9635",
+    "CommonName": "Inci kefali",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus thessalicus",
+    "SpecCode": "65226",
+    "CommonName": "Tessaalia viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus timarensis",
+    "SpecCode": "68229",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus vistonicus",
+    "SpecCode": "64197",
+    "CommonName": "Vistonia shemaja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus volviticus",
+    "SpecCode": "64198",
+    "CommonName": "Volvi viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnus zagrosensis",
+    "SpecCode": "65189",
+    "CommonName": "Zagrose viidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

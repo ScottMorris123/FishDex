@@ -20,7 +20,7 @@
   {
     "ScientificName": "Nezumia aspidentata",
     "SpecCode": "58895",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Nezumia cliveri",
     "SpecCode": "58865",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Rhamdella aymarae",
     "SpecCode": "57675",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Rhamdella cainguae",
     "SpecCode": "63933",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Rhamdella zelimai",
     "SpecCode": "67788",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

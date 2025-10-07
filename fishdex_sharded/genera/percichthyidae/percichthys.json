@@ -2,7 +2,7 @@
   {
     "ScientificName": "Percichthys chilensis",
     "SpecCode": "62229",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Percichthys laevis",
     "SpecCode": "62230",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

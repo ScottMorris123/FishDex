@@ -2,7 +2,7 @@
   {
     "ScientificName": "Vinagarra elongata",
     "SpecCode": "70261",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Vinagarra laichowensis",
     "SpecCode": "61218",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Vinagarra tamduongensis",
     "SpecCode": "70260",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

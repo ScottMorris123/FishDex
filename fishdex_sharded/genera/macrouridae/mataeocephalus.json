@@ -20,7 +20,7 @@
   {
     "ScientificName": "Mataeocephalus cristatus",
     "SpecCode": "65025",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Mataeocephalus hyostomus",
     "SpecCode": "52183",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

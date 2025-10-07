@@ -20,7 +20,7 @@
   {
     "ScientificName": "Anisotremus espinozai",
     "SpecCode": "70333",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Anisotremus perezponcedeleoni",
     "SpecCode": "70334",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

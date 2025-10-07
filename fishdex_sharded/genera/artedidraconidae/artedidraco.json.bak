@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Artedidraco glareobarbatus",
+    "SpecCode": "59315",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artedidraco longibarbatus",
+    "SpecCode": "70506",
+    "CommonName": "Longbeard plunderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artedidraco mirus",
+    "SpecCode": "7065",
+    "CommonName": "South Georgian plunderfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artedidraco orianae",
+    "SpecCode": "7066",
+    "CommonName": "管鱗阿氏龍鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Artedidraco shackletoni",
+    "SpecCode": "7067",
+    "CommonName": "大口阿氏龍鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

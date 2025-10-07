@@ -1,0 +1,94 @@
+[
+  {
+    "ScientificName": "Etropus ciadi",
+    "SpecCode": "63069",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etropus crossotus",
+    "SpecCode": "4221",
+    "CommonName": "Etrop",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etropus cyclosquamus",
+    "SpecCode": "58224",
+    "CommonName": "Shelf flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etropus delsmani",
+    "SpecCode": "24632",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etropus ectenes",
+    "SpecCode": "13956",
+    "CommonName": "Lenguado",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etropus longimanus",
+    "SpecCode": "57918",
+    "CommonName": "Linguado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etropus microstomus",
+    "SpecCode": "4222",
+    "CommonName": "Smallmouth flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etropus pacificus",
+    "SpecCode": "24631",
+    "CommonName": "Delsman's flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etropus peruvianus",
+    "SpecCode": "13957",
+    "CommonName": "Lenguado de Perú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Etropus rimosus",
+    "SpecCode": "4223",
+    "CommonName": "Gray flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

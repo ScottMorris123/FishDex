@@ -29,7 +29,7 @@
   {
     "ScientificName": "Encheloclarias medialis",
     "SpecCode": "67474",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Encheloclarias velatus",
     "SpecCode": "57954",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

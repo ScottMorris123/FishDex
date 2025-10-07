@@ -2,7 +2,7 @@
   {
     "ScientificName": "Symphysanodon andersoni",
     "SpecCode": "60290",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Symphysanodon disii",
     "SpecCode": "64089",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

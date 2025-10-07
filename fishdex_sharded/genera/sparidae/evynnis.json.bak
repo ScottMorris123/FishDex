@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Evynnis cardinalis",
+    "SpecCode": "8107",
+    "CommonName": "Bakoko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evynnis ehrenbergii",
+    "SpecCode": "66938",
+    "CommonName": "Pikkuim-aderkoger",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evynnis mononematos",
+    "SpecCode": "66476",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Evynnis tumifrons",
+    "SpecCode": "4710",
+    "CommonName": "Bakoko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Pagetodes atkinsoni",
     "SpecCode": "60586",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pagetodes pappenheimi",
     "SpecCode": "52687",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

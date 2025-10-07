@@ -2,7 +2,7 @@
   {
     "ScientificName": "Paraulopus atripes",
     "SpecCode": "61446",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Paraulopus legandi",
     "SpecCode": "58729",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Paraulopus novaeseelandiae",
     "SpecCode": "61109",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Paracapoeta anamisensis",
     "SpecCode": "70265",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Paracapoeta mandica",
     "SpecCode": "67905",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

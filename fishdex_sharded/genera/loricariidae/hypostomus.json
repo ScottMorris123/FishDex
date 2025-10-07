@@ -2,7 +2,7 @@
   {
     "ScientificName": "Hypostomus affinis",
     "SpecCode": "48870",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Hypostomus angipinnatus",
     "SpecCode": "48877",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Hypostomus arecuta",
     "SpecCode": "66888",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Hypostomus argus",
     "SpecCode": "48879",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Hypostomus atropinnis",
     "SpecCode": "48883",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Hypostomus basilisko",
     "SpecCode": "67516",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Hypostomus bimbai",
     "SpecCode": "69525",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Hypostomus bolivianus",
     "SpecCode": "48886",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Hypostomus brevicauda",
     "SpecCode": "48889",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Hypostomus brevis",
     "SpecCode": "48891",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Hypostomus careopinnatus",
     "SpecCode": "67118",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Hypostomus carinatus",
     "SpecCode": "48894",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Hypostomus chrysostiktos",
     "SpecCode": "63801",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Hypostomus coppenamensis",
     "SpecCode": "48150",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Hypostomus cordovae",
     "SpecCode": "69048",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Hypostomus crassicauda",
     "SpecCode": "48152",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Hypostomus dardanelos",
     "SpecCode": "67313",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -290,7 +290,7 @@
   {
     "ScientificName": "Hypostomus delimai",
     "SpecCode": "66851",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -299,7 +299,7 @@
   {
     "ScientificName": "Hypostomus denticulatus",
     "SpecCode": "64675",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -326,7 +326,7 @@
   {
     "ScientificName": "Hypostomus eptingi",
     "SpecCode": "50032",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -335,7 +335,7 @@
   {
     "ScientificName": "Hypostomus ericae",
     "SpecCode": "62724",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Hypostomus ericius",
     "SpecCode": "62621",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -353,7 +353,7 @@
   {
     "ScientificName": "Hypostomus faveolus",
     "SpecCode": "64677",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -371,7 +371,7 @@
   {
     "ScientificName": "Hypostomus fonchii",
     "SpecCode": "58412",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -407,7 +407,7 @@
   {
     "ScientificName": "Hypostomus goyazensis",
     "SpecCode": "48910",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -425,7 +425,7 @@
   {
     "ScientificName": "Hypostomus hemicochliodon",
     "SpecCode": "62622",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -443,7 +443,7 @@
   {
     "ScientificName": "Hypostomus heraldoi",
     "SpecCode": "64676",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -479,7 +479,7 @@
   {
     "ScientificName": "Hypostomus hoplonites",
     "SpecCode": "57604",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -488,7 +488,7 @@
   {
     "ScientificName": "Hypostomus iheringii",
     "SpecCode": "48915",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -497,7 +497,7 @@
   {
     "ScientificName": "Hypostomus interruptus",
     "SpecCode": "48916",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -515,7 +515,7 @@
   {
     "ScientificName": "Hypostomus itacua",
     "SpecCode": "49939",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -542,7 +542,7 @@
   {
     "ScientificName": "Hypostomus johnii",
     "SpecCode": "48919",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -551,7 +551,7 @@
   {
     "ScientificName": "Hypostomus khimaera",
     "SpecCode": "67657",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -560,7 +560,7 @@
   {
     "ScientificName": "Hypostomus kopeyaka",
     "SpecCode": "65399",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -569,7 +569,7 @@
   {
     "ScientificName": "Hypostomus kuarup",
     "SpecCode": "67389",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -605,7 +605,7 @@
   {
     "ScientificName": "Hypostomus leucophaeus",
     "SpecCode": "68252",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -623,7 +623,7 @@
   {
     "ScientificName": "Hypostomus lexi",
     "SpecCode": "48924",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -641,7 +641,7 @@
   {
     "ScientificName": "Hypostomus longiradiatus",
     "SpecCode": "48926",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -650,7 +650,7 @@
   {
     "ScientificName": "Hypostomus luetkeni",
     "SpecCode": "66253",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -695,7 +695,7 @@
   {
     "ScientificName": "Hypostomus macushi",
     "SpecCode": "62154",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -722,7 +722,7 @@
   {
     "ScientificName": "Hypostomus melanephelis",
     "SpecCode": "68211",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -731,7 +731,7 @@
   {
     "ScientificName": "Hypostomus meleagris",
     "SpecCode": "48933",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -758,7 +758,7 @@
   {
     "ScientificName": "Hypostomus multidens",
     "SpecCode": "63841",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -767,7 +767,7 @@
   {
     "ScientificName": "Hypostomus mutucae",
     "SpecCode": "61589",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -794,7 +794,7 @@
   {
     "ScientificName": "Hypostomus niceforoi",
     "SpecCode": "48937",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -803,7 +803,7 @@
   {
     "ScientificName": "Hypostomus niger",
     "SpecCode": "48938",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -812,7 +812,7 @@
   {
     "ScientificName": "Hypostomus nigromaculatus",
     "SpecCode": "48939",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -821,7 +821,7 @@
   {
     "ScientificName": "Hypostomus nigropunctatus",
     "SpecCode": "66910",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -857,7 +857,7 @@
   {
     "ScientificName": "Hypostomus pagei",
     "SpecCode": "62623",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -866,7 +866,7 @@
   {
     "ScientificName": "Hypostomus pantherinus",
     "SpecCode": "48943",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -893,7 +893,7 @@
   {
     "ScientificName": "Hypostomus pastinhai",
     "SpecCode": "69524",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -902,7 +902,7 @@
   {
     "ScientificName": "Hypostomus paucimaculatus",
     "SpecCode": "48158",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -911,7 +911,7 @@
   {
     "ScientificName": "Hypostomus paucipunctatus",
     "SpecCode": "62743",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -929,7 +929,7 @@
   {
     "ScientificName": "Hypostomus peckoltoides",
     "SpecCode": "65865",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -938,7 +938,7 @@
   {
     "ScientificName": "Hypostomus perdido",
     "SpecCode": "67608",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -947,7 +947,7 @@
   {
     "ScientificName": "Hypostomus piratatu",
     "SpecCode": "57621",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -975,7 +975,7 @@
   {
     "ScientificName": "Hypostomus pospisili",
     "SpecCode": "66254",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1029,7 +1029,7 @@
   {
     "ScientificName": "Hypostomus rhantos",
     "SpecCode": "63481",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1038,7 +1038,7 @@
   {
     "ScientificName": "Hypostomus robertsoni",
     "SpecCode": "69523",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1074,7 +1074,7 @@
   {
     "ScientificName": "Hypostomus salgadae",
     "SpecCode": "49974",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1110,7 +1110,7 @@
   {
     "ScientificName": "Hypostomus sculpodon",
     "SpecCode": "62624",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1128,7 +1128,7 @@
   {
     "ScientificName": "Hypostomus simios",
     "SpecCode": "62744",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1137,7 +1137,7 @@
   {
     "ScientificName": "Hypostomus soniae",
     "SpecCode": "62628",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1146,7 +1146,7 @@
   {
     "ScientificName": "Hypostomus spiniger",
     "SpecCode": "69049",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1182,7 +1182,7 @@
   {
     "ScientificName": "Hypostomus taphorni",
     "SpecCode": "57608",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1191,7 +1191,7 @@
   {
     "ScientificName": "Hypostomus tapijara",
     "SpecCode": "62140",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1290,7 +1290,7 @@
   {
     "ScientificName": "Hypostomus velhochico",
     "SpecCode": "70181",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1318,7 +1318,7 @@
   {
     "ScientificName": "Hypostomus waiampi",
     "SpecCode": "62734",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1338,7 +1338,7 @@
   {
     "ScientificName": "Hypostomus weberi",
     "SpecCode": "65457",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -1365,7 +1365,7 @@
   {
     "ScientificName": "Hypostomus yaku",
     "SpecCode": "67668",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

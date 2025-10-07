@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Caristius barsukovi",
+    "SpecCode": "67588",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caristius digitus",
+    "SpecCode": "67662",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caristius fasciatus",
+    "SpecCode": "16894",
+    "CommonName": "Greenland manefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caristius japonicus",
+    "SpecCode": "59174",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caristius litvinovi",
+    "SpecCode": "67616",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caristius macropus",
+    "SpecCode": "11831",
+    "CommonName": "Almindelig mankefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caristius meridionalis",
+    "SpecCode": "67664",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Caristius walvisensis",
+    "SpecCode": "67617",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

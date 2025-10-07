@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Microlophichthys andracanthus",
+    "SpecCode": "66989",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Microlophichthys microlophus",
+    "SpecCode": "16925",
+    "CommonName": "Short-rod anglerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

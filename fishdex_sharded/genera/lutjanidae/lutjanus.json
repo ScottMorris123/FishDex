@@ -351,7 +351,7 @@
   {
     "ScientificName": "Lutjanus indicus",
     "SpecCode": "66803",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",

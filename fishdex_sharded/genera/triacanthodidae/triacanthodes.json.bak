@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Triacanthodes anomalus",
+    "SpecCode": "7622",
+    "CommonName": "Barat-barat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triacanthodes ethiops",
+    "SpecCode": "10302",
+    "CommonName": "Kortbek-spykervis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triacanthodes indicus",
+    "SpecCode": "54960",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triacanthodes intermedius",
+    "SpecCode": "54919",
+    "CommonName": "中間擬三刺魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

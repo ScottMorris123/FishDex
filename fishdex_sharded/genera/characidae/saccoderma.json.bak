@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Saccoderma hastata",
+    "SpecCode": "57799",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccoderma melanostigma",
+    "SpecCode": "48636",
+    "CommonName": "Sakkotetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccoderma robusta",
+    "SpecCode": "53486",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

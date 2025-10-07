@@ -1,0 +1,418 @@
+[
+  {
+    "ScientificName": "Synchiropus altivelis",
+    "SpecCode": "10608",
+    "CommonName": "Bebaji",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus atrilabiatus",
+    "SpecCode": "50098",
+    "CommonName": "Antler dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus australis",
+    "SpecCode": "60087",
+    "CommonName": "Queensland bigeye dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus bartelsi",
+    "SpecCode": "27547",
+    "CommonName": "Bartel's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus circularis",
+    "SpecCode": "17472",
+    "CommonName": "Circled dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus claudiae",
+    "SpecCode": "60557",
+    "CommonName": "Claudia's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus corallinus",
+    "SpecCode": "50546",
+    "CommonName": "Coral dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus delandi",
+    "SpecCode": "59287",
+    "CommonName": "Deland's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus goodenbeani",
+    "SpecCode": "54437",
+    "CommonName": "Goode and Bean's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus grandoculis",
+    "SpecCode": "60541",
+    "CommonName": "Western Australian bigeye dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus grinnelli",
+    "SpecCode": "59300",
+    "CommonName": "Grinnell's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus hawaiiensis",
+    "SpecCode": "60542",
+    "CommonName": "Hawaiian bigeye dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus ijimai",
+    "SpecCode": "24202",
+    "CommonName": "Ijima's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus kanmuensis",
+    "SpecCode": "59601",
+    "CommonName": "Kanmu dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus kinmeiensis",
+    "SpecCode": "59478",
+    "CommonName": "Kinmei dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus kiyoae",
+    "SpecCode": "24212",
+    "CommonName": "Hime-teguri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus laddi",
+    "SpecCode": "17475",
+    "CommonName": "Ladd's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus lateralis",
+    "SpecCode": "59288",
+    "CommonName": "Chinese ornate dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus lineolatus",
+    "SpecCode": "58300",
+    "CommonName": "Indian ornate dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus marmoratus",
+    "SpecCode": "8001",
+    "CommonName": "Marbled dragonet",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus minutulus",
+    "SpecCode": "25700",
+    "CommonName": "Minute flagfin dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus monacanthus",
+    "SpecCode": "10763",
+    "CommonName": "Deep-water dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus morrisoni",
+    "SpecCode": "12643",
+    "CommonName": "Morrison's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus moyeri",
+    "SpecCode": "27030",
+    "CommonName": "Miyake-teguri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus novaecaledoniae",
+    "SpecCode": "60085",
+    "CommonName": "West Jumeau bigeye dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus novaehiberniensis",
+    "SpecCode": "69808",
+    "CommonName": "New Ireland dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus ocellatus",
+    "SpecCode": "7981",
+    "CommonName": "Bunog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus orientalis",
+    "SpecCode": "61609",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus orstom",
+    "SpecCode": "60543",
+    "CommonName": "Orstom dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus phaeton",
+    "SpecCode": "1703",
+    "CommonName": "Diablotin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus picturatus",
+    "SpecCode": "12740",
+    "CommonName": "Green spot mandarin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus postulus",
+    "SpecCode": "17031",
+    "CommonName": "Dværgfløjfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus rameus",
+    "SpecCode": "8132",
+    "CommonName": "Australian sailfin dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus randalli",
+    "SpecCode": "55261",
+    "CommonName": "Randall's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus richeri",
+    "SpecCode": "60545",
+    "CommonName": "Richer's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus rosulentus",
+    "SpecCode": "59479",
+    "CommonName": "Hawaiian flagfin dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus rubrovinctus",
+    "SpecCode": "59299",
+    "CommonName": "Akaobi-koteguri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus sechellensis",
+    "SpecCode": "25699",
+    "CommonName": "Seychelles dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus signipinnis",
+    "SpecCode": "60546",
+    "CommonName": "Chesterfield bigeye dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus splendidus",
+    "SpecCode": "12644",
+    "CommonName": "Bebaji",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus springeri",
+    "SpecCode": "56779",
+    "CommonName": "Springer's dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus stellatus",
+    "SpecCode": "7802",
+    "CommonName": "Dragoncello",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus sycorax",
+    "SpecCode": "68313",
+    "CommonName": "Ruby dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus tudorjonesi",
+    "SpecCode": "66423",
+    "CommonName": "Redback dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus valdiviae",
+    "SpecCode": "60561",
+    "CommonName": "Valdivia dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Synchiropus zamboangana",
+    "SpecCode": "59298",
+    "CommonName": "Zamboangan dragonet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

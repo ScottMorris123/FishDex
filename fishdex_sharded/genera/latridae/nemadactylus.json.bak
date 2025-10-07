@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Nemadactylus bergi",
+    "SpecCode": "460",
+    "CommonName": "Bergs morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemadactylus douglasii",
+    "SpecCode": "11994",
+    "CommonName": "Blue morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemadactylus gayi",
+    "SpecCode": "55196",
+    "CommonName": "Bilagay",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemadactylus macropterus",
+    "SpecCode": "10106",
+    "CommonName": "Deep sea perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemadactylus monodactylus",
+    "SpecCode": "14282",
+    "CommonName": "Castanette de St. Paul",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemadactylus valenciennesi",
+    "SpecCode": "14415",
+    "CommonName": "Blue morwong",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nemadactylus vemae",
+    "SpecCode": "60592",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

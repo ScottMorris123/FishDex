@@ -11,7 +11,7 @@
   {
     "ScientificName": "Isbrueckerichthys calvus",
     "SpecCode": "63012",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Isbrueckerichthys epakmos",
     "SpecCode": "61590",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Isbrueckerichthys saxicola",
     "SpecCode": "63011",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

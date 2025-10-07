@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Harttiella crassicauda",
+    "SpecCode": "48313",
+    "CommonName": "Puroharttia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harttiella intermedia",
+    "SpecCode": "66587",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harttiella janmoli",
+    "SpecCode": "66590",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harttiella longicauda",
+    "SpecCode": "66589",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harttiella lucifer",
+    "SpecCode": "66588",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harttiella parva",
+    "SpecCode": "66586",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Harttiella pilosa",
+    "SpecCode": "66580",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

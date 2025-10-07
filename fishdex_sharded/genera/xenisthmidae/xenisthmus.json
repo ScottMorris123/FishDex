@@ -20,7 +20,7 @@
   {
     "ScientificName": "Xenisthmus chapmani",
     "SpecCode": "66691",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Xenisthmus nigrolateralis",
     "SpecCode": "69907",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

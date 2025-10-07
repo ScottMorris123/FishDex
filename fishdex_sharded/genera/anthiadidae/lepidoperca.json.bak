@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Lepidoperca aurantia",
+    "SpecCode": "61265",
+    "CommonName": "New Zealand orange perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoperca brochata",
+    "SpecCode": "15103",
+    "CommonName": "Fangtooth perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoperca caesiopercula",
+    "SpecCode": "15058",
+    "CommonName": "Greycheek basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoperca coatsii",
+    "SpecCode": "61259",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoperca filamenta",
+    "SpecCode": "61250",
+    "CommonName": "Western orange perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoperca inornata",
+    "SpecCode": "47012",
+    "CommonName": "无饰丽鮨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoperca magna",
+    "SpecCode": "15105",
+    "CommonName": "Sharphead perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoperca occidentalis",
+    "SpecCode": "14353",
+    "CommonName": "Slender orange perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoperca pulchella",
+    "SpecCode": "14354",
+    "CommonName": "Eastern orange perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepidoperca tasmanica",
+    "SpecCode": "15108",
+    "CommonName": "Tasmanian perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

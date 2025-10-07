@@ -1,0 +1,77 @@
+[
+  {
+    "ScientificName": "Saurogobio dabryi",
+    "SpecCode": "47352",
+    "CommonName": "Chinese lizard gudgeon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurogobio dumerili",
+    "SpecCode": "55397",
+    "CommonName": "Dumérili sisalrünt",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurogobio gracilicaudatus",
+    "SpecCode": "55853",
+    "CommonName": "Hrouzek štíhloocasý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurogobio gymnocheilus",
+    "SpecCode": "55855",
+    "CommonName": "Hrouzek nahoocasý",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurogobio immaculatus",
+    "SpecCode": "54986",
+    "CommonName": "Hrouzek neskvrněný",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurogobio lissilabris",
+    "SpecCode": "60138",
+    "CommonName": "Hrouzek tungtingský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurogobio punctatus",
+    "SpecCode": "68767",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saurogobio xiangjiangensis",
+    "SpecCode": "55854",
+    "CommonName": "Hrouzek hunanský",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

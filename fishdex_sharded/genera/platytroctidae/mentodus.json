@@ -2,7 +2,7 @@
   {
     "ScientificName": "Mentodus bythios",
     "SpecCode": "59305",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Mentodus eubranchus",
     "SpecCode": "59306",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Mentodus mesalirus",
     "SpecCode": "16490",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

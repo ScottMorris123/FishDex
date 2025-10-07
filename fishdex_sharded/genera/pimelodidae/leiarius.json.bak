@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Leiarius arekaima",
+    "SpecCode": "47830",
+    "CommonName": "Arekaima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiarius longibarbis",
+    "SpecCode": "63110",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiarius marmoratus",
+    "SpecCode": "13262",
+    "CommonName": "Ashara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiarius pictus",
+    "SpecCode": "48541",
+    "CommonName": "Purjeantennimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

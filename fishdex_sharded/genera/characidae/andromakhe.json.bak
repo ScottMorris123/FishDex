@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Andromakhe latens",
+    "SpecCode": "62324",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andromakhe paris",
+    "SpecCode": "60272",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andromakhe saguazu",
+    "SpecCode": "62038",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andromakhe stenohalina",
+    "SpecCode": "61971",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Andromakhe tupi",
+    "SpecCode": "62328",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

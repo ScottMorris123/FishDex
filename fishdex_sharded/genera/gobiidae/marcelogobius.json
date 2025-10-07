@@ -11,7 +11,7 @@
   {
     "ScientificName": "Marcelogobius janetarum",
     "SpecCode": "68713",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

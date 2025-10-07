@@ -86,7 +86,7 @@
   {
     "ScientificName": "Stellifer gomezi",
     "SpecCode": "69571",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

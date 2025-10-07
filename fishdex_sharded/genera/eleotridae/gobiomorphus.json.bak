@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Gobiomorphus alpinus",
+    "SpecCode": "66744",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorphus australis",
+    "SpecCode": "22754",
+    "CommonName": "Streifengrundel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorphus basalis",
+    "SpecCode": "22536",
+    "CommonName": "Cran's bully",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorphus breviceps",
+    "SpecCode": "22535",
+    "CommonName": "Upland bully",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorphus cotidianus",
+    "SpecCode": "10353",
+    "CommonName": "Common bully",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorphus coxii",
+    "SpecCode": "52487",
+    "CommonName": "Cox gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorphus gobioides",
+    "SpecCode": "12937",
+    "CommonName": "Giant bully",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorphus hubbsi",
+    "SpecCode": "22534",
+    "CommonName": "Bluegilled bully",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gobiomorphus huttoni",
+    "SpecCode": "22533",
+    "CommonName": "Punaevätorkkuja",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

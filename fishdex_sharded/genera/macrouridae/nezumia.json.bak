@@ -1,0 +1,479 @@
+[
+  {
+    "ScientificName": "Nezumia aequalis",
+    "SpecCode": "4997",
+    "CommonName": "Atlantische grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia africana",
+    "SpecCode": "17073",
+    "CommonName": "非洲奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia aspidentata",
+    "SpecCode": "58895",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia atlantica",
+    "SpecCode": "8509",
+    "CommonName": "Nishi-nezumidara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia bairdii",
+    "SpecCode": "3104",
+    "CommonName": "Common grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia brevibarbata",
+    "SpecCode": "8513",
+    "CommonName": "Shortbeard grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia brevirostris",
+    "SpecCode": "58839",
+    "CommonName": "短吻奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia burragei",
+    "SpecCode": "23196",
+    "CommonName": "Nanyôdara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia cliveri",
+    "SpecCode": "58865",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia coheni",
+    "SpecCode": "58867",
+    "CommonName": "Cohen's whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia condylura",
+    "SpecCode": "8515",
+    "CommonName": "Japanese pugnose grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia convergens",
+    "SpecCode": "8516",
+    "CommonName": "Granadero peruano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia cyrano",
+    "SpecCode": "28220",
+    "CommonName": "Futakobu-nezumidara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia duodecim",
+    "SpecCode": "8519",
+    "CommonName": "Twelve-rayed grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia ectenes",
+    "SpecCode": "58845",
+    "CommonName": "伸口奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia evides",
+    "SpecCode": "58862",
+    "CommonName": "俊奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia holocentra",
+    "SpecCode": "52362",
+    "CommonName": "全棘奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia infranudis",
+    "SpecCode": "52382",
+    "CommonName": "裸吻奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia investigatoris",
+    "SpecCode": "58848",
+    "CommonName": "吻鱗奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia kamoharai",
+    "SpecCode": "23190",
+    "CommonName": "Sokodara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia kapala",
+    "SpecCode": "57895",
+    "CommonName": "Kapala whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia kensmithi",
+    "SpecCode": "59941",
+    "CommonName": "Blunt-nosed grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia latirostrata",
+    "SpecCode": "8521",
+    "CommonName": "Broadsnout grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia leucoura",
+    "SpecCode": "57944",
+    "CommonName": "Whitetail whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia liolepis",
+    "SpecCode": "8522",
+    "CommonName": "Granadero liso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia longebarbata",
+    "SpecCode": "16312",
+    "CommonName": "Bluntnose grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia loricata",
+    "SpecCode": "8523",
+    "CommonName": "Parrot grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia merretti",
+    "SpecCode": "57946",
+    "CommonName": "Merret's whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia micronychodon",
+    "SpecCode": "8524",
+    "CommonName": "Smalltooth grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia milleri",
+    "SpecCode": "8525",
+    "CommonName": "Miller's grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia namatahi",
+    "SpecCode": "46978",
+    "CommonName": "Namatahi whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia obliquata",
+    "SpecCode": "51656",
+    "CommonName": "斜鱗奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia orbitalis",
+    "SpecCode": "8526",
+    "CommonName": "Granadero ojerón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia parini",
+    "SpecCode": "13849",
+    "CommonName": "Granadero de Parin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia polylepis",
+    "SpecCode": "47206",
+    "CommonName": "多鱗光尾鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia propinqua",
+    "SpecCode": "8527",
+    "CommonName": "Aloha grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia proxima",
+    "SpecCode": "8528",
+    "CommonName": "Higo-sokodara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia pudens",
+    "SpecCode": "8543",
+    "CommonName": "Atacama grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia pulchella",
+    "SpecCode": "8544",
+    "CommonName": "Thumb grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia rara",
+    "SpecCode": "69345",
+    "CommonName": "Kakure-hige",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia sclerorhynchus",
+    "SpecCode": "3105",
+    "CommonName": "Bluntsnout grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia semiquincunciata",
+    "SpecCode": "16777",
+    "CommonName": "針鱗奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia shinoharai",
+    "SpecCode": "67410",
+    "CommonName": "Shinohara-hige",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia soela",
+    "SpecCode": "57947",
+    "CommonName": "Soela whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia spinosa",
+    "SpecCode": "23193",
+    "CommonName": "Goten-hige",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia stelgidolepis",
+    "SpecCode": "3106",
+    "CommonName": "California grenadier",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia suilla",
+    "SpecCode": "28219",
+    "CommonName": "Buta-nezumidara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia tinro",
+    "SpecCode": "51657",
+    "CommonName": "微须奈氏鳕",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia toi",
+    "SpecCode": "58860",
+    "CommonName": "托氏奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia tomiyamai",
+    "SpecCode": "24834",
+    "CommonName": "Tomiyama-hige",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia umbracincta",
+    "SpecCode": "27131",
+    "CommonName": "南非奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia ventralis",
+    "SpecCode": "54414",
+    "CommonName": "黑鰭奈氏鱈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nezumia wularnia",
+    "SpecCode": "57949",
+    "CommonName": "Wularni whiptail",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

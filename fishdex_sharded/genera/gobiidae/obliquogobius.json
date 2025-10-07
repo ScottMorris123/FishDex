@@ -20,7 +20,7 @@
   {
     "ScientificName": "Obliquogobius cometes",
     "SpecCode": "61316",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Obliquogobius fulvostriatus",
     "SpecCode": "67392",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Obliquogobius yamadai",
     "SpecCode": "63894",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

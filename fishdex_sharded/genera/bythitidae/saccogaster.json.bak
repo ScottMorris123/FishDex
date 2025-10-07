@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Saccogaster brayae",
+    "SpecCode": "67449",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccogaster hawaii",
+    "SpecCode": "56393",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccogaster horrida",
+    "SpecCode": "67444",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccogaster maculata",
+    "SpecCode": "56394",
+    "CommonName": "斑紋囊胃鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccogaster nikoliviae",
+    "SpecCode": "67445",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccogaster parva",
+    "SpecCode": "56397",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccogaster staigeri",
+    "SpecCode": "56399",
+    "CommonName": "斯氏囊胃鼬鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Saccogaster tuberculata",
+    "SpecCode": "56400",
+    "CommonName": "Bagbelly cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

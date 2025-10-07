@@ -452,7 +452,7 @@
   {
     "ScientificName": "Labeobarbus latirostris",
     "SpecCode": "68144",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -587,7 +587,7 @@
   {
     "ScientificName": "Labeobarbus matris",
     "SpecCode": "68145",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -722,7 +722,7 @@
   {
     "ScientificName": "Labeobarbus nzadimalawu",
     "SpecCode": "69862",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -731,7 +731,7 @@
   {
     "ScientificName": "Labeobarbus nzadinkisi",
     "SpecCode": "69865",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -830,7 +830,7 @@
   {
     "ScientificName": "Labeobarbus pojeri",
     "SpecCode": "67397",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

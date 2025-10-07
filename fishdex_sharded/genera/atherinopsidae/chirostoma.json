@@ -174,7 +174,7 @@
   {
     "ScientificName": "Chirostoma reseratum",
     "SpecCode": "57841",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -201,7 +201,7 @@
   {
     "ScientificName": "Chirostoma zirahuen",
     "SpecCode": "57237",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

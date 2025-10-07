@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Julidochromis dickfeldi",
+    "SpecCode": "8607",
+    "CommonName": "Dickfeldi salekiriahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Julidochromis marksmithi",
+    "SpecCode": "68256",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Julidochromis marlieri",
+    "SpecCode": "8608",
+    "CommonName": "Naskalnik marliera",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Julidochromis ornatus",
+    "SpecCode": "8609",
+    "CommonName": "Gelber Schlankcichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Julidochromis regani",
+    "SpecCode": "8610",
+    "CommonName": "Convict julie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Julidochromis transcriptus",
+    "SpecCode": "8611",
+    "CommonName": "Masked julie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

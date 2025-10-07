@@ -11,7 +11,7 @@
   {
     "ScientificName": "Notholebias fractifasciatus",
     "SpecCode": "57474",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Notholebias vermiculatus",
     "SpecCode": "67987",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

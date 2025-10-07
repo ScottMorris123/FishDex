@@ -11,7 +11,7 @@
   {
     "ScientificName": "Barathronus algrahami",
     "SpecCode": "70109",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Barathronus linsi",
     "SpecCode": "68871",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Barathronus multidens",
     "SpecCode": "56412",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Barathronus roulei",
     "SpecCode": "70104",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

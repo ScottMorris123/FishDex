@@ -20,7 +20,7 @@
   {
     "ScientificName": "Bivibranchia notata",
     "SpecCode": "52502",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Bivibranchia velox",
     "SpecCode": "51891",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

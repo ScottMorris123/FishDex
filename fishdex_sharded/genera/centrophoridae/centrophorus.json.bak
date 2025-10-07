@@ -1,0 +1,137 @@
+[
+  {
+    "ScientificName": "Centrophorus atromarginatus",
+    "SpecCode": "53922",
+    "CommonName": "Blackfin gulper shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus granulosus",
+    "SpecCode": "648",
+    "CommonName": "Agathitis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus harrissoni",
+    "SpecCode": "649",
+    "CommonName": "Dogfish endeavor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus isodon",
+    "SpecCode": "54130",
+    "CommonName": "Bezkýlovec stejnozubý",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus lesliei",
+    "SpecCode": "68495",
+    "CommonName": "African gulper shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus longipinnis",
+    "SpecCode": "68496",
+    "CommonName": "Longfin gulper shark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus lusitanicus",
+    "SpecCode": "650",
+    "CommonName": "Barroso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus machiquensis",
+    "SpecCode": "69596",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus moluccensis",
+    "SpecCode": "651",
+    "CommonName": "Arrowspine dogfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus seychellorum",
+    "SpecCode": "63812",
+    "CommonName": "Seišelli astelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus squamosus",
+    "SpecCode": "653",
+    "CommonName": "Blattschuppen-Schlingerhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus tessellatus",
+    "SpecCode": "654",
+    "CommonName": "Genrokuzame",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus uyato",
+    "SpecCode": "655",
+    "CommonName": "Agathitis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus westraliensis",
+    "SpecCode": "64110",
+    "CommonName": "Lääneaustraalia astelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Centrophorus zeehaani",
+    "SpecCode": "64111",
+    "CommonName": "Lõuna-astelhai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

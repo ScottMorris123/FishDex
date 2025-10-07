@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Nanobagrus armatus",
+    "SpecCode": "23054",
+    "CommonName": "Kääpiörita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanobagrus fuscus",
+    "SpecCode": "23057",
+    "CommonName": "Baung lebang",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanobagrus immaculatus",
+    "SpecCode": "63744",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanobagrus lemniscatus",
+    "SpecCode": "65836",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanobagrus nebulosus",
+    "SpecCode": "58041",
+    "CommonName": "Johorenrita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanobagrus stellatus",
+    "SpecCode": "60073",
+    "CommonName": "Tähtirita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nanobagrus torquatus",
+    "SpecCode": "64277",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -29,7 +29,7 @@
   {
     "ScientificName": "Neamia xenica",
     "SpecCode": "65752",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

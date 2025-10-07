@@ -11,7 +11,7 @@
   {
     "ScientificName": "Helcogramma alkamr",
     "SpecCode": "64604",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Helcogramma cerasina",
     "SpecCode": "61868",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Helcogramma ememes",
     "SpecCode": "64605",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Helcogramma microstigma",
     "SpecCode": "64606",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Helcogramma nesion",
     "SpecCode": "61889",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -255,7 +255,7 @@
   {
     "ScientificName": "Helcogramma rharhabe",
     "SpecCode": "64607",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -282,7 +282,7 @@
   {
     "ScientificName": "Helcogramma serendip",
     "SpecCode": "64609",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -291,7 +291,7 @@
   {
     "ScientificName": "Helcogramma shinglensis",
     "SpecCode": "67066",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -354,7 +354,7 @@
   {
     "ScientificName": "Helcogramma williamsi",
     "SpecCode": "67176",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

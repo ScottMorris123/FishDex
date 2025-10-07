@@ -20,7 +20,7 @@
   {
     "ScientificName": "Chaetodontoplus cephalareticulatus",
     "SpecCode": "67409",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

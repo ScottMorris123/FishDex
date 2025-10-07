@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Calamopteryx goslinei",
+    "SpecCode": "16421",
+    "CommonName": "Brótula aletona",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calamopteryx jeb",
+    "SpecCode": "56386",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Calamopteryx robinsorum",
+    "SpecCode": "56387",
+    "CommonName": "Brótula del profesor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

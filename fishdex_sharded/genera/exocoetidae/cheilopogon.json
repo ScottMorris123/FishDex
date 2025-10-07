@@ -146,7 +146,7 @@
   {
     "ScientificName": "Cheilopogon melanocercus",
     "SpecCode": "47485",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Cheilopogon olgae",
     "SpecCode": "65625",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Cheilopogon ventralis",
     "SpecCode": "53979",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

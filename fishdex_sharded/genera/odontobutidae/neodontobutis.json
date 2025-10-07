@@ -21,7 +21,7 @@
   {
     "ScientificName": "Neodontobutis macropectoralis",
     "SpecCode": "61796",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -30,7 +30,7 @@
   {
     "ScientificName": "Neodontobutis ngheanensis",
     "SpecCode": "66690",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Neodontobutis tonkinensis",
     "SpecCode": "60235",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

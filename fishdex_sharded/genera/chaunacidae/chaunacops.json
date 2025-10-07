@@ -20,7 +20,7 @@
   {
     "ScientificName": "Chaunacops roseus",
     "SpecCode": "55702",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

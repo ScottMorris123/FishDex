@@ -59,7 +59,7 @@
   {
     "ScientificName": "Zenarchopterus dux",
     "SpecCode": "24759",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

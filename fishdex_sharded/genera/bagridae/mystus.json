@@ -2,7 +2,7 @@
   {
     "ScientificName": "Mystus abbreviatus",
     "SpecCode": "60722",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Mystus alasensis",
     "SpecCode": "62249",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -48,7 +48,7 @@
   {
     "ScientificName": "Mystus armiger",
     "SpecCode": "62077",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -94,7 +94,7 @@
   {
     "ScientificName": "Mystus canarensis",
     "SpecCode": "60730",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -103,7 +103,7 @@
   {
     "ScientificName": "Mystus carcio",
     "SpecCode": "66070",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -149,7 +149,7 @@
   {
     "ScientificName": "Mystus cineraceus",
     "SpecCode": "64992",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -158,7 +158,7 @@
   {
     "ScientificName": "Mystus dibrugarensis",
     "SpecCode": "66481",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -167,7 +167,7 @@
   {
     "ScientificName": "Mystus falcarius",
     "SpecCode": "62625",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -204,7 +204,7 @@
   {
     "ScientificName": "Mystus impluviatus",
     "SpecCode": "61642",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -268,7 +268,7 @@
   {
     "ScientificName": "Mystus misrai",
     "SpecCode": "70293",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -314,7 +314,7 @@
   {
     "ScientificName": "Mystus ngasep",
     "SpecCode": "66339",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -361,7 +361,7 @@
   {
     "ScientificName": "Mystus punctifer",
     "SpecCode": "60732",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -388,7 +388,7 @@
   {
     "ScientificName": "Mystus seengtee",
     "SpecCode": "63633",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -415,7 +415,7 @@
   {
     "ScientificName": "Mystus velifer",
     "SpecCode": "66942",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

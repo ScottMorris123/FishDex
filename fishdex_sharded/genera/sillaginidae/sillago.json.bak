@@ -1,0 +1,308 @@
+[
+  {
+    "ScientificName": "Sillago aeolus",
+    "SpecCode": "8491",
+    "CommonName": "Asuhos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago analis",
+    "SpecCode": "8492",
+    "CommonName": "Golden lined whiting",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago arabica",
+    "SpecCode": "8494",
+    "CommonName": "Arabian sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago argentifasciata",
+    "SpecCode": "8495",
+    "CommonName": "Ago-os",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago asiatica",
+    "SpecCode": "8496",
+    "CommonName": "Asian sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago attenuata",
+    "SpecCode": "8497",
+    "CommonName": "Hasum",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago bassensis",
+    "SpecCode": "8498",
+    "CommonName": "Bass strait whiting",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago boutani",
+    "SpecCode": "8504",
+    "CommonName": "Boutan's sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago burrus",
+    "SpecCode": "8505",
+    "CommonName": "Ago-os",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago caudicula",
+    "SpecCode": "66009",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago ciliata",
+    "SpecCode": "4709",
+    "CommonName": "Blue-nose",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago flindersi",
+    "SpecCode": "8512",
+    "CommonName": "Bass Strait whiting",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago indica",
+    "SpecCode": "8517",
+    "CommonName": "Indian sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago ingenuua",
+    "SpecCode": "8518",
+    "CommonName": "Bay sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago intermedia",
+    "SpecCode": "8520",
+    "CommonName": "Intermediate sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago japonica",
+    "SpecCode": "6576",
+    "CommonName": "Ago-os",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago lutea",
+    "SpecCode": "8529",
+    "CommonName": "Mud sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago maculata",
+    "SpecCode": "7925",
+    "CommonName": "Ago-os",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago megacephalus",
+    "SpecCode": "8531",
+    "CommonName": "Large-headed sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago microps",
+    "SpecCode": "8532",
+    "CommonName": "Pêche-madame petits yeux",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago nierstraszi",
+    "SpecCode": "8533",
+    "CommonName": "Pêche-madame rêche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago nigrofasciata",
+    "SpecCode": "70388",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago panhwari",
+    "SpecCode": "69235",
+    "CommonName": "Yellow-brown sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago parvisquamis",
+    "SpecCode": "8534",
+    "CommonName": "Aogisu",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago robusta",
+    "SpecCode": "8535",
+    "CommonName": "Pêche-madame gaillard",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago schomburgkii",
+    "SpecCode": "7972",
+    "CommonName": "Fine-scale whiting",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago shaoi",
+    "SpecCode": "70545",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago sihama",
+    "SpecCode": "4544",
+    "CommonName": "Ago-os",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago sinica",
+    "SpecCode": "65964",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago soringa",
+    "SpecCode": "8537",
+    "CommonName": "Pêche-madame soringa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago suezensis",
+    "SpecCode": "67275",
+    "CommonName": "Sivriburunlu gümüş balığı",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago vincenti",
+    "SpecCode": "8319",
+    "CommonName": "Bebolos",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sillago vittata",
+    "SpecCode": "8538",
+    "CommonName": "Banded sillago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

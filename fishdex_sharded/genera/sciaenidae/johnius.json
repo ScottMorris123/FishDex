@@ -263,7 +263,7 @@
   {
     "ScientificName": "Johnius novaehollandiae",
     "SpecCode": "61345",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -283,7 +283,7 @@
   {
     "ScientificName": "Johnius philippinus",
     "SpecCode": "58329",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -303,7 +303,7 @@
   {
     "ScientificName": "Johnius taiwanensis",
     "SpecCode": "69565",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",

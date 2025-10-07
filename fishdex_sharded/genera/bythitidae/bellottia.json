@@ -11,7 +11,7 @@
   {
     "ScientificName": "Bellottia armiger",
     "SpecCode": "56382",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Bellottia cryptica",
     "SpecCode": "64869",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Bellottia galatheae",
     "SpecCode": "65341",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Bellottia robusta",
     "SpecCode": "64868",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

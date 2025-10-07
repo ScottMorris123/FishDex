@@ -2,7 +2,7 @@
   {
     "ScientificName": "Ebinania australiae",
     "SpecCode": "64589",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Ebinania gyrinoides",
     "SpecCode": "58785",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Ebinania malacocephala",
     "SpecCode": "60332",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Bathyphylax bombifrons",
+    "SpecCode": "26654",
+    "CommonName": "Boomer spikefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyphylax omen",
+    "SpecCode": "26655",
+    "CommonName": "Yami-kawamuki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathyphylax pruvosti",
+    "SpecCode": "63800",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -47,7 +47,7 @@
   {
     "ScientificName": "Chaenopsis megalops",
     "SpecCode": "60575",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Chaenopsis stephensi",
     "SpecCode": "27910",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

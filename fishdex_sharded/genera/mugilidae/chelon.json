@@ -32,7 +32,7 @@
   {
     "ScientificName": "Chelon caeruleus",
     "SpecCode": "69222",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Evynnis mononematos",
     "SpecCode": "66476",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

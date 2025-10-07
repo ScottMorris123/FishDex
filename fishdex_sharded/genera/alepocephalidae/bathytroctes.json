@@ -2,7 +2,7 @@
   {
     "ScientificName": "Bathytroctes breviceps",
     "SpecCode": "56583",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Bathytroctes elegans",
     "SpecCode": "56590",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Bathytroctes inspector",
     "SpecCode": "56584",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Bathytroctes macrognathus",
     "SpecCode": "56586",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Bathytroctes pappenheimi",
     "SpecCode": "56588",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

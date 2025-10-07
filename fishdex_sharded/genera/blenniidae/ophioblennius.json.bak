@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ophioblennius atlanticus",
+    "SpecCode": "3768",
+    "CommonName": "Alcaboz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioblennius clippertonensis",
+    "SpecCode": "66054",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioblennius macclurei",
+    "SpecCode": "15330",
+    "CommonName": "Blenio bembirrojo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioblennius steindachneri",
+    "SpecCode": "8300",
+    "CommonName": "Blenia panameña",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ophioblennius trinitatis",
+    "SpecCode": "63067",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

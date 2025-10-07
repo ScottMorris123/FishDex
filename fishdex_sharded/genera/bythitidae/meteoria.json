@@ -11,7 +11,7 @@
   {
     "ScientificName": "Meteoria longidorsalis",
     "SpecCode": "70538",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

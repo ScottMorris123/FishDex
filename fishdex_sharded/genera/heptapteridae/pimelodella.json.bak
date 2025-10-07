@@ -1,0 +1,732 @@
+[
+  {
+    "ScientificName": "Pimelodella altipinnis",
+    "SpecCode": "48460",
+    "CommonName": "高翼油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella australis",
+    "SpecCode": "57838",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella avanhandavae",
+    "SpecCode": "48473",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella bockmanni",
+    "SpecCode": "70151",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella boliviana",
+    "SpecCode": "48474",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella boschmai",
+    "SpecCode": "48475",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella brasiliensis",
+    "SpecCode": "48476",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella breviceps",
+    "SpecCode": "48448",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella buckleyi",
+    "SpecCode": "48477",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella chagresi",
+    "SpecCode": "48478",
+    "CommonName": "Arrechito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella chaparae",
+    "SpecCode": "48479",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella conquetaensis",
+    "SpecCode": "48480",
+    "CommonName": "科圭达小油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella cristata",
+    "SpecCode": "47838",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella cruxenti",
+    "SpecCode": "48481",
+    "CommonName": "克氏小油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella cyanostigma",
+    "SpecCode": "48482",
+    "CommonName": "Cunshi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella dorseyi",
+    "SpecCode": "48483",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella eigenmanni",
+    "SpecCode": "48484",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella eigenmanniorum",
+    "SpecCode": "61793",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella elongata",
+    "SpecCode": "48485",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella enochi",
+    "SpecCode": "48487",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella eutaenia",
+    "SpecCode": "61786",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella figueroai",
+    "SpecCode": "57677",
+    "CommonName": "Barbilla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella geryi",
+    "SpecCode": "47839",
+    "CommonName": "Blablaroch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella gracilis",
+    "SpecCode": "11323",
+    "CommonName": "bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella griffini",
+    "SpecCode": "48489",
+    "CommonName": "格里芬小油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella grisea",
+    "SpecCode": "48491",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella harttii",
+    "SpecCode": "61791",
+    "CommonName": "侧带小油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella hartwelli",
+    "SpecCode": "48493",
+    "CommonName": "Cunshi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella hasemani",
+    "SpecCode": "48494",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella howesi",
+    "SpecCode": "48495",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella humeralis",
+    "SpecCode": "69409",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella ignobilis",
+    "SpecCode": "48438",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella itapicuruensis",
+    "SpecCode": "48497",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella kronei",
+    "SpecCode": "48472",
+    "CommonName": "Bagre cego",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella lateristriga",
+    "SpecCode": "48498",
+    "CommonName": "Canito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella laticeps",
+    "SpecCode": "23449",
+    "CommonName": "bagre cantor",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella laurenti",
+    "SpecCode": "48499",
+    "CommonName": "Jundiá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella leptosoma",
+    "SpecCode": "47829",
+    "CommonName": "細身小雷氏鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella linami",
+    "SpecCode": "48500",
+    "CommonName": "Raitapimelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella longibarbata",
+    "SpecCode": "70207",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella longipinnis",
+    "SpecCode": "48440",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella macrocephala",
+    "SpecCode": "48422",
+    "CommonName": "Chiriri",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella macturki",
+    "SpecCode": "47851",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella martinezi",
+    "SpecCode": "61787",
+    "CommonName": "Puyapuya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella meeki",
+    "SpecCode": "48502",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella megalops",
+    "SpecCode": "47852",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella megalura",
+    "SpecCode": "48504",
+    "CommonName": "Chum-chum",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella metae",
+    "SpecCode": "48505",
+    "CommonName": "Barbilla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella modestus",
+    "SpecCode": "48506",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella montana",
+    "SpecCode": "48507",
+    "CommonName": "Cunshi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella mucosa",
+    "SpecCode": "48508",
+    "CommonName": "Chum-chum",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella nigrofasciata",
+    "SpecCode": "53228",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella notomelas",
+    "SpecCode": "48509",
+    "CommonName": "Chum chum",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella odynea",
+    "SpecCode": "49394",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella ophthalmica",
+    "SpecCode": "61789",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella pallida",
+    "SpecCode": "57674",
+    "CommonName": "Barbilla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella papariae",
+    "SpecCode": "48442",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella pappenheimi",
+    "SpecCode": "48510",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella parnahybae",
+    "SpecCode": "48511",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella parva",
+    "SpecCode": "48512",
+    "CommonName": "微小油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella pectinifer",
+    "SpecCode": "48513",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella peruana",
+    "SpecCode": "48515",
+    "CommonName": "秘魯小油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella peruensis",
+    "SpecCode": "48514",
+    "CommonName": "Cunshi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella procera",
+    "SpecCode": "47853",
+    "CommonName": "Blablaroch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella rendahli",
+    "SpecCode": "48517",
+    "CommonName": "伦氏小油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella reyesi",
+    "SpecCode": "61788",
+    "CommonName": "Casimiro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella robinsoni",
+    "SpecCode": "48443",
+    "CommonName": "Jundiá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella roccae",
+    "SpecCode": "48518",
+    "CommonName": "罗科小油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella rudolphi",
+    "SpecCode": "48519",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella serrata",
+    "SpecCode": "48520",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella spelaea",
+    "SpecCode": "62273",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella steindachneri",
+    "SpecCode": "48521",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella taeniophora",
+    "SpecCode": "61790",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella taenioptera",
+    "SpecCode": "48522",
+    "CommonName": "Chum-chum",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella tapatapae",
+    "SpecCode": "48523",
+    "CommonName": "塔氏小油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella transitoria",
+    "SpecCode": "48524",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella vittata",
+    "SpecCode": "48525",
+    "CommonName": "Choralambre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella wesselii",
+    "SpecCode": "61792",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella witmeri",
+    "SpecCode": "48527",
+    "CommonName": "Mandi-chorão",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella wolfi",
+    "SpecCode": "48445",
+    "CommonName": "Mandi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pimelodella yuncensis",
+    "SpecCode": "48528",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

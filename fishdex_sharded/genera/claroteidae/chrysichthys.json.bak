@@ -1,0 +1,382 @@
+[
+  {
+    "ScientificName": "Chrysichthys acsiorum",
+    "SpecCode": "63693",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys aluuensis",
+    "SpecCode": "9289",
+    "CommonName": "Unguli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys ansorgii",
+    "SpecCode": "9290",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys auratus",
+    "SpecCode": "2443",
+    "CommonName": "Abu rial",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys bocagii",
+    "SpecCode": "9293",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys brachynema",
+    "SpecCode": "9294",
+    "CommonName": "Kibonde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys brevibarbis",
+    "SpecCode": "9295",
+    "CommonName": "Isosilmämonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys cranchii",
+    "SpecCode": "9296",
+    "CommonName": "Ikakala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys dageti",
+    "SpecCode": "56804",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys delhezi",
+    "SpecCode": "9297",
+    "CommonName": "Kanzema",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys dendrophorus",
+    "SpecCode": "9361",
+    "CommonName": "穴溪鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys depressus",
+    "SpecCode": "9335",
+    "CommonName": "扁頜鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys duttoni",
+    "SpecCode": "9298",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys habereri",
+    "SpecCode": "9304",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys helicophagus",
+    "SpecCode": "9305",
+    "CommonName": "Kotilokissamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys hildae",
+    "SpecCode": "12285",
+    "CommonName": "Buzi-baber",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys johnelsi",
+    "SpecCode": "2444",
+    "CommonName": "Ba-sagoin bethuguye",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys laticeps",
+    "SpecCode": "9307",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys levequei",
+    "SpecCode": "12815",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys longibarbis",
+    "SpecCode": "9308",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys longidorsalis",
+    "SpecCode": "9309",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys longipinnis",
+    "SpecCode": "9311",
+    "CommonName": "Alumiinikissamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys mabusi",
+    "SpecCode": "9312",
+    "CommonName": "Mfusu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys macropterus",
+    "SpecCode": "9313",
+    "CommonName": "Tshajimba mutwe",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys maurus",
+    "SpecCode": "2441",
+    "CommonName": "Purjekissamonni",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys nigrodigitatus",
+    "SpecCode": "2440",
+    "CommonName": "Bagrid catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys nyongensis",
+    "SpecCode": "9310",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys ogooensis",
+    "SpecCode": "9314",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys okae",
+    "SpecCode": "9315",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys ornatus",
+    "SpecCode": "9316",
+    "CommonName": "Broderimalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys polli",
+    "SpecCode": "60382",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys praecox",
+    "SpecCode": "64761",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys punctatus",
+    "SpecCode": "9319",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys rueppelli",
+    "SpecCode": "9320",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys sharpii",
+    "SpecCode": "9321",
+    "CommonName": "Kabombola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys teugelsi",
+    "SpecCode": "2442",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys thonneri",
+    "SpecCode": "9324",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys thysi",
+    "SpecCode": "9325",
+    "CommonName": "Ebvoul keme",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys turkana",
+    "SpecCode": "64268",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys uniformis",
+    "SpecCode": "9326",
+    "CommonName": "勻色金鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys wagenaari",
+    "SpecCode": "9328",
+    "CommonName": "瓦氏金鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chrysichthys walkeri",
+    "SpecCode": "2445",
+    "CommonName": "Blolofavimezi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

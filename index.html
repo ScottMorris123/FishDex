@@ -88,15 +88,23 @@ const cache = new Map();
 function save(s){ localStorage.setItem(KEY, JSON.stringify(s)); }
 function load(){ try{ return JSON.parse(localStorage.getItem(KEY)||''); }catch{ return null } }
 
-async function jget(path){
-  const url = ROOT + path.replace(/^\//,'');
-  if (cache.has(url)) return cache.get(url);
-  const res = await fetch(url);
-  if(!res.ok) throw new Error('Fetch failed: '+url);
-  const data = await res.json();
-  cache.set(url, data);
-  return data;
+async function jget(path, forceBust=false){
+  const base = ROOT + path.replace(/^\//,'');
+  const url  = forceBust ? base + (base.includes('?') ? '&' : '?') + 'v=' + Date.now() : base;
+
+  try {
+    const res = await fetch(url, { cache: forceBust ? 'reload' : 'default' });
+    if (!res.ok) throw new Error('Fetch failed: ' + url);
+    const data = await res.json();
+    cache.set(base, data);     // store under canonical key
+    return data;
+  } catch (e) {
+    // one retry with a cache-bust if we didn’t already
+    if (!forceBust) return jget(path, true);
+    throw e;
+  }
 }
+
 
 /* ---------- URL filters ---------- */
 function parseQuery(qs){
@@ -323,7 +331,7 @@ async function renderGenus(famSlug, genusSlug){
 
   let species = [];
   try{
-    species = await jget(relPath);
+    species = await jget(relPath, true); // use the resolved path + force a fresh read
   }catch(e){
     view.innerHTML = `<p class="danger">Missing genus file: <code>fishdex_sharded/${relPath}</code></p>`;
     countsEl.textContent = '0 caught / 0 total';

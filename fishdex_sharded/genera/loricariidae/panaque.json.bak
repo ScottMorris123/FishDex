@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Panaque armbrusteri",
+    "SpecCode": "65855",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panaque bathyphilus",
+    "SpecCode": "64789",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panaque cochliodon",
+    "SpecCode": "50326",
+    "CommonName": "Casasola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panaque nigrolineatus",
+    "SpecCode": "12216",
+    "CommonName": "Acarí",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panaque schaeferi",
+    "SpecCode": "65856",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panaque suttonorum",
+    "SpecCode": "12217",
+    "CommonName": "Blåøjet sugemalle",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Panaque titan",
+    "SpecCode": "65857",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

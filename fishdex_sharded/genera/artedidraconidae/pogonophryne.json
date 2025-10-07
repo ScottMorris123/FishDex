@@ -65,7 +65,7 @@
   {
     "ScientificName": "Pogonophryne favosa",
     "SpecCode": "69000",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Pogonophryne pavlovi",
     "SpecCode": "69002",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Pogonophryne sarmentifera",
     "SpecCode": "69001",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

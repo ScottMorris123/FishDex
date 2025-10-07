@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Krobia guianensis",
+    "SpecCode": "47068",
+    "CommonName": "Delphinbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Krobia itanyi",
+    "SpecCode": "12267",
+    "CommonName": "Acala towakousiwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Krobia petitella",
+    "SpecCode": "67180",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Krobia xinguensis",
+    "SpecCode": "66454",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Amazonichthys camelierae",
     "SpecCode": "70428",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Amazonichthys lindeae",
     "SpecCode": "53403",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Amazonichthys lu",
     "SpecCode": "70521",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

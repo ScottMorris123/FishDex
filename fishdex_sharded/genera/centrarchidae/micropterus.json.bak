@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Micropterus cahabae",
+    "SpecCode": "67133",
+    "CommonName": "Cahaba bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus cataractae",
+    "SpecCode": "58432",
+    "CommonName": "Shoal bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus chattahoochae",
+    "SpecCode": "67135",
+    "CommonName": "Chattahoochee bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus coosae",
+    "SpecCode": "3381",
+    "CommonName": "Lobina ojicolorada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus dolomieu",
+    "SpecCode": "3382",
+    "CommonName": "Achiga-boca-pequena",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus floridanus",
+    "SpecCode": "62256",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus henshalli",
+    "SpecCode": "66684",
+    "CommonName": "Alabama bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus notius",
+    "SpecCode": "3383",
+    "CommonName": "Bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus punctulatus",
+    "SpecCode": "3384",
+    "CommonName": "Bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus salmoides",
+    "SpecCode": "3385",
+    "CommonName": "Achiga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus tallapoosae",
+    "SpecCode": "67134",
+    "CommonName": "Tallapoosa bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus treculii",
+    "SpecCode": "3386",
+    "CommonName": "Bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Micropterus warriorensis",
+    "SpecCode": "67136",
+    "CommonName": "Warrior bass",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

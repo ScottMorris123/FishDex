@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Plectrochilus diabolicus",
+    "SpecCode": "58382",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plectrochilus machadoi",
+    "SpecCode": "48784",
+    "CommonName": "赫氏寄生鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plectrochilus wieneri",
+    "SpecCode": "48782",
+    "CommonName": "Canero",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

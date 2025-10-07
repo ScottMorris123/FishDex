@@ -2,7 +2,7 @@
   {
     "ScientificName": "Nesogobius greeni",
     "SpecCode": "64550",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Nesogobius maccullochi",
     "SpecCode": "64551",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

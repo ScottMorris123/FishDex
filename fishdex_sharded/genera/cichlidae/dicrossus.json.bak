@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Dicrossus filamentosus",
+    "SpecCode": "12325",
+    "CommonName": "Checkerboard lyretail",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dicrossus foirni",
+    "SpecCode": "65774",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dicrossus gladicauda",
+    "SpecCode": "64085",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dicrossus maculatus",
+    "SpecCode": "46804",
+    "CommonName": "Schachbrettcichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dicrossus warzeli",
+    "SpecCode": "65775",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Plotosus abbreviatus",
     "SpecCode": "61302",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -23,7 +23,7 @@
   {
     "ScientificName": "Plotosus fisadoha",
     "SpecCode": "61303",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -32,7 +32,7 @@
   {
     "ScientificName": "Plotosus japonicus",
     "SpecCode": "63757",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -62,7 +62,7 @@
   {
     "ScientificName": "Plotosus nhatrangensis",
     "SpecCode": "65357",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

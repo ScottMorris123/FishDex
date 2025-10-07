@@ -29,7 +29,7 @@
   {
     "ScientificName": "Lethrinops atrilabris",
     "SpecCode": "70038",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Lethrinops turneri",
     "SpecCode": "61781",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

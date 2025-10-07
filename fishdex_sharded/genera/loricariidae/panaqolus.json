@@ -2,7 +2,7 @@
   {
     "ScientificName": "Panaqolus albivermis",
     "SpecCode": "67184",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Panaqolus changae",
     "SpecCode": "59739",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Panaqolus claustellifer",
     "SpecCode": "68220",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Panaqolus nix",
     "SpecCode": "67952",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Volodichthys smirnovi",
     "SpecCode": "56203",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Volodichthys solovjevae",
     "SpecCode": "66451",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

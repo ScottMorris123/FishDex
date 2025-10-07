@@ -20,7 +20,7 @@
   {
     "ScientificName": "Uranoscopus arafurensis",
     "SpecCode": "69919",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Uranoscopus bauchotae",
     "SpecCode": "56492",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Uranoscopus crassiceps",
     "SpecCode": "56513",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Uranoscopus dahlakensis",
     "SpecCode": "56493",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Uranoscopus filibarbis",
     "SpecCode": "56528",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Uranoscopus fuscomaculatus",
     "SpecCode": "62164",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Uranoscopus marmoratus",
     "SpecCode": "56529",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Uranoscopus rosette",
     "SpecCode": "69083",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -48,7 +48,7 @@
   {
     "ScientificName": "Maculabatis macrura",
     "SpecCode": "69728",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -330,7 +330,7 @@
   {
     "ScientificName": "Carcharhinus tjutjot",
     "SpecCode": "67456",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

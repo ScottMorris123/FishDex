@@ -2,7 +2,7 @@
   {
     "ScientificName": "Chrysobrycon eliasi",
     "SpecCode": "66382",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Chrysobrycon guahibo",
     "SpecCode": "68962",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Chrysobrycon yoliae",
     "SpecCode": "67627",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

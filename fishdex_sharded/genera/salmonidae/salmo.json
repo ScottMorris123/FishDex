@@ -334,7 +334,7 @@
   {
     "ScientificName": "Salmo pellegrini",
     "SpecCode": "68960",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

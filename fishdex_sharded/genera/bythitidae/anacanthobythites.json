@@ -2,7 +2,7 @@
   {
     "ScientificName": "Anacanthobythites platycephalus",
     "SpecCode": "64909",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Anacanthobythites tasmaniensis",
     "SpecCode": "64910",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

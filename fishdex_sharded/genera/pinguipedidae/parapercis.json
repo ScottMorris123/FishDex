@@ -2,7 +2,7 @@
   {
     "ScientificName": "Parapercis albipinna",
     "SpecCode": "64834",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Parapercis banoni",
     "SpecCode": "63985",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Parapercis bicoloripes",
     "SpecCode": "65993",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Parapercis compressa",
     "SpecCode": "64842",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Parapercis dongshaensis",
     "SpecCode": "69327",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Parapercis flavescens",
     "SpecCode": "61094",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Parapercis fuscolineata",
     "SpecCode": "61095",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -407,7 +407,7 @@
   {
     "ScientificName": "Parapercis maramara",
     "SpecCode": "66466",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -543,7 +543,7 @@
   {
     "ScientificName": "Parapercis punctata",
     "SpecCode": "60522",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -561,7 +561,7 @@
   {
     "ScientificName": "Parapercis queenslandica",
     "SpecCode": "64231",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -579,7 +579,7 @@
   {
     "ScientificName": "Parapercis randalli",
     "SpecCode": "65840",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -606,7 +606,7 @@
   {
     "ScientificName": "Parapercis rota",
     "SpecCode": "70271",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -633,7 +633,7 @@
   {
     "ScientificName": "Parapercis rufa",
     "SpecCode": "61096",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -678,7 +678,7 @@
   {
     "ScientificName": "Parapercis shaoi",
     "SpecCode": "64845",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -769,7 +769,7 @@
   {
     "ScientificName": "Parapercis xanthogramma",
     "SpecCode": "64232",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

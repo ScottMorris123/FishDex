@@ -1,0 +1,490 @@
+[
+  {
+    "ScientificName": "Aseraggodes albidus",
+    "SpecCode": "63912",
+    "CommonName": "White sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes andersoni",
+    "SpecCode": "68441",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes auroculus",
+    "SpecCode": "62934",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes bahamondei",
+    "SpecCode": "27517",
+    "CommonName": "Bahamonde's sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes beauforti",
+    "SpecCode": "63922",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes borehami",
+    "SpecCode": "27174",
+    "CommonName": "Boreham's sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes brevirostris",
+    "SpecCode": "63025",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes chapleaui",
+    "SpecCode": "63913",
+    "CommonName": "Madang sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes cheni",
+    "SpecCode": "64596",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes corymbus",
+    "SpecCode": "63946",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes crypticus",
+    "SpecCode": "65659",
+    "CommonName": "Cryptic Sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes cyaneus",
+    "SpecCode": "10584",
+    "CommonName": "青栉鳞鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes cyclurus",
+    "SpecCode": "62935",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes diringeri",
+    "SpecCode": "59666",
+    "CommonName": "德氏副拟鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes dubius",
+    "SpecCode": "24093",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes filiger",
+    "SpecCode": "24088",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes firmisquamis",
+    "SpecCode": "62598",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes guttulatus",
+    "SpecCode": "58954",
+    "CommonName": "滴斑栉鳞鳎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes haackeanus",
+    "SpecCode": "58950",
+    "CommonName": "Lõuna-kihvtikeel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes heemstrai",
+    "SpecCode": "63029",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes heraldi",
+    "SpecCode": "62597",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes herrei",
+    "SpecCode": "14113",
+    "CommonName": "Herre's sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes holcomi",
+    "SpecCode": "60812",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes jenny",
+    "SpecCode": "63030",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes kaianus",
+    "SpecCode": "24090",
+    "CommonName": "Kian sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes kimurai",
+    "SpecCode": "63914",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes kobensis",
+    "SpecCode": "24243",
+    "CommonName": "Hè bān zhì lín tǎ",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes kruppi",
+    "SpecCode": "68442",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes lateralis",
+    "SpecCode": "62936",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes lenisquamis",
+    "SpecCode": "62938",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes longipinnis",
+    "SpecCode": "63915",
+    "CommonName": "Longfinned sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes macronasus",
+    "SpecCode": "68443",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes magnoculus",
+    "SpecCode": "62939",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes martine",
+    "SpecCode": "68444",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes matsuurai",
+    "SpecCode": "63916",
+    "CommonName": "Lombok sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes melanostictus",
+    "SpecCode": "22522",
+    "CommonName": "Black spotted sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes microlepidotus",
+    "SpecCode": "61349",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes nigrocirratus",
+    "SpecCode": "62940",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes normani",
+    "SpecCode": "27584",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes orientalis",
+    "SpecCode": "64597",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes pelvicus",
+    "SpecCode": "62941",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes ramsaii",
+    "SpecCode": "61355",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes satapoomini",
+    "SpecCode": "63917",
+    "CommonName": "Andaman sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes senoui",
+    "SpecCode": "63918",
+    "CommonName": "Mabul sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes sinusarabici",
+    "SpecCode": "58956",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes steinitzi",
+    "SpecCode": "63031",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes suzumotoi",
+    "SpecCode": "63919",
+    "CommonName": "Ambon sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes texturatus",
+    "SpecCode": "61350",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes therese",
+    "SpecCode": "27175",
+    "CommonName": "Therese's sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes umbratilis",
+    "SpecCode": "63032",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes whitakeri",
+    "SpecCode": "22541",
+    "CommonName": "Whitaker's sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes winterbottomi",
+    "SpecCode": "63920",
+    "CommonName": "Negros sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes xenicus",
+    "SpecCode": "8908",
+    "CommonName": "Dwarf sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aseraggodes zizette",
+    "SpecCode": "63921",
+    "CommonName": "Mentawai sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

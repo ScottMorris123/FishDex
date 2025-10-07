@@ -29,7 +29,7 @@
   {
     "ScientificName": "Pseudacanthicus pirarara",
     "SpecCode": "69043",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Pseudacanthicus pitanga",
     "SpecCode": "68837",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

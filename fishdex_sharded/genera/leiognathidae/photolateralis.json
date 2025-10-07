@@ -2,7 +2,7 @@
   {
     "ScientificName": "Photolateralis antongil",
     "SpecCode": "63868",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Photolateralis polyfenestrus",
     "SpecCode": "69024",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

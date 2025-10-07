@@ -2,7 +2,7 @@
   {
     "ScientificName": "Cirrhitus albopunctatus",
     "SpecCode": "60601",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

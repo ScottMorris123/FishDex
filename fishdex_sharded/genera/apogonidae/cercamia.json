@@ -20,7 +20,7 @@
   {
     "ScientificName": "Cercamia laamu",
     "SpecCode": "70375",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Cercamia mascarene",
     "SpecCode": "70376",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

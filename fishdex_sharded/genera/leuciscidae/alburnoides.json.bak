@@ -1,0 +1,318 @@
+[
+  {
+    "ScientificName": "Alburnoides bipunctatus",
+    "SpecCode": "4875",
+    "CommonName": "Ablette de courant",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides coadi",
+    "SpecCode": "67866",
+    "CommonName": "Coad's riffle minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides devolli",
+    "SpecCode": "65852",
+    "CommonName": "Devoll riffle minnow",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides economoui",
+    "SpecCode": "68486",
+    "CommonName": "Spercheios sprilin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides eichwaldii",
+    "SpecCode": "65180",
+    "CommonName": "Eichwaldi tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides emineae",
+    "SpecCode": "67278",
+    "CommonName": "Beyazsu chub",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides fangfangae",
+    "SpecCode": "65851",
+    "CommonName": "Fangfangi tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides fasciatus",
+    "SpecCode": "65181",
+    "CommonName": "Transcaucasian spirlin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides freyhofi",
+    "SpecCode": "68533",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides gmelini",
+    "SpecCode": "65149",
+    "CommonName": "Gmelini tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides holciki",
+    "SpecCode": "66834",
+    "CommonName": "Hari tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides idignensis",
+    "SpecCode": "65154",
+    "CommonName": "Tigrise tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides kosswigi",
+    "SpecCode": "68534",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides kubanicus",
+    "SpecCode": "65137",
+    "CommonName": "Kubani tippviidkas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides kurui",
+    "SpecCode": "68532",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides maculatus",
+    "SpecCode": "67457",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides manyasensis",
+    "SpecCode": "66835",
+    "CommonName": "Manyas spirlin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides namaki",
+    "SpecCode": "65152",
+    "CommonName": "Namaki tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides nicolausi",
+    "SpecCode": "65153",
+    "CommonName": "Simarehi tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides oblongus",
+    "SpecCode": "23037",
+    "CommonName": "Aaltosalakka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides ohridanus",
+    "SpecCode": "65087",
+    "CommonName": "Ohridi tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides parhami",
+    "SpecCode": "67867",
+    "CommonName": "Mahi-e-Khayate-ye-Parham",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides petrubanarescui",
+    "SpecCode": "65151",
+    "CommonName": "Urmia tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides prespensis",
+    "SpecCode": "65088",
+    "CommonName": "Prespa tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides qanati",
+    "SpecCode": "64985",
+    "CommonName": "Kanali-tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides recepi",
+    "SpecCode": "67280",
+    "CommonName": "Merzimeni tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides rossicus",
+    "SpecCode": "67458",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides samiii",
+    "SpecCode": "67868",
+    "CommonName": "Mahi-e-Khayate-ye-Samii",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides strymonicus",
+    "SpecCode": "68491",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides tabarestanensis",
+    "SpecCode": "67865",
+    "CommonName": "Mahi-e-Khayate-ye-Tabarestan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides taeniatus",
+    "SpecCode": "22954",
+    "CommonName": "Gestreifter Schneider",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides thessalicus",
+    "SpecCode": "68490",
+    "CommonName": "Thessalian spirlin",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides turani",
+    "SpecCode": "69782",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides varentsovi",
+    "SpecCode": "65150",
+    "CommonName": "Kopetdagi tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Alburnoides velioglui",
+    "SpecCode": "67279",
+    "CommonName": "Eufrati tippviidikas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

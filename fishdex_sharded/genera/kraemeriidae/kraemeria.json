@@ -33,7 +33,7 @@
   {
     "ScientificName": "Kraemeria merensis",
     "SpecCode": "60791",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

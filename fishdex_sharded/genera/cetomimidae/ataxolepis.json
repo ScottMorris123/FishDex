@@ -2,7 +2,7 @@
   {
     "ScientificName": "Ataxolepis apus",
     "SpecCode": "15321",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Ataxolepis henactis",
     "SpecCode": "57067",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

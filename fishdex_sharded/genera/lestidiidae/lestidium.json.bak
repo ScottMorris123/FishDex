@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Lestidium atlanticum",
+    "SpecCode": "10170",
+    "CommonName": "Atlantic barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestidium bigelowi",
+    "SpecCode": "63598",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestidium longilucifer",
+    "SpecCode": "69776",
+    "CommonName": "Long light-organ barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestidium nigrirostrum",
+    "SpecCode": "69777",
+    "CommonName": "Australian robust barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestidium nudum",
+    "SpecCode": "7402",
+    "CommonName": "Deep water pike smelt",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestidium orientale",
+    "SpecCode": "69793",
+    "CommonName": "Oriental barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestidium prolixum",
+    "SpecCode": "23027",
+    "CommonName": "Hwa-sal-chi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lestidium rofeni",
+    "SpecCode": "69778",
+    "CommonName": "Rofen's barracudina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

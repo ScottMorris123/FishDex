@@ -2,7 +2,7 @@
   {
     "ScientificName": "Andamia amphibius",
     "SpecCode": "59609",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Andamia cyclocheilus",
     "SpecCode": "67068",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Andamia expansa",
     "SpecCode": "67069",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Andamia pacifica",
     "SpecCode": "67070",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

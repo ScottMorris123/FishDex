@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Campellolebias brucei",
+    "SpecCode": "6244",
+    "CommonName": "Miekkaviuhkaevä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campellolebias chrysolineatus",
+    "SpecCode": "49627",
+    "CommonName": "金線曲鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campellolebias dorsimaculatus",
+    "SpecCode": "49631",
+    "CommonName": "Täpläviuhkaevä",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Campellolebias intermedius",
+    "SpecCode": "62911",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

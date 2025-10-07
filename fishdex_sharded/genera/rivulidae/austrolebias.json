@@ -2,7 +2,7 @@
   {
     "ScientificName": "Austrolebias accorsii",
     "SpecCode": "70284",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Austrolebias arachan",
     "SpecCode": "62319",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Austrolebias araucarianus",
     "SpecCode": "67808",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Austrolebias bagual",
     "SpecCode": "68883",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Austrolebias botocudo",
     "SpecCode": "70288",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Austrolebias camaquensis",
     "SpecCode": "70146",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Austrolebias charrua",
     "SpecCode": "59931",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Austrolebias cheffei",
     "SpecCode": "70286",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Austrolebias duraznensis",
     "SpecCode": "63585",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Austrolebias ephemerus",
     "SpecCode": "69878",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Austrolebias guarani",
     "SpecCode": "70283",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Austrolebias ibicuiensis",
     "SpecCode": "57468",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Austrolebias jaegari",
     "SpecCode": "61592",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Austrolebias juanlangi",
     "SpecCode": "62897",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Austrolebias litzi",
     "SpecCode": "62899",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Austrolebias lourenciano",
     "SpecCode": "70285",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Austrolebias minuano",
     "SpecCode": "59932",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Austrolebias nachtigalli",
     "SpecCode": "62900",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -290,7 +290,7 @@
   {
     "ScientificName": "Austrolebias nigrofasciatus",
     "SpecCode": "59933",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -317,7 +317,7 @@
   {
     "ScientificName": "Austrolebias nubium",
     "SpecCode": "70287",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -326,7 +326,7 @@
   {
     "ScientificName": "Austrolebias paranaensis",
     "SpecCode": "62896",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Austrolebias paucisquama",
     "SpecCode": "64084",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -353,7 +353,7 @@
   {
     "ScientificName": "Austrolebias pelotapes",
     "SpecCode": "68757",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -371,7 +371,7 @@
   {
     "ScientificName": "Austrolebias pongondo",
     "SpecCode": "68758",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -389,7 +389,7 @@
   {
     "ScientificName": "Austrolebias queguay",
     "SpecCode": "69204",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Austrolebias quirogai",
     "SpecCode": "66187",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -407,7 +407,7 @@
   {
     "ScientificName": "Austrolebias reicherti",
     "SpecCode": "64783",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -416,7 +416,7 @@
   {
     "ScientificName": "Austrolebias robustus",
     "SpecCode": "57472",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -425,7 +425,7 @@
   {
     "ScientificName": "Austrolebias toba",
     "SpecCode": "62888",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -434,7 +434,7 @@
   {
     "ScientificName": "Austrolebias univentripinnis",
     "SpecCode": "62650",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -452,7 +452,7 @@
   {
     "ScientificName": "Austrolebias varzeae",
     "SpecCode": "62177",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -479,7 +479,7 @@
   {
     "ScientificName": "Austrolebias wichi",
     "SpecCode": "69925",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

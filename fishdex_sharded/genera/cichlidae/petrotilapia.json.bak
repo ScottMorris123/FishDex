@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Petrotilapia chrysos",
+    "SpecCode": "54241",
+    "CommonName": "金黃岩非鯽",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotilapia flaviventris",
+    "SpecCode": "66136",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotilapia genalutea",
+    "SpecCode": "2353",
+    "CommonName": "Gelbbrauner Petrotilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotilapia microgalana",
+    "SpecCode": "64525",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotilapia mumboensis",
+    "SpecCode": "66138",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotilapia nigra",
+    "SpecCode": "2354",
+    "CommonName": "Mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotilapia palingnathos",
+    "SpecCode": "66137",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotilapia pyroscelos",
+    "SpecCode": "66139",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotilapia tridentiger",
+    "SpecCode": "2355",
+    "CommonName": "Bunya",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Petrotilapia xanthos",
+    "SpecCode": "66135",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

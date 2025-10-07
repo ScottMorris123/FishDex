@@ -11,7 +11,7 @@
   {
     "ScientificName": "Eusurculus pistillum",
     "SpecCode": "64479",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

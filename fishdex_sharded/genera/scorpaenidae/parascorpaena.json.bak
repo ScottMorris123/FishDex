@@ -1,0 +1,76 @@
+[
+  {
+    "ScientificName": "Parascorpaena armata",
+    "SpecCode": "70152",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascorpaena aurita",
+    "SpecCode": "27438",
+    "CommonName": "Byno scorpionfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascorpaena bandanensis",
+    "SpecCode": "27440",
+    "CommonName": "Banda scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascorpaena maculipinnis",
+    "SpecCode": "52303",
+    "CommonName": "Spotfin scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascorpaena mcadamsi",
+    "SpecCode": "5809",
+    "CommonName": "Adam's scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascorpaena mossambica",
+    "SpecCode": "5810",
+    "CommonName": "Golden scorpionfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascorpaena moultoni",
+    "SpecCode": "68170",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parascorpaena picta",
+    "SpecCode": "8296",
+    "CommonName": "Depu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

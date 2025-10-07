@@ -29,7 +29,7 @@
   {
     "ScientificName": "Creagrutus atratus",
     "SpecCode": "58434",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Creagrutus atrisignum",
     "SpecCode": "51282",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Creagrutus barrigai",
     "SpecCode": "58436",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Creagrutus bolivari",
     "SpecCode": "51277",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Creagrutus britskii",
     "SpecCode": "58437",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Creagrutus calai",
     "SpecCode": "58438",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Creagrutus cerritulus",
     "SpecCode": "68645",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Creagrutus changae",
     "SpecCode": "58439",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Creagrutus cracentis",
     "SpecCode": "58440",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Creagrutus crenatus",
     "SpecCode": "58441",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Creagrutus ephippiatus",
     "SpecCode": "58442",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Creagrutus figueiredoi",
     "SpecCode": "58443",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Creagrutus flavescens",
     "SpecCode": "58444",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Creagrutus gracilis",
     "SpecCode": "58445",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Creagrutus guanes",
     "SpecCode": "62578",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Creagrutus gyrospilus",
     "SpecCode": "58446",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Creagrutus holmi",
     "SpecCode": "58447",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Creagrutus ignotus",
     "SpecCode": "58448",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Creagrutus lassoi",
     "SpecCode": "58449",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Creagrutus machadoi",
     "SpecCode": "58450",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -290,7 +290,7 @@
   {
     "ScientificName": "Creagrutus maculosus",
     "SpecCode": "65460",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -308,7 +308,7 @@
   {
     "ScientificName": "Creagrutus magoi",
     "SpecCode": "58451",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -317,7 +317,7 @@
   {
     "ScientificName": "Creagrutus manu",
     "SpecCode": "58452",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -362,7 +362,7 @@
   {
     "ScientificName": "Creagrutus menezesi",
     "SpecCode": "58453",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -371,7 +371,7 @@
   {
     "ScientificName": "Creagrutus meridionalis",
     "SpecCode": "58454",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -380,7 +380,7 @@
   {
     "ScientificName": "Creagrutus molinus",
     "SpecCode": "58455",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -389,7 +389,7 @@
   {
     "ScientificName": "Creagrutus mucipu",
     "SpecCode": "58456",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -416,7 +416,7 @@
   {
     "ScientificName": "Creagrutus nigrotaeniatus",
     "SpecCode": "67720",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -425,7 +425,7 @@
   {
     "ScientificName": "Creagrutus occidaneus",
     "SpecCode": "58457",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -434,7 +434,7 @@
   {
     "ScientificName": "Creagrutus ortegai",
     "SpecCode": "58458",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -443,7 +443,7 @@
   {
     "ScientificName": "Creagrutus ouranonastes",
     "SpecCode": "58459",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -452,7 +452,7 @@
   {
     "ScientificName": "Creagrutus paraguayensis",
     "SpecCode": "53430",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -470,7 +470,7 @@
   {
     "ScientificName": "Creagrutus pearsoni",
     "SpecCode": "56458",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -488,7 +488,7 @@
   {
     "ScientificName": "Creagrutus petilus",
     "SpecCode": "58460",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -497,7 +497,7 @@
   {
     "ScientificName": "Creagrutus phasma",
     "SpecCode": "51275",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -506,7 +506,7 @@
   {
     "ScientificName": "Creagrutus pila",
     "SpecCode": "58461",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -524,7 +524,7 @@
   {
     "ScientificName": "Creagrutus provenzanoi",
     "SpecCode": "58462",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -533,7 +533,7 @@
   {
     "ScientificName": "Creagrutus runa",
     "SpecCode": "58463",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -542,7 +542,7 @@
   {
     "ScientificName": "Creagrutus saxatilis",
     "SpecCode": "58464",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -551,7 +551,7 @@
   {
     "ScientificName": "Creagrutus seductus",
     "SpecCode": "58465",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -560,7 +560,7 @@
   {
     "ScientificName": "Creagrutus taphorni",
     "SpecCode": "58466",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -569,7 +569,7 @@
   {
     "ScientificName": "Creagrutus tuyuka",
     "SpecCode": "61980",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -578,7 +578,7 @@
   {
     "ScientificName": "Creagrutus ungulus",
     "SpecCode": "58467",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -587,7 +587,7 @@
   {
     "ScientificName": "Creagrutus varii",
     "SpecCode": "62335",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -596,7 +596,7 @@
   {
     "ScientificName": "Creagrutus veruina",
     "SpecCode": "58468",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -605,7 +605,7 @@
   {
     "ScientificName": "Creagrutus vexillapinnus",
     "SpecCode": "58469",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -614,7 +614,7 @@
   {
     "ScientificName": "Creagrutus xiphos",
     "SpecCode": "58470",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -623,7 +623,7 @@
   {
     "ScientificName": "Creagrutus yanatili",
     "SpecCode": "65282",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -632,7 +632,7 @@
   {
     "ScientificName": "Creagrutus yudja",
     "SpecCode": "69131",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -641,7 +641,7 @@
   {
     "ScientificName": "Creagrutus zephyrus",
     "SpecCode": "58471",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

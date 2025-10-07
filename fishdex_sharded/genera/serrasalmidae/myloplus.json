@@ -29,7 +29,7 @@
   {
     "ScientificName": "Myloplus lobatus",
     "SpecCode": "58101",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Myloplus lucienae",
     "SpecCode": "68182",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Myloplus zorroi",
     "SpecCode": "68181",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

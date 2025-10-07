@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Dentex abei",
+    "SpecCode": "64598",
+    "CommonName": "Kibire-akarenko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex angolensis",
+    "SpecCode": "440",
+    "CommonName": "Anggola",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex barnardi",
+    "SpecCode": "8061",
+    "CommonName": "Anortia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex canariensis",
+    "SpecCode": "4539",
+    "CommonName": "Alhot Lachmar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex carpenteri",
+    "SpecCode": "68715",
+    "CommonName": "Yellow snout seabream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex congoensis",
+    "SpecCode": "4641",
+    "CommonName": "Congo dentex",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex dentex",
+    "SpecCode": "439",
+    "CommonName": "Addad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex fourmanoiri",
+    "SpecCode": "60906",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex gibbosus",
+    "SpecCode": "4536",
+    "CommonName": "Antenli balık",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex hypselosomus",
+    "SpecCode": "67288",
+    "CommonName": "Kidai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex macrophthalmus",
+    "SpecCode": "438",
+    "CommonName": "Addad",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex maroccanus",
+    "SpecCode": "4538",
+    "CommonName": "Bet sol",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dentex spariformis",
+    "SpecCode": "56323",
+    "CommonName": "Saffronfin sea bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

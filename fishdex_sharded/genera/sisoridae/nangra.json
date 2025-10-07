@@ -11,7 +11,7 @@
   {
     "ScientificName": "Nangra bucculenta",
     "SpecCode": "55590",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Nangra robusta",
     "SpecCode": "60096",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

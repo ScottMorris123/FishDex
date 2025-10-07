@@ -1,0 +1,848 @@
+[
+  {
+    "ScientificName": "Crenicichla acutirostris",
+    "SpecCode": "46805",
+    "CommonName": "Pienasukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla adspersa",
+    "SpecCode": "46808",
+    "CommonName": "Guensa branca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla albopunctata",
+    "SpecCode": "46809",
+    "CommonName": "Abarwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla alta",
+    "SpecCode": "23394",
+    "CommonName": "Jacundá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla anamiri",
+    "SpecCode": "68015",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla anthurus",
+    "SpecCode": "26688",
+    "CommonName": "Perunsukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla brasiliensis",
+    "SpecCode": "47115",
+    "CommonName": "Jacundá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla britskii",
+    "SpecCode": "46821",
+    "CommonName": "布里斯克矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla cametana",
+    "SpecCode": "46848",
+    "CommonName": "Sterngucker-Hechtbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla celidochilus",
+    "SpecCode": "46824",
+    "CommonName": "Blacklipped pike cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla chicha",
+    "SpecCode": "66959",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla cincta",
+    "SpecCode": "46351",
+    "CommonName": "Añashua",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla compressiceps",
+    "SpecCode": "46840",
+    "CommonName": "Kultaraitasukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla coppenamensis",
+    "SpecCode": "46841",
+    "CommonName": "苏里南矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla cyanonotus",
+    "SpecCode": "26678",
+    "CommonName": "Tulieväsukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla cyclostoma",
+    "SpecCode": "46845",
+    "CommonName": "Jacundá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla empheres",
+    "SpecCode": "63899",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla frenata",
+    "SpecCode": "52191",
+    "CommonName": "Ohjassukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla gaucho",
+    "SpecCode": "46855",
+    "CommonName": "河川矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla geayi",
+    "SpecCode": "12329",
+    "CommonName": "Halfbanded pike cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla gillmorlisi",
+    "SpecCode": "66924",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla hadrostigma",
+    "SpecCode": "63898",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla haroldoi",
+    "SpecCode": "52206",
+    "CommonName": "哈罗德氏矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla heckeli",
+    "SpecCode": "46856",
+    "CommonName": "Sirosukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla hemera",
+    "SpecCode": "46857",
+    "CommonName": "冈瑟氏矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla hu",
+    "SpecCode": "65615",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla hummelincki",
+    "SpecCode": "56539",
+    "CommonName": "赫氏矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla igara",
+    "SpecCode": "46858",
+    "CommonName": "Joaninha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla iguapina",
+    "SpecCode": "62912",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla iguassuensis",
+    "SpecCode": "52202",
+    "CommonName": "Joaninha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla inpa",
+    "SpecCode": "56544",
+    "CommonName": "亚马逊矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla isbrueckeri",
+    "SpecCode": "56541",
+    "CommonName": "伊氏矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla jaguarensis",
+    "SpecCode": "52204",
+    "CommonName": "Jaguaarisukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla jegui",
+    "SpecCode": "46861",
+    "CommonName": "Jacundá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla johanna",
+    "SpecCode": "26682",
+    "CommonName": "Abarwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla jupiaensis",
+    "SpecCode": "46864",
+    "CommonName": "Joaninha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla jurubi",
+    "SpecCode": "46870",
+    "CommonName": "Joaninha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla labrina",
+    "SpecCode": "52190",
+    "CommonName": "Keltaposkisukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla lacustris",
+    "SpecCode": "46875",
+    "CommonName": "boca amarga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla lenticulata",
+    "SpecCode": "46876",
+    "CommonName": "Jacunda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla lepidota",
+    "SpecCode": "11159",
+    "CommonName": "boca amarga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla lucenai",
+    "SpecCode": "67611",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla lucius",
+    "SpecCode": "26687",
+    "CommonName": "Chui",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla lugubris",
+    "SpecCode": "46877",
+    "CommonName": "Jacunda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla macrophthalma",
+    "SpecCode": "46880",
+    "CommonName": "Jacunda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla maculata",
+    "SpecCode": "62915",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla mandelburgeri",
+    "SpecCode": "64862",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla marmorata",
+    "SpecCode": "52192",
+    "CommonName": "Marmorisukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla menezesi",
+    "SpecCode": "56540",
+    "CommonName": "Välkesukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla minuano",
+    "SpecCode": "46881",
+    "CommonName": "Joaninha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla missioneira",
+    "SpecCode": "46885",
+    "CommonName": "Joaninha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla monicae",
+    "SpecCode": "67954",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla mucuryna",
+    "SpecCode": "46887",
+    "CommonName": "黏矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla multispinosa",
+    "SpecCode": "46890",
+    "CommonName": "Abarwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla nickeriensis",
+    "SpecCode": "46893",
+    "CommonName": "尼克里河矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla niederleinii",
+    "SpecCode": "46895",
+    "CommonName": "Joaninha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla notophthalmus",
+    "SpecCode": "52205",
+    "CommonName": "Jacunda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla pellegrini",
+    "SpecCode": "56537",
+    "CommonName": "佩氏矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla percna",
+    "SpecCode": "46903",
+    "CommonName": "Kuhasukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla phaiospilus",
+    "SpecCode": "46904",
+    "CommonName": "Linjasukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla ploegi",
+    "SpecCode": "68874",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla prenda",
+    "SpecCode": "46906",
+    "CommonName": "垂矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla proteus",
+    "SpecCode": "26685",
+    "CommonName": "Chui",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla punctata",
+    "SpecCode": "56557",
+    "CommonName": "Joana mixola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla pydanielae",
+    "SpecCode": "56536",
+    "CommonName": "派氏矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla regani",
+    "SpecCode": "46910",
+    "CommonName": "Korusukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla reticulata",
+    "SpecCode": "25779",
+    "CommonName": "Añashua",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla rosemariae",
+    "SpecCode": "46476",
+    "CommonName": "Rubanana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla santosi",
+    "SpecCode": "56535",
+    "CommonName": "桑托斯氏矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla saxatilis",
+    "SpecCode": "12312",
+    "CommonName": "Abarwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla scottii",
+    "SpecCode": "46911",
+    "CommonName": "Cabeza amarga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla sedentaria",
+    "SpecCode": "26681",
+    "CommonName": "Chui",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla semicincta",
+    "SpecCode": "26683",
+    "CommonName": "密矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla semifasciata",
+    "SpecCode": "23471",
+    "CommonName": "Gefleckter Kammbuntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla sipaliwini",
+    "SpecCode": "46914",
+    "CommonName": "賽氏矛麗魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla stocki",
+    "SpecCode": "56538",
+    "CommonName": "Sysisukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla strigata",
+    "SpecCode": "52193",
+    "CommonName": "Borboleta pintada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla sveni",
+    "SpecCode": "56542",
+    "CommonName": "Metansukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla taikyra",
+    "SpecCode": "67406",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla tapii",
+    "SpecCode": "68104",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla tendybaguassu",
+    "SpecCode": "46915",
+    "CommonName": "Joaninha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla ternetzi",
+    "SpecCode": "46917",
+    "CommonName": "Abarwa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla tesay",
+    "SpecCode": "64949",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla tigrina",
+    "SpecCode": "52207",
+    "CommonName": "Tiikerisukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla tingui",
+    "SpecCode": "62913",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla tuca",
+    "SpecCode": "68103",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla urosema",
+    "SpecCode": "46921",
+    "CommonName": "Pastellisukkula-ahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla vaillanti",
+    "SpecCode": "58473",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla virgatula",
+    "SpecCode": "56543",
+    "CommonName": "多枝矛丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla vittata",
+    "SpecCode": "46924",
+    "CommonName": "boca amarga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla wallacii",
+    "SpecCode": "46928",
+    "CommonName": "Wallaces Hechtcichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla yaha",
+    "SpecCode": "64005",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla ypo",
+    "SpecCode": "65791",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Crenicichla zebrina",
+    "SpecCode": "64634",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

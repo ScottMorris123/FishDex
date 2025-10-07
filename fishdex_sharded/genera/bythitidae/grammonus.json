@@ -38,7 +38,7 @@
   {
     "ScientificName": "Grammonus minutus",
     "SpecCode": "65479",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Grammonus nagaredai",
     "SpecCode": "64713",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Grammonus thielei",
     "SpecCode": "62550",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Grammonus waikiki",
     "SpecCode": "57330",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Grammonus yunokawai",
     "SpecCode": "64221",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

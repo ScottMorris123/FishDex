@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Grammonus ater",
+    "SpecCode": "1748",
+    "CommonName": "Brotola nera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus claudei",
+    "SpecCode": "3124",
+    "CommonName": "Brotula parda",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus diagrammus",
+    "SpecCode": "3125",
+    "CommonName": "Brótula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus longhursti",
+    "SpecCode": "9002",
+    "CommonName": "朗氏寡须鳚属",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus minutus",
+    "SpecCode": "65479",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus nagaredai",
+    "SpecCode": "64713",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus opisthodon",
+    "SpecCode": "16799",
+    "CommonName": "Bighead brotula",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus robustus",
+    "SpecCode": "15659",
+    "CommonName": "Duǎn tĭ dú zhĭ yòu wèi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus thielei",
+    "SpecCode": "62550",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus waikiki",
+    "SpecCode": "57330",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammonus yunokawai",
+    "SpecCode": "64221",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

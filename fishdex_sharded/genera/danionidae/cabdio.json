@@ -2,7 +2,7 @@
   {
     "ScientificName": "Cabdio crassus",
     "SpecCode": "70404",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Cabdio occidentalis",
     "SpecCode": "70403",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

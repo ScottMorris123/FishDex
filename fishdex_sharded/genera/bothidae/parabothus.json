@@ -38,7 +38,7 @@
   {
     "ScientificName": "Parabothus filipes",
     "SpecCode": "52241",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Parabothus rotundifrons",
     "SpecCode": "69681",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

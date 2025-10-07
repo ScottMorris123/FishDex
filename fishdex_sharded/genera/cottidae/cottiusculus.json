@@ -20,7 +20,7 @@
   {
     "ScientificName": "Cottiusculus primoricus",
     "SpecCode": "70314",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

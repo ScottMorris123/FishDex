@@ -2,7 +2,7 @@
   {
     "ScientificName": "Neblinichthys brevibracchium",
     "SpecCode": "65793",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Neblinichthys echinasus",
     "SpecCode": "65794",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Neblinichthys peniculatus",
     "SpecCode": "66852",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

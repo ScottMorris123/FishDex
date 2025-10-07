@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Diceratias bispinosus",
+    "SpecCode": "27426",
+    "CommonName": "Horned two-rod angler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diceratias pileatus",
+    "SpecCode": "10180",
+    "CommonName": "Futatsuzao-chouchin-ankou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diceratias trilobus",
+    "SpecCode": "60686",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

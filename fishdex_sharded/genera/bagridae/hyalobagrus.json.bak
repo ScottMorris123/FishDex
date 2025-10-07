@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hyalobagrus flavus",
+    "SpecCode": "54609",
+    "CommonName": "Lasikimalaismonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyalobagrus leiacanthus",
+    "SpecCode": "54611",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyalobagrus ornatus",
+    "SpecCode": "23084",
+    "CommonName": "Zwergstachelflossenwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

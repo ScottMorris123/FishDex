@@ -11,7 +11,7 @@
   {
     "ScientificName": "Hymenocephalus antraeus",
     "SpecCode": "52360",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Hymenocephalus barbatulus",
     "SpecCode": "52365",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Hymenocephalus billsam",
     "SpecCode": "25297",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Hymenocephalus grimaldii",
     "SpecCode": "58846",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Hymenocephalus heterolepis",
     "SpecCode": "67717",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Hymenocephalus iwamotoi",
     "SpecCode": "67709",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Hymenocephalus neglectissimus",
     "SpecCode": "52269",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Hymenocephalus nesaeae",
     "SpecCode": "58852",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Hymenocephalus punt",
     "SpecCode": "67900",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Hymenocephalus sazonovi",
     "SpecCode": "67712",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Hymenocephalus semipellucidus",
     "SpecCode": "52270",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Hymenocephalus striatulus",
     "SpecCode": "52271",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Hymenocephalus torvus",
     "SpecCode": "7596",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

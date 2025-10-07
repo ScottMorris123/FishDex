@@ -76,7 +76,7 @@
   {
     "ScientificName": "Vanmanenia microcephala",
     "SpecCode": "69473",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -121,7 +121,7 @@
   {
     "ScientificName": "Vanmanenia orcucampus",
     "SpecCode": "69481",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -140,7 +140,7 @@
   {
     "ScientificName": "Vanmanenia polylepis",
     "SpecCode": "67740",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -149,7 +149,7 @@
   {
     "ScientificName": "Vanmanenia pseudostriata",
     "SpecCode": "69474",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

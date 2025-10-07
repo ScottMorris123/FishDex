@@ -245,7 +245,7 @@
   {
     "ScientificName": "Pempheris malabarica",
     "SpecCode": "67361",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -309,7 +309,7 @@
   {
     "ScientificName": "Pempheris nesogallica",
     "SpecCode": "67343",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -390,7 +390,7 @@
   {
     "ScientificName": "Pempheris rapa",
     "SpecCode": "50769",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -399,7 +399,7 @@
   {
     "ScientificName": "Pempheris rhomboidea",
     "SpecCode": "68147",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -426,7 +426,7 @@
   {
     "ScientificName": "Pempheris sarayu",
     "SpecCode": "67344",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

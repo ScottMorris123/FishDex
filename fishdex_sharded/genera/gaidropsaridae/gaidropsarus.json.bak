@@ -1,0 +1,129 @@
+[
+  {
+    "ScientificName": "Gaidropsarus argentatus",
+    "SpecCode": "8423",
+    "CommonName": "Arctic rockling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus biscayensis",
+    "SpecCode": "1877",
+    "CommonName": "Barbada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus capensis",
+    "SpecCode": "8424",
+    "CommonName": "Cape rockling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus ensis",
+    "SpecCode": "8425",
+    "CommonName": "Arctique threebeard rockling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus granti",
+    "SpecCode": "8426",
+    "CommonName": "Azores rockling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus guttatus",
+    "SpecCode": "8427",
+    "CommonName": "Abrótea-da-poça",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus insularum",
+    "SpecCode": "8428",
+    "CommonName": "Comb rockling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus macrophthalmus",
+    "SpecCode": "1878",
+    "CommonName": "Bigeye rockling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus mauli",
+    "SpecCode": "70493",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus mediterraneus",
+    "SpecCode": "1740",
+    "CommonName": "Ballottra",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus novaezealandiae",
+    "SpecCode": "8429",
+    "CommonName": "Ling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus pakhorukovi",
+    "SpecCode": "59333",
+    "CommonName": "Pakhorukov rockling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus parini",
+    "SpecCode": "48254",
+    "CommonName": "Parin rockling",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gaidropsarus vulgaris",
+    "SpecCode": "1876",
+    "CommonName": "Abarbado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -13,7 +13,7 @@
   {
     "ScientificName": "Bostrychus albooculata",
     "SpecCode": "65876",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -41,7 +41,7 @@
   {
     "ScientificName": "Bostrychus microphthalmus",
     "SpecCode": "62349",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

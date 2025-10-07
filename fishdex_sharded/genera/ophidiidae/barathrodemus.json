@@ -11,7 +11,7 @@
   {
     "ScientificName": "Barathrodemus nasutus",
     "SpecCode": "54229",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -29,7 +29,7 @@
   {
     "ScientificName": "Laemolyta macra",
     "SpecCode": "56951",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Laemolyta nitens",
     "SpecCode": "53279",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Laemolyta varia",
     "SpecCode": "53283",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

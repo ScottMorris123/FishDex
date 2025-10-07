@@ -11,7 +11,7 @@
   {
     "ScientificName": "Cynotilapia aurifrons",
     "SpecCode": "66364",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Cynotilapia chilundu",
     "SpecCode": "68970",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Cynotilapia zebroides",
     "SpecCode": "8355",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

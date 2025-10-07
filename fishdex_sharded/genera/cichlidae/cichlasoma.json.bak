@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Cichlasoma amazonarum",
+    "SpecCode": "25778",
+    "CommonName": "Acará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma araguaiense",
+    "SpecCode": "46781",
+    "CommonName": "Nuottakirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma bimaculatum",
+    "SpecCode": "3613",
+    "CommonName": "Acará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma boliviense",
+    "SpecCode": "26732",
+    "CommonName": "Bolivien-Cichlasoma",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma dimerus",
+    "SpecCode": "46784",
+    "CommonName": "Acará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma geddesi",
+    "SpecCode": "57875",
+    "CommonName": "Sepelkirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma orientale",
+    "SpecCode": "46786",
+    "CommonName": "Acará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma orinocense",
+    "SpecCode": "46790",
+    "CommonName": "Mochoroca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma paranaense",
+    "SpecCode": "46792",
+    "CommonName": "巴拉那河丽体鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma portalegrense",
+    "SpecCode": "46796",
+    "CommonName": "Acará verde",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma pusillum",
+    "SpecCode": "47113",
+    "CommonName": "Castañeta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma sanctifranciscense",
+    "SpecCode": "46801",
+    "CommonName": "Acará",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma taenia",
+    "SpecCode": "27898",
+    "CommonName": "Ametistikirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichlasoma zarskei",
+    "SpecCode": "66368",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

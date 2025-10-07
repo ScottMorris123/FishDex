@@ -38,7 +38,7 @@
   {
     "ScientificName": "Phenacorhamdia nigrolineata",
     "SpecCode": "61785",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Phenacorhamdia provenzanoi",
     "SpecCode": "64282",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Phenacorhamdia taphorni",
     "SpecCode": "64281",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

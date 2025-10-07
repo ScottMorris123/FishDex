@@ -11,7 +11,7 @@
   {
     "ScientificName": "Sciadonus jonassoni",
     "SpecCode": "56417",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Sciadonus longiventralis",
     "SpecCode": "70111",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Sciadonus robinsorum",
     "SpecCode": "70112",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

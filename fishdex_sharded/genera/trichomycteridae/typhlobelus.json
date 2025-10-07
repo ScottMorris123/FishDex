@@ -2,7 +2,7 @@
   {
     "ScientificName": "Typhlobelus auriculatus",
     "SpecCode": "67205",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Typhlobelus guacamaya",
     "SpecCode": "62631",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Typhlobelus lundbergi",
     "SpecCode": "62632",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

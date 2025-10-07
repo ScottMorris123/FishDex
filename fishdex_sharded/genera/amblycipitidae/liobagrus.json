@@ -2,7 +2,7 @@
   {
     "ScientificName": "Liobagrus aequilabris",
     "SpecCode": "64276",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Liobagrus chenghaiensis",
     "SpecCode": "70445",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Liobagrus hyeongsanensis",
     "SpecCode": "68019",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Liobagrus somjinensis",
     "SpecCode": "65955",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

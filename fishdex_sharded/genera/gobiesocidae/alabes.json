@@ -2,7 +2,7 @@
   {
     "ScientificName": "Alabes bathys",
     "SpecCode": "64541",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Alabes springeri",
     "SpecCode": "64542",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

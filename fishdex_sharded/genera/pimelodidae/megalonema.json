@@ -2,7 +2,7 @@
   {
     "ScientificName": "Megalonema amaxanthum",
     "SpecCode": "64682",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Megalonema orixanthum",
     "SpecCode": "64683",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Megalonema psammium",
     "SpecCode": "51072",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

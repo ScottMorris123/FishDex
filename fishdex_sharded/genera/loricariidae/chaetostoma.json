@@ -11,7 +11,7 @@
   {
     "ScientificName": "Chaetostoma alternifasciatum",
     "SpecCode": "50012",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Chaetostoma bifurcum",
     "SpecCode": "68092",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Chaetostoma brevilabiatum",
     "SpecCode": "50024",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Chaetostoma changae",
     "SpecCode": "62971",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Chaetostoma daidalmatos",
     "SpecCode": "62965",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Chaetostoma dorsale",
     "SpecCode": "50030",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Chaetostoma floridablancaensis",
     "SpecCode": "69426",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Chaetostoma formosae",
     "SpecCode": "66366",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Chaetostoma joropo",
     "SpecCode": "69044",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -326,7 +326,7 @@
   {
     "ScientificName": "Chaetostoma spondylus",
     "SpecCode": "68114",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Chaetostoma stroumpoulos",
     "SpecCode": "62966",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -380,7 +380,7 @@
   {
     "ScientificName": "Chaetostoma trimaculineum",
     "SpecCode": "68093",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Chaetostoma vasquezi",
     "SpecCode": "57538",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

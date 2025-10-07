@@ -11,7 +11,7 @@
   {
     "ScientificName": "Enneapterygius altipinnis",
     "SpecCode": "69457",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Enneapterygius elaine",
     "SpecCode": "63109",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Enneapterygius genamaculatus",
     "SpecCode": "63111",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Enneapterygius gruschkai",
     "SpecCode": "63112",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Enneapterygius kosiensis",
     "SpecCode": "63113",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Enneapterygius pallidus",
     "SpecCode": "66817",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -461,7 +461,7 @@
   {
     "ScientificName": "Enneapterygius sericus",
     "SpecCode": "70555",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -470,7 +470,7 @@
   {
     "ScientificName": "Enneapterygius shaoi",
     "SpecCode": "64849",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -479,7 +479,7 @@
   {
     "ScientificName": "Enneapterygius sheni",
     "SpecCode": "64848",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -515,7 +515,7 @@
   {
     "ScientificName": "Enneapterygius trisignatus",
     "SpecCode": "61161",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

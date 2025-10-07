@@ -1,0 +1,444 @@
+[
+  {
+    "ScientificName": "Percina antesella",
+    "SpecCode": "3485",
+    "CommonName": "Amber Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina apina",
+    "SpecCode": "68510",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina apristis",
+    "SpecCode": "66708",
+    "CommonName": "Guadalupe darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina aurantiaca",
+    "SpecCode": "3486",
+    "CommonName": "Mandarinsmutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina aurolineata",
+    "SpecCode": "3487",
+    "CommonName": "Goldline Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina aurora",
+    "SpecCode": "58920",
+    "CommonName": "Pearl darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina austroperca",
+    "SpecCode": "58921",
+    "CommonName": "Southern logperch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina bimaculata",
+    "SpecCode": "65086",
+    "CommonName": "Chesapeake logperch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina brevicauda",
+    "SpecCode": "58923",
+    "CommonName": "Coal darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina brucethompsoni",
+    "SpecCode": "67733",
+    "CommonName": "Ouachita darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina burtoni",
+    "SpecCode": "3488",
+    "CommonName": "Blotchside darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina caprodes",
+    "SpecCode": "3489",
+    "CommonName": "Bjælkesmutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina carbonaria",
+    "SpecCode": "10442",
+    "CommonName": "Texas logperch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina copelandi",
+    "SpecCode": "3490",
+    "CommonName": "Channel darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina crassa",
+    "SpecCode": "3491",
+    "CommonName": "Piedmont darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina crypta",
+    "SpecCode": "64808",
+    "CommonName": "Halloween Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina cymatotaenia",
+    "SpecCode": "3492",
+    "CommonName": "Blåstribet smutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina evides",
+    "SpecCode": "3493",
+    "CommonName": "Gilt darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina fulvitaenia",
+    "SpecCode": "62276",
+    "CommonName": "Ozark logperch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina gymnocephala",
+    "SpecCode": "3494",
+    "CommonName": "Appalachia darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina jenkinsi",
+    "SpecCode": "6314",
+    "CommonName": "Conasauga Logperch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina kathae",
+    "SpecCode": "58925",
+    "CommonName": "Mobile logperch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina kusha",
+    "SpecCode": "63482",
+    "CommonName": "Bridled darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina lenticula",
+    "SpecCode": "3495",
+    "CommonName": "Freckled Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina macrocephala",
+    "SpecCode": "3496",
+    "CommonName": "Langhovedet smutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina macrolepida",
+    "SpecCode": "3497",
+    "CommonName": "Bigscale logperch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina maculata",
+    "SpecCode": "3498",
+    "CommonName": "Blackside darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina nasuta",
+    "SpecCode": "3499",
+    "CommonName": "Langnæset smutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina nevisense",
+    "SpecCode": "58926",
+    "CommonName": "Chainback darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina nigrofasciata",
+    "SpecCode": "3500",
+    "CommonName": "Blackbanded darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina notogramma",
+    "SpecCode": "3501",
+    "CommonName": "Rygstribet smutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina oxyrhynchus",
+    "SpecCode": "3503",
+    "CommonName": "Sharpnose darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina palmaris",
+    "SpecCode": "3504",
+    "CommonName": "Bronze darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina pantherina",
+    "SpecCode": "3505",
+    "CommonName": "Leopard Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina peltata",
+    "SpecCode": "3506",
+    "CommonName": "Shield darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina phoxocephala",
+    "SpecCode": "3507",
+    "CommonName": "Slankhovedet smutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina rex",
+    "SpecCode": "3508",
+    "CommonName": "Kongesmutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina roanoka",
+    "SpecCode": "3509",
+    "CommonName": "Roanoke darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina sciera",
+    "SpecCode": "3510",
+    "CommonName": "Dunkel smutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina shumardi",
+    "SpecCode": "3511",
+    "CommonName": "Flodsmutte",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina sipsi",
+    "SpecCode": "63483",
+    "CommonName": "Bankhead darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina smithvanizi",
+    "SpecCode": "63484",
+    "CommonName": "Muscadine Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina squamata",
+    "SpecCode": "3512",
+    "CommonName": "Olive darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina stictogaster",
+    "SpecCode": "56238",
+    "CommonName": "Frecklebelly darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina suttkusi",
+    "SpecCode": "58927",
+    "CommonName": "Gulf logperch",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina tanasi",
+    "SpecCode": "3513",
+    "CommonName": "Snail Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina uranidea",
+    "SpecCode": "3514",
+    "CommonName": "Stargazing Darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina vigil",
+    "SpecCode": "3502",
+    "CommonName": "Saddleback darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Percina williamsi",
+    "SpecCode": "64024",
+    "CommonName": "Sickle darter",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

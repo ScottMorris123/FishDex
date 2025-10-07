@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Pseudobagarius alfredi",
+    "SpecCode": "52534",
+    "CommonName": "阿氏粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius baramensis",
+    "SpecCode": "23306",
+    "CommonName": "巴拉望粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius filifer",
+    "SpecCode": "62566",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius fuscus",
+    "SpecCode": "27398",
+    "CommonName": "灰粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius hardmani",
+    "SpecCode": "62448",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius inermis",
+    "SpecCode": "57782",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius leucorhynchus",
+    "SpecCode": "26975",
+    "CommonName": "白吻粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius macronemus",
+    "SpecCode": "23307",
+    "CommonName": "長鬚粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius meridionalis",
+    "SpecCode": "62046",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius nitidus",
+    "SpecCode": "62567",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius pseudobagarius",
+    "SpecCode": "23308",
+    "CommonName": "似魾粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius similis",
+    "SpecCode": "52535",
+    "CommonName": "似鱨粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius sinensis",
+    "SpecCode": "54772",
+    "CommonName": "Pantajokimonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudobagarius subtilis",
+    "SpecCode": "52537",
+    "CommonName": "細身粒鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

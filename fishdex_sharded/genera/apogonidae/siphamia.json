@@ -2,7 +2,7 @@
   {
     "ScientificName": "Siphamia arabica",
     "SpecCode": "66541",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -93,7 +93,7 @@
   {
     "ScientificName": "Siphamia fraseri",
     "SpecCode": "66544",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Siphamia goreni",
     "SpecCode": "66545",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -156,7 +156,7 @@
   {
     "ScientificName": "Siphamia papuensis",
     "SpecCode": "68974",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -165,7 +165,7 @@
   {
     "ScientificName": "Siphamia randalli",
     "SpecCode": "66549",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -183,7 +183,7 @@
   {
     "ScientificName": "Siphamia senoui",
     "SpecCode": "66550",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

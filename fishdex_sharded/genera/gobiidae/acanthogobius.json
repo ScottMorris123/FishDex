@@ -2,7 +2,7 @@
   {
     "ScientificName": "Acanthogobius elongatus",
     "SpecCode": "67583",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -33,7 +33,7 @@
   {
     "ScientificName": "Acanthogobius insularis",
     "SpecCode": "67376",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Acanthogobius stigmothonus",
     "SpecCode": "69021",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

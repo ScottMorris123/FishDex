@@ -1,0 +1,273 @@
+[
+  {
+    "ScientificName": "Amphiprion akallopisos",
+    "SpecCode": "8017",
+    "CommonName": "Belohrbta klovnska ribica",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion akindynos",
+    "SpecCode": "11959",
+    "CommonName": "Barrier reef anemonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion allardi",
+    "SpecCode": "11836",
+    "CommonName": "Allard's anemonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion barberi",
+    "SpecCode": "64181",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion biaculeatus",
+    "SpecCode": "6632",
+    "CommonName": "Damselfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion bicinctus",
+    "SpecCode": "11837",
+    "CommonName": "Clownfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion chagosensis",
+    "SpecCode": "11838",
+    "CommonName": "Chagos anemonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion chrysogaster",
+    "SpecCode": "11839",
+    "CommonName": "Clown de l'Île Maurice",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion chrysopterus",
+    "SpecCode": "4551",
+    "CommonName": "'Atoti",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion clarkii",
+    "SpecCode": "5448",
+    "CommonName": "A'samak al muharij clark",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion ephippium",
+    "SpecCode": "11840",
+    "CommonName": "Black-backed anemonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion frenatus",
+    "SpecCode": "6522",
+    "CommonName": "Badut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion fuscocaudatus",
+    "SpecCode": "11842",
+    "CommonName": "Poisson-clown des Seychelles",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion latezonatus",
+    "SpecCode": "9206",
+    "CommonName": "Blue-lip anemonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion latifasciatus",
+    "SpecCode": "11844",
+    "CommonName": "Madagascar anemonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion leucokranos",
+    "SpecCode": "9207",
+    "CommonName": "Hvidpandet klovnfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion mccullochi",
+    "SpecCode": "9208",
+    "CommonName": "Hvidsnudet klovnfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion melanopus",
+    "SpecCode": "4654",
+    "CommonName": "Badut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion nigripes",
+    "SpecCode": "7809",
+    "CommonName": "Black-footed clown fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion ocellaris",
+    "SpecCode": "6509",
+    "CommonName": "Almindelig klovnfisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion omanensis",
+    "SpecCode": "11856",
+    "CommonName": "Dhofar clown fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion pacificus",
+    "SpecCode": "65761",
+    "CommonName": "Pacific anemonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion percula",
+    "SpecCode": "9209",
+    "CommonName": "Amfiprion",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion perideraion",
+    "SpecCode": "2024",
+    "CommonName": "Amfiprion zloty",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion polymnus",
+    "SpecCode": "8086",
+    "CommonName": "Badut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion rubrocinctus",
+    "SpecCode": "9212",
+    "CommonName": "Australian anemonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion sandaracinos",
+    "SpecCode": "6523",
+    "CommonName": "Bombin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion sebae",
+    "SpecCode": "11846",
+    "CommonName": "Brown clownfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion thiellei",
+    "SpecCode": "11847",
+    "CommonName": "Thielle's anemonefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amphiprion tricinctus",
+    "SpecCode": "4655",
+    "CommonName": "Maroon clownfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

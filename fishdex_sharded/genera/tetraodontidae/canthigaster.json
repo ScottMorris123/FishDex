@@ -201,7 +201,7 @@
   {
     "ScientificName": "Canthigaster marquesensis",
     "SpecCode": "55005",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -273,7 +273,7 @@
   {
     "ScientificName": "Canthigaster rapaensis",
     "SpecCode": "55008",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

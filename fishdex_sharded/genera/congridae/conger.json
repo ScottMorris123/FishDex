@@ -48,7 +48,7 @@
   {
     "ScientificName": "Conger jordani",
     "SpecCode": "70477",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -75,7 +75,7 @@
   {
     "ScientificName": "Conger monganius",
     "SpecCode": "70487",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

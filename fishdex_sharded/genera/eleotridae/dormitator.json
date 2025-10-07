@@ -2,7 +2,7 @@
   {
     "ScientificName": "Dormitator cubanus",
     "SpecCode": "61518",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -33,7 +33,7 @@
   {
     "ScientificName": "Dormitator lophocephalus",
     "SpecCode": "61520",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

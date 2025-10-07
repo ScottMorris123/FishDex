@@ -2,7 +2,7 @@
   {
     "ScientificName": "Myoglanis aspredinoides",
     "SpecCode": "62181",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Myoglanis koepckei",
     "SpecCode": "57671",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Myoglanis potaroensis",
     "SpecCode": "47778",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

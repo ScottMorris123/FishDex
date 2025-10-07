@@ -1,0 +1,477 @@
+[
+  {
+    "ScientificName": "Salvelinus agassizii",
+    "SpecCode": "6211",
+    "CommonName": "Silver Trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus albus",
+    "SpecCode": "56256",
+    "CommonName": "White char",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus alpinus",
+    "SpecCode": "247",
+    "CommonName": "Akalukpik",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus anaktuvukensis",
+    "SpecCode": "6212",
+    "CommonName": "Alaska-fjeldørred",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus andriashevi",
+    "SpecCode": "48135",
+    "CommonName": "Andriashevs fjeldørred",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus boganidae",
+    "SpecCode": "47701",
+    "CommonName": "Boganida char",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus colii",
+    "SpecCode": "49332",
+    "CommonName": "Cole's charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus confluentus",
+    "SpecCode": "2690",
+    "CommonName": "Bull char",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus curilus",
+    "SpecCode": "62773",
+    "CommonName": "Southern Dolly Varden",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus czerskii",
+    "SpecCode": "47706",
+    "CommonName": "Cherskii's char",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus drjagini",
+    "SpecCode": "47712",
+    "CommonName": "Drjagini paalia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus elgyticus",
+    "SpecCode": "54196",
+    "CommonName": "Small-mouth char",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus evasus",
+    "SpecCode": "62627",
+    "CommonName": "Ammersee saibling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus faroensis",
+    "SpecCode": "65605",
+    "CommonName": "Faroe charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus fimbriatus",
+    "SpecCode": "49334",
+    "CommonName": "Coomasaharn charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus fontinalis",
+    "SpecCode": "246",
+    "CommonName": "Âait",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus gracillimus",
+    "SpecCode": "49339",
+    "CommonName": "Shetland charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus grayi",
+    "SpecCode": "49335",
+    "CommonName": "Gray's charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus gritzenkoi",
+    "SpecCode": "65003",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus inframundus",
+    "SpecCode": "49340",
+    "CommonName": "Orkney charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus jacuticus",
+    "SpecCode": "47714",
+    "CommonName": "Yakut char",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus japonicus",
+    "SpecCode": "10449",
+    "CommonName": "Iwana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus killinensis",
+    "SpecCode": "49341",
+    "CommonName": "Haddy charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus krogiusae",
+    "SpecCode": "62774",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus kronocius",
+    "SpecCode": "62775",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus kuznetzovi",
+    "SpecCode": "62776",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus lepechini",
+    "SpecCode": "65319",
+    "CommonName": "Storröding",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus leucomaenis",
+    "SpecCode": "6411",
+    "CommonName": "Amemasu",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus levanidovi",
+    "SpecCode": "61678",
+    "CommonName": "Citronröding",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus lonsdalii",
+    "SpecCode": "49343",
+    "CommonName": "Haweswater charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus mallochi",
+    "SpecCode": "49344",
+    "CommonName": "Malloch's charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus malma",
+    "SpecCode": "2691",
+    "CommonName": "Belyi golets",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus maxillaris",
+    "SpecCode": "49345",
+    "CommonName": "Large-mouthed charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus murta",
+    "SpecCode": "49346",
+    "CommonName": "Murta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus namaycush",
+    "SpecCode": "248",
+    "CommonName": "Akalukpik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus neiva",
+    "SpecCode": "48136",
+    "CommonName": "Neiva",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus neocomensis",
+    "SpecCode": "62956",
+    "CommonName": "Biblet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus obtusus",
+    "SpecCode": "49359",
+    "CommonName": "Blunt-nosed Irish charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus perisii",
+    "SpecCode": "49361",
+    "CommonName": "Torgoch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus profundus",
+    "SpecCode": "49362",
+    "CommonName": "Bodensee-Tiefensaibling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus salvelinoinsularis",
+    "SpecCode": "65375",
+    "CommonName": "Bear Island charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus schmidti",
+    "SpecCode": "62777",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus struanensis",
+    "SpecCode": "49365",
+    "CommonName": "Rannoch planktivorous charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus taimyricus",
+    "SpecCode": "63001",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus taranetzi",
+    "SpecCode": "63243",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus thingvallensis",
+    "SpecCode": "49367",
+    "CommonName": "Gjámurta",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus tolmachoffi",
+    "SpecCode": "47721",
+    "CommonName": "Esei lake char",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus umbla",
+    "SpecCode": "49369",
+    "CommonName": "Jezerska zlatovčica",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus vasiljevae",
+    "SpecCode": "62670",
+    "CommonName": "Sakhalinian char",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus willoughbii",
+    "SpecCode": "49370",
+    "CommonName": "Autumn Windermere charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salvelinus youngeri",
+    "SpecCode": "49686",
+    "CommonName": "Golden charr",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

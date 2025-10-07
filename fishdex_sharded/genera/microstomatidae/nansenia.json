@@ -2,7 +2,7 @@
   {
     "ScientificName": "Nansenia ahlstromi",
     "SpecCode": "58742",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Nansenia boreacrassicauda",
     "SpecCode": "68461",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

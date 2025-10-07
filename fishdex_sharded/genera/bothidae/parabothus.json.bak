@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Parabothus amaokai",
+    "SpecCode": "52258",
+    "CommonName": "尼岡氏擬鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabothus budkeri",
+    "SpecCode": "52332",
+    "CommonName": "小眼拟鲆",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabothus chlorospilus",
+    "SpecCode": "52259",
+    "CommonName": "扁鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabothus coarctatus",
+    "SpecCode": "15585",
+    "CommonName": "Sumiregarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabothus filipes",
+    "SpecCode": "52241",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabothus kiensis",
+    "SpecCode": "12568",
+    "CommonName": "Kishûdarumagarei",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabothus malhensis",
+    "SpecCode": "52331",
+    "CommonName": "馬爾亨擬鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabothus polylepis",
+    "SpecCode": "24400",
+    "CommonName": "Manyscaled flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabothus rotundifrons",
+    "SpecCode": "69681",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabothus taiwanensis",
+    "SpecCode": "24509",
+    "CommonName": "台湾拟鲆",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

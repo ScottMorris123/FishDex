@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Limatulichthys griseus",
+    "SpecCode": "50663",
+    "CommonName": "Bode cachimbo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Limatulichthys nasarcus",
+    "SpecCode": "67776",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

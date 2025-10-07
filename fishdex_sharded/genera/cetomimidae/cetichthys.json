@@ -11,7 +11,7 @@
   {
     "ScientificName": "Cetichthys parini",
     "SpecCode": "15195",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

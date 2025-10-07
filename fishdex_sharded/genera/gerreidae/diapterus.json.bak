@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Diapterus auratus",
+    "SpecCode": "3563",
+    "CommonName": "Blanche cabuche",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diapterus brevirostris",
+    "SpecCode": "64004",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diapterus peruvianus",
+    "SpecCode": "10430",
+    "CommonName": "Blanche à nageoires jaunes",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Diapterus rhombeus",
+    "SpecCode": "1048",
+    "CommonName": "Acarapeba",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

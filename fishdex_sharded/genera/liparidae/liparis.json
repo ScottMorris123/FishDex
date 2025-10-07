@@ -2,7 +2,7 @@
   {
     "ScientificName": "Liparis adiastolus",
     "SpecCode": "61514",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Liparis brashnikovi",
     "SpecCode": "58814",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Liparis grebnitzkii",
     "SpecCode": "60844",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Liparis kusnetzovi",
     "SpecCode": "58818",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Liparis kussakini",
     "SpecCode": "58819",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -308,7 +308,7 @@
   {
     "ScientificName": "Liparis maculatus",
     "SpecCode": "62290",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -326,7 +326,7 @@
   {
     "ScientificName": "Liparis mednius",
     "SpecCode": "58834",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Liparis meridionalis",
     "SpecCode": "67551",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -443,7 +443,7 @@
   {
     "ScientificName": "Liparis punctatus",
     "SpecCode": "51437",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -470,7 +470,7 @@
   {
     "ScientificName": "Liparis rotundirostris",
     "SpecCode": "58821",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -497,7 +497,7 @@
   {
     "ScientificName": "Liparis schmidti",
     "SpecCode": "58822",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -515,7 +515,7 @@
   {
     "ScientificName": "Liparis tartaricus",
     "SpecCode": "51694",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -533,7 +533,7 @@
   {
     "ScientificName": "Liparis tunicatiformis",
     "SpecCode": "58823",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -552,7 +552,7 @@
   {
     "ScientificName": "Liparis zonatus",
     "SpecCode": "62291",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

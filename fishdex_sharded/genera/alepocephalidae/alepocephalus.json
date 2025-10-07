@@ -29,7 +29,7 @@
   {
     "ScientificName": "Alepocephalus asperifrons",
     "SpecCode": "58903",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Alepocephalus dentifer",
     "SpecCode": "60307",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Alepocephalus melas",
     "SpecCode": "55082",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

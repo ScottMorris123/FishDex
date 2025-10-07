@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Palatogobius grandoculus",
+    "SpecCode": "59792",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Palatogobius incendius",
+    "SpecCode": "70155",
+    "CommonName": "ember goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Palatogobius paradoxus",
+    "SpecCode": "3895",
+    "CommonName": "Mauve goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

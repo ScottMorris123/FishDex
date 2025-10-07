@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Sciaena callaensis",
+    "SpecCode": "61342",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciaena deliciosa",
+    "SpecCode": "53708",
+    "CommonName": "Cholo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sciaena umbra",
+    "SpecCode": "1707",
+    "CommonName": "Acula",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

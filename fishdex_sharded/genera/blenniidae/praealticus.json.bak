@@ -1,0 +1,128 @@
+[
+  {
+    "ScientificName": "Praealticus bilineatus",
+    "SpecCode": "59608",
+    "CommonName": "White-dotted rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus caesius",
+    "SpecCode": "61224",
+    "CommonName": "Blackmargin rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus dayi",
+    "SpecCode": "61230",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus labrovittatus",
+    "SpecCode": "59515",
+    "CommonName": "Crenulate-lipped rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus margaritarius",
+    "SpecCode": "63516",
+    "CommonName": "Tamaginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus margaritatus",
+    "SpecCode": "59663",
+    "CommonName": "Pearly rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus multistriatus",
+    "SpecCode": "61225",
+    "CommonName": "Linedfin rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus natalis",
+    "SpecCode": "6055",
+    "CommonName": "Christmas rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus oortii",
+    "SpecCode": "61223",
+    "CommonName": "Java rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus poptae",
+    "SpecCode": "59516",
+    "CommonName": "Marianas rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus semicrenatus",
+    "SpecCode": "61234",
+    "CommonName": "Lembeh rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus striatus",
+    "SpecCode": "59613",
+    "CommonName": "Striated rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus tanegasimae",
+    "SpecCode": "23770",
+    "CommonName": "Taneginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Praealticus triangulus",
+    "SpecCode": "59658",
+    "CommonName": "Triangle-crest rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

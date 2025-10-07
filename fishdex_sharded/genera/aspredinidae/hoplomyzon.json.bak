@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Hoplomyzon atrizona",
+    "SpecCode": "48648",
+    "CommonName": "棘鰻鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplomyzon cardosoi",
+    "SpecCode": "69941",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplomyzon papillatus",
+    "SpecCode": "48649",
+    "CommonName": "Carachita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplomyzon sexpapilostoma",
+    "SpecCode": "53759",
+    "CommonName": "Kääpiöbanjomonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

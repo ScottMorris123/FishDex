@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Austrofundulus guajira",
+    "SpecCode": "62145",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austrofundulus leohoignei",
+    "SpecCode": "62143",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austrofundulus leoni",
+    "SpecCode": "62144",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austrofundulus limnaeus",
+    "SpecCode": "49484",
+    "CommonName": "Järvikilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austrofundulus myersi",
+    "SpecCode": "62146",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austrofundulus rupununi",
+    "SpecCode": "62142",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Austrofundulus transilis",
+    "SpecCode": "49485",
+    "CommonName": "Metallikilli",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

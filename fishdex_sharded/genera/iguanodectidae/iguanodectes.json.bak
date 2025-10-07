@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Iguanodectes adujai",
+    "SpecCode": "51955",
+    "CommonName": "阿氏蜥形脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iguanodectes geisleri",
+    "SpecCode": "51946",
+    "CommonName": "盖氏蜥形脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iguanodectes gracilis",
+    "SpecCode": "52562",
+    "CommonName": "細身蜥形脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iguanodectes polylepis",
+    "SpecCode": "52563",
+    "CommonName": "多鱗蜥形脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iguanodectes purusii",
+    "SpecCode": "53323",
+    "CommonName": "珀氏蜥形脂鯉",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iguanodectes rachovii",
+    "SpecCode": "57992",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iguanodectes spilurus",
+    "SpecCode": "26466",
+    "CommonName": "Eidechsensalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iguanodectes variatus",
+    "SpecCode": "52564",
+    "CommonName": "杂色蜥形脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

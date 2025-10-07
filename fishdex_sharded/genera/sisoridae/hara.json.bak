@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Hara filamentosa",
+    "SpecCode": "65844",
+    "CommonName": "Kääpiötorpedomonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hara hara",
+    "SpecCode": "24880",
+    "CommonName": "Datari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hara horai",
+    "SpecCode": "24884",
+    "CommonName": "Isohara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hara jerdoni",
+    "SpecCode": "24885",
+    "CommonName": "Deltaflügel-Zwergwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hara koladynensis",
+    "SpecCode": "65080",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hara longissima",
+    "SpecCode": "63614",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hara mesembrina",
+    "SpecCode": "63615",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hara minuscula",
+    "SpecCode": "63616",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hara spinulus",
+    "SpecCode": "63617",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

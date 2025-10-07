@@ -1,0 +1,358 @@
+[
+  {
+    "ScientificName": "Cryptocentrus albidorsus",
+    "SpecCode": "23636",
+    "CommonName": "Shiro-obihaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus altipinna",
+    "SpecCode": "69218",
+    "CommonName": "Highfin shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus bulbiceps",
+    "SpecCode": "61023",
+    "CommonName": "Bluelined shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus caeruleomaculatus",
+    "SpecCode": "25798",
+    "CommonName": "Blue-speckled prawn-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus caeruleopunctatus",
+    "SpecCode": "12748",
+    "CommonName": "Harlekiiniraputokko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus callopterus",
+    "SpecCode": "59824",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus cebuanus",
+    "SpecCode": "59239",
+    "CommonName": "Cebu shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus cinctus",
+    "SpecCode": "7208",
+    "CommonName": "Banded prawn goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus cryptocentrus",
+    "SpecCode": "25797",
+    "CommonName": "Agbalk-dikkop",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus cyanospilotus",
+    "SpecCode": "66996",
+    "CommonName": "Bluespot shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus cyanotaenia",
+    "SpecCode": "56816",
+    "CommonName": "Cá Bống vân má",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus diproctotaenia",
+    "SpecCode": "59241",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus epakros",
+    "SpecCode": "68734",
+    "CommonName": "Pointedfin shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus fasciatus",
+    "SpecCode": "12679",
+    "CommonName": "Barred prawn-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus flavus",
+    "SpecCode": "56154",
+    "CommonName": "Koganehaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus inexplicatus",
+    "SpecCode": "56806",
+    "CommonName": "Black-nape shrimp-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus insignitus",
+    "SpecCode": "61305",
+    "CommonName": "Signal goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus leonis",
+    "SpecCode": "59825",
+    "CommonName": "Karamelliraputokko",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus leptocephalus",
+    "SpecCode": "25799",
+    "CommonName": "Belodok udang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus leucostictus",
+    "SpecCode": "13767",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus lutheri",
+    "SpecCode": "25800",
+    "CommonName": "Luther's prawn-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus malindiensis",
+    "SpecCode": "62035",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus maudae",
+    "SpecCode": "56153",
+    "CommonName": "Maude's shrimpgoby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus melanopus",
+    "SpecCode": "67512",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus multicinctus",
+    "SpecCode": "66997",
+    "CommonName": "Multibarred shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus nanus",
+    "SpecCode": "69236",
+    "CommonName": "Blackdwarf shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus nigrocellatus",
+    "SpecCode": "23637",
+    "CommonName": "Blackspot shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus niveatus",
+    "SpecCode": "61309",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus octofasciatus",
+    "SpecCode": "7235",
+    "CommonName": "Babeczka motylkowa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus pavoninoides",
+    "SpecCode": "59242",
+    "CommonName": "Cá Bống nhiều vân",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus polyophthalmus",
+    "SpecCode": "62659",
+    "CommonName": "Four-blotch shrimp-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus pretiosus",
+    "SpecCode": "61307",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus sericus",
+    "SpecCode": "67818",
+    "CommonName": "Ventral-barred shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus shigensis",
+    "SpecCode": "23641",
+    "CommonName": "Shige shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus steinhardti",
+    "SpecCode": "69774",
+    "CommonName": "Steinhardt's shrimp-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus strigilliceps",
+    "SpecCode": "7209",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus tentaculatus",
+    "SpecCode": "65039",
+    "CommonName": "Tentacle shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus wehrlei",
+    "SpecCode": "59826",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cryptocentrus yatsui",
+    "SpecCode": "59243",
+    "CommonName": "台湾丝鰕虎鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

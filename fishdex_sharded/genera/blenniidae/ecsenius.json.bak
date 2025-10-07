@@ -1,0 +1,488 @@
+[
+  {
+    "ScientificName": "Ecsenius aequalis",
+    "SpecCode": "12632",
+    "CommonName": "Fourline blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius alleni",
+    "SpecCode": "27296",
+    "CommonName": "Allen's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius aroni",
+    "SpecCode": "25794",
+    "CommonName": "Aron´s Kammzähner",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius australianus",
+    "SpecCode": "13756",
+    "CommonName": "Australian blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius axelrodi",
+    "SpecCode": "14660",
+    "CommonName": "Axelrod's clown blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius bandanus",
+    "SpecCode": "12633",
+    "CommonName": "Banda clown blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius bathi",
+    "SpecCode": "12692",
+    "CommonName": "Bath's comb-tooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius bicolor",
+    "SpecCode": "6033",
+    "CommonName": "Bicolor blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius bimaculatus",
+    "SpecCode": "7668",
+    "CommonName": "Bleni dwitompok",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius caeruliventris",
+    "SpecCode": "62148",
+    "CommonName": "Bluebelly blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius collettei",
+    "SpecCode": "27537",
+    "CommonName": "Collete's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius dentex",
+    "SpecCode": "27295",
+    "CommonName": "Dentex blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius dilemma",
+    "SpecCode": "7667",
+    "CommonName": "Philippinen-Kammzähner",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius fijiensis",
+    "SpecCode": "47382",
+    "CommonName": "斐济异齿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius fourmanoiri",
+    "SpecCode": "27370",
+    "CommonName": "Blackstriped combtooth blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius frontalis",
+    "SpecCode": "12634",
+    "CommonName": "Smooth-fin blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius gravieri",
+    "SpecCode": "12635",
+    "CommonName": "Mimikry-Kammzähner",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius isos",
+    "SpecCode": "47384",
+    "CommonName": "伊索异齿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius kurti",
+    "SpecCode": "7670",
+    "CommonName": "Kurt's coralblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius lineatus",
+    "SpecCode": "7567",
+    "CommonName": "Bleni garis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius lividanalis",
+    "SpecCode": "7661",
+    "CommonName": "Blackass blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius lubbocki",
+    "SpecCode": "47385",
+    "CommonName": "Lubbock's combtooth-blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius mandibularis",
+    "SpecCode": "13759",
+    "CommonName": "Many-toothed blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius melarchus",
+    "SpecCode": "7662",
+    "CommonName": "Bleni celak kuning",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius midas",
+    "SpecCode": "7561",
+    "CommonName": "Bavosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius minutus",
+    "SpecCode": "12636",
+    "CommonName": "Halsband-Kammzähner",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius monoculus",
+    "SpecCode": "7666",
+    "CommonName": "Monocle coralblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius nalolo",
+    "SpecCode": "25451",
+    "CommonName": "Mjidi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius namiyei",
+    "SpecCode": "7664",
+    "CommonName": "Black comb-tooth",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius niue",
+    "SpecCode": "61237",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius oculatus",
+    "SpecCode": "27278",
+    "CommonName": "Coral blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius oculus",
+    "SpecCode": "7568",
+    "CommonName": "Coral blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius ops",
+    "SpecCode": "61238",
+    "CommonName": "Eye-spot blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius opsifrontalis",
+    "SpecCode": "6034",
+    "CommonName": "Comical blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius pardus",
+    "SpecCode": "27280",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius paroculus",
+    "SpecCode": "14661",
+    "CommonName": "Augen-Kammzähner",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius pictus",
+    "SpecCode": "7669",
+    "CommonName": "Nadelstreifen-Kammzähner",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius polystictus",
+    "SpecCode": "61239",
+    "CommonName": "Andaman combtooth-blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius portenoyi",
+    "SpecCode": "27293",
+    "CommonName": "波氏异齿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius prooculis",
+    "SpecCode": "27538",
+    "CommonName": "Striped coralblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius pulcher",
+    "SpecCode": "27276",
+    "CommonName": "Gulf blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius randalli",
+    "SpecCode": "58171",
+    "CommonName": "伦氏异齿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius schroederi",
+    "SpecCode": "13048",
+    "CommonName": "Schroeder's combtooth blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius sellifer",
+    "SpecCode": "6035",
+    "CommonName": "Saddle blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius shirleyae",
+    "SpecCode": "62149",
+    "CommonName": "Shirley's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius springeri",
+    "SpecCode": "69217",
+    "CommonName": "Springer's coral blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius stictus",
+    "SpecCode": "13760",
+    "CommonName": "Barriere-Riff-Kammzähner",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius stigmatura",
+    "SpecCode": "7663",
+    "CommonName": "Tail-spot combtooth-blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius taeniatus",
+    "SpecCode": "47386",
+    "CommonName": "White-lined coralblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius tessera",
+    "SpecCode": "27294",
+    "CommonName": "新喀里多尼亚异齿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius tigris",
+    "SpecCode": "12638",
+    "CommonName": "Tiger blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius tricolor",
+    "SpecCode": "59858",
+    "CommonName": "Derawan combtooth-blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius trilineatus",
+    "SpecCode": "12640",
+    "CommonName": "Three-lined blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ecsenius yaeyamaensis",
+    "SpecCode": "6036",
+    "CommonName": "Bleni Yaeyama",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

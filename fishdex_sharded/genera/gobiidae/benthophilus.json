@@ -11,7 +11,7 @@
   {
     "ScientificName": "Benthophilus casachicus",
     "SpecCode": "61546",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -59,7 +59,7 @@
   {
     "ScientificName": "Benthophilus kessleri",
     "SpecCode": "48277",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -135,7 +135,7 @@
   {
     "ScientificName": "Benthophilus persicus",
     "SpecCode": "69772",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],
@@ -144,7 +144,7 @@
   {
     "ScientificName": "Benthophilus ragimovi",
     "SpecCode": "62057",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -172,7 +172,7 @@
   {
     "ScientificName": "Benthophilus svetovidovi",
     "SpecCode": "55532",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],

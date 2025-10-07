@@ -47,7 +47,7 @@
   {
     "ScientificName": "Iguanodectes rachovii",
     "SpecCode": "57992",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

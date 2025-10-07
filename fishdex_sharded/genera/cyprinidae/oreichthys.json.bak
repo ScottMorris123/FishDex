@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Oreichthys andrewi",
+    "SpecCode": "67286",
+    "CommonName": "Assami idamaimik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreichthys coorgensis",
+    "SpecCode": "67980",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreichthys cosuatis",
+    "SpecCode": "24052",
+    "CommonName": "Cosuatis barb",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreichthys crenuchoides",
+    "SpecCode": "65188",
+    "CommonName": "Lippuim-idamaimik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreichthys duospilus",
+    "SpecCode": "67978",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreichthys incognito",
+    "SpecCode": "67979",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Oreichthys parvus",
+    "SpecCode": "50497",
+    "CommonName": "Kosuati malý",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

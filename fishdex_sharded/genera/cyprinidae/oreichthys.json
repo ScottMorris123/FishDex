@@ -11,7 +11,7 @@
   {
     "ScientificName": "Oreichthys coorgensis",
     "SpecCode": "67980",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Oreichthys duospilus",
     "SpecCode": "67978",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Oreichthys incognito",
     "SpecCode": "67979",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

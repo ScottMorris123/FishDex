@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Compsaraia compsa",
+    "SpecCode": "47920",
+    "CommonName": "华美背孔电鳗",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Compsaraia iara",
+    "SpecCode": "68610",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Compsaraia samueli",
+    "SpecCode": "64860",
+    "CommonName": "Pelican Knifefish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Phreatobius cisternarum",
+    "SpecCode": "61464",
+    "CommonName": "Amazonase lättesäga",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phreatobius dracunculus",
+    "SpecCode": "63574",
+    "CommonName": "Lohe-lättesäga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phreatobius sanguijuela",
+    "SpecCode": "63533",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

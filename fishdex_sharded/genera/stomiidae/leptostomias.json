@@ -2,7 +2,7 @@
   {
     "ScientificName": "Leptostomias analis",
     "SpecCode": "58243",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Leptostomias bermudensis",
     "SpecCode": "58248",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Leptostomias leptobolus",
     "SpecCode": "27415",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Leptostomias macropogon",
     "SpecCode": "61153",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

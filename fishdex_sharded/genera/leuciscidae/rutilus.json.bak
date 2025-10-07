@@ -1,0 +1,87 @@
+[
+  {
+    "ScientificName": "Rutilus caspicus",
+    "SpecCode": "65244",
+    "CommonName": "Caspian roach",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rutilus frisii",
+    "SpecCode": "8416",
+    "CommonName": "Black Sea roach",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rutilus heckelii",
+    "SpecCode": "65242",
+    "CommonName": "Taran",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rutilus kutum",
+    "SpecCode": "65243",
+    "CommonName": "Kutum",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rutilus meidingeri",
+    "SpecCode": "26088",
+    "CommonName": "Black Sea roach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rutilus pigus",
+    "SpecCode": "8418",
+    "CommonName": "Danube roach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rutilus rutilus",
+    "SpecCode": "272",
+    "CommonName": "Almindelig skalle",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rutilus stoumboudae",
+    "SpecCode": "67806",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rutilus virgo",
+    "SpecCode": "65245",
+    "CommonName": "Cactus roach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "ScientificName": "Leiognathus brevirostris",
+    "SpecCode": "4810",
+    "CommonName": "Barurog",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiognathus equula",
+    "SpecCode": "4451",
+    "CommonName": "Almindelig ponyfisk",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiognathus parviceps",
+    "SpecCode": "59091",
+    "CommonName": "細頭鰏",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leiognathus robustus",
+    "SpecCode": "64825",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

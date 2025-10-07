@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Guyanancistrus brevispinis",
+    "SpecCode": "48198",
+    "CommonName": "Aoutombo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guyanancistrus brownsbergensis",
+    "SpecCode": "68689",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guyanancistrus megastictus",
+    "SpecCode": "68693",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guyanancistrus nassauensis",
+    "SpecCode": "68688",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guyanancistrus tenuis",
+    "SpecCode": "68692",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Guyanancistrus teretirostris",
+    "SpecCode": "68690",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

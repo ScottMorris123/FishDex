@@ -1,0 +1,224 @@
+[
+  {
+    "ScientificName": "Citharichthys abbotti",
+    "SpecCode": "58945",
+    "CommonName": "Lenguado veracruzano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys amblybregmatus",
+    "SpecCode": "59549",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys arctifrons",
+    "SpecCode": "4209",
+    "CommonName": "Gulf Stream flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys arenaceus",
+    "SpecCode": "4210",
+    "CommonName": "Lenguado arenero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys cornutus",
+    "SpecCode": "4211",
+    "CommonName": "Horned Whiff",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys darwini",
+    "SpecCode": "66799",
+    "CommonName": "Darwin's sanddab",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys dinoceros",
+    "SpecCode": "57910",
+    "CommonName": "Doublespot whiff",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys fragilis",
+    "SpecCode": "4212",
+    "CommonName": "Gulf sanddab",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys gilberti",
+    "SpecCode": "13942",
+    "CommonName": "Bigmouth sanddab",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys gnathus",
+    "SpecCode": "59550",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys gordae",
+    "SpecCode": "13945",
+    "CommonName": "Lenguado arenero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys gymnorhinus",
+    "SpecCode": "4213",
+    "CommonName": "Anglefin Whiff",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys macrops",
+    "SpecCode": "4214",
+    "CommonName": "Lenguado manchado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys mariajorisae",
+    "SpecCode": "58221",
+    "CommonName": "Five-rayed sanddab",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys minutus",
+    "SpecCode": "59554",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys platophrys",
+    "SpecCode": "13947",
+    "CommonName": "Lenguado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys sordidus",
+    "SpecCode": "4215",
+    "CommonName": "Cardine de Californie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys spilopterus",
+    "SpecCode": "4216",
+    "CommonName": "Arepa playera",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys stampflii",
+    "SpecCode": "4942",
+    "CommonName": "Baa safuno",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys stigmaeus",
+    "SpecCode": "4217",
+    "CommonName": "Cytara plamista",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys surinamensis",
+    "SpecCode": "59547",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys uhleri",
+    "SpecCode": "58959",
+    "CommonName": "Flounder",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys valdezi",
+    "SpecCode": "47512",
+    "CommonName": "伐氏副棘鮃",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Citharichthys xanthostigma",
+    "SpecCode": "4218",
+    "CommonName": "Långfenad sandvar",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

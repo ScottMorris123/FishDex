@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Pyronotanthias aurulentus",
+    "SpecCode": "46511",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pyronotanthias bimarginatus",
+    "SpecCode": "66090",
+    "CommonName": "Margined anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pyronotanthias flavoguttatus",
+    "SpecCode": "23430",
+    "CommonName": "Asahi-hanagoi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pyronotanthias lori",
+    "SpecCode": "7456",
+    "CommonName": "Akaboshi-hanagoi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pyronotanthias parvirostris",
+    "SpecCode": "25682",
+    "CommonName": "Diadeem-lippahven",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pyronotanthias privitera",
+    "SpecCode": "60822",
+    "CommonName": "Privitera's fairy basslet",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pyronotanthias smithvanizi",
+    "SpecCode": "7460",
+    "CommonName": "Ôten-hanagoi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pyronotanthias timanoa",
+    "SpecCode": "69238",
+    "CommonName": "Sunrise Anthias",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pyronotanthias unimarginatus",
+    "SpecCode": "66091",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

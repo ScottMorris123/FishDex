@@ -140,7 +140,7 @@
   {
     "ScientificName": "Stolephorus continentalis",
     "SpecCode": "69961",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

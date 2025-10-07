@@ -11,7 +11,7 @@
   {
     "ScientificName": "Patagonotothen canina",
     "SpecCode": "65898",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Patagonotothen elegans",
     "SpecCode": "55274",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Patagonotothen jordani",
     "SpecCode": "55272",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Patagonotothen shagensis",
     "SpecCode": "54743",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Patagonotothen squamiceps",
     "SpecCode": "55268",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Patagonotothen trigramma",
     "SpecCode": "60950",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

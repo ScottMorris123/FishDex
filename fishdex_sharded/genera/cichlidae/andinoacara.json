@@ -11,7 +11,7 @@
   {
     "ScientificName": "Andinoacara blombergi",
     "SpecCode": "67109",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Andinoacara stalsbergi",
     "SpecCode": "65199",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

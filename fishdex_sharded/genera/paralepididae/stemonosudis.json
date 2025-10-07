@@ -2,7 +2,7 @@
   {
     "ScientificName": "Stemonosudis bullisi",
     "SpecCode": "58763",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Stemonosudis distans",
     "SpecCode": "58875",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Stemonosudis elongata",
     "SpecCode": "63603",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Stemonosudis molesta",
     "SpecCode": "49273",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

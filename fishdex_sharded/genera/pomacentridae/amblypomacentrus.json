@@ -47,7 +47,7 @@
   {
     "ScientificName": "Amblypomacentrus vietnamicus",
     "SpecCode": "65030",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

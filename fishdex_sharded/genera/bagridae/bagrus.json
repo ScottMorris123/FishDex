@@ -74,7 +74,7 @@
   {
     "ScientificName": "Bagrus tucumanus",
     "SpecCode": "66126",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

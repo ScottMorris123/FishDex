@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gilbertolus alatus",
+    "SpecCode": "54580",
+    "CommonName": "Boquiancha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gilbertolus atratoensis",
+    "SpecCode": "54595",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gilbertolus maracaiboensis",
+    "SpecCode": "48632",
+    "CommonName": "Jibao",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

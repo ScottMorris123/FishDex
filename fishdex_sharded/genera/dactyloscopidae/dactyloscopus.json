@@ -30,7 +30,7 @@
   {
     "ScientificName": "Dactyloscopus comptus",
     "SpecCode": "50471",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -48,7 +48,7 @@
   {
     "ScientificName": "Dactyloscopus elongatus",
     "SpecCode": "66062",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -57,7 +57,7 @@
   {
     "ScientificName": "Dactyloscopus fallax",
     "SpecCode": "66063",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Dactyloscopus heraldi",
     "SpecCode": "66061",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -93,7 +93,7 @@
   {
     "ScientificName": "Dactyloscopus insulatus",
     "SpecCode": "66065",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

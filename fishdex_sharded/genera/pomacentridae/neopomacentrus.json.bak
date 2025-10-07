@@ -1,0 +1,167 @@
+[
+  {
+    "ScientificName": "Neopomacentrus aktites",
+    "SpecCode": "68697",
+    "CommonName": "Western Australian demoiselle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus anabatoides",
+    "SpecCode": "10224",
+    "CommonName": "Betok laut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus aquadulcis",
+    "SpecCode": "61080",
+    "CommonName": "Sweetwater demoiselle",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus azysron",
+    "SpecCode": "10227",
+    "CommonName": "Orange-tailed damsel-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus bankieri",
+    "SpecCode": "12458",
+    "CommonName": "Chinese damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus cyanomos",
+    "SpecCode": "8209",
+    "CommonName": "Crescent damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus fallax",
+    "SpecCode": "22826",
+    "CommonName": "Violet damsel",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus filamentosus",
+    "SpecCode": "12459",
+    "CommonName": "Blue-spotted demoiselle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus flavicauda",
+    "SpecCode": "70460",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus fuliginosus",
+    "SpecCode": "12460",
+    "CommonName": "African demoiselle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus metallicus",
+    "SpecCode": "10228",
+    "CommonName": "guru",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus miryae",
+    "SpecCode": "12461",
+    "CommonName": "Miry´s Demoiselle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus nemurus",
+    "SpecCode": "12462",
+    "CommonName": "Bombin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus sindensis",
+    "SpecCode": "12463",
+    "CommonName": "Arabian demoiselle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus sororius",
+    "SpecCode": "62948",
+    "CommonName": "Twin demoiselle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus taeniurus",
+    "SpecCode": "5705",
+    "CommonName": "Blue ribbon demoiselle",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus violascens",
+    "SpecCode": "5706",
+    "CommonName": "guru",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neopomacentrus xanthurus",
+    "SpecCode": "12464",
+    "CommonName": "Red Sea demoiselle",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

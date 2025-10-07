@@ -1,0 +1,375 @@
+[
+  {
+    "ScientificName": "Hemibagrus amemiyai",
+    "SpecCode": "50963",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus baramensis",
+    "SpecCode": "23073",
+    "CommonName": "巴兰半鲿",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus bongan",
+    "SpecCode": "27391",
+    "CommonName": "邦加半鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus camthuyensis",
+    "SpecCode": "65674",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus caveatus",
+    "SpecCode": "60724",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus centralus",
+    "SpecCode": "60725",
+    "CommonName": "Cá Lặng miền trung",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus chiemhoaensis",
+    "SpecCode": "65677",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus chrysops",
+    "SpecCode": "60726",
+    "CommonName": "Aurinkojuovamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus divaricatus",
+    "SpecCode": "66814",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus dongbacensis",
+    "SpecCode": "65681",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus filamentus",
+    "SpecCode": "58032",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus fortis",
+    "SpecCode": "63085",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus furcatus",
+    "SpecCode": "58052",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus gracilis",
+    "SpecCode": "27257",
+    "CommonName": "細身半鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus guttatus",
+    "SpecCode": "14479",
+    "CommonName": "°ßµã÷Ÿ",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus hainanensis",
+    "SpecCode": "63630",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus hoevenii",
+    "SpecCode": "27392",
+    "CommonName": "霍氏半鱨",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus hongus",
+    "SpecCode": "60728",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus imbrifer",
+    "SpecCode": "58678",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus johorensis",
+    "SpecCode": "63632",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus lacustrinus",
+    "SpecCode": "66816",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus macropterus",
+    "SpecCode": "52976",
+    "CommonName": "大鰭鱯",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus maydelli",
+    "SpecCode": "58670",
+    "CommonName": "Haddu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus menoda",
+    "SpecCode": "24725",
+    "CommonName": "Arwari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus microphthalmus",
+    "SpecCode": "13307",
+    "CommonName": "Irrawaddy mystus",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus nemurus",
+    "SpecCode": "5427",
+    "CommonName": "Asian redtail catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus olyroides",
+    "SpecCode": "23076",
+    "CommonName": "Patik kerapak",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus peguensis",
+    "SpecCode": "24726",
+    "CommonName": "Sittang mystus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus planiceps",
+    "SpecCode": "23078",
+    "CommonName": "Baung kuning",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus pluriradiatus",
+    "SpecCode": "50977",
+    "CommonName": "越鱯",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus punctatus",
+    "SpecCode": "13319",
+    "CommonName": "Haddu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus sabanus",
+    "SpecCode": "23080",
+    "CommonName": "薛巴半鰭",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus semotus",
+    "SpecCode": "66812",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus songdaensis",
+    "SpecCode": "65726",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus spilopterus",
+    "SpecCode": "58037",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus taybacensis",
+    "SpecCode": "65729",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus variegatus",
+    "SpecCode": "58680",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus velox",
+    "SpecCode": "60070",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus vietnamicus",
+    "SpecCode": "60727",
+    "CommonName": "越南半鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus wyckii",
+    "SpecCode": "16107",
+    "CommonName": "Baung burai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemibagrus wyckioides",
+    "SpecCode": "26973",
+    "CommonName": "Chhar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

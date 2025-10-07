@@ -2,7 +2,7 @@
   {
     "ScientificName": "Nannoxyropsis acicula",
     "SpecCode": "68785",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Nannoxyropsis ephippia",
     "SpecCode": "68787",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

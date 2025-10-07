@@ -1,0 +1,76 @@
+[
+  {
+    "ScientificName": "Gagata cenia",
+    "SpecCode": "13363",
+    "CommonName": "Assam-Clownwels",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gagata dolichonema",
+    "SpecCode": "60088",
+    "CommonName": "Blackfin sisorid-catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gagata gagata",
+    "SpecCode": "24829",
+    "CommonName": "Bengalinperhosmonni",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gagata itchkeea",
+    "SpecCode": "13389",
+    "CommonName": "Bande-girlu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gagata melanopterus",
+    "SpecCode": "55589",
+    "CommonName": "Platinaperhosmonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gagata pakistanica",
+    "SpecCode": "61825",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gagata sexualis",
+    "SpecCode": "24830",
+    "CommonName": "Buhani",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gagata youssoufi",
+    "SpecCode": "60095",
+    "CommonName": "Catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

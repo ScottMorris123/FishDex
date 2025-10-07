@@ -2,7 +2,7 @@
   {
     "ScientificName": "Photostomias atrox",
     "SpecCode": "63863",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Photostomias goodyeari",
     "SpecCode": "63842",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Photostomias liemi",
     "SpecCode": "64874",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Photostomias lucingens",
     "SpecCode": "64875",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Photostomias tantillux",
     "SpecCode": "64871",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

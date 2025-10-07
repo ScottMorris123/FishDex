@@ -1,0 +1,704 @@
+[
+  {
+    "ScientificName": "Opistognathus adelus",
+    "SpecCode": "65788",
+    "CommonName": "Obscure jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus afer",
+    "SpecCode": "65789",
+    "CommonName": "African jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus albicaudatus",
+    "SpecCode": "66313",
+    "CommonName": "Whitetail jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus albomaculatus",
+    "SpecCode": "70315",
+    "CommonName": "Whitespotted jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus alleni",
+    "SpecCode": "64720",
+    "CommonName": "Abrolhos jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus asper",
+    "SpecCode": "70316",
+    "CommonName": "Ashmore jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus aurifrons",
+    "SpecCode": "3684",
+    "CommonName": "Guardián cabeziamarillo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus aurolineatus",
+    "SpecCode": "70350",
+    "CommonName": "Threestripe jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus bathyphilus",
+    "SpecCode": "70351",
+    "CommonName": "Lansdowne jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus biporus",
+    "SpecCode": "70352",
+    "CommonName": "Bipored jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus brasiliensis",
+    "SpecCode": "54310",
+    "CommonName": "Darkfin jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus brochus",
+    "SpecCode": "64729",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus castelnaui",
+    "SpecCode": "10356",
+    "CommonName": "Castelnau's jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus challenger",
+    "SpecCode": "70353",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus crassus",
+    "SpecCode": "65796",
+    "CommonName": "Stout jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus cuvierii",
+    "SpecCode": "50137",
+    "CommonName": "Båndhalet kæbefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus cyanospilotus",
+    "SpecCode": "65631",
+    "CommonName": "Blueblotch jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus darwiniensis",
+    "SpecCode": "59066",
+    "CommonName": "Darwin jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus decorus",
+    "SpecCode": "50817",
+    "CommonName": "Irezumi-amadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus dendriticus",
+    "SpecCode": "59041",
+    "CommonName": "Dendtric jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus dipharus",
+    "SpecCode": "65797",
+    "CommonName": "Tail beacon jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus elizabethensis",
+    "SpecCode": "64725",
+    "CommonName": "Elizabeth jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus ensiferus",
+    "SpecCode": "70227",
+    "CommonName": "Mannar jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus erdmanni",
+    "SpecCode": "70356",
+    "CommonName": "Erdmann's jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus evermanni",
+    "SpecCode": "23508",
+    "CommonName": "Niji-amadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus eximius",
+    "SpecCode": "59038",
+    "CommonName": "Harlequin smiler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus fenmutis",
+    "SpecCode": "59083",
+    "CommonName": "哥伦比亚后颌鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus fossoris",
+    "SpecCode": "64731",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus galapagensis",
+    "SpecCode": "46576",
+    "CommonName": "Galapagos jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus gilberti",
+    "SpecCode": "16444",
+    "CommonName": "Gul kæbefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus hongkongiensis",
+    "SpecCode": "59033",
+    "CommonName": "香港后颌鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus hopkinsi",
+    "SpecCode": "23507",
+    "CommonName": "Ago-amadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus inornatus",
+    "SpecCode": "59035",
+    "CommonName": "Black jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus iyonis",
+    "SpecCode": "23506",
+    "CommonName": "Nirami-amadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus jacksoniensis",
+    "SpecCode": "49413",
+    "CommonName": "Smiler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus latitabundus",
+    "SpecCode": "10862",
+    "CommonName": "Blotched jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus leprocarus",
+    "SpecCode": "54308",
+    "CommonName": "Roughcheek jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus liturus",
+    "SpecCode": "50819",
+    "CommonName": "Seto-amadai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus lonchurus",
+    "SpecCode": "3685",
+    "CommonName": "Bocón bigote",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus longinaris",
+    "SpecCode": "65798",
+    "CommonName": "Long nostril jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus macrognathus",
+    "SpecCode": "3686",
+    "CommonName": "Banded jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus macrolepis",
+    "SpecCode": "59036",
+    "CommonName": "Bigscale jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus margaretae",
+    "SpecCode": "16910",
+    "CommonName": "Halfscaled jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus maxillosus",
+    "SpecCode": "3687",
+    "CommonName": "Bocón moteado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus megalepis",
+    "SpecCode": "59037",
+    "CommonName": "Bocón escamón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus melachasme",
+    "SpecCode": "3688",
+    "CommonName": "Gulmundet kæbefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus mexicanus",
+    "SpecCode": "46577",
+    "CommonName": "Bocón mexicano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus muscatensis",
+    "SpecCode": "8000",
+    "CommonName": "Jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus nigromarginatus",
+    "SpecCode": "16913",
+    "CommonName": "Birdled jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus nothus",
+    "SpecCode": "54309",
+    "CommonName": "Yellowmouth Jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus ocellicaudatus",
+    "SpecCode": "70318",
+    "CommonName": "Eyespottail jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus panamaensis",
+    "SpecCode": "46557",
+    "CommonName": "Panama-kæbefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus papuensis",
+    "SpecCode": "13508",
+    "CommonName": "Papua-kæbefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus pardus",
+    "SpecCode": "67473",
+    "CommonName": "Leopard jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus punctatus",
+    "SpecCode": "6414",
+    "CommonName": "Boca grande",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus randalli",
+    "SpecCode": "65634",
+    "CommonName": "Gold-specs jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus reticeps",
+    "SpecCode": "64727",
+    "CommonName": "Reticulated jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus reticulatus",
+    "SpecCode": "59065",
+    "CommonName": "Leopard jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus rhomaleus",
+    "SpecCode": "46572",
+    "CommonName": "Bocón azul",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus robinsi",
+    "SpecCode": "54311",
+    "CommonName": "Pletfinnet kæbefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus rosenbergii",
+    "SpecCode": "59028",
+    "CommonName": "Rosenberg's jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus rosenblatti",
+    "SpecCode": "46578",
+    "CommonName": "Blåplettet kæbefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus rufilineatus",
+    "SpecCode": "64578",
+    "CommonName": "Red-Lined Jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus schrieri",
+    "SpecCode": "68564",
+    "CommonName": "Curaçao jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus scops",
+    "SpecCode": "46553",
+    "CommonName": "Bocón ocelado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus seminudus",
+    "SpecCode": "64722",
+    "CommonName": "Halfnaked jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus signatus",
+    "SpecCode": "54313",
+    "CommonName": "鬼后颌鰧",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus simus",
+    "SpecCode": "65799",
+    "CommonName": "Cargados jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus smithvanizi",
+    "SpecCode": "64728",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus solorensis",
+    "SpecCode": "59030",
+    "CommonName": "Solor jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus stigmosus",
+    "SpecCode": "64723",
+    "CommonName": "coral sea jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus thionyi",
+    "SpecCode": "70319",
+    "CommonName": "Peixe bocão do Thiony",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus trimaculatus",
+    "SpecCode": "70317",
+    "CommonName": "Threespot jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus variabilis",
+    "SpecCode": "65635",
+    "CommonName": "Variable jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus verecundus",
+    "SpecCode": "64726",
+    "CommonName": "Bashful jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus vicinus",
+    "SpecCode": "70321",
+    "CommonName": "Brazilian dusky jawfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus walkeri",
+    "SpecCode": "64730",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Opistognathus whitehursti",
+    "SpecCode": "3689",
+    "CommonName": "Bocón prieto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

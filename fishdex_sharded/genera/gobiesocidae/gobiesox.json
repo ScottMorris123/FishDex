@@ -155,7 +155,7 @@
   {
     "ScientificName": "Gobiesox milleri",
     "SpecCode": "60717",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Gobiesox stenocephalus",
     "SpecCode": "60716",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

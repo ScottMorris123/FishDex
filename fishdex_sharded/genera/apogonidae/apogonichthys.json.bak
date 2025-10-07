@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Apogonichthys infuscus",
+    "SpecCode": "70433",
+    "CommonName": "Tan cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogonichthys landoni",
+    "SpecCode": "59775",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogonichthys ocellatus",
+    "SpecCode": "5740",
+    "CommonName": "Bagsang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogonichthys perdix",
+    "SpecCode": "5741",
+    "CommonName": "Bagsang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

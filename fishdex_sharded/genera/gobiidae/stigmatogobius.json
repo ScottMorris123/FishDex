@@ -2,7 +2,7 @@
   {
     "ScientificName": "Stigmatogobius borneensis",
     "SpecCode": "25115",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -12,7 +12,7 @@
   {
     "ScientificName": "Stigmatogobius elegans",
     "SpecCode": "62708",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -21,7 +21,7 @@
   {
     "ScientificName": "Stigmatogobius pleurostigma",
     "SpecCode": "25118",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -51,7 +51,7 @@
   {
     "ScientificName": "Stigmatogobius signifer",
     "SpecCode": "62709",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

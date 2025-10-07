@@ -1,0 +1,787 @@
+[
+  {
+    "ScientificName": "Parapercis albipinna",
+    "SpecCode": "64834",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis albiventer",
+    "SpecCode": "67651",
+    "CommonName": "Whitebelly sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis alboguttata",
+    "SpecCode": "8188",
+    "CommonName": "Amome Toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis allporti",
+    "SpecCode": "14428",
+    "CommonName": "Allport's grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis altipinnis",
+    "SpecCode": "68669",
+    "CommonName": "Karen's sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis atlantica",
+    "SpecCode": "22573",
+    "CommonName": "大西洋拟鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis aurantiaca",
+    "SpecCode": "23551",
+    "CommonName": "Aka-toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis australis",
+    "SpecCode": "62212",
+    "CommonName": "Southern grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis banoni",
+    "SpecCode": "63985",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis basimaculata",
+    "SpecCode": "63763",
+    "CommonName": "Sehoshi-toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis bicoloripes",
+    "SpecCode": "65993",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis bimacula",
+    "SpecCode": "66872",
+    "CommonName": "Redbar sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis binivirgata",
+    "SpecCode": "61097",
+    "CommonName": "Redbanded grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis binotata",
+    "SpecCode": "68351",
+    "CommonName": "Solomons sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis biordinis",
+    "SpecCode": "61092",
+    "CommonName": "Double-row grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis caudopellucida",
+    "SpecCode": "68410",
+    "CommonName": "Andaman sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis clathrata",
+    "SpecCode": "6561",
+    "CommonName": "False-eye grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis colemani",
+    "SpecCode": "46525",
+    "CommonName": "科氏拟鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis colias",
+    "SpecCode": "464",
+    "CommonName": "Blue cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis compressa",
+    "SpecCode": "64842",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis cylindrica",
+    "SpecCode": "6562",
+    "CommonName": "Banghotin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis decemfasciata",
+    "SpecCode": "23554",
+    "CommonName": "No-rang-yǒl-dong-ga-ri",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis diagonalis",
+    "SpecCode": "64843",
+    "CommonName": "Diagonal sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis diplospilus",
+    "SpecCode": "59274",
+    "CommonName": "Doublespot grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis dockinsi",
+    "SpecCode": "50148",
+    "CommonName": "Juan Fernandez-sandabborre",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis dongshaensis",
+    "SpecCode": "69327",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis filamentosa",
+    "SpecCode": "8407",
+    "CommonName": "Belukor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis flavescens",
+    "SpecCode": "61094",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis flavipinna",
+    "SpecCode": "68409",
+    "CommonName": "Yellowfin sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis flavolabiata",
+    "SpecCode": "63534",
+    "CommonName": "Yellowlip grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis flavolineata",
+    "SpecCode": "64844",
+    "CommonName": "Yellowline sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis fuscolineata",
+    "SpecCode": "61095",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis gilliesii",
+    "SpecCode": "47435",
+    "CommonName": "Yellow weaver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis haackei",
+    "SpecCode": "14430",
+    "CommonName": "Wavy weever",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis hexophtalma",
+    "SpecCode": "7866",
+    "CommonName": "Alathandu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis hoi",
+    "SpecCode": "68411",
+    "CommonName": "Ho's sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis johnsoni",
+    "SpecCode": "70525",
+    "CommonName": "Polynesian sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis kamoharai",
+    "SpecCode": "23556",
+    "CommonName": "Kamohara-toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis katoi",
+    "SpecCode": "63764",
+    "CommonName": "Ogasawara-toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis kentingensis",
+    "SpecCode": "66468",
+    "CommonName": "Kenting sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis lata",
+    "SpecCode": "60814",
+    "CommonName": "Y-Barred Sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis lineopunctata",
+    "SpecCode": "63242",
+    "CommonName": "Dotlined grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis lutevittata",
+    "SpecCode": "66046",
+    "CommonName": "Yellow-striped sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis macrophthalma",
+    "SpecCode": "10867",
+    "CommonName": "Grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis maculata",
+    "SpecCode": "46429",
+    "CommonName": "Harlequin sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis maramara",
+    "SpecCode": "66466",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis maritzi",
+    "SpecCode": "7679",
+    "CommonName": "馬氏擬鱸",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis millepunctata",
+    "SpecCode": "6670",
+    "CommonName": "Black dotted sand perch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis moki",
+    "SpecCode": "69393",
+    "CommonName": "Mok's sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis multifasciata",
+    "SpecCode": "16938",
+    "CommonName": "Bicolorbarred weever",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis multiplicata",
+    "SpecCode": "10753",
+    "CommonName": "Doublestitch grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis muronis",
+    "SpecCode": "23553",
+    "CommonName": "다섯줄양동미리",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis natator",
+    "SpecCode": "63765",
+    "CommonName": "Oyogi-toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis nebulosa",
+    "SpecCode": "7869",
+    "CommonName": "Barfaced grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis nigrodorsalis",
+    "SpecCode": "69328",
+    "CommonName": "Blackfin sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis okamurai",
+    "SpecCode": "23555",
+    "CommonName": "Soko-toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis ommatura",
+    "SpecCode": "23557",
+    "CommonName": "Matô-toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis pacifica",
+    "SpecCode": "64230",
+    "CommonName": "Oguro-toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis phenax",
+    "SpecCode": "63984",
+    "CommonName": "Akaeri-toragisu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis pulchella",
+    "SpecCode": "8075",
+    "CommonName": "Grub fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis punctata",
+    "SpecCode": "60522",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis punctulata",
+    "SpecCode": "22830",
+    "CommonName": "Belukor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis queenslandica",
+    "SpecCode": "64231",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis ramsayi",
+    "SpecCode": "14431",
+    "CommonName": "Ramsay's grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis randalli",
+    "SpecCode": "65840",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis robinsoni",
+    "SpecCode": "7867",
+    "CommonName": "Barfaced grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis roseoviridis",
+    "SpecCode": "23552",
+    "CommonName": "紅帶擬鱸",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis rota",
+    "SpecCode": "70271",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis rubricaudalis",
+    "SpecCode": "68408",
+    "CommonName": "Redtail sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis rubromaculata",
+    "SpecCode": "66469",
+    "CommonName": "Redspot sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis rufa",
+    "SpecCode": "61096",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis sagma",
+    "SpecCode": "66873",
+    "CommonName": "Saddled sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis schauinslandii",
+    "SpecCode": "7872",
+    "CommonName": "Flagfin weaver",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis sexfasciata",
+    "SpecCode": "10613",
+    "CommonName": "Cá Lú",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis sexlorata",
+    "SpecCode": "63535",
+    "CommonName": "Sixstrap grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis shaoi",
+    "SpecCode": "64845",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis signata",
+    "SpecCode": "25376",
+    "CommonName": "Alathandu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis simulata",
+    "SpecCode": "56473",
+    "CommonName": "类拟鲈",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis snyderi",
+    "SpecCode": "13522",
+    "CommonName": "Belukor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis soliorta",
+    "SpecCode": "68400",
+    "CommonName": "Sunrise sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis somaliensis",
+    "SpecCode": "10297",
+    "CommonName": "Dab",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis stricticeps",
+    "SpecCode": "56462",
+    "CommonName": "Black-barred weever",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis striolata",
+    "SpecCode": "61093",
+    "CommonName": "Banded grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis tetracantha",
+    "SpecCode": "6674",
+    "CommonName": "Black-banded grubfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis vittafrons",
+    "SpecCode": "64846",
+    "CommonName": "Bandhead sandperch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis xanthogramma",
+    "SpecCode": "64232",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parapercis xanthozona",
+    "SpecCode": "12668",
+    "CommonName": "Belukor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

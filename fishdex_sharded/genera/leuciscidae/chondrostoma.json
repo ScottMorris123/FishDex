@@ -20,7 +20,7 @@
   {
     "ScientificName": "Chondrostoma ceyhanense",
     "SpecCode": "68498",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Chondrostoma esmaeilii",
     "SpecCode": "68493",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Chondrostoma toros",
     "SpecCode": "68497",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

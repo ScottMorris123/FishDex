@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Dieidolycus adocetus",
+    "SpecCode": "58975",
+    "CommonName": "俾斯麥海雙狼綿鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dieidolycus gosztonyii",
+    "SpecCode": "58988",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Dieidolycus leptodermatus",
+    "SpecCode": "7014",
+    "CommonName": "双狼绵鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

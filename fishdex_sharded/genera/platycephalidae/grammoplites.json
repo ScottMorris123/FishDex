@@ -30,7 +30,7 @@
   {
     "ScientificName": "Grammoplites vittatus",
     "SpecCode": "70494",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

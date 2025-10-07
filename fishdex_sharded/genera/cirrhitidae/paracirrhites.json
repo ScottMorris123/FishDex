@@ -11,7 +11,7 @@
   {
     "ScientificName": "Paracirrhites bicolor",
     "SpecCode": "60602",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Paracirrhites nisus",
     "SpecCode": "56330",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Paracirrhites xanthus",
     "SpecCode": "49449",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

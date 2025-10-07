@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Chlopsis apterus",
+    "SpecCode": "60608",
+    "CommonName": "Morena falsa hocico rayado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis bicollaris",
+    "SpecCode": "46076",
+    "CommonName": "Bicolor false moray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis bicolor",
+    "SpecCode": "11949",
+    "CommonName": "Ancidda 'mpiriali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis bidentatus",
+    "SpecCode": "60666",
+    "CommonName": "Kahelihambune väätangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis dentatus",
+    "SpecCode": "9041",
+    "CommonName": "Anguililla Moteada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis kazuko",
+    "SpecCode": "60609",
+    "CommonName": "Kazuko väätangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis longidens",
+    "SpecCode": "60624",
+    "CommonName": "Kihv-väätangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis nanhaiensis",
+    "SpecCode": "68258",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis olokun",
+    "SpecCode": "9184",
+    "CommonName": "Olokun-väätangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis orientalis",
+    "SpecCode": "68257",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis sagmacollaris",
+    "SpecCode": "68259",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chlopsis slusserorum",
+    "SpecCode": "60665",
+    "CommonName": "Melaneesia väätangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

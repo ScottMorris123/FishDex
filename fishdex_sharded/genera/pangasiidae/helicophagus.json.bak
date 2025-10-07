@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Helicophagus leptorhynchus",
+    "SpecCode": "58238",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicophagus typus",
+    "SpecCode": "14224",
+    "CommonName": "Paten",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Helicophagus waandersii",
+    "SpecCode": "14226",
+    "CommonName": "Cá tra chuot",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

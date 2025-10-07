@@ -2,7 +2,7 @@
   {
     "ScientificName": "Harpagifer andriashevi",
     "SpecCode": "60767",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Harpagifer macquariensis",
     "SpecCode": "60768",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Harpagifer marionensis",
     "SpecCode": "69047",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Harpagifer nybelini",
     "SpecCode": "60769",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

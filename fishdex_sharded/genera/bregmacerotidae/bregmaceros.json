@@ -47,7 +47,7 @@
   {
     "ScientificName": "Bregmaceros cayorum",
     "SpecCode": "65067",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

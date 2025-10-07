@@ -59,7 +59,7 @@
   {
     "ScientificName": "Rubricatochromis paynei",
     "SpecCode": "68953",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -69,7 +69,7 @@
   {
     "ScientificName": "Rubricatochromis saharae",
     "SpecCode": "68157",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Pseudauchenipterus affinis",
+    "SpecCode": "47661",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudauchenipterus flavescens",
+    "SpecCode": "47663",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudauchenipterus jequitinhonhae",
+    "SpecCode": "47664",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudauchenipterus nodosus",
+    "SpecCode": "963",
+    "CommonName": "Bagre patriota",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

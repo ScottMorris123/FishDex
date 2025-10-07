@@ -30,7 +30,7 @@
   {
     "ScientificName": "Sarotherodon knauerae",
     "SpecCode": "65922",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Sarotherodon lamprechti",
     "SpecCode": "65923",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

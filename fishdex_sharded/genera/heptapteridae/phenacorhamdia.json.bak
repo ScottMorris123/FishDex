@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Phenacorhamdia anisura",
+    "SpecCode": "48387",
+    "CommonName": "委內瑞拉準鼬鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia boliviana",
+    "SpecCode": "48389",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia hoehnei",
+    "SpecCode": "48404",
+    "CommonName": "Bagrinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia macarenensis",
+    "SpecCode": "53226",
+    "CommonName": "哥伦比亚准鼬鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia nigrolineata",
+    "SpecCode": "61785",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia provenzanoi",
+    "SpecCode": "64282",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia somnians",
+    "SpecCode": "48391",
+    "CommonName": "Bagrinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia taphorni",
+    "SpecCode": "64281",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia tenebrosa",
+    "SpecCode": "48392",
+    "CommonName": "Baggrinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia tenuis",
+    "SpecCode": "47812",
+    "CommonName": "Casue de imé",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Phenacorhamdia unifasciata",
+    "SpecCode": "53227",
+    "CommonName": "Bagrinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Rusichthys explicitus",
+    "SpecCode": "50826",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rusichthys plesiomorphus",
+    "SpecCode": "4432",
+    "CommonName": "紅擬雀鯛",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

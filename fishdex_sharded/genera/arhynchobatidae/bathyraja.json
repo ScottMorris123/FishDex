@@ -326,7 +326,7 @@
   {
     "ScientificName": "Bathyraja pacifica",
     "SpecCode": "68503",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

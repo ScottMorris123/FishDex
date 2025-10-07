@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Pseudeutropius brachypopterus",
+    "SpecCode": "23289",
+    "CommonName": "Nuayang tebal",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudeutropius indigens",
+    "SpecCode": "66279",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudeutropius mitchelli",
+    "SpecCode": "24770",
+    "CommonName": "Malabar patashi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudeutropius moolenburghae",
+    "SpecCode": "23292",
+    "CommonName": "Nuayang tipis",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

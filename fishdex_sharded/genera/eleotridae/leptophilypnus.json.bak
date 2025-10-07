@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Leptophilypnus fluviatilis",
+    "SpecCode": "61532",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptophilypnus guatemalensis",
+    "SpecCode": "62986",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Leptophilypnus panamensis",
+    "SpecCode": "62987",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

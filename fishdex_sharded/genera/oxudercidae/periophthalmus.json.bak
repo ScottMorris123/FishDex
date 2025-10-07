@@ -1,0 +1,191 @@
+[
+  {
+    "ScientificName": "Periophthalmus argentilineatus",
+    "SpecCode": "7480",
+    "CommonName": "Båndet dyndspringer",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus barbarus",
+    "SpecCode": "12803",
+    "CommonName": "Adi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus chrysospilos",
+    "SpecCode": "25085",
+    "CommonName": "金点弹涂鱼",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus darwini",
+    "SpecCode": "64124",
+    "CommonName": "Darwin's mudskipper",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus gracilis",
+    "SpecCode": "7481",
+    "CommonName": "Belacak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus kalolo",
+    "SpecCode": "7482",
+    "CommonName": "African mudhopper",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus magnuspinnatus",
+    "SpecCode": "60009",
+    "CommonName": "큰볏말뚝망둥어",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus malaccensis",
+    "SpecCode": "7484",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus minutus",
+    "SpecCode": "7485",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus modestus",
+    "SpecCode": "54509",
+    "CommonName": "Cá Thoi loi",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus novaeguineaensis",
+    "SpecCode": "26515",
+    "CommonName": "New Guinea mudskipper",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus novemradiatus",
+    "SpecCode": "7486",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus pusing",
+    "SpecCode": "68025",
+    "CommonName": "Ikan pusing",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus spilotus",
+    "SpecCode": "57510",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus takita",
+    "SpecCode": "65352",
+    "CommonName": "Takita's mudskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus variabilis",
+    "SpecCode": "65362",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus walailakae",
+    "SpecCode": "61443",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus waltoni",
+    "SpecCode": "46408",
+    "CommonName": "Gel Khorok",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Periophthalmus weberi",
+    "SpecCode": "25254",
+    "CommonName": "Weber's mudskipper",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

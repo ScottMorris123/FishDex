@@ -20,7 +20,7 @@
   {
     "ScientificName": "Macroparalepis danae",
     "SpecCode": "58758",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Macroparalepis longilateralis",
     "SpecCode": "63599",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

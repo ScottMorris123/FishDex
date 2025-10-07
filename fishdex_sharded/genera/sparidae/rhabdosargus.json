@@ -31,7 +31,7 @@
   {
     "ScientificName": "Rhabdosargus niger",
     "SpecCode": "67654",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

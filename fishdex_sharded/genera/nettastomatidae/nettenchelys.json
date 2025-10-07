@@ -65,7 +65,7 @@
   {
     "ScientificName": "Nettenchelys proxima",
     "SpecCode": "70524",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

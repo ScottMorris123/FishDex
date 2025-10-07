@@ -1,0 +1,95 @@
+[
+  {
+    "ScientificName": "Glaucostegus cemiculus",
+    "SpecCode": "2074",
+    "CommonName": "Agharde",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucostegus granulatus",
+    "SpecCode": "8731",
+    "CommonName": "Bal oliya",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucostegus halavi",
+    "SpecCode": "10804",
+    "CommonName": "Cá Giống ha-la",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucostegus microphthalmus",
+    "SpecCode": "57447",
+    "CommonName": "Kleinooggitaarrog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucostegus obtusus",
+    "SpecCode": "12576",
+    "CommonName": "Blunt shovel nose ray",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucostegus petiti",
+    "SpecCode": "57448",
+    "CommonName": "Madagascar guitarfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucostegus spinosus",
+    "SpecCode": "54613",
+    "CommonName": "Guitarra espinosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucostegus thouin",
+    "SpecCode": "12578",
+    "CommonName": "Cá Giống dài đầu nhọn",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucostegus typus",
+    "SpecCode": "12577",
+    "CommonName": "Austalian guitarfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Glaucostegus younholeei",
+    "SpecCode": "69589",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

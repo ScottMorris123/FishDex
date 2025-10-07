@@ -2,7 +2,7 @@
   {
     "ScientificName": "Vespicula cypho",
     "SpecCode": "59067",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -21,7 +21,7 @@
   {
     "ScientificName": "Vespicula zollingeri",
     "SpecCode": "59069",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,30 @@
+[
+  {
+    "ScientificName": "Trypauchenichthys larsonae",
+    "SpecCode": "64220",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trypauchenichthys sumatrensis",
+    "SpecCode": "25127",
+    "CommonName": "Cá Rễ cau vây dời",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Trypauchenichthys typus",
+    "SpecCode": "25128",
+    "CommonName": "Typical eel goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

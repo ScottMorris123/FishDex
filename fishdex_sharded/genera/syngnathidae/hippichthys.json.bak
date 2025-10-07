@@ -1,0 +1,64 @@
+[
+  {
+    "ScientificName": "Hippichthys albomaculosus",
+    "SpecCode": "65762",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippichthys cyanospilos",
+    "SpecCode": "7728",
+    "CommonName": "Blouspikkelde-pypvis",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippichthys heptagonus",
+    "SpecCode": "5341",
+    "CommonName": "Amime-kawa-yōji",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippichthys parvicarinatus",
+    "SpecCode": "46141",
+    "CommonName": "Short-keel pipefish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippichthys penicillus",
+    "SpecCode": "7729",
+    "CommonName": "Beady pipefish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hippichthys spicifer",
+    "SpecCode": "7495",
+    "CommonName": "Banded freshwater pipefish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

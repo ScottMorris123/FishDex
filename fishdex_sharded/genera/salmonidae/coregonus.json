@@ -40,7 +40,7 @@
   {
     "ScientificName": "Coregonus anaulorum",
     "SpecCode": "63072",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",
@@ -80,7 +80,7 @@
   {
     "ScientificName": "Coregonus austriacus",
     "SpecCode": "65594",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -118,7 +118,7 @@
   {
     "ScientificName": "Coregonus baunti",
     "SpecCode": "62750",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Coregonus holsatus",
     "SpecCode": "65595",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -328,7 +328,7 @@
   {
     "ScientificName": "Coregonus ladogae",
     "SpecCode": "65113",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -480,7 +480,7 @@
   {
     "ScientificName": "Coregonus nipigon",
     "SpecCode": "66107",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -567,7 +567,7 @@
   {
     "ScientificName": "Coregonus pravdinellus",
     "SpecCode": "63071",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Pterocryptis barakensis",
     "SpecCode": "63647",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Pterocryptis crenula",
     "SpecCode": "59154",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Pterocryptis inusitata",
     "SpecCode": "58073",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Pterocryptis verecunda",
     "SpecCode": "59162",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

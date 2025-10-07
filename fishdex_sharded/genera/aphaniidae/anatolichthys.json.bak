@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Anatolichthys anatoliae",
+    "SpecCode": "10452",
+    "CommonName": "Anatolian giant killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys danfordii",
+    "SpecCode": "49442",
+    "CommonName": "Danford's killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys fontinalis",
+    "SpecCode": "69731",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys iconii",
+    "SpecCode": "69730",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys irregularis",
+    "SpecCode": "69735",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys maeandricus",
+    "SpecCode": "69734",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys marassantensis",
+    "SpecCode": "67777",
+    "CommonName": "Kızılırmak killifish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys meridionalis",
+    "SpecCode": "69733",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys saldae",
+    "SpecCode": "69736",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys splendens",
+    "SpecCode": "49822",
+    "CommonName": "Glänzender Anatolienkärfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys sureyanus",
+    "SpecCode": "49824",
+    "CommonName": "Burdur-Anatolienkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys transgrediens",
+    "SpecCode": "49825",
+    "CommonName": "Acigöl-Anatolienkärpfling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Anatolichthys villwocki",
+    "SpecCode": "62012",
+    "CommonName": "Dişli sazancık",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

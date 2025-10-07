@@ -1,0 +1,464 @@
+[
+  {
+    "ScientificName": "Salmo abanticus",
+    "SpecCode": "66450",
+    "CommonName": "Abant alası",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo akairos",
+    "SpecCode": "62271",
+    "CommonName": "Berberi forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo aphelios",
+    "SpecCode": "49291",
+    "CommonName": "Idaohridi forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo balcanicus",
+    "SpecCode": "49292",
+    "CommonName": "Albaania forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo carpio",
+    "SpecCode": "46490",
+    "CommonName": "Carpione",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo caspius",
+    "SpecCode": "66449",
+    "CommonName": "Caspian trout",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo cenerinus",
+    "SpecCode": "65590",
+    "CommonName": "Alpi forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo cettii",
+    "SpecCode": "49461",
+    "CommonName": "Mediterranean trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo chilo",
+    "SpecCode": "67603",
+    "CommonName": "Chilo trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo ciscaucasicus",
+    "SpecCode": "65603",
+    "CommonName": "Caspian salmon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo coruhensis",
+    "SpecCode": "65601",
+    "CommonName": "Coruh trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo dentex",
+    "SpecCode": "46492",
+    "CommonName": "Balkani forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo euphrataeus",
+    "SpecCode": "67607",
+    "CommonName": "Euphrates trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo ezenami",
+    "SpecCode": "60111",
+    "CommonName": "Eizenami forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo farioides",
+    "SpecCode": "65281",
+    "CommonName": "Dinaari forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo ferox",
+    "SpecCode": "49294",
+    "CommonName": "Ferox brown trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo fibreni",
+    "SpecCode": "26969",
+    "CommonName": "Carpione del Fibreno",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo ischchan",
+    "SpecCode": "4792",
+    "CommonName": "Alabalakh",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo kottelati",
+    "SpecCode": "67602",
+    "CommonName": "Antalya trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo labecula",
+    "SpecCode": "67604",
+    "CommonName": "Seyhan trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo labrax",
+    "SpecCode": "48205",
+    "CommonName": "Alabalık",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo letnica",
+    "SpecCode": "6423",
+    "CommonName": "Koran",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo lourosensis",
+    "SpecCode": "65956",
+    "CommonName": "Lourose forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo lumi",
+    "SpecCode": "49297",
+    "CommonName": "Koran lumi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo macedonicus",
+    "SpecCode": "49325",
+    "CommonName": "Macedonian trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo macrostigma",
+    "SpecCode": "4879",
+    "CommonName": "Pastrav",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo marmoratus",
+    "SpecCode": "46498",
+    "CommonName": "Glavatica",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo montenigrinus",
+    "SpecCode": "65596",
+    "CommonName": "Montenegro forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo multipunctatus",
+    "SpecCode": "67944",
+    "CommonName": "Draa trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo nigripinnis",
+    "SpecCode": "49326",
+    "CommonName": "Melvini forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo obtusirostris",
+    "SpecCode": "6210",
+    "CommonName": "Aadria forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo ohridanus",
+    "SpecCode": "46506",
+    "CommonName": "Albansk ørred",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo okumusi",
+    "SpecCode": "67606",
+    "CommonName": "Okumus trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo opimus",
+    "SpecCode": "67605",
+    "CommonName": "Opimus trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo pallaryi",
+    "SpecCode": "61455",
+    "CommonName": "Atlase forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo pelagonicus",
+    "SpecCode": "49539",
+    "CommonName": "Pelagonija forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo pellegrini",
+    "SpecCode": "68960",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo peristericus",
+    "SpecCode": "49327",
+    "CommonName": "Pestrofa Prespas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo platycephalus",
+    "SpecCode": "6209",
+    "CommonName": "Ala Balik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo rhodanensis",
+    "SpecCode": "49328",
+    "CommonName": "Liguuria forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo rizeensis",
+    "SpecCode": "65598",
+    "CommonName": "Rize forell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo salar",
+    "SpecCode": "236",
+    "CommonName": "Alabalik atlantik",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo schiefermuelleri",
+    "SpecCode": "49546",
+    "CommonName": "Salmon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo stomachicus",
+    "SpecCode": "49329",
+    "CommonName": "Gillaroo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo taleri",
+    "SpecCode": "49576",
+    "CommonName": "Salmon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo tigridis",
+    "SpecCode": "66235",
+    "CommonName": "Tigris trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo trutta",
+    "SpecCode": "238",
+    "CommonName": "Áarsíl",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo viridis",
+    "SpecCode": "68117",
+    "CommonName": "Green trout",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo visovacensis",
+    "SpecCode": "49623",
+    "CommonName": "Salmon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Salmo zrmanjaensis",
+    "SpecCode": "49626",
+    "CommonName": "Salmon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

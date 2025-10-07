@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Stigmatochromis macrorhynchos",
+    "SpecCode": "66293",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatochromis melanchros",
+    "SpecCode": "66294",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatochromis modestus",
+    "SpecCode": "2210",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatochromis pholidophorus",
+    "SpecCode": "2211",
+    "CommonName": "Candle hap",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatochromis pleurospilus",
+    "SpecCode": "2208",
+    "CommonName": "侧点丽鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Stigmatochromis woodi",
+    "SpecCode": "2209",
+    "CommonName": "Chisawasawa",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Monolene atrimana",
     "SpecCode": "47182",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Monolene danae",
     "SpecCode": "59542",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Monolene helenensis",
     "SpecCode": "58076",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

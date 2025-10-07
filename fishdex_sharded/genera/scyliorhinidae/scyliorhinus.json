@@ -20,7 +20,7 @@
   {
     "ScientificName": "Scyliorhinus cabofriensis",
     "SpecCode": "67922",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

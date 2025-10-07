@@ -440,7 +440,7 @@
   {
     "ScientificName": "Hippocampus tyro",
     "SpecCode": "65050",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Luciobrotula brasiliensis",
     "SpecCode": "65622",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Luciobrotula coheni",
     "SpecCode": "65623",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Luciobrotula nolfi",
     "SpecCode": "56350",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

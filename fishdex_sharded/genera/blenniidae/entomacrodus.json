@@ -74,7 +74,7 @@
   {
     "ScientificName": "Entomacrodus lemuria",
     "SpecCode": "59472",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Entomacrodus longicirrus",
     "SpecCode": "62918",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Entomacrodus randalli",
     "SpecCode": "60081",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Entomacrodus solus",
     "SpecCode": "65522",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

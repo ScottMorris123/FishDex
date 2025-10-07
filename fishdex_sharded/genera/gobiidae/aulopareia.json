@@ -2,7 +2,7 @@
   {
     "ScientificName": "Aulopareia atripinnata",
     "SpecCode": "61723",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],
@@ -21,7 +21,7 @@
   {
     "ScientificName": "Aulopareia koumansi",
     "SpecCode": "64922",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -30,7 +30,7 @@
   {
     "ScientificName": "Aulopareia ocellata",
     "SpecCode": "61308",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

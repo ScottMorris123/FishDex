@@ -11,7 +11,7 @@
   {
     "ScientificName": "Trachelyopterus amblops",
     "SpecCode": "47726",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Trachelyopterus analis",
     "SpecCode": "60744",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Trachelyopterus brevibarbis",
     "SpecCode": "60742",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Trachelyopterus lacustris",
     "SpecCode": "52145",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Trachelyopterus porosus",
     "SpecCode": "60745",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

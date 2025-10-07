@@ -1,0 +1,86 @@
+[
+  {
+    "ScientificName": "Solea aegyptiaca",
+    "SpecCode": "11707",
+    "CommonName": "Ägyptische Seezunge",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solea capensis",
+    "SpecCode": "23335",
+    "CommonName": "岬鰨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solea elongata",
+    "SpecCode": "14394",
+    "CommonName": "Elongate sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solea heinii",
+    "SpecCode": "58942",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solea ovata",
+    "SpecCode": "14391",
+    "CommonName": "Dadali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solea senegalensis",
+    "SpecCode": "8852",
+    "CommonName": "Camérélouse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solea solea",
+    "SpecCode": "525",
+    "CommonName": "Äkta tunga",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solea stanalandi",
+    "SpecCode": "24431",
+    "CommonName": "Stanaland's sole",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Solea turbynei",
+    "SpecCode": "65617",
+    "CommonName": "Blackhand sole",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

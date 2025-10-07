@@ -22,7 +22,7 @@
   {
     "ScientificName": "Oligolepis dasi",
     "SpecCode": "61062",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -41,7 +41,7 @@
   {
     "ScientificName": "Oligolepis jaarmani",
     "SpecCode": "27688",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],

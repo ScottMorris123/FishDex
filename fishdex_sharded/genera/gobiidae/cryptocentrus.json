@@ -47,7 +47,7 @@
   {
     "ScientificName": "Cryptocentrus callopterus",
     "SpecCode": "59824",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Cryptocentrus diproctotaenia",
     "SpecCode": "59241",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -194,7 +194,7 @@
   {
     "ScientificName": "Cryptocentrus malindiensis",
     "SpecCode": "62035",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -213,7 +213,7 @@
   {
     "ScientificName": "Cryptocentrus melanopus",
     "SpecCode": "67512",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -249,7 +249,7 @@
   {
     "ScientificName": "Cryptocentrus niveatus",
     "SpecCode": "61309",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -285,7 +285,7 @@
   {
     "ScientificName": "Cryptocentrus pretiosus",
     "SpecCode": "61307",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -339,7 +339,7 @@
   {
     "ScientificName": "Cryptocentrus wehrlei",
     "SpecCode": "59826",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"

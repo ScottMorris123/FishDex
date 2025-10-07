@@ -1,0 +1,798 @@
+[
+  {
+    "ScientificName": "Rasbora adisi",
+    "SpecCode": "69838",
+    "CommonName": "Gal oya striped rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora amplistriga",
+    "SpecCode": "57702",
+    "CommonName": "Laitriip-rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora api",
+    "SpecCode": "65858",
+    "CommonName": "Lõõmrasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora aprotaenia",
+    "SpecCode": "22499",
+    "CommonName": "Jaava rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora argyrotaenia",
+    "SpecCode": "5169",
+    "CommonName": "Buntung",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora armitagei",
+    "SpecCode": "65475",
+    "CommonName": "Armitagei's striped rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora arundinata",
+    "SpecCode": "67287",
+    "CommonName": "Süstikjoon-rasboora",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora atranus",
+    "SpecCode": "66357",
+    "CommonName": "Mustlaik-rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora atridorsalis",
+    "SpecCode": "50500",
+    "CommonName": "Razbora junanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora aurotaenia",
+    "SpecCode": "27064",
+    "CommonName": "Cá lòng tong da",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora baliensis",
+    "SpecCode": "22502",
+    "CommonName": "Bali rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora bankanensis",
+    "SpecCode": "10351",
+    "CommonName": "Bangka rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora beauforti",
+    "SpecCode": "55825",
+    "CommonName": "Beauforti rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora bindumatoga",
+    "SpecCode": "67498",
+    "CommonName": "Kantrasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora borapetensis",
+    "SpecCode": "10834",
+    "CommonName": "Blackline rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora borneensis",
+    "SpecCode": "10361",
+    "CommonName": "Borneo rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora bunguranensis",
+    "SpecCode": "22510",
+    "CommonName": "Bungurani rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora caudimaculata",
+    "SpecCode": "10364",
+    "CommonName": "Enseluai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora caverii",
+    "SpecCode": "10377",
+    "CommonName": "Cauveri rasbora",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora cephalotaenia",
+    "SpecCode": "10365",
+    "CommonName": "Enseluai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora chrysotaenia",
+    "SpecCode": "12173",
+    "CommonName": "Goldstripe rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora cryptica",
+    "SpecCode": "67318",
+    "CommonName": "Peitrasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora dandia",
+    "SpecCode": "67852",
+    "CommonName": "Broad striped rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora daniconius",
+    "SpecCode": "5493",
+    "CommonName": "Angjani",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora dies",
+    "SpecCode": "63618",
+    "CommonName": "Tarakani rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora dorsinotata",
+    "SpecCode": "52309",
+    "CommonName": "Razbora thajská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora dusonensis",
+    "SpecCode": "10370",
+    "CommonName": "Enseluai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora einthovenii",
+    "SpecCode": "10371",
+    "CommonName": "Blue line rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora elegans",
+    "SpecCode": "12179",
+    "CommonName": "Elegant rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora ennealepis",
+    "SpecCode": "22519",
+    "CommonName": "Kapuasi rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora everetti",
+    "SpecCode": "65880",
+    "CommonName": "Everetti rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora gerlachi",
+    "SpecCode": "60448",
+    "CommonName": "Gerlachi rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora haru",
+    "SpecCode": "67496",
+    "CommonName": "Haru rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora hobelmani",
+    "SpecCode": "10380",
+    "CommonName": "Hobelmani rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora hosii",
+    "SpecCode": "63043",
+    "CommonName": "Kalimantani rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora hubbsi",
+    "SpecCode": "5435",
+    "CommonName": "Hubbs Bärbling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora jacobsoni",
+    "SpecCode": "22598",
+    "CommonName": "Jacobsoni rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora johannae",
+    "SpecCode": "27254",
+    "CommonName": "Ojarasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora kalbarensis",
+    "SpecCode": "22827",
+    "CommonName": "Kalbar rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora kalochroma",
+    "SpecCode": "10372",
+    "CommonName": "Bigspot rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora kluetensis",
+    "SpecCode": "65860",
+    "CommonName": "Klueti rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora kobonensis",
+    "SpecCode": "65353",
+    "CommonName": "Kobo rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora kottelati",
+    "SpecCode": "27256",
+    "CommonName": "Kottelati rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora labiosa",
+    "SpecCode": "24415",
+    "CommonName": "Dandai",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora lacrimula",
+    "SpecCode": "65094",
+    "CommonName": "Pisarlaik-rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora lateristriata",
+    "SpecCode": "5167",
+    "CommonName": "Cá lòng tong dá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora laticlavia",
+    "SpecCode": "46274",
+    "CommonName": "Lillatriip-rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora leptosoma",
+    "SpecCode": "12191",
+    "CommonName": "Copperstripe rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora maninjau",
+    "SpecCode": "67497",
+    "CommonName": "Ikan badar",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora meinkeni",
+    "SpecCode": "22606",
+    "CommonName": "Domba",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora microcephalus",
+    "SpecCode": "68402",
+    "CommonName": "Narrow striped rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora myersi",
+    "SpecCode": "67198",
+    "CommonName": "Myersi rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora naggsi",
+    "SpecCode": "65476",
+    "CommonName": "Naggsi rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora nematotaenia",
+    "SpecCode": "65354",
+    "CommonName": "Peentriip-rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora nodulosa",
+    "SpecCode": "65859",
+    "CommonName": "Mügarpea-rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora notura",
+    "SpecCode": "62453",
+    "CommonName": "Teemantrasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora ornata",
+    "SpecCode": "62990",
+    "CommonName": "Manipuri rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora patrickyapi",
+    "SpecCode": "65084",
+    "CommonName": "Patricku rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora paucisqualis",
+    "SpecCode": "12200",
+    "CommonName": "Großschuppenbärbling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora paviana",
+    "SpecCode": "27079",
+    "CommonName": "Neulajuovarasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora philippina",
+    "SpecCode": "5170",
+    "CommonName": "Filipiini rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora rasbora",
+    "SpecCode": "10382",
+    "CommonName": "Dandai",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora reticulata",
+    "SpecCode": "22608",
+    "CommonName": "Netzbärbling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora rheophila",
+    "SpecCode": "67320",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora rubrodorsalis",
+    "SpecCode": "60206",
+    "CommonName": "Punauim-rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora rutteni",
+    "SpecCode": "22625",
+    "CommonName": "Razbora Ruttenova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora sarawakensis",
+    "SpecCode": "10374",
+    "CommonName": "Hohderasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora semilineata",
+    "SpecCode": "22626",
+    "CommonName": "Pooljoon-rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora septentrionalis",
+    "SpecCode": "57703",
+    "CommonName": "Põhjarasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora spilotaenia",
+    "SpecCode": "22632",
+    "CommonName": "Laiguline rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora steineri",
+    "SpecCode": "12206",
+    "CommonName": "Chinese rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora subtilis",
+    "SpecCode": "10375",
+    "CommonName": "Peen rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora sumatrana",
+    "SpecCode": "5437",
+    "CommonName": "Gestreifter Schneider",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora tawarensis",
+    "SpecCode": "22639",
+    "CommonName": "Razbora tavarská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora taytayensis",
+    "SpecCode": "5166",
+    "CommonName": "Razbora tajtajská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora tobana",
+    "SpecCode": "52029",
+    "CommonName": "Razbora tobanská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora tornieri",
+    "SpecCode": "22832",
+    "CommonName": "Gul rasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora trifasciata",
+    "SpecCode": "22834",
+    "CommonName": "Kolmijuovarasbora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora trilineata",
+    "SpecCode": "4771",
+    "CommonName": "Bada",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora truncata",
+    "SpecCode": "65861",
+    "CommonName": "Kirdesumatra rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora tubbi",
+    "SpecCode": "22642",
+    "CommonName": "Razbora Tubbova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora tuberculata",
+    "SpecCode": "27020",
+    "CommonName": "Köberrasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora vaillantii",
+    "SpecCode": "67199",
+    "CommonName": "Vaillanti rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora vietnamensis",
+    "SpecCode": "67115",
+    "CommonName": "Vietnami rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora volzii",
+    "SpecCode": "10376",
+    "CommonName": "Razbora Volzova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora vulcanus",
+    "SpecCode": "60412",
+    "CommonName": "Laavarasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora vulgaris",
+    "SpecCode": "65355",
+    "CommonName": "Malai rasboora",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rasbora wilpita",
+    "SpecCode": "25197",
+    "CommonName": "Razbora vilpitská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

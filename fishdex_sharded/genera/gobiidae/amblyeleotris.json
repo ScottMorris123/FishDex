@@ -20,7 +20,7 @@
   {
     "ScientificName": "Amblyeleotris bellicauda",
     "SpecCode": "62930",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Amblyeleotris delicatulus",
     "SpecCode": "59375",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Amblyeleotris ellipse",
     "SpecCode": "62929",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -139,7 +139,7 @@
   {
     "ScientificName": "Amblyeleotris harrisorum",
     "SpecCode": "61004",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -175,7 +175,7 @@
   {
     "ScientificName": "Amblyeleotris marquesas",
     "SpecCode": "61005",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -202,7 +202,7 @@
   {
     "ScientificName": "Amblyeleotris memnonia",
     "SpecCode": "70530",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -220,7 +220,7 @@
   {
     "ScientificName": "Amblyeleotris neglecta",
     "SpecCode": "65196",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -229,7 +229,7 @@
   {
     "ScientificName": "Amblyeleotris neumanni",
     "SpecCode": "64545",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -238,7 +238,7 @@
   {
     "ScientificName": "Amblyeleotris novaecaledoniae",
     "SpecCode": "27552",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -302,7 +302,7 @@
   {
     "ScientificName": "Amblyeleotris stenotaeniata",
     "SpecCode": "62931",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -320,7 +320,7 @@
   {
     "ScientificName": "Amblyeleotris taipinensis",
     "SpecCode": "64544",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

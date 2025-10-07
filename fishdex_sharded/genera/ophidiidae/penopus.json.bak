@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Penopus japonicus",
+    "SpecCode": "66226",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Penopus microphthalmus",
+    "SpecCode": "8978",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -83,7 +83,7 @@
   {
     "ScientificName": "Protomyctophum mcginnisi",
     "SpecCode": "64946",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

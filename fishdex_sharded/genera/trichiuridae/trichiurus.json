@@ -11,7 +11,7 @@
   {
     "ScientificName": "Trichiurus australis",
     "SpecCode": "62551",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -40,7 +40,7 @@
   {
     "ScientificName": "Trichiurus japonicus",
     "SpecCode": "69710",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

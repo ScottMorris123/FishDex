@@ -30,7 +30,7 @@
   {
     "ScientificName": "Systomus chrysopoma",
     "SpecCode": "68206",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -93,7 +93,7 @@
   {
     "ScientificName": "Systomus laticeps",
     "SpecCode": "68208",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Systomus orphoides",
     "SpecCode": "68207",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -166,7 +166,7 @@
   {
     "ScientificName": "Systomus subnasutus",
     "SpecCode": "68204",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Eptatretus aceroi",
     "SpecCode": "68361",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Eptatretus fudgei",
     "SpecCode": "70554",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

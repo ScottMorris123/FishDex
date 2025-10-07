@@ -1,0 +1,241 @@
+[
+  {
+    "ScientificName": "Craterocephalus amniculus",
+    "SpecCode": "53602",
+    "CommonName": "Darling hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus capreoli",
+    "SpecCode": "15109",
+    "CommonName": "North-west hardyhead",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus centralis",
+    "SpecCode": "53506",
+    "CommonName": "Finke hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus cuneiceps",
+    "SpecCode": "22658",
+    "CommonName": "Deep freshwater hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus dalhousiensis",
+    "SpecCode": "10463",
+    "CommonName": "Dalhousie hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus eyresii",
+    "SpecCode": "10464",
+    "CommonName": "Central Australian hardyhead",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus fistularis",
+    "SpecCode": "53603",
+    "CommonName": "管状硬头鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus fluviatilis",
+    "SpecCode": "25879",
+    "CommonName": "Mitchellian freshwater hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus fulvus",
+    "SpecCode": "53601",
+    "CommonName": "Tawny hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus gloveri",
+    "SpecCode": "10465",
+    "CommonName": "Glovers hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus helenae",
+    "SpecCode": "10466",
+    "CommonName": "Drysdale hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus honoriae",
+    "SpecCode": "15119",
+    "CommonName": "Estuarine hardyhead",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus kailolae",
+    "SpecCode": "10467",
+    "CommonName": "Kailola-Hartköpfchen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus lacustris",
+    "SpecCode": "10469",
+    "CommonName": "Kutubu hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus laisapi",
+    "SpecCode": "62746",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus lentiginosus",
+    "SpecCode": "10474",
+    "CommonName": "Freckled hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus marianae",
+    "SpecCode": "10475",
+    "CommonName": "Magela hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus marjoriae",
+    "SpecCode": "22663",
+    "CommonName": "Marjorie's freshwater hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus mugiloides",
+    "SpecCode": "15238",
+    "CommonName": "Finneplettet stribefisk",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus munroi",
+    "SpecCode": "15268",
+    "CommonName": "Munro's hardyhead",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus nouhuysi",
+    "SpecCode": "25665",
+    "CommonName": "Fly Hartköpfchen",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus pauciradiatus",
+    "SpecCode": "52320",
+    "CommonName": "Few-ray hardyhead",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus pimatuae",
+    "SpecCode": "10476",
+    "CommonName": "Pima hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus randi",
+    "SpecCode": "25669",
+    "CommonName": "Kubuna hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus stercusmuscarum",
+    "SpecCode": "22666",
+    "CommonName": "Flyspecked hardyhead",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Craterocephalus stramineus",
+    "SpecCode": "22668",
+    "CommonName": "Blackmast",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

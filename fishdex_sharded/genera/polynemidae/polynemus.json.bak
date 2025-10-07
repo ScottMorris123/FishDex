@@ -1,0 +1,81 @@
+[
+  {
+    "ScientificName": "Polynemus aquilonaris",
+    "SpecCode": "61448",
+    "CommonName": "Barbudo paraíso norteño",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polynemus bidentatus",
+    "SpecCode": "63357",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polynemus dubius",
+    "SpecCode": "14614",
+    "CommonName": "Barbudo paraíso oriental",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polynemus hornadayi",
+    "SpecCode": "14619",
+    "CommonName": "Barbudo paraíso de Hornaday",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polynemus kapuasensis",
+    "SpecCode": "62785",
+    "CommonName": "Barbudo paraíso de Kapuas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polynemus melanochir",
+    "SpecCode": "10617",
+    "CommonName": "Barbudo paraíso de mano",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polynemus multifilis",
+    "SpecCode": "14508",
+    "CommonName": "Barbudo paraíso elegante",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polynemus paradiseus",
+    "SpecCode": "8318",
+    "CommonName": "Bahmin",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Euristhmus lepturus",
+    "SpecCode": "6644",
+    "CommonName": "Ankeriastandani",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euristhmus microceps",
+    "SpecCode": "24602",
+    "CommonName": "Smallhead catfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euristhmus microphthalmus",
+    "SpecCode": "63645",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euristhmus nudiceps",
+    "SpecCode": "10732",
+    "CommonName": "Nakedhead catfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euristhmus sandrae",
+    "SpecCode": "63646",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Notarius armbrusteri",
     "SpecCode": "63327",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Notarius biffi",
     "SpecCode": "62180",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -31,7 +31,7 @@
   {
     "ScientificName": "Notarius cookei",
     "SpecCode": "60680",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -51,7 +51,7 @@
   {
     "ScientificName": "Notarius insculptus",
     "SpecCode": "63323",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Plagiotremus flavus",
     "SpecCode": "62213",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

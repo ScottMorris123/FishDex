@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Heteropriacanthus carolinus",
+    "SpecCode": "69857",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteropriacanthus cruentatus",
+    "SpecCode": "1150",
+    "CommonName": "Achote",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteropriacanthus fulgens",
+    "SpecCode": "69858",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

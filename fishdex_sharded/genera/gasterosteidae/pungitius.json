@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pungitius bussei",
     "SpecCode": "63404",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -51,7 +51,7 @@
   {
     "ScientificName": "Pungitius polyakovi",
     "SpecCode": "66020",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -82,7 +82,7 @@
   {
     "ScientificName": "Pungitius stenurus",
     "SpecCode": "66132",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

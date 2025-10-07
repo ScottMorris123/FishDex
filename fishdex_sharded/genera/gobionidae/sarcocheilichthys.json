@@ -110,7 +110,7 @@
   {
     "ScientificName": "Sarcocheilichthys vittatus",
     "SpecCode": "69534",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

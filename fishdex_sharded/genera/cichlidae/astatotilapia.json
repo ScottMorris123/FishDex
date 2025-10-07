@@ -65,7 +65,7 @@
   {
     "ScientificName": "Astatotilapia tchadensis",
     "SpecCode": "68415",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

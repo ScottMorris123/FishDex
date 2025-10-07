@@ -31,7 +31,7 @@
   {
     "ScientificName": "Foa leisi",
     "SpecCode": "67006",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -40,7 +40,7 @@
   {
     "ScientificName": "Foa madagascariensis",
     "SpecCode": "59778",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -49,7 +49,7 @@
   {
     "ScientificName": "Foa nivosa",
     "SpecCode": "67007",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -58,7 +58,7 @@
   {
     "ScientificName": "Foa winterbottomi",
     "SpecCode": "69239",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -67,7 +67,7 @@
   {
     "ScientificName": "Foa yamba",
     "SpecCode": "68248",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Schindleria brevipinguis",
+    "SpecCode": "61753",
+    "CommonName": "Lühike šindleeria",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schindleria edentata",
+    "SpecCode": "70304",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schindleria elongata",
+    "SpecCode": "68359",
+    "CommonName": "Elongate paedomorphic goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schindleria macrodentata",
+    "SpecCode": "69463",
+    "CommonName": "Schindler's large-toothed goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schindleria multidentata",
+    "SpecCode": "69464",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schindleria nana",
+    "SpecCode": "70612",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schindleria nigropunctata",
+    "SpecCode": "68850",
+    "CommonName": "Blackpotted paedomorphic goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schindleria parva",
+    "SpecCode": "70303",
+    "CommonName": "Pygmy schindleriid",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schindleria pietschmanni",
+    "SpecCode": "52863",
+    "CommonName": "Pietschmanni šindleeria",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Schindleria praematura",
+    "SpecCode": "23843",
+    "CommonName": "Floater",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

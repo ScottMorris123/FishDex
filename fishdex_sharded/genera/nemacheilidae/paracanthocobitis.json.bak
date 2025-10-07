@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Paracanthocobitis abutwebi",
+    "SpecCode": "68122",
+    "CommonName": "Hillstream zipper loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis adelaideae",
+    "SpecCode": "68123",
+    "CommonName": "Checkerboard zipper loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis canicula",
+    "SpecCode": "68124",
+    "CommonName": "Houndstooth zipper loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis linypha",
+    "SpecCode": "68126",
+    "CommonName": "Sewing needle zipper loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis maekhlongensis",
+    "SpecCode": "68127",
+    "CommonName": "Maekhlong zipper loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis mandalayensis",
+    "SpecCode": "67106",
+    "CommonName": "Mandalay ogatrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis marmorata",
+    "SpecCode": "68819",
+    "CommonName": "Marmorated zipper loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis nigrolineata",
+    "SpecCode": "68817",
+    "CommonName": "Blacklined zipper loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis phuketensis",
+    "SpecCode": "68820",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis triangula",
+    "SpecCode": "68818",
+    "CommonName": "Wedged zipper loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Paracanthocobitis zonalternans",
+    "SpecCode": "24649",
+    "CommonName": "Erikiri-ogatrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "ScientificName": "Rubricatochromis bimaculatus",
+    "SpecCode": "2389",
+    "CommonName": "Adzorvia",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubricatochromis cerasogaster",
+    "SpecCode": "8599",
+    "CommonName": "Oranssitimanttiahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubricatochromis exsul",
+    "SpecCode": "62496",
+    "CommonName": "Turkana jewel cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubricatochromis guttatus",
+    "SpecCode": "62877",
+    "CommonName": "Jewel cichlid",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubricatochromis letourneuxi",
+    "SpecCode": "8603",
+    "CommonName": "African jewelfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubricatochromis lifalili",
+    "SpecCode": "8604",
+    "CommonName": "Lifalilis Buntbarsch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubricatochromis paynei",
+    "SpecCode": "68953",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubricatochromis saharae",
+    "SpecCode": "68157",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rubricatochromis stellifer",
+    "SpecCode": "59783",
+    "CommonName": "Helotimanttiahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

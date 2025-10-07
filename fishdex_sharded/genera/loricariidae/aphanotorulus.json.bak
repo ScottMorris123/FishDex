@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Aphanotorulus ammophilus",
+    "SpecCode": "53504",
+    "CommonName": "Okapyrstöpleko",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanotorulus emarginatus",
+    "SpecCode": "25737",
+    "CommonName": "Acari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanotorulus gomesi",
+    "SpecCode": "48909",
+    "CommonName": "Cascudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanotorulus horridus",
+    "SpecCode": "48914",
+    "CommonName": "Cari de espinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanotorulus phrixosoma",
+    "SpecCode": "48947",
+    "CommonName": "Carachama",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanotorulus rubrocauda",
+    "SpecCode": "70335",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanotorulus unicolor",
+    "SpecCode": "48973",
+    "CommonName": "Alasuu pleco",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

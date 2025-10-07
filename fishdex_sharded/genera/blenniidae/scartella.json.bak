@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Scartella caboverdiana",
+    "SpecCode": "51647",
+    "CommonName": "Caboz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartella cristata",
+    "SpecCode": "3770",
+    "CommonName": "Barburiqi me kreshtë",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartella emarginata",
+    "SpecCode": "16966",
+    "CommonName": "Kamkop-blennie",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartella itajobi",
+    "SpecCode": "64883",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartella nuchifilis",
+    "SpecCode": "22660",
+    "CommonName": "Accension-Schleimfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartella poiti",
+    "SpecCode": "62083",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scartella springeri",
+    "SpecCode": "22662",
+    "CommonName": "Springer's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

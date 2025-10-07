@@ -2,7 +2,7 @@
   {
     "ScientificName": "Mazarunia charadrica",
     "SpecCode": "66642",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Mazarunia pala",
     "SpecCode": "66643",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

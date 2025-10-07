@@ -101,7 +101,7 @@
   {
     "ScientificName": "Plectranthias elaine",
     "SpecCode": "65023",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Plectranthias elongatus",
     "SpecCode": "65962",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Plectranthias klausewitzi",
     "SpecCode": "63096",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -362,7 +362,7 @@
   {
     "ScientificName": "Plectranthias moretonensis",
     "SpecCode": "70043",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -560,7 +560,7 @@
   {
     "ScientificName": "Plectranthias xanthomaculatus",
     "SpecCode": "65963",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

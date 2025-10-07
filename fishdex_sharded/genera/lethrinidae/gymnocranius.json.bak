@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Gymnocranius audleyi",
+    "SpecCode": "1835",
+    "CommonName": "Bastard bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocranius elongatus",
+    "SpecCode": "8084",
+    "CommonName": "Bagongon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocranius euanus",
+    "SpecCode": "1837",
+    "CommonName": "Bossu blanc à points noirs",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocranius frenatus",
+    "SpecCode": "1838",
+    "CommonName": "Bara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocranius grandoculis",
+    "SpecCode": "1834",
+    "CommonName": "Bagangan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocranius griseus",
+    "SpecCode": "1833",
+    "CommonName": "Bag-angan",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocranius microdon",
+    "SpecCode": "1839",
+    "CommonName": "Blue-spotted large-eye bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocranius oblongus",
+    "SpecCode": "65523",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocranius satoi",
+    "SpecCode": "67934",
+    "CommonName": "Blacknape large-eye bream",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnocranius superciliosus",
+    "SpecCode": "67933",
+    "CommonName": "Eyebrowed large-eye bream.",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

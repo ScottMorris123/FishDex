@@ -123,7 +123,7 @@
   {
     "ScientificName": "Gobiosoma schultzi",
     "SpecCode": "57963",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

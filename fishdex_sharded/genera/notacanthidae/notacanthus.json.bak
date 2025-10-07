@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Notacanthus abbotti",
+    "SpecCode": "22628",
+    "CommonName": "Abbotti okasturi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notacanthus arrontei",
+    "SpecCode": "70585",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notacanthus bonaparte",
+    "SpecCode": "9021",
+    "CommonName": "Anguila de Bonaparte",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notacanthus chemnitzii",
+    "SpecCode": "2661",
+    "CommonName": "Broddabakur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notacanthus indicus",
+    "SpecCode": "47155",
+    "CommonName": "India okasturi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notacanthus laccadiviensis",
+    "SpecCode": "70577",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notacanthus sexspinis",
+    "SpecCode": "10234",
+    "CommonName": "Espinudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Notacanthus spinosus",
+    "SpecCode": "52718",
+    "CommonName": "Nõeluim-okasturi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

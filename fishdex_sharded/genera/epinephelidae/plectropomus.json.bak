@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Plectropomus areolatus",
+    "SpecCode": "6082",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plectropomus laevis",
+    "SpecCode": "7372",
+    "CommonName": "Atara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plectropomus leopardus",
+    "SpecCode": "4826",
+    "CommonName": "Ata'ata-utu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plectropomus maculatus",
+    "SpecCode": "4886",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plectropomus marisrubri",
+    "SpecCode": "69553",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plectropomus oligacanthus",
+    "SpecCode": "7319",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plectropomus pessuliferus",
+    "SpecCode": "7430",
+    "CommonName": "Ca mu cham",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Plectropomus punctatus",
+    "SpecCode": "7373",
+    "CommonName": "Babone ponctuée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Cirrhitops mascarenensis",
     "SpecCode": "65220",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,20 @@
+[
+  {
+    "ScientificName": "Marleyella bicolorata",
+    "SpecCode": "7898",
+    "CommonName": "Comb flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Marleyella maldivensis",
+    "SpecCode": "58874",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

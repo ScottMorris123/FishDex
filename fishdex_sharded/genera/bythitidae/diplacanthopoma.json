@@ -2,7 +2,7 @@
   {
     "ScientificName": "Diplacanthopoma alcockii",
     "SpecCode": "56421",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Diplacanthopoma brachysoma",
     "SpecCode": "56422",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Diplacanthopoma jordani",
     "SpecCode": "54870",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Diplacanthopoma raniceps",
     "SpecCode": "56424",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Diplacanthopoma riversandersoni",
     "SpecCode": "56425",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

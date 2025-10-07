@@ -1,0 +1,515 @@
+[
+  {
+    "ScientificName": "Hemigrammus aereus",
+    "SpecCode": "51091",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus analis",
+    "SpecCode": "51087",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus arua",
+    "SpecCode": "64953",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus ataktos",
+    "SpecCode": "67621",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus barrigonae",
+    "SpecCode": "51106",
+    "CommonName": "Barrigona-Tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus bellottii",
+    "SpecCode": "27961",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus boesemani",
+    "SpecCode": "27972",
+    "CommonName": "Glanzstrichsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus brevis",
+    "SpecCode": "51096",
+    "CommonName": "Lambari",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus changae",
+    "SpecCode": "68991",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus coeruleus",
+    "SpecCode": "51163",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus cupreus",
+    "SpecCode": "51093",
+    "CommonName": "Glänzender Kupfertetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus cylindricus",
+    "SpecCode": "51094",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus diagonicus",
+    "SpecCode": "66172",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus durbinae",
+    "SpecCode": "68099",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus elegans",
+    "SpecCode": "26444",
+    "CommonName": "Goldstrich-Glassalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus erythrozonus",
+    "SpecCode": "10642",
+    "CommonName": "Eritrozonus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus falsus",
+    "SpecCode": "67820",
+    "CommonName": "Head-and-tail-light fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus filamentosus",
+    "SpecCode": "66189",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus geisleri",
+    "SpecCode": "63494",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus gracilis",
+    "SpecCode": "51034",
+    "CommonName": "Falsk glødelystetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus guyanensis",
+    "SpecCode": "27973",
+    "CommonName": "Ixha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus haraldi",
+    "SpecCode": "58075",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus hyanuary",
+    "SpecCode": "12367",
+    "CommonName": "Costello tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus iota",
+    "SpecCode": "51110",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus levis",
+    "SpecCode": "26446",
+    "CommonName": "Hopeajuovatetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus luelingi",
+    "SpecCode": "51143",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus lunatus",
+    "SpecCode": "51090",
+    "CommonName": "Kuutetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus machadoi",
+    "SpecCode": "67624",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus mahnerti",
+    "SpecCode": "53315",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus marginatus",
+    "SpecCode": "26445",
+    "CommonName": "Bandeirinha de rabo amarelo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus matei",
+    "SpecCode": "53446",
+    "CommonName": "Falscher Schlußlichtsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus megaceps",
+    "SpecCode": "51103",
+    "CommonName": "Sardinita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus melanochrous",
+    "SpecCode": "51159",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus micropterus",
+    "SpecCode": "51098",
+    "CommonName": "Pikkuevätetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus microstomus",
+    "SpecCode": "51089",
+    "CommonName": "Pikkusuutetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus mimus",
+    "SpecCode": "51030",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus neptunus",
+    "SpecCode": "60854",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus newboldi",
+    "SpecCode": "51941",
+    "CommonName": "Hopealyhtytetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus ocellifer",
+    "SpecCode": "10645",
+    "CommonName": "Beacon fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus ora",
+    "SpecCode": "63087",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus orthus",
+    "SpecCode": "58074",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus parana",
+    "SpecCode": "63731",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus pretoensis",
+    "SpecCode": "51160",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus pulcher",
+    "SpecCode": "10649",
+    "CommonName": "Black wedge tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus rodwayi",
+    "SpecCode": "26447",
+    "CommonName": "Bass tetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus rubrostriatus",
+    "SpecCode": "67819",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus schmardae",
+    "SpecCode": "51144",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus silimoni",
+    "SpecCode": "64653",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus skolioplatus",
+    "SpecCode": "63094",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus stictus",
+    "SpecCode": "51036",
+    "CommonName": "Blutschwanzsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus taphorni",
+    "SpecCode": "63565",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus tocantinsi",
+    "SpecCode": "65587",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus tridens",
+    "SpecCode": "53448",
+    "CommonName": "Kreuzflecksalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus ulreyi",
+    "SpecCode": "26457",
+    "CommonName": "Flaggensalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus unilineatus",
+    "SpecCode": "12371",
+    "CommonName": "Enbandstetra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus vorderwinkleri",
+    "SpecCode": "51116",
+    "CommonName": "Goldglanzsalmler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigrammus yinyang",
+    "SpecCode": "65627",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

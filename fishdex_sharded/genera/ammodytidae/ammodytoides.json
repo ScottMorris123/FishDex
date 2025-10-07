@@ -11,7 +11,7 @@
   {
     "ScientificName": "Ammodytoides idai",
     "SpecCode": "65358",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Ammodytoides praematura",
     "SpecCode": "65359",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

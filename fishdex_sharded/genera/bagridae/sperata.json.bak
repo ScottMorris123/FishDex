@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Sperata acicularis",
+    "SpecCode": "60736",
+    "CommonName": "Birma speratisäga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sperata aor",
+    "SpecCode": "5496",
+    "CommonName": "Ayre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sperata aorella",
+    "SpecCode": "60631",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sperata seenghala",
+    "SpecCode": "10111",
+    "CommonName": "Addi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Alionematichthys ceylonensis",
     "SpecCode": "64957",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Alionematichthys samoaensis",
     "SpecCode": "64961",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Alionematichthys shinoharai",
     "SpecCode": "64962",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Alionematichthys winterbottomi",
     "SpecCode": "64964",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

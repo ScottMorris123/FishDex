@@ -1,0 +1,49 @@
+[
+  {
+    "ScientificName": "Heteropneustes fossilis",
+    "SpecCode": "4885",
+    "CommonName": "Bitchu",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteropneustes kemratensis",
+    "SpecCode": "60210",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteropneustes longipectoralis",
+    "SpecCode": "60648",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteropneustes microps",
+    "SpecCode": "10399",
+    "CommonName": "Kleiner Speichenwels",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Heteropneustes nani",
+    "SpecCode": "67218",
+    "CommonName": "Stinging catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

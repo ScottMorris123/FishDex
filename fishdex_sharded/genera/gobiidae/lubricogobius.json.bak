@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Lubricogobius dinah",
+    "SpecCode": "61327",
+    "CommonName": "Dinah's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lubricogobius exiguus",
+    "SpecCode": "23660",
+    "CommonName": "Mijinbenihaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lubricogobius nanus",
+    "SpecCode": "67921",
+    "CommonName": "Tiny goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lubricogobius ornatus",
+    "SpecCode": "59398",
+    "CommonName": "Irezumi-mijn-benihaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lubricogobius tre",
+    "SpecCode": "65418",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lubricogobius tunicatus",
+    "SpecCode": "68759",
+    "CommonName": "Tunicate goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

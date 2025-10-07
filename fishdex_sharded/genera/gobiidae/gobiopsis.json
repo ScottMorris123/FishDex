@@ -47,7 +47,7 @@
   {
     "ScientificName": "Gobiopsis exigua",
     "SpecCode": "61025",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -130,7 +130,7 @@
   {
     "ScientificName": "Gobiopsis uranophilus",
     "SpecCode": "70531",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

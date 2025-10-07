@@ -50,7 +50,7 @@
   {
     "ScientificName": "Neostethus geminus",
     "SpecCode": "67349",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"

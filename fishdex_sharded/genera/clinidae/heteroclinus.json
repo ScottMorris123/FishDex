@@ -57,7 +57,7 @@
   {
     "ScientificName": "Heteroclinus kuiteri",
     "SpecCode": "64526",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

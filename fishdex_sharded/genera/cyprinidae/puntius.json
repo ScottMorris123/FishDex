@@ -282,7 +282,7 @@
   {
     "ScientificName": "Puntius pinnauratus",
     "SpecCode": "68205",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -382,7 +382,7 @@
   {
     "ScientificName": "Puntius stigma",
     "SpecCode": "68203",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Triphoturus mexicanus",
+    "SpecCode": "2739",
+    "CommonName": "Linternilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triphoturus nigrescens",
+    "SpecCode": "7421",
+    "CommonName": "Highseas lampfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Triphoturus oculeum",
+    "SpecCode": "60938",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

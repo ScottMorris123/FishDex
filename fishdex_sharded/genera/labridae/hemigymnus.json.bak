@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hemigymnus fasciatus",
+    "SpecCode": "5635",
+    "CommonName": "Balaki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigymnus melapterus",
+    "SpecCode": "5636",
+    "CommonName": "Arinai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemigymnus sexfasciatus",
+    "SpecCode": "67433",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

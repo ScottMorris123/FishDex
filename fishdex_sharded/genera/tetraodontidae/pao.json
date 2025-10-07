@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pao bergii",
     "SpecCode": "67506",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Pao brevirostris",
     "SpecCode": "67425",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Pao fangi",
     "SpecCode": "67507",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Pao hilgendorfii",
     "SpecCode": "66116",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Pao ocellaris",
     "SpecCode": "66722",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Pao turgidus",
     "SpecCode": "57781",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

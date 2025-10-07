@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Agonopsis asperoculis",
+    "SpecCode": "62091",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Agonopsis chiloensis",
+    "SpecCode": "12932",
+    "CommonName": "Aayakich",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Agonopsis sterletus",
+    "SpecCode": "4151",
+    "CommonName": "Bandido narigón",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Agonopsis vulsa",
+    "SpecCode": "4152",
+    "CommonName": "Northern spearnose poacher",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

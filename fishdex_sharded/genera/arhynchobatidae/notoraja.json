@@ -128,7 +128,7 @@
   {
     "ScientificName": "Notoraja yurii",
     "SpecCode": "69933",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

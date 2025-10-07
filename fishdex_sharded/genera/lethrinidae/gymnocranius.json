@@ -65,7 +65,7 @@
   {
     "ScientificName": "Gymnocranius oblongus",
     "SpecCode": "65523",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Aborichthys barapensis",
+    "SpecCode": "70273",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys boutanensis",
+    "SpecCode": "55860",
+    "CommonName": "Boutani hinktrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys cataracta",
+    "SpecCode": "67299",
+    "CommonName": "Kose-aboritrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys elongatus",
+    "SpecCode": "24516",
+    "CommonName": "Aborie protáhlá",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys garoensis",
+    "SpecCode": "24517",
+    "CommonName": "Aborie garonská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys iphipaniensis",
+    "SpecCode": "70563",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys kailashi",
+    "SpecCode": "70275",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys kempi",
+    "SpecCode": "24523",
+    "CommonName": "Aborie Kempova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys palinensis",
+    "SpecCode": "70274",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys pangensis",
+    "SpecCode": "70276",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys tikaderi",
+    "SpecCode": "24524",
+    "CommonName": "Aborie Tikaderova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys verticauda",
+    "SpecCode": "67300",
+    "CommonName": "Sirgsaba-aboritrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aborichthys waikhomi",
+    "SpecCode": "67609",
+    "CommonName": "Waikhomi aboritrull",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

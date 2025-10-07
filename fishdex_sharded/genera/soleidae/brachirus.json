@@ -2,7 +2,7 @@
   {
     "ScientificName": "Brachirus aenea",
     "SpecCode": "59160",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",
@@ -41,7 +41,7 @@
   {
     "ScientificName": "Brachirus fitzroiensis",
     "SpecCode": "69672",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Brachirus sayaensis",
     "SpecCode": "69671",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

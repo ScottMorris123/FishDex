@@ -2,7 +2,7 @@
   {
     "ScientificName": "Denticetopsis epa",
     "SpecCode": "62509",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Denticetopsis iwokrama",
     "SpecCode": "62510",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Denticetopsis seducta",
     "SpecCode": "62511",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

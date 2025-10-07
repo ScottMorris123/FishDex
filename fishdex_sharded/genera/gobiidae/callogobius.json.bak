@@ -1,0 +1,288 @@
+[
+  {
+    "ScientificName": "Callogobius albipunctatus",
+    "SpecCode": "69452",
+    "CommonName": "Awayuki-futasuji-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius amikami",
+    "SpecCode": "26993",
+    "CommonName": "網上氏美鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius andamanensis",
+    "SpecCode": "65415",
+    "CommonName": "Andaman goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius bauchotae",
+    "SpecCode": "7253",
+    "CommonName": "Bauchot's flap-headed goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius bifasciatus",
+    "SpecCode": "46389",
+    "CommonName": "Doublebar goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius centrolepis",
+    "SpecCode": "7254",
+    "CommonName": "Centrescale goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius clitellus",
+    "SpecCode": "27559",
+    "CommonName": "Black-banded goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius crassus",
+    "SpecCode": "56133",
+    "CommonName": "Stout goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius depressus",
+    "SpecCode": "52418",
+    "CommonName": "Flathead goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius dori",
+    "SpecCode": "56134",
+    "CommonName": "多氏美鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius dorsomaculatus",
+    "SpecCode": "69453",
+    "CommonName": "Seboshi-futasuji-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius falx",
+    "SpecCode": "69773",
+    "CommonName": "Sekirei-haze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius flavobrunneus",
+    "SpecCode": "17050",
+    "CommonName": "Slimy goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius hasseltii",
+    "SpecCode": "7255",
+    "CommonName": "Bia",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius hastatus",
+    "SpecCode": "27560",
+    "CommonName": "Spearfin goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius maculipinnis",
+    "SpecCode": "7206",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius mucosus",
+    "SpecCode": "52419",
+    "CommonName": "Sculptured goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius nigromarginatus",
+    "SpecCode": "59354",
+    "CommonName": "黑鰭緣硬皮蝦虎",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius okinawae",
+    "SpecCode": "7207",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius pilosimentum",
+    "SpecCode": "68376",
+    "CommonName": "Hairy-chinned flapheaded goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius plumatus",
+    "SpecCode": "7256",
+    "CommonName": "Feather goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius producta",
+    "SpecCode": "56130",
+    "CommonName": "Elongate flap-headed goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius sclateri",
+    "SpecCode": "7257",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius seshaiyai",
+    "SpecCode": "25236",
+    "CommonName": "塞氏美鰕虎魚",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius sheni",
+    "SpecCode": "64546",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius snelliusi",
+    "SpecCode": "23653",
+    "CommonName": "Dusky goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius stellatus",
+    "SpecCode": "27413",
+    "CommonName": "Stellar goby",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius swifti",
+    "SpecCode": "69167",
+    "CommonName": "Swift's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius tanegasimae",
+    "SpecCode": "23655",
+    "CommonName": "Bia",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius tutuilae",
+    "SpecCode": "69399",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Callogobius winterbottomi",
+    "SpecCode": "69398",
+    "CommonName": "Winterbottom's flapheaded goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

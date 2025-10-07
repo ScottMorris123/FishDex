@@ -105,7 +105,7 @@
   {
     "ScientificName": "Pangasius mahakamensis",
     "SpecCode": "60293",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -115,7 +115,7 @@
   {
     "ScientificName": "Pangasius mekongensis",
     "SpecCode": "61582",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -172,7 +172,7 @@
   {
     "ScientificName": "Pangasius rheophilus",
     "SpecCode": "58401",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -181,7 +181,7 @@
   {
     "ScientificName": "Pangasius sabahensis",
     "SpecCode": "61583",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -199,7 +199,7 @@
   {
     "ScientificName": "Pangasius silasi",
     "SpecCode": "68733",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

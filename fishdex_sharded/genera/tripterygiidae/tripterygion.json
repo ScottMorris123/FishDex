@@ -20,7 +20,7 @@
   {
     "ScientificName": "Tripterygion tartessicum",
     "SpecCode": "63378",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Photolateralis antongil",
+    "SpecCode": "63868",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photolateralis moretoniensis",
+    "SpecCode": "11257",
+    "CommonName": "Black-banded pony-fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photolateralis polyfenestrus",
+    "SpecCode": "69024",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Photolateralis stercorarius",
+    "SpecCode": "5798",
+    "CommonName": "Kekek",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -84,7 +84,7 @@
   {
     "ScientificName": "Sargocentron hormion",
     "SpecCode": "50111",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -147,7 +147,7 @@
   {
     "ScientificName": "Sargocentron megalops",
     "SpecCode": "50118",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

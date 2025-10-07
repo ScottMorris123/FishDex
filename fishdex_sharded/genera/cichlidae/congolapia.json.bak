@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Congolapia bilineata",
+    "SpecCode": "8899",
+    "CommonName": "双线非鲫",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congolapia crassa",
+    "SpecCode": "66747",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Congolapia louna",
+    "SpecCode": "66749",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Asprocottus intermedius",
     "SpecCode": "61488",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Asprocottus korjakovi",
     "SpecCode": "60302",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Asprocottus minor",
     "SpecCode": "62234",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

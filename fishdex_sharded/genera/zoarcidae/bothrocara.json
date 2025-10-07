@@ -38,7 +38,7 @@
   {
     "ScientificName": "Bothrocara nyx",
     "SpecCode": "62545",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Bothrocara soldatovi",
     "SpecCode": "61160",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

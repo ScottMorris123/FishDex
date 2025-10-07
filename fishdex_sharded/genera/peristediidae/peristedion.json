@@ -11,7 +11,7 @@
   {
     "ScientificName": "Peristedion amblygenys",
     "SpecCode": "59161",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Peristedion nesium",
     "SpecCode": "65887",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Peristedion richardsi",
     "SpecCode": "70542",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Peristedion unicuspis",
     "SpecCode": "61104",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

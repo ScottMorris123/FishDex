@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Bathylychnops brachyrhynchus",
+    "SpecCode": "52694",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylychnops chilensis",
+    "SpecCode": "65555",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bathylychnops exilis",
+    "SpecCode": "9119",
+    "CommonName": "Javelin spookfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

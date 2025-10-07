@@ -57,7 +57,7 @@
   {
     "ScientificName": "Tachysurus hoi",
     "SpecCode": "50941",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -66,7 +66,7 @@
   {
     "ScientificName": "Tachysurus longispinalis",
     "SpecCode": "65696",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -104,7 +104,7 @@
   {
     "ScientificName": "Tachysurus spilotus",
     "SpecCode": "65145",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Lamprologus laparogramma",
     "SpecCode": "55285",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Lamprologus markerti",
     "SpecCode": "67466",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Lamprologus teugelsi",
     "SpecCode": "61841",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Lamprologus tigripictilis",
     "SpecCode": "61842",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

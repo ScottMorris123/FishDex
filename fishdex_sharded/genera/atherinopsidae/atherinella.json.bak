@@ -1,0 +1,328 @@
+[
+  {
+    "ScientificName": "Atherinella alvarezi",
+    "SpecCode": "53157",
+    "CommonName": "Gulf silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella ammophila",
+    "SpecCode": "53159",
+    "CommonName": "La Palma silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella argentea",
+    "SpecCode": "13509",
+    "CommonName": "Athérine lune",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella balsana",
+    "SpecCode": "53115",
+    "CommonName": "Balsas silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella beani",
+    "SpecCode": "53142",
+    "CommonName": "比恩氏細小銀漢魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella blackburni",
+    "SpecCode": "7525",
+    "CommonName": "Athérine de plage",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella brasiliensis",
+    "SpecCode": "7526",
+    "CommonName": "Athérine brésilienne",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella callida",
+    "SpecCode": "53164",
+    "CommonName": "Cunning silverside",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella chagresi",
+    "SpecCode": "53138",
+    "CommonName": "查氏細小銀漢魚",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella colombiensis",
+    "SpecCode": "53617",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella crystallina",
+    "SpecCode": "53103",
+    "CommonName": "Blackfin silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella elegans",
+    "SpecCode": "53200",
+    "CommonName": "Fuerte silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella eriarcha",
+    "SpecCode": "13511",
+    "CommonName": "Athérine argentée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella guatemalensis",
+    "SpecCode": "13513",
+    "CommonName": "Athérine guatémaltéque",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella guija",
+    "SpecCode": "53143",
+    "CommonName": "吉氏細小銀漢魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella hubbsi",
+    "SpecCode": "53605",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella jiloaensis",
+    "SpecCode": "53614",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella lisa",
+    "SpecCode": "53134",
+    "CommonName": "Naked silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella marvelae",
+    "SpecCode": "53158",
+    "CommonName": "Eyipantla silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella meeki",
+    "SpecCode": "53616",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella milleri",
+    "SpecCode": "53606",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella nepenthe",
+    "SpecCode": "13515",
+    "CommonName": "Athérine népente",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella nesiotes",
+    "SpecCode": "53150",
+    "CommonName": "Broadstripe silverside",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella nocturna",
+    "SpecCode": "53156",
+    "CommonName": "Pejerrey",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella pachylepis",
+    "SpecCode": "13516",
+    "CommonName": "Athérine écailleuse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella pallida",
+    "SpecCode": "53524",
+    "CommonName": "蒼白寬帶銀漢魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella panamensis",
+    "SpecCode": "13517",
+    "CommonName": "Athérine panaméenne",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella pellosemeion",
+    "SpecCode": "53191",
+    "CommonName": "Mancuernas silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella robbersi",
+    "SpecCode": "53611",
+    "CommonName": "罗氏腺银汉鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella sallei",
+    "SpecCode": "53132",
+    "CommonName": "Large-eye silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella sardina",
+    "SpecCode": "53604",
+    "CommonName": "Sardina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella schultzi",
+    "SpecCode": "53528",
+    "CommonName": "Chimalapa silverside",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella serrivomer",
+    "SpecCode": "13518",
+    "CommonName": "Athérine brillante",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella starksi",
+    "SpecCode": "13520",
+    "CommonName": "Capucette étoilée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Atherinella venezuelae",
+    "SpecCode": "53621",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

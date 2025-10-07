@@ -34,7 +34,7 @@
   {
     "ScientificName": "Rhonciscus pauco",
     "SpecCode": "70412",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

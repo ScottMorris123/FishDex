@@ -172,7 +172,7 @@
   {
     "ScientificName": "Salvelinus gritzenkoi",
     "SpecCode": "65003",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -217,7 +217,7 @@
   {
     "ScientificName": "Salvelinus krogiusae",
     "SpecCode": "62774",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -226,7 +226,7 @@
   {
     "ScientificName": "Salvelinus kronocius",
     "SpecCode": "62775",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -235,7 +235,7 @@
   {
     "ScientificName": "Salvelinus kuznetzovi",
     "SpecCode": "62776",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -385,7 +385,7 @@
   {
     "ScientificName": "Salvelinus schmidti",
     "SpecCode": "62777",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -403,7 +403,7 @@
   {
     "ScientificName": "Salvelinus taimyricus",
     "SpecCode": "63001",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -412,7 +412,7 @@
   {
     "ScientificName": "Salvelinus taranetzi",
     "SpecCode": "63243",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Ocosia ramaraoi",
     "SpecCode": "59015",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

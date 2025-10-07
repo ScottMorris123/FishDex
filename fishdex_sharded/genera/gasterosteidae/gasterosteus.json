@@ -40,7 +40,7 @@
   {
     "ScientificName": "Gasterosteus nipponicus",
     "SpecCode": "68420",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",

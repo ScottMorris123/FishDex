@@ -39,7 +39,7 @@
   {
     "ScientificName": "Albula goreensis",
     "SpecCode": "67597",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

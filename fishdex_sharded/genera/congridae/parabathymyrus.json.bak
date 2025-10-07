@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Parabathymyrus brachyrhynchus",
+    "SpecCode": "58548",
+    "CommonName": "Lühikoon-päisangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabathymyrus fijiensis",
+    "SpecCode": "63060",
+    "CommonName": "Fidži päisangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabathymyrus karrerae",
+    "SpecCode": "58645",
+    "CommonName": "Karreri päisangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabathymyrus macrophthalmus",
+    "SpecCode": "10404",
+    "CommonName": "Medama-anago",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabathymyrus oregoni",
+    "SpecCode": "54266",
+    "CommonName": "Atlandi päisangerjas",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Parabathymyrus philippinensis",
+    "SpecCode": "68419",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

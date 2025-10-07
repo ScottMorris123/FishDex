@@ -128,7 +128,7 @@
   {
     "ScientificName": "Stegastes lividus",
     "SpecCode": "58951",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -246,7 +246,7 @@
   {
     "ScientificName": "Stegastes uenfi",
     "SpecCode": "61077",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

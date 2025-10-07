@@ -20,7 +20,7 @@
   {
     "ScientificName": "Mylochromis chekopae",
     "SpecCode": "58749",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Mylochromis ensatus",
     "SpecCode": "58915",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

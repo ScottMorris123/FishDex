@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Sirembo amaculata",
+    "SpecCode": "4965",
+    "CommonName": "Lined cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sirembo imberbis",
+    "SpecCode": "8193",
+    "CommonName": "Belukor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sirembo jerdoni",
+    "SpecCode": "10527",
+    "CommonName": "Belukor batu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sirembo metachroma",
+    "SpecCode": "24954",
+    "CommonName": "Chameleon cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sirembo wami",
+    "SpecCode": "69111",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

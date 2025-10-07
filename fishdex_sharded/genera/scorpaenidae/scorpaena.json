@@ -137,7 +137,7 @@
   {
     "ScientificName": "Scorpaena cocosensis",
     "SpecCode": "62074",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Scorpaena decemradiata",
     "SpecCode": "69155",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Scorpaena fernandeziana",
     "SpecCode": "55120",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Scorpaena grattanica",
     "SpecCode": "65393",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Scorpaena hemilepidota",
     "SpecCode": "59204",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -308,7 +308,7 @@
   {
     "ScientificName": "Scorpaena lacrimata",
     "SpecCode": "62943",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -436,7 +436,7 @@
   {
     "ScientificName": "Scorpaena pascuensis",
     "SpecCode": "55122",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -554,7 +554,7 @@
   {
     "ScientificName": "Scorpaena tierrae",
     "SpecCode": "55123",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -572,7 +572,7 @@
   {
     "ScientificName": "Scorpaena wellingtoni",
     "SpecCode": "69214",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

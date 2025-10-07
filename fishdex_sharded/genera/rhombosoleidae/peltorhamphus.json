@@ -29,7 +29,7 @@
   {
     "ScientificName": "Peltorhamphus tenuis",
     "SpecCode": "49307",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

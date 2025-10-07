@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Ichthyococcus australis",
+    "SpecCode": "23142",
+    "CommonName": "Southern lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyococcus elongatus",
+    "SpecCode": "22718",
+    "CommonName": "Shinju-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyococcus intermedius",
+    "SpecCode": "24486",
+    "CommonName": "Intermediate lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyococcus irregularis",
+    "SpecCode": "57233",
+    "CommonName": "Bulldog lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyococcus ovatus",
+    "SpecCode": "1804",
+    "CommonName": "Helmisukasuu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyococcus parini",
+    "SpecCode": "59936",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyococcus polli",
+    "SpecCode": "11689",
+    "CommonName": "Ginia-shinjueso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

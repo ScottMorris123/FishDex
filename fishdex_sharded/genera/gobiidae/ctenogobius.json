@@ -22,7 +22,7 @@
   {
     "ScientificName": "Ctenogobius cervicosquamus",
     "SpecCode": "55205",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -32,7 +32,7 @@
   {
     "ScientificName": "Ctenogobius chengtuensis",
     "SpecCode": "59395",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -41,7 +41,7 @@
   {
     "ScientificName": "Ctenogobius chusanensis",
     "SpecCode": "67673",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -199,7 +199,7 @@
   {
     "ScientificName": "Ctenogobius szechuanensis",
     "SpecCode": "60225",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -219,7 +219,7 @@
   {
     "ScientificName": "Ctenogobius vexillifer",
     "SpecCode": "66720",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

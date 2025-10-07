@@ -47,7 +47,7 @@
   {
     "ScientificName": "Serrivomer neocaledoniensis",
     "SpecCode": "70482",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

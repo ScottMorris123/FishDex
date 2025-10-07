@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Lepadichthys bilineatus",
+    "SpecCode": "69081",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadichthys caritus",
+    "SpecCode": "16845",
+    "CommonName": "Bleek suiervis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadichthys coccinotaenia",
+    "SpecCode": "8050",
+    "CommonName": "Eyestripe clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadichthys ctenion",
+    "SpecCode": "60708",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadichthys erythraeus",
+    "SpecCode": "55729",
+    "CommonName": "淡紅連鰭喉盤魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadichthys frenatus",
+    "SpecCode": "24186",
+    "CommonName": "Bridled clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadichthys minor",
+    "SpecCode": "17422",
+    "CommonName": "Dwarf clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadichthys sandaracatus",
+    "SpecCode": "55728",
+    "CommonName": "Shark bay clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadichthys springeri",
+    "SpecCode": "59327",
+    "CommonName": "Springer's clingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lepadichthys trishula",
+    "SpecCode": "70461",
+    "CommonName": "Minami-ubauo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

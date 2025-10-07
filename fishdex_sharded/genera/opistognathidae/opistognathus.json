@@ -101,7 +101,7 @@
   {
     "ScientificName": "Opistognathus brochus",
     "SpecCode": "64729",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Opistognathus challenger",
     "SpecCode": "70353",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Opistognathus fossoris",
     "SpecCode": "64731",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -614,7 +614,7 @@
   {
     "ScientificName": "Opistognathus smithvanizi",
     "SpecCode": "64728",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -686,7 +686,7 @@
   {
     "ScientificName": "Opistognathus walkeri",
     "SpecCode": "64730",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,89 @@
+[
+  {
+    "ScientificName": "Bostrychus africanus",
+    "SpecCode": "10009",
+    "CommonName": "Afrikanische Schläfergrundel",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bostrychus albooculata",
+    "SpecCode": "65876",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bostrychus aruensis",
+    "SpecCode": "26323",
+    "CommonName": "Island gudgeon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bostrychus expatria",
+    "SpecCode": "27637",
+    "CommonName": "Bulokot",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bostrychus microphthalmus",
+    "SpecCode": "62349",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bostrychus scalaris",
+    "SpecCode": "66023",
+    "CommonName": "Ladder gudgeon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bostrychus sinensis",
+    "SpecCode": "14480",
+    "CommonName": "Cá Bống bớp",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bostrychus strigogenys",
+    "SpecCode": "26324",
+    "CommonName": "Striped-cheek gudgeon",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bostrychus zonatus",
+    "SpecCode": "10687",
+    "CommonName": "Barred gudgeon",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

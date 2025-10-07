@@ -119,7 +119,7 @@
   {
     "ScientificName": "Cichlasoma zarskei",
     "SpecCode": "66368",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

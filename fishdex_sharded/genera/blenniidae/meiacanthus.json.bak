@@ -1,0 +1,265 @@
+[
+  {
+    "ScientificName": "Meiacanthus abditus",
+    "SpecCode": "46573",
+    "CommonName": "Sulu fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus abruptus",
+    "SpecCode": "66287",
+    "CommonName": "Komodo fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus anema",
+    "SpecCode": "11785",
+    "CommonName": "Freshwater fangblenny",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus atrodorsalis",
+    "SpecCode": "6067",
+    "CommonName": "Augenstreifen-Säbelzahnschleimfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus bundoon",
+    "SpecCode": "25790",
+    "CommonName": "Bundoon blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus crinitus",
+    "SpecCode": "46625",
+    "CommonName": "Hairytail fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus cyanopterus",
+    "SpecCode": "66288",
+    "CommonName": "Bluefin fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus ditrema",
+    "SpecCode": "6068",
+    "CommonName": "Doublepore fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus erdmanni",
+    "SpecCode": "66289",
+    "CommonName": "Erdmann's fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus fraseri",
+    "SpecCode": "59656",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus geminatus",
+    "SpecCode": "46628",
+    "CommonName": "Kardinal-Säbelzahnschleimfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus grammistes",
+    "SpecCode": "6069",
+    "CommonName": "Black-banded blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus kamoharai",
+    "SpecCode": "23758",
+    "CommonName": "Kamoharaginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus limbatus",
+    "SpecCode": "46613",
+    "CommonName": "Manus fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus lineatus",
+    "SpecCode": "13746",
+    "CommonName": "Lined fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus luteus",
+    "SpecCode": "13747",
+    "CommonName": "Gold-stripe harptail blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus mossambicus",
+    "SpecCode": "12755",
+    "CommonName": "Mosambik-Säbelzahnschleimfisch",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus naevius",
+    "SpecCode": "46621",
+    "CommonName": "Birthmark fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus nigrolineatus",
+    "SpecCode": "12641",
+    "CommonName": "Blackline fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus oualanensis",
+    "SpecCode": "46684",
+    "CommonName": "Canary fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus phaeus",
+    "SpecCode": "61228",
+    "CommonName": "Twilight fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus procne",
+    "SpecCode": "46696",
+    "CommonName": "Swallowtail fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus reticulatus",
+    "SpecCode": "46723",
+    "CommonName": "Reticulated fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus smithi",
+    "SpecCode": "7807",
+    "CommonName": "Blennie à bande noire",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus solomon",
+    "SpecCode": "69240",
+    "CommonName": "Solomon fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus tongaensis",
+    "SpecCode": "46688",
+    "CommonName": "汤加岛稀棘鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus urostigma",
+    "SpecCode": "61232",
+    "CommonName": "Tailspot fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus vicinus",
+    "SpecCode": "46632",
+    "CommonName": "Sulawesi fangblenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Meiacanthus vittatus",
+    "SpecCode": "13049",
+    "CommonName": "Black-ribbon harptail blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

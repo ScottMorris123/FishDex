@@ -11,7 +11,7 @@
   {
     "ScientificName": "Bovichtus argentinus",
     "SpecCode": "59307",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Bovichtus oculus",
     "SpecCode": "49315",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

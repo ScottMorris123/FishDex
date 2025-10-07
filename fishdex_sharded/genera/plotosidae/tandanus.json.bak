@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Tandanus bellingerensis",
+    "SpecCode": "68552",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tandanus bostocki",
+    "SpecCode": "12099",
+    "CommonName": "Cobbler",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tandanus tandanus",
+    "SpecCode": "12101",
+    "CommonName": "Australian freshwater catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tandanus tropicanus",
+    "SpecCode": "67741",
+    "CommonName": "Wet tropics tandan",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

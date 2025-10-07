@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Hyperoglyphe antarctica",
+    "SpecCode": "496",
+    "CommonName": "Antarctic butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyperoglyphe bythites",
+    "SpecCode": "3920",
+    "CommonName": "Black driftfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyperoglyphe japonica",
+    "SpecCode": "13043",
+    "CommonName": "Japanese butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyperoglyphe macrophthalma",
+    "SpecCode": "57905",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyperoglyphe perciformis",
+    "SpecCode": "3921",
+    "CommonName": "Ahvenhüperoglüüf",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hyperoglyphe pringlei",
+    "SpecCode": "26374",
+    "CommonName": "Black butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

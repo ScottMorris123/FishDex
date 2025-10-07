@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Isbrueckerichthys alipionis",
+    "SpecCode": "48858",
+    "CommonName": "巴西伊斯甲鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isbrueckerichthys calvus",
+    "SpecCode": "63012",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isbrueckerichthys duseni",
+    "SpecCode": "48859",
+    "CommonName": "Cascudinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isbrueckerichthys epakmos",
+    "SpecCode": "61590",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isbrueckerichthys saxicola",
+    "SpecCode": "63011",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

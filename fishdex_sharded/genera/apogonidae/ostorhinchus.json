@@ -11,7 +11,7 @@
   {
     "ScientificName": "Ostorhinchus aphanes",
     "SpecCode": "66649",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Ostorhinchus aroubiensis",
     "SpecCode": "61606",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Ostorhinchus aterrimus",
     "SpecCode": "60359",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Ostorhinchus brevispinis",
     "SpecCode": "61523",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Ostorhinchus chalcius",
     "SpecCode": "55305",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -174,7 +174,7 @@
   {
     "ScientificName": "Ostorhinchus cyanotaenia",
     "SpecCode": "60349",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -192,7 +192,7 @@
   {
     "ScientificName": "Ostorhinchus diversus",
     "SpecCode": "59180",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -366,7 +366,7 @@
   {
     "ScientificName": "Ostorhinchus leslie",
     "SpecCode": "64203",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -430,7 +430,7 @@
   {
     "ScientificName": "Ostorhinchus melanopterus",
     "SpecCode": "59772",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -475,7 +475,7 @@
   {
     "ScientificName": "Ostorhinchus mydrus",
     "SpecCode": "59773",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -547,7 +547,7 @@
   {
     "ScientificName": "Ostorhinchus noumeae",
     "SpecCode": "60361",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -574,7 +574,7 @@
   {
     "ScientificName": "Ostorhinchus oxina",
     "SpecCode": "59057",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -646,7 +646,7 @@
   {
     "ScientificName": "Ostorhinchus quinquestriatus",
     "SpecCode": "60371",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -655,7 +655,7 @@
   {
     "ScientificName": "Ostorhinchus radcliffei",
     "SpecCode": "59771",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -664,7 +664,7 @@
   {
     "ScientificName": "Ostorhinchus regula",
     "SpecCode": "61524",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -673,7 +673,7 @@
   {
     "ScientificName": "Ostorhinchus relativus",
     "SpecCode": "59453",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -747,7 +747,7 @@
   {
     "ScientificName": "Ostorhinchus sinus",
     "SpecCode": "59454",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

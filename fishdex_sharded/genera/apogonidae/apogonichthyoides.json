@@ -20,7 +20,7 @@
   {
     "ScientificName": "Apogonichthyoides cantoris",
     "SpecCode": "60357",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Apogonichthyoides euspilotus",
     "SpecCode": "64496",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Apogonichthyoides gardineri",
     "SpecCode": "58154",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Apogonichthyoides miniatus",
     "SpecCode": "65763",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Apogonichthyoides regani",
     "SpecCode": "52959",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

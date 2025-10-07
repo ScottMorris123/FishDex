@@ -110,7 +110,7 @@
   {
     "ScientificName": "Orestias gloriae",
     "SpecCode": "66422",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Orestias lastarriae",
     "SpecCode": "61507",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -290,7 +290,7 @@
   {
     "ScientificName": "Orestias piacotensis",
     "SpecCode": "62985",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

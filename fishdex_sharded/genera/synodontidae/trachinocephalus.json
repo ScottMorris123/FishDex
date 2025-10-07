@@ -2,7 +2,7 @@
   {
     "ScientificName": "Trachinocephalus atrisignis",
     "SpecCode": "70223",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Trachinocephalus gauguini",
     "SpecCode": "68867",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

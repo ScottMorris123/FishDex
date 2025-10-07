@@ -2,7 +2,7 @@
   {
     "ScientificName": "Xiurenbagrus dorsalis",
     "SpecCode": "67736",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Xiurenbagrus gigas",
     "SpecCode": "62168",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

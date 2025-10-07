@@ -29,7 +29,7 @@
   {
     "ScientificName": "Antennablennius ceylonensis",
     "SpecCode": "62867",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Antennablennius sexfasciatus",
     "SpecCode": "67695",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

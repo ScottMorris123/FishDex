@@ -102,7 +102,7 @@
   {
     "ScientificName": "Cirripectes jenningsi",
     "SpecCode": "4394",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -165,7 +165,7 @@
   {
     "ScientificName": "Cirripectes randalli",
     "SpecCode": "4400",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

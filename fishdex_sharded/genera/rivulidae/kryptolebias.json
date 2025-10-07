@@ -29,7 +29,7 @@
   {
     "ScientificName": "Kryptolebias gracilis",
     "SpecCode": "63566",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Kryptolebias hermaphroditus",
     "SpecCode": "66228",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -67,7 +67,7 @@
   {
     "ScientificName": "Kryptolebias sepia",
     "SpecCode": "62097",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

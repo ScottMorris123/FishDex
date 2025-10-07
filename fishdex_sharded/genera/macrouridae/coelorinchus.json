@@ -38,7 +38,7 @@
   {
     "ScientificName": "Coelorinchus amirantensis",
     "SpecCode": "64685",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Coelorinchus anisacanthus",
     "SpecCode": "51660",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Coelorinchus aratrum",
     "SpecCode": "51661",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Coelorinchus campbellicus",
     "SpecCode": "60850",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Coelorinchus cylindricus",
     "SpecCode": "57945",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Coelorinchus fuscigulus",
     "SpecCode": "65257",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -362,7 +362,7 @@
   {
     "ScientificName": "Coelorinchus ganymedes",
     "SpecCode": "69531",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -371,7 +371,7 @@
   {
     "ScientificName": "Coelorinchus geronimo",
     "SpecCode": "17108",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -407,7 +407,7 @@
   {
     "ScientificName": "Coelorinchus gormani",
     "SpecCode": "64030",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -434,7 +434,7 @@
   {
     "ScientificName": "Coelorinchus hoangi",
     "SpecCode": "64029",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -578,7 +578,7 @@
   {
     "ScientificName": "Coelorinchus leptorhinus",
     "SpecCode": "62215",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -695,7 +695,7 @@
   {
     "ScientificName": "Coelorinchus melanobranchus",
     "SpecCode": "58898",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -704,7 +704,7 @@
   {
     "ScientificName": "Coelorinchus melanosagmatus",
     "SpecCode": "54943",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -785,7 +785,7 @@
   {
     "ScientificName": "Coelorinchus obscuratus",
     "SpecCode": "64976",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -812,7 +812,7 @@
   {
     "ScientificName": "Coelorinchus osipullus",
     "SpecCode": "64975",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -857,7 +857,7 @@
   {
     "ScientificName": "Coelorinchus polli",
     "SpecCode": "16822",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -884,7 +884,7 @@
   {
     "ScientificName": "Coelorinchus pseudoparallelus",
     "SpecCode": "64918",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -965,7 +965,7 @@
   {
     "ScientificName": "Coelorinchus sheni",
     "SpecCode": "62123",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1109,7 +1109,7 @@
   {
     "ScientificName": "Coelorinchus vityazae",
     "SpecCode": "63421",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1127,7 +1127,7 @@
   {
     "ScientificName": "Coelorinchus yurii",
     "SpecCode": "64974",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

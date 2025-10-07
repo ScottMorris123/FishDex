@@ -2,7 +2,7 @@
   {
     "ScientificName": "Bodianus albotaeniatus",
     "SpecCode": "66314",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Bodianus bathycapros",
     "SpecCode": "64025",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Bodianus busellatus",
     "SpecCode": "64243",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Bodianus neopercularis",
     "SpecCode": "64023",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Bodianus paraleucosticticus",
     "SpecCode": "64026",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

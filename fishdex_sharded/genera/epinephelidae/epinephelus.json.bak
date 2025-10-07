@@ -1,0 +1,825 @@
+[
+  {
+    "ScientificName": "Epinephelus adscensionis",
+    "SpecCode": "14",
+    "CommonName": "Badejo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus aeneus",
+    "SpecCode": "426",
+    "CommonName": "Acour",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus akaara",
+    "SpecCode": "5158",
+    "CommonName": "Ca song cham do",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus albomarginatus",
+    "SpecCode": "6005",
+    "CommonName": "Captain fine",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus amblycephalus",
+    "SpecCode": "6459",
+    "CommonName": "Anak keretang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus analogus",
+    "SpecCode": "348",
+    "CommonName": "Cabrilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus andersoni",
+    "SpecCode": "5523",
+    "CommonName": "Bulang",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus areolatus",
+    "SpecCode": "5367",
+    "CommonName": "Areolate grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus awoara",
+    "SpecCode": "7329",
+    "CommonName": "Aohata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus bilobatus",
+    "SpecCode": "7331",
+    "CommonName": "Brown-spotted rock-cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus bleekeri",
+    "SpecCode": "7333",
+    "CommonName": "Babunjai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus bontoides",
+    "SpecCode": "6460",
+    "CommonName": "Dusky rock cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus bruneus",
+    "SpecCode": "7335",
+    "CommonName": "Ca song nau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus caninus",
+    "SpecCode": "9217",
+    "CommonName": "Cachorro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus chlorocephalus",
+    "SpecCode": "7337",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus chlorostigma",
+    "SpecCode": "5524",
+    "CommonName": "Berttamah",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus clippertonensis",
+    "SpecCode": "61252",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus coeruleopunctatus",
+    "SpecCode": "6440",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus coioides",
+    "SpecCode": "6465",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus corallicola",
+    "SpecCode": "6466",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus costae",
+    "SpecCode": "9224",
+    "CommonName": "Aleksandria kivikoha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus craigi",
+    "SpecCode": "69504",
+    "CommonName": "Brokenbar Grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus cyanopodus",
+    "SpecCode": "5349",
+    "CommonName": "Blue maori",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus daemelii",
+    "SpecCode": "7338",
+    "CommonName": "Black cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus diacanthus",
+    "SpecCode": "7340",
+    "CommonName": "Aohata-modoki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus drummondhayi",
+    "SpecCode": "1204",
+    "CommonName": "Calico grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus epistictus",
+    "SpecCode": "7341",
+    "CommonName": "Black-dotted rock-cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus erythrurus",
+    "SpecCode": "7343",
+    "CommonName": "Cloudy grouper",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus fasciatomaculosus",
+    "SpecCode": "6467",
+    "CommonName": "Banded reef-cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus fasciatus",
+    "SpecCode": "5348",
+    "CommonName": "Abadèche",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus faveatus",
+    "SpecCode": "7344",
+    "CommonName": "Barred-chest grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus flavocaeruleus",
+    "SpecCode": "7345",
+    "CommonName": "Blågul koralbars",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus fuscoguttatus",
+    "SpecCode": "4460",
+    "CommonName": "Aka-madarahata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus fuscomarginatus",
+    "SpecCode": "69505",
+    "CommonName": "Darkmargin grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus gabriellae",
+    "SpecCode": "7346",
+    "CommonName": "Gabriella's grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus geoffroyi",
+    "SpecCode": "69479",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus goreensis",
+    "SpecCode": "4961",
+    "CommonName": "Avaia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus guttatus",
+    "SpecCode": "15",
+    "CommonName": "Arigua",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus heniochus",
+    "SpecCode": "7347",
+    "CommonName": "Bridled grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus hexagonatus",
+    "SpecCode": "6660",
+    "CommonName": "Baraka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus howlandi",
+    "SpecCode": "7348",
+    "CommonName": "Blacksaddle grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus indistinctus",
+    "SpecCode": "7349",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus insularis",
+    "SpecCode": "69480",
+    "CommonName": "Baraka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus irroratus",
+    "SpecCode": "7393",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus itajara",
+    "SpecCode": "16",
+    "CommonName": "Atlantska orjaška kirnja",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus japonicus",
+    "SpecCode": "69478",
+    "CommonName": "Brownspotted grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus kupangensis",
+    "SpecCode": "68868",
+    "CommonName": "Fivebar grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus labriformis",
+    "SpecCode": "8196",
+    "CommonName": "Cabrilla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus lanceolatus",
+    "SpecCode": "6468",
+    "CommonName": "௨ல்டா கலவா",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus latifasciatus",
+    "SpecCode": "7350",
+    "CommonName": "Banded grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus lebretonianus",
+    "SpecCode": "7351",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus longispinis",
+    "SpecCode": "7352",
+    "CommonName": "Cabot sale",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus macrospilos",
+    "SpecCode": "6661",
+    "CommonName": "Bigspot rockcod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus maculatus",
+    "SpecCode": "5350",
+    "CommonName": "Bantulon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus magniscuttis",
+    "SpecCode": "6469",
+    "CommonName": "Cabot aux yeux verts",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus malabaricus",
+    "SpecCode": "6439",
+    "CommonName": "Anid",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus marginatus",
+    "SpecCode": "6470",
+    "CommonName": "Awro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus melanostigma",
+    "SpecCode": "6471",
+    "CommonName": "Alteng",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus merra",
+    "SpecCode": "4923",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus miliaris",
+    "SpecCode": "7353",
+    "CommonName": "Ata'ata-uli",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus morio",
+    "SpecCode": "17",
+    "CommonName": "Ameerika kivikoha",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus morrhua",
+    "SpecCode": "5353",
+    "CommonName": "Ata'ata-tusitusi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus multinotatus",
+    "SpecCode": "7354",
+    "CommonName": "Alovo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus ongus",
+    "SpecCode": "6472",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus poecilonotus",
+    "SpecCode": "7357",
+    "CommonName": "Baraka",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus polylepis",
+    "SpecCode": "7358",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus polyphekadion",
+    "SpecCode": "6473",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus polystigma",
+    "SpecCode": "6474",
+    "CommonName": "Bulang",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus posteli",
+    "SpecCode": "7359",
+    "CommonName": "Boutsou",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus quinquefasciatus",
+    "SpecCode": "66479",
+    "CommonName": "Mérou géant du Pacifique",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus quoyanus",
+    "SpecCode": "6475",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus radiatus",
+    "SpecCode": "7360",
+    "CommonName": "Bulang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus retouti",
+    "SpecCode": "7361",
+    "CommonName": "Akahata-modoki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus rivulatus",
+    "SpecCode": "6001",
+    "CommonName": "Bulang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus sexfasciatus",
+    "SpecCode": "4825",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus socialis",
+    "SpecCode": "7362",
+    "CommonName": "'Atara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus spilotoceps",
+    "SpecCode": "5837",
+    "CommonName": "Asdhaan faana",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus stictus",
+    "SpecCode": "7363",
+    "CommonName": "Aohata-modoki",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus stoliczkae",
+    "SpecCode": "7364",
+    "CommonName": "Epaulet grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus striatus",
+    "SpecCode": "18",
+    "CommonName": "Cherna criolla",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus suborbitalis",
+    "SpecCode": "7365",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus summana",
+    "SpecCode": "7366",
+    "CommonName": "Abuhon",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus tauvina",
+    "SpecCode": "4461",
+    "CommonName": "Ali",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus timorensis",
+    "SpecCode": "7367",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus trimaculatus",
+    "SpecCode": "7368",
+    "CommonName": "Black-saddled grouper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus trophis",
+    "SpecCode": "7369",
+    "CommonName": "Lokos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus tuamotuensis",
+    "SpecCode": "7370",
+    "CommonName": "Kito",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus tukula",
+    "SpecCode": "5525",
+    "CommonName": "Aartappel-baars",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus undulatostriatus",
+    "SpecCode": "7371",
+    "CommonName": "Abo-abo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Epinephelus undulosus",
+    "SpecCode": "6476",
+    "CommonName": "௨ல்டா கலவா",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

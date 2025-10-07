@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pycnochromis abruptus",
     "SpecCode": "58941",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Pycnochromis agilis",
     "SpecCode": "69154",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Pycnochromis fatuhivae",
     "SpecCode": "58943",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Pycnochromis howsoni",
     "SpecCode": "67702",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

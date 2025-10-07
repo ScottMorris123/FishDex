@@ -1,0 +1,129 @@
+[
+  {
+    "ScientificName": "Herichthys bartoni",
+    "SpecCode": "6318",
+    "CommonName": "Bartoni Cichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys carpintis",
+    "SpecCode": "26772",
+    "CommonName": "Lowland cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys cyanoguttatus",
+    "SpecCode": "3614",
+    "CommonName": "Helmiäiskirjoahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys deppii",
+    "SpecCode": "57876",
+    "CommonName": "Mojarra del sur",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys labridens",
+    "SpecCode": "6319",
+    "CommonName": "Blackcheek cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys minckleyi",
+    "SpecCode": "6320",
+    "CommonName": "Cuatro Ciénegas cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys molango",
+    "SpecCode": "67363",
+    "CommonName": "Aztec cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys pame",
+    "SpecCode": "67362",
+    "CommonName": "Mojarra caracolera blanca",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys pantostictus",
+    "SpecCode": "6321",
+    "CommonName": "Chairel cichlid",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys pratinus",
+    "SpecCode": "67359",
+    "CommonName": "Green cichlid",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys steindachneri",
+    "SpecCode": "6322",
+    "CommonName": "Mojarra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys tamasopoensis",
+    "SpecCode": "57863",
+    "CommonName": "Mojarra del Tamasopo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys tepehua",
+    "SpecCode": "67634",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Herichthys teporatus",
+    "SpecCode": "68171",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

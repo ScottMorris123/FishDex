@@ -189,7 +189,7 @@
   {
     "ScientificName": "Sardinella pacifica",
     "SpecCode": "69004",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

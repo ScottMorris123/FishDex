@@ -2,7 +2,7 @@
   {
     "ScientificName": "Eutropiichthys britzi",
     "SpecCode": "64187",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Eutropiichthys burmannicus",
     "SpecCode": "63637",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Eutropiichthys cetosus",
     "SpecCode": "67768",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Eutropiichthys salweenensis",
     "SpecCode": "64188",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

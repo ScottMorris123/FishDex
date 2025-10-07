@@ -2,7 +2,7 @@
   {
     "ScientificName": "Aiakas kreffti",
     "SpecCode": "47911",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Aiakas zinorum",
     "SpecCode": "47912",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

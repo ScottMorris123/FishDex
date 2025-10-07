@@ -1,0 +1,281 @@
+[
+  {
+    "ScientificName": "Cheilopogon abei",
+    "SpecCode": "15316",
+    "CommonName": "Abe's flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon agoo",
+    "SpecCode": "10307",
+    "CommonName": "Cá Chuồn Nhật bản",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon altipennis",
+    "SpecCode": "23233",
+    "CommonName": "Kleinkop-vlieënde vis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon arcticeps",
+    "SpecCode": "15319",
+    "CommonName": "Bearhead flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon atrisignis",
+    "SpecCode": "7509",
+    "CommonName": "Aka-tobi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon californicus",
+    "SpecCode": "13682",
+    "CommonName": "California flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon cyanopterus",
+    "SpecCode": "7695",
+    "CommonName": "Avuador-holandês",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon doederleinii",
+    "SpecCode": "12988",
+    "CommonName": "Jaapani biplaankala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon dorsomacula",
+    "SpecCode": "13676",
+    "CommonName": "Backspot flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon exsiliens",
+    "SpecCode": "1027",
+    "CommonName": "Bandwing Flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon furcatus",
+    "SpecCode": "1028",
+    "CommonName": "Bangsi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon heterurus",
+    "SpecCode": "1029",
+    "CommonName": "Almindelig flyvefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon hubbsi",
+    "SpecCode": "3154",
+    "CommonName": "Blotchwing flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon intermedius",
+    "SpecCode": "15346",
+    "CommonName": "Flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon japonicus",
+    "SpecCode": "12987",
+    "CommonName": "Hama-tobi-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon katoptron",
+    "SpecCode": "15349",
+    "CommonName": "Antolihawon",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon melanocercus",
+    "SpecCode": "47485",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon melanurus",
+    "SpecCode": "1030",
+    "CommonName": "Atlantic flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon milleri",
+    "SpecCode": "9015",
+    "CommonName": "Exocet de Guinée",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon nigricans",
+    "SpecCode": "7696",
+    "CommonName": "African flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon olgae",
+    "SpecCode": "65625",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon papilio",
+    "SpecCode": "13680",
+    "CommonName": "Butterfly flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon pinnatibarbatus",
+    "SpecCode": "9018",
+    "CommonName": "Bennett's flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon pitcairnensis",
+    "SpecCode": "15351",
+    "CommonName": "南大洋燕鰩魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon rapanouiensis",
+    "SpecCode": "15353",
+    "CommonName": "Easter island flyingfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon spilonotopterus",
+    "SpecCode": "13683",
+    "CommonName": "Cá Chuồn vây chấm",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon spilopterus",
+    "SpecCode": "15358",
+    "CommonName": "Belalang",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon suttoni",
+    "SpecCode": "5121",
+    "CommonName": "Baikinakina",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon unicolor",
+    "SpecCode": "23049",
+    "CommonName": "Baiura",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon ventralis",
+    "SpecCode": "53979",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cheilopogon xenopterus",
+    "SpecCode": "13686",
+    "CommonName": "Exocet à pointe blanche",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

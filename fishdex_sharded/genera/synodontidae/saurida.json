@@ -83,7 +83,7 @@
   {
     "ScientificName": "Saurida lessepsianus",
     "SpecCode": "67904",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -147,7 +147,7 @@
   {
     "ScientificName": "Saurida pseudotumbil",
     "SpecCode": "61059",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

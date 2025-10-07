@@ -1,0 +1,43 @@
+[
+  {
+    "ScientificName": "Rhonciscus bayanus",
+    "SpecCode": "6412",
+    "CommonName": "Boquimorada",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhonciscus branickii",
+    "SpecCode": "13736",
+    "CommonName": "Cabezón",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhonciscus crocro",
+    "SpecCode": "1147",
+    "CommonName": "Atlantic grunt",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhonciscus pauco",
+    "SpecCode": "70412",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

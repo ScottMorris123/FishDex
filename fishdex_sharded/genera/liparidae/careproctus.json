@@ -29,7 +29,7 @@
   {
     "ScientificName": "Careproctus aciculipunctatus",
     "SpecCode": "51864",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Careproctus acifer",
     "SpecCode": "56165",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Careproctus ampliceps",
     "SpecCode": "58806",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Careproctus atakamensis",
     "SpecCode": "56166",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Careproctus bowersianus",
     "SpecCode": "51485",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Careproctus canus",
     "SpecCode": "51477",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Careproctus catherinae",
     "SpecCode": "58815",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Careproctus crozetensis",
     "SpecCode": "64562",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -290,7 +290,7 @@
   {
     "ScientificName": "Careproctus discoveryae",
     "SpecCode": "64474",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -317,7 +317,7 @@
   {
     "ScientificName": "Careproctus eltaninae",
     "SpecCode": "56199",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Careproctus fedorovi",
     "SpecCode": "56168",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -353,7 +353,7 @@
   {
     "ScientificName": "Careproctus filamentosus",
     "SpecCode": "51460",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Careproctus guillemi",
     "SpecCode": "49827",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -425,7 +425,7 @@
   {
     "ScientificName": "Careproctus improvisus",
     "SpecCode": "56136",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -434,7 +434,7 @@
   {
     "ScientificName": "Careproctus inflexidens",
     "SpecCode": "56186",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -479,7 +479,7 @@
   {
     "ScientificName": "Careproctus lacmi",
     "SpecCode": "56137",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -515,7 +515,7 @@
   {
     "ScientificName": "Careproctus leptorhinus",
     "SpecCode": "56169",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -524,7 +524,7 @@
   {
     "ScientificName": "Careproctus lerikimae",
     "SpecCode": "68919",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -596,7 +596,7 @@
   {
     "ScientificName": "Careproctus maculosus",
     "SpecCode": "64564",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -605,7 +605,7 @@
   {
     "ScientificName": "Careproctus magellanicus",
     "SpecCode": "58871",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -686,7 +686,7 @@
   {
     "ScientificName": "Careproctus microstomus",
     "SpecCode": "51435",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -695,7 +695,7 @@
   {
     "ScientificName": "Careproctus minimus",
     "SpecCode": "56170",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -704,7 +704,7 @@
   {
     "ScientificName": "Careproctus mollis",
     "SpecCode": "51488",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -722,7 +722,7 @@
   {
     "ScientificName": "Careproctus narilobus",
     "SpecCode": "66705",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -767,7 +767,7 @@
   {
     "ScientificName": "Careproctus opisthotremus",
     "SpecCode": "51869",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -821,7 +821,7 @@
   {
     "ScientificName": "Careproctus parviporatus",
     "SpecCode": "56139",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -830,7 +830,7 @@
   {
     "ScientificName": "Careproctus patagonicus",
     "SpecCode": "58872",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -848,7 +848,7 @@
   {
     "ScientificName": "Careproctus pellucicauda",
     "SpecCode": "66706",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -884,7 +884,7 @@
   {
     "ScientificName": "Careproctus pseudoprofundicola",
     "SpecCode": "56171",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -956,7 +956,7 @@
   {
     "ScientificName": "Careproctus rimiventris",
     "SpecCode": "56173",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -992,7 +992,7 @@
   {
     "ScientificName": "Careproctus sandwichensis",
     "SpecCode": "56124",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1001,7 +1001,7 @@
   {
     "ScientificName": "Careproctus scaphopterus",
     "SpecCode": "56125",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1100,7 +1100,7 @@
   {
     "ScientificName": "Careproctus stigmatogenus",
     "SpecCode": "64565",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1145,7 +1145,7 @@
   {
     "ScientificName": "Careproctus tricapitidens",
     "SpecCode": "56126",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1163,7 +1163,7 @@
   {
     "ScientificName": "Careproctus vladibeckeri",
     "SpecCode": "56174",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1172,7 +1172,7 @@
   {
     "ScientificName": "Careproctus zachirus",
     "SpecCode": "51484",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -1181,7 +1181,7 @@
   {
     "ScientificName": "Careproctus zispi",
     "SpecCode": "56129",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,147 @@
+[
+  {
+    "ScientificName": "Hypsoblennius brevipinnis",
+    "SpecCode": "8269",
+    "CommonName": "Barnacle blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius caulopus",
+    "SpecCode": "46793",
+    "CommonName": "Tidepool blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius digueti",
+    "SpecCode": "61233",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius exstochilus",
+    "SpecCode": "16506",
+    "CommonName": "Blenio cornudo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius gentilis",
+    "SpecCode": "3761",
+    "CommonName": "Bay blenny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius gilberti",
+    "SpecCode": "3762",
+    "CommonName": "Blenia de roca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius hentz",
+    "SpecCode": "3763",
+    "CommonName": "Feather blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius invemar",
+    "SpecCode": "12442",
+    "CommonName": "Tessellated blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius ionthas",
+    "SpecCode": "3764",
+    "CommonName": "Freckled blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius jenkinsi",
+    "SpecCode": "3765",
+    "CommonName": "Borracho mejillonero",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius maculipinna",
+    "SpecCode": "61243",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius paytensis",
+    "SpecCode": "46807",
+    "CommonName": "无鳞高鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius proteus",
+    "SpecCode": "59661",
+    "CommonName": "Borracho de Socorro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius robustus",
+    "SpecCode": "59660",
+    "CommonName": "粗体高鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius sordidus",
+    "SpecCode": "27242",
+    "CommonName": "污点高鳚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hypsoblennius striatus",
+    "SpecCode": "46799",
+    "CommonName": "Striated blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Bryconacidnus ellisae",
+    "SpecCode": "51099",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryconacidnus hemigrammus",
+    "SpecCode": "61974",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bryconacidnus paipayensis",
+    "SpecCode": "51097",
+    "CommonName": "Mojarita",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

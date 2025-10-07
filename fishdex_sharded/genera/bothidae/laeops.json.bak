@@ -1,0 +1,110 @@
+[
+  {
+    "ScientificName": "Laeops clarus",
+    "SpecCode": "15576",
+    "CommonName": "Clear fin-base flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops cypho",
+    "SpecCode": "23882",
+    "CommonName": "Dapang bilog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops gracilis",
+    "SpecCode": "15575",
+    "CommonName": "Dapang bilog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops guentheri",
+    "SpecCode": "10587",
+    "CommonName": "Dapang bilog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops kitaharae",
+    "SpecCode": "24225",
+    "CommonName": "Kithara's flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops lanceolata",
+    "SpecCode": "69674",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops macrophthalmus",
+    "SpecCode": "60533",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops natalensis",
+    "SpecCode": "8893",
+    "CommonName": "Kakie-botvis",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops nigrescens",
+    "SpecCode": "62413",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops nigromaculatus",
+    "SpecCode": "7643",
+    "CommonName": "Areeiro ponteado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops parviceps",
+    "SpecCode": "11234",
+    "CommonName": "Dapang bilog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Laeops pectoralis",
+    "SpecCode": "7645",
+    "CommonName": "Areeiro peitoral",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

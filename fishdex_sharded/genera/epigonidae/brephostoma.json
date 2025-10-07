@@ -2,7 +2,7 @@
   {
     "ScientificName": "Brephostoma carpenteri",
     "SpecCode": "27488",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

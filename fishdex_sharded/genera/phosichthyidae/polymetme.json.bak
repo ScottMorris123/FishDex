@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Polymetme andriashevi",
+    "SpecCode": "59505",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymetme corythaeola",
+    "SpecCode": "5057",
+    "CommonName": "Ginhadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymetme elongata",
+    "SpecCode": "23624",
+    "CommonName": "Ryûgûhadaka",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymetme illustris",
+    "SpecCode": "59504",
+    "CommonName": "Brilliant lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymetme surugaensis",
+    "SpecCode": "59116",
+    "CommonName": "Suruga lightfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polymetme thaeocoryla",
+    "SpecCode": "57353",
+    "CommonName": "luciérnaga musculosa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

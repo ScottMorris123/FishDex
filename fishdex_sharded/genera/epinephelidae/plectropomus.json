@@ -38,7 +38,7 @@
   {
     "ScientificName": "Plectropomus marisrubri",
     "SpecCode": "69553",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

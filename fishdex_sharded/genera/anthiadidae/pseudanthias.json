@@ -56,7 +56,7 @@
   {
     "ScientificName": "Pseudanthias conspicuus",
     "SpecCode": "60620",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Pseudanthias fucinus",
     "SpecCode": "61256",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Pseudanthias gibbosus",
     "SpecCode": "70464",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -236,7 +236,7 @@
   {
     "ScientificName": "Pseudanthias manadensis",
     "SpecCode": "61258",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -263,7 +263,7 @@
   {
     "ScientificName": "Pseudanthias mooreanus",
     "SpecCode": "59194",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -272,7 +272,7 @@
   {
     "ScientificName": "Pseudanthias nobilis",
     "SpecCode": "61255",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -281,7 +281,7 @@
   {
     "ScientificName": "Pseudanthias olivaceus",
     "SpecCode": "46510",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -452,7 +452,7 @@
   {
     "ScientificName": "Pseudanthias xanthomaculatus",
     "SpecCode": "59195",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Physiculus caboverdensis",
     "SpecCode": "70225",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Physiculus cyanostrophus",
     "SpecCode": "60883",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -128,7 +128,7 @@
   {
     "ScientificName": "Pontinus rhodochrous",
     "SpecCode": "56754",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

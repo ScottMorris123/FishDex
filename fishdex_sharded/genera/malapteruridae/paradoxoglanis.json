@@ -2,7 +2,7 @@
   {
     "ScientificName": "Paradoxoglanis caudivittatus",
     "SpecCode": "62287",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Paradoxoglanis cryptus",
     "SpecCode": "62288",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Paradoxoglanis parvus",
     "SpecCode": "62289",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

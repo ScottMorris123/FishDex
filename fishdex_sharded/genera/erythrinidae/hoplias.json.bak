@@ -1,0 +1,119 @@
+[
+  {
+    "ScientificName": "Hoplias aimara",
+    "SpecCode": "27850",
+    "CommonName": "Aimala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias australis",
+    "SpecCode": "64972",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias brasiliensis",
+    "SpecCode": "57719",
+    "CommonName": "Traíra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias curupira",
+    "SpecCode": "64973",
+    "CommonName": "Black wolf-fish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias intermedius",
+    "SpecCode": "67591",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias lacerdae",
+    "SpecCode": "50704",
+    "CommonName": "Giant trahira",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias macrophthalmus",
+    "SpecCode": "11900",
+    "CommonName": "Aimara",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias malabaricus",
+    "SpecCode": "4757",
+    "CommonName": "Bululu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias mbigua",
+    "SpecCode": "68136",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias microcephalus",
+    "SpecCode": "57720",
+    "CommonName": "Traíra",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias microlepis",
+    "SpecCode": "14164",
+    "CommonName": "Dientón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias patana",
+    "SpecCode": "57723",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hoplias teres",
+    "SpecCode": "57724",
+    "CommonName": "Guavina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Wallaceochromis humilis",
+    "SpecCode": "8796",
+    "CommonName": "Rusopalettikala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Wallaceochromis rubrolabiatus",
+    "SpecCode": "62069",
+    "CommonName": "Rødlæbet flodcichlide",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Wallaceochromis signatus",
+    "SpecCode": "62068",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

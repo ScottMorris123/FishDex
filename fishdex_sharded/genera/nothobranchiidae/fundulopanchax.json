@@ -20,7 +20,7 @@
   {
     "ScientificName": "Fundulopanchax avichang",
     "SpecCode": "59921",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Fundulopanchax clauseni",
     "SpecCode": "67241",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Fundulopanchax gresensi",
     "SpecCode": "62245",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Fundulopanchax kamdemi",
     "SpecCode": "63491",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Fundulopanchax traudeae",
     "SpecCode": "63217",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

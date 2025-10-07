@@ -1,0 +1,101 @@
+[
+  {
+    "ScientificName": "Bagrus bajad",
+    "SpecCode": "5462",
+    "CommonName": "Ab Chanap",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus caeruleus",
+    "SpecCode": "9280",
+    "CommonName": "淡黑鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus degeni",
+    "SpecCode": "9281",
+    "CommonName": "德氏鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus docmak",
+    "SpecCode": "6519",
+    "CommonName": "Ab chanap",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus filamentosus",
+    "SpecCode": "9282",
+    "CommonName": "Aboro",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus lubosicus",
+    "SpecCode": "9284",
+    "CommonName": "大眼鱨",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus meridionalis",
+    "SpecCode": "4721",
+    "CommonName": "Kampango",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus orientalis",
+    "SpecCode": "9285",
+    "CommonName": "Katoga",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus tucumanus",
+    "SpecCode": "66126",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus ubangensis",
+    "SpecCode": "9286",
+    "CommonName": "Amakalangonda",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Bagrus urostigma",
+    "SpecCode": "9287",
+    "CommonName": "Somalia catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

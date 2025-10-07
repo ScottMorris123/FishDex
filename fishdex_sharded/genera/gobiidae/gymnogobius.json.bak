@@ -1,0 +1,160 @@
+[
+  {
+    "ScientificName": "Gymnogobius breunigii",
+    "SpecCode": "63400",
+    "CommonName": "Biringo",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius castaneus",
+    "SpecCode": "15783",
+    "CommonName": "Biringo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius cylindricus",
+    "SpecCode": "15867",
+    "CommonName": "Kiseruhaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius heptacanthus",
+    "SpecCode": "15868",
+    "CommonName": "Nikuhaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius isaza",
+    "SpecCode": "15869",
+    "CommonName": "Isaza",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius macrognathos",
+    "SpecCode": "15784",
+    "CommonName": "Edohaze",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius mororanus",
+    "SpecCode": "23695",
+    "CommonName": "eol-nug-mang-dug",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius nigrimembranis",
+    "SpecCode": "60407",
+    "CommonName": "黑皮裸身鰕虎魚",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius opperiens",
+    "SpecCode": "63401",
+    "CommonName": "Shima-ukigori",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius petschiliensis",
+    "SpecCode": "63402",
+    "CommonName": "sumi-ukigori",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius scrobiculatus",
+    "SpecCode": "59943",
+    "CommonName": "Kubo-haze",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius taranetzi",
+    "SpecCode": "48342",
+    "CommonName": "Shinjikohaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius transversefasciatus",
+    "SpecCode": "59361",
+    "CommonName": "横带裸头鰕虎鱼",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius uchidai",
+    "SpecCode": "15871",
+    "CommonName": "Chikuzenhaze",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius urotaenia",
+    "SpecCode": "15872",
+    "CommonName": "Juzukakehaze",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnogobius zhoushanensis",
+    "SpecCode": "64548",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

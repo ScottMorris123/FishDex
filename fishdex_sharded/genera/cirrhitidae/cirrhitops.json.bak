@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Cirrhitops fasciatus",
+    "SpecCode": "7792",
+    "CommonName": "Banded hawk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitops hubbardi",
+    "SpecCode": "12693",
+    "CommonName": "Sumitsukigonbe",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cirrhitops mascarenensis",
+    "SpecCode": "65220",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

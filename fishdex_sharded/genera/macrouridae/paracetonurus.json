@@ -2,7 +2,7 @@
   {
     "ScientificName": "Paracetonurus flagellicauda",
     "SpecCode": "50019",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

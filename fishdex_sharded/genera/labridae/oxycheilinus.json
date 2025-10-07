@@ -39,7 +39,7 @@
   {
     "ScientificName": "Oxycheilinus lineatus",
     "SpecCode": "63450",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

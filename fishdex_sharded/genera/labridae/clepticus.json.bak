@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Clepticus africanus",
+    "SpecCode": "60808",
+    "CommonName": "African Creole wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clepticus brasiliensis",
+    "SpecCode": "60809",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Clepticus parrae",
+    "SpecCode": "3656",
+    "CommonName": "Barracuda waitin boy",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

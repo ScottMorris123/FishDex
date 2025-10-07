@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Isorineloricaria acuarius",
+    "SpecCode": "70289",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isorineloricaria spinosissima",
+    "SpecCode": "14169",
+    "CommonName": "Espina",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isorineloricaria tenuicauda",
+    "SpecCode": "48962",
+    "CommonName": "Bebechicha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Isorineloricaria villarsi",
+    "SpecCode": "49890",
+    "CommonName": "絨下口鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

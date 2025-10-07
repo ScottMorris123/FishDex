@@ -2,7 +2,7 @@
   {
     "ScientificName": "Barathrites iris",
     "SpecCode": "46285",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Barathrites parri",
     "SpecCode": "54227",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Neamia articycla",
+    "SpecCode": "64206",
+    "CommonName": "Circular cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neamia notula",
+    "SpecCode": "60355",
+    "CommonName": "Gillspot cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neamia octospina",
+    "SpecCode": "8593",
+    "CommonName": "Agstekel-kardinaal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Neamia xenica",
+    "SpecCode": "65752",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

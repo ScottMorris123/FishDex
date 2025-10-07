@@ -1,0 +1,86 @@
+[
+  {
+    "ScientificName": "Peprilus burti",
+    "SpecCode": "3924",
+    "CommonName": "Butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peprilus crenulatus",
+    "SpecCode": "68368",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peprilus medius",
+    "SpecCode": "14139",
+    "CommonName": "Gallinazo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peprilus ovatus",
+    "SpecCode": "14142",
+    "CommonName": "Cortez butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peprilus paru",
+    "SpecCode": "28143",
+    "CommonName": "American harvestfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peprilus simillimus",
+    "SpecCode": "493",
+    "CommonName": "Butterfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peprilus snyderi",
+    "SpecCode": "14146",
+    "CommonName": "Gallinazo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peprilus triacanthus",
+    "SpecCode": "492",
+    "CommonName": "American butterfish",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Peprilus xanthurus",
+    "SpecCode": "68369",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

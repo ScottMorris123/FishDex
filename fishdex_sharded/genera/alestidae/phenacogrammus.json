@@ -20,7 +20,7 @@
   {
     "ScientificName": "Phenacogrammus concolor",
     "SpecCode": "69814",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Phenacogrammus flexus",
     "SpecCode": "69813",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

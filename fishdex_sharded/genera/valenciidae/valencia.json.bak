@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Valencia hispanica",
+    "SpecCode": "6284",
+    "CommonName": "Cryprinodonte de Valence",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valencia letourneuxi",
+    "SpecCode": "10462",
+    "CommonName": "Barkuleci i Korfuzit",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Valencia robertae",
+    "SpecCode": "67749",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

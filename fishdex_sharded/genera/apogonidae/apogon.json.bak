@@ -1,0 +1,488 @@
+[
+  {
+    "ScientificName": "Apogon americanus",
+    "SpecCode": "27233",
+    "CommonName": "Brazilian flamefish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon atradorsatus",
+    "SpecCode": "25507",
+    "CommonName": "Blacktip cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon atricaudus",
+    "SpecCode": "46600",
+    "CommonName": "Cardenal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon aurolineatus",
+    "SpecCode": "3521",
+    "CommonName": "Bridle cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon axillaris",
+    "SpecCode": "17360",
+    "CommonName": "Axillary-spot cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon binotatus",
+    "SpecCode": "3522",
+    "CommonName": "Barred cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon campbelli",
+    "SpecCode": "63429",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon caudicinctus",
+    "SpecCode": "58152",
+    "CommonName": "Little tailband cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon ceramensis",
+    "SpecCode": "67937",
+    "CommonName": "Ceram cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon coccineus",
+    "SpecCode": "5752",
+    "CommonName": "Cryptic cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon crassiceps",
+    "SpecCode": "12992",
+    "CommonName": "Akafuji-tenjikudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon dammermani",
+    "SpecCode": "27481",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon deetsie",
+    "SpecCode": "51830",
+    "CommonName": "Deetsie's cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon dhofar",
+    "SpecCode": "27313",
+    "CommonName": "Dhofar cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon dianthus",
+    "SpecCode": "60364",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon doryssa",
+    "SpecCode": "5753",
+    "CommonName": "Dangat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon dovii",
+    "SpecCode": "8256",
+    "CommonName": "Cardenal colimanchada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon erythrinus",
+    "SpecCode": "12998",
+    "CommonName": "Cryptic cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon erythrosoma",
+    "SpecCode": "65004",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon fugax",
+    "SpecCode": "70340",
+    "CommonName": "elusive cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon gouldi",
+    "SpecCode": "60348",
+    "CommonName": "Cardenal de lo alto",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon guadalupensis",
+    "SpecCode": "3523",
+    "CommonName": "Cardenal mexicano",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon hypselonotus",
+    "SpecCode": "70432",
+    "CommonName": "Long-spine cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon imberbis",
+    "SpecCode": "1693",
+    "CommonName": "Alcaraz",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon indicus",
+    "SpecCode": "60052",
+    "CommonName": "Indian cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon kautamea",
+    "SpecCode": "63427",
+    "CommonName": "Mārau",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon lachneri",
+    "SpecCode": "3524",
+    "CommonName": "Cardenal estrella blanca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon lativittatus",
+    "SpecCode": "59452",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon latus",
+    "SpecCode": "60370",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon leptocaulus",
+    "SpecCode": "3525",
+    "CommonName": "Slendertail cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon maculatus",
+    "SpecCode": "3526",
+    "CommonName": "Apogon ognisty",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon marquesensis",
+    "SpecCode": "60054",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon mosavi",
+    "SpecCode": "12409",
+    "CommonName": "Dwarf cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon nitidus",
+    "SpecCode": "23651",
+    "CommonName": "Apogon à points bleus",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon pacificus",
+    "SpecCode": "25508",
+    "CommonName": "Cardenal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon phenax",
+    "SpecCode": "3527",
+    "CommonName": "Cardenal mimético",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon pillionatus",
+    "SpecCode": "3528",
+    "CommonName": "Broadsaddle cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon planifrons",
+    "SpecCode": "3529",
+    "CommonName": "Cardenal Pálido",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon posterofasciatus",
+    "SpecCode": "60353",
+    "CommonName": "Rearbar cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon pseudomaculatus",
+    "SpecCode": "3530",
+    "CommonName": "Cardenal de dos puntos",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon quadrisquamatus",
+    "SpecCode": "3531",
+    "CommonName": "Cardenal Espinoso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon retrosella",
+    "SpecCode": "46598",
+    "CommonName": "Barspot cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon robbyi",
+    "SpecCode": "50361",
+    "CommonName": "Striped cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon robinsi",
+    "SpecCode": "16435",
+    "CommonName": "Cardenal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon rubellus",
+    "SpecCode": "62869",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon rubrifuscus",
+    "SpecCode": "63428",
+    "CommonName": "Flathead cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon seminigracaudus",
+    "SpecCode": "63902",
+    "CommonName": "Darktail cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon semiornatus",
+    "SpecCode": "8008",
+    "CommonName": "Drieband-kardinaal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon soloriens",
+    "SpecCode": "70365",
+    "CommonName": "Asahi-tenjikudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon susanae",
+    "SpecCode": "60053",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon talboti",
+    "SpecCode": "12906",
+    "CommonName": "Flame cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon townsendi",
+    "SpecCode": "3532",
+    "CommonName": "Belted cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon tricinctus",
+    "SpecCode": "66861",
+    "CommonName": "Threeband cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Apogon unicolor",
+    "SpecCode": "23741",
+    "CommonName": "Big red cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

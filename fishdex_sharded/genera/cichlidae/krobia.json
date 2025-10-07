@@ -20,7 +20,7 @@
   {
     "ScientificName": "Krobia petitella",
     "SpecCode": "67180",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Krobia xinguensis",
     "SpecCode": "66454",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

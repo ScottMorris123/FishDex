@@ -101,7 +101,7 @@
   {
     "ScientificName": "Acanthemblemaria harpeza",
     "SpecCode": "60576",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

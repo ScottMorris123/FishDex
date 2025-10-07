@@ -1,0 +1,111 @@
+[
+  {
+    "ScientificName": "Suezichthys arquatus",
+    "SpecCode": "4412",
+    "CommonName": "Painted rainbow wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys aylingi",
+    "SpecCode": "4406",
+    "CommonName": "Butcher's dick",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys bifurcatus",
+    "SpecCode": "59630",
+    "CommonName": "Striped rainbow wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys caudavittatus",
+    "SpecCode": "4409",
+    "CommonName": "Spottail wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys cyanolaemus",
+    "SpecCode": "4411",
+    "CommonName": "Bluethroat rainbow wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys devisi",
+    "SpecCode": "56981",
+    "CommonName": "Australian rainbow wrasse",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys gracilis",
+    "SpecCode": "4407",
+    "CommonName": "Cá Mó vằn đuôi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys notatus",
+    "SpecCode": "4410",
+    "CommonName": "Mon-itobera",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys ornatus",
+    "SpecCode": "58373",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys rosenblatti",
+    "SpecCode": "67040",
+    "CommonName": "Spotted rainbow wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys russelli",
+    "SpecCode": "4413",
+    "CommonName": "Russell's wrasse",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Suezichthys soelae",
+    "SpecCode": "4408",
+    "CommonName": "Pello",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

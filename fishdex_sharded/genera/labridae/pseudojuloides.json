@@ -173,7 +173,7 @@
   {
     "ScientificName": "Pseudojuloides zeus",
     "SpecCode": "68859",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

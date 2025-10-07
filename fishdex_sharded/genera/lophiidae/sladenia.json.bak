@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Sladenia gardineri",
+    "SpecCode": "70481",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sladenia remiger",
+    "SpecCode": "59121",
+    "CommonName": "Celebes monkfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sladenia shaefersi",
+    "SpecCode": "60848",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sladenia zhui",
+    "SpecCode": "66475",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

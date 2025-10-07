@@ -38,7 +38,7 @@
   {
     "ScientificName": "Nemanthias regalis",
     "SpecCode": "26872",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

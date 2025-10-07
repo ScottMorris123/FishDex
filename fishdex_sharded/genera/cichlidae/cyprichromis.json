@@ -2,7 +2,7 @@
   {
     "ScientificName": "Cyprichromis coloratus",
     "SpecCode": "62729",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Cyprichromis zonatus",
     "SpecCode": "60277",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

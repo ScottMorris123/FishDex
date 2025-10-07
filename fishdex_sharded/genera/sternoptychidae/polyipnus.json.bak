@@ -1,0 +1,308 @@
+[
+  {
+    "ScientificName": "Polyipnus aquavitus",
+    "SpecCode": "24500",
+    "CommonName": "Aquavit hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus asper",
+    "SpecCode": "52660",
+    "CommonName": "糙烛光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus asteroides",
+    "SpecCode": "47695",
+    "CommonName": "Pez hacha aquillado",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus bruuni",
+    "SpecCode": "52654",
+    "CommonName": "布氏烛光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus clarus",
+    "SpecCode": "47696",
+    "CommonName": "Slope hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus danae",
+    "SpecCode": "52658",
+    "CommonName": "达纳氏烛光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus elongatus",
+    "SpecCode": "24502",
+    "CommonName": "Elongate hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus fraseri",
+    "SpecCode": "22795",
+    "CommonName": "Tsuno-hônen-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus indicus",
+    "SpecCode": "16711",
+    "CommonName": "印度烛光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus inermis",
+    "SpecCode": "52663",
+    "CommonName": "无刺烛光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus kiwiensis",
+    "SpecCode": "24505",
+    "CommonName": "Kiwi hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus laruei",
+    "SpecCode": "68466",
+    "CommonName": "Bigeye hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus laternatus",
+    "SpecCode": "47592",
+    "CommonName": "Pez hacha linterna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus latirastrus",
+    "SpecCode": "58226",
+    "CommonName": "Combside hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus limatulus",
+    "SpecCode": "61158",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus matsubarai",
+    "SpecCode": "22796",
+    "CommonName": "Hoshi-hônen-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus meteori",
+    "SpecCode": "52652",
+    "CommonName": "米氏烛光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus notatus",
+    "SpecCode": "70224",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus nuttingi",
+    "SpecCode": "7390",
+    "CommonName": "Nutting's hatchet fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus oluolus",
+    "SpecCode": "52664",
+    "CommonName": "馬紹爾群島燭光魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus omphus",
+    "SpecCode": "16713",
+    "CommonName": "象烛光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus ovatus",
+    "SpecCode": "52653",
+    "CommonName": "卵形烛光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus parini",
+    "SpecCode": "22792",
+    "CommonName": "Maru-hônen-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus paxtoni",
+    "SpecCode": "52665",
+    "CommonName": "Paxton's hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus polli",
+    "SpecCode": "10165",
+    "CommonName": "Round hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus ruggeri",
+    "SpecCode": "24507",
+    "CommonName": "Rugby hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus soelae",
+    "SpecCode": "52666",
+    "CommonName": "Soela hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus spinifer",
+    "SpecCode": "22793",
+    "CommonName": "Nokoba-hônen-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus spinosus",
+    "SpecCode": "7593",
+    "CommonName": "Spiny hatchetfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus stereope",
+    "SpecCode": "22794",
+    "CommonName": "Kata-hônen-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus surugaensis",
+    "SpecCode": "52656",
+    "CommonName": "Suruga-hounen-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus tridentifer",
+    "SpecCode": "10562",
+    "CommonName": "Luminous fish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus triphanos",
+    "SpecCode": "10386",
+    "CommonName": "Mitsuyubi-hônen-eso",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Polyipnus unispinus",
+    "SpecCode": "27620",
+    "CommonName": "单棘烛光鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,473 @@
+[
+  {
+    "ScientificName": "Scarus altipinnis",
+    "SpecCode": "5540",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus arabicus",
+    "SpecCode": "12661",
+    "CommonName": "Arabian parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus caudofasciatus",
+    "SpecCode": "7908",
+    "CommonName": "Bartail parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus chameleon",
+    "SpecCode": "5543",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus chinensis",
+    "SpecCode": "60439",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus coelestinus",
+    "SpecCode": "1152",
+    "CommonName": "Blue tumbler",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus coeruleus",
+    "SpecCode": "1153",
+    "CommonName": "Blå papegøjefisk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus collana",
+    "SpecCode": "14379",
+    "CommonName": "Greenband parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus compressus",
+    "SpecCode": "13981",
+    "CommonName": "Azure parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus dimidiatus",
+    "SpecCode": "4973",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus dubius",
+    "SpecCode": "4967",
+    "CommonName": "Isdang loro",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus falcipinnis",
+    "SpecCode": "7911",
+    "CommonName": "Greenbelly parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus ferrugineus",
+    "SpecCode": "14380",
+    "CommonName": "Gain masdi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus festivus",
+    "SpecCode": "5544",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus flavipectoralis",
+    "SpecCode": "4968",
+    "CommonName": "Alawa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus forsteni",
+    "SpecCode": "5545",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus frenatus",
+    "SpecCode": "5546",
+    "CommonName": "Amimebudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus fuscocaudalis",
+    "SpecCode": "58508",
+    "CommonName": "Black-tail parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus fuscopurpureus",
+    "SpecCode": "14381",
+    "CommonName": "Gain",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus ghobban",
+    "SpecCode": "5548",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus globiceps",
+    "SpecCode": "4970",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus gracilis",
+    "SpecCode": "60441",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus guacamaia",
+    "SpecCode": "1155",
+    "CommonName": "Bermuda papagoikala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus hoefleri",
+    "SpecCode": "5018",
+    "CommonName": "Badião",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus hypselopterus",
+    "SpecCode": "12707",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus iseri",
+    "SpecCode": "1154",
+    "CommonName": "Aipimixira",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus koputea",
+    "SpecCode": "4980",
+    "CommonName": "Koputea",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus longipinnis",
+    "SpecCode": "4981",
+    "CommonName": "Highfin parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus maculipinna",
+    "SpecCode": "63577",
+    "CommonName": "Spot fin parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus niger",
+    "SpecCode": "5550",
+    "CommonName": "Aa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus obishime",
+    "SpecCode": "12831",
+    "CommonName": "Obishime",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus oviceps",
+    "SpecCode": "5551",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus ovifrons",
+    "SpecCode": "23512",
+    "CommonName": "Aobudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus perrico",
+    "SpecCode": "8392",
+    "CommonName": "Bumphead parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus persicus",
+    "SpecCode": "14383",
+    "CommonName": "Bakaa",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus prasiognathos",
+    "SpecCode": "4971",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus psittacus",
+    "SpecCode": "5553",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus quoyi",
+    "SpecCode": "5554",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus rivulatus",
+    "SpecCode": "4969",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus rubroviolaceus",
+    "SpecCode": "5555",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus russelii",
+    "SpecCode": "7912",
+    "CommonName": "Eclipse parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus scaber",
+    "SpecCode": "7913",
+    "CommonName": "Cateau binik",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus schlegeli",
+    "SpecCode": "4975",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus spinus",
+    "SpecCode": "4974",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus taeniopterus",
+    "SpecCode": "1156",
+    "CommonName": "Blue chub",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus tricolor",
+    "SpecCode": "6438",
+    "CommonName": "Aliyakyak",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus trispinosus",
+    "SpecCode": "59493",
+    "CommonName": "Bico-verde",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus vetula",
+    "SpecCode": "1157",
+    "CommonName": "Blownose",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus viridifucatus",
+    "SpecCode": "7914",
+    "CommonName": "Greenlip parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus xanthopleura",
+    "SpecCode": "5541",
+    "CommonName": "Akabudai",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus zelindae",
+    "SpecCode": "59490",
+    "CommonName": "Aipimixira",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Scarus zufar",
+    "SpecCode": "26221",
+    "CommonName": "Dhofar parrotfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

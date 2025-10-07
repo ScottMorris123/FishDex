@@ -1,0 +1,22 @@
+[
+  {
+    "ScientificName": "Ichthyocampus bikiniensis",
+    "SpecCode": "61276",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ichthyocampus carce",
+    "SpecCode": "11808",
+    "CommonName": "Freshwater pipefish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

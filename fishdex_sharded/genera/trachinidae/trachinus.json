@@ -29,7 +29,7 @@
   {
     "ScientificName": "Trachinus cornutus",
     "SpecCode": "59433",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -40,7 +40,7 @@
   {
     "ScientificName": "Seriolella tinro",
     "SpecCode": "62084",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Pseudohemiodon amazonum",
+    "SpecCode": "50647",
+    "CommonName": "亚马逊拟半齿甲鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiodon apithanos",
+    "SpecCode": "50648",
+    "CommonName": "Caracha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiodon devincenzii",
+    "SpecCode": "50649",
+    "CommonName": "Catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiodon lamina",
+    "SpecCode": "50651",
+    "CommonName": "Pikkulattamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiodon laticeps",
+    "SpecCode": "50652",
+    "CommonName": "Caracha",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiodon platycephalus",
+    "SpecCode": "50653",
+    "CommonName": "Koukerolattamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiodon thorectes",
+    "SpecCode": "50654",
+    "CommonName": "Kuviolattamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudohemiodon unillano",
+    "SpecCode": "70028",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

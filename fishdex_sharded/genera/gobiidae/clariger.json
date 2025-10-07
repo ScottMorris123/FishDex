@@ -38,7 +38,7 @@
   {
     "ScientificName": "Clariger sirahamaensis",
     "SpecCode": "66962",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Clariger taiwanensis",
     "SpecCode": "66960",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

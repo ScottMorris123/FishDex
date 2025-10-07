@@ -11,7 +11,7 @@
   {
     "ScientificName": "Oxyurichthys chinensis",
     "SpecCode": "68800",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -66,7 +66,7 @@
   {
     "ScientificName": "Oxyurichthys limophilus",
     "SpecCode": "68801",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -94,7 +94,7 @@
   {
     "ScientificName": "Oxyurichthys mindanensis",
     "SpecCode": "59780",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -161,7 +161,7 @@
   {
     "ScientificName": "Oxyurichthys rapa",
     "SpecCode": "68802",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -207,7 +207,7 @@
   {
     "ScientificName": "Oxyurichthys viridis",
     "SpecCode": "59872",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -226,7 +226,7 @@
   {
     "ScientificName": "Oxyurichthys zeta",
     "SpecCode": "68803",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

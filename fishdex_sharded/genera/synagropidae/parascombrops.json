@@ -20,7 +20,7 @@
   {
     "ScientificName": "Parascombrops glossodon",
     "SpecCode": "68594",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Parascombrops madagascariensis",
     "SpecCode": "68596",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Parascombrops mochizukii",
     "SpecCode": "68597",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Parascombrops nakayamai",
     "SpecCode": "68598",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Parascombrops ohei",
     "SpecCode": "68600",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Parascombrops parvidens",
     "SpecCode": "68601",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

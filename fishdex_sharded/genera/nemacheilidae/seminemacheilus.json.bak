@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Seminemacheilus dursunavsari",
+    "SpecCode": "70180",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seminemacheilus ispartensis",
+    "SpecCode": "63289",
+    "CommonName": "Isparta tiigitrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Seminemacheilus lendlii",
+    "SpecCode": "48379",
+    "CommonName": "Anatolian loach",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

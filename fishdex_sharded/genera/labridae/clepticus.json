@@ -11,7 +11,7 @@
   {
     "ScientificName": "Clepticus brasiliensis",
     "SpecCode": "60809",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

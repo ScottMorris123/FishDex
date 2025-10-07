@@ -1,0 +1,50 @@
+[
+  {
+    "ScientificName": "Aphanius almiriensis",
+    "SpecCode": "63453",
+    "CommonName": "Almiri toothcarp",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanius chantrei",
+    "SpecCode": "10454",
+    "CommonName": "Dislisazancik bali i",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanius desioi",
+    "SpecCode": "9650",
+    "CommonName": "德氏祕鮰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanius fasciatus",
+    "SpecCode": "4834",
+    "CommonName": "Afangus",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Aphanius punctatus",
+    "SpecCode": "61512",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

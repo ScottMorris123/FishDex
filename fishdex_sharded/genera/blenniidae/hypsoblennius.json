@@ -20,7 +20,7 @@
   {
     "ScientificName": "Hypsoblennius digueti",
     "SpecCode": "61233",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -93,7 +93,7 @@
   {
     "ScientificName": "Hypsoblennius maculipinna",
     "SpecCode": "61243",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

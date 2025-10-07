@@ -22,7 +22,7 @@
   {
     "ScientificName": "Bellator farrago",
     "SpecCode": "54485",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,125 @@
+[
+  {
+    "ScientificName": "Lampetra aepyptera",
+    "SpecCode": "2520",
+    "CommonName": "Least brook lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra alavariensis",
+    "SpecCode": "66980",
+    "CommonName": "Aveiro silm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra auremensis",
+    "SpecCode": "66993",
+    "CommonName": "Ourémi silm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra ayresii",
+    "SpecCode": "2522",
+    "CommonName": "Lääneameerika silm",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra fluviatilis",
+    "SpecCode": "4480",
+    "CommonName": "Almindelig flodlampret",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra hubbsi",
+    "SpecCode": "2523",
+    "CommonName": "Central California brook lamprey",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra lanceolata",
+    "SpecCode": "25844",
+    "CommonName": "Lamproie de ruisseau turque",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra lusitanica",
+    "SpecCode": "66994",
+    "CommonName": "Lusitaania silm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra pacifica",
+    "SpecCode": "67149",
+    "CommonName": "Columbia silm",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra planeri",
+    "SpecCode": "4481",
+    "CommonName": "Almindelig bæklampret",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra richardsoni",
+    "SpecCode": "2528",
+    "CommonName": "Lamprey eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra soljani",
+    "SpecCode": "68362",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lampetra zanandreai",
+    "SpecCode": "25867",
+    "CommonName": "Ciriola",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

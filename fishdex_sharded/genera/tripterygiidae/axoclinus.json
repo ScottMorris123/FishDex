@@ -47,7 +47,7 @@
   {
     "ScientificName": "Axoclinus storeyae",
     "SpecCode": "66099",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

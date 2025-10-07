@@ -1,0 +1,328 @@
+[
+  {
+    "ScientificName": "Barbus balcanicus",
+    "SpecCode": "61865",
+    "CommonName": "Balkani pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus barbus",
+    "SpecCode": "4472",
+    "CommonName": "Bambet",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus bergi",
+    "SpecCode": "65058",
+    "CommonName": "Bulgaaria pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus biharicus",
+    "SpecCode": "67877",
+    "CommonName": "Bihari márna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus borysthenicus",
+    "SpecCode": "61874",
+    "CommonName": "Dnepri pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus caninus",
+    "SpecCode": "25792",
+    "CommonName": "Koirabarbi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus carottae",
+    "SpecCode": "55348",
+    "CommonName": "Carotta pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus carpathicus",
+    "SpecCode": "61870",
+    "CommonName": "Karpaadi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus ciscaucasicus",
+    "SpecCode": "47765",
+    "CommonName": "Dagestani pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus cyclolepis",
+    "SpecCode": "25847",
+    "CommonName": "Bıyıklı balık",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus cyri",
+    "SpecCode": "68280",
+    "CommonName": "Gokcha barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus euboicus",
+    "SpecCode": "9589",
+    "CommonName": "Evia barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus fucini",
+    "SpecCode": "69513",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus haasi",
+    "SpecCode": "9591",
+    "CommonName": "Barbo de Cola Roja",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus karunensis",
+    "SpecCode": "68284",
+    "CommonName": "Belizem",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus kubanicus",
+    "SpecCode": "48353",
+    "CommonName": "Kuban barbel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus lacerta",
+    "SpecCode": "48354",
+    "CommonName": "Barbell",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus lorteti",
+    "SpecCode": "56243",
+    "CommonName": "Lorteti pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus macedonicus",
+    "SpecCode": "46096",
+    "CommonName": "Macedonian barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus meridionalis",
+    "SpecCode": "5424",
+    "CommonName": "Balkanska mriana",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus miliaris",
+    "SpecCode": "68285",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus niluferensis",
+    "SpecCode": "64840",
+    "CommonName": "Nilüferi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus oligolepis",
+    "SpecCode": "64841",
+    "CommonName": "Marmara barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus peloponnesius",
+    "SpecCode": "25852",
+    "CommonName": "Brzanka",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus pergamonensis",
+    "SpecCode": "65109",
+    "CommonName": "Bergama barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus petenyi",
+    "SpecCode": "63609",
+    "CommonName": "Romanian barbel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus plebejus",
+    "SpecCode": "25854",
+    "CommonName": "Barbo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus prespensis",
+    "SpecCode": "9628",
+    "CommonName": "Briána",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus rebeli",
+    "SpecCode": "65308",
+    "CommonName": "Mrena e Fanit",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus samniticus",
+    "SpecCode": "69519",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus sperchiensis",
+    "SpecCode": "65110",
+    "CommonName": "Spercheiosi pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus strumicae",
+    "SpecCode": "65111",
+    "CommonName": "Strumica pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus tauricus",
+    "SpecCode": "25952",
+    "CommonName": "Crimean barbel",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus thessalus",
+    "SpecCode": "62370",
+    "CommonName": "Barbeau de Thessalie",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus tyberinus",
+    "SpecCode": "46148",
+    "CommonName": "Parma teverenská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Barbus waleckii",
+    "SpecCode": "65112",
+    "CommonName": "Visla pardkala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

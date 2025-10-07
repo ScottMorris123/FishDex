@@ -20,7 +20,7 @@
   {
     "ScientificName": "Microbrotula geraldalleni",
     "SpecCode": "67781",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Microbrotula greenfieldi",
     "SpecCode": "64508",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Microbrotula hamata",
     "SpecCode": "66570",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -86,7 +86,7 @@
   {
     "ScientificName": "Glaucostegus younholeei",
     "SpecCode": "69589",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -2,7 +2,7 @@
   {
     "ScientificName": "Heteropriacanthus carolinus",
     "SpecCode": "69857",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Heteropriacanthus fulgens",
     "SpecCode": "69858",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

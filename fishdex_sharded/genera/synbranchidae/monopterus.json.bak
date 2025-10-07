@@ -1,0 +1,139 @@
+[
+  {
+    "ScientificName": "Monopterus albus",
+    "SpecCode": "4663",
+    "CommonName": "Antong",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus bicolor",
+    "SpecCode": "65669",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus boueti",
+    "SpecCode": "9895",
+    "CommonName": "Libeeria riisiangerjas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus cuchia",
+    "SpecCode": "5337",
+    "CommonName": "Anahi",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus desilvai",
+    "SpecCode": "59058",
+    "CommonName": "Desilva's blind eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus dienbienensis",
+    "SpecCode": "65680",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus digressus",
+    "SpecCode": "62295",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus eapeni",
+    "SpecCode": "25116",
+    "CommonName": "Malabar swamp eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus fossorius",
+    "SpecCode": "25110",
+    "CommonName": "Malabar swampeel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus hodgarti",
+    "SpecCode": "17473",
+    "CommonName": "Indian spaghetti-eel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus ichthyophoides",
+    "SpecCode": "66178",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus indicus",
+    "SpecCode": "25112",
+    "CommonName": "Bombay swampeel",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus luticolus",
+    "SpecCode": "68314",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus rongsaw",
+    "SpecCode": "68795",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Monopterus roseni",
+    "SpecCode": "49994",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

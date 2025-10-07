@@ -30,7 +30,7 @@
   {
     "ScientificName": "Parrella macropteryx",
     "SpecCode": "57937",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

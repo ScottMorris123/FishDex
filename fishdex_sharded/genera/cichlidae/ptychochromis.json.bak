@@ -1,0 +1,95 @@
+[
+  {
+    "ScientificName": "Ptychochromis curvidens",
+    "SpecCode": "62933",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromis ernestmagnusi",
+    "SpecCode": "65593",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromis grandidieri",
+    "SpecCode": "61566",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromis inornatus",
+    "SpecCode": "59100",
+    "CommonName": "Juba",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromis insolitus",
+    "SpecCode": "62937",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromis loisellei",
+    "SpecCode": "62932",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromis mainty",
+    "SpecCode": "68158",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromis makira",
+    "SpecCode": "62922",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromis oligacanthus",
+    "SpecCode": "8821",
+    "CommonName": "Ruskosaariahven",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ptychochromis onilahy",
+    "SpecCode": "62921",
+    "CommonName": "Boramany",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

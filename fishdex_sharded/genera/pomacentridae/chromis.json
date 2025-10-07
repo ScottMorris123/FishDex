@@ -218,7 +218,7 @@
   {
     "ScientificName": "Chromis flavapicis",
     "SpecCode": "58948",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -479,7 +479,7 @@
   {
     "ScientificName": "Chromis planesi",
     "SpecCode": "62017",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -578,7 +578,7 @@
   {
     "ScientificName": "Chromis torquata",
     "SpecCode": "69611",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

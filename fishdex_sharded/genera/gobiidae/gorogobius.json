@@ -2,7 +2,7 @@
   {
     "ScientificName": "Gorogobius nigricinctus",
     "SpecCode": "22768",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -12,7 +12,7 @@
   {
     "ScientificName": "Gorogobius stevcici",
     "SpecCode": "63746",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

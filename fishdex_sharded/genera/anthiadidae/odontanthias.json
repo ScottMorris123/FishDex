@@ -38,7 +38,7 @@
   {
     "ScientificName": "Odontanthias dorsomaculatus",
     "SpecCode": "56832",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Odontanthias grahami",
     "SpecCode": "64592",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Odontanthias hensleyi",
     "SpecCode": "66426",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Odontanthias katayamai",
     "SpecCode": "64625",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Odontanthias wassi",
     "SpecCode": "64593",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

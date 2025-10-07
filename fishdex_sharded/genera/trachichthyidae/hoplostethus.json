@@ -2,7 +2,7 @@
   {
     "ScientificName": "Hoplostethus abramovi",
     "SpecCode": "15681",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Hoplostethus ravurictus",
     "SpecCode": "65347",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

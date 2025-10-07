@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Encheloclarias baculum",
+    "SpecCode": "27002",
+    "CommonName": "Pikkukonnamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheloclarias curtisoma",
+    "SpecCode": "25884",
+    "CommonName": "Malaijinkonnamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheloclarias kelioides",
+    "SpecCode": "27005",
+    "CommonName": "Vähäkonnamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheloclarias medialis",
+    "SpecCode": "67474",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheloclarias prolatus",
+    "SpecCode": "27003",
+    "CommonName": "Borneonkonnamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheloclarias tapeinopterus",
+    "SpecCode": "23378",
+    "CommonName": "Sumatrankonnamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Encheloclarias velatus",
+    "SpecCode": "57954",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

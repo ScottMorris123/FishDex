@@ -75,7 +75,7 @@
   {
     "ScientificName": "Tylochromis microdon",
     "SpecCode": "9131",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -102,7 +102,7 @@
   {
     "ScientificName": "Tylochromis praecox",
     "SpecCode": "9137",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Tylochromis pulcher",
     "SpecCode": "9138",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -120,7 +120,7 @@
   {
     "ScientificName": "Tylochromis regani",
     "SpecCode": "9141",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -129,7 +129,7 @@
   {
     "ScientificName": "Tylochromis robertsi",
     "SpecCode": "9142",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -147,7 +147,7 @@
   {
     "ScientificName": "Tylochromis trewavasae",
     "SpecCode": "9154",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

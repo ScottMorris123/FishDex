@@ -1,0 +1,317 @@
+[
+  {
+    "ScientificName": "Psednos andriashevi",
+    "SpecCode": "59948",
+    "CommonName": "Andriashev's dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos anoderkes",
+    "SpecCode": "59833",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos argyrogaster",
+    "SpecCode": "66729",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos balushkini",
+    "SpecCode": "59670",
+    "CommonName": "Palemouth snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos barnardi",
+    "SpecCode": "59947",
+    "CommonName": "Blackchin dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos carolinae",
+    "SpecCode": "62197",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos cathetostomus",
+    "SpecCode": "59798",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos chathami",
+    "SpecCode": "66730",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos christinae",
+    "SpecCode": "56214",
+    "CommonName": "European dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos cryptocaeca",
+    "SpecCode": "66731",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos delawarei",
+    "SpecCode": "59832",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos dentatus",
+    "SpecCode": "59793",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos gelatinosus",
+    "SpecCode": "59949",
+    "CommonName": "Gelatinous dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos griseus",
+    "SpecCode": "59831",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos groenlandicus",
+    "SpecCode": "59950",
+    "CommonName": "Greenland dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos harteli",
+    "SpecCode": "59951",
+    "CommonName": "Hartel's dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos islandicus",
+    "SpecCode": "59797",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos longiventris",
+    "SpecCode": "66732",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos melanocephalus",
+    "SpecCode": "59794",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos mexicanus",
+    "SpecCode": "59795",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos microps",
+    "SpecCode": "59952",
+    "CommonName": "Smalleye dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos microstomus",
+    "SpecCode": "66734",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos micruroides",
+    "SpecCode": "59953",
+    "CommonName": "Multipore dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos micrurus",
+    "SpecCode": "15146",
+    "CommonName": "Barnard's dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos mirabilis",
+    "SpecCode": "59954",
+    "CommonName": "Marvelous dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos nataliae",
+    "SpecCode": "59671",
+    "CommonName": "Darkgill snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos nemnezi",
+    "SpecCode": "66736",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos pallidus",
+    "SpecCode": "59830",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos platyoperculosus",
+    "SpecCode": "66737",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos rossi",
+    "SpecCode": "65236",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos sargassicus",
+    "SpecCode": "59955",
+    "CommonName": "Sargasso dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos spirohira",
+    "SpecCode": "59796",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos steini",
+    "SpecCode": "59964",
+    "CommonName": "Stein's dwarf snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos struthersi",
+    "SpecCode": "66739",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Psednos whitleyi",
+    "SpecCode": "59672",
+    "CommonName": "Bigcheek snailfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

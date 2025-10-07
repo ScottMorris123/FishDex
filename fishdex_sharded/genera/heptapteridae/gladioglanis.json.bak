@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Gladioglanis anacanthus",
+    "SpecCode": "64681",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gladioglanis conquistador",
+    "SpecCode": "53193",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gladioglanis machadoi",
+    "SpecCode": "26963",
+    "CommonName": "Bagre",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

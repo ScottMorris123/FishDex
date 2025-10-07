@@ -85,7 +85,7 @@
   {
     "ScientificName": "Meiacanthus fraseri",
     "SpecCode": "59656",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

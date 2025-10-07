@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Malakichthys barbatus",
+    "SpecCode": "58590",
+    "CommonName": "Hige-ômehata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malakichthys elegans",
+    "SpecCode": "10446",
+    "CommonName": "Lantern belly",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malakichthys griseus",
+    "SpecCode": "11947",
+    "CommonName": "ômehata",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malakichthys levis",
+    "SpecCode": "59902",
+    "CommonName": "Smooth seabass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malakichthys mochizuki",
+    "SpecCode": "59903",
+    "CommonName": "Mochizuki's seabass",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malakichthys similis",
+    "SpecCode": "64093",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Malakichthys wakiyae",
+    "SpecCode": "9233",
+    "CommonName": "Pol-gi-u-rǒk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

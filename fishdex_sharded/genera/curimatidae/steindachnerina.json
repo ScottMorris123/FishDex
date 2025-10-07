@@ -146,7 +146,7 @@
   {
     "ScientificName": "Steindachnerina notograptos",
     "SpecCode": "64884",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Steindachnerina seriata",
     "SpecCode": "66396",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

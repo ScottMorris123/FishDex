@@ -29,7 +29,7 @@
   {
     "ScientificName": "Bathygadus dubiosus",
     "SpecCode": "58888",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

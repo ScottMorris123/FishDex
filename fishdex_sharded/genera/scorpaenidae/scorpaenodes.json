@@ -128,7 +128,7 @@
   {
     "ScientificName": "Scorpaenodes investigatoris",
     "SpecCode": "59567",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Scorpaenodes rubrivinctus",
     "SpecCode": "65447",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

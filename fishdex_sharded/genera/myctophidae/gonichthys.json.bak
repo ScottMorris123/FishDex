@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Gonichthys barnesi",
+    "SpecCode": "16758",
+    "CommonName": "Barne's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonichthys cocco",
+    "SpecCode": "1716",
+    "CommonName": "Cocco's lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonichthys tenuiculus",
+    "SpecCode": "54408",
+    "CommonName": "Slendertail lanternfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gonichthys venetus",
+    "SpecCode": "54865",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -21,7 +21,7 @@
   {
     "ScientificName": "Pegasus tetrabelos",
     "SpecCode": "68652",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

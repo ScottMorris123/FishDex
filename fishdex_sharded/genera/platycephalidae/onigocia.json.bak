@@ -1,0 +1,74 @@
+[
+  {
+    "ScientificName": "Onigocia bimaculata",
+    "SpecCode": "61099",
+    "CommonName": "Sehoshi-omigochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onigocia grandisquama",
+    "SpecCode": "66809",
+    "CommonName": "印度洋鱗鯒",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onigocia lacrimalis",
+    "SpecCode": "64880",
+    "CommonName": "Smooth-snout flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onigocia macrolepis",
+    "SpecCode": "8133",
+    "CommonName": "Anesagochi",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onigocia oligolepis",
+    "SpecCode": "11258",
+    "CommonName": "Dwarf flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onigocia pedimacula",
+    "SpecCode": "15212",
+    "CommonName": "Broadband flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onigocia sibogae",
+    "SpecCode": "47891",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Onigocia spinosa",
+    "SpecCode": "8130",
+    "CommonName": "Devil flathead",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

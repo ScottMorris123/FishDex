@@ -20,7 +20,7 @@
   {
     "ScientificName": "Plagiopsetta gracilis",
     "SpecCode": "65304",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Plagiopsetta stigmosa",
     "SpecCode": "65267",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

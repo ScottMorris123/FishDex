@@ -323,7 +323,7 @@
   {
     "ScientificName": "Epinephelus geoffroyi",
     "SpecCode": "69479",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

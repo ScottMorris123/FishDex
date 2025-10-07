@@ -1,0 +1,212 @@
+[
+  {
+    "ScientificName": "Rhodeus albomarginatus",
+    "SpecCode": "67829",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus amarus",
+    "SpecCode": "4483",
+    "CommonName": "Acıbalık",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus amurensis",
+    "SpecCode": "46836",
+    "CommonName": "Amuuri mõrukas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus atremius",
+    "SpecCode": "12212",
+    "CommonName": "Hořavka japonská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus colchicus",
+    "SpecCode": "61463",
+    "CommonName": "Kolhise mõrukas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus fangi",
+    "SpecCode": "55889",
+    "CommonName": "Fangi mõrukas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus haradai",
+    "SpecCode": "56287",
+    "CommonName": "Harada mõrukas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus laoensis",
+    "SpecCode": "50362",
+    "CommonName": "Hořavka laoská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus lighti",
+    "SpecCode": "47833",
+    "CommonName": "Hořavka Lightova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus meridionalis",
+    "SpecCode": "65129",
+    "CommonName": "Makedoonia mõrukas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus monguonensis",
+    "SpecCode": "60674",
+    "CommonName": "Sisemongoolia mõrukas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus notatus",
+    "SpecCode": "67830",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus ocellatus",
+    "SpecCode": "4784",
+    "CommonName": "Aasia mõrukas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus pseudosericeus",
+    "SpecCode": "58595",
+    "CommonName": "Hangangnapjulgae",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus rheinardti",
+    "SpecCode": "56286",
+    "CommonName": "Hořavka Rheinhardtova",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus sciosemus",
+    "SpecCode": "61855",
+    "CommonName": "Variuim-mõrukas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus sericeus",
+    "SpecCode": "2948",
+    "CommonName": "Acibalik",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus shitaiensis",
+    "SpecCode": "65960",
+    "CommonName": "Shitai mõrukas",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus sinensis",
+    "SpecCode": "54926",
+    "CommonName": "Hiina mõrukas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus smithii",
+    "SpecCode": "24812",
+    "CommonName": "Nippon Baratanago",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus spinalis",
+    "SpecCode": "54927",
+    "CommonName": "Hainani mõrukas",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus suigensis",
+    "SpecCode": "22895",
+    "CommonName": "Hořavka sujgenská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Rhodeus uyekii",
+    "SpecCode": "25596",
+    "CommonName": "Hořavka jihokorejská",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

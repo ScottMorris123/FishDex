@@ -83,7 +83,7 @@
   {
     "ScientificName": "Cheilodipterus octovittatus",
     "SpecCode": "61405",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

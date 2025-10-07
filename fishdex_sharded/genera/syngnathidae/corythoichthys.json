@@ -20,7 +20,7 @@
   {
     "ScientificName": "Corythoichthys conspicillatus",
     "SpecCode": "66915",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

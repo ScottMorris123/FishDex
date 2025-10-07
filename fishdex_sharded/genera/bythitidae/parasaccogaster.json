@@ -2,7 +2,7 @@
   {
     "ScientificName": "Parasaccogaster melanomycter",
     "SpecCode": "56395",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Parasaccogaster normae",
     "SpecCode": "56396",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Parasaccogaster rhamphidognatha",
     "SpecCode": "56398",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

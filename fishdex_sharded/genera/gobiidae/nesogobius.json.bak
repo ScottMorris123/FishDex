@@ -1,0 +1,48 @@
+[
+  {
+    "ScientificName": "Nesogobius greeni",
+    "SpecCode": "64550",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nesogobius hinsbyi",
+    "SpecCode": "52426",
+    "CommonName": "Girdled goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nesogobius maccullochi",
+    "SpecCode": "64551",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nesogobius pulchellus",
+    "SpecCode": "52424",
+    "CommonName": "Australian sailfin goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nesogobius tigrinus",
+    "SpecCode": "70522",
+    "CommonName": "Tiger sandgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

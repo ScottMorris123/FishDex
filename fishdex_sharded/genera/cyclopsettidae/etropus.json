@@ -2,7 +2,7 @@
   {
     "ScientificName": "Etropus ciadi",
     "SpecCode": "63069",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -30,7 +30,7 @@
   {
     "ScientificName": "Etropus delsmani",
     "SpecCode": "24632",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

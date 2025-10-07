@@ -2,7 +2,7 @@
   {
     "ScientificName": "Argyripnus atlanticus",
     "SpecCode": "11678",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Argyripnus boreopacificus",
     "SpecCode": "70470",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Argyripnus electronus",
     "SpecCode": "54314",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Argyripnus pharos",
     "SpecCode": "63903",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Argyripnus scharpfi",
     "SpecCode": "70589",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

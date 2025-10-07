@@ -100,7 +100,7 @@
   {
     "ScientificName": "Cathorops manglarensis",
     "SpecCode": "63492",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Cathorops mapale",
     "SpecCode": "63325",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -149,7 +149,7 @@
   {
     "ScientificName": "Cathorops puncticulatus",
     "SpecCode": "63446",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish"
     ],

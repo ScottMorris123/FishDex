@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Iodotropheus declivitas",
+    "SpecCode": "50196",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iodotropheus sprengerae",
+    "SpecCode": "8349",
+    "CommonName": "Lavender mbuna",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Iodotropheus stuartgranti",
+    "SpecCode": "8350",
+    "CommonName": "Helmimalawinahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -83,7 +83,7 @@
   {
     "ScientificName": "Oneirodes cordifer",
     "SpecCode": "69325",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Oneirodes haplonema",
     "SpecCode": "59600",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Oneirodes melanocauda",
     "SpecCode": "59127",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -245,7 +245,7 @@
   {
     "ScientificName": "Oneirodes parapietschi",
     "SpecCode": "69307",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Oneirodes pietschi",
     "SpecCode": "61615",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -317,7 +317,7 @@
   {
     "ScientificName": "Oneirodes sanjeevani",
     "SpecCode": "69295",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -344,7 +344,7 @@
   {
     "ScientificName": "Oneirodes sipharum",
     "SpecCode": "69306",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

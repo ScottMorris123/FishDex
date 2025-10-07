@@ -1,0 +1,56 @@
+[
+  {
+    "ScientificName": "Lefua costata",
+    "SpecCode": "28022",
+    "CommonName": "Amuuri idatrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lefua echigonia",
+    "SpecCode": "22943",
+    "CommonName": "Hotokedojô",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lefua nikkonis",
+    "SpecCode": "22945",
+    "CommonName": "Ezo-hotokedojô",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lefua pleskei",
+    "SpecCode": "63304",
+    "CommonName": "Pleske idatrulling",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lefua sayu",
+    "SpecCode": "70186",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Lefua torrentis",
+    "SpecCode": "70187",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

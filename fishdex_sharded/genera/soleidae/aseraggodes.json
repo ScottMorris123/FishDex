@@ -11,7 +11,7 @@
   {
     "ScientificName": "Aseraggodes andersoni",
     "SpecCode": "68441",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Aseraggodes auroculus",
     "SpecCode": "62934",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Aseraggodes beauforti",
     "SpecCode": "63922",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Aseraggodes brevirostris",
     "SpecCode": "63025",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Aseraggodes cheni",
     "SpecCode": "64596",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Aseraggodes corymbus",
     "SpecCode": "63946",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Aseraggodes cyclurus",
     "SpecCode": "62935",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Aseraggodes dubius",
     "SpecCode": "24093",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Aseraggodes filiger",
     "SpecCode": "24088",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -147,7 +147,7 @@
   {
     "ScientificName": "Aseraggodes firmisquamis",
     "SpecCode": "62598",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -174,7 +174,7 @@
   {
     "ScientificName": "Aseraggodes heemstrai",
     "SpecCode": "63029",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -183,7 +183,7 @@
   {
     "ScientificName": "Aseraggodes heraldi",
     "SpecCode": "62597",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -201,7 +201,7 @@
   {
     "ScientificName": "Aseraggodes holcomi",
     "SpecCode": "60812",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -210,7 +210,7 @@
   {
     "ScientificName": "Aseraggodes jenny",
     "SpecCode": "63030",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -228,7 +228,7 @@
   {
     "ScientificName": "Aseraggodes kimurai",
     "SpecCode": "63914",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -246,7 +246,7 @@
   {
     "ScientificName": "Aseraggodes kruppi",
     "SpecCode": "68442",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -255,7 +255,7 @@
   {
     "ScientificName": "Aseraggodes lateralis",
     "SpecCode": "62936",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -264,7 +264,7 @@
   {
     "ScientificName": "Aseraggodes lenisquamis",
     "SpecCode": "62938",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -283,7 +283,7 @@
   {
     "ScientificName": "Aseraggodes macronasus",
     "SpecCode": "68443",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -292,7 +292,7 @@
   {
     "ScientificName": "Aseraggodes magnoculus",
     "SpecCode": "62939",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -301,7 +301,7 @@
   {
     "ScientificName": "Aseraggodes martine",
     "SpecCode": "68444",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -328,7 +328,7 @@
   {
     "ScientificName": "Aseraggodes microlepidotus",
     "SpecCode": "61349",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -337,7 +337,7 @@
   {
     "ScientificName": "Aseraggodes nigrocirratus",
     "SpecCode": "62940",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -346,7 +346,7 @@
   {
     "ScientificName": "Aseraggodes normani",
     "SpecCode": "27584",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -355,7 +355,7 @@
   {
     "ScientificName": "Aseraggodes orientalis",
     "SpecCode": "64597",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -364,7 +364,7 @@
   {
     "ScientificName": "Aseraggodes pelvicus",
     "SpecCode": "62941",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -373,7 +373,7 @@
   {
     "ScientificName": "Aseraggodes ramsaii",
     "SpecCode": "61355",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -400,7 +400,7 @@
   {
     "ScientificName": "Aseraggodes sinusarabici",
     "SpecCode": "58956",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -409,7 +409,7 @@
   {
     "ScientificName": "Aseraggodes steinitzi",
     "SpecCode": "63031",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -427,7 +427,7 @@
   {
     "ScientificName": "Aseraggodes texturatus",
     "SpecCode": "61350",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -445,7 +445,7 @@
   {
     "ScientificName": "Aseraggodes umbratilis",
     "SpecCode": "63032",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

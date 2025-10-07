@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Propimelodus araguayae",
+    "SpecCode": "63510",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Propimelodus caesius",
+    "SpecCode": "63106",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Propimelodus eigenmanni",
+    "SpecCode": "58420",
+    "CommonName": "艾氏油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -51,7 +51,7 @@
   {
     "ScientificName": "Pseudomugil ivantsoffi",
     "SpecCode": "61821",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -115,7 +115,7 @@
   {
     "ScientificName": "Pseudomugil pellucidus",
     "SpecCode": "52461",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

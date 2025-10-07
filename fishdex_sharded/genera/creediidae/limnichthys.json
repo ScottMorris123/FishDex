@@ -11,7 +11,7 @@
   {
     "ScientificName": "Limnichthys marisrubri",
     "SpecCode": "66826",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Limnichthys rendahli",
     "SpecCode": "49316",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

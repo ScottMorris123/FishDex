@@ -29,7 +29,7 @@
   {
     "ScientificName": "Raiamas brachyrhabdotos",
     "SpecCode": "69134",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Raiamas marqueti",
     "SpecCode": "69133",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

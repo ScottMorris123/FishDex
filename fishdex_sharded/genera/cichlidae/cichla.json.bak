@@ -1,0 +1,138 @@
+[
+  {
+    "ScientificName": "Cichla intermedia",
+    "SpecCode": "46777",
+    "CommonName": "Pavón",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla jariina",
+    "SpecCode": "62996",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla kelberi",
+    "SpecCode": "62991",
+    "CommonName": "Tucunaré amarela",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla melaniae",
+    "SpecCode": "62988",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla mirianae",
+    "SpecCode": "62993",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla monoculus",
+    "SpecCode": "13270",
+    "CommonName": "Aboné",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla nigromaculata",
+    "SpecCode": "62989",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla ocellaris",
+    "SpecCode": "457",
+    "CommonName": "Aboné",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla orinocensis",
+    "SpecCode": "46779",
+    "CommonName": "Keltakikla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla pinima",
+    "SpecCode": "62997",
+    "CommonName": "Tucunaré pinima",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla piquiti",
+    "SpecCode": "62994",
+    "CommonName": "Tucunaré",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla pleiozona",
+    "SpecCode": "62992",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla temensis",
+    "SpecCode": "6461",
+    "CommonName": "Helmikikla",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla thyrorus",
+    "SpecCode": "62995",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cichla vazzoleri",
+    "SpecCode": "62998",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -20,7 +20,7 @@
   {
     "ScientificName": "Gymnapogon foraminosus",
     "SpecCode": "60374",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Gymnapogon janus",
     "SpecCode": "70518",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Gymnapogon melanogaster",
     "SpecCode": "60031",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Gobius ateriformis",
     "SpecCode": "58273",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -134,7 +134,7 @@
   {
     "ScientificName": "Gobius koseirensis",
     "SpecCode": "61336",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -143,7 +143,7 @@
   {
     "ScientificName": "Gobius leucomelas",
     "SpecCode": "61337",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -238,7 +238,7 @@
   {
     "ScientificName": "Gobius tetrophthalmus",
     "SpecCode": "58274",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -247,7 +247,7 @@
   {
     "ScientificName": "Gobius tropicus",
     "SpecCode": "63781",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

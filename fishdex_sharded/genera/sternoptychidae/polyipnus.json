@@ -128,7 +128,7 @@
   {
     "ScientificName": "Polyipnus limatulus",
     "SpecCode": "61158",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Polyipnus notatus",
     "SpecCode": "70224",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

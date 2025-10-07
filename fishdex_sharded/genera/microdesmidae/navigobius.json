@@ -11,7 +11,7 @@
   {
     "ScientificName": "Navigobius dewa",
     "SpecCode": "65259",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

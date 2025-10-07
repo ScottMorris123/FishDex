@@ -20,7 +20,7 @@
   {
     "ScientificName": "Halieutichthys caribbaeus",
     "SpecCode": "65848",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Halieutichthys intermedius",
     "SpecCode": "65850",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

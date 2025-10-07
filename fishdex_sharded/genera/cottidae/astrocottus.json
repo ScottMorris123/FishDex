@@ -30,7 +30,7 @@
   {
     "ScientificName": "Astrocottus regulus",
     "SpecCode": "64189",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

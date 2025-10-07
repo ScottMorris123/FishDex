@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Cetopsorhamdia boquillae",
+    "SpecCode": "47824",
+    "CommonName": "博奎尔鲸油鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetopsorhamdia filamentosa",
+    "SpecCode": "57680",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetopsorhamdia iheringi",
+    "SpecCode": "47828",
+    "CommonName": "Bagrinho",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetopsorhamdia insidiosa",
+    "SpecCode": "47820",
+    "CommonName": "巴西鯨油鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetopsorhamdia molinae",
+    "SpecCode": "47821",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetopsorhamdia nasus",
+    "SpecCode": "47822",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetopsorhamdia orinoco",
+    "SpecCode": "47825",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetopsorhamdia phantasia",
+    "SpecCode": "47826",
+    "CommonName": "Barbudo",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cetopsorhamdia picklei",
+    "SpecCode": "47827",
+    "CommonName": "Bagrecito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

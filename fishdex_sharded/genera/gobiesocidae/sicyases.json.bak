@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Sicyases brevirostris",
+    "SpecCode": "55731",
+    "CommonName": "短吻杯吸盘鱼",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyases hildebrandi",
+    "SpecCode": "60739",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sicyases sanguineus",
+    "SpecCode": "54507",
+    "CommonName": "Chalaco",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

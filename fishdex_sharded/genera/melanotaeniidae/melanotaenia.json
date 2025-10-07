@@ -29,7 +29,7 @@
   {
     "ScientificName": "Melanotaenia ammeri",
     "SpecCode": "64763",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Melanotaenia arguni",
     "SpecCode": "67378",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Melanotaenia bowmani",
     "SpecCode": "70143",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Melanotaenia dumasi",
     "SpecCode": "70458",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -173,7 +173,7 @@
   {
     "ScientificName": "Melanotaenia etnaensis",
     "SpecCode": "70198",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Melanotaenia fasinensis",
     "SpecCode": "65765",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -200,7 +200,7 @@
   {
     "ScientificName": "Melanotaenia flavipinnis",
     "SpecCode": "68884",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -227,7 +227,7 @@
   {
     "ScientificName": "Melanotaenia garylangei",
     "SpecCode": "68079",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Melanotaenia grunwaldi",
     "SpecCode": "69996",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -290,7 +290,7 @@
   {
     "ScientificName": "Melanotaenia jakora",
     "SpecCode": "70429",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -317,7 +317,7 @@
   {
     "ScientificName": "Melanotaenia klasioensis",
     "SpecCode": "69902",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -326,7 +326,7 @@
   {
     "ScientificName": "Melanotaenia kokasensis",
     "SpecCode": "64839",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -345,7 +345,7 @@
   {
     "ScientificName": "Melanotaenia lacunosa",
     "SpecCode": "70145",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -381,7 +381,7 @@
   {
     "ScientificName": "Melanotaenia longispina",
     "SpecCode": "69903",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -408,7 +408,7 @@
   {
     "ScientificName": "Melanotaenia mamahensis",
     "SpecCode": "69995",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -417,7 +417,7 @@
   {
     "ScientificName": "Melanotaenia manibuii",
     "SpecCode": "69905",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -471,7 +471,7 @@
   {
     "ScientificName": "Melanotaenia naramasae",
     "SpecCode": "69906",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -598,7 +598,7 @@
   {
     "ScientificName": "Melanotaenia rubrivittata",
     "SpecCode": "68009",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -616,7 +616,7 @@
   {
     "ScientificName": "Melanotaenia rumberponensis",
     "SpecCode": "69910",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -634,7 +634,7 @@
   {
     "ScientificName": "Melanotaenia salawati",
     "SpecCode": "66362",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -643,7 +643,7 @@
   {
     "ScientificName": "Melanotaenia sembrae",
     "SpecCode": "69909",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -670,7 +670,7 @@
   {
     "ScientificName": "Melanotaenia sikuensis",
     "SpecCode": "69914",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -706,7 +706,7 @@
   {
     "ScientificName": "Melanotaenia susii",
     "SpecCode": "69904",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -724,7 +724,7 @@
   {
     "ScientificName": "Melanotaenia synergos",
     "SpecCode": "63724",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -742,7 +742,7 @@
   {
     "ScientificName": "Melanotaenia urisa",
     "SpecCode": "67379",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -769,7 +769,7 @@
   {
     "ScientificName": "Melanotaenia veoliae",
     "SpecCode": "67380",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -778,7 +778,7 @@
   {
     "ScientificName": "Melanotaenia wanoma",
     "SpecCode": "67384",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

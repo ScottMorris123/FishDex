@@ -1,0 +1,229 @@
+[
+  {
+    "ScientificName": "Cathorops agassizii",
+    "SpecCode": "51594",
+    "CommonName": "Bagre gaivota",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops aguadulce",
+    "SpecCode": "54279",
+    "CommonName": "Aguadulce sea catfish",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops arenatus",
+    "SpecCode": "51595",
+    "CommonName": "砂海鯰",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops belizensis",
+    "SpecCode": "63689",
+    "CommonName": "Bagre de Belice",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops dasycephalus",
+    "SpecCode": "13472",
+    "CommonName": "Bagre barrigón",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops fuerthii",
+    "SpecCode": "13491",
+    "CommonName": "Bagre aguadulce",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops higuchii",
+    "SpecCode": "63690",
+    "CommonName": "Bagre de Higuchi",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops hypophthalmus",
+    "SpecCode": "13483",
+    "CommonName": "Bagre tristón",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops kailolae",
+    "SpecCode": "63691",
+    "CommonName": "Bagre de Kailola",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops liropus",
+    "SpecCode": "66220",
+    "CommonName": "Bagre conguito",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops manglarensis",
+    "SpecCode": "63492",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops mapale",
+    "SpecCode": "63325",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops melanopus",
+    "SpecCode": "51769",
+    "CommonName": "Bagre prieto",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops multiradiatus",
+    "SpecCode": "13492",
+    "CommonName": "Bagre",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops nuchalis",
+    "SpecCode": "60688",
+    "CommonName": "偏头海鲶",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops puncticulatus",
+    "SpecCode": "63446",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops raredonae",
+    "SpecCode": "65801",
+    "CommonName": "Bagre curadora",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops spixii",
+    "SpecCode": "960",
+    "CommonName": "Arius karaibski",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops steindachneri",
+    "SpecCode": "13495",
+    "CommonName": "Bagre baboso",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops taylori",
+    "SpecCode": "66477",
+    "CommonName": "Taylor's catfish",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops tuyra",
+    "SpecCode": "13502",
+    "CommonName": "Bagre besudo",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops variolosus",
+    "SpecCode": "60696",
+    "CommonName": "杂色海鲶",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Cathorops wayuu",
+    "SpecCode": "67120",
+    "CommonName": "Bagre cuinche",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

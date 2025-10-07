@@ -1,0 +1,112 @@
+[
+  {
+    "ScientificName": "Coryogalops adamsoni",
+    "SpecCode": "46392",
+    "CommonName": "Adamson's goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops anomolus",
+    "SpecCode": "46394",
+    "CommonName": "Anomolous goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops bretti",
+    "SpecCode": "59337",
+    "CommonName": "布氏真盔鰕虎魚",
+    "Environments": [
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops bulejiensis",
+    "SpecCode": "46395",
+    "CommonName": "Thinbarred goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops guttatus",
+    "SpecCode": "68614",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops monospilus",
+    "SpecCode": "46396",
+    "CommonName": "Onespot goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops nanus",
+    "SpecCode": "68445",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops ocheticus",
+    "SpecCode": "46338",
+    "CommonName": "Gobie de Port-Saïd",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops pseudomonospilus",
+    "SpecCode": "68613",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops sordidus",
+    "SpecCode": "22953",
+    "CommonName": "Epaulet-dikkop",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops tessellatus",
+    "SpecCode": "26677",
+    "CommonName": "方斑真盔鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Coryogalops william",
+    "SpecCode": "9972",
+    "CommonName": "Kaalpens goby",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

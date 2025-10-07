@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Grammoplites knappi",
+    "SpecCode": "15208",
+    "CommonName": "Baji Johor",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammoplites scaber",
+    "SpecCode": "10309",
+    "CommonName": "Baji kasar",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammoplites suppositus",
+    "SpecCode": "28128",
+    "CommonName": "Ahara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammoplites vittatus",
+    "SpecCode": "70494",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

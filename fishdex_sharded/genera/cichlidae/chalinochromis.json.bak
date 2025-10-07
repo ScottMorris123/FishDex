@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Chalinochromis brichardi",
+    "SpecCode": "8154",
+    "CommonName": "Bifrenatus",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chalinochromis cyanophleps",
+    "SpecCode": "67481",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Chalinochromis popelini",
+    "SpecCode": "8155",
+    "CommonName": "Juovaohjasahven",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

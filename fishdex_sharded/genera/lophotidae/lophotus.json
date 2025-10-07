@@ -29,7 +29,7 @@
   {
     "ScientificName": "Lophotus machadoi",
     "SpecCode": "70497",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

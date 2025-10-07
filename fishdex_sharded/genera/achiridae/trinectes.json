@@ -32,7 +32,7 @@
   {
     "ScientificName": "Trinectes hubbsbollinger",
     "SpecCode": "67073",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -92,7 +92,7 @@
   {
     "ScientificName": "Trinectes xanthurus",
     "SpecCode": "60305",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -110,7 +110,7 @@
   {
     "ScientificName": "Barbus fucini",
     "SpecCode": "69513",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -183,7 +183,7 @@
   {
     "ScientificName": "Barbus miliaris",
     "SpecCode": "68285",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -264,7 +264,7 @@
   {
     "ScientificName": "Barbus samniticus",
     "SpecCode": "69519",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

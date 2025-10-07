@@ -2,7 +2,7 @@
   {
     "ScientificName": "Pronothobranchius chirioi",
     "SpecCode": "68043",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Pronothobranchius gambiensis",
     "SpecCode": "68046",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -30,7 +30,7 @@
   {
     "ScientificName": "Pronothobranchius seymouri",
     "SpecCode": "68047",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

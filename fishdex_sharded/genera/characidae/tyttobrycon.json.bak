@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Tyttobrycon dorsimaculatus",
+    "SpecCode": "51214",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyttobrycon hamatus",
+    "SpecCode": "51217",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyttobrycon marajoara",
+    "SpecCode": "67236",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyttobrycon spinosus",
+    "SpecCode": "51215",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tyttobrycon xeruini",
+    "SpecCode": "51216",
+    "CommonName": "泰托啮脂鲤",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

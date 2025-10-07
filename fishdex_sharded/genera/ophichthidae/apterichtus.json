@@ -38,7 +38,7 @@
   {
     "ScientificName": "Apterichtus dunalailai",
     "SpecCode": "68163",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -83,7 +83,7 @@
   {
     "ScientificName": "Apterichtus jeffwilliamsi",
     "SpecCode": "68164",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Apterichtus malabar",
     "SpecCode": "68262",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Apterichtus mysi",
     "SpecCode": "68162",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Apterichtus nariculus",
     "SpecCode": "68263",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Apterichtus succinus",
     "SpecCode": "68167",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

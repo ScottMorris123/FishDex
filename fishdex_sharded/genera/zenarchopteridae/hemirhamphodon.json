@@ -2,7 +2,7 @@
   {
     "ScientificName": "Hemirhamphodon byssus",
     "SpecCode": "67144",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -31,7 +31,7 @@
   {
     "ScientificName": "Hemirhamphodon kecil",
     "SpecCode": "67145",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -69,7 +69,7 @@
   {
     "ScientificName": "Hemirhamphodon sesamum",
     "SpecCode": "67143",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

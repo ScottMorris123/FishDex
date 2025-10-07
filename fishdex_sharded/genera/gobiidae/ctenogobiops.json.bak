@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Ctenogobiops aurocingulus",
+    "SpecCode": "7237",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobiops crocineus",
+    "SpecCode": "66998",
+    "CommonName": "Hohosuji-shinobihaze",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobiops feroculus",
+    "SpecCode": "7238",
+    "CommonName": "Fierce shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobiops formosa",
+    "SpecCode": "61584",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobiops maculosus",
+    "SpecCode": "27561",
+    "CommonName": "Ruskotäpläraputokko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobiops mitodes",
+    "SpecCode": "63937",
+    "CommonName": "Thread shrimpgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobiops pomastictus",
+    "SpecCode": "7210",
+    "CommonName": "Bia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobiops tangaroai",
+    "SpecCode": "7211",
+    "CommonName": "Antenniraputokko",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ctenogobiops tongaensis",
+    "SpecCode": "65006",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

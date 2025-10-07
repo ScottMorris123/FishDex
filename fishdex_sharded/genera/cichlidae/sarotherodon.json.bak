@@ -1,0 +1,123 @@
+[
+  {
+    "ScientificName": "Sarotherodon caroli",
+    "SpecCode": "2026",
+    "CommonName": "Fissi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon caudomarginatus",
+    "SpecCode": "1449",
+    "CommonName": "Sinipyrstötilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon galilaeus",
+    "SpecCode": "1389",
+    "CommonName": "Akpahie",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon knauerae",
+    "SpecCode": "65922",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon lamprechti",
+    "SpecCode": "65923",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon linnellii",
+    "SpecCode": "1445",
+    "CommonName": "Blackbelly tilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon lohbergeri",
+    "SpecCode": "1442",
+    "CommonName": "Keppi",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon melanotheron",
+    "SpecCode": "1412",
+    "CommonName": "African sunfish",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon mvogoi",
+    "SpecCode": "2025",
+    "CommonName": "伏氏帚齒非鯽",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon nigripinnis",
+    "SpecCode": "2051",
+    "CommonName": "黑翅帚齒非鯽",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon occidentalis",
+    "SpecCode": "1414",
+    "CommonName": "Platinatilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon steinbachi",
+    "SpecCode": "1443",
+    "CommonName": "Kululu",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Sarotherodon tournieri",
+    "SpecCode": "2056",
+    "CommonName": "Messinkitilapia",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

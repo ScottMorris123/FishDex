@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Euclichthys microdorsalis",
+    "SpecCode": "69229",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euclichthys polynemus",
+    "SpecCode": "8096",
+    "CommonName": "Bearded cod",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Euclichthys robertsi",
+    "SpecCode": "69230",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

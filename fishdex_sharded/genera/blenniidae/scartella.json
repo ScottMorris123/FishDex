@@ -29,7 +29,7 @@
   {
     "ScientificName": "Scartella itajobi",
     "SpecCode": "64883",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Scartella poiti",
     "SpecCode": "62083",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Acrobrycon ortii",
     "SpecCode": "67891",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Acrobrycon starnesi",
     "SpecCode": "67890",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

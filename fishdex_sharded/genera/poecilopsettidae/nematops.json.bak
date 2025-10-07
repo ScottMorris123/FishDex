@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Nematops grandisquama",
+    "SpecCode": "15175",
+    "CommonName": "Large-scale righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematops macrochirus",
+    "SpecCode": "15176",
+    "CommonName": "Langfinnet flynder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematops microstoma",
+    "SpecCode": "15177",
+    "CommonName": "Small-mouth righteye flounder",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Nematops nanosquama",
+    "SpecCode": "63394",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

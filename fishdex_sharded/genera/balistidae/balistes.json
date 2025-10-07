@@ -11,7 +11,7 @@
   {
     "ScientificName": "Balistes ellioti",
     "SpecCode": "60555",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

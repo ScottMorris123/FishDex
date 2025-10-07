@@ -1,0 +1,23 @@
+[
+  {
+    "ScientificName": "Odonteleotris canina",
+    "SpecCode": "59871",
+    "CommonName": NaN,
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Odonteleotris macrodon",
+    "SpecCode": "25055",
+    "CommonName": "Gangetic sleeper",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Cranoglanis caolangensis",
     "SpecCode": "65676",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Cranoglanis henrici",
     "SpecCode": "59911",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Cranoglanis multiradiata",
     "SpecCode": "61492",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Cranoglanis songhongensis",
     "SpecCode": "65727",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

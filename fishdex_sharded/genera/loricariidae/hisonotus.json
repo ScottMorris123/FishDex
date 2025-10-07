@@ -2,7 +2,7 @@
   {
     "ScientificName": "Hisonotus acuen",
     "SpecCode": "67843",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Hisonotus aky",
     "SpecCode": "62606",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Hisonotus alberti",
     "SpecCode": "70183",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Hisonotus armatus",
     "SpecCode": "64654",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Hisonotus bocaiuva",
     "SpecCode": "67599",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Hisonotus bockmanni",
     "SpecCode": "67116",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Hisonotus brunneus",
     "SpecCode": "66014",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Hisonotus carreiro",
     "SpecCode": "66011",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Hisonotus charrua",
     "SpecCode": "63643",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Hisonotus chromodontus",
     "SpecCode": "63835",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -111,7 +111,7 @@
   {
     "ScientificName": "Hisonotus devidei",
     "SpecCode": "70184",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -121,7 +121,7 @@
   {
     "ScientificName": "Hisonotus dinizae",
     "SpecCode": "70185",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -139,7 +139,7 @@
   {
     "ScientificName": "Hisonotus heterogaster",
     "SpecCode": "66015",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -148,7 +148,7 @@
   {
     "ScientificName": "Hisonotus hungy",
     "SpecCode": "63573",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -157,7 +157,7 @@
   {
     "ScientificName": "Hisonotus iota",
     "SpecCode": "64930",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -184,7 +184,7 @@
   {
     "ScientificName": "Hisonotus leucophrys",
     "SpecCode": "64941",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -202,7 +202,7 @@
   {
     "ScientificName": "Hisonotus megaloplax",
     "SpecCode": "64942",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -211,7 +211,7 @@
   {
     "ScientificName": "Hisonotus montanus",
     "SpecCode": "64943",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -238,7 +238,7 @@
   {
     "ScientificName": "Hisonotus notopagos",
     "SpecCode": "66010",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -247,7 +247,7 @@
   {
     "ScientificName": "Hisonotus pachysarkos",
     "SpecCode": "70195",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -265,7 +265,7 @@
   {
     "ScientificName": "Hisonotus prata",
     "SpecCode": "66012",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -274,7 +274,7 @@
   {
     "ScientificName": "Hisonotus ringueleti",
     "SpecCode": "58327",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -292,7 +292,7 @@
   {
     "ScientificName": "Hisonotus thayeri",
     "SpecCode": "68210",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -301,7 +301,7 @@
   {
     "ScientificName": "Hisonotus vespuccii",
     "SpecCode": "68202",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -310,7 +310,7 @@
   {
     "ScientificName": "Hisonotus vireo",
     "SpecCode": "66013",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

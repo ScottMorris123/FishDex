@@ -1,0 +1,245 @@
+[
+  {
+    "ScientificName": "Entomacrodus cadenati",
+    "SpecCode": "22665",
+    "CommonName": "Patigal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus caudofasciatus",
+    "SpecCode": "6037",
+    "CommonName": "Aomonginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus chapmani",
+    "SpecCode": "55251",
+    "CommonName": "Chapman's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus chiostictus",
+    "SpecCode": "46791",
+    "CommonName": "Blenia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus corneliae",
+    "SpecCode": "58172",
+    "CommonName": "Cornelia's rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus cymatobiotus",
+    "SpecCode": "6038",
+    "CommonName": "Pacific rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus decussatus",
+    "SpecCode": "6039",
+    "CommonName": "Bleni alun",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus epalzeocheilos",
+    "SpecCode": "22835",
+    "CommonName": "Fraiinglip-klipspringer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus lemuria",
+    "SpecCode": "59472",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus lighti",
+    "SpecCode": "60080",
+    "CommonName": "Stellar Rockhopper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus longicirrus",
+    "SpecCode": "62918",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus macrospilus",
+    "SpecCode": "60082",
+    "CommonName": "Bigspot rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus marmoratus",
+    "SpecCode": "7831",
+    "CommonName": "Borracho marmóreo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus nigricans",
+    "SpecCode": "3756",
+    "CommonName": "Blénido de poza",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus niuafoouensis",
+    "SpecCode": "6040",
+    "CommonName": "Keshôginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus randalli",
+    "SpecCode": "60081",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus rofeni",
+    "SpecCode": "58174",
+    "CommonName": "Rofen's rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus sealei",
+    "SpecCode": "6041",
+    "CommonName": "Mano'o-fala",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus solus",
+    "SpecCode": "65522",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus stellifer",
+    "SpecCode": "6042",
+    "CommonName": "Hoshiginpo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus strasburgi",
+    "SpecCode": "58175",
+    "CommonName": "Strasburg's blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus striatus",
+    "SpecCode": "6043",
+    "CommonName": "Blackspotted rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus textilis",
+    "SpecCode": "22667",
+    "CommonName": "Textile blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus thalassinus",
+    "SpecCode": "6044",
+    "CommonName": "Goten-kaeru-uo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus vermiculatus",
+    "SpecCode": "25694",
+    "CommonName": "Digu-funna",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus vomerinus",
+    "SpecCode": "12939",
+    "CommonName": "Rockpool blenny",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomacrodus williamsi",
+    "SpecCode": "59471",
+    "CommonName": "William's rockskipper",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -164,7 +164,7 @@
   {
     "ScientificName": "Petrocephalus leo",
     "SpecCode": "68102",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

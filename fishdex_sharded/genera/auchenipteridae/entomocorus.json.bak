@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Entomocorus benjamini",
+    "SpecCode": "47665",
+    "CommonName": "Kuultonahkamonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomocorus gameroi",
+    "SpecCode": "47666",
+    "CommonName": "Blauer Schlafwels",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomocorus melaphareus",
+    "SpecCode": "61634",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Entomocorus radiosus",
+    "SpecCode": "62982",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Grammatostomias circularis",
+    "SpecCode": "11766",
+    "CommonName": "Sõõrlamp-märksuu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatostomias dentatus",
+    "SpecCode": "16502",
+    "CommonName": "Hammasmärksuu",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatostomias flagellibarba",
+    "SpecCode": "11768",
+    "CommonName": "Niitpoisur",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Grammatostomias ovatus",
+    "SpecCode": "69309",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

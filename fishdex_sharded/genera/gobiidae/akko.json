@@ -20,7 +20,7 @@
   {
     "ScientificName": "Akko rossi",
     "SpecCode": "62085",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

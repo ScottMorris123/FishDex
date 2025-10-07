@@ -75,7 +75,7 @@
   {
     "ScientificName": "Gymnura lessae",
     "SpecCode": "68412",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -121,7 +121,7 @@
   {
     "ScientificName": "Gymnura sereti",
     "SpecCode": "68413",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

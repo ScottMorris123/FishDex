@@ -1,0 +1,76 @@
+[
+  {
+    "ScientificName": "Membras analis",
+    "SpecCode": "7524",
+    "CommonName": "Athérine lacunaire",
+    "Environments": [
+      "fresh",
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Membras argentea",
+    "SpecCode": "57840",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Membras dissimilis",
+    "SpecCode": "64893",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Membras gilberti",
+    "SpecCode": "13525",
+    "CommonName": "Athérine landia",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Membras martinica",
+    "SpecCode": "3240",
+    "CommonName": "Pejerrey rasposo",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Membras procera",
+    "SpecCode": "69788",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Membras pygmaea",
+    "SpecCode": "69787",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Membras vagrans",
+    "SpecCode": "53613",
+    "CommonName": "粗糙銀漢魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

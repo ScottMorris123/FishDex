@@ -74,7 +74,7 @@
   {
     "ScientificName": "Coris centralis",
     "SpecCode": "55260",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Coris hewetti",
     "SpecCode": "55344",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -155,7 +155,7 @@
   {
     "ScientificName": "Coris latifasciata",
     "SpecCode": "66974",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Coris marquesensis",
     "SpecCode": "55347",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Coris roseoviridis",
     "SpecCode": "55349",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

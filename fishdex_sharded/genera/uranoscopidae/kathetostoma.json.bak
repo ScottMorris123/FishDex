@@ -1,0 +1,83 @@
+[
+  {
+    "ScientificName": "Kathetostoma albigutta",
+    "SpecCode": "3706",
+    "CommonName": "Lancer stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kathetostoma averruncus",
+    "SpecCode": "3707",
+    "CommonName": "Buldog",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kathetostoma binigrasella",
+    "SpecCode": "65946",
+    "CommonName": "Banded stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kathetostoma canaster",
+    "SpecCode": "56514",
+    "CommonName": "Speckled stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kathetostoma cubanum",
+    "SpecCode": "7496",
+    "CommonName": "Marbled Stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kathetostoma fluviatilis",
+    "SpecCode": "61206",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kathetostoma giganteum",
+    "SpecCode": "12920",
+    "CommonName": "Giant stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kathetostoma laeve",
+    "SpecCode": "14434",
+    "CommonName": "Banded stonelifter",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Kathetostoma nigrofasciatum",
+    "SpecCode": "14435",
+    "CommonName": "Blackbanded stargazer",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

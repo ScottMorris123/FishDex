@@ -220,7 +220,7 @@
   {
     "ScientificName": "Xiphophorus roseni",
     "SpecCode": "61813",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

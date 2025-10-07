@@ -1,0 +1,47 @@
+[
+  {
+    "ScientificName": "Ochmacanthus alternus",
+    "SpecCode": "48776",
+    "CommonName": "Kuvioloismonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ochmacanthus batrachostomus",
+    "SpecCode": "58381",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ochmacanthus flabelliferus",
+    "SpecCode": "48117",
+    "CommonName": "Kuultoloismonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ochmacanthus orinoco",
+    "SpecCode": "48777",
+    "CommonName": "Linjaloismonni",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Ochmacanthus reinhardtii",
+    "SpecCode": "48778",
+    "CommonName": "Cambeva",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

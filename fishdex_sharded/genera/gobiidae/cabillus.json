@@ -2,7 +2,7 @@
   {
     "ScientificName": "Cabillus atripelvicus",
     "SpecCode": "63380",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Cabillus caudimacula",
     "SpecCode": "63430",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Cabillus nigromarginatus",
     "SpecCode": "70063",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Cabillus nigrostigmus",
     "SpecCode": "70062",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

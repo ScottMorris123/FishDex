@@ -11,7 +11,7 @@
   {
     "ScientificName": "Cocotropus astakhovi",
     "SpecCode": "65997",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Cocotropus aurantius",
     "SpecCode": "70305",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Cocotropus eksae",
     "SpecCode": "66004",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -119,7 +119,7 @@
   {
     "ScientificName": "Cocotropus richeri",
     "SpecCode": "64753",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -128,7 +128,7 @@
   {
     "ScientificName": "Cocotropus roseomaculatus",
     "SpecCode": "64096",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

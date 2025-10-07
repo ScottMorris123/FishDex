@@ -2,7 +2,7 @@
   {
     "ScientificName": "Bathygobius aeolosoma",
     "SpecCode": "61320",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -39,7 +39,7 @@
   {
     "ScientificName": "Bathygobius burtoni",
     "SpecCode": "22729",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -48,7 +48,7 @@
   {
     "ScientificName": "Bathygobius casamancus",
     "SpecCode": "9923",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -163,7 +163,7 @@
   {
     "ScientificName": "Bathygobius lacertus",
     "SpecCode": "67263",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -229,7 +229,7 @@
   {
     "ScientificName": "Bathygobius panayensis",
     "SpecCode": "59236",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -257,7 +257,7 @@
   {
     "ScientificName": "Bathygobius smithi",
     "SpecCode": "62158",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

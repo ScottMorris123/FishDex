@@ -21,7 +21,7 @@
   {
     "ScientificName": "Plectorhinchus centurio",
     "SpecCode": "65001",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -85,7 +85,7 @@
   {
     "ScientificName": "Plectorhinchus faetela",
     "SpecCode": "60766",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -160,7 +160,7 @@
   {
     "ScientificName": "Plectorhinchus makranensis",
     "SpecCode": "69950",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

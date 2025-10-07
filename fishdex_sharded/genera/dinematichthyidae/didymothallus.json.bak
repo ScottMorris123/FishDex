@@ -1,0 +1,38 @@
+[
+  {
+    "ScientificName": "Didymothallus criniceps",
+    "SpecCode": "64476",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Didymothallus mizolepis",
+    "SpecCode": "24965",
+    "CommonName": "Smalleye cusk",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Didymothallus nudigena",
+    "SpecCode": "66399",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Didymothallus pruvosti",
+    "SpecCode": "64477",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

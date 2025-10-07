@@ -47,7 +47,7 @@
   {
     "ScientificName": "Malakichthys similis",
     "SpecCode": "64093",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

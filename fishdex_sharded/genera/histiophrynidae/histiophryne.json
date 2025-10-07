@@ -29,7 +29,7 @@
   {
     "ScientificName": "Histiophryne pogonia",
     "SpecCode": "66569",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

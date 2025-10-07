@@ -65,7 +65,7 @@
   {
     "ScientificName": "Astronesthes decoratus",
     "SpecCode": "61114",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Astronesthes dupliglandis",
     "SpecCode": "51678",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -101,7 +101,7 @@
   {
     "ScientificName": "Astronesthes formosanus",
     "SpecCode": "63987",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -110,7 +110,7 @@
   {
     "ScientificName": "Astronesthes galapagensis",
     "SpecCode": "56510",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -137,7 +137,7 @@
   {
     "ScientificName": "Astronesthes gudrunae",
     "SpecCode": "61116",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -146,7 +146,7 @@
   {
     "ScientificName": "Astronesthes haplophos",
     "SpecCode": "61117",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Astronesthes illuminatus",
     "SpecCode": "56509",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -191,7 +191,7 @@
   {
     "ScientificName": "Astronesthes karsteni",
     "SpecCode": "61118",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -209,7 +209,7 @@
   {
     "ScientificName": "Astronesthes lamellosus",
     "SpecCode": "51677",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -218,7 +218,7 @@
   {
     "ScientificName": "Astronesthes lampara",
     "SpecCode": "50566",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -254,7 +254,7 @@
   {
     "ScientificName": "Astronesthes luetkeni",
     "SpecCode": "50556",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -326,7 +326,7 @@
   {
     "ScientificName": "Astronesthes oligoa",
     "SpecCode": "61119",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -371,7 +371,7 @@
   {
     "ScientificName": "Astronesthes spatulifer",
     "SpecCode": "61120",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -389,7 +389,7 @@
   {
     "ScientificName": "Astronesthes tanibe",
     "SpecCode": "59918",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -398,7 +398,7 @@
   {
     "ScientificName": "Astronesthes tatyanae",
     "SpecCode": "50560",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -434,7 +434,7 @@
   {
     "ScientificName": "Astronesthes zharovi",
     "SpecCode": "61152",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,29 @@
+[
+  {
+    "ScientificName": "Hemipsilichthys gobio",
+    "SpecCode": "48854",
+    "CommonName": "Anhã",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemipsilichthys nimius",
+    "SpecCode": "61552",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Hemipsilichthys papillatus",
+    "SpecCode": "58404",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

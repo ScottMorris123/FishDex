@@ -65,7 +65,7 @@
   {
     "ScientificName": "Hemiodus iratapuru",
     "SpecCode": "67029",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -74,7 +74,7 @@
   {
     "ScientificName": "Hemiodus jatuarana",
     "SpecCode": "62070",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -164,7 +164,7 @@
   {
     "ScientificName": "Hemiodus tocantinensis",
     "SpecCode": "55448",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -182,7 +182,7 @@
   {
     "ScientificName": "Hemiodus vorderwinkleri",
     "SpecCode": "55450",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

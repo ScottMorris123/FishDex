@@ -2,7 +2,7 @@
   {
     "ScientificName": "Stenogobius alleni",
     "SpecCode": "58657",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -21,7 +21,7 @@
   {
     "ScientificName": "Stenogobius blokzeyli",
     "SpecCode": "25111",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",
@@ -41,7 +41,7 @@
   {
     "ScientificName": "Stenogobius fehlmanni",
     "SpecCode": "58613",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish",
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Stenogobius hoesei",
     "SpecCode": "58614",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -121,7 +121,7 @@
   {
     "ScientificName": "Stenogobius kyphosus",
     "SpecCode": "27575",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -158,7 +158,7 @@
   {
     "ScientificName": "Stenogobius marinus",
     "SpecCode": "58641",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "brackish",
       "salt"
@@ -233,7 +233,7 @@
   {
     "ScientificName": "Stenogobius watsoni",
     "SpecCode": "64167",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

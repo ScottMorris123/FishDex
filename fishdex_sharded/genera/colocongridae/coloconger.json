@@ -65,7 +65,7 @@
   {
     "ScientificName": "Coloconger saldanhai",
     "SpecCode": "70476",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

@@ -1,0 +1,39 @@
+[
+  {
+    "ScientificName": "Amblygaster clupeoides",
+    "SpecCode": "1499",
+    "CommonName": "Bleeker smoothbelly sardinella",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygaster indiana",
+    "SpecCode": "68475",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygaster leiogaster",
+    "SpecCode": "1500",
+    "CommonName": "Almindelig glatmavesardin",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Amblygaster sirm",
+    "SpecCode": "1501",
+    "CommonName": "Ampiny",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -11,7 +11,7 @@
   {
     "ScientificName": "Guyanancistrus brownsbergensis",
     "SpecCode": "68689",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -20,7 +20,7 @@
   {
     "ScientificName": "Guyanancistrus megastictus",
     "SpecCode": "68693",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Guyanancistrus nassauensis",
     "SpecCode": "68688",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -38,7 +38,7 @@
   {
     "ScientificName": "Guyanancistrus tenuis",
     "SpecCode": "68692",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Guyanancistrus teretirostris",
     "SpecCode": "68690",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

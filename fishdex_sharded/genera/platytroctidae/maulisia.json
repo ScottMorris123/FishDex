@@ -20,7 +20,7 @@
   {
     "ScientificName": "Maulisia isaacsi",
     "SpecCode": "59108",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

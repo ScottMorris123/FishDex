@@ -1,0 +1,86 @@
+[
+  {
+    "ScientificName": "Tetraodon barbatus",
+    "SpecCode": "67509",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetraodon duboisi",
+    "SpecCode": "10102",
+    "CommonName": "Sukapallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetraodon implutus",
+    "SpecCode": "26331",
+    "CommonName": "羞魨",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetraodon lineatus",
+    "SpecCode": "5466",
+    "CommonName": "Afrikansk kuglefisk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetraodon mbu",
+    "SpecCode": "10103",
+    "CommonName": "Congo-kuglefisk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetraodon miurus",
+    "SpecCode": "10104",
+    "CommonName": "Brauner Kugelfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetraodon pustulatus",
+    "SpecCode": "5142",
+    "CommonName": "Blodplettet kuglefisk",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetraodon schoutedeni",
+    "SpecCode": "10105",
+    "CommonName": "Kongokugelfisch",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Tetraodon waandersii",
+    "SpecCode": "25181",
+    "CommonName": "Juomupallokala",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  }
+]

@@ -38,7 +38,7 @@
   {
     "ScientificName": "Lepidiolamprologus kamambae",
     "SpecCode": "66707",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -65,7 +65,7 @@
   {
     "ScientificName": "Lepidiolamprologus mimicus",
     "SpecCode": "64225",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

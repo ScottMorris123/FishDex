@@ -1,0 +1,75 @@
+[
+  {
+    "ScientificName": "Pseudoplatystoma corruscans",
+    "SpecCode": "8674",
+    "CommonName": "Bagre rajado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplatystoma fasciatum",
+    "SpecCode": "6410",
+    "CommonName": "Bagre rayado",
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplatystoma magdaleniatum",
+    "SpecCode": "63539",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplatystoma metaense",
+    "SpecCode": "63538",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplatystoma orinocoense",
+    "SpecCode": "63537",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplatystoma punctifer",
+    "SpecCode": "68633",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplatystoma reticulatum",
+    "SpecCode": "66249",
+    "CommonName": NaN,
+    "Environments": [
+      "fresh"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pseudoplatystoma tigrinum",
+    "SpecCode": "8695",
+    "CommonName": "Bagre rayado",
+    "Environments": [
+      "fresh",
+      "brackish"
+    ],
+    "Subspecies": []
+  }
+]

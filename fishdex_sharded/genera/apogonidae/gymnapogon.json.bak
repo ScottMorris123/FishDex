@@ -1,0 +1,92 @@
+[
+  {
+    "ScientificName": "Gymnapogon africanus",
+    "SpecCode": "16890",
+    "CommonName": "Crystal cardinal",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnapogon annona",
+    "SpecCode": "14871",
+    "CommonName": "Naked cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnapogon foraminosus",
+    "SpecCode": "60374",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnapogon janus",
+    "SpecCode": "70518",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnapogon japonicus",
+    "SpecCode": "10746",
+    "CommonName": "Dangat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnapogon melanogaster",
+    "SpecCode": "60031",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnapogon philippinus",
+    "SpecCode": "5786",
+    "CommonName": "Dangat",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnapogon urospilotus",
+    "SpecCode": "5787",
+    "CommonName": "B-spot cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnapogon vanderbilti",
+    "SpecCode": "59175",
+    "CommonName": "Vanderbilt's cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Gymnapogon velum",
+    "SpecCode": "69237",
+    "CommonName": "Highfin cardinalfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

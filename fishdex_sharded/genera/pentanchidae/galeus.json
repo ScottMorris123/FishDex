@@ -38,7 +38,7 @@
   {
     "ScientificName": "Galeus corriganae",
     "SpecCode": "68476",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

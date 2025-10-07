@@ -2,7 +2,7 @@
   {
     "ScientificName": "Redigobius amblyrhynchus",
     "SpecCode": "25094",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -84,7 +84,7 @@
   {
     "ScientificName": "Redigobius lekutu",
     "SpecCode": "65744",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -93,7 +93,7 @@
   {
     "ScientificName": "Redigobius leveri",
     "SpecCode": "66714",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -113,7 +113,7 @@
   {
     "ScientificName": "Redigobius nanus",
     "SpecCode": "65745",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh",
       "brackish"
@@ -123,7 +123,7 @@
   {
     "ScientificName": "Redigobius oyensi",
     "SpecCode": "66716",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -132,7 +132,7 @@
   {
     "ScientificName": "Redigobius penango",
     "SpecCode": "25090",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

@@ -131,7 +131,7 @@
   {
     "ScientificName": "Craterocephalus laisapi",
     "SpecCode": "62746",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

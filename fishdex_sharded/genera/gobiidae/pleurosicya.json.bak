@@ -1,0 +1,165 @@
+[
+  {
+    "ScientificName": "Pleurosicya annandalei",
+    "SpecCode": "23010",
+    "CommonName": "Scalynape goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya australis",
+    "SpecCode": "59334",
+    "CommonName": "澳洲腹瓢鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya bilobata",
+    "SpecCode": "22490",
+    "CommonName": "Bilobed ghost goby",
+    "Environments": [
+      "brackish",
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya boldinghi",
+    "SpecCode": "26319",
+    "CommonName": "Boldingh's ghostgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya carolinensis",
+    "SpecCode": "56838",
+    "CommonName": "Caroline Islands ghost goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya coerulea",
+    "SpecCode": "56839",
+    "CommonName": "Blue coral ghost goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya elongata",
+    "SpecCode": "11618",
+    "CommonName": "Cling goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya fringilla",
+    "SpecCode": "26318",
+    "CommonName": "Staghorn ghostgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya labiata",
+    "SpecCode": "59437",
+    "CommonName": "Barrel-sponge ghostgoby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya larsonae",
+    "SpecCode": "63431",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya micheli",
+    "SpecCode": "25509",
+    "CommonName": "Belodok kaca",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya mossambica",
+    "SpecCode": "23079",
+    "CommonName": "Common ghost goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya muscarum",
+    "SpecCode": "22491",
+    "CommonName": "Ghost goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya occidentalis",
+    "SpecCode": "59959",
+    "CommonName": "西岸腹瓢鰕虎魚",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya plicata",
+    "SpecCode": "27570",
+    "CommonName": "Lobed ghost goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya prognatha",
+    "SpecCode": "56468",
+    "CommonName": "Beaky acropora goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya sinaia",
+    "SpecCode": "65421",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Pleurosicya spongicola",
+    "SpecCode": "59360",
+    "CommonName": "Short-nose cling-goby",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

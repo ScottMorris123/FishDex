@@ -38,7 +38,7 @@
   {
     "ScientificName": "Tilapia pra",
     "SpecCode": "65621",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

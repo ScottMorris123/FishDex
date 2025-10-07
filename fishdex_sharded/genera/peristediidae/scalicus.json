@@ -20,7 +20,7 @@
   {
     "ScientificName": "Scalicus gilberti",
     "SpecCode": "67037",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

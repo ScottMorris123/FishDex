@@ -20,7 +20,7 @@
   {
     "ScientificName": "Centrodraco atrifilum",
     "SpecCode": "65486",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -29,7 +29,7 @@
   {
     "ScientificName": "Centrodraco fidelis",
     "SpecCode": "67935",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -56,7 +56,7 @@
   {
     "ScientificName": "Centrodraco lineatus",
     "SpecCode": "28091",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

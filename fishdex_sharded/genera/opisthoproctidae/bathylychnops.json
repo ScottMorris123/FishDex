@@ -2,7 +2,7 @@
   {
     "ScientificName": "Bathylychnops brachyrhynchus",
     "SpecCode": "52694",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],
@@ -11,7 +11,7 @@
   {
     "ScientificName": "Bathylychnops chilensis",
     "SpecCode": "65555",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

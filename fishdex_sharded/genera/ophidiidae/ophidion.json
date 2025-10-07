@@ -209,7 +209,7 @@
   {
     "ScientificName": "Ophidion saldanhai",
     "SpecCode": "56309",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "salt"
     ],

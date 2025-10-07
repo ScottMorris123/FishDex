@@ -20,7 +20,7 @@
   {
     "ScientificName": "Poropanchax pepo",
     "SpecCode": "69075",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],
@@ -47,7 +47,7 @@
   {
     "ScientificName": "Poropanchax stigmatopygus",
     "SpecCode": "62026",
-    "CommonName": NaN,
+    "CommonName": null,
     "Environments": [
       "fresh"
     ],

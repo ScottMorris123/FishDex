@@ -1,0 +1,65 @@
+[
+  {
+    "ScientificName": "Xanthichthys auromarginatus",
+    "SpecCode": "6030",
+    "CommonName": "Ampapagot",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xanthichthys caeruleolineatus",
+    "SpecCode": "6359",
+    "CommonName": "Aosujimongara",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xanthichthys greenei",
+    "SpecCode": "68977",
+    "CommonName": "Greene's triggerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xanthichthys lima",
+    "SpecCode": "62159",
+    "CommonName": NaN,
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xanthichthys lineopunctatus",
+    "SpecCode": "6944",
+    "CommonName": "Brown-lined triggerfish",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xanthichthys mento",
+    "SpecCode": "4284",
+    "CommonName": "Ayam laut",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  },
+  {
+    "ScientificName": "Xanthichthys ringens",
+    "SpecCode": "4285",
+    "CommonName": "Bus wada",
+    "Environments": [
+      "salt"
+    ],
+    "Subspecies": []
+  }
+]

@@ -7,35 +7,29 @@
   <title>FishDex</title>
   <link rel="manifest" href="./manifest.webmanifest">
   <style>
-    :root{
-      --bg:#0b0f14; --bg2:#0e1116; --text:#e6edf3; --muted:#a1abb5;
-      --accent:#3aa675; --accent-2:#2f7e59; --card:#121821; --border:#1e2633;
-      --pill:#1a222e; --btn:#16202c; --danger:#c64545;
-    }
-    *{box-sizing:border-box} html,body{height:100%}
-    body{margin:0;color:var(--text);background:linear-gradient(180deg,#0b0f14,#0a121a);
-      font:14px/1.35 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial}
+    :root{--bg:#0b0f14;--bg2:#0e1116;--text:#e6edf3;--muted:#a1abb5;--accent:#3aa675;--accent-2:#2f7e59;--card:#121821;--border:#1e2633;--pill:#1a222e;--btn:#16202c;--danger:#c64545}
+    *{box-sizing:border-box}html,body{height:100%}
+    body{margin:0;color:var(--text);background:linear-gradient(180deg,#0b0f14,#0a121a);font:14px/1.35 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial}
     a{color:inherit}
     header{position:sticky;top:0;z-index:5;background:rgba(10,16,23,.9);backdrop-filter:blur(6px);border-bottom:1px solid var(--border)}
     .bar{display:flex;align-items:center;gap:10px;padding:10px 16px}
-    .title{font-weight:700;letter-spacing:.2px}
-    .spacer{flex:1}
+    .title{font-weight:700;letter-spacing:.2px}.spacer{flex:1}
     .btn{background:var(--btn);color:var(--text);border:1px solid var(--border);padding:8px 10px;border-radius:10px;cursor:pointer}
-    .btn:hover{filter:brightness(1.08)} .btn.ghost{background:transparent}
+    .btn:hover{filter:brightness(1.08)}.btn.ghost{background:transparent}
     .pill{display:inline-block;padding:4px 8px;border-radius:999px;background:var(--pill);border:1px solid var(--border);color:var(--muted);font-size:12px;margin-left:6px}
-    .muted{color:var(--muted)} .wrap{max-width:1100px;margin:0 auto}
+    .muted{color:var(--muted)}.wrap{max-width:1100px;margin:0 auto}
     .toolbar{display:flex;flex-wrap:wrap;gap:10px;padding:10px 16px;border-top:1px solid var(--border);background:var(--bg2)}
     select,input[type="text"]{background:var(--card);color:var(--text);border:1px solid var(--border);padding:8px 10px;border-radius:10px;outline:none;min-width:150px}
-    input[type="text"]{min-width:120px} main{padding:16px}
-    #crumbs{color:var(--muted);padding:8px 16px} #counts{padding:0 16px 12px;color:var(--muted)}
+    input[type="text"]{min-width:120px}main{padding:16px}
+    #crumbs{color:var(--muted);padding:8px 16px}#counts{padding:0 16px 12px;color:var(--muted)}
     .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;padding:6px 8px}
     .card{display:block;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px;text-decoration:none}
     .card:hover{border-color:#2a3547;box-shadow:0 0 0 1px #2a3547}
     .card .title{font-size:16px;margin:0 0 6px}
     .item{display:flex;align-items:center;gap:10px;border:1px solid var(--border);border-radius:14px;padding:10px;margin:8px 16px;background:var(--card)}
-    .item .check{scale:1.2} .item .sp{flex:1}
-    .item .sp .title{font-size:15px;margin-bottom:4px} .item .sp .sub{color:var(--muted);font-size:12px}
-    footer{padding:24px;color:var(--muted);text-align:center} .danger{color:var(--danger)}
+    .item .check{scale:1.2}.item .sp{flex:1}
+    .item .sp .title{font-size:15px;margin-bottom:4px}.item .sp .sub{color:var(--muted);font-size:12px}
+    footer{padding:24px;color:var(--muted);text-align:center}.danger{color:var(--danger)}
     @media (max-width:720px){.bar{flex-wrap:wrap}.toolbar{gap:8px}}
   </style>
 </head>
@@ -104,7 +98,7 @@ async function jget(path){
   return data;
 }
 
-/* ---------- filters in URL ---------- */
+/* ---------- URL filters ---------- */
 function parseQuery(qs){
   const p = new URLSearchParams(qs || '');
   return {
@@ -112,7 +106,8 @@ function parseQuery(qs){
     cont: p.get('cont') || '',
     country: (p.get('country')||'').toUpperCase(),
     state: (p.get('state')||'').toUpperCase(),
-    q: p.get('q') || ''
+    q: p.get('q') || '',
+    path: p.get('path') || '' // <-- override fetch path for genus
   };
 }
 function buildQuery(obj){
@@ -122,6 +117,7 @@ function buildQuery(obj){
   if (obj.country) p.set('country', obj.country.toUpperCase());
   if (obj.state) p.set('state', obj.state.toUpperCase());
   if (obj.q) p.set('q', obj.q);
+  if (obj.path) p.set('path', obj.path);
   const s = p.toString();
   return s ? `?${s}` : '';
 }
@@ -249,7 +245,7 @@ async function renderFamilies(){
 
   let fams = [];
   try{
-    fams = await jget('index/families.json');
+    fams = await jget('index/families.json'); // array with family_index_path
   }catch(e){
     view.innerHTML = `
       <div class="wrap">
@@ -259,18 +255,23 @@ async function renderFamilies(){
     countsEl.textContent = '0 caught / 0 total';
     return;
   }
+
   view.innerHTML = `
     <div class="grid">
-      ${fams.map(F => `
-        <a class="card" href="#/family/${slug(F.Family)}${buildQuery(f)}">
-          <h3 class="title">${F.Family}${F.Common?` — ${F.Common}`:''}</h3>
-          <div class="muted">
-            ${pill(`Order: ${F.Order}`)}
-            ${pill(`${F.GeneraCount ?? '—'} genera`)}
-            ${pill(`${F.SpeciesCount ?? '—'} species`)}
-          </div>
-        </a>
-      `).join('')}
+      ${fams.map(F => {
+        // Prefer path-derived slug to avoid casing issues
+        const famSlugFromPath = (F.family_index_path||'').split('/')[1] || slug(F.Family);
+        return `
+          <a class="card" href="#/family/${famSlugFromPath}${buildQuery(f)}">
+            <h3 class="title">${F.Family}${F.Common?` — ${F.Common}`:''}</h3>
+            <div class="muted">
+              ${pill(`Order: ${F.Order}`)}
+              ${pill(`${F.GeneraCount ?? '—'} genera`)}
+              ${pill(`${F.SpeciesCount ?? '—'} species`)}
+            </div>
+          </a>
+        `;
+      }).join('')}
     </div>
   `;
   countsEl.textContent = '0 caught / 0 total';
@@ -296,12 +297,17 @@ async function renderFamily(famSlug){
         ${fam.Order ? `<span class="pill">Order: ${fam.Order}</span>` : ''}
       </div>
       <div class="grid">
-        ${(fam.Genera||[]).map(G => `
-          <a class="card" href="#/genus/${slug(fam.Family)}/${slug(G.Genus)}${buildQuery(f)}">
-            <h3 class="title"><i>${G.Genus}</i></h3>
-            <div class="muted">${G.SpeciesCount ?? '—'} species</div>
-          </a>
-        `).join('')}
+        ${(fam.Genera||[]).map(G => {
+          // Prefer exact path if provided
+          const path = G.genus_path || `genera/${slug(fam.Family)}/${slug(G.Genus)}.json`;
+          const encoded = encodeURIComponent(path);
+          return `
+            <a class="card" href="#/genus/${slug(fam.Family)}/${slug(G.Genus)}${buildQuery({...f, path: encoded})}">
+              <h3 class="title"><i>${G.Genus}</i></h3>
+              <div class="muted">${G.SpeciesCount ?? '—'} species</div>
+            </a>
+          `;
+        }).join('')}
       </div>
     </div>
   `;
@@ -310,11 +316,16 @@ async function renderFamily(famSlug){
 
 async function renderGenus(famSlug, genusSlug){
   const f = readFiltersFromURL();
+
+  // If a precise path is provided (from families/<family>/index.json), use it.
+  const overridePath = f.path ? decodeURIComponent(f.path) : '';
+  const relPath = overridePath || `genera/${famSlug}/${genusSlug}.json`;
+
   let species = [];
   try{
-    species = await jget(`genera/${famSlug}/${genusSlug}.json`);
+    species = await jget(relPath);
   }catch(e){
-    view.innerHTML = `<p class="danger">Missing genus file: <code>fishdex_sharded/genera/${famSlug}/${genusSlug}.json</code></p>`;
+    view.innerHTML = `<p class="danger">Missing genus file: <code>fishdex_sharded/${relPath}</code></p>`;
     countsEl.textContent = '0 caught / 0 total';
     return;
   }
@@ -340,7 +351,7 @@ async function renderGenus(famSlug, genusSlug){
   view.innerHTML = `
     <div class="wrap" style="padding-top:10px">
       <div style="display:flex;gap:10px;align-items:center;margin:0 18px 6px">
-        <a class="btn ghost" href="#/family/${famSlug}${buildQuery(f)}">← Back</a>
+        <a class="btn ghost" href="#/family/${famSlug}${buildQuery({...f, path:''})}">← Back</a>
         <span class="pill"><i>${unslug(genusSlug)}</i></span>
       </div>
       <div id="list" class="wrap">
@@ -396,4 +407,3 @@ if('serviceWorker' in navigator){ window.addEventListener('load', ()=> navigator
   </script>
 </body>
 </html>
-
